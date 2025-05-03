@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Gallium−Sulfide Supertetrahedral Clusters as Building Blocks of Covalent Organic−Inorganic Networks",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Paz Vaqueiro and M. Lucia Romero",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of materials does the article focus on synthesizing?",
+      "answer": "Covalent organic−inorganic architectures containing organically functionalized supertetrahedra",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 1,2-di(4-pyridyl)ethylene (DPE) in the synthesis process?",
+      "answer": "DPE acts as a linker between gallium−sulfide supertetrahedral clusters.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of clusters are used as building units in the materials synthesized?",
+      "answer": "Supertetrahedral clusters",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated band gap for compound 1?",
+      "answer": "3.3 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the organic components in the hybrid materials?",
+      "answer": "The organic components interact at the microscopic level with the inorganic components, potentially giving rise to unique optical and photochemical properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of compound 1 differ from that of compound 2?",
+      "answer": "Compound 1 contains one-dimensional zigzag chains, while compound 2 has a honeycomb-type topology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are protonated amine cations assumed to be located within the crystal structure cavities?",
+      "answer": "Because the chains are anionic and the crystal structure contains a significant amount of void space.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the dipyridyl ligands in the structure of compound 2?",
+      "answer": "They act as linkers between the supertetrahedral clusters, forming covalent organic−inorganic layers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of organically functionalized supertetrahedra limited to gallium-sulfide systems?",
+      "answer": "No, the synthesis approach can potentially be applied to other metal−chalcogenide tetrahedral clusters.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the composition and structure of the clusters and organic ligands be tuned?",
+      "answer": "Yes, they can be tuned to optimize desirable properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis described in the article has been previously applied to metal−chalcogenide tetrahedral clusters.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The materials synthesized are soluble in common solvents like water, DMF, or THF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The optical behavior of the synthesized phases is unique and not comparable to any known materials.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of compound 2 contains no solvent accessible void space.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 and compound 2 involves the use of the same solvent.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The thermal stability of compound 1 is higher than that of compound 2.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of the materials reported in the article requires high temperature and pressure conditions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The optical absorption spectra band gaps for compounds 1 and 2 are the same.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

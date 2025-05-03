@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the robust metal-organic open framework reported?",
+      "answer": "[Ni(cyclam)(bpydc)]·5 H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of the reported metal-organic framework?",
+      "answer": "817 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature is the framework thermally stable up to?",
+      "answer": "300 8C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework adsorb H2 gas?",
+      "answer": "Yes, it adsorbs H2 gas up to 1.1 wt % at 77 K and 1 atm.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the color of the solid when it is dehydrated?",
+      "answer": "Its color changes from yellow to pink.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is compound 1 soluble in water or common organic solvents?",
+      "answer": "No, compound 1 is insoluble in water and in common organic solvents.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of rehydration on the color of the dehydrated crystal?",
+      "answer": "The pink color of the crystal returns to yellow upon rehydration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the framework differentiate between phenol, pyridine, and benzene in isooctane?",
+      "answer": "Yes, the framework differentiates phenol, pyridine, and benzene in isooctane.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of the framework change after dehydration and rehydration?",
+      "answer": "No, the single-crystal nature of the framework is retained during these reversible processes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the bpydc2- ligand in the structure of the framework?",
+      "answer": "The bpydc2- ligand binds two NiII ions in a bis-monodentate mode, reinforcing the linear chain structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest-binding capacity of the framework influenced by the ability to form hydrogen bonds?",
+      "answer": "Yes, the host favors guests that can form hydrogen bonds with its carbonyl groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the framework exhibit a reversible single-crystal to single-crystal transformation?",
+      "answer": "Yes, the framework exhibits reversible single-crystal to single-crystal transformation upon dehydration and rehydration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework more thermally stable than inorganic zeolites?",
+      "answer": "False, it is generally less thermally stable than inorganic zeolites.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework lose its crystallinity upon desorption of guest molecules?",
+      "answer": "False, it retains its crystallinity during the reversible desorption/adsorption of guest molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the framework's gas adsorption capacity inferior to MOF-5?",
+      "answer": "True, compared with MOF-5, the framework is inferior in terms of porosity and H2 uptake capacity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework bind toluene in isooctane?",
+      "answer": "False, the dehydrated host solid does not bind toluene.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the color change upon dehydration due to a change in the coordination geometry of NiII?",
+      "answer": "True, the color change on dehydration may be partly attributable to the change in the NiII coordination environment.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework adsorb N2 gas?",
+      "answer": "True, the framework adsorbs N2 gas, as indicated by a reversible type I isotherm characteristic of a microporous material.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the framework's ability to adsorb gases superior to all recently published metal-organic open frameworks?",
+      "answer": "False, while it performs better than some, it is not superior to all recently published frameworks.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

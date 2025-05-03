@@ -1,0 +1,104 @@
+{
+  "DUT-49op": {
+    "temperature": "111 K",
+    "chemicals_used": "Methane (CH4)",
+    "yield": "n/a",
+    "solvents": "n/a",
+    "amount_of_each_solvent": "n/a",
+    "equipment": "BESSY II light source, KMC-2 beamline, PANALYTICAL X’PERT PRO diffractometer, Setaram TG-DSC 111",
+    "time": "n/a",
+    "washing_method": "n/a",
+    "drying_method": "Dynamic vacuum of 10-4 mbar",
+    "adsorption_data": {
+      "methane_adsorption_at_111_K": {
+        "adsorption_isotherm_points": [
+          {
+            "p/p0": "0.01",
+            "phase": "DUT-49op"
+          },
+          {
+            "p/p0": "0.11",
+            "phase": "Transition to DUT-49cp"
+          },
+          {
+            "p/p0": "0.5",
+            "phase": "Reopening to DUT-49op"
+          }
+        ],
+        "desorption_isotherm_points": [
+          {
+            "p/p0": "1 - 0.35",
+            "phase": "DUT-49op"
+          },
+          {
+            "p/p0": "0.35 - 0.2",
+            "phase": "Transition to DUT-49ip"
+          },
+          {
+            "p/p0": "< 0.2",
+            "phase": "Transition to DUT-49cp"
+          }
+        ]
+      },
+      "n-butane_adsorption_at_298_K": {
+        "adsorption_isotherm_points": [
+          {
+            "p/p0": "0 - 0.12",
+            "phase": "DUT-49op"
+          },
+          {
+            "p/p0": "> 0.12",
+            "phase": "Transition to DUT-49cp"
+          }
+        ]
+      }
+    },
+    "simulation_data": {
+      "methane_adsorption_enthalpy": "-12.5 kJ/mol",
+      "n-butane_adsorption_enthalpy": "-31.0 kJ/mol"
+    }
+  },
+  "DUT-49cp": {
+    "temperature": "111 K",
+    "chemicals_used": "Methane (CH4)",
+    "yield": "n/a",
+    "solvents": "n/a",
+    "amount_of_each_solvent": "n/a",
+    "equipment": "BESSY II light source, KMC-2 beamline, PANALYTICAL X’PERT PRO diffractometer, Setaram TG-DSC 111",
+    "time": "n/a",
+    "washing_method": "n/a",
+    "drying_method": "Dynamic vacuum of 10-4 mbar",
+    "adsorption_data": {
+      "methane_adsorption_at_111_K": {
+        "adsorption_isotherm_points": [
+          {
+            "p/p0": "0.11",
+            "phase": "Transition from DUT-49op"
+          },
+          {
+            "p/p0": "> 0.5",
+            "phase": "n/a"
+          }
+        ],
+        "desorption_isotherm_points": [
+          {
+            "p/p0": "< 0.2",
+            "phase": "Stable DUT-49cp"
+          }
+        ]
+      },
+      "n-butane_adsorption_at_298_K": {
+        "adsorption_isotherm_points": [
+          {
+            "p/p0": "> 0.12",
+            "phase": "DUT-49cp"
+          }
+        ]
+      }
+    },
+    "simulation_data": {
+      "methane_adsorption_enthalpy": "-16.3 kJ/mol",
+      "n-butane_adsorption_enthalpy": "-40.0 kJ/mol"
+    }
+  }
+}

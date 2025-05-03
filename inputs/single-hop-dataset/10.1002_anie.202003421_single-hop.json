@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary challenge in separating C2-C3 alkyne/alkene mixtures?",
+      "answer": "The primary challenge is the close molecular size between alkyne and alkene, making efficient molecular sieving of alkenes from alkynes challenging.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do GeFSIX-dps-Cu and GeFSIX-dps-Zn achieve alkyne/alkene selectivity?",
+      "answer": "They achieve selectivity through fine tuning of the aperture size and pore structure, allowing easier entrance of alkyne while excluding alkene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorptive separation technology considered energy- and cost-effective compared to distillation and hydrogenation technologies?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does metal substitution play in the performance of MOFs for gas separation?",
+      "answer": "Metal substitution affords fine tuning of linker rotation and layer stacking, creating slightly expanded pore aperture and interlayer space for improved gas separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the kinetic diameter difference between C3H4 and C3H6?",
+      "answer": "The kinetic diameter difference between C3H4 and C3H6 is 0.4 Å.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the molecular sieving of propyne/propene mixture more challenging than C2H2/C2H4 separation?",
+      "answer": "Because the kinetic diameter difference between C3H4 and C3H6 (0.4 Å) is more subtle than between C2H2 and C2H4 (0.9 Å), making the sieving more challenging.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the breakthrough experiments confirm the tunable sieving by MOFs for C3H4/C3H6 and C2H2/C2H4 mixtures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of GeFSIX-dps-Cu?",
+      "answer": "The BET surface area of GeFSIX-dps-Cu is 382 m2/g.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can GeFSIX-dps-Cu exclude C3H6 from C3H4 at atmospheric pressure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the threshold pressure for C3H4 adsorption in GeFSIX-dps-Zn at 298 K?",
+      "answer": "The threshold pressure for C3H4 adsorption in GeFSIX-dps-Zn at 298 K is 0.13 bar.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the threshold pressure for C2H2 adsorption in GeFSIX-dps-Cu compare to GeFSIX-dps-Zn?",
+      "answer": "The threshold pressure for C2H2 adsorption in GeFSIX-dps-Cu is significantly lower than in GeFSIX-dps-Zn, making it more suitable for separating mixtures with low C2H2 concentration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the C2H2 capacity of GeFSIX-dps-Cu at 298 K and 0.1 bar more than double that of three previous MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of metal substitution from Zn to Cu in the MOFs?",
+      "answer": "Metal substitution from Zn to Cu results in a slightly expanded pore aperture and interlayer space, facilitating easier entrance of alkyne molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does GeFSIX-dps-Cu exhibit a more inapparent gate-opening behavior for C3H4 adsorption than GeFSIX-dps-Zn?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the adsorption mechanism of these MOFs?",
+      "answer": "Hydrogen bonding allows for stronger interaction between the adsorbed gas molecules and the framework, contributing to the selectivity and capacity of the MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are GeFSIX-dps-Cu and GeFSIX-dps-Zn thermally stable up to 506 K and 455 K, respectively?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the fine tuning of linker rotation and framework flexibility in layered MOFs?",
+      "answer": "Fine tuning of linker rotation and framework flexibility is crucial for achieving robust adsorbents that exclude certain gases while allowing extensive uptake of others, especially in closely sized gas mixtures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the experimental breakthrough tests validate the molecular sieving performance for C2-C3 alkene/alkyne mixtures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the structural tuning of layered MOFs via metal substitution on gas separation?",
+      "answer": "The structural tuning via metal substitution impacts both C3H4/C3H6 and C2H2/C2H4 mixtures, showing a promising strategy to achieve desired alkyne/alkene sieving separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the recyclability of GeFSIX-dps-Cu in the separation of C3H4/C3H6 mixture demonstrated over 5 cycles?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

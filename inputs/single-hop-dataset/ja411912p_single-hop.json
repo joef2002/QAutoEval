@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on Copper-Catalyzed Intermolecular Amidation and Imidation of Unactivated Alkanes.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which university's Department of Chemistry is involved in the research?",
+      "answer": "University of California, Berkeley's Department of Chemistry is involved in the research.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of tBuOOtBu in the catalytic amidation process described?",
+      "answer": "tBuOOtBu is crucial for the catalysis process, as it is involved in the generation of tert-butoxy radical which is responsible for the C-H abstraction of cyclohexane.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction selective towards secondary C-H bonds over tertiary C-H bonds?",
+      "answer": "Yes, the reaction preferentially forms products from amidation at secondary C-H bonds over tertiary C-H bonds.",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of N-cyclohexylbenzamide when cyclohexane is used in the reaction?",
+      "answer": "The yield of N-cyclohexylbenzamide is 76% when cyclohexane is used in the reaction.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the amidation process occur without the presence of tBuOOtBu?",
+      "answer": "No, the amidation process cannot occur without the presence of tBuOOtBu, as no N-alkyl product is observed in its absence.",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the kinetic isotope effect (KIE) value for the catalytic reaction catalyzed by complex 5?",
+      "answer": "The kinetic isotope effect (KIE) value for the catalytic reaction catalyzed by complex 5 is 2.9 ± 0.1.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of copper in the catalytic amidation process?",
+      "answer": "Copper catalyzes the decomposition of tBuOOtBu to generate tert-butoxy radical and participates in the events after the turnover-limiting step of C-H activation to form the N-alkyl product.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction order in oxidant and cyclohexane consistent with turnover-limiting C-H abstraction by a tert-butoxy radical?",
+      "answer": "Yes, the reaction order in oxidant and cyclohexane is consistent with turnover-limiting C-H abstraction by a tert-butoxy radical.",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of tert-butyl cyclooctylcarbamate from the reaction?",
+      "answer": "The yield of tert-butyl cyclooctylcarbamate from the reaction is 80%.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the reaction produce N-alkyl amides in the presence of tBuOOtBu?",
+      "answer": "Yes, the reaction produces N-alkyl amides in the presence of tBuOOtBu.",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the selectivity ratio of secondary to primary C-H amidation for the reaction of trans-1,4-dimethylcyclohexane?",
+      "answer": "The selectivity ratio of secondary to primary C-H amidation for the reaction of trans-1,4-dimethylcyclohexane is 11:1.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the diastereoselectivity for the secondary C-H amidation of trans-1,4-dimethylcyclohexane?",
+      "answer": "The diastereoselectivity for the secondary C-H amidation of trans-1,4-dimethylcyclohexane is 3.5:1.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the reaction of cyclohexane with benzamide in the presence of CBr4 able to form the amidation product?",
+      "answer": "No, the reaction of cyclohexane with benzamide in the presence of CBr4 does not form the amidation product, instead, bromocyclohexane is formed.",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of N-cyclohexyl-4-methylbenzamide when 4-methylbenzamide is used in the reaction?",
+      "answer": "The yield of N-cyclohexyl-4-methylbenzamide is 71% when 4-methylbenzamide is used in the reaction.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of copper concentration on the yield of the amidation products?",
+      "answer": "At low concentration of copper, the rate of allylic oxidation increases with increasing concentration of copper; however, at higher concentrations of copper, the yield of the amidation products decreases.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction of cyclohexane with secondary nitrogen reagents form N-alkyl products?",
+      "answer": "Yes, the reaction of cyclohexane with secondary nitrogen reagents forms N-alkyl products, indicating that the mechanism cannot involve a nitrene intermediate.",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of N-cyclohexyl-4-(trifluoromethyl)benzamide when 4-trifluoromethylbenzamide is used in the reaction?",
+      "answer": "The yield of N-cyclohexyl-4-(trifluoromethyl)benzamide is 73% when 4-trifluoromethylbenzamide is used in the reaction.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of N-cyclohexyl-4-fluorobenzamide when 4-fluorobenzamide is used in the reaction?",
+      "answer": "The yield of N-cyclohexyl-4-fluorobenzamide is 78% when 4-fluorobenzamide is used in the reaction.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of N-cyclohexyl-4-bromobenzamide when 4-bromobenzamide is used in the reaction?",
+      "answer": "The yield of N-cyclohexyl-4-bromobenzamide is 77% when 4-bromobenzamide is used in the reaction.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the four new materials synthesized in the study?",
+      "answer": "Polyoxometalate-based metal-organic frameworks (POMOFs) of NAU3–6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to characterize the synthesized POMOFs?",
+      "answer": "Single crystal X-ray diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What application were the POMOFs tested for?",
+      "answer": "Anode materials in lithium ion battery (LIB)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which POMOF showed the highest initial and reversible capacity?",
+      "answer": "NAU3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the reversible capacity of NAU3 at a current density of 100 mA g−1?",
+      "answer": "575.8 mA h g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to investigate the lithium storage mechanisms?",
+      "answer": "Cyclic voltammetry (CV), electrochemical impedance spectroscopy (EIS), X-ray photoelectron spectroscopy (XPS), X-ray diffraction (XRD), attenuated total reflectance-Fourier transform infrared (ATR-FT-IR) spectroscopy, and scanning electron microscopy (SEM)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What factors were identified as influencing the electrochemical performances of the POMOFs?",
+      "answer": "Redox properties of POM cluster anions, coordinated metals centers (Cu+ and Zn2+), and coordination ability between azacycle and Li+",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the crystal structure and retention rate of original morphology of POMOFs can partly dominate the diffusion of Li-ion.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of π-π stacking in one of the POMOFs?",
+      "answer": "Enhancing lithium ion battery performance",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All synthesized POMOFs showed similar electrochemical performances in the study.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What are the two examples of gold chemistry reported?",
+      "answer": "The two examples are [{Au(SC6H4-p-CMe3)}10], 1, and [{Au(SC6H4-o-CMe3)}12], 2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of compounds 1 and 2?",
+      "answer": "Over 90% yields.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "From what materials were compounds 1 and 2 recrystallized?",
+      "answer": "Compound 1 was recrystallized from ethoxybenzene and compound 2 from xylene/acetonitrile.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the core structure of compound 1?",
+      "answer": "The core of 1 consists of two interpenetrating pentagons defined by five S atoms and five Au atoms arranged in an alternating pattern.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is unique about the [2]catenane structure found for the Au10S10 core of 1?",
+      "answer": "It has a unique 'spoke' system consisting of a total of nine Au···Au interactions which imparts structural stability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What prevents the formation of a structural analogue of 1 in compound 2?",
+      "answer": "The bulky tert-butyl substituent in the ortho position of the arene ring prevents the formation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of compound 2 differ from compound 1?",
+      "answer": "Compound 2's core can also be described as a [2]catenane, but neither of the two interpenetrating hexagons is planar, unlike the planar pentagons in compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to compound 1 in the presence of triphenylphosphine?",
+      "answer": "It forms [Au(PPh3)SC6H4-p-CMe3], 3, in almost quantitative yield.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are the proton NMR spectra of compounds 1 and 2 temperature-dependent?",
+      "answer": "Because the aurophilic interactions can lead to associated and dissociated species in solution, affecting the spectra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Au···Au interactions in compound 1?",
+      "answer": "They contribute to the structural stability of the compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the Au−S bond lengths in compound 1 relate to its structural stability?",
+      "answer": "The Au−S bond lengths involving the central atoms are affected by multiple Au···Au interactions, contributing to the compound's stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do the tert-butyl substituents play in the structure of compound 2?",
+      "answer": "They prevent the formation of a structural analogue of compound 1 by introducing steric hindrance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the core of compound 1 planar?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the Au···Au separations in compound 1 longer than those around the periphery?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 have a planar hexagonal core?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are secondary Au···S interactions significant in either compound 1 or 2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the proton NMR spectrum of compound 1 in noncoordinating organic solvents temperature-independent?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do compounds 1 and 2 dissociate completely in the presence of soft donors?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the [2]catenane structure of compound 1 entirely organic based?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

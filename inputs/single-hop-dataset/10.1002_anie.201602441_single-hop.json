@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the bimetallic 2D coordination polymer discussed?",
+      "answer": "{Fe[(Hg(SCN)3)2](4,4’-bipy)2}n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the bimetallic 2D coordination polymer exhibit upon thermal conversion?",
+      "answer": "Spin-crossover from high-spin (HS) to low-spin (LS) states in a staircase-like conversion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what gHS value does the periodic spin-state concentration wave (SSCW) form with a HS-LS-HS-LS sequence?",
+      "answer": "At gHS ≈ 0.5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the spin-state concentration wave (SSCW) at gHS ≈ 0.34 commensurate or incommensurate with the molecular lattice?",
+      "answer": "Incommensurate",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What model is used to explain the formation of modulated commensurate and incommensurate structures in crystals?",
+      "answer": "The ANNNI model (Anisotropic Next Nearest Neighbors Interactions).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What concept was introduced to explain the sequence of steps during the transformation of a system as the on-site field h (or T) changes?",
+      "answer": "The theoretical Devil’s staircase concept.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What drives the cooperative phase transformation from LS to HS in spin-crossover materials?",
+      "answer": "The solely 'ferro' elastic coupling.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the spin-crossover from HS to LS state entropy-driven?",
+      "answer": "Because the entropy term (TDS) compensates the enthalpy differences (DH), favoring the HS state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the conversion of the HS molecular fraction gHS from 0 to 1 determined in the universal Ising phase diagram?",
+      "answer": "By following an oblique line (T, h(T)) in the diagram.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the formation of a fully FeII HS phase in the polymer?",
+      "answer": "A cM T value practically constant and consistent with gHS = 1 above about 180 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural change occurs at the 108–125 K plateau?",
+      "answer": "A symmetry breaking occurs, corresponding to a doubling along (a + b + c).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the appearance of superstructure Bragg peaks at the 108–125 K plateau indicate?",
+      "answer": "That this phase is surrounded by two first-order phase transitions around 125 and 108 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The spin-crossover phenomenon is unique to the bimetallic 2D coordination polymer discussed.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The SSCW at gHS ≈ 0.34 is commensurate with the initial (a,b,c) lattice.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Ising-like model does not take into account the temperature-dependent on-site effective field.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Devil’s staircase concept applies only to spin-crossover materials.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The formation of different long-range spatially ordered structures of LS and HS states during the multi-step spin-crossover is unique to the material discussed.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ANNNI model is unrelated to the formation of modulated structures in crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The SSCW concept is only applicable to describing commensurate steps observed in spin-crossover crystals.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study provides a complete Devil’s staircase SCO phenomenon from fully HS to LS phases.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

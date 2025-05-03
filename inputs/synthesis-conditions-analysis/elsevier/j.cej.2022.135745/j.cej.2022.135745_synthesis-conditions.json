@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "CuSiF6·4H2O",
+      "synthesis_conditions": {
+        "temperature": "105 ℃",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "H2SiF6 (aq, 35%)",
+            "amount": "15 mL"
+          }
+        ],
+        "equipment": "50 mL Teflon lined stainless autoclave",
+        "chemicals_used": [
+          {
+            "name": "CuO",
+            "amount": "3.015g",
+            "molarity": "38 mmol",
+            "equivalence": "1 eq"
+          },
+          {
+            "name": "H2SiF6",
+            "concentration": "35%",
+            "amount": "15 mL",
+            "equivalence": "1 eq"
+          }
+        ],
+        "drying_method": "evaporated at 80 ℃ for more than 5 h in an oil bath",
+        "yield": "7.8 g, 73.0% based on CuO"
+      }
+    },
+    {
+      "name": "ZNU-3",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "time": "3 hours",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "4 mL vial",
+        "chemicals_used": [
+          {
+            "name": "3,5-pyridinedicarboxylic acid",
+            "amount": "10 mg",
+            "molarity": "0.06 mmol",
+            "equivalence": "2 eq"
+          },
+          {
+            "name": "Cu[NO3]2·3H2O",
+            "amount": "7.2 mg",
+            "molarity": "0.03 mmol",
+            "equivalence": "1 eq"
+          },
+          {
+            "name": "Cu[BF4]2·H2O",
+            "amount": "7.7 mg",
+            "molarity": "0.03 mmol",
+            "equivalence": "1 eq",
+            "alternative": true
+          },
+          {
+            "name": "CuSiF6·4H2O",
+            "amount": "8.3 mg",
+            "molarity": "0.03 mmol",
+            "equivalence": "1 eq",
+            "alternative": true
+          },
+          {
+            "name": "CuSO4·5H2O",
+            "amount": "7.5 mg",
+            "molarity": "0.03 mmol",
+            "equivalence": "1 eq",
+            "alternative": true
+          }
+        ]
+      }
+    },
+    {
+      "name": "ZNU-3 synthesized from MeOH solvent",
+      "synthesis_conditions": {
+        "formula": "Cu[HPdc]2·2.24MeOH"
+      }
+    },
+    {
+      "name": "ZNU-3 synthesized from EtOH solvent",
+      "synthesis_conditions": {
+        "formula": "Cu[HPdc]2·1.56EtOH"
+      }
+    }
+  ]
+}

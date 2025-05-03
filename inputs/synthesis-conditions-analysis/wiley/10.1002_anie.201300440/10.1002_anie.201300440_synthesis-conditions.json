@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "{Li2(flu)}n (1; flu = tetrafluorosuccinate)",
+      "synthesis_conditions": {
+        "method": "solution crystallization",
+        "precursors": ["lithium salts", "tetrafluorosuccinate"],
+        "details": "See Supporting Information for more details."
+      }
+    },
+    {
+      "name": "{Li2(mal)}n (2; mal = l-malate)",
+      "synthesis_conditions": {
+        "method": "solution crystallization",
+        "precursors": ["lithium salts", "l-malate"],
+        "details": "See Supporting Information for more details."
+      }
+    },
+    {
+      "name": "{Li2(met)}n (3; met = methylsuccinate)",
+      "synthesis_conditions": {
+        "method": "solution crystallization",
+        "precursors": ["lithium salts", "methylsuccinate"],
+        "details": "See Supporting Information for more details."
+      }
+    },
+    {
+      "name": "{Li2(suc)}n (4; suc = succinate)",
+      "synthesis_conditions": {
+        "method": "solution crystallization",
+        "precursors": ["lithium salts", "succinate"],
+        "details": "See Supporting Information for more details."
+      }
+    },
+    {
+      "name": "Binary solid solution {Li2(suc)1-x(flu)x}n (4·1 (x), where x = 0–1)",
+      "synthesis_conditions": {
+        "method": "mechanosynthesis",
+        "precursors": ["stoichiometric amounts of component precursors"],
+        "time": "30 min",
+        "details": "Grinding stoichiometric amounts of the component precursors for 30 min. See Supporting Information for more details."
+      }
+    },
+    {
+      "name": "Ternary system {Li2(suc)x(mal)y(met)z}n (4·2·3 (x:y:z), where x + y + z = 1)",
+      "synthesis_conditions": {
+        "method": "mechanosynthesis",
+        "precursors": ["stoichiometric amounts of component precursors"],
+        "time": "30 min",
+        "details": "Grinding stoichiometric amounts of the component precursors for 30 min. See Supporting Information for more details."
+      }
+    }
+  ]
+}

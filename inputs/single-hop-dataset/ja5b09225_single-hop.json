@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus of the research article is the design of BINAP-based metal–organic frameworks (MOFs) and their postsynthetic metalation with Rh complexes to create highly active and enantioselective single-site solid catalysts for asymmetric cyclization reactions of 1,6-enynes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two types of BINAP-based MOFs mentioned in the article?",
+      "answer": "The two types of BINAP-based MOFs mentioned are BINAP-MOF (I) and BINAP-dMOF (II).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction does BINAP-MOF (I)·Rh(BF4) efficiently catalyze?",
+      "answer": "BINAP-MOF (I)·Rh(BF4) efficiently catalyzes highly enantioselective reductive cyclization of 1,6-enynes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is BINAP-MOF (I)·Rh considered inactive in Pauson–Khand reactions?",
+      "answer": "BINAP-MOF (I)·Rh is considered inactive in Pauson–Khand reactions due to the more sterically encumbered nature of these reactions, which likely requires larger open space around the catalytic active site.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does BINAP-dMOF (II)·Rh improve the activity for Pauson–Khand cyclization reactions?",
+      "answer": "BINAP-dMOF (II)·Rh improves the activity for Pauson–Khand cyclization reactions by effectively enlarging the open space around the catalytic active site to accommodate highly sterically demanding polycyclic metallocycle transition states/intermediates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of AgSbF6 in the Alder-ene cycloisomerization reaction catalyzed by BINAP-MOF (I)·Rh?",
+      "answer": "AgSbF6 is used to generate the BINAP-MOF (I)·Rh(SbF6) catalyst in situ by treating BINAP-MOF (I)·RhCl with AgSbF6, which is essential for the Alder-ene cycloisomerization activity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can BINAP-dMOF (II)·Rh be reused in Pauson–Khand cyclization reactions without loss of activity?",
+      "answer": "Yes, BINAP-dMOF (II)·Rh can be readily recovered and used three times in Pauson–Khand cyclization reactions without deterioration of yields or enantiomeric excesses.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using a mixed linker strategy in the synthesis of BINAP-dMOF (II)?",
+      "answer": "The mixed linker strategy in the synthesis of BINAP-dMOF (II) is significant because it effectively enlarges the open space around the catalytic active site, which is crucial for accommodating sterically demanding transition states in asymmetric intramolecular cyclization reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework of BINAP-MOF stable under asymmetric catalytic reaction conditions?",
+      "answer": "Yes, the framework of BINAP-MOF is stable under asymmetric catalytic reaction conditions, as indicated by the similarity of PXRD patterns of the recovered MOF to those of freshly prepared MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the catalytic activity of BINAP-MOF (I)·Rh and BINAP-dMOF (II)·Rh suggest that MOFs can be effective for complex and sterically demanding asymmetric reactions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

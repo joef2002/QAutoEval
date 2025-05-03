@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the nickel aspartate compound mentioned in the text?",
+      "answer": "The chemical formula is [Ni2.5(OH)(l-Asp)2]·6.55H2O.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage based on Ni for the synthesis of compound 2?",
+      "answer": "The yield percentage based on Ni is 70%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final pH of the mixture in the optimized conditions for the synthesis of compound 2?",
+      "answer": "The final pH of the mixture is 7.3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of compound 2 involve hydrothermal conditions?",
+      "answer": "Yes, the synthesis of compound 2 involves hydrothermal conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the nickel aspartate compound [Ni2.5(OH)(l-Asp)2]·6.55H2O chiral?",
+      "answer": "Yes, the nickel aspartate compound [Ni2.5(OH)(l-Asp)2]·6.55H2O is chiral.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Et3N in the synthesis of compound 2?",
+      "answer": "Et3N is used as a base in the synthesis of compound 2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can compound 2 be synthesized using a racemic (Et3NH)(d,l-HAsp) solution?",
+      "answer": "Yes, a reaction starting with a racemic (Et3NH)(d,l-HAsp) solution led to conglomerate crystallization of l-2 and d-2.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the size of crystals of compound 2 when the concentration of the initial NiCl2 solution is increased from 2 M to 4 M?",
+      "answer": "Increasing the concentration of the initial NiCl2 solution from 2 M to 4 M initially forms a blue solution with a small amount of oil-like blue precipitate that is soluble in water, leading to the largest crystals of compound 2 obtained.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does heating a filtered mother liquor solution at 150 and 180 °C produce compound 2?",
+      "answer": "No, heating a filtered mother liquor solution at 150 and 180 °C did not produce compound 2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of pH on the dimensionality of Ni−O−Ni bonding?",
+      "answer": "The effect of pH on the dimensionality of Ni−O−Ni bonding is illustrated by the formation of compound 2 and Ni(OH)2 at higher pH, showing that pH influences the structure of the resulting compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the thermal stability range of compound 2 before it decomposes?",
+      "answer": "Compound 2 loses 6.55 guest water molecules in one wide step from room temperature to 275 °C before it decomposes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is compound 2 ferrimagnetic below 5.5 K?",
+      "answer": "Yes, compound 2 is ferrimagnetic below 5.5 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of compound 2?",
+      "answer": "The BET surface area of compound 2 is 157 m2/g.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 2 undergo a magnetic transition at 22 K?",
+      "answer": "Yes, at T = 22 K, there is another magnetic transition without hysteresis for compound 2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the helical channels in compound 2?",
+      "answer": "The helical channels in compound 2 contribute to its chiral structure and potentially to its absorption properties, featuring a mix of hydrophobic and hydrophilic groups lining the surface of the channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the crystallinity of compound 2 be restored after partial loss?",
+      "answer": "Yes, after a 4 h treatment at 150 °C, compound 2 partially loses its crystallinity, which can be restored by a 4 h treatment in water vapor at 100 °C.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the [NiAsp2]2- bridges in the structure of compound 2?",
+      "answer": "The [NiAsp2]2- bridges in compound 2 link the helical chains, contributing to the formation of its three-dimensional Ni−O−Ni network.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 2 show enantiomeric selectivity in the absorption of 1,3-butanediol?",
+      "answer": "No, no enantiomeric selectivity of this absorption was detected by optical rotation measurements for compound 2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed optical rotation value for a solution of compound 2 in 2 M HCl?",
+      "answer": "The observed optical rotation value for a solution of compound 2 in 2 M HCl was the same as that of a reference solution of the corresponding amounts of NiCl2·6H2O and l-H2Asp in 2 M HCl.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of compound 2 scalable?",
+      "answer": "Yes, scaling up the synthesis to 70 mL of the total volume of the initial mixture and carrying out the reaction in a 120 mL Teflon-lined autoclave also produced pure compound 2 in ca. 70% yield.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of (Et4N)2[Mn2L3]?",
+      "answer": "C34H40Cl6Mn2N2O12",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystallographic data for (Et4N)2[Mn2L3] collected?",
+      "answer": "99.98 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of [Co(DMF)6][Co2L3]?",
+      "answer": "P-31m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the void fraction and geometric surface area?",
+      "answer": "RASPA code",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What force field was used to model the N2 and CO2 molecules in the simulations?",
+      "answer": "TraPPE force field",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of (Et4N)2[Mn2L3] trigonal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the experimental PXRD pattern of 1 match with its simulated PXRD pattern?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the Lennard-Jones potential used to compute interactions between non-bonded atoms in the framework model?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the color change from dark brown to purple upon partial metal exchange indicative of phase purity in 3a?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the Grand Canonical Monte Carlo method used for simulating N2 and CO2 isotherms?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ratio of chlorine to metal in (Et4N)2[Co2L3] according to EDX spectra?",
+      "answer": "3.089 : 1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index for [Zn(DMF)6][Zn2L3]?",
+      "answer": "R1 = 0.1393; wR2 = 0.4038",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the EQeq method used to calculate partial charges of the framework atoms?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the reaction to produce [Co(DMF)6][Co2L3] from (Et4N)2[Mn2L3] typically require 2-4 weeks to reach completion?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the approximate yield estimated for the reaction producing (Et4N)2[Co2L3] from [Co(DMF)6][Co2L3]?",
+      "answer": "95%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of [Zn(DMF)6][Zn2L3] trigonal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for indexing and unit cell refinement for partially desolvated (Et4N)2[Mn2L3]?",
+      "answer": "Werner algorism under the index and refine program (INDEX)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the presence of both [Zn(DMF)6][Zn2L3] and [Zn(DMF)6][Mn2L3] lattices in a single crystal of 3a confirmed by diffraction images?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the PXRD pattern for partially desolvated (Et4N)2[Mn2L3] differ from that of its fully solvated counterpart?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the Peng-Robinson equation of state used to calculate fugacities for GCMC simulations?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

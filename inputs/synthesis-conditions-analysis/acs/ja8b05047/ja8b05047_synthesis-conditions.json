@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "9-anthracenecarboxylic acid dimer (Di-9AC)",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "200 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "9AC",
+            "amount": "10.10 g",
+            "molar_amount": "45.45 mmol"
+          }
+        ],
+        "conditions": [
+          {
+            "atmosphere": "nitrogen",
+            "light_condition": "darkness",
+            "irradiation": "365 nm UV light",
+            "duration": "4 days"
+          }
+        ],
+        "washing_method": [
+          {
+            "solvent": "cold THF",
+            "amount": "2 x 5 mL"
+          },
+          {
+            "solvent": "cold water",
+            "amount": "2 x 5 mL"
+          }
+        ],
+        "drying_method": "24 h under high vacuum",
+        "yield": "5.59 g (12.59 mmol, 55%)"
+      }
+    },
+    {
+      "name": "CD-MOF-161",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "DMA",
+            "amount": "2.3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Yb(OAc).H2O",
+            "amount": "23.81 mg",
+            "molar_amount": "68 μmol"
+          },
+          {
+            "name": "Di-9AC",
+            "amount": "7.56 mg",
+            "molar_amount": "17 μmol"
+          },
+          {
+            "name": "ammonium formate",
+            "amount": "8.70 mg",
+            "molar_amount": "138 μmol",
+            "optional": true
+          },
+          {
+            "name": "fluorescein sodium salt",
+            "amount": "1.88 mg",
+            "molar_amount": "5 μmol",
+            "optional": true
+          }
+        ],
+        "conditions": [
+          {
+            "temperature": "60 °C",
+            "duration": "2 days",
+            "cooling_rate": "2 °C/h"
+          }
+        ],
+        "washing_method": [
+          {
+            "solvent": "DMA",
+            "procedure": "to remove unreacted materials"
+          }
+        ],
+        "drying_method": "48 h under high vacuum (8 x 10^-6 mbar)",
+        "yield": "96-99% (based on Di-9AC)"
+      }
+    }
+  ]
+}

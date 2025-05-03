@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of synthesizing chiral porous inorganic materials from chiral porous metal–organic framework precursors?",
+      "answer": "The main goal is to transpose the chirality and porosity of the chiral porous metal–organic framework precursors onto the final crystalline inorganic frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is commonly used in zeolite synthesis to attempt imprinting chirality of a molecule onto the inorganic framework?",
+      "answer": "Chiral templating by addition of an organic molecule or a cation to the synthesis medium is commonly used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the water molecule coordinated to Er2 in [Er4(Hhedp)3(H2O)2] get released?",
+      "answer": "The water molecule coordinated to Er2 is released at approximately 450 1C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of the purely inorganic pyrophosphate material formed at approximately 700 1C from [Er4(Hhedp)3(H2O)2]?",
+      "answer": "The formula of the purely inorganic pyrophosphate material formed is [Er4(PO3–O–PO3)3].",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of the network formed by the [Er4(Hhedp)3(H2O)2] material?",
+      "answer": "The topology of the network formed by the [Er4(Hhedp)3(H2O)2] material is srs topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption properties of the materials for N2, CO2, and CH4 are significant.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What significant structural transformation occurs to the Hhedp4- ligand in [Er4(Hhedp)3(H2O)2] upon heating to approximately 450 1C?",
+      "answer": "The Hhedp4- ligand decomposes around the central carbon atom by releasing the –OH and –CH3 groups, which are replaced by a C–H group, forming a new hybrid material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the predicted Raman intensity and wavenumber for the C–H stretching mode of the PO3[C(H)]PO3 fragment in the intermediate phase?",
+      "answer": "The C–H stretching mode of the PO3[C(H)]PO3 fragment is predicted to appear at 3080 cm-1, with a medium-strong Raman intensity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis concept of transposing chirality and porosity from MOF precursors to inorganic frameworks may be extended to other chiral porous inorganic solids.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a single band with moderate intensity at approximately 3084 cm-1 in the Raman spectrum of the intermediate phase indicate?",
+      "answer": "It indicates the presence of the [PO3–CHQPO3] ligand in the intermediate phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

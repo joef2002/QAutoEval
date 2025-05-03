@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the paper?",
+      "answer": "10.1002/anie.201701303",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the paper?",
+      "answer": "Jan Horstmann, Mentor Hyseni, Andreas Mix, Beate Neumann, Hans-Georg Stammler, and Norbert W. Mitzel",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to prepare bidentate gallium Lewis acids?",
+      "answer": "By the reaction of diethynyldiphenylsilane with neat trimethyl- or triethylgallium.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of adducts do Lewis acids 1 and 2 form with bidentate nitrogen bases?",
+      "answer": "Host–guest adducts",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the molecular mass of 2 b in solution as determined by DOSY NMR experiments?",
+      "answer": "Mw = 873 g mol@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the nonbonded distance between Ga(1) and Ga(2) in the solid polymeric 2 b?",
+      "answer": "About 8.2 c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the N···N distance in the formation of adducts with bidentate gallium Lewis acids?",
+      "answer": "The N···N distance affects the type of adduct formed, with short distances leading to polymeric structures and distances matching the host Ga···Ga distance leading to cyclic 1:1 adducts.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were NMR spectroscopic analyses of compound 1 only possible as an Et2O adduct?",
+      "answer": "Because the pure host compound 1 is insoluble in benzene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens when 2 a is reacted with DABCO?",
+      "answer": "It forms a soluble product, even in benzene, whereby pyridine is completely substituted by DABCO molecules to afford the new adduct 2·DABCO.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of trying to complex bidentate Lewis bases with various N···N distances with 1?",
+      "answer": "The 1:1 conversions with 1 always resulted in the formation of insoluble precipitates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the formation of insoluble precipitates indicate about the complexation process?",
+      "answer": "It suggests that the mismatch between the N···N distance in the guest and Ga···Ga distance in the host leads to ill-defined products.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of the crystallization of 2 b?",
+      "answer": "It afforded a polymeric (DABCO-2-)n structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the beige solid 1 soluble in hydrocarbon solvents?",
+      "answer": "False, it is insoluble in hydrocarbon solvents.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the 1H NMR spectrum of diethylgallyl compound 2 be recorded without any modifications?",
+      "answer": "False, it displays two broad signals at 1.30 ppm and 0.76 ppm only after adding pyridine and removing all volatile components.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of pyridine to diethylgallyl compound 2 result in a pale orange solid adduct?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the structures of neutral multidentate Lewis acid/base adducts common?",
+      "answer": "False, precise structures of neutral multidentate Lewis acid/base adducts are still extremely rare.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does 2 a react with bidentate pyridyl bases 3, 4, or 5?",
+      "answer": "False, 2 a does not react with 3, 4, or 5.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the use of GaEt3-containing Lewis acid 2 for complexation of the bidentate pyridyl bases successful?",
+      "answer": "False, it led to oily mixtures of differently coordinated ethylgallyl species, which could not be separated.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the host compound 1 dissolve in benzene after adding one equivalent of the bidentate pyridyl bases 3, 4, or 5?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the solid-state structures of adducts 1·3, 1·4, and 1·5 obtained by X-ray diffraction consistent with their NMR data in solution?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

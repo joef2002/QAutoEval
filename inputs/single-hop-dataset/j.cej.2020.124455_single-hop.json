@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "High-performance primary explosives derived from copper thiolate cluster-assembled materials for micro-initiating device",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main objective of the research presented in the article?",
+      "answer": "To develop high-performance primary explosives for use in micro-initiators by employing copper thiolate cluster-assembled material as a precursor.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Cu12bpy used as a precursor to prepare copper azide-heteroatoms doped porous carbon hybrids?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reported copper azide content in CA-HPCH?",
+      "answer": "89.43%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the CA-HPCH exhibit superior performance compared to pristine copper azide in terms of flame ignition capability?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the discharge energy at 50% for CA-HPCH measured during the electrostatic sensitivity test?",
+      "answer": "1.1 mJ",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to calculate the discharge energy during the electrostatic sensitivity test?",
+      "answer": "The formula E = 0.5 CU^2, where C is the capacitance of the capacitor in Farads (F) and U is charge voltage in volts (V).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the impact sensitivity of CA-HPCH comparable to common primary explosives?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the H50 value of CA-HPCH?",
+      "answer": "≥60 cm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the introduction of heteroatoms into copper azide hybrids improve the ignition capacity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the input ignition energy of CA-HPCH in the MEMS initiation test system?",
+      "answer": "0.106 mJ",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the porous carbon framework originating from Cu12bpy in CA-HPCH?",
+      "answer": "It offers an electron conduction highway, ensuring a safety fabrication and application process for micro-initiator applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the BET surface area of Cu12bpy after drying under vacuum at room temperature 141.5 m^2/g?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of CA-HPCH over other reported CA counterparts?",
+      "answer": "CA-HPCH is superior due to its higher CA contents, excellent flame ignition ability, and low electrostatic sensitivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the PXRD pattern agreement with CA for CA-HPCH?",
+      "answer": "It confirms that the precursors were fully converted to CA without the presence of any impurity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does CA-HPCH maintain the rod-like structure of MCu-HPCH?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of doped heteroatoms in CA-HPCH?",
+      "answer": "They contribute to enhanced flame sensitivity by improving the oxygen balance and facilitating the formation of hot spots by flame stimulation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the response time of CA-HPCH in the MEMS initiation test system?",
+      "answer": "7.0 µs",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the CA-HPCH based micro-initiator capable of exhibiting an ultrafast energy-release rate?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the research suggest about the development of CA composites for MEMS initiating explosive devices?",
+      "answer": "The research provides new insights into further development of CA composites with outstanding ignition performance, high detonation power, and good electrostatic stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

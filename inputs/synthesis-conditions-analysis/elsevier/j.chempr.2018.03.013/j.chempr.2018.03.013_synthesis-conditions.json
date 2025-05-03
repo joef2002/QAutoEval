@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "Cd-DP",
+      "synthesis_conditions": {
+        "linker": "DP",
+        "metal_salt": "CdCl2·6H2O",
+        "solvents_conditions": "CHCl3/DMF/EtOH",
+        "conditions": "rt, 10 d",
+        "contents_of_repeating_unit": "[Cd2Cl2(DP)3]•(CHCl3)4 (DMF)4 EtOH"
+      }
+    },
+    {
+      "name": "Cd-TP",
+      "synthesis_conditions": {
+        "linker": "TP",
+        "metal_salt": "Cd(NO3)2·6H2O/CdBr2·4H2O (1:1)",
+        "solvents_conditions": "CHCl3/DMF/EtOH",
+        "conditions": "rt, 10 d",
+        "contents_of_repeating_unit": "[Cd(TP)BrNO3]"
+      }
+    },
+    {
+      "name": "Zn-DA",
+      "synthesis_conditions": {
+        "linker": "H2DA",
+        "metal_salt": "Zn(NO3)2·6H2O",
+        "solvents_conditions": "DMF/H2O",
+        "conditions": "90 oC, 2 d",
+        "contents_of_repeating_unit": "[Zn(DA)O]0.5"
+      }
+    },
+    {
+      "name": "Cd-TA",
+      "synthesis_conditions": {
+        "linker": "H4TA",
+        "metal_salt": "Cd(NO3)2·6H2O",
+        "solvents_conditions": "DMF/DMSO/H2O",
+        "conditions": "90 oC, 2 d",
+        "contents_of_repeating_unit": "[Cd2(TA)(DMSO)4]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MOP-18?",
+      "answer": "Cu24(5OC12H25-mBDC)24(DMF)12(C8H17OH)4(H2O)8·(DMF)20(C8H17OH)4(H2O)8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What solvents was MOP-18 found to be highly soluble in?",
+      "answer": "Chloroform, toluene, tetrahydrofuran, ethyl acetate, N,N-dimethylacetamide, and hot DMF",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of the Forcite program in the MS Modeling package?",
+      "answer": "To find out the reasonable structural model of the ambiguous coordinating ligands in the X-ray structure through geometry optimization",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed weight loss of MOP-18 in the TGA analysis from 280 to 420 °C?",
+      "answer": "60%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the critical factor for successful STM imaging of MOP-18?",
+      "answer": "The degree of evaporation of solvent was critical to imaging",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The STM images of MOP-18 showed significant image drift in all images.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the calculated weight loss for MOP-18 due to the decomposition of the organic links in the framework?",
+      "answer": "62%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The self-assembled MOPs are immobile on the surface during STM scanning.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the Nanoscope E STM for MOP-18?",
+      "answer": "To image the thin film of MOP-18 on freshly cleaved HOPG under ambient conditions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The coordinating ligands of MOP-18 include 12 DMF, 4 octanol, and 8 H2O molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed weight loss of MOP-18 in the TGA analysis until 280 °C?",
+      "answer": "25%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The geometry-optimized structure of MOP-18 by Forcite program perfectly matched the X-ray structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the calculated RMS value when superposing the X-ray structure and the geometry-optimized structure of MOP-18?",
+      "answer": "0.713 Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The geometry optimization of MOP-18 resulted in a structure with strange bond geometry and bad non-bonding contacts.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main observation from the STM images regarding the mobility of MOP-18 on the surface?",
+      "answer": "The self-assembled MOPs are mobile, and the motion of the STM tip is moving them as it scans",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The first weight loss in the TGA analysis of MOP-18 was due to the evaporation of solvent.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in STM imaging of MOP-18 related to solvent evaporation?",
+      "answer": "When STM imaging was attempted at shorter times, no ordered self-assembly was observed due to the high mobility of MOPs on the surface",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The coordinating ligands and guest molecules contributed to the first weight loss observed in the TGA analysis of MOP-18.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the TGA analysis regarding the stability of MOP-18?",
+      "answer": "The weigh loss from 280 to 420 °C was due to the decomposition of the organic links in the MOP-18 framework",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The STM imaging of MOP-18 was performed under vacuum conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

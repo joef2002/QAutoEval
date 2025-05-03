@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the external photoluminescence quantum yield (PLQY) of the cadmium coordination polymer reported?",
+      "answer": "75.4%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the collection of all reflections in crystallography?",
+      "answer": "APEX II CCD detector of a Bruker-AXS Kappa Duo diffractometer using MoKα radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the integrating sphere in optical measurements?",
+      "answer": "The integrating sphere is used to collect excitation reflectance and emission spectra, aiding in the determination of internal and external photoluminescence quantum yields (PLQYs) and emission color coordinates values.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the cadmium coordination polymer be synthesized at room temperature?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the NH2 group in the cadmium coordination polymer disordered over two sites?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of TD-DFT calculations in the study?",
+      "answer": "TD-DFT calculations were performed to compute the electronic transitions and understand the high external PLQY of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the geometry optimization in TD-DFT calculations performed for all atoms?",
+      "answer": "No, the geometry optimization was performed with optimization of hydrogens only, at all levels of theory.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main transition related to the high external PLQY of the material according to TD-DFT calculations?",
+      "answer": "The main transitions related to the high external PLQY are due to a high-efficiency delocalization-to-localization charge transition phenomenon.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of spectrofluorimeter was used for optical measurements?",
+      "answer": "HORIBA Jobin Yvon Fluorolog FL3-221 spectrofluorimeter",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the cadmium coordination polymer exhibit a deep-blue color emission?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Wrighton–Ginley–Morse reflection method?",
+      "answer": "It is used for calculating the internal and external photoluminescence quantum yields (PLQYs) of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the cadmium coordination polymer characterized by powder X-ray diffraction technique?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the RMSD value in the TD-DFT calculations?",
+      "answer": "The RMSD value indicates the deviation of the gas phase geometry from the crystallographic one, showing how different the optimized geometry is from the experimental structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the excitation source used in the optical measurements?",
+      "answer": "A continuous 450 W Xe arc lamp",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the cadmium coordination polymer's synthesis based on low-cost reagents?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination geometry of the Cd2+ center in the cadmium coordination polymer?",
+      "answer": "A somewhat distorted pentagonal bipyramid",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the acetates almost perpendicular to ampyz in the cadmium coordination polymer?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using different exchange correlation functionals in TD-DFT calculations?",
+      "answer": "To accurately describe hydrogen bonds and understand the transitions related to the high external PLQY of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the cadmium coordination polymer's structure solved by direct methods of phase retrieval?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the diffuse-reflectance spectrum in the study?",
+      "answer": "It correlates with the excitation spectrum, showing absorption bands that are related to the material's photoluminescence properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

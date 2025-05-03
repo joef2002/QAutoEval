@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "{[(Me2NH2)3(SO4)]2[Zn2(ox)3]}n (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "dimethyl formamide (DMF)",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Not specified",
+          "chemicals_used": [
+            "oxalic acid",
+            "ZnSO4·7 H2O"
+          ],
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_notes": "The compound consists of an anionic framework [Zn2(ox)3]2- n that is interpenetrated with a cationic supramolecular net [(Me2NH2)3SO4]+ n, formed by electrostatic and hydrogen-bonding interactions between sulfate anions and dimethyl ammonium (DMA) cations."
+        },
+        {
+          "step": "Proton Conductivity Measurement",
+          "temperature": "30°C to 150°C under anhydrous conditions",
+          "solvents": [
+            {
+              "name": "N2 atmosphere",
+              "amount": "Not specified"
+            }
+          ],
+          "equipment": "Alternating current (AC) impedance spectroscopy",
+          "chemicals_used": [],
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_notes": "The proton conductivity for 1 was found to be 7 × 10-5 S cm-1 at 30°C under N2 atmosphere. The conductivity increases with increasing temperature and reaches a maximum of 1.0 × 10-4 S cm-1 at 150°C."
+        },
+        {
+          "step": "Water-Assisted Proton Conductivity Measurement",
+          "temperature": "25°C",
+          "solvents": [
+            {
+              "name": "Humidity",
+              "amount": "30% RH to 98% RH"
+            }
+          ],
+          "equipment": "Impedance analysis in an incubator",
+          "chemicals_used": [],
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_notes": "At 30% RH, the conductivity of 1 was found to be 4.4 × 10-5 S cm-1, which further increased slowly with increasing humidity, and at 60% RH, the conductivity increased to 1.4 × 10-3 S cm-1. The conductivity reaches a maximum value of 4.2 × 10-2 S cm-1 at 98% RH."
+        }
+      ]
+    }
+  ]
+}

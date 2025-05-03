@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of synthesizing framework solids?",
+      "answer": "The main goal of synthesizing framework solids is to control chemical bonding in space versus random polymerization.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to rigorously solve the single-crystal structure of mCOF-Ag?",
+      "answer": "The single-crystal structure of mCOF-Ag was rigorously solved using single-crystal electron diffraction (SCED) technique.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of mCOF-Ag was validated by second harmonic generation (SHG)?",
+      "answer": "The non-centrosymmetric structure of mCOF-Ag was validated by second harmonic generation (SHG).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the strategy developed for synthesizing mCOF-Ag applicable for creating other covalent metallopolymers?",
+      "answer": "Yes, the strategy developed for synthesizing mCOF-Ag combines the templating effect of metal ions and cooperative organization of building blocks, making it a promising method for the solution-phase synthesis of single-crystal covalent metallopolymers with unique topologies and functionalities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of crystalline-state polymerization on the mechanical properties of mCOF-Ag?",
+      "answer": "Crystalline-state polymerization, through cross-linking, resulted in the formation of wCOF-Ag, which showed a dramatic increase in Young's modulus compared to mCOF-Ag, indicating enhanced mechanical properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of COFs is challenging due to the high reversibility of their covalent linkages.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of syntactic pendant amine groups along the polymer chains of mCOF-Ag allows for crystalline-state polymerization to form a woven network.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does AgBF4 play in the synthesis of mCOF-Ag?",
+      "answer": "AgBF4 initiates ligand exchange and provides an additional reversible process for the poly-condensation, which is beneficial for the crystal nucleation process in the synthesis of mCOF-Ag.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of mCOF-Ag contribute to its potential as nonlinear optical materials?",
+      "answer": "The non-centrosymmetric structure of mCOF-Ag, as demonstrated by its ability to exhibit second harmonic generation (SHG), contributes to its potential as nonlinear optical materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis strategy for mCOF-Ag involves a one-pot reaction combining self-assembly and imine condensation under solvothermal conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the space group C2 for mCOF-Ag?",
+      "answer": "The space group C2 for mCOF-Ag indicates that it belongs to a non-centrosymmetric category, which is significant for its observed second harmonic generation (SHG) property.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystalline-state polymerization of mCOF-Ag does not affect its major crystal structure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of mCOF-Ag based on AgBF4?",
+      "answer": "The yield of mCOF-Ag was 74% based on AgBF4.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of mCOF-Ag does not involve the use of a metal template.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of glyoxal in the crystalline-state polymerization of mCOF-Ag?",
+      "answer": "Glyoxal acts as a bi-functional compound that links adjacent amine groups in mCOF-Ag through crystalline-state polymerization, leading to the formation of a cross-linked woven network, wCOF-Ag.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photoluminescence (PL) intensity of wCOF-Ag is lower than that of mCOF-Ag.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of temperature on the crystalline-state polymerization of mCOF-Ag?",
+      "answer": "Increasing the temperature during the crystalline-state polymerization of mCOF-Ag to 80 °C resulted in the generation of Ag particles on the surface of the crystal.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of mCOF-Ag was determined using conventional X-ray diffraction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the chemical formula of the building block I used in the synthesis of mCOF-Ag?",
+      "answer": "The chemical formula of building block I is 4,4'-(1,10-phenanthroline-2,9-diyl)dianiline.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Young's modulus of wCOF-Ag is lower than that of mCOF-Ag.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

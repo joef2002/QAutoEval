@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "Cu8Cl[PMo8V6O42](p-tr2Ph)4·8H2O (RO-4)",
+      "synthesis_conditions": {
+        "temperature": "180 ℃",
+        "time": "3 days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 mL"
+          },
+          {
+            "name": "TBAOH (10% wt in H2O)",
+            "amount": "100 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "p-tr2Ph",
+            "amount": "15 mg"
+          },
+          {
+            "name": "NH4VO3",
+            "amount": "15 mg"
+          },
+          {
+            "name": "Na2MoO4",
+            "amount": "50 mg"
+          },
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "30 mg"
+          },
+          {
+            "name": "H3PO3",
+            "amount": "10 mg"
+          }
+        ],
+        "yield": "50%",
+        "equipment": "15 mL Teflon lined stainless-steel container"
+      }
+    },
+    {
+      "name": "Cu2Cl2(p-tr2Ph)·H2O (CuL)",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "time": "2 days",
+        "solvents": [
+          {
+            "name": "CuCl2 aqueous solution",
+            "amount": "4 mL",
+            "concentration": "0.025M"
+          },
+          {
+            "name": "DMSO",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "p-tr2Ph",
+            "amount": "8.5 mg"
+          }
+        ],
+        "yield": "75%",
+        "equipment": "15 mL Teflon-lined stainless-steel container",
+        "drying_method": "dried overnight in a 60 ℃ oven"
+      }
+    },
+    {
+      "name": "[H2N(C2H4)2NH2]4(H3O)[PMo2VMo6VIV4IVO40(VIVO)2]·H2O ({PMo8V6O42})",
+      "synthesis_conditions": {
+        "temperature": "150 ℃",
+        "time": "6 days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Na2MoO4·2H2O",
+            "amount": "0.625 mmol"
+          },
+          {
+            "name": "NH4VO3",
+            "amount": "0.625 mmol"
+          },
+          {
+            "name": "MnCl2",
+            "amount": "0.625 mmol"
+          },
+          {
+            "name": "piperazine",
+            "amount": "1.25 mmol"
+          },
+          {
+            "name": "H3PO4",
+            "amount": "1.25 mmol"
+          }
+        ],
+        "yield": "70%",
+        "equipment": "15 mL Teflon lined stainless-steel container"
+      }
+    }
+  ]
+}

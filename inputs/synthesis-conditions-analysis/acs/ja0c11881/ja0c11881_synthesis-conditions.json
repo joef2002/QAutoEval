@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "JMOF-1",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "slow diffusion"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PbI2",
+            "amount": "18.4 mg, 0.04 mmol"
+          },
+          {
+            "name": "metallocavitand tripodal ligand",
+            "amount": "70 mg, 0.08 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "25 mg light-yellow hexagonal thin crystals"
+      }
+    },
+    {
+      "name": "JMOF-2",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "slow diffusion"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Pb(NO3)2",
+            "amount": "72.8 mg, 0.22 mmol"
+          },
+          {
+            "name": "metallocavitand tripodal ligand",
+            "amount": "195 mg, 0.22 mmol"
+          }
+        ],
+        "time": "2 h",
+        "yield": "110 mg colorless hexagonal thin crystals"
+      }
+    },
+    {
+      "name": "trinuclear zirconocene-based tripodal metallo-pyridine precursor",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "15 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "30 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "isonicotinic acid",
+            "amount": "5 mmol, 615 mg"
+          },
+          {
+            "name": "sodium hydroxide",
+            "amount": "5 mmol, 200 mg"
+          },
+          {
+            "name": "Cp2ZrCl2",
+            "amount": "5.0 mmol, 1.465 g"
+          }
+        ],
+        "time": "2 h",
+        "yield": "0.8 g white solid"
+      }
+    }
+  ]
+}

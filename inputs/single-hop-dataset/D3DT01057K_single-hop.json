@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the formula of JXUST-38?",
+      "answer": "The formula of JXUST-38 is {[Eu3(BTDB)3(μ3-OH)3(H2O)]·solvents}n.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role does 2-fluorobenzoic acid play in the synthesis of JXUST-38?",
+      "answer": "2-fluorobenzoic acid acts as an acidic regulator to control the pH of the reaction system, which is crucial for obtaining JXUST-38 successfully.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is JXUST-38 stable in water and boiling water?",
+      "answer": "Yes, JXUST-38 displays good chemical stability, including stability in water and boiling water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the detection limit of JXUST-38 for DPA?",
+      "answer": "The detection limit of JXUST-38 for DPA is 0.05 μM.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does JXUST-38 recognize DPA?",
+      "answer": "JXUST-38 recognizes DPA through luminescence enhancement and blue-shift effects.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can JXUST-38 specifically recognize DPA in the presence of other interfering substances?",
+      "answer": "Yes, JXUST-38 can specifically recognize DPA even in the presence of other interfering substances.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main luminescence source of JXUST-38?",
+      "answer": "The main luminescence source of JXUST-38 comes from the H2BTDB ligand.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What mechanism is responsible for the luminescence enhancement of JXUST-38 toward DPA?",
+      "answer": "The luminescence enhancement of JXUST-38 toward DPA is explained by the absorbance-induced enhancement (ACE) mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does JXUST-38 form new coordination bonds with DPA during the sensing process?",
+      "answer": "No, JXUST-38 does not form new coordination bonds with DPA during the sensing process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What practical applications were explored for JXUST-38?",
+      "answer": "Practical applications explored for JXUST-38 include the preparation of test paper and mixed matrix membrane for DPA detection, and its feasibility in biological imaging.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the EuIII ions in JXUST-38?",
+      "answer": "The EuIII ions in JXUST-38 are part of its structure, contributing to its coordination environment and potentially influencing its luminescence properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is JXUST-38 capable of naked-eye recognition of DPA?",
+      "answer": "Yes, JXUST-38 is capable of naked-eye recognition of DPA due to significant color shifts under UV light.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination environment of EuIII ions in JXUST-38?",
+      "answer": "The coordination environment of EuIII ions in JXUST-38 includes being eight-coordinated with oxygen atoms from the H2BTDB ligands and μ3-OH anions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does JXUST-38's luminescence change upon DPA addition?",
+      "answer": "Upon DPA addition, JXUST-38's luminescence intensity increases, and its emission peak shifts to the left, indicating a blue shift.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does JXUST-38 exhibit a significant microporous structure?",
+      "answer": "No, JXUST-38 does not exhibit a significant microporous structure based on its N2 adsorption isotherms.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of JXUST-38 based on H2BTDB?",
+      "answer": "The yield of JXUST-38 based on H2BTDB is about 68%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the blue-shift effect in JXUST-38's sensing process?",
+      "answer": "The blue-shift effect in JXUST-38's sensing process signifies a strong excitation complex formed with DPA, making it easier to recognize DPA with the naked eye.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can JXUST-38's luminescence be restored to its original state after sensing DPA?",
+      "answer": "Yes, JXUST-38's luminescence can be restored to its original state after sensing DPA by rinsing with ethanol solution and drying.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability range of JXUST-38?",
+      "answer": "The thermal stability range of JXUST-38 is from room temperature to 420 °C, after which the framework collapses rapidly.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does JXUST-38's response time to DPA affect its practical application as a sensor?",
+      "answer": "JXUST-38's high time response efficiency to DPA, with significant luminescence changes within 300 seconds, makes it an ideal and practical fluorescence sensor for rapid DPA detection.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

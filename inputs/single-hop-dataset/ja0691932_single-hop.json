@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary adsorption site in ZIF8?",
+      "answer": "The primary adsorption sites in ZIF8 are directly associated with the organic linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many H2 molecules can ZIF8 hold at high concentration loadings?",
+      "answer": "ZIF8 can hold up to 28 H2 molecules at high concentration loadings.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the weight percentage of hydrogen storage capacity of ZIF8?",
+      "answer": "4.2 wt %",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the ZIF8 structure stable after hydrogen adsorption?",
+      "answer": "Yes, the ZIF8 structure is capable of holding hydrogen molecules without evidence of solid deuterium, indicating stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the metal-oxide clusters the primary adsorption sites in ZIF8?",
+      "answer": "False, the primary adsorption sites in ZIF8 are associated with the organic linkers, not the metal-oxide clusters.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to synthesize ZIF8?",
+      "answer": "ZIF8 was synthesized using a solvothermal method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the D2 molecules completely adsorbed into ZIF8?",
+      "answer": "The D2 molecules were completely adsorbed into ZIF8 at 30 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does increasing D2 loading in ZIF8 lead to the formation of 3D interlinked hydrogen nanostructures?",
+      "answer": "Yes, increasing D2 loading in ZIF8 leads to the formation of 3D interlinked hydrogen nanostructures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the imidazolate organic linker in ZIF8?",
+      "answer": "The imidazolate organic linker is primarily responsible for adsorption in ZIF8.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the binding energies derived from DFT calculations overestimated for ZIF8?",
+      "answer": "True, the binding energies derived from DFT calculations may be overestimated for ZIF8.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of D2 loading on the lattice constant of ZIF8?",
+      "answer": "The lattice constant of ZIF8 slightly decreases with increasing D2 loading.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the orientation of the methyl group in ZIF8 determined by neutron diffraction data?",
+      "answer": "Yes, the orientation of the methyl group in ZIF8 is determined by neutron diffraction data.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hydrogen positions in understanding guest-host interactions in ZIF8?",
+      "answer": "The hydrogen positions are a sensitive probe for determining guest-host interactions in ZIF8.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of the methyl group affect the favorability of adsorption sites in ZIF8?",
+      "answer": "Yes, the presence of the methyl group mainly affects the geometry, influencing the favorability of adsorption sites in ZIF8.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the adsorption site occupancy and binding energy in ZIF8?",
+      "answer": "The adsorption site occupancy implies a relationship with binding energy, where higher occupancy suggests higher binding energy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the experimental and calculated binding energies for ZIF8 in good agreement?",
+      "answer": "True, there is a good agreement between experimental and calculated binding energies for ZIF8.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the variation in binding energy with H2-orientation in ZIF8 suggest?",
+      "answer": "The variation in binding energy with H2-orientation in ZIF8 suggests the presence of interesting hindered-quantum rotational dynamics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ZIF8 be used as a template for generating molecular nanostructures with novel properties?",
+      "answer": "Yes, ZIF8 can be used as a template for generating molecular nanostructures with novel properties.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ZnN4 clusters in ZIF8?",
+      "answer": "Contrary to classical MOFs, the ZnN4 clusters in ZIF8 are not the primary adsorption sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption capacity of ZIF8 at 30 K higher than at 77 K and 80 bar?",
+      "answer": "True, the adsorption capacity of ZIF8 at 30 K is higher than at 77 K and 80 bar.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

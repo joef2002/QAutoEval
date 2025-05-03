@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula weight of Zr-bptc?",
+      "answer": "2486.11 g/mol",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the high-resolution X-ray powder diffraction measurements carried out for bare Zr-bptc?",
+      "answer": "298 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of CO2@Zr-bptc?",
+      "answer": "Immm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the BET surface area of Zr-bptc compare after 19 cycles of NO2 adsorption?",
+      "answer": "It remains consistent, indicating stability of Zr-bptc.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the adsorption capacity of NO2 in Zr-bptc at 1 bar and 298 K?",
+      "answer": "13.8 mmol g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of Zr-bptc affected by soaking in water for 1 week?",
+      "answer": "No, the PXRD patterns indicate that Zr-bptc retains its structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the IAST selectivity for NO2/CO2 (1:99) at 1.0 bar for Zr-bptc at 298 K?",
+      "answer": "Approximately 750",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does Zr-bptc show high selectivity for NO2 over CO2 and N2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can Zr-bptc be fully regenerated upon the delivery of nitro compounds?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of NO2 in Zr-bptc reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Zr-bptc in the conversion of captured NO2 to nitro compounds?",
+      "answer": "It enriches NO2 from gas mixtures and releases NO2 into the reaction medium.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the observed effect of using gaseous NO2 for nitration compared to using NO2@Zr-bptc-N?",
+      "answer": "Using gaseous NO2 often results in over-nitration and over-oxidation, while NO2@Zr-bptc-N provides controlled nitration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of Zr-bptc change upon CO2 loading?",
+      "answer": "True, the symmetry reduces from cubic to orthorhombic.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of NO2 loading on the crystal symmetry of Zr-bptc?",
+      "answer": "The crystal symmetry remains cubic upon NO2 loading.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Zr-bptc framework be used for the selective adsorption of NO2 over CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of heating Zr-bptc under N2 at 300 °C for 12 hours?",
+      "answer": "Zr-bptc retains its structure, indicating high thermal stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of NO2 in Zr-bptc selective under both dry and wet conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Zr-bptc in the circular utilization of reactive nitrogen-based wastes?",
+      "answer": "It enables the integration of waste NO2 into the production of important nitro compounds, reducing the carbon footprint of industrial nitration processes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of water affect the adsorption capacity of NO2 in Zr-bptc?",
+      "answer": "True, the adsorption capacity slightly decreases under wet conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of NO2 in Zr-bptc affected by the presence of other gases such as CO2 and N2?",
+      "answer": "False, Zr-bptc shows high selectivity for NO2 over these gases.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

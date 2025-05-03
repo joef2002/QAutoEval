@@ -1,0 +1,124 @@
+{
+  "qas": [
+    {
+      "question": "What is the purpose of using high-pressure crystallography and computational modelling in the study?",
+      "answer": "To understand the adsorption process in ZIF-8.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What gases were included in the MOF structures studied?",
+      "answer": "Ar, CH4, O2, and N2.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many MOF structures containing Ar, CH4, N2, and O2 were highlighted in a CSD search?",
+      "answer": "7, 19, 27, and 24 respectively.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What algorithm was used to estimate the gas content within the crystal?",
+      "answer": "The Platon SQUEEZE algorithm.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many structures were collected at room temperature?",
+      "answer": "17 structures.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What method was set up to pump gas into the chamber for cryogenic loading?",
+      "answer": "A side view showing the brass coils through which the gas is pumped into the chamber.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Does the study reveal a transition to a high-pressure phase in ZIF-8?",
+      "answer": "Yes, the study reveals a transition to a high-pressure phase.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Were the adsorption sites for CH4 determined from both crystallography and GCMC simulations?",
+      "answer": "Yes, the adsorption sites for CH4 were determined from both crystallography and GCMC simulations.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is the ZIF-8 framework assumed to be rigid in the study?",
+      "answer": "No, the framework for ZIF-8 was once assumed to be rigid but the study shows that interaction with guest molecules induce linker rotation.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Did the study use a DAC for cryogenic loading of gases?",
+      "answer": "Yes, the study used a DAC immersed in liquid CH4 for cryogenic loading of gases.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the effect of pressure on the framework geometry and pore content of ZIF-8?",
+      "answer": "The study observed changes in the framework geometry and an increase in pore content with pressure.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How did the interaction energies of each sorbate with ZIF-8 change by switching to ZIF-8HP?",
+      "answer": "The interaction energies of each sorbate with ZIF-8 were lowered by ~ 3 kJ mol-1 by switching to ZIF-8HP.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Was the phase transition in ZIF-8 induced by the adsorption of guest molecules?",
+      "answer": "Yes, the phase transition in ZIF-8 was induced by the adsorption of guest molecules.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Did the study find that ZIF-8 undergoes a displacive phase transition?",
+      "answer": "Yes, the study found that ZIF-8 undergoes a displacive phase transition.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the role of the SQUEEZE algorithm in the study?",
+      "answer": "The SQUEEZE algorithm was used to estimate the gas content within the crystal.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many single crystal structures of MOFs containing refined molecules within the pores were found?",
+      "answer": "71 datasets.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the total number of MOF structures in the CSD as of February 2017?",
+      "answer": "79526 MOF structures.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Did the study use computational modelling to understand the adsorption process?",
+      "answer": "Yes, the study used computational modelling to understand the adsorption process.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Was the adsorption of gases in ZIF-8 studied at room temperature?",
+      "answer": "Yes, the adsorption of gases in ZIF-8 was studied at room temperature.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Did the study provide a new approach to obtaining atomistic detail on guest molecules?",
+      "answer": "Yes, the study provided a new approach to obtaining atomistic detail on guest molecules.",
+      "type": "True or False",
+      "difficulty": "easy"
+    }
+  ]
+}

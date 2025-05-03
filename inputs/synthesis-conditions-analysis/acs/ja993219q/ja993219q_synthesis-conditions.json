@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "material_id": "2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "CH3CN",
+              "amount": "10 mL"
+            },
+            {
+              "name": "CHCl3",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "CuI",
+              "amount": "0.098 g, 0.5 mmol"
+            },
+            {
+              "name": "Ligand 1",
+              "amount": "0.31 g, 1.0 mmol"
+            }
+          ],
+          "equipment": "Not specified",
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "CH3CN",
+              "amount": "10 mL"
+            },
+            {
+              "name": "Guest molecule solution (G1)",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "CuI",
+              "amount": "0.098 g, 0.5 mmol"
+            },
+            {
+              "name": "Ligand 1",
+              "amount": "0.31 g, 1.0 mmol"
+            }
+          ],
+          "equipment": "Not specified",
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "Not specified",
+          "solvents": [
+            {
+              "name": "CH3CN",
+              "amount": "10 mL"
+            },
+            {
+              "name": "Guest molecule solution (G2)",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "CuI",
+              "amount": "0.098 g, 0.5 mmol"
+            },
+            {
+              "name": "Ligand 1",
+              "amount": "0.31 g, 1.0 mmol"
+            }
+          ],
+          "equipment": "Not specified",
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    }
+  ]
+}

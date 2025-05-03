@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the three novel compounds reported?",
+      "answer": "[α-ZnTe(en)1/2] (I), [β-ZnTe(en)1/2] (II), and [ZnTe(pda)1/2](III)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do ethylenediamine (en) and 1,3-propanediamine (pda) play in the synthesis of compounds I-III?",
+      "answer": "Both en and pda serve as solvents and as a source of bifunctional ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the formation of compounds I-III reversible, and if so, what does it involve?",
+      "answer": "Yes, the formation is reversible and involves the conversion between ZnTe + L (solvent) ↔ ZnTe(L)1/2, where L = en, pda.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal structure of compound I?",
+      "answer": "Compound I has a three-dimensional network containing 2D [ZnTe] slabs and en molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of compound III demonstrate the incorporation of organic spacers?",
+      "answer": "The synthesis of III shows that organic spacers of different length can be incorporated into the same inorganic bulk.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What significant optical property variation is observed in compounds I-III compared to bulk ZnTe?",
+      "answer": "A very large blue shift (1.2−1.4 eV) of the absorption edge is observed in compounds I-III compared to bulk ZnTe.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What effect is responsible for the large blue shift of optical absorption edge in compounds I-III?",
+      "answer": "The quantum confinement effect (QCE) is responsible for the large blue shift of optical absorption edge.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the optical properties of the hybrid composites be modified, and if so, how?",
+      "answer": "Yes, the optical properties can be modified by varying the thickness of the inorganic layers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conversion between compounds I, II, and III achievable under mild conditions?",
+      "answer": "Yes, the conversion between compounds I, II, and III can be achieved under mild conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do compounds I-III have uniform and periodic structures?",
+      "answer": "True, all of the hybrid compounds have uniform and periodic structures.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the bridging coordination of en molecules to metal centers in compound I a common feature in chalcogenide-based structures?",
+      "answer": "False, such a coordination mode is rare and has not been previously reported for a chalcogenide-based structure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the optical absorption spectra of compounds I-III identical?",
+      "answer": "False, the optical absorption spectra of compounds I-III show new absorption edges and distinguishable peaks, indicating differences.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compounds I-III involve breaking the 3D ZnTe lattice into slabs?",
+      "answer": "True, the appropriate solvothermal conditions and strong donor solvents break the 3D ZnTe lattice into slabs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the direct covalent bonding of organic ligands to ZnTe bulk unique to compounds I-III?",
+      "answer": "True, the direct covalent bonding of organic ligands to ZnTe bulk is a feature of compounds I-III.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the large blue shift of optical absorption edge in compounds I-III be explained by the quantum confinement effect alone?",
+      "answer": "True, the quantum confinement effect explains the large blue shift of optical absorption edge in compounds I-III.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of compounds I-III a reversible process?",
+      "answer": "True, the synthesis of compounds I-III is reversible, involving the separation and recombination of ZnTe and organic components.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of en and pda molecules in the synthesis of compounds I-III contribute to their stability in air?",
+      "answer": "True, the synthesis conditions and the presence of en and pda contribute to the air stability of compounds I-III.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are compounds I-III stable in air for a short period of time?",
+      "answer": "False, compounds I-III are stable in air for a long period of time.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the conversion of compounds I and II to III require high temperatures?",
+      "answer": "False, the conversion can be achieved under mild conditions, not necessarily requiring high temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of compound II identical to that of compound I?",
+      "answer": "False, compound II is a polymorph of I, with differences in the topology of the 6^3 nets and the orientation and connectivity between the inorganic slabs and organic pillars.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

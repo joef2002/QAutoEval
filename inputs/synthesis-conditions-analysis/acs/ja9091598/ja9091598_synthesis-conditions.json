@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "material": "Rhodium(II) Complexes (1a−3a)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "rhodium(II) benzoate [Rh(II)2(O2CPh)4]",
+              "amount": "20.0 mg",
+              "molar_amount": "29.0 μmol"
+            },
+            {
+              "name": "acetonitrile",
+              "amount": "20 cm3",
+              "solvent": true
+            }
+          ],
+          "procedure": "An acetonitrile solution of rhodium(II) benzoate was allowed to stand at room temperature with a linking ligand vapor (pyrazine, 2-methylpyrazine, 2,3-dimethylpyrazine). After one month, polymerized complexes 1a−3a had crystallized in the form of reddish-orange plates.",
+          "yield": "High yields",
+          "washing_method": "The crystals were collected by filtration, washed with methanol, and air-dried.",
+          "drying_method": "Air-dried",
+          "time": "One month",
+          "temperature": "Room temperature"
+        }
+      ]
+    },
+    {
+      "material": "Copper(II) Complexes (1b−3b)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "copper(II) acetate monohydrate",
+              "amount": "80 mg",
+              "molar_amount": "0.40 mmol"
+            },
+            {
+              "name": "benzoic acid",
+              "amount": "117.2 mg",
+              "molar_amount": "0.96 mmol"
+            },
+            {
+              "name": "methanol",
+              "amount": "80 cm3",
+              "solvent": true
+            }
+          ],
+          "procedure": "A methanol solution of copper(II) acetate monohydrate and benzoic acid was allowed to stand for several days with the slow diffusion of pyrazine (pyz, 2-mpyz, 2,3-dmpyz) vapor. Polymerized complexes of 1b−3b crystallized in the form of blue plates.",
+          "yield": "High yields",
+          "washing_method": "The crystals were washed with a slight amount of methanol and air-dried.",
+          "drying_method": "Air-dried",
+          "time": "Several days",
+          "temperature": "Room temperature"
+        }
+      ]
+    },
+    {
+      "material": "Deuterized 1a−3a Complexes (1a′, 1a′′, 2a′, 3a′)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Deuterized benzoate complexes [Rh2(O2C−C6D5)4(R-pyz)]n",
+              "note": "R = H (1a′), 2-mpyz (2a′), 2,3-dmpyz (3a′) and deuterized pyrazine complex [Rh2(O2C−C6H5)4(pyz-d4)]n (1a′′)"
+            }
+          ],
+          "procedure": "Deuterized benzoate complexes and deuterized pyrazine complex were synthesized by the same method using corresponding deuterized ligands.",
+          "note": "Specific amounts and conditions are not provided."
+        }
+      ]
+    }
+  ]
+}

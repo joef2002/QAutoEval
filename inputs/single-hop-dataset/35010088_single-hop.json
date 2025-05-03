@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of D-POST-1?",
+      "answer": "C72H98N12O40Zn3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the intensity data for D-POST-1 collected?",
+      "answer": "188(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does D-POST-1 belong to?",
+      "answer": "Trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of D-POST-1?",
+      "answer": "P321",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>2s(I)) for D-POST-1?",
+      "answer": "R1 = 0.1017, wR2 = 0.2720",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were there for D-POST-1?",
+      "answer": "6109",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the absorption coefficient of D-POST-1?",
+      "answer": "0.681 mm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density (calculated) of D-POST-1?",
+      "answer": "1.112 Mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of POST-1 maintained after N-alkylation?",
+      "answer": "Yes, the overall framework structure of POST-1 remains unchanged upon N-alkylation of the pyridyl groups exposed in the channels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the catalytic activity of POST-1 decrease upon partial N-methylation of the pyridyl groups?",
+      "answer": "Yes, the catalytic activity of POST-1 is significantly reduced by partial N-methylation of the pyridyl groups exposed in the channels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the amount of POST-1 on the rate of transesterification?",
+      "answer": "The rate of transesterification of 2 with ethanol in CCl4 at 27°C decreases as the amount of POST-1 catalyst decreases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What demonstrates that the catalysis mainly occurs in the channels of POST-1?",
+      "answer": "The size selectivity observed in the transesterification reactions, where POST-1 catalyzes the reaction much slower or negligibly with alcohols bulkier than ethanol, supports that the catalysis mainly occurs in the channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the enantiomeric excess value for the transesterification of 2 with racemic alcohol 3 in the presence of L-POST-1?",
+      "answer": "8.2%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the pore volume of POST-1 shrink upon N-alkylation with iodomethane (CH3I)?",
+      "answer": "Yes, the pore volume of POST-1 shrinks by 14% upon N-alkylation with iodomethane (CH3I).",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of N-alkylation on the stability of POST-1?",
+      "answer": "N-methylated POST-1 has somewhat lower stability than POST-1 itself, as seen in the TGA thermogram.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the unit cell volume of D-POST-1?",
+      "answer": "5876.1(3) Å3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of D-POST-1?",
+      "answer": "1967.75",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the framework structure of POST-1 be confirmed by comparing observed and calculated powder XRD patterns?",
+      "answer": "Yes, the comparison of observed and calculated powder XRD patterns confirms that the structure of microcrystalline POST-1 is the same as that of single crystal POST-1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of N-alkylation with 1-iodohexane (CH3(CH2)5I) on the pore volume of POST-1?",
+      "answer": "The pore volume of POST-1 shrinks by 60% upon N-alkylation with 1-iodohexane (CH3(CH2)5I).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic activity of POST-1 affected by the solvent exchange from water molecules to ethanol molecules inside the channels?",
+      "answer": "No, the catalytic activity of POST-1 is not directly affected by the solvent exchange from water molecules to ethanol molecules inside the channels, but freshly prepared POST-1 is soaked in ethanol to perform the solvent exchange before being used as a catalyst.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

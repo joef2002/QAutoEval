@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing selectivity and direct visualization of carbon dioxide and sulfur dioxide in a decorated porous host?",
+      "answer": "10.1038/NCHEM.1457",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article on selectivity and direct visualization of carbon dioxide and sulfur dioxide in a decorated porous host?",
+      "answer": "Sihai Yang, Junliang Sun, Anibal J. Ramirez-Cuesta, Samantha K. Callear, William I.F. David, Daniel P. Anderson, Ruth Newby, Alexander J. Blake, Julia E. Parker, Chiu C. Tang and Martin Schröder",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum CO2 uptake capacity of NOTT-300 at 273 K and 1.0 bar?",
+      "answer": "7.0 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to directly visualize the dynamics of the binding interaction between adsorbed XO2 molecules and NOTT-300?",
+      "answer": "In situ inelastic neutron scattering (INS) combined with density functional theory (DFT) calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hydroxyl groups within the pores of NOTT-300 in binding CO2 and SO2?",
+      "answer": "The hydroxyl groups bind CO2 and SO2 through the formation of O5C(S)5O(d2)...H(d1)-O hydrogen bonds, which are reinforced by weak supramolecular interactions with C-H atoms on the aromatic rings of the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of CO2 and SO2 in NOTT-300 reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NOTT-300 exhibit higher selectivity for CO2 over other gases like CH4, CO, N2, H2, O2, and Ar?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption range for CO2 in NOTT-300?",
+      "answer": "27-30 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does NOTT-300 compare to amine-functionalized materials in terms of CO2 binding energy?",
+      "answer": "NOTT-300 has a moderate isosteric heat of adsorption (27-30 kJ mol-1) compared to higher values (40-90 kJ mol-1 for physisorption; 85-105 kJ mol-1 for chemisorption) observed in amine systems.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the cis configuration of m2-OH groups in NOTT-300?",
+      "answer": "The cis configuration of m2-OH groups is responsible for the chirality and rigidity of the framework in NOTT-300, leading to the formation of square-shaped channels with hydroxyl groups protruding into them.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can NOTT-300 be regenerated after CO2 and SO2 removal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the chemical formula of NOTT-300-solvate?",
+      "answer": "[Al2(OH)2(C16O8H6)](H2O)6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum SO2 uptake capacity of NOTT-300 at 273 K and 1.0 bar?",
+      "answer": "8.1 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does NOTT-300 show good chemical stability towards air, moisture, and common organic solvents?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the second CO2 site identified in NOTT-300.3.2CO2?",
+      "answer": "The second CO2 site interacts principally with the first CO2 through dipole interaction, forming an edge-on intermolecular CO2 network along the pore channel.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the second SO2 site identified in NOTT-300.4SO2?",
+      "answer": "The second SO2 site, identified as SO2(II), interacts with SO2(I) through O(d2)...S(d+) dipole interactions, stabilizing an SO2(I,II) intermolecular chain within the channel.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NOTT-300 exhibit high thermal stability?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 uptake at 0.15 bar relevant to the CO2 partial pressure in flue gas for NOTT-300?",
+      "answer": "2.64 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What synthetic method was used to prepare NOTT-300-solvate?",
+      "answer": "NOTT-300-solvate was prepared by a hydrothermal reaction of H4L1, Al(NO3)3.9H2O, and piperazine in water containing HNO3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of NOTT-300-solvate considered environmentally friendly?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

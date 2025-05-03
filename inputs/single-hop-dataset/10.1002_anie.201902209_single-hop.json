@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in separating propylene/propane mixtures?",
+      "answer": "The main challenge is their close-lying boiling points, which results in a very small relative volatility.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What advantage does adsorptive separation have over distillation for separating propylene/propane?",
+      "answer": "Adsorptive separation has a much lower energy requirement than distillation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is molecular sieving considered an ideal but difficult separation mechanism for MOFs?",
+      "answer": "Because of the challenges in precise design/control of the pore size and the flexibility of porous frameworks affecting the pore size.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does selective oxidation have on the metal-organic framework discussed in the text?",
+      "answer": "Selective oxidation transforms half of the soft methylene bridges to more polar and rigid carbonyl bridges, improving thermodynamic and kinetic adsorption selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the C3H6/C3H8 selectivity of the oxidized metal-organic framework compare to Co-MOF-74 and KAUST-7?",
+      "answer": "The selectivity increases drastically from 1.5 to 15, which is higher than both Co-MOF-74's 6.5 and KAUST-7's 12 selectivities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The oxidation of the metal-organic framework requires an external catalyst.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The pore volume of MAF-23-O is larger than that of MAF-23.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of the mixture breakthrough experiments for MAF-23-O in terms of C3H6 and C3H8 adsorption?",
+      "answer": "C3H8 adsorption is largely reduced and C3H6 adsorption is enhanced after oxidation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the kinetic selectivity (D'(C3H6)/D'(C3H8)) of MAF-23-O?",
+      "answer": "71",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption enthalpy of C3H6 is higher than that of C3H8 in MAF-23-O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the high experimental C3H6/C3H8 selectivity of MAF-23-O indicate about its separation mechanisms?",
+      "answer": "It indicates that the high selectivity is a result of both thermodynamic and kinetic factors.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The flexibility of MAF-23-O is higher than that of MAF-23.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of carbonyl groups in enhancing C3H6 adsorption enthalpy in MAF-23-O?",
+      "answer": "A C(sp2)@H bond of C3H6 forms a hydrogen bond with the lone electron pair of the carbonyl oxygen atom, enhancing C3H6 adsorption enthalpy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformations of the hosts and guests are significant after adsorption.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the decrease in C3H8 adsorption enthalpy in MAF-23-O indicate?",
+      "answer": "It indicates a reduced Lewis basicity of the N atoms due to the electron-withdrawing ability of the carbonyl group.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption enthalpies for C3H6 and C3H8 in MAF-23 are very similar.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the oxidation process on the color of MAF-23 crystals?",
+      "answer": "The colorless crystals turn yellow at high temperature in air.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The oxidation of MAF-23 to MAF-23-O changes the unit-cell volume, void ratio, and channel size/shape.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the decomposition temperature of MAF-23-O compared to MAF-23?",
+      "answer": "MAF-23-O decomposes at temperatures above 250 88C, which is lower than MAF-23's decomposition temperature of 480 88C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the high kinetic selectivity of MAF-23-O?",
+      "answer": "It indicates that the high kinetic selectivity is a result of the slow C3H8 diffusion or the low flexibility of the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

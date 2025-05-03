@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using UiO-67 and UiO-bpydc in the study?",
+      "answer": "The purpose of using UiO-67 and UiO-bpydc in the study is to elucidate the responsive adsorption behaviors of defect-rich Zr-based MOFs upon the progressive incorporation of ammonia (NH3) and variable temperature, and to establish the influence of functional linkers on their NH3 affinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to analyze the structural information of the diffraction patterns in the study?",
+      "answer": "The Rietveld refinement method was used to analyze the structural information of the diffraction patterns in the study.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key findings from the NH3-TPD data of defective MOF samples?",
+      "answer": "The key findings from the NH3-TPD data of defective MOF samples are the identification of distinct desorption temperatures that indicate stronger interactions with NH3 molecules in UiO-bpydc compared to UiO-67.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the healing process affect the NH3 adsorption behavior of UiO-67 and UiO-bpydc?",
+      "answer": "The healing process affects the NH3 adsorption behavior by potentially repairing missing linker defects, which leads to changes in the NH3 adsorption profiles, such as the disappearance of the second transition step in healed UiO-67 and an increase in NH3 uptake in healed UiO-bpydc.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the rotational energy barrier (Erb) play in the flexibility of MOF linkers?",
+      "answer": "The rotational energy barrier (Erb) indicates the flexibility of the MOF linkers; a higher Erb value suggests less flexibility of the MOF linkers, while a lower Erb value indicates more flexibility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that the adsorption of NH3 in UiO-bpydc significantly increases the rotational energy barrier compared to UiO-67.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to study the dynamic interactions between stored NH3 and the host structures of UiO-67 and UiO-bpydc?",
+      "answer": "Inelastic neutron scattering (INS) technique was used to study the dynamic interactions between stored NH3 and the host structures of UiO-67 and UiO-bpydc.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of acetic acid in the 1H NMR spectra of unhealed samples indicate?",
+      "answer": "The presence of acetic acid in the 1H NMR spectra of unhealed samples indicates that missing linker defects are feasibly terminated by acetates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the UiO-bpydc MOF exhibits stronger NH3-framework interactions compared to UiO-67.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What future research directions are suggested by the study?",
+      "answer": "Future research directions suggested by the study include using neutron scattering techniques combined with computational modeling to further establish the dynamic behaviors and kinetics of the system and support the H-bonding network model.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest CO2 uptake capacity reported for CPM-200-Fe/Mg at 273 K and 1 bar?",
+      "answer": "207.6 cm3/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF has the highest isosteric heat of adsorption for CO2?",
+      "answer": "CPM-200-V/Mg",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of CPM-200-Fe/Mg?",
+      "answer": "1459 cm3/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which metal combinations were found to be unprecedented in crystalline porous materials before this study?",
+      "answer": "Ga/Mg, Fe/Mg, V/Mg, and Sc/Mg",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CO2 uptake capacity of CPM-200-Fe/Mg compare to MOF-74-Mg at 273 K and 1 bar?",
+      "answer": "CPM-200-Fe/Mg has a CO2 uptake capacity of 207.6 cm3/g, which is close but slightly lower than MOF-74-Mg's capacity of 228 cm3/g.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the isosteric heat of adsorption for CO2 in CPM-200-V/Mg higher than that of any other reported MOFs with Lewis acid sites?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the CO2 uptake performance of CPM-200-Fe/Mg at 298 K and 1 bar surpass that of HKUST-1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of InCl3 in the synthesis of heterometallic CPM-200 MOFs?",
+      "answer": "InCl3 is irreplaceable for the formation of heterometallic CPM-200 MOFs, but it cannot lead to the formation of CPM-200-In by itself.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the cooperative crystallization method be applied to synthesize homometallic MOFs under the same conditions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of varying the In/Mg ratio on the CO2 uptake performance of CPM-200 MOFs?",
+      "answer": "The CO2 uptake increases with increasing Mg/In ratios, likely due to the increasing concentration of open Mg2+ sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 uptake capacity of CPM-200-Fe/Mg at 273 K and 1 bar the highest among all heterometallic MOFs reported?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of main-group metals in the design of high-performance gas sorption materials?",
+      "answer": "Despite the statistical favoring of transition-metal MOFs, the magnesium form of MOF-74 exhibits the highest CO2 uptake capacity, highlighting the unique significance of main-group metals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are CPM-200 MOFs capable of adsorbing N2 at 273 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the charge-to-radius ratio of metal ions in MOFs?",
+      "answer": "The charge-to-radius ratio of metal ions in MOFs is related to the role of open metal sites on gas sorption properties, with a strong correlation observed between this ratio and the isosteric heat for CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the CO2 uptake performance of CPM-200-Fe/Mg at 273 K and 1 bar outperform that of Cu-TDPAT?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest CO2 uptake capacity among the CPM-200 series at 298 K and 1 bar?",
+      "answer": "127.3 cm3/g for CPM-200-Fe/Mg",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the cooperative crystallization strategy essential for the formation of CPM-200 MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the cooperative crystallization strategy on the crystallization of CPM-200 MOFs?",
+      "answer": "The synergy during crystallization of CPM-200 is so essential that corresponding homometallic MOFs could not be made under the same conditions in the absence of any one of two metal sources.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the synthesis conditions for heterometallic CPM-200 MOFs be easily replicated for homometallic MOFs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of solvent and cosolvent ratios in the synthesis of heterometallic CPM-200 MOFs?",
+      "answer": "To achieve matching kinetics for chemically dissimilar metal ions, the types of metal precursors, as well as types of and ratios between solvents and cosolvents, were focused on.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

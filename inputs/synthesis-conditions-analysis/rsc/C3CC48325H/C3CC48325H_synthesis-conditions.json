@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "Mn(Me-ip)(DMF)]n (1)",
+      "synthesis_conditions": {
+        "temperature": "160ºC",
+        "solvents": "DMF (N,N-dimethylformamide)",
+        "amount_of_solvent": "5 ml",
+        "equipment": "Teflon-lined stainless steel vessel",
+        "chemicals_used": {
+          "Mn(CH3COO)2·4H2O": "0.25 mmol, 0.061 g",
+          "5-methylisophthalic acid": "0.50 mmol, 0.089 g",
+          "LiNO3": "0.50 mmol, 0.035 g"
+        },
+        "time": "2 days",
+        "yield": "68 mg (89% based on Mn)",
+        "drying_method": "ambient conditions",
+        "crystal_system": "orthorhombic",
+        "space_group": "Pna2(1)",
+        "cell_parameters": {
+          "a": "7.491(3) Å",
+          "b": "15.386(6) Å",
+          "c": "11.226(4) Å",
+          "alpha": "90.00°",
+          "beta": "90.00°",
+          "gamma": "90.00°",
+          "volume": "1294.0(8) Å3"
+        },
+        "Z": "4",
+        "Dcalc": "1.572 g cm−3",
+        "F(000)": "628",
+        "R1": {
+          "for_I_greater_than_2sigma(I)": "0.0328",
+          "all_data": "0.0335"
+        },
+        "wR2": {
+          "for_I_greater_than_2sigma(I)": "0.0839",
+          "all_data": "0.0848"
+        },
+        "GOF_on_F2": "1.018",
+        "Flack_parameter": "0.03(2)"
+      }
+    },
+    {
+      "name": "De-DMF sample 2",
+      "synthesis_conditions": {
+        "temperature": "250°C",
+        "time": "8 h",
+        "equipment": "vacuum",
+        "drying_method": "under vacuum",
+        "IR_spectroscopic_analysis": "The peak at 1667 cm−1 (indicating DMF) disappears, suggesting complete removal of DMF molecules."
+      }
+    },
+    {
+      "name": "Re-DMF sample 1'",
+      "synthesis_conditions": {
+        "solvents": "DMF",
+        "amount_of_solvent": "2 mL",
+        "time": "48 h",
+        "temperature": "room temperature",
+        "IR_spectroscopic_analysis": "The reappearance of the peak at 1667 cm−1, indicating the re-absorption of DMF molecules."
+      }
+    }
+  ]
+}

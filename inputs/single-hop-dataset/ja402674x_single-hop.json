@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Stimuli Responsive Hybrid Magnets: Tuning the Photoinduced Spin-Crossover in Fe(III) Complexes Inserted into Layered Magnets",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Miguel Clemente-León, Eugenio Coronado, Maurici López-Jordà, João C. Waerenborgh, Cédric Desplanches, Hongfeng Wang, Jean-François Létard, Andreas Hauser, Antoine Tissot",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus is on tuning the photoinduced spin-crossover in Fe(III) complexes inserted into layered magnets.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnets are being studied in the research?",
+      "answer": "Hybrid magnets",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the photoinduced spin-crossover in the context of the research?",
+      "answer": "The photoinduced spin-crossover is significant for tuning the properties of hybrid magnets, potentially leading to new multifunctional materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the key findings of the research?",
+      "answer": "The research demonstrates that substitution of solvents in the synthesis of 2D oxalate-based ferromagnets allows for the preparation of compounds that maintain interesting physical properties, including magnetic ordering and the LIESST effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is cooperativity a necessary condition to observe the LIESST effect in Fe(III) compounds according to the research?",
+      "answer": "No, cooperativity is not a necessary condition to observe the LIESST effect in Fe(III) compounds, as demonstrated by spectroscopic measurements on single crystals of the doped compound.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the bimetallic oxalate extended network play in the stabilization of the metastable HS state?",
+      "answer": "The bimetallic oxalate extended network may play an important role in stabilizing the metastable HS state by preventing fast relaxation to the LS ground state through new interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the potential application of the findings from the research?",
+      "answer": "The findings could lead to the use of the hybrid approach for the preparation of new multifunctional materials that couple the switching properties of the SCO molecule with a second property from the extended network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the research article provide supporting information?",
+      "answer": "Yes, the research article provides supporting information including tables and figures related to the structure and magnetic properties of the compounds studied.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the LIESST effect observed in all Fe(III) complexes according to the research?",
+      "answer": "False, the LIESST effect is not observed in all Fe(III) complexes; it is observed in specific complexes with certain structural characteristics.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the structural changes from LS to HS state in Fe(III) complexes uniform across all compounds studied?",
+      "answer": "False, the structural changes from LS to HS state in Fe(III) complexes vary, with different types of distortions observed in different complexes.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the LIESST effect be enhanced by changing the solvent in the synthesis of the compounds?",
+      "answer": "True, changing the solvent in the synthesis of the compounds can enhance the LIESST effect by affecting the chemical pressure exerted on the inserted cation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the research focused solely on the magnetic properties of the compounds?",
+      "answer": "False, the research focuses on both the magnetic properties and the photoinduced spin-crossover behavior of the compounds.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the research conclude that the bimetallic oxalate extended network has no impact on the LIESST effect?",
+      "answer": "False, the research suggests that the bimetallic oxalate extended network may have an impact on the LIESST effect by stabilizing the metastable HS state.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/ja402674x",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What institutions are the authors affiliated with?",
+      "answer": "The authors are affiliated with institutions such as the Instituto de Ciencia Molecular (ICMol), Universidad de Valencia, IST/ITN, Instituto Superior Técnico, Universidade Técnica de Lisboa, Université de Bordeaux, and Université de Genève.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the publication date of the research article?",
+      "answer": "The research article was published on June 12, 2013.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main experimental technique used in the research?",
+      "answer": "The main experimental techniques used in the research include single crystal X-ray diffraction, magnetic susceptibility measurements, Mössbauer spectroscopy, and optical single crystal absorption spectra.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the potential impact of the research findings on the field of materials science?",
+      "answer": "The research findings have the potential to impact the field of materials science by providing insights into the design and synthesis of new multifunctional materials with tunable properties for applications in sensors, memories, and molecular switches.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

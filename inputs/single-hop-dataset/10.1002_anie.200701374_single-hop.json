@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the basic structural unit in zeolites?",
+      "answer": "[SiO4]4- and [AlO4]5-",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to induce chirality in materials like zeolite b?",
+      "answer": "Using chiral molecules such as amines or metal complexes as templates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the common topology found in MOFs that is also known in simple inorganic solids?",
+      "answer": "Framework topologies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How can homochiral solids be constructed?",
+      "answer": "From enantiopure ligands.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the topological features of the materials synthesized from d- or dl-camphoric acid and 4,4'-trimethylenedipyridine?",
+      "answer": "Homochiral threefold and fourfold interpenetrating diamond net, and achiral fourfold interpenetrating diamond net.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the achiral form of the material synthesized?",
+      "answer": "Pna21",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the helices during the phase transformation from [Cd(d-cam)(tmdpy)]·2 H2O to anhydrous a-[Cd(d-cam)(tmdpy)]?",
+      "answer": "The helices contract.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why do homochiral 3D frameworks prepared from enantiopure ligands usually have different topological features from those prepared from the corresponding racemate?",
+      "answer": "Because of the differing symmetry requirements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates that there was no racemization of the enantiopure ligand during the hydrothermal synthesis of crystal 4?",
+      "answer": "The Flack parameters obtained from single-crystal X-ray diffraction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the synthesis of crystals 3 and 4?",
+      "answer": "Crystal 4 is favored at lower temperature, while crystal 3 is favored at higher temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How can crystals 4 and 5 be distinguished?",
+      "answer": "Through full data analysis of single-crystal X-ray diffraction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the nearly identical unit cell parameters between the chiral and achiral forms?",
+      "answer": "It demonstrates the possibility of maintaining the same crystal structure while replacing every other enantiopure ligand with its opposite.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the basic coordination chemistry the same across all six structures mentioned?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the achiral diamond net frequently occur in MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the achiral diamond net be converted into a chiral net?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is it possible to distinguish homochiral 4 and achiral 5 through X-ray powder diffraction?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do homochiral and achiral 3D four-connected framework solids with nearly identical unit cell parameters commonly exist?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group P21 always chiral?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the loss of two water molecules from crystal 1 to 2 lead to an increase in the volume of the unit cell?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

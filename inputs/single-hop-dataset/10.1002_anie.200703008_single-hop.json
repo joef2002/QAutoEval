@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the potential applications of homochiral open-framework materials?",
+      "answer": "Asymmetric catalysis and enantioselective separation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is employed for the synthesis of porous materials in a wide range of chemical compositions?",
+      "answer": "A combined charge- and space-templating method using charged organic templates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unusual structural building unit is mentioned in the synthesis of metal-organic frameworks?",
+      "answer": "The square-planar {M4(OH)}7+ unit.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was compound 1 synthesized?",
+      "answer": "Hydrothermally.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coordination geometry of the Cu+ center in compound 1?",
+      "answer": "Tetrahedral.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology type of crystal 5?",
+      "answer": "A six-connected net.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main difference between compounds 2 and 3?",
+      "answer": "Compound 2 has aqua ligands bonded to each {Cd4(OH)} unit, while compound 3 has a pyridine ligand attached to the {Cd4(OH)} unit.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why do compounds 2 and 5 not show microporous behavior in nitrogen sorption studies?",
+      "answer": "Phase transitions into new crystalline phases likely reduce the pore size and accessible surface areas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the first stage of weight loss in the thermal analysis of compounds 2-4?",
+      "answer": "The loss of extraframework guest molecules or weakly coordinated ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis approach of homochiral metal-organic frameworks compare to the synthesis of aluminosilicate zeolites?",
+      "answer": "Both use charged organic structure directing agents for templating.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of replacing Cd2+ with Co2+ in compound 4 compared to compound 3?",
+      "answer": "It results in a slightly smaller unit cell.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is unique about the {M4(OH)} square-planar building block in compounds 2-4?",
+      "answer": "Its coordination geometry is unusual for both metal cations (Cd2+ or Co2+) and anionic O2-.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of homochiral metal-organic frameworks cannot be templated by charged organic species.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Compound 1 contains a positively charged framework that is charge-balanced by guest d-Hcam anions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The {M4(OH)} square-planar unit is common in the literature for both Cd2+ and Co2+.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The solvent-accessible volume in compound 5 is less than that in compound 2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 involved the use of ionic liquids.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of a hydroxy species at the center of the {M4(OH)} square is confirmed by bond-valence calculation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of compound 5 involved a hydrothermal method.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The six-connected net in compound 5 contains planar (4,4) sheets.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

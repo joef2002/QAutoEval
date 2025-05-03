@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "What is the empirical formula of H2-Mn-DOBDC•DMF2?",
+      "answer": "C14H18N2O8Mn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the crystal of H2-Mn-DOBDC•DMF2 analyzed?",
+      "answer": "150.15 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of H2-Mn-DOBDC•DMF2?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of H2-Mn-DOBDC•DMF2?",
+      "answer": "I2/a",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index for H2-Mn-DOBDC•DMF2 when I>=2σ (I)?",
+      "answer": "R1 = 0.0410, wR2 = 0.1002",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of the unit cell for H2-Mn-DOBDC•DMF2?",
+      "answer": "1715.3(4) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the lithiation of H2-Mn-DOBDC lead to a change in its PXRD pattern?",
+      "answer": "Yes, the lithiation of H2-Mn-DOBDC leads to a slight structural change in its PXRD pattern.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the electronic conductivity of Li2-Mn-DOBDC higher than that of H2-Mn-DOBDC?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the removal of DMF from H2-M-DOBDC•DMF2 result in a different PXRD pattern?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the lithiated version of H2-M-DOBDC withstand higher temperatures without significant mass loss compared to its non-lithiated counterpart?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of charge cut-off potential on the electrochemical behavior of Mn-CPO-27?",
+      "answer": "The increase of the charge cut-off potential leads to extraction of more Li+ and enhancement of the reversibility for Mn-CPO-27.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the electrolyte nature influence the decomposition process of Li2-Mn-DOBDC at high potentials?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of carbon content on the electrochemical performance of Li2-Mn-DOBDC electrodes?",
+      "answer": "Higher specific capacity is delivered by using 40 wt % of carbon, indicating that carbon content impacts the electrochemical performance of Li2-Mn-DOBDC electrodes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ionic conductivity of Li2-Mg-DOBDC and Li2-Mn-DOBDC significant?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of π-π stacking interactions in the electronic conductivity of MOFs?",
+      "answer": "π-π stacking interactions can improve the electronic conductivity of MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

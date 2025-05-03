@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of diethylformamide in the synthesis of the 2D coordination polymer?",
+      "answer": "Diethylformamide acts as a solvate, exhibiting channels that allow dipyridyl bridging ligands to diffuse into the crystal lattice and substitute the surface diethylformamide molecules on neighboring layers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the insertion of dipyridyl ligands affect the structure of the MOFs?",
+      "answer": "The insertion of dipyridyl ligands results in the formation of flexible interpenetrated metal-organic frameworks by stitching alternate layers together, and also causes the exchange of diethylformamide solvates for aqua to minimize congestion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of twofold interpenetrated MOFs involves ligand threading through the pores in a single crystal of a 2D coordination polymer.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ideal N···N separation distance for a dipyridyl ligand to effectively bridge in the MOF structure?",
+      "answer": "Approximately 8.3 Å.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOF structure when bridging ligands of different lengths are introduced?",
+      "answer": "The introduction of bridging ligands of different lengths forces the slippage of two-dimensional layers to accommodate these ligands, while still maintaining crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 5 resulted in a significant increase in void space compared to the original structure 1a.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of using DMF instead of DEF in the synthesis of MOFs?",
+      "answer": "Using DMF instead of DEF resulted in a different orientation of the layers in the crystalline state, which affected the reactivity and prevented the successful conversion seen with DEF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The frameworks of complexes 2-5 are stable up to around 300°C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface areas calculated from CO2 sorption data for complexes 2-5?",
+      "answer": "The BET surface areas provide insight into the porosity and gas adsorption capabilities of the MOFs, indicating their potential for CO2 capture and other applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption curve for complex 4 displays a gating pressure not found in other complexes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bridging ligand in the synthesis of twofold interpenetrated MOFs?",
+      "answer": "The bridging ligand threads through more than one 2D layer, linking alternate layers to form a 3D MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the length of the bridging ligand affect the structure and porosity of the MOFs?",
+      "answer": "The length of the bridging ligand determines the extent of layer slippage and the resulting void space, affecting the structure's porosity and gas adsorption properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 5 demonstrated an in situ substitution of 'normal' solvates with 'functional' solvates.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of solvent choice on the synthesis and reactivity of MOFs?",
+      "answer": "The choice of solvent, such as DEF or DMF, significantly impacts the orientation of layers, channel formation, and the ability of bridging ligands to access and modify the MOF structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The removal of encapsulated bipyridyl ligands does not change the TGA decomposition temperatures for complexes 2-5.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental conditions are necessary for the successful conversion of 2D polymers into 3D MOFs with bridging ligands?",
+      "answer": "The conversion requires the coherent cooperation of functional groups and the presence of sizable channels in the 2D polymer that allow bridging ligands to access and displace solvent molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis approach described can be applied to other crystal systems beyond MOFs to increase porosity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CO2 adsorption isotherms for complexes 2-5?",
+      "answer": "The CO2 adsorption isotherms indicate the materials' efficiency in CO2 capture, with variations in hysteresis and gating pressure reflecting differences in structural flexibility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 5 resulted in a void space more than twice that of the original structure 1a.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with controlling the interpenetration manifold in MOFs?",
+      "answer": "Controlling the interpenetration manifold is challenging due to the need for precise manipulation of ligand lengths and orientations to achieve desired porosity and structural features.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

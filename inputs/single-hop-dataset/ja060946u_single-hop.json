@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the robust metal−organic framework compound synthesized?",
+      "answer": "{[Zn2(L)]·4H2O}∞",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of the porous material [Zn2(L)]∞?",
+      "answer": "312.7 m2/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum hydrogen uptake observed for the material at 4 bar and 77 K?",
+      "answer": "1.08 wt %",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the adsorption energy (βE0) for N2 molecules on the material?",
+      "answer": "29.6 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the removal of guest water molecules from the crystal structure affect the material?",
+      "answer": "It affords the porous material [Zn2(L)]∞, which has very high thermal stability and is chemically inert.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the hydrothermal reaction in the synthesis of {[Zn2(L)]·4H2O}∞?",
+      "answer": "The hydrothermal reaction of ZnCl2 and H4L in the presence of different bases yields the compound {[Zn2(L)]·4H2O}∞.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework of compound I is chiral.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adsorption and desorption kinetic processes in [Zn2(L)]∞ are mainly determined by the molecular size of the guest species.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the additive base on the morphology of the product in the synthesis of {[Zn2(L)]·4H2O}∞?",
+      "answer": "The additive base significantly affects the product morphology, with certain bases promoting crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework of compound I decomposes in strong acid or strong base.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal structure of compound I?",
+      "answer": "Compound I shows a three-dimensional host framework with interconnecting pore cavities containing water molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The guest water molecules in compound I are bound inside the channel with strong O−H···O hydrogen bonding contacts.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum methane adsorption at 298 K for the material?",
+      "answer": "3.14 wt % (44.0 cm3/g, 67 v/v) at 9 bar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The framework II shows a significant kinetic trap effect for large absorbate substrates.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of N2 on II at 77 K?",
+      "answer": "35.2 kJ mol-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The framework II has a high affinity for N2 relative to other microporous materials.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the 2,6-lutidine/H4L ratio in the synthesis of compound I?",
+      "answer": "Increasing the 2,6-lutidine/H4L ratio improves the crystallinity of the product.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework II is hydrophilic.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on H2 adsorption on II?",
+      "answer": "H2 adsorption on II is very sensitive to temperature, decreasing rapidly with increasing temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework II can trap H2 molecules at low temperature.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

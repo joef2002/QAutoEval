@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest toxin removal efficiency among the MOFs studied?",
+      "answer": "NU-1000 offers the highest toxin removal efficiency.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF has a topology that allows for rapid diffusion of p-cresyl sulfate?",
+      "answer": "NU-1000 has a topology that allows for rapid diffusion of p-cresyl sulfate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hydroxyl groups on Zr6 nodes in the adsorption of uremic toxins?",
+      "answer": "The hydroxyl groups on Zr6 nodes are capable of hydrogen bonding with the ionic functional groups of the adsorbates, contributing to the adsorption of uremic toxins.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can NU-1000 remove p-cresyl sulfate from human serum albumin?",
+      "answer": "Yes, NU-1000 can almost completely remove p-cresyl sulfate from human serum albumin.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the adsorption equilibrium constant (KL) for p-cresyl sulfate in NU-1000?",
+      "answer": "The KL value for p-cresyl sulfate decreases with increasing temperature from 297 K to 303 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the adsorption capacity of NU-1000 for uremic toxins decrease after adsorption of p-cresyl sulfate?",
+      "answer": "Yes, the BET area decreases from 2140 ± 5 m2/g to 1860 ± 15 m2/g after adsorption of p-cresyl sulfate, indicating a decrease in adsorption capacity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystallinity of NU-1000 maintained after adsorption of uremic toxins?",
+      "answer": "Yes, the crystallinity of the material is maintained after adsorption.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted removal efficiency of p-cresyl sulfate from HSA by adding 20 mg of NU-1000?",
+      "answer": "The predicted removal efficiency is 93%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the experimental removal efficiency of p-cresyl sulfate from HSA match the predicted value after adding 20 mg of NU-1000?",
+      "answer": "Yes, about 93% of p-cresyl sulfate in the solution was removed, consistent with the predicted removal efficiency.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of π–π interactions in the adsorption of uremic toxins by NU-1000?",
+      "answer": "π–π interactions between the adsorbates and the pyrene-based linkers of NU-1000 play an important role in the adsorption of uremic toxins.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the adsorption behavior of uremic toxins on MOFs be predicted by performing adsorption isotherms?",
+      "answer": "Yes, the removal efficiency of uremic toxins by MOFs can be estimated by performing adsorption isotherms for the adsorbents.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of steric repulsion in the adsorption behavior of NU-1200?",
+      "answer": "Steric repulsion between p-cresyl sulfate and the methyl group on the linker of NU-1200 prevents adsorption in NU-1200.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NU-1000 exhibit high removal efficiency for both indoxyl sulfate and hippuric acid?",
+      "answer": "Yes, the uptakes of indoxyl sulfate and hippuric acid reached more than 98% in 1 min, suggesting strong interactions with NU-1000.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the adsorption equilibrium constant (KL) for hippuric acid in NU-1000?",
+      "answer": "The KL value for hippuric acid increases drastically from 197 to 703 mM–1 upon increasing temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of uremic toxins in NU-1000 affected by the presence of competing salt ions?",
+      "answer": "No, NU-1000 maintains p-cresyl sulfate affinity in the presence of competing salt ions in aqueous solution of 0.2 M NaCl.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pyrene-based linker in NU-1000 for the adsorption of uremic toxins?",
+      "answer": "The pyrene-based linker in NU-1000 contributes to the high adsorption capacity through π–π interactions and hydrophobic adsorption sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the adsorption of uremic toxins by MOFs be directly characterized by single-crystal X-ray diffraction (SCXRD) analysis?",
+      "answer": "Yes, crystalline adsorbents like MOFs allow for direct structural characterization of adsorbates by SCXRD analysis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hydroxyl and water molecules on the Zr6 nodes in NU-1000?",
+      "answer": "They are capable of hydrogen bonding with polar functional groups of guest molecules, contributing to the high adsorption capacity of NU-1000.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the adsorption performance of activated carbons rely solely on unselective van der Waals interactions?",
+      "answer": "Yes, the adsorption performance of activated carbons relies solely on unselective van der Waals interactions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the crystalline nature of MOFs on the design of adsorbent materials?",
+      "answer": "The crystalline nature of MOFs permits unambiguous structural determination, assisting the design of superior adsorbent materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

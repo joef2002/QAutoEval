@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework discussed?",
+      "answer": "Cu(2,7-AQDC)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 2,7-anthraquinonedicarboxylic acid in the synthesis of the MOF?",
+      "answer": "It acts as a bridging ligand.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the voltage window used for the lithium battery containing the MOF?",
+      "answer": "4.0–1.7 V",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What analysis technique was used to track the valence change of copper in the MOF?",
+      "answer": "In situ Cu K-edge X-ray absorption near edge structure (XANES) analysis",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the theoretical capacity of the MOF material in mAh/g?",
+      "answer": "Approximately 162 mAh/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the initial specific capacity achieved by the MOF battery?",
+      "answer": "147 mAh/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why was the MOF considered for use in lithium batteries?",
+      "answer": "Due to its porosity and crystallinity, which leads to large Li-ion accommodation numbers and structural stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the MOF's structure contribute to its function in batteries?",
+      "answer": "The MOF's structure, with metal clusters and anthraquinone groups, allows for independent redox activity, enhancing electron storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of narrowing the voltage range to 4.0–2.0 V during battery tests?",
+      "answer": "No capacity loss was observed within 50 cycles, indicating outstanding robustness.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenge was identified in achieving the theoretical capacity of the MOF in practical applications?",
+      "answer": "The practical capacity was restricted by the limited exposed surface area and low charge transfer rate of MOF materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF material shows redox activity only on the metal cluster nodes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF material's theoretical capacity is significantly higher than that of major commercial materials like LiCoO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF material loses significant capacity after 50 cycles when operated within a 4.0–1.7 V window.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF's structure remains unchanged after lithium ion intercalation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF material's capacity loss during cycling is due to the complete extraction of Li-ions.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF material's porosity is detrimental to its performance in lithium batteries.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF material's practical capacity matches its theoretical capacity.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

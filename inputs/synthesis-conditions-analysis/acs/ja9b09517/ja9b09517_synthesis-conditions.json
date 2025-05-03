@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "tpbe-Cd microcrystals",
+      "synthesis": {
+        "method": "solvothermal reaction",
+        "chemicals": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.0123 g, 0.04 mmol"
+          },
+          {
+            "name": "tpbe",
+            "amount": "0.0099 g, 0.01 mmol"
+          },
+          {
+            "name": "DMAC",
+            "amount": "1 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          },
+          {
+            "name": "HCl (2 M)",
+            "amount": "66 µL"
+          }
+        ],
+        "procedure": "Mixture sonicated for 30 s, heated to 65°C for 12 h, cooled to room temperature, washed with DMAC three times.",
+        "equipment": "5 mL glass vial",
+        "temperature": "65°C",
+        "time": "12 h",
+        "washing_method": "Washed with DMAC three times",
+        "yield": "Not specified"
+      },
+      "characterizations": {
+        "morphology": "Scanning electron microscopy (FEI Nova NanoSEM450)",
+        "infrared_spectra": "PerkinElmer Spectrum Two FT-IR Spectrometer",
+        "thermogravimetry_analysis": "SHIMADZU TGAQ50 thermogravimetric analyzer",
+        "x-ray_diffraction": "XRD, Japan Rigaku D/max-2500",
+        "quantum_yields": "Hamamatsu Absolute Quantum Yield Spectrometer C11347",
+        "fluorescence_spectra": "UV-visible spectrometer (Perkin-Elmer Lambda 35) and fluorescent spectrometer (Hitachi F-7000)",
+        "optical_images": "Inverted fluorescence microscope (Nikon Ti-U)"
+      },
+      "additional_experiments": {
+        "pump_laser_beam": "400 nm, 150 fs, 1000 Hz",
+        "spectra_measurement": "Monochrometer (Princeton Instrument Acton SP 2300i) connected with an EMCCD (Princeton Instrument ProEM 1600B)"
+      }
+    }
+  ]
+}

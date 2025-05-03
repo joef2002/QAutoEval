@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the cluster-organic framework discussed in the article?",
+      "answer": "COZ-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the inner diameter of the 6^4 5^12 cages in COZ-1?",
+      "answer": "2.6 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent was used in the synthesis of COZ-1?",
+      "answer": "N,N-dimethylformamide (DMF)/ethanol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of triethylamine in the synthesis of COZ-1?",
+      "answer": "It was added to the mixture before heating at 100 °C for 15 days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How long were the yellow crystals of COZ-1 synthesized solvothermally?",
+      "answer": "15 days",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum emission wavelength of COZ-1 upon UV excitation at 350 nm?",
+      "answer": "588 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the tetrahedral Cu4I4 clusters in the structure of COZ-1?",
+      "answer": "They serve as pseudotetrahedral units for creating the zeolite-type framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is COZ-1 considered photoluminescent?",
+      "answer": "Due to the inclusion of Cu4I4 clusters into its zeotype structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated solvent-accessible volume of COZ-1?",
+      "answer": "Approximately 75% of the total crystal volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes COZ-1 stable in air, DMF, and ethanol but not in water and methanol?",
+      "answer": "Its specific chemical composition and structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is COZ-1 stable in water?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does COZ-1 have a 3D neutral framework with the MTN topology?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the 6^4 5^12 and 5^12 cages in COZ-1 of the same size?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was COZ-1 synthesized at room temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission of COZ-1 due to a cluster-centered triplet excited state?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does COZ-1 exhibit type-I adsorption isotherm behavior?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of COZ-1 carried out without any solvent?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

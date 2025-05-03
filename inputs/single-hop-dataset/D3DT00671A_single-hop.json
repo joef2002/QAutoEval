@@ -1,0 +1,124 @@
+{
+  "qas": [
+    {
+      "question": "What is the main focus of the research conducted by Pamela S. Moyo and colleagues?",
+      "answer": "The research focuses on the design of selective Cu and Ni-MOFs as pre-catalysts for the hydrogenation of furfural to furfuryl alcohol.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What method was used to synthesize MOF 1 and MOF 2?",
+      "answer": "MOF 1 and MOF 2 were synthesized by solvothermal synthesis.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why was MOF 2 chosen for further catalytic hydrogenation studies over MOF 1?",
+      "answer": "MOF 2 showed promising performance in the hydrogenation of furfural into furfuryl alcohol with 100% selectivity, whereas MOF 1 was dissolving during catalysis.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the outcome of the catalytic hydrogenation of furfural using MOF 2?",
+      "answer": "The catalytic hydrogenation of furfural using MOF 2 resulted in a conversion of 81% and selectivity towards furfuryl alcohol of 100%.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many times could MOF 2 be recycled without significant loss in performance?",
+      "answer": "MOF 2 could be recycled four times without significant loss in performance.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is the structural integrity of MOF 2 maintained after catalysis and recycling?",
+      "answer": "Yes, the structural integrity of MOF 2 was maintained after catalysis and recycling.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Did the research propose a mechanism for the hydrogenation reaction of furfural using MOF 2?",
+      "answer": "Yes, the research proposed a possible plausible mechanism for the hydrogenation reaction of furfural using MOF 2.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the effect of increasing the reaction pressure on the conversion of furfural?",
+      "answer": "Increasing the reaction pressure from 30 to 45 bar increased the conversion of furfural from 71% to 81%.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Was there any metal leaching observed with MOF 2 during the catalytic process?",
+      "answer": "No, negligible metal leaching was observed with MOF 2 during the catalytic process.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the role of methanol in the catalytic hydrogenation process?",
+      "answer": "Methanol was used as the solvent, and it provided the best catalytic activity for the hydrogenation process.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How was the purity of the synthesized ligand L1 confirmed?",
+      "answer": "The purity of the synthesized ligand L1 was confirmed through elemental analysis.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Did the research find MOF 2 to be stable in water?",
+      "answer": "No, MOF 2 was slightly unstable in water.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the main product of the hydrogenation of furfural using MOF 2?",
+      "answer": "The main product of the hydrogenation of furfural using MOF 2 was furfuryl alcohol.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Was the catalytic system involving MOF 2 chemoselective?",
+      "answer": "Yes, the catalytic system involving MOF 2 was chemoselective towards the production of furfuryl alcohol.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the effect of catalyst loading on the conversion of furfural?",
+      "answer": "Decreasing the catalyst loading to 24 µmol drastically reduced the conversion of furfural to 49%, indicating the importance of sufficient active sites.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Was the reaction conducted in the absence of a catalyst?",
+      "answer": "Yes, a control experiment was conducted in the absence of a catalyst, and no product was formed.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the role of temperature in the hydrogenation reaction?",
+      "answer": "Increasing the temperature from 130 to 160 °C increased the conversion of furfural, indicating enhanced hydrogenation rate and mass transportation.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How was the activation of MOF 1 and MOF 2 confirmed?",
+      "answer": "The activation of MOF 1 and MOF 2 was confirmed through TGA analysis, which showed no weight loss until decomposition after activation.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Was the catalytic performance of MOF 2 affected by the solvent used?",
+      "answer": "Yes, the catalytic performance of MOF 2 was affected by the solvent used, with methanol providing the best results.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the significance of the proposed reaction mechanism for the hydrogenation of furfural using MOF 2?",
+      "answer": "The proposed reaction mechanism helped in understanding the role of MOF 2 in the hydrogenation process and the formation of the active dihydride species.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    }
+  ]
+}

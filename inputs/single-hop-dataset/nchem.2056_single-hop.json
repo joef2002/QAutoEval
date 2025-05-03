@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research paper?",
+      "answer": "A Star of David Catenane",
+      "difficulty_level": "Easy",
+      "type": "Factual"
+    },
+    {
+      "question": "Who are the authors of the paper?",
+      "answer": "David A. Leigh, Robin G. Pritchard, and Alexander J. Stephens",
+      "difficulty_level": "Easy",
+      "type": "Factual"
+    },
+    {
+      "question": "What institution are the authors affiliated with?",
+      "answer": "School of Chemistry, University of Manchester",
+      "difficulty_level": "Easy",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the main goal of the research presented in the paper?",
+      "answer": "The main goal is to describe the synthesis of a [2]catenane that consists of two triply entwined 114-membered rings, a molecular 62 1 link.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What method was used to confirm the Star of David topology?",
+      "answer": "Confirmation of the Star of David topology was provided by NMR spectroscopy, mass spectrometry, and X-ray crystallography.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the significance of using sulfate counterions in the synthesis process?",
+      "answer": "The use of sulfate counterions promotes the formation of the hexameric circular helicate, which is crucial for the assembly of the Star of David catenane.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Is the Star of David catenane a molecular link with two or three interlocked rings?",
+      "answer": "The Star of David catenane is a molecular link with two triply entwined rings.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The Star of David catenane was synthesized using a single-step process.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of the Star of David catenane involves the use of iron(II) ions.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Star of David catenane is dedicated to the memory of Chaim Weizmann.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of the hexameric circular helicate [2](PF6)12 from the synthesis process?",
+      "answer": "75%",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What technique was used to grow single crystals of the Star of David catenane?",
+      "answer": "Single crystals were grown by solvent diffusion of methanol saturated with NaBPh4 into a solution of [4](PF6)12 in acetonitrile.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What was the yield of the Star of David [2]catenate [4](PF6)12 from the ring-closing metathesis process?",
+      "answer": "92%",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The demetallation of the Star of David [2]catenate resulted only in the formation of the demetallated Star of David [2]catenand.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the unexpected minor product obtained during the demetallation of the Star of David [2]catenate?",
+      "answer": "The unexpected minor product was the unlinked macrocycle 6.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The Star of David catenane's structure was determined without the use of X-ray crystallography.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the Hoveyda–Grubbs second-generation catalyst in the synthesis of the Star of David catenane?",
+      "answer": "The Hoveyda–Grubbs second-generation catalyst was used for the ring-closing metathesis to close the covalent framework of the hexameric circular helicate.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The Star of David catenane consists of two interlocked rings that cross each other four times.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in closing the open circular helicate to form the Star of David catenane?",
+      "answer": "The main challenge was restricting the conformational space accessed by the reactive terminal groups of each ligand prior to ring closure.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of the Star of David catenane demonstrates the potential of combining complex supramolecular assembly processes with covalent bond formation methods.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

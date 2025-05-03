@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of the 'breathing' crystals studied?",
+      "answer": "Cu(hfac)2LR",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to study the exchange interaction in the 'breathing' crystals?",
+      "answer": "High-field EPR",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main finding about the exchange interaction in Cu(hfac)2LR crystals?",
+      "answer": "The exchange interaction is strongly temperature-dependent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the temperature dependence of the exchange interaction in these crystals?",
+      "answer": "Temperature-induced reversible structural rearrangements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The exchange interaction in Cu(hfac)2LR crystals remains constant with temperature changes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the polymer chains in Cu(hfac)2LBu·0.5C8H18?",
+      "answer": "They contain alternating one- and three-spin units.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the effective magnetic moment μeff(T) change with temperature in Cu(hfac)2LBu·0.5C8H18?",
+      "answer": "It shows a strong decrease between 200 and 50 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The effective g-factor geff(T) can be simulated using a model of constant exchange interaction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the width of the distribution of J(T) indicate?",
+      "answer": "The ambiguity of J(T) determination.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The precision of J(T) measurement is low across all temperature ranges.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the strong dependence J(T) in Cu(hfac)2LR crystals?",
+      "answer": "It makes them interesting for the creation of molecular-magnetic switches and related spin devices.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The high-field EPR is not suitable for studying the temperature dependence of exchange interaction in Cu(hfac)2LR crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the effective magnetic moment μeff(T) dependence on temperature demonstrate?",
+      "answer": "The temperature dependence of the exchange interaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides experimental evidence for the temperature dependence of exchange interaction in Cu(hfac)2LR crystals.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the Cu-O bond lengths in Cu(hfac)2LBu·0.5C8H18?",
+      "answer": "The Cu-O bond lengths change with temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirms the complete reversibility of structural and magnetic properties in breathing crystals.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'spin triad' refer to in the context of Cu(hfac)2LBu·0.5C8H18?",
+      "answer": "A symmetric unit with respect to the copper atom, containing one copper and two nitroxides.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How is the effective g-factor geff(T) related to the exchange interaction J(T)?",
+      "answer": "The effective g-factor geff(T) is linked to the exchange interaction J(T) through a specific equation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that Cu(hfac)2LR crystals could be used in future basic and applied studies.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high precision of J(T) measurement in the middle region of temperatures?",
+      "answer": "It indicates a significant change in the exchange interaction during reversible structural rearrangements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

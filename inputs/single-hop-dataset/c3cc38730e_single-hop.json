@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the magnesium-based 3D MOF reported?",
+      "answer": "[Mg16(PTCA)8(m2-H2O)8(H2O)16(dioxane)8](H2O)13(DMF)26",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unique feature of the MOF's structure?",
+      "answer": "It has nanoscale polyhedral cages and a two-fold interpenetrating pcu net.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gases does the MOF show uptake capacities for at low temperatures?",
+      "answer": "N2, H2, O2, and CO2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selective adsorption property of the MOF at room temperature?",
+      "answer": "Selective adsorption of CO2 over O2 and N2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis temperature for the MOF?",
+      "answer": "90 degrees Celsius",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of H4PTCA in the MOF?",
+      "answer": "It acts as a tetracarboxylate ligand for coordination with Mg2+.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the predicted CO2-N2 selectivity of the MOF at 273 K?",
+      "answer": "30.9",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the adsorption capacity for hydrogen at 77 K and 1.0 atm?",
+      "answer": "92.2 cm3 (STP) g-1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the MOF structure above 70 degrees Celsius?",
+      "answer": "The framework structure collapses.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the isosteric heat Qst of CO2 adsorption for the MOF at 273 K?",
+      "answer": "Approximately 31.3 kJ mol-1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the MOF be potentially applied in CO2 capture processes?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's gas adsorption capacity for O2 higher than for N2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF retain its structure after desolvation under high vacuum at room temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF constructed without any light main group metal cations?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF have a cubic space group?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's selective sorption of CO2 over N2 and O2 attributed to the quadrupole moment of CO2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF have a lower CO2 adsorption capacity at 298 K compared to 273 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted CO2-O2 selectivity of the MOF at 298 K?",
+      "answer": "22.1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the surface area of the MOF estimated by the BET equation?",
+      "answer": "438.1 m2 g-1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF's gas adsorption capacity for CO2 at 195 K higher than at room temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

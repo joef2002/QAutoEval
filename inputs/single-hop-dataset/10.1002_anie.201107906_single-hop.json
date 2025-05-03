@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of CO2 removal from industrial gases?",
+      "answer": "The main purpose is because CO2 is commonly present as an impurity in many industrial processes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why do conventional porous materials such as zeolites and carbon materials struggle to separate CO2 from C2H2?",
+      "answer": "Because of the very similar sizes, shapes, and physical properties of CO2 and C2H2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What feature of MOFs/PCPs contributes to their high C2H2 sorption selectivity over CO2?",
+      "answer": "The precise control and functionalization of the pore walls, including oxygen atoms and unsaturated metal ions as hydrogen-bonding and Lewis acid sites, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What makes ionic crystals suitable for accommodating polar molecules?",
+      "answer": "The strong electrostatic fields at the internal surfaces created by anions and cations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2/C2H2 sorption amount ratio achieved by compound 1 at 278 K and 100 kPa?",
+      "answer": "Up to the highest value of 4.8.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do potassium ions play in the sorption mechanism of compound 1?",
+      "answer": "Potassium ions interact with CO2 molecules, inducing a two-step phase transition and resulting in highly selective sorption of CO2 over C2H2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the polarity of guest molecules affect the sorption behavior of compound 1?",
+      "answer": "The polarity of guest molecules plays a crucial role, with the sorption amounts decreasing in the order CO2 > N2O > C2H2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does compound 1 show higher structural flexibility for the sorption of CO2 than that of C2H2?",
+      "answer": "Because it accommodates CO2 molecules by expanding its lattice by two steps.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates a phase transition of host materials in the sorption enthalpy plots?",
+      "answer": "Valleys in the plot indicate additional heat required for a phase transition of host materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the two valleys observed in the CO2 sorption enthalpy plot?",
+      "answer": "They indicate two distinct phase transitions induced by CO2 binding to potassium ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the sorption isotherm of CO2 at 278 K differ from that of C2H2?",
+      "answer": "The CO2 sorption isotherm consists of two steps and a large hysteresis loop, while the C2H2 sorption isotherm consists of a single step and a hysteresis loop.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the increase in lattice volume upon CO2 sorption indicate?",
+      "answer": "It suggests that the lattice of compound 1 expands to accommodate CO2 molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the sorption enthalpy of CO2 higher than that of C2H2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do CO2 and C2H2 have the same molecular size?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can conventional porous materials easily distinguish between CO2 and C2H2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the sorption of CO2 by compound 1 a single phase transition process?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are ionic crystals inherently flexible in their crystal structures?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the sorption of C2H2 by compound 1 proceed by two phase transitions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area calculated from the CO2 sorption isotherm of compound 1 less than 100 m2 g-1?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the sorption mechanism of compound 1 involve interaction with oxygen atoms of silicododecatungstates for CO2 molecules above 2 mol mol-1?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research conducted by Pei-Qin Liao and colleagues?",
+      "answer": "The main focus of the research is the development of a facile, green, and controllable solid-gas reaction strategy for on-demand modification of porous coordination polymer to regulate sorption behaviors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What materials are combined to construct the porous crystal mentioned in the study?",
+      "answer": "Copper(I) and a methylene-bridged bis-triazolate ligand are combined to construct the porous crystal.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How is the oxidation degree of the crystal monitored?",
+      "answer": "The oxidation degree or reaction progress can be easily monitored by the change of sample weight.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the oxidation process on the gas sorption property of the crystal?",
+      "answer": "The gas sorption property of the crystal can be continuously and drastically tuned, resulting in very high and even invertible selectivity for CO2, CH4, and C2H6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes the aerobic oxidation process described in the study green and controllable?",
+      "answer": "The aerobic oxidation process is green and controllable because it is a solvent-free solid-gas reaction that allows for easy and precise monitoring and control of the modification degree.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the oxidized crystal structure be completely reduced back to its original form?",
+      "answer": "Yes, the oxidized crystal structure can be completely reduced back to its original form by hydrazine.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the aerobic oxidation process effective for the free ligand H2btm?",
+      "answer": "No, the free ligand H2btm cannot be oxidized under the same conditions, highlighting the difficulty of covalent redox post-synthetic modification and the crucial role of enzyme-like Cu(I) centres.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that the porous crystal's framework remains intact after the oxidation process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The oxidation process destroys the copper(I) triazolate framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The oxidation of the methylene groups enhances the rigidity and polarity of the resulting carbonyl groups without damaging the framework.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Cu(I) ions in the porous crystal?",
+      "answer": "Cu(I) ions serve as enzyme-like O2 activation sites that are crucial for the aerobic oxidation of the methylene bridge in the ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a rational strategy for directly monitoring and controlling the reaction progress of solid-solution frameworks during synthesis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The oxidation process requires strong and environmentally unfriendly oxidants.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Cu(II)-O2 intermediate formed during the oxidation process?",
+      "answer": "The formation of the highly active Cu(II)-O2 intermediate is crucial for the oxidation of the methylene groups by O2/air, even at room temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The oxidation degree of the crystals can be controlled by the heating time or by monitoring the sample weight.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study demonstrates a method for the direct synthesis of mixed-component crystals with variable concentration/ratio of functional building blocks.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the oxidation process on the thermal stability of the crystals?",
+      "answer": "Oxidation enhances the hydrophilicity, decreases the thermal stability, and reduces the unit-cell volumes of the samples.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The porous crystal exhibits fixed selectivities for gas adsorption that cannot be tuned.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the oxidation process affect the framework flexibility and pore surface polarity of the porous crystal?",
+      "answer": "Oxidation transforms the hydrophobic and flexible methylene bridges into hydrophilic and rigid carbonyl groups, thereby modulating the framework flexibility and pore surface polarity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a controllable, solvent-free, and solid-gas reaction mechanism for tailoring adsorbent properties.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

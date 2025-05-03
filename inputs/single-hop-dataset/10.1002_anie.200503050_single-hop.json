@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of transition-metal complexes in the synthesis described?",
+      "answer": "Transition-metal complexes act as ligands in the linking of Li4O4 cubane units.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does compound 1 possess according to the synthesis?",
+      "answer": "Compound 1 possesses {Li4O4} units that incorporate a quinone oxygen-donor atom at one of the corners and {Li4O4} units bridged by two rhodium organometalloligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the starting materials for the synthesis of compound 1?",
+      "answer": "The starting materials for the synthesis of compound 1 are LiOtBu in THF and the quinonoid complex [(h6-hydroquinone)Rh(cod)]+.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the quinonoid ring in compound 1 in a planar conformation?",
+      "answer": "No, the quinonoid ring in compound 1 adopts a boat conformation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens when the synthesis residue is dissolved in methanol?",
+      "answer": "When the synthesis residue is dissolved in methanol, it affords the salt [Li(MeOH)4][(h4-quinone)Rh(cod)].",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What structural motif is formed when the rhodium–quinone complex 4 reacts with LiOtBu in THF?",
+      "answer": "A novel structural motif is formed where a quinone oxygen atom functions as a pseudo butoxide ligand in a {Li4O4} cubane unit, while the other quinone oxygen atom links to a lithium atom in a second companion cubane unit.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the consequence of the long Li1(cid:1)O1 bond in compound 1?",
+      "answer": "The consequence is that the O1 corner of the cubanes bends out of the O1-Li2-O50-Li3 face, effectively increasing the separation of the two bridges from each other.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of compound 1 involve the formation of a homogeneous solution?",
+      "answer": "Yes, the synthesis involves forming a homogeneous yellow solution that slowly deposits crystals of compound 1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of dissolving the synthesis residue in ethanol instead of methanol?",
+      "answer": "Dissolving the synthesis residue in ethanol affords complex 6, a one-dimensional metal–organometallic coordination network containing rectangular {Li2O2} units linked by anionic [(h4-quinone)Rh(cod)] organometalloligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does NMR spectroscopy reveal about the dynamic behavior of cubane 1?",
+      "answer": "NMR spectroscopy reveals no evidence for dynamic processes on the NMR timescale at room temperature for cubane 1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the coordinated ethanol ligand in complex 6 hydrogen bonded?",
+      "answer": "No, the coordinated ethanol ligand in complex 6 is not hydrogen bonded.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the addition of 1,1-bis(4-hydroxyphenyl)-methane to complex 6 in ethanol result in?",
+      "answer": "It results in the displacement of the quinone monodentate oxygen atom from the lithium ion and the formation of a new two-dimensional network 7.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the quinone oxygen atoms in [(h4-quinone)Rh(cod)] function as ligands external to the cubane aggregate?",
+      "answer": "Yes, the quinone oxygen atoms in [(h4-quinone)Rh(cod)] can function as ligands, both as part of and external to the cubane aggregate.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the driving force behind the formation of the doubly bridged assembly in compound 1?",
+      "answer": "The driving force is the preferred compromise of having a long Li1(cid:1)O1 bond to increase the separation of the two bridges from each other.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the Li(cid:1)O bond lengths in compound 1 all within the typical 1.8–2.0 A range?",
+      "answer": "No, all the Li(cid:1)O bond lengths in compound 1 are within the typical 1.8–2.0 A range except for Li1(cid:1)O1 which is much larger at 2.36(2) A.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the synthesis of compound 1 demonstrate about lithium alkoxide aggregates?",
+      "answer": "The synthesis demonstrates that lithium alkoxide aggregates can be synthesized with two {Li4O4} cubane units bridged by a quinone organometalloligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the quinonoid ring in compound 1 strongly bonded to the rhodium center?",
+      "answer": "No, the quinonoid ring in compound 1 is only weakly bonded to the rhodium center.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What indicates strong π–π stacking interactions in compound 1?",
+      "answer": "The 3.2-A ring-to-ring separation in compound 1 indicates fairly strong π–π stacking interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of LiOtBu in the synthesis of compound 1?",
+      "answer": "LiOtBu acts as a base to facilitate deprotonation, which is accompanied by electron transfer to the metal center and changes in the hapticity of the quinonoid ring.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of compound 1 involve the use of aprotic solvents?",
+      "answer": "Yes, organolithium reagents with alkoxide and similar oxygen-donor ligands frequently aggregate in aprotic solvents into rectangular and cubic fragments.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

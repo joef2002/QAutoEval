@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MOF-808-Gly?",
+      "answer": "C1.98H4.25N0.48O2.73Zr0.5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal X-ray diffraction data collected for MOF-808-Gly?",
+      "answer": "100 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MOF-808-Gly?",
+      "answer": "Fd-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of the unit cell for MOF-808-Gly?",
+      "answer": "43396(4) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MOF-808?",
+      "answer": "1680 m² g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MOF-808-FR?",
+      "answer": "1971 m² g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MOF-808-Gly?",
+      "answer": "1427 m² g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption (Qst) for CO2 in MOF-808-Gly?",
+      "answer": "~46 kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption (Qst) for CO2 in MOF-808-DL-Lys?",
+      "answer": "~80 kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 uptake of MOF-808-Gly from simulated humid flue gas in a VSA test?",
+      "answer": "0.42 mmol g-1 h-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of MOF-808-Gly?",
+      "answer": "cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to measure the BET surface area of MOF-808?",
+      "answer": "N2 sorption isotherm at 77 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the relative humidity (RH) level used in the VSA test for MOF-808-Gly?",
+      "answer": "RH 20%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum adsorption sites available (n0) for CO2 in MOF-808-Gly according to the Toth model?",
+      "answer": "The exact value is not provided in the text, but it is determined through the Toth model fitting.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did MOF-808-Gly show any capacity decay over 80 VSA cycles?",
+      "answer": "No, no significant attrition was observed.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal size of MOF-808-Gly used for single-crystal X-ray diffraction analysis?",
+      "answer": "0.030 × 0.030 × 0.030 mm3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What radiation was used for single-crystal X-ray diffraction analysis of MOF-808-Gly?",
+      "answer": "synchrotron (λ = 0.7288 Å)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the final R index for MOF-808-Gly based on all data?",
+      "answer": "R1 = 0.0476, wR2 = 0.1401",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the regeneration temperature used for MOF-808-Gly before VSA testing?",
+      "answer": "150 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the threshold CO2 concentration used to switch to vacuum regeneration in the VSA test for MOF-808-Gly?",
+      "answer": "2%",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

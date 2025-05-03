@@ -1,0 +1,122 @@
+{
+  "materials": [
+    {
+      "name": "NCP-1",
+      "synthesis_conditions": {
+        "temperature": "100 8C",
+        "time": "5 min",
+        "solvents": [
+          {
+            "name": "dimethylformamide (dmf)",
+            "amount": "2.5 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.1 mL"
+          }
+        ],
+        "equipment": "microwave oven at 300 W",
+        "chemicals_used": [
+          {
+            "name": "[L-H2](PF6)2",
+            "amount": "5 mg, 0.005 mmol"
+          },
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "10 mg, 0.035 mmol"
+          },
+          {
+            "name": "HCl",
+            "amount": "15 mL, 3 m, aq."
+          },
+          {
+            "name": "oxalic acid",
+            "amount": "5 mL, 0.75 m, dmf"
+          }
+        ],
+        "washing_method": "once with dmf and three times with EtOH",
+        "yield": "54.3 %"
+      }
+    },
+    {
+      "name": "NCP-2",
+      "synthesis_conditions": {
+        "temperature": "100 8C",
+        "time": "10 min",
+        "solvents": [
+          {
+            "name": "dimethylformamide (dmf)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "microwave heating",
+        "chemicals_used": [
+          {
+            "name": "[L-H2](PF6)2",
+            "amount": "not specified"
+          },
+          {
+            "name": "ZrCl4",
+            "amount": "not specified"
+          },
+          {
+            "name": "acidic solution",
+            "amount": "not specified"
+          }
+        ],
+        "washing_method": "with methanol and ethanol",
+        "dye_loadings": "57.4 %"
+      }
+    },
+    {
+      "name": "SiO2@2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "NH3",
+            "amount": "10 mL, 0.2 m, aq. in ethanol"
+          },
+          {
+            "name": "ethanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TEOS",
+            "amount": "16 mL"
+          }
+        ],
+        "equipment": "magnetically stirred",
+        "temperature": "room temperature",
+        "time": "5 h",
+        "washing_method": "with dmf and ethanol"
+      }
+    },
+    {
+      "name": "PEG-SiO2@2 and AA-PEG-SiO2@2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "SiO2@2 particles",
+            "amount": "3 mg/mL concentration"
+          },
+          {
+            "name": "siloxy-PEG2K-anisamide and siloxy-PEG2K-OCH3",
+            "amount": "1 mg PEG per 1 mL EtOH, molar ratio of 1 to 9"
+          }
+        ],
+        "equipment": "magnetically stirred",
+        "temperature": "room temperature",
+        "time": "24 h",
+        "washing_method": "with ethanol"
+      }
+    }
+  ]
+}

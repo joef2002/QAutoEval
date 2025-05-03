@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": "acetonitrile",
+        "amount_of_solvent": "5 mL",
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "chemical": "Mg(NO3)2·6H2O",
+            "amount": "65 mg (0.25 mmol)"
+          },
+          {
+            "chemical": "(+)-camphoric acid",
+            "amount": "50 mg (0.25 mmol)"
+          }
+        ],
+        "time": "4 days",
+        "washing_method": "washed with acetonitrile (3 × 1 mL)",
+        "drying_method": "allowed to dry in air",
+        "yield": "28 mg (88.9%)",
+        "additional_information": "PXRD studies confirmed the bulk homogeneity of the sample."
+      }
+    },
+    {
+      "material_name": "2",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "amount_of_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "chemical": "Mg(NO3)2·6H2O",
+            "amount": "Not specified"
+          },
+          {
+            "chemical": "(+)-camphoric acid",
+            "amount": "Not specified"
+          },
+          {
+            "chemical": "1,3-propanediol",
+            "amount": "five molar equivalents"
+          }
+        ],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "29 mg (30.9%)",
+        "additional_information": "The reaction mixtures were prepared as described for 1 with the addition of five molar equivalents of 1,3-propanediol."
+      }
+    }
+  ]
+}

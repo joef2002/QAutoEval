@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research presented in the article?",
+      "answer": "The main focus of the research is the development of a single-site main group catalyst stabilized by a metal–organic framework (MOF) for organic transformations, specifically for hydroboration of carbonyls and imines and for hydroamination of aminopentenes.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What material was synthesized via a solvothermal reaction in the study?",
+      "answer": "TPHN-MOF of UiO-69 topology was synthesized via a solvothermal reaction.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the Mg-functionalized MOF material (TPHN-MOF-MgMe) obtained?",
+      "answer": "The Mg-functionalized MOF material (TPHN-MOF-MgMe) was obtained by treating TPHN-MOF with Me2Mg in THF at room temperature.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the turnover number (TON) obtained for hydroboration of acetophenone using the MOF catalyst?",
+      "answer": "A turnover number (TON) of 84,000 was obtained for hydroboration of acetophenone using the MOF catalyst.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can TPHN-MOF-Mg be reused for hydroboration reactions?",
+      "answer": "Yes, TPHN-MOF-Mg can be reused for hydroboration reactions at least 10 times without loss of MOF crystallinity.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the proposed mechanism for Mg-catalyzed hydroboration of carbonyls?",
+      "answer": "The proposed mechanism for Mg-catalyzed hydroboration of carbonyls involved either σ-bond metathesis involving insertion of a C=O into a Mg–H bond or a zwitterionic mechanism without involvement of Mg–H bond species.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is TPHN-MOF-Mg also active in the hydroboration of imines?",
+      "answer": "Yes, TPHN-MOF-Mg is also an active catalyst in the hydroboration of imines to give N-borylamines.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield for hydroamination of 2,2-bis(2-propenyl)-4-pentenylamine using TPHN-MOF-Mg?",
+      "answer": "The yield for hydroamination of 2,2-bis(2-propenyl)-4-pentenylamine using TPHN-MOF-Mg was essentially quantitative.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The hydroboration reaction catalyzed by TPHN-MOF-Mg has a first-order dependence on both Mg and acetophenone concentrations.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hydroboration of acetophenone catalyzed by MOF-Mg has a zeroth-order dependence on the HBpin concentration.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystallinity of TPHN-MOF is lost upon metalation with Mg.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The heterogeneity of MOF-Mg was confirmed by experiments showing no further hydroboration after removal of MOF-Mg from the reaction mixture.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Mg coordination environments in MOF-MgMe could be established by X-ray crystallography.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hydroamination/cyclization of aminopentene was catalyzed by Zr-OH at SBUs in unmetalated TPHN-MOF.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The formation of H2 was due to the decomposition of HBpin in the reaction of TPHN-MOF-MgMe with HBpin.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the research findings in the context of sustainable chemical synthesis?",
+      "answer": "The research findings are significant because they demonstrate that MOFs can support single-site main group catalysts for organic transformations, offering a versatile platform for discovering new catalytic transformations and developing earth-abundant metal catalysts for sustainable synthesis of fine and commodity chemicals.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with developing catalysts that use alkaline earth metals such as Mg and Ca?",
+      "answer": "Developing catalysts that use alkaline earth metals such as Mg and Ca can be challenging due to the propensity of heteroleptic complexes to undergo Schlenk-type and/or irreversible ligand redistribution reactions that result in catalytically incompetent homoleptic complexes.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MOFs have recently emerged as a class of materials with applications limited to gas storage and separation.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does site isolation within the MOF play in stabilizing catalytically active heteroleptic Mg-alkyl species?",
+      "answer": "Site isolation within the MOF stabilizes catalytically active heteroleptic Mg-alkyl species by shutting down Schlenk-type intermolecular ligand redistribution reactions.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research presented provides the first example of a MOF-supported single-site main group catalyst for organic transformations.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

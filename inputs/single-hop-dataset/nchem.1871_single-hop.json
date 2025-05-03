@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI number of the article?",
+      "answer": "10.1038/NCHEM.1871",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What type of materials does the article focus on?",
+      "answer": "Porous materials and metal–organic frameworks (MOFs)",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the main goal of using porous materials in the applications mentioned?",
+      "answer": "For separation and catalysis, relying on selective interactions between host materials and guests.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What drives the structural response of MOFs to the presence of guests?",
+      "answer": "A flexible structural response to the presence of guests.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the significance of using peptides as linkers in MOFs?",
+      "answer": "Peptides offer extensive chemical functionality, including chirality and versatile metal-binding modes, allowing for control over the internal surface chemistry and structural response to guests.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the article demonstrate the control of porosity in MOFs?",
+      "answer": "By showing a MOF that evolves from a solvated porous state to a desolvated non-porous state due to ordered cooperative, displacive, and conformational changes of the peptide.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Is the structural change in Zn(GS)2 reversible?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Does the article provide evidence for the use of multiple-peptide linkers in MOFs?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Can the introduction of Ser into the dipeptide sequence drive ordered torsional change in MOFs?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the gate-opening pressure for CO2 adsorption in Zn(GS)2 predicted to be unattainable at 17 bar at 195 K?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What role do the side chains play in the structural response of Zn(GS)2 to guests?",
+      "answer": "The side chains enable ordered torsional and translational displacements that close the structure on guest loss.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the article classify the structural responses of multipeptide MOFs to CO2?",
+      "answer": "Into categories based on their flexibility and porosity, such as rigid porous (Rp), flexible non-porous (FnpCO2), and flexible porous to CO2 (FpCO2).",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the effect of single-point mutations in proteins compared to in the context of the article?",
+      "answer": "Similar to single-point mutations altering protein structure and function, changes in a single amino-acid residue in MOFs can radically alter their structure and guest response.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the main conclusion of the article regarding the use of peptides in MOFs?",
+      "answer": "The torsional flexibility of peptides, especially with functional side chains like Ser, can be exploited to control the structural and functional response of MOFs to environmental changes and guests.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Does the article suggest that the structural changes in MOFs are driven by the need to engage in hydrogen bonding?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Are MOFs with peptide linkers shown to retain crystallinity through ordered structural changes?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the cooperative folding mechanism in Zn(GS)2 compared to protein folding?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Does the article provide a method for tuning MOF properties through solid solution formation?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Are the structural changes in Zn(GS)2 attributed to the presence of methanol guests?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Does the article demonstrate the nonlinear property variations in multipeptide MOFs due to synergic interactions?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "hard"
+    }
+  ]
+}

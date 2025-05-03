@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research paper?",
+      "answer": "A spin-crossover framework endowed with pore-adjustable behavior by slow structural dynamics",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the paper?",
+      "answer": "Jin-Peng Xue, Yang Hu, Bo Zhao, Zhi-Kun Liu, Jing Xie, Zi-Shuo Yao, and Jun Tao",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research?",
+      "answer": "The research focuses on a two-dimensional porous magnetic compound that exhibits an unusual pore rearrangement in response to water adsorption, which is directly linked to a spin state transition.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does the compound [FeII(prentrz)2PdII(CN)4] exhibit?",
+      "answer": "The compound exhibits an atypical pore transformation that directly entangles with a spin state transition in response to water adsorption.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two phases of the compound mentioned in the study?",
+      "answer": "The two phases mentioned are the narrow quasi-discrete pore (nqp) phase and the large channel-type pore (lcp) phase.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore transformation occur in the compound?",
+      "answer": "The pore transformation occurs through the adsorption-induced, non-uniform pedal motion of the axial prentrz ligands and the crumpling/unfolding of the layer structure, leading to a rearrangement associated with simultaneous pore opening and closing.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the slow dynamics between nqp and lcp structures?",
+      "answer": "The slow dynamics between nqp and lcp structures are significant because they lead to programmable adsorption, where the lcp structure type must be achieved first by long-time exposure in a steam-saturated atmosphere to accomplish the gate-opening adsorption.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformation of the magnetic framework does not affect the spin-crossover (SCO) properties of the FeII magnetic centers.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to investigate the energy variations upon water adsorption?",
+      "answer": "Density functional theory calculations were performed to investigate the energy variations upon water adsorption.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compound [FeII(prentrz)2PdII(CN)4] exhibits a simple and quick transition from the nqp phase to the lcp phase upon water adsorption.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

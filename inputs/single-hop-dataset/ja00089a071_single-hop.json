@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the organically templated layered vanadium(IV)-oxo-organophosphonate?",
+      "answer": "[(C2H5)2NH2][(CH3)2NH2][V4O4(OH)2(C6H5PO3)4]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What color is the crystal of the synthesized material?",
+      "answer": "Green",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the synthesized material?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of diffractometer was used for data collection?",
+      "answer": "Siemens R3m/V",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the synthesized material?",
+      "answer": "P21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the method used for the refinement of the structure?",
+      "answer": "Full-Matrix Least-Squares",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (observed data) for the refinement?",
+      "answer": "R = 6.05 %",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal size of the synthesized material larger than 0.25 mm in any dimension?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was a monochromator used during the data collection?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the density of the synthesized material less than 2 Mg/m3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized material have a unit cell volume greater than 4000 A^3?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the absorption coefficient of the synthesized material greater than 1 mm^-1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal habit of the synthesized material described as a plate?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the formula weight of the synthesized material over 40000?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the temperature during data collection below 213 K?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized material have a formula weight less than 50000?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the scan speed used during data collection?",
+      "answer": "4.00°/min",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the absorption correction method used?",
+      "answer": "Based on ip scans for 5 reflections",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the largest difference peak in the final electron density map?",
+      "answer": "0.79 eA^-3",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the goodness-of-fit on observed data less than 2?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

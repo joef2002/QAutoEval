@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the primary material used for chromatographic separations in the study?",
+      "answer": "MOF-5 crystals",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to synthesize MOF-5 crystals?",
+      "answer": "Solvothermal procedure",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMF in the experiments with MOF-5 crystals?",
+      "answer": "DMF is chosen as the eluent because it does not affect the integrity of the MOF-5 crystal.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why were CR and CB dyes not observed to penetrate MOF-5 crystals?",
+      "answer": "CR and CB dyes are larger than the 0.8 nm channels of the MOF-5 and do not penetrate the crystal.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of soaking MOF-5 crystals in dye solutions on their crystallinity?",
+      "answer": "Soaking dyes lowers the symmetry of MOF-5 from a face-centered cubic to a primitive cubic lattice, but the crystallinity is maintained.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How is the separation efficiency of dyes in MOF-5 crystals quantified?",
+      "answer": "The separation efficiency is quantified using fluorescence confocal microscopy to measure the concentration profiles of the dyes within the crystal.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What determines the migration speed of dyes through MOF-5?",
+      "answer": "The migration speed of dyes through MOF-5 is determined by the diffusive and capillary transport in addition to the interactions between the dyes and the MOF scaffold.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MOF-5 crystals be reused for chromatographic separations?",
+      "answer": "Yes, by soaking the used MOF crystal in fresh DMF for 24 hours, the separated dyes diffuse out, allowing the MOF to be reused.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of dyes affect the structural integrity of MOF-5?",
+      "answer": "No, the presence of dyes does not affect the structural integrity of MOF-5.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the separation of dyes in MOF-5 based on size exclusion?",
+      "answer": "No, the separation is not solely based on size exclusion but also on the interactions between the dyes and the MOF scaffold.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the use of DMF as an eluent prevent damage to MOF-5 crystals?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are CR and CB dyes able to penetrate MOF-5 due to their small size?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the crystallinity of MOF-5 be compromised by soaking in dye solutions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the separation of dyes in MOF-5 crystals achieved over distances of several centimeters?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the solvothermal procedure the only method used for synthesizing MOF-5 crystals in the study?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do all solvents tested result in substantial cracking of MOF-5 crystals?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the separation efficiency of dyes in MOF-5 crystals independent of the dye-MOF interactions?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

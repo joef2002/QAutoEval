@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "Divalent Lanthanide Tetraisobutylaluminates [Ln(AliBu4)2] (Ln = Sm, Eu, Yb)",
+      "synthesis_conditions": {
+        "precursors": "[Ln{N(SiMe3)2}2(THF)2] and TIBA",
+        "solvents": "Not explicitly mentioned",
+        "temperature": "Not explicitly mentioned",
+        "yield": {
+          "1Sm": "75%",
+          "1Eu": "89%"
+        },
+        "time": "Not explicitly mentioned",
+        "equipment": "Not explicitly mentioned",
+        "chemicals_used": "Slight excess (ca. 7 equiv) TIBA"
+      }
+    },
+    {
+      "name": "Samarium(II)/Samarium(III) Mixed-Valence Cluster [Sm6Cl8(AliBu4)6]",
+      "synthesis_conditions": {
+        "precursors": "[Sm(AliBu4)2]",
+        "solvents": "Aromatic solvents",
+        "temperature": "Ambient",
+        "yield": "47%",
+        "time": "Not explicitly mentioned",
+        "equipment": "Not explicitly mentioned",
+        "chemicals_used": "Hexachloroethane",
+        "reaction_conditions": "Without characteristic color change"
+      }
+    },
+    {
+      "name": "Ytterbium(II) Cluster [Yb4Cl4(AliBu4)4]",
+      "synthesis_conditions": {
+        "precursors": "[Yb(AliBu4)2]",
+        "solvents": "Deuterated benzene",
+        "temperature": "Ambient",
+        "yield": "Not explicitly mentioned",
+        "time": "Not explicitly mentioned",
+        "equipment": "Not explicitly mentioned",
+        "chemicals_used": "Hexachloroethane",
+        "reaction_conditions": "Co-crystallized with precursor [Yb(AliBu4)2]"
+      }
+    },
+    {
+      "name": "Samarium(II) Coordination Polymer {[SmCl(THF)5][AlBniBu3]}n",
+      "synthesis_conditions": {
+        "precursors": "[Sm(AliBu4)2]",
+        "solvents": "Toluene, THF",
+        "temperature": "Not explicitly mentioned",
+        "yield": "Not explicitly mentioned",
+        "time": "Not explicitly mentioned",
+        "equipment": "Not explicitly mentioned",
+        "chemicals_used": "Tellurium(IV) chloride (TeCl4)"
+      }
+    },
+    {
+      "name": "Arene-Stabilized Hydroborato Complexes [Sm{HB(C6F5)3}2(toluene)2] and [Yb{HB(C6F5)3}2(benzene)]",
+      "synthesis_conditions": {
+        "precursors": "[Ln(AliBu4)2] (Ln = Sm, Yb)",
+        "solvents": "Toluene for Sm, Benzene for Yb",
+        "temperature": "Not explicitly mentioned",
+        "yield": "Not explicitly mentioned",
+        "time": "Not explicitly mentioned",
+        "equipment": "Not explicitly mentioned",
+        "chemicals_used": "B(C6F5)3",
+        "reaction_conditions": "Formation of isobutene and TIBA"
+      }
+    },
+    {
+      "name": "Ytterbium(II) Crown Ether Adduct [Yb(AliBu4)2(18-crown-6)]",
+      "synthesis_conditions": {
+        "precursors": "[Yb(AliBu4)2]",
+        "solvents": "Not explicitly mentioned",
+        "temperature": "Not explicitly mentioned",
+        "yield": "Not explicitly mentioned",
+        "time": "Not explicitly mentioned",
+        "equipment": "Not explicitly mentioned",
+        "chemicals_used": "18-crown-6",
+        "reaction_conditions": "No displacement of tetraisobutylaluminato moieties"
+      }
+    }
+  ]
+}

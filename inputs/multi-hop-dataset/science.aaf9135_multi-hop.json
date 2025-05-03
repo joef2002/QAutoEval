@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of MOF-520?",
+            "answer": "The chemical formula of MOF-520 is Al8(\u6e2d-OH)8(HCOO)4(BTB)4, where BTB = 1,3,5-benzenetribenzoate.",
+            "type": "factual"
+        },
+        {
+            "question": "How many different molecules were successfully crystallized in the interior of MOF-520 using the coordinative alignment method?",
+            "answer": "16 different molecules were successfully crystallized in the interior of MOF-520 using the coordinative alignment method.",
+            "type": "factual"
+        },
+        {
+            "question": "What are the four common functional groups represented by the 16 molecules crystallized in MOF-520?",
+            "answer": "The 16 molecules crystallized in MOF-520 represent four common functional groups: primary alcohol, phenol, vicinal diol, and carboxylic acid.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the range of complexity of the molecules crystallized in MOF-520?",
+            "answer": "The molecules crystallized in MOF-520 range in complexity from methanol to plant hormones like gibberellins, which contain eight stereocenters.",
+            "type": "factual"
+        },
+        {
+            "question": "What two plant hormone types were successfully crystallized within MOF-520?",
+            "answer": "Two plant hormone types, gibberellins (form A1 and form A3) and (\u5364)-jasmonic acid, were successfully crystallized within MOF-520.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the only structural difference between gibberellin A1 and gibberellin A3 that was distinguished in the crystal structures?",
+            "answer": "The only structural difference between gibberellin A1 and gibberellin A3 that was distinguished in the crystal structures is a single bond between C1 and C2 in A1 versus a double bond in A3.",
+            "type": "factual"
+        },
+        {
+            "question": "Why was MOF-520 chosen as the framework for implementing the coordinative alignment method of crystallization?",
+            "answer": "MOF-520 was chosen as the framework for implementing the coordinative alignment method of crystallization because of its high crystallinity, robustness, and chirality.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the coordinative alignment method promote the alignment of molecules into an ordered pattern across the interior of the MOF?",
+            "answer": "In the coordinative alignment method, the molecules make covalent bonds to well-defined metal sites of the MOF. These bonds anchor the molecules and lower their motional degrees of freedom, thereby promoting their alignment into an ordered pattern across the interior of the crystalline framework.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the chirality of MOF-520 aid in the determination of the absolute configuration of bound chiral molecules?",
+            "answer": "The absolute structure of the chiral MOF-520 serves as a reference for the direct determination of the absolute configuration of bound chiral molecules, avoiding the pseudosymmetry problems that have obscured absolute structures in achiral host framework systems.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What enabled the substitution of the formate ligands in MOF-520 with the incoming organic molecules while retaining crystallinity?",
+            "answer": "The architectural robustness and high chemical stability of MOF-520 enabled the substitution of the formate ligands with the incoming organic molecules while fully retaining crystallinity.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How did the binding modes of the alkoxides and phenolates differ from that of the carboxylates in MOF-520?",
+            "answer": "Unlike the carboxylates which replaced all four formate ligands, the alkoxides and phenolates only replaced two formates on the same face of the SBU ring in addition to \u6e2d-OHs. This led to a doubling of the unit cell in the c-direction.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Why could the structures of larger and more complex molecules like gibberellins be determined accurately even with low occupancy at the binding sites?",
+            "answer": "Because the coordinative alignment method yields highly ordered arrangements for molecules within the MOF, their structures can be determined accurately even with low occupancy at the binding sites.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the chirality of MOF-520 enable enantioselective binding of racemic mixtures like jasmonic acid?",
+            "answer": "The chirality of the binding sites in MOF-520 can separate enantiomers when one of them interacts more favorably with the binding site of one of the enantiomorphs of the MOF. This enabled the enantioselective binding of (\u9225?-jasmonic acid to \u8796-MOF-520 and (+)-jasmonic acid to \u879e-MOF-520 from a racemic mixture.",
+            "type": "reasoning"
+        },
+        {
+            "question": "MOF-520 has a three-dimensional, extended porous framework.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "The framework of MOF-520 crystallizes in a centrosymmetric space group.",
+            "answer": "False. The framework of MOF-520 crystallizes in the noncentrosymmetric space group P42212.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "The overall bulk sample of MOF-520 contains only one enantiomorph.",
+            "answer": "False. Although each single crystal of MOF-520 is nearly enantiomorphically pure, the overall bulk sample is a racemic conglomerate containing both \u879e and \u8796 enantiomorphs.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "The formate ligands on the SBUs of MOF-520 can be substituted with incoming organic molecules through acid-base chemistry.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "MOF-520-2 and MOF-520-3 have a smaller pore width compared to the original MOF-520.",
+            "answer": "False. MOF-520-2 and MOF-520-3 actually have a larger pore width relative to the original MOF-520.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "The ordering of small achiral molecules like benzoic acid within MOF-520 is sustained only by covalent bonds to aluminum, with no weak interactions observed.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "The absolute configuration of (+)-methyl jasmonate determined from the MOF-520 inclusion complex matched that deduced previously from a synthetic approach.",
+            "answer": true,
+            "type": "true_or_false"
+        }
+    ]
+}

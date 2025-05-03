@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of synthesizing unimolecularly thick monosheets of vinyl polymers?",
+      "answer": "The main goal is to create polymeric 2D sheets with unique properties originating from their regulated conformations, which are not manifested in the three-dimensional bulk state of the parent polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is used to synthesize the polymer monosheets?",
+      "answer": "The polymer monosheets are synthesized by exploiting confined radical polymerization reactions in pillared-layer-type MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the thickness of the polymer monosheets compare to the size of the host MOF crystals?",
+      "answer": "The size of polymer monosheets obtained is generally much smaller (~100 nm) than the size of host MOF crystals (~50 µm).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does PSt-1 exhibit compared to its linear analogue and why?",
+      "answer": "PSt-1 exhibits a significantly lower glass transition temperature (Tg) compared to its linear analogue, likely due to its unique 2D network topology which engenders the polymer with higher chain mobility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the polymerization reaction scalable?",
+      "answer": "Yes, the MOF-templated polymerization reaction is tolerant to large-scale operation and can afford grams of polymer monosheets.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the MOF structure in controlling the thickness of the polymer monosheets?",
+      "answer": "The thickness of the crosslinked polymer sheet can be successfully controlled by tuning the host MOF structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The polymer monosheets exhibit typical viscoelastic behaviour commonly observed for bulk polystyrene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the absence of a rubbery plateau in the master curve of PSt-1 indicate?",
+      "answer": "It indicates that PSt-1 is less inter-molecularly entangled due to its unique 2D network topology, despite its high molecular weight.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the polymer–substrate affinity affect the morphology of the polymer monosheets?",
+      "answer": "Polymer–substrate affinity plays a crucial role in controlling the morphology of a flexible polymer monosheet, affecting whether it adopts an expanded sheet conformation or a folded, aggregated particle morphology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The polymer monosheets are insoluble in solvents that typically dissolve conventional polystyrene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the polymer monosheets' solubility in organic solvents?",
+      "answer": "The solubility in organic solvents indicates high processability and allows for solution-based processing, which is advantageous for manufacturing processes such as coating, hot-pressing, and extrusion moulding.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The polymer monosheets can only adopt spherical conformations.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Tyndall effect observed in the chloroform dispersion of PSt-1 indicate?",
+      "answer": "It indicates a colloidal dispersion of PSt-1 in the solvent, suggesting that PSt-1 forms a colloidal solution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crosslinking degree of the resultant PSt-1 was calculated to be approximately 10%.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the continuous decrease in G’ above its Tg for PSt-1 suggest about its mechanical behavior?",
+      "answer": "It suggests that PSt-1 exhibits flowing melt character at temperatures above its Tg, indicating a more fluid-like than solid-like behavior at these temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The polymer monosheets' unique properties are a result of their three-dimensional bulk state.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of AIBN in the synthesis of polymer monosheets?",
+      "answer": "AIBN acts as a radical initiator for the crosslinking polymerization of the monomers within the MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The polymer monosheets exhibit a higher glass transition temperature (Tg) compared to their 3D-crosslinked counterparts.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the polymer monosheets' behavior on different substrates (HOPG vs. mica) demonstrate their flexibility?",
+      "answer": "The polymer monosheets' ability to adopt different morphologies (expanded sheet vs. folded, aggregated particles) on different substrates demonstrates their high degree of flexibility and conformational adaptability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of polymer monosheets is limited to polystyrene and cannot be applied to other vinyl polymers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

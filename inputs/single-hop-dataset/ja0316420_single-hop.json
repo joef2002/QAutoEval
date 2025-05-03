@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus is on the identification and bulk synthesis of a homochiral permanently microporous material with a three-dimensional channel system that retains crystallinity upon guest loss and displays enantioselective sorption of guests.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to collect single-crystal diffraction data for the material II?",
+      "answer": "The single-crystal diffraction data were collected on station 9.8 of the Synchrotron Radiation Source at Daresbury Laboratory and with a Bruker SMART CCD diffractometer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the stability of the material II change upon guest loss?",
+      "answer": "The stability of the material II increases upon guest loss, resulting in a crystalline material II' with identical space group symmetry and slightly modified unit cell parameters.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the homochiral microporous phase identified in the study stable to guest loss?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 3-picoline in the stability of the chiral open-framework structure?",
+      "answer": "3-picoline acts as an auxiliary ligand that stabilizes the chiral (10,3)-a network, enhancing the thermal stability and robustness of the first-generation homochiral phase I to guest loss.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What interaction is identified as responsible for the enhanced stability of the 3-picoline-based chiral phases?",
+      "answer": "The C−H···O interaction between the methyl group of the 3-picoline and the nonbonding oxygen of the btc carboxylate group is responsible for the enhanced stability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the material II' demonstrate enantioselective sorption?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What determines the extent of enantioselective sorption by material II'?",
+      "answer": "The extent of enantioselective sorption by material II' depends strongly on the size of the chiral guest molecules, requiring a close match to the channel dimensions for discrimination between enantiomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the porosity of material II' one-dimensional or three-dimensional?",
+      "answer": "The porosity of material II' is three-dimensional.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of replacing pyridine with 3-picoline in the coordination sphere of M?",
+      "answer": "Replacing pyridine with 3-picoline in the coordination sphere of M results in the enhanced stability of the guest-free microporous homochiral material II', due to the strengthening of multiple C−H···O interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used to determine the pore dimensions of the open chiral framework?",
+      "answer": "Vapor sorption of guest molecules of defined diameters was used to determine the pore dimensions of the open chiral framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the C−H···O interaction in the stability of the chiral open-framework structure?",
+      "answer": "The C−H···O interaction is significant because it becomes stronger upon guest loss, stabilizing the chiral porosity and preventing the collapse of the structure when the guests in the pores are removed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the material II' found to be microporous before or after the removal of guest molecules?",
+      "answer": "The material II' was found to be microporous after the removal of guest molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the diol template in controlling the helix chirality within the material II?",
+      "answer": "The hand of the 1,2-propandiol used to prepare material II strictly controls the helix chirality within the two interpenetrating (10,3)-a nets, with R- and S-templated material revealing right- and left-handed helices, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the material II' retain its crystallinity upon guest loss?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the methyl group rotation in the 3-picoline auxiliary ligand on the material II'?",
+      "answer": "The rotation of the methyl group in the 3-picoline auxiliary ligand enhances the strength of the C−H···O interaction, contributing to the stabilization of the helical network structure and the establishment of permanent chiral porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated density of material II'?",
+      "answer": "The estimated density of material II' is 0.8 g ml-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the chiral open-framework structure of material II' inherently flexible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the reactive selection from an amorphous intermediate in the study?",
+      "answer": "The reactive selection from an amorphous intermediate was significant because it led to the identification of the 3-picoline auxiliary ligand's role in stabilizing the chiral (10,3)-a network, contributing to the development of a microporous material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the extraframework volume in determining the porosity of material II'?",
+      "answer": "The extraframework volume in material II' defines the three-dimensional chiral channel system, with voids centered on the 8b positions in the I4_132 space group, illustrating the material's microporosity.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

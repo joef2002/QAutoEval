@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C3H10N2TeZn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "P21",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated band gap for ZnTe?",
+      "answer": "2.1 eV",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the dimensionality of compound 3?",
+      "answer": "2D",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis temperature for compound 4?",
+      "answer": "130 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield based on Se for compound 5?",
+      "answer": "78.8%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the blue shift value for compound 1 compared to bulk ZnTe?",
+      "answer": "1.7 eV",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of hydrazine in the synthesis of compound 1?",
+      "answer": "Reducing agent",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of dimensionality on the optical properties of the compounds?",
+      "answer": "The extent of quantum confinement effect and consequently band edge shifts are determined by the dimensionality.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the strongest Raman peak for compound 1?",
+      "answer": "Cannot be determined from the given text.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main difference between the structures of compounds 2 and 3?",
+      "answer": "Compound 2 uses hydrazine while compound 3 uses methylamine.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main advantage of the hybridization approach in tuning semiconductor properties?",
+      "answer": "It retains the degree of crystalline uniformity of the binary semiconductor while tuning electronic and optical properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the space group of compound 4 Pbca?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the estimated band gap for compound 5 larger than 4 eV?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of compound 1 conducted at a temperature higher than 120 °C?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dimensionality of compound 2 the same as compound 4?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the blue shift for compound 3 larger than that for compound 2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Raman study indicate that the hybrid structures are amorphous?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the absorption edge for compound 1 found to be 3.8 eV?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main feature of the triphosphaazatriangulene (H3L) synthesized in the study?",
+      "answer": "The main feature of H3L is its stimuli-responsive reversible transformation from a 3D-MOF to a 1D-columnar assembled proton-conducting material.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proton conductivity of the 1D-columnar assembled material at 95% relative humidity and 60°C?",
+      "answer": "5.5 X 10@3 S cm@1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the phosphonate monoester groups play in the MOFs mentioned in the study?",
+      "answer": "Phosphonate monoester groups offer carboxylate-like coordination modes to form MOFs that are chemically and thermally stable.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the MOF [Cu(HL)(DMSO)·(MeOH)]n synthesized?",
+      "answer": "By mixing a solution of H3L in DMSO with CuSO4·5 H2O in MeOH at 40°C for 2 days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the transformation between the 3D-MOF and the 1D-columnar assembled material?",
+      "answer": "Changes in solvent vapor trigger the transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from the 3D-MOF to the 1D-columnar assembled material reversible?",
+      "answer": "Yes, the transformation is reversible.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the 1D-columnar assembled material exhibit higher proton conductivity at higher relative humidity?",
+      "answer": "Yes, the proton conductivity increases with increasing relative humidity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy for proton conduction in the 1D-columnar assembled material?",
+      "answer": "0.52 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the 3D-MOF absorb methanol vapor while maintaining its overall crystalline structure?",
+      "answer": "Yes, the 3D-MOF can absorb methanol vapor while maintaining its crystalline structure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the MOF [Cu(HL)(DMSO)·(MeOH)]n when synthesized?",
+      "answer": "46%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOF when exposed to water vapor?",
+      "answer": "It transforms into a 1D-columnar assembled material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from MOF to 1D-columnar assembled material a single-crystal-to-single-crystal process?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of H3L in the formation of proton-conducting pathways?",
+      "answer": "H3L creates proton-conducting pathways with its hydrophilic domain stabilized by peripheral hydrophilic phosphinate groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study provide a new approach to designing smart materials?",
+      "answer": "Yes, the study contributes to the design and synthesis of new smart materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMSO in the structure of MOF 1?",
+      "answer": "DMSO molecules coordinate to Cu2+ and can interact with guest molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the transformations between the 3D-MOF and 1D-columnar assembled material due to the amphiphilic nature of H3L?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the initial step in the synthesis of triangulene H3L?",
+      "answer": "Bromination of tri-p-tolylamine with N-bromosuccinimide.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the 1D-columnar assembled material exhibit proton conductivity at 25°C and 55% RH?",
+      "answer": "Yes, it exhibits proton conductivity of 5.9 X 10@8 S cm@1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hydrophilic and hydrophobic domains in the transformation process?",
+      "answer": "The hydrophilic and hydrophobic domains facilitate the reversible transformation between the 3D-MOF and 1D-columnar assembled material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of the 1D-columnar assembled material dependent on temperature?",
+      "answer": "True, the conductivity increases with temperature up to 60°C at 95% RH.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "materials": [
+    {
+      "material": "Cu[Au(CN)2]2(DMSO)2, 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.037 g, 0.1 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "0.057 g, 0.2 mmol"
+          }
+        ],
+        "time": "Several days",
+        "yield": "0.050 g, 70%"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2(DMSO)2, 2",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "0.2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.037 g, 0.1 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "0.057 g, 0.2 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "0.057 g, 80%"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2(DMF), 3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.037 g, 0.1 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "0.057 g, 0.2 mmol"
+          }
+        ],
+        "time": "Several days",
+        "yield": "0.033 g, 52%"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2(pyridine)2, 4",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "pyridine/water/methanol",
+            "amount": "10 mL (5:47.5:47.5)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.111 g, 0.3 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "0.171 g, 0.59 mmol"
+          }
+        ],
+        "yield": "0.163 g, 75%"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2(H2O)2, 5",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.259 g, 0.7 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "0.403 g, 1.4 mmol"
+          }
+        ],
+        "yield": "0.380 g, 91%"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2, 6",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "equipment": "in vacuo",
+        "yield": "Quantitative"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2(CH3CN)2, 7",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "CH3CN",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.037 g, 0.1 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "0.057 g, 0.2 mmol"
+          }
+        ],
+        "yield": "Not specified"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2(dioxane)(H2O), 8",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "dioxane/water",
+            "amount": "2 mL (2:1)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.037 g, 0.1 mmol"
+          },
+          {
+            "name": "KAu(CN)2",
+            "amount": "0.057 g, 0.2 mmol"
+          }
+        ],
+        "yield": "0.057 g, 85%"
+      }
+    },
+    {
+      "material": "Cu[Au(CN)2]2(NH3)4, 9",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "NH3 vapor",
+            "amount": "Not specified"
+          }
+        ],
+        "yield": "Quantitative"
+      }
+    }
+  ]
+}

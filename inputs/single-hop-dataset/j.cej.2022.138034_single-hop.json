@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis temperature for 1,4-di(1H-imidazol-1-yl)benzene?",
+      "answer": "110 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of 1,4-di(1H-imidazol-1-yl)benzene?",
+      "answer": "61%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of ZNU-4?",
+      "answer": "C 2/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature used for the thermal gravimetric analysis of ZNU-4?",
+      "answer": "50 °C to 600 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the IAST selectivity of ZNU-4 towards a gas mixture of C2H2/CO2 at 298 K and 1.0 bar?",
+      "answer": "8.7-12.4",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the dynamic C2H2 adsorption capacity of ZNU-4 as calculated from the breakthrough experiment?",
+      "answer": "~49.4 mL/g",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purity of C2H2 adsorbed in ZNU-4 as indicated by the experimental desorption curves after the breakthrough experiment of C2H2/CO2/CH4 mixtures?",
+      "answer": "58.2%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZNU-4 stable after exposure to humid air and heating at 250 °C?",
+      "answer": "No, the PXRD patterns show slight phase changes after heating at 250 °C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZNU-4 have a higher adsorption capacity for C2H2 compared to CO2 at 298 K?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the separation factor of C2H2/CO2 by ZNU-4 approximately 5.4?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

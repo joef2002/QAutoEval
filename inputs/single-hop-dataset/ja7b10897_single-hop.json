@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of ZIF-65?",
+      "answer": "(C6H4N6O4Zn)n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the high-pressure crystallography experiments conducted for ZIF-90?",
+      "answer": "293 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum pressure applied in the experiments for ZIF-65?",
+      "answer": "4.77 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the unit cell volume of ZIF-65 change at 0.11 GPa compared to ambient pressure?",
+      "answer": "It increases by 0.70%.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of ZIF-90 cubic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for absorption correction in the crystallography experiments?",
+      "answer": "Multi-scan SADABS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the radiation type used for data collection in the high-pressure experiments for ZIF-65?",
+      "answer": "Synchrotron, λ = 0.48950 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of increasing pressure on the θ angle in ZIF-65?",
+      "answer": "The θ angle decreases, indicating a transition to a more 'gate closed' structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the ZIF-90 undergo a phase transition to a 'gate open' HP phase under high pressure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to study methanol adsorption in ZIFs?",
+      "answer": "Grand canonical Monte Carlo simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a mixture of 4:1 methanol:ethanol in the experiments?",
+      "answer": "It was used as a pressure-transmitting medium that can enter the pores of the ZIFs and is hydrostatic to higher pressures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interaction energy between methanol and the framework more favorable in ZIF-65-HP compared to ZIF-65-HYPO?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the change in θ angle and pore diameters indicate about the swing-effect mechanism in ZIFs?",
+      "answer": "It indicates that the functionality of the imidazole ring and guest–framework interactions are crucial in dictating the direction of the ligand swing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the crystallographic data for ZIF-65 at 4.77 GPa collected using a synchrotron source?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the guest–framework interaction energies observed in the GCMC simulations?",
+      "answer": "The interaction energies help in understanding how the framework's orientation affects the adsorption of methanol, guiding the design of molecular sieves.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study find that ZIF-65 undergoes a transition to a more 'gate closed' structure upon application of high pressure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for H-atom treatment in the crystal structure refinements?",
+      "answer": "H-atom parameters were constrained.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the increase in pore volume and content upon application of pressure indicate about ZIF frameworks?",
+      "answer": "It indicates that the frameworks undergo structural changes that could affect their adsorption performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of all studied ZIFs cubic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the functional groups on the imidazole linkers play in the swing effect of ZIF frameworks?",
+      "answer": "They provide control over the degree of rotation and thus the critical window diameters, affecting the adsorption performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

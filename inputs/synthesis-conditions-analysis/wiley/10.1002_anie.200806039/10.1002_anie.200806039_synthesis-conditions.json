@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "{Fe(pz)[Pt(CN)4]} (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of single crystals of clathrates",
+          "solvents": "methanolic solution of guest molecules and K2[Pt(CN)4], aqueous solution containing [Fe(SO4)2(NH4)2]·6 H2O and pz",
+          "equipment": "slow diffusion method"
+        },
+        {
+          "step": "Variable-temperature X-ray powder diffraction",
+          "equipment": "Rigaku RINT-2000 Ultima diffractometer",
+          "radiation": "CuKa"
+        },
+        {
+          "step": "Thermogravimetric analyses",
+          "equipment": "Rigaku Thermo plus TG 8120 apparatus",
+          "temperature_range": "300-700 K",
+          "atmosphere": "nitrogen",
+          "heating_rate": "1 K min-1"
+        },
+        {
+          "step": "Adsorption isotherms measurement",
+          "equipment": "Quantachrome AUTOSORB-1, BELSORP-18 volumetric adsorption equipment from BEL Japan, Inc.",
+          "temperature": "298 K",
+          "notes": "For CO2, O2, N2, H2O, and benzene"
+        },
+        {
+          "step": "Preparation of anhydrous sample 1",
+          "conditions": "treatment under reduced pressure (<10-2 Pa) at 400 K for more than 2 h"
+        },
+        {
+          "step": "Magnetic susceptibilities measurement",
+          "equipment": "Quantum Design MPMS-XL5R SQUID susceptometer",
+          "temperature_range": "2-300 K",
+          "applied_dc_field": "500 Oe",
+          "sample_preparation": "samples placed in a glass tube and fixed to the end of the sample transport rod; guest-free sample prepared by evacuating the SQUID sample chamber at 293 K for 2 h"
+        },
+        {
+          "step": "X-ray diffraction data collection",
+          "equipment": "Rigaku Varimax CCD system, Nonius Kappa-CCD single-crystal diffractometer",
+          "radiation": "graphite-monochromated MoKa (l = 0.71070 A)",
+          "temperature_control": "temperature kept constant under flowing N2",
+          "analysis": "solved by a standard direct method and expanded using Fourier techniques; full-matrix least-squares refinements with anisotropic thermal parameters for all non-hydrogen atoms; hydrogen atoms placed in calculated positions and refined using a riding model"
+        }
+      ]
+    }
+  ]
+}

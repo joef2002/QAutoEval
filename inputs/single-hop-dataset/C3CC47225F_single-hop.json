@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of the lanthanide coordination polymer synthesized for luminescent thermometry?",
+      "answer": "Tb0.957Eu0.043cpda",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature range can Tb0.957Eu0.043cpda accurately measure?",
+      "answer": "40–300 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why are luminescence-based measurements for temperature considered advantageous?",
+      "answer": "Because they can be noninvasive, accurate, and work even in strong electromagnetic fields.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission intensity of Tbcpda temperature sensitive?",
+      "answer": "False, the emissions of Tbcpda are not temperature sensitive.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the luminescence color of Tb0.957Eu0.043cpda to shift from green to orange?",
+      "answer": "The temperature-dependent emission spectra cause the luminescence color to shift.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the high triplet excited state energy of the linker in Tb0.957Eu0.043cpda?",
+      "answer": "It enables efficient energy transfer from the H3cpda ligand to the Tb3+ or Eu3+ ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can Tb0.957Eu0.043cpda be used for real-time temperature measurements?",
+      "answer": "True, it can be used for in situ and real-time temperature measurements.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quantum yield of Tbcpda?",
+      "answer": "15.37%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the ratiometric thermometric parameter for Tb0.957Eu0.043cpda defined?",
+      "answer": "Using the ratio of the intensity of the 5D4 - 7F5 (Tb3+, 546 nm) and 5D0 - 7F2 (Eu3+, 615 nm) transitions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the luminescence intensity of Tb0.957Eu0.043cpda vary with sensor concentration?",
+      "answer": "False, the intensity ratio is not compromised by variations of the sensor concentration.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated triplet energy level of the ligand H3cpda?",
+      "answer": "27 027 cm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the luminescence behavior of Tb0.957Eu0.043cpda significantly different from Tbcpda and Eucpda?",
+      "answer": "True, it is significantly different as its emissions are temperature sensitive.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What mechanism is suggested for the temperature-dependent increase of the Eu3+ emission in Tb0.957Eu0.043cpda?",
+      "answer": "The thermally driven phonon-assisted Förster transfer mechanism from the Tb3+ to Eu3+ ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the energy transfer efficiency from Tb3+ to Eu3+ at elevated temperatures?",
+      "answer": "It is strongly enhanced at elevated temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the lifetime of 5D4 decrease significantly as the temperature increases from 15 to 300 K?",
+      "answer": "True, it decreases by approximately 90%.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the correlation coefficient for the linear relationship between the ITb/IEu ratio and temperature for Tb0.957Eu0.043cpda?",
+      "answer": "0.997",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the luminescence color change of Tb0.957Eu0.043cpda easy to use for visualizing temperature change?",
+      "answer": "True, it makes it especially easy to use as a sensitive luminescent colorimetric thermometer.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the function of the intensity ratio in ratiometric luminescence temperature sensing?",
+      "answer": "It is used as the thermometric parameter for more accurate thermal measurements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the environmental temperature be readily estimated by direct color observation of Tb0.957Eu0.043cpda?",
+      "answer": "True, the environmental temperature can be readily estimated by comparison with the temperature-dependent CIE chromaticity diagram.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high triplet excited state energy of the linker in expanding the sensing range of Tb0.957Eu0.043cpda?",
+      "answer": "It suggests that the energy back-transfer from Tb3+ ions to ligand H3cpda might be efficiently prohibited, enabling a wider temperature sensing range.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

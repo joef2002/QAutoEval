@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of MOFs discussed in the research?",
+      "answer": "Capture of the greenhouse gas SF6 from SF6/N2 mixtures.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF exhibits the highest SF6/N2 selectivity according to the study?",
+      "answer": "Ni(ina)2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the global warming potential of SF6 compared to CO2?",
+      "answer": "23,900 times that of CO2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is Ni(ina)2 considered superior for SF6 capture?",
+      "answer": "It has perfect pore sizes comparable to the kinetic diameter of SF6, affording the benchmark binding affinity for SF6 gas.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is used to predict the adsorption behavior of MOFs in mixtures?",
+      "answer": "IAST (Ideal Adsorbed Solution Theory)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Cu(peba)2 has the highest specific surface area among the three MOFs discussed.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the SF6 adsorption capacity of Ni(ina)2 at 298 K and 0.1 bar?",
+      "answer": "53.5 cm3 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The SF6/N2 selectivity of Ni(ina)2 decreases with increasing SF6 concentration.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of pore size in MOFs for gas separation?",
+      "answer": "Pore size determines the selectivity and adsorption capacity for specific gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Ni(ina)2 has a lower SF6 uptake capacity at low pressures compared to other MOFs.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to confirm the phase purity of the synthesized MOFs?",
+      "answer": "Powder X-ray diffraction (PXRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The SF6-loaded Ni(ina)2 shows a mass loss at temperatures under 400 °C.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does Ni(ina)2's SF6/N2 selectivity compare to other materials?",
+      "answer": "It reached an unprecedented 375.1, higher than any other material reported to date.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Qst value in gas adsorption?",
+      "answer": "It indicates the strength of the interaction between the adsorbate and the adsorbent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption rates of SF6 on Ni(ina)2 are significantly higher than those of N2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of charge gain (blue surfaces) in GCMC simulations indicate?",
+      "answer": "Formation of weak interaction (C-H···F) between SF6 and the MOF skeleton.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The breakthrough time of SF6 for Ni(ina)2 is shorter than that for Ni(pba)2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the appearance of the [020] diffraction peak in PXRD patterns after SF6 adsorption suggest?",
+      "answer": "The SF6 adsorption altered the internal and external linings of the pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Ni(ina)2's SF6/N2 separation performance is maintained after ten cycling breakthrough experiments.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ideal pore diameter for SF6 capture according to the study?",
+      "answer": "Around 0.6 nm",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

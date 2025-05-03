@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Hf-peb",
+      "synthesis_conditions": {
+        "pressure_range": "up to 2.1 GPa",
+        "equipment": [
+          {
+            "type": "diamond anvil cell (DAC)",
+            "details": "modified Merrill-Bassett DAC"
+          },
+          {
+            "type": "UV/Vis absorption and fluorescence emission spectrometers",
+            "details": "custom built"
+          }
+        ],
+        "temperature": "ambient",
+        "solvents": "hydrostatic liquid (specific type not mentioned)",
+        "chemicals_used": [
+          {
+            "name": "1,4-phenylene-bis(4-ethynylbenzoate) ligands",
+            "role": "linker"
+          },
+          {
+            "name": "Hf6O4(OH)4 SBUs",
+            "role": "secondary building units"
+          }
+        ],
+        "linker_geometry": [
+          {
+            "type": "coplanar",
+            "population_percentage_at_ambient_pressure": "73%"
+          },
+          {
+            "type": "twisted",
+            "population_percentage_at_2.1_GPa": "100%"
+          }
+        ],
+        "crystal_system": "cubic",
+        "space_group": "Fd-3m",
+        "observations": [
+          {
+            "pressure_effect": "small expansion in volume at 0.1 GPa",
+            "volume_change_percentage": "0.006%"
+          },
+          {
+            "pressure_effect": "unit cell volume decrease with increasing pressure",
+            "volume_reduction_percentage_at_2.1_GPa": "2.6%"
+          },
+          {
+            "pressure_effect": "discontinuity in unit cell volume observed above 1.1 GPa"
+          },
+          {
+            "pressure_effect": "increase in population of the twisted conformer above 1.1 GPa"
+          }
+        ],
+        "spectroscopic_observations": [
+          {
+            "type": "UV/Vis absorption spectrum",
+            "pressure_effect": "shift to longer wavelengths with increasing pressure"
+          },
+          {
+            "type": "fluorescence emission spectrum",
+            "pressure_effect": "shift to longer wavelengths with increasing pressure",
+            "details": "greater bathochromic shift than absorption spectrum, indicating structural relaxation in the excited state"
+          }
+        ],
+        "reversibility": "pressure-induced spectral shifts were reversible"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the study described in the paper?",
+      "answer": "The study focuses on the post-synthetic modification (PSM) of metal–organic frameworks (MOFs) and its impact on the breathing behavior of MOFs, specifically the transition from 2D to 3D breathing in SHF-61 and SHF-62.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the 2D-to-3D switch in breathing response in the MOFs discussed?",
+      "answer": "The 2D-to-3D switch in breathing response is triggered by post-synthetic modification (PSM) that leads to a reduction in the amplitude of the breathing deformation in two dimensions associated with pore diameter, but a large increase in the third dimension associated with pore length.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The post-synthetic modification (PSM) process described involves a single-crystal-to-single-crystal transformation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the chemical formula of the acetamide derivative produced from SHF-61 after PSM?",
+      "answer": "(Me2NH2)[In(BDC-NHC(O)Me)2] SHF-62",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the breathing motion of SHF-62 during guest removal compare to that of SHF-61?",
+      "answer": "SHF-62 undergoes breathing via a similar mechanism during guest removal, but with substantial flexibility observed in all three dimensions, unlike SHF-61 which shows predominantly 2D breathing.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The solvated forms of SHF-62 exhibit identical b- and c-axis lengths regardless of the contained guest.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What interaction is identified between the dimethylammonium cations and the framework in SHF-62?",
+      "answer": "A hydrogen-bonding interaction between the N-H group of the cation and the carbonyl oxygen of the amide functionality is identified.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The breathing deformations in SHF-62 occur distinctly in three dimensions, contrasting with the 2D breathing observed in SHF-61.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of the steric clash between methyl groups in SHF-62 during the activation process?",
+      "answer": "The steric clash results in 50% of the ligands rotating to avoid the unfavourable interaction, leading to a significant change in the framework's structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The post-synthetically added amide group in SHF-62 exhibits site disorder.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the activation-flip in SHF-62 involve?",
+      "answer": "The activation-flip involves a rotation of about 150 degrees for half of the ligands to avoid steric clash between methyl groups, accompanied by a torsional rotation of the amide group.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The breathing motions affecting pore cross-section in SHF-62 are decoupled from the motions affecting pore length.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of the acetamide functional group affect the framework of SHF-62 compared to SHF-61?",
+      "answer": "The acetamide functional group results in a 180-degree flip of the aromatic ring of the terephthalate ligand, replacing the hydrogen-bonding motif observed in SHF-61 with a carbonyl-carbonyl interaction, affecting the framework's breathing behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The post-synthetic modification of SHF-61 to SHF-62 does not retain the continuous breathing behavior.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the SC-SC transformation in the study of MOFs?",
+      "answer": "The SC-SC (single-crystal-to-single-crystal) transformation allows for detailed structural analysis of the post-synthetic modifications, providing insights into the changes in the framework's flexibility and breathing behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The breathing deformations in SHF-62 are less extensive than those observed in SHF-61.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the modified functional groups play in the breathing behavior of SHF-62?",
+      "answer": "The modified functional groups, specifically the acetamide groups, play a crucial role in triggering the 3D breathing behavior by altering intermolecular interactions and avoiding steric clashes through ligand rotation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that post-synthetic modification can be used to control the magnitude of MOF flexibility without altering the mode of flexibility.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are mentioned for MOFs exhibiting significant dynamic structural responses?",
+      "answer": "Potential applications include molecular sensing, separation, catalysis, and drug delivery.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study reports the use of destructive techniques for characterizing post-synthetic modifications in MOFs.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

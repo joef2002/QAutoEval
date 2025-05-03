@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of synthesizing Ag2[HBTC][im] (1) and polylactic acid composite fibrous mat (1-PLA)?",
+      "answer": "The purpose is to prepare a composite with efficient antimicrobial capability for controlling skin bacterial infection, promising for practical application in anti-infective therapy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the proteome sample preparation in the study?",
+      "answer": "The proteins were extracted using lysis buffer containing 1% protease inhibitor cocktail in 8 M urea, followed by sonication, reduction, alkylation, and digestion by trypsin.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How were peptides separated for LC−MS/MS analysis?",
+      "answer": "Peptides were separated on a 15 cm reversed phase column on an ultra-HPLC EASY-nLC 1000 system, with a specific separation gradient and buffers.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the resolution and m/z range for the full scan in LC−MS/MS analysis?",
+      "answer": "The full scan was acquired in the Orbitrap at a resolution of 70,000 from 300 to 1800 m/z.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main finding from the quantitative proteomics analysis?",
+      "answer": "The main finding was that 288 differentially expressed proteins were identified, suggesting that the antibacterial action of 1-PLA may involve destroying energy metabolism, dissipation of proton motive force, and affecting transport and chemotaxis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the TGA analysis of 1-PLA and 1 reveal about their thermal stability?",
+      "answer": "The TGA analysis reveals that 1-PLA and 1 exhibit good thermal stability up to 300°C, with the decomposition of organic ligands of 1 beginning in the temperature range of 270-350°C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of Ag+ leaching experiment in understanding the antibacterial mechanism?",
+      "answer": "The Ag+ leaching experiment helped to understand that the slow release of Ag+ ions from the frameworks of 1-PLA was crucial for its antibacterial activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ROS generation potential considered a part of the antibacterial mechanism of 1-PLA?",
+      "answer": "No, the ROS generation potential was excluded from the potential antibacterial mechanism of 1-PLA as the degradation kinetics of NBT were almost the same in dark and light.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the IR spectrum of 1-PLA indicate about its composition?",
+      "answer": "The IR spectrum of 1-PLA indicates the successful loading of MOFs and the existence of PLA, showing characteristic vibration bands for both components.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of the in vivo wound healing test with 1-PLA?",
+      "answer": "The in vivo wound healing test showed that wounds treated with 1-PLA healed significantly faster than those treated with PLA or left untreated, indicating 1-PLA's potential as an antibiotic-free wound dressing.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study find that 1-PLA has a broad-spectrum bacterial killing performance?",
+      "answer": "Yes, the study found that 1-PLA has a broad-spectrum bacterial killing performance against both Gram-negative and Gram-positive bacteria with an inhibition rate of more than 95.0%.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of XPS analysis in the study?",
+      "answer": "XPS analysis was used to confirm the surface composition and chemical binding energy of 1-PLA, verifying the presence of C, O, N, and Ag.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the study confirm the stability of 1 during the electrospinning process?",
+      "answer": "The study confirmed the stability of 1 during the electrospinning process by comparing the XRD patterns and XPS spectra of 1-PLA with those of 1, showing consistent characteristic peaks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of the 'match between runs' feature in data processing?",
+      "answer": "The 'match between runs' feature in data processing was significant for ensuring consistent identification and quantification of proteins across different LC−MS/MS runs within a 2 min time window.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study use any specific software for data analysis in the MaxQuant environment?",
+      "answer": "Yes, the study used Andromeda for database search in the MaxQuant environment for data analysis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

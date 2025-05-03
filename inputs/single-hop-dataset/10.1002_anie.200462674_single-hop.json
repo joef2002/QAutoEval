@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the coordination number of the metal center required to fulfill the geometric limitations for an eight-connected net?",
+      "answer": "Eight-coordinated",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of ligand is used as a bridging ligand in the synthesis of {[Cu3Cl2(4-ptz)4(H2O)2]·3 DMF·5 H2O}n?",
+      "answer": "5-(4-pyridyl)tetrazolate (4-ptz)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Schlafli symbol for the bcu-type topology of compound 1?",
+      "answer": "{42464}",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of compound 1 in the absence of guests?",
+      "answer": "0.99 g cm-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the extra-framework volume per unit cell of compound 1?",
+      "answer": "Approximately 57%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of compound 1 based on 4-H-ptz?",
+      "answer": "61%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why was the 4-ptz ligand chosen for the synthesis of compound 1?",
+      "answer": "Because the tetrazole group is an alternative to a carboxylate moiety and the five-membered heterocyclic tetrazole group contains four N donors and a pyridine group, serving both as a potential active coordination site and a hydrogen-bond acceptor.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the bcu-type topology of compound 1 contribute to its porosity?",
+      "answer": "The bcu-type topology, with its eight-connected Cu3 clusters and tetrazolate ligand, forms a neutral body-centered-type metal–organic framework, leading to large pockets of extra-framework space.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the eight-connected Cu3-cluster SBUs in compound 1?",
+      "answer": "They cause compound 1 to contain nbo-type intersecting channels, which is the dual net of body centered cubic, making it a highly porous network.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to compound 1 when the temperature is increased to about 220°C?",
+      "answer": "Guest molecules are eliminated from the network, and after which decomposition of the framework occurs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the nature of the magnetic exchange coupling between the copper centers in compound 1?",
+      "answer": "Antiferromagnetic",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of weakly coordinated water molecules in compound 1?",
+      "answer": "They serve to gate the chamber, potentially making it a candidate for a microreactor with metal-containing active sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the bcu-type topology with only an eight-connecting polynuclear metal cluster unit easily achieved?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is compound 1 the first bcu-type structure with an eight-connecting polynuclear metal cluster unit?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are tetrazole derivatives extensively studied in the synthesis of coordination polymers?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compound 1 involve a multi-step process?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the bcu-type net self-dual?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of compound 1 remain crystalline upon heating to 220°C?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic exchange coupling between the copper centers in compound 1 ferromagnetic?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 exhibit interpenetrating networks due to its large pores and channels?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

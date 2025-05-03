@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MC4•NaClO4?",
+      "answer": "C41.50 H47.50 Cl5.50 N8 Na O11",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of MC4•NaI?",
+      "answer": "Monoclinic, C2/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R indices for MC4•NaClO4 [I > 2σ(I)]?",
+      "answer": "R1 = 0.0489, wR2 = 0.1374",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction in the X-Ray Diffraction Data Analysis of MC4•NaI?",
+      "answer": "Semi-empirical from equivalents",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of MC4•NaClO4?",
+      "answer": "1.455 mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the cooperativity of NaClO4 binding to MC5 in the gas phase?",
+      "answer": "–308 kJ mol−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the cooperativity of NaI binding stronger or weaker than NaClO4 binding in MC5 according to computational results?",
+      "answer": "Stronger",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What discrepancy was observed between computational and experimental results regarding NaClO4 binding in MC5?",
+      "answer": "Computational results overestimated the cooperativity of NaClO4 binding compared to experimental results.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the issue with the optimized structure of MC5•NaClO4 in the computational study?",
+      "answer": "The ClO4− anion is fixed at a specific orientation, which does not mimic the tumbling observed experimentally.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What additional site does MC4 provide for Na+ binding in solution phase?",
+      "answer": "An extracavity Na+ binding site provided by the amide carbonyl groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 2?",
+      "answer": "C58H44CdCl2N12O12",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature range is required to remove the encapsulated guests in compounds 2-9 according to TGA traces?",
+      "answer": "30-280°C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound shows a strict selectivity for separating 2-furaldehyde from 3-furaldehyde?",
+      "answer": "Compound 1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of compound 4 after refinement?",
+      "answer": "P41212",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The framework of compound 1 is stable during solid-state extraction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the preferred guest for compound 1 among o-toluidine, m-toluidine, and p-toluidine?",
+      "answer": "o-toluidine",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The encapsulated guest molecules in compounds 2-9 can be completely separated under mild conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for single-crystal structure determination?",
+      "answer": "X-ray intensity data measured at 123(2) K on a Bruker SMART APEX CCD-based diffractometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The generated organic radicals in compounds 2-9 are stable for 1 month under ambient conditions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of compound 1 in the separation of aromatic isomers?",
+      "answer": "Compound 1 displays strict selectivity based on dimension, polarity, and shape and can completely separate the aromatic isomers under mild conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The absolute structure parameter after refinement indicates the enantiomeric space group of the compounds.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Flack parameter in the refinement process?",
+      "answer": "The Flack parameter helps in determining the absolute configuration of the compound by indicating the enantiomeric space group.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Hydrogen atoms bonded to carbon and nitrogen in the compounds were placed in geometrically idealized positions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the function of geometric restraints used in modeling the solvent molecule?",
+      "answer": "Geometric restraints are used to model the solvent molecule accurately by ensuring that certain distances and angles are maintained according to predefined values.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ADPs of certain atoms were restrained to be isotropic within a standard deviation in the refinement process.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a broad ESR signal in compounds 2, 3, and 6-8 indicate?",
+      "answer": "The presence of a broad ESR signal indicates the formation of radical species within these compounds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescence quenching of compound 1 is caused by the formation of radical species.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of host-guest hydrogen-bonding interactions in the photoinduced radical formation?",
+      "answer": "Host-guest hydrogen-bonding interactions are critical in the photoinduced radical formation and stabilization within the confined space of the compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The encapsulated radicals cannot be trapped by O2 or H2O in air due to the steric boundary posed by the confining framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the guest dimension in the selectivity of compound 1 for aromatic isomers?",
+      "answer": "The guest dimension is a deciding factor in the selectivity of compound 1 for aromatic isomers, with smaller and more highly polar isomers being preferentially adsorbed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

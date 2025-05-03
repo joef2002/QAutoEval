@@ -1,0 +1,78 @@
+{
+  "materials": [
+    {
+      "name": "1as",
+      "synthesis_conditions": {
+        "temperature": "80 88C",
+        "activation_conditions": "activated at 80 88C",
+        "yield": "not specified",
+        "solvents": "water and DMF",
+        "guest_accessible_volume": "43.3%",
+        "space_group": "P(1)",
+        "comments": "Two-fold interpenetrated with 43.3% guest-accessible volume (GAV) occupied by water and DMF solvent."
+      }
+    },
+    {
+      "name": "1act1",
+      "synthesis_conditions": {
+        "temperature": "120 88C",
+        "activation_conditions": "activation at 120 88C results in an irreversible single-crystal to single-crystal transformation",
+        "yield": "not specified",
+        "guest_accessible_volume": "17.9%",
+        "space_group": "C2",
+        "comments": "Threefold interpenetrated structure with 17.9% discrete GAV."
+      }
+    },
+    {
+      "name": "1act2",
+      "synthesis_conditions": {
+        "temperature": "80 88C",
+        "activation_conditions": "milder activation conditions (80 88C) yields the porous apohost phase without a change in the degree of interpenetration",
+        "yield": "not specified",
+        "guest_accessible_volume": "16.9%",
+        "space_group": "P-1",
+        "comments": "Twofold interpenetrated structure with approximately the same amount of discrete GAV as threefold interpenetrated 1act1."
+      }
+    },
+    {
+      "name": "1vac2",
+      "synthesis_conditions": {
+        "activation_conditions": "subjected to SCXRD analysis under vacuum using an environmental gas cell",
+        "yield": "not specified",
+        "comments": "Matches previously reported structure of 1act2; contains no residual electron density."
+      }
+    },
+    {
+      "name": "1m",
+      "synthesis_conditions": {
+        "gas_pressure": "20 bar of methane gas",
+        "equilibration_time": "approximately 10 hours",
+        "comments": "Methane-loaded crystal structure similar to 1vac2, with only minor differences in the unit cell dimensions."
+      }
+    },
+    {
+      "name": "1e",
+      "synthesis_conditions": {
+        "gas_pressure": "20 bar of ethane gas",
+        "equilibration_time": "10 hours",
+        "space_group": "P(1",
+        "unit_cell_volume": "approximately double that of 1vac2",
+        "comments": "Inclusion of ethane results in lowering of the symmetry of 1; space to accommodate a pair of ethane molecules."
+      }
+    },
+    {
+      "name": "1p",
+      "synthesis_conditions": {
+        "gas_pressure": "8 bar propane",
+        "comments": "Retained the same space group and host ASU as 1vac2, but with slightly larger unit cell volumes and an approximately 13088 rotation of the ndc2 ligand."
+      }
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": {
+        "gas_pressure": "2 bar butane",
+        "comments": "Retained the same space group and host ASU as 1vac2, but with slightly larger unit cell volumes and an approximately 13088 rotation of the ndc2 ligand."
+      }
+    }
+  ]
+}

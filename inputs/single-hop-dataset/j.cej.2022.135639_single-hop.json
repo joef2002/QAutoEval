@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "A Sulfur-Containing Capsule-Based Metal-Organic Electrochemical Sensor for Super-Sensitive Capture and Detection of Multiple Heavy-Metal Ions",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Fei-Fei Wang, Chang Liu, Jin Yang, Hong-Liang Xu, Wen-Yuan Pei, Jian-Fang Ma",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main goal of the study presented in the article?",
+      "answer": "The main goal is to develop an effective way for super-sensitive capture and sensing of heavy metal ions (HMIs) due to their extreme toxicity to public health and environment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the name of the metal-organic framework (MOF) sensor designed in the study?",
+      "answer": "Co-TMC4R-BDC",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the heavy metal ions detected in the study?",
+      "answer": "Cd2+, Pb2+, Cu2+, and Hg2+",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the quantification of heavy metal ions in the study?",
+      "answer": "Square wave anodic stripping voltammetry (SWASV) method is used for quantification.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key features of the Co-TMC4R-BDC sensor for detecting heavy metal ions?",
+      "answer": "The Co-TMC4R-BDC sensor features efficient capture and detection of HMIs with extended linear range, low limit of detection (LOD), and high sensitivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the LOD values for Cd2+, Cu2+, and Pb2+ on the Co-TMC4R-BDC/GCE?",
+      "answer": "The LOD values are 13, 11, and 26 nM for Cd2+, Cu2+, and Pb2+, respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Co-TMC4R-BDC sensor capable of simultaneous detection of multiple heavy metal ions?",
+      "answer": "Yes, the Co-TMC4R-BDC sensor is capable of simultaneous detection of multiple heavy metal ions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method is used to support the study's findings?",
+      "answer": "Density functional theory (DFT) calculations are used to support the study's findings.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of sulfur atoms in the Co-TMC4R-BDC sensor?",
+      "answer": "Sulfur atoms in the Co-TMC4R-BDC sensor effectively capture HMIs through complexation between S atoms and HMIs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of cation-π interactions in the study?",
+      "answer": "Cation-π interactions between phenyl rings and HMIs contribute to the effective capture and sensitive detection of HMIs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Co-TMC4R-BDC sensor be used for practical electrochemical sensing applications?",
+      "answer": "Yes, the Co-TMC4R-BDC sensor has great potential in practical electrochemical sensing applications.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique is used to confirm the complexation between S atoms and HMIs?",
+      "answer": "X-ray photoelectron spectroscopy (XPS) is used to confirm the complexation between S atoms and HMIs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of the study's findings on the field of electrochemical sensing?",
+      "answer": "The study provides a feasible strategy for super-sensitive capture and electrochemical detection of HMIs, offering insights into designing MOF sensors with enhanced sensitivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the LOD values for Cd2+, Cu2+, and Pb2+ lower than the standard ones for drinking water quality?",
+      "answer": "Yes, the LOD values for Cd2+, Cu2+, and Pb2+ on the Co-TMC4R-BDC/GCE are lower than the standard ones for drinking water quality.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Co in the electrochemical reduction deposition process of HMIs?",
+      "answer": "Co is involved in electron transfer during the electrochemical reduction deposition of HMIs, facilitating the reduction of metal ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the study's computational findings?",
+      "answer": "The computational findings, including DFT calculations, provide a theoretical basis for understanding the interactions between the sensor and HMIs, supporting the experimental results.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study provide a new approach for the detection of heavy metal ions?",
+      "answer": "Yes, the study introduces a novel sulfur-containing MOF-based electrochemical sensor for the super-sensitive detection of heavy metal ions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What future directions does the study suggest for the development of electrochemical sensors?",
+      "answer": "The study suggests exploring the synergistic effects of sulfur atoms and aromatic rings in MOFs for enhancing the capture and detection capabilities of electrochemical sensors for heavy metal ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

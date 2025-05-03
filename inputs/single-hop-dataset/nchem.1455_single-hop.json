@@ -1,0 +1,76 @@
+{
+  "dataset": [
+    {
+      "question": "What type of bistability does the described cyanide-bridged [CoFe] chain exhibit?",
+      "answer": "The cyanide-bridged [CoFe] chain exhibits both magnetic and electric bistabilities.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon enables the reversible conversion between the insulating diamagnetic phase and the semiconducting paramagnetic state?",
+      "answer": "The electron-transfer coupled spin-transition (ETCST) phenomenon enables the reversible conversion.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study of cyanide-bridged polynuclear clusters as multistable switching materials is a recent development.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the two interchangeable phases that bistable compounds can exist in under identical conditions?",
+      "answer": "Bistable compounds can exist in an insulating diamagnetic phase and a semiconducting paramagnetic phase.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What external stimuli can act as switches for the coordination complexes?",
+      "answer": "Thermal and photoinduced stimuli can act as switches.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic switching arises from a different phenomenon than electric switching in the described material.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cyanide ions in the heterometallic [CoFe] complexes?",
+      "answer": "Cyanide ions mediate relatively strong magnetic interactions in the complexes.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property is observed in a [CoFe] chain complex under light-induced conditions?",
+      "answer": "Under light-induced conditions, the [CoFe] chain complex shows slow magnetic relaxation.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The introduction of chirality into transition-metal complexes does not affect their physical properties.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of light irradiation on the [CoFe] one-dimensional chiral coordination polymer?",
+      "answer": "Light irradiation allows switching from diamagnetic to SCM properties.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does thermal ETCST affect the permittivity and electric conductivity of the material?",
+      "answer": "Thermal ETCST permits the controllable switching of permittivity and electric conductivity between semiconducting and insulating phases.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [CoFe] one-dimensional chiral coordination polymer displays only magnetic bistability.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

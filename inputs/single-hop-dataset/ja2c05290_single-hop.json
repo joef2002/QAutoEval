@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of supercritical CO2 activation in the synthesis of MOF materials?",
+      "answer": "Supercritical CO2 activation is used to remove solvent from MOF pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the quantification of sulfur and iridium in MOF materials?",
+      "answer": "Inductively coupled plasma-optical emission spectroscopy (ICP-OES) is used for the quantification of sulfur and iridium in MOF materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the target catalyst quantity for the H/D exchange of toluene and benzene-d6 with Zr-NU-1000-SO4-130 °C-Cp*Ir?",
+      "answer": "The target catalyst quantity for the H/D exchange of toluene and benzene-d6 with Zr-NU-1000-SO4-130 °C-Cp*Ir is 15 mg.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What software is used for the processing of XPS data?",
+      "answer": "The Thermo Scientific Avantage Data System software is used for the processing of XPS data.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of adamantane in the H/D exchange catalysis experiments?",
+      "answer": "Adamantane is used as an internal standard in the H/D exchange catalysis experiments.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the %H/D exchange of toluene quantified in the catalysis experiments?",
+      "answer": "The %H/D exchange of toluene is quantified by integrating the adamantane resonances and setting them to 1.00, then integrating the remaining toluene resonances against it.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the broadened peak centered between 3550 cm-1 and 3750 cm-1 observed in the DRIFTS spectra?",
+      "answer": "The broadened peak centered between 3550 cm-1 and 3750 cm-1 observed in the DRIFTS spectra is indicative of the presence of node-bound isolated hydroxyl ligands overlapping with weaker bands for node-bound aqua and µ3-hydroxo ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of new 31P resonances in the sulfated materials indicate in the 31P MAS NMR spectra?",
+      "answer": "The presence of new 31P resonances in the sulfated materials indicates the emergence of new acid sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the hot filtration test on the H/D exchange catalysis with Zr-NU-1000-SO4-130 °C-Cp*Ir?",
+      "answer": "The hot filtration test shows that H/D exchange catalysis with Zr-NU-1000-SO4-130 °C-Cp*Ir only occurs in the presence of the catalyst, with no further change seen upon removing the catalyst.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the decrease in the porosity observed in the post-catalysis nitrogen sorption isotherms for Zr-NU-1000-SO4-130 °C-Cp*Ir indicate?",
+      "answer": "The decrease in the porosity observed in the post-catalysis nitrogen sorption isotherms for Zr-NU-1000-SO4-130 °C-Cp*Ir indicates that the mesoporosity of the material is retained, albeit with a slight reduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns for Zr-NU-1000-SO4-130 °C-Cp*Ir post-catalysis show that crystallinity is lost after catalytic H/D conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The use of adamantane as an internal standard in H/D exchange catalysis experiments is to measure the catalytic activity directly.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of new 31P resonances in the sulfated materials as observed in the 31P MAS NMR spectra is due to the degradation of the MOF structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The broadened peak centered between 3550 cm-1 and 3750 cm-1 in the DRIFTS spectra is due to the presence of node-bound isolated hydroxyl ligands.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The decrease in the porosity observed in the post-catalysis nitrogen sorption isotherms for Zr-NU-1000-SO4-130 °C-Cp*Ir indicates a complete loss of mesoporosity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

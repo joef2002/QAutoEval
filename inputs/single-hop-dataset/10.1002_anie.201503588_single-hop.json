@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What ions are self-assembled with 1,3,5-tris(isonicotinoyloxyethyl)cyanurate to produce 2D MOFs?",
+      "answer": "ZnII ions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property do the hydrophobic nanochannels of the MOFs exhibit when adsorbing fused aromatic hydrocarbons?",
+      "answer": "They effectively adsorb a wide range of fused aromatic hydrocarbons as monomers or dimers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystalline product of [Zn3L4(CH3CN)6](X)6·5 CH2Cl2·3 H2O formation dependent on the concentrations and mole ratios used?",
+      "answer": "No, the crystalline product could be successfully obtained irrespective of the concentrations and mole ratios.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the crystals of [Zn3L4(CH3CN)6](X)6·5 CH2Cl2·3 H2O in air over time?",
+      "answer": "The crystals slowly lose their crystallinity in air owing to the evaporation of the solvated molecules on the surface.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of anions in the nanochannels of the MOFs?",
+      "answer": "Anions serve as structure-directing templates for building the cages that encapsulate them, making the nanochannels relatively hydrophobic.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the observed effect on the fluorescence emission maxima of FAHs when included in the MOF nanochannels?",
+      "answer": "The included species exhibited emission maxima at different wavelengths compared to free FAHs, indicating changes in their organization within the channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the inclusion of FAHs in the MOF nanochannels result in the formation of excimeric or monomeric species?",
+      "answer": "It depends on the FAH; for example, PER and NAP form monomeric species within the channels, while others may form dimeric species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the inclusion capacity of FAHs in the MOFs dependent on the solvent used?",
+      "answer": "True, the inclusion capacities of the FAHs were determined to be dependent on the solvent used, with n-hexane being the most effective.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary interaction facilitating the inclusion and organization of FAHs within the MOF nanochannels?",
+      "answer": "p–p and van der Waals interactions between FAH molecules themselves, and between FAH and the Zn-MOF skeletal structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the MOF nanochannels hydrophilic or hydrophobic?",
+      "answer": "Hydrophobic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of counterions inside the MOF nanochannels affect the inclusion of FAHs?",
+      "answer": "True, the presence of one of the three counterions and partial solvate molecules inside the channels can affect the inclusion process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the MOF nanochannels accommodate both monomeric and dimeric forms of FAHs?",
+      "answer": "True, the MOF nanochannels can accommodate both monomeric and dimeric forms of FAHs depending on the specific FAH and its interaction within the channel.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of FRET observed in NAP·PER(cid:132)Zn-MOF?",
+      "answer": "The emission corresponding to NAP was considerably quenched, whereas that corresponding to PER was significantly enhanced, indicating efficient energy transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do ANT and PHE exist as monomers or dimers within the MOF nanochannels?",
+      "answer": "ANT and PHE form dimeric p···p stacking orientations within the nanochannels.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the inclusion of FAHs in MOFs a reversible process?",
+      "answer": "True, the PL spectrum of included FAHs in solution was the same as that of the free FAH solution, indicative of dissociation of the FAH guest from the host nanochannels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the counterion type (BF4 or ClO4) significantly affect the inclusion of FAHs in the MOFs?",
+      "answer": "False, the difference between employing BF4 or ClO4 as counterion was found to be negligible.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary purpose of the study reported in the text?",
+      "answer": "The study aims to explore the self-assembly of MOFs with anion-confining cages for the inclusion, organization, and energy transfer of fused aromatic hydrocarbons.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the MOF structures stable under anaerobic conditions?",
+      "answer": "True, the basic structures of the MOFs were very stable under anaerobic conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the spectral overlap in FRET processes within MOFs?",
+      "answer": "The spectral overlap between the emission spectrum of one FAH and the excitation spectrum of another FAH is crucial for the occurrence of FRET processes within MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the inclusion of FAHs in MOFs influenced by the polarity of the solvent?",
+      "answer": "True, the solvent effects for inclusion were inversely proportional to the polarity, with n-hexane being the most effective.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "In-MOF",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "ethanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "InCl3",
+            "amount": "4 mg, 0.018 mmol"
+          },
+          {
+            "name": "H4TCPE",
+            "amount": "8 mg, 0.009 mmol"
+          }
+        ],
+        "equipment": "4 mL glass vial",
+        "yield": "8 mg, 73%"
+      }
+    },
+    {
+      "name": "Zn-MOF",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "0.5 mL"
+          },
+          {
+            "name": "1 m HCl",
+            "amount": "10 µL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·4H2O",
+            "amount": "14 mg, 0.054 mmol"
+          },
+          {
+            "name": "H4TCPE",
+            "amount": "8 mg, 0.009 mmol"
+          },
+          {
+            "name": "4,4′-bipyridylethene",
+            "amount": "3 mg, 0.017 mmol"
+          }
+        ],
+        "equipment": "4 mL glass vial",
+        "yield": "7.5 mg, 81%"
+      }
+    },
+    {
+      "name": "DSMP loaded In-MOF",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "DSMP",
+            "amount": "increment from 0.25 × 10−3 to 12 × 10−3 m over 4 days"
+          }
+        ],
+        "time": "4 days",
+        "method": "solvent exchange every 8 h with a slight increment of the dye concentration"
+      }
+    }
+  ]
+}

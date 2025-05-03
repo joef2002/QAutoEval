@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the pore size of SIFSIX-2-Cu?",
+      "answer": "13.05 A",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the BET apparent surface area?",
+      "answer": "N2 adsorption",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 uptake of SIFSIX-2-Cu-i at 298 K and 1 bar?",
+      "answer": "121.2 cm3 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2/N2 selectivity of SIFSIX-2-Cu-i?",
+      "answer": "140",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the pore size of SIFSIX-3-Zn?",
+      "answer": "3.84 A",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 adsorption selectivity of SIFSIX-3-Zn for CO2/N2:10/90 mixture?",
+      "answer": "1,539",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does SIFSIX-2-Cu-i exhibit higher CO2 uptake than SIFSIX-2-Cu?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Qst of CO2 adsorption for SIFSIX-2-Cu-i higher than that for SIFSIX-3-Zn?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of humidity on the CO2 capacity and selectivity of SIFSIX-2-Cu-i and SIFSIX-3-Zn?",
+      "answer": "Water adsorption affinity/capacity is reduced in the presence of CO2 gas mixtures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the CO2/CH4 selectivity of SIFSIX-3-Zn for CO2/CH4:50/50 mixture?",
+      "answer": "109",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is SIFSIX-3-Zn suitable for pre-combustion capture or H2 purification?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SIFSIX-3-Zn undergo a phase change when exposed to high humidity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 uptake of SIFSIX-3-Zn at 0.1 bar?",
+      "answer": "11 wt%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does SIFSIX-2-Cu-i have a higher surface area than SIFSIX-3-Zn?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the volumetric CO2 uptake of SIFSIX-2-Cu-i at atmospheric pressure?",
+      "answer": "151 v/v",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the CO2 adsorption selectivity of SIFSIX-3-Zn higher than that of Mg-dobdc for CO2/N2:10/90 mixture?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Qst of CO2 adsorption for SIFSIX-3-Zn?",
+      "answer": "45 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does SIFSIX-2-Cu-i show higher CO2/CH4 selectivity than SIFSIX-3-Zn?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing adsorption temperature on the steepness of the CO2 adsorption isotherm for SIFSIX-3-Zn?",
+      "answer": "Increasing the adsorption temperature did not significantly reduce the steepness of the CO2 adsorption isotherm for SIFSIX-3-Zn.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can SIFSIX-3-Zn be recycled without significant loss in performance?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

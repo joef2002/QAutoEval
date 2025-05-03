@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "1,2-bis(4-nitro-1H-imidazol-1-yl)ethane (bnie)",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4-nitro-1H-imidazole",
+            "amount": "0.57 g, 50 mmol"
+          },
+          {
+            "name": "NaOH",
+            "amount": "2.0 g, 50 mmol"
+          },
+          {
+            "name": "1,2-dichloroethane",
+            "amount": "0.25 g, 25 mmol"
+          }
+        ],
+        "other_conditions": "mixture poured into 300 mL of H2O",
+        "yield": "75%",
+        "purification": "CH3OH and H2O"
+      }
+    },
+    {
+      "name": "NAU-1",
+      "synthesis_conditions": {
+        "temperature": "130°C",
+        "time": "three days",
+        "solvents": [
+          {
+            "name": "CH3OH",
+            "amount": "9 mL"
+          },
+          {
+            "name": "water",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(CH3COOH)2·2H2O",
+            "amount": "0.065 g, 0.3 mmol"
+          },
+          {
+            "name": "bnie",
+            "amount": "0.038 g, 0.15 mmol"
+          },
+          {
+            "name": "(NH4)6Mo7O24·4H2O",
+            "amount": "0.12 g, 0.1 mmol"
+          }
+        ],
+        "other_conditions": "pH 1.7 ~ 2.0 adjusted with 1.0 M HCl and NaOH",
+        "yield": "75%"
+      }
+    },
+    {
+      "name": "NAU-2",
+      "synthesis_conditions": {
+        "temperature": "140°C",
+        "time": "three days",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "0.051 g, 0.3 mmol"
+          },
+          {
+            "name": "bnie",
+            "amount": "0.038 g, 0.15 mmol"
+          },
+          {
+            "name": "(NH4)6Mo7O24·4H2O",
+            "amount": "0.12 g, 0.1 mmol"
+          }
+        ],
+        "other_conditions": "pH 3.8 ~ 4.1",
+        "yield": "85%"
+      }
+    },
+    {
+      "name": "CNTs and GO-supported POM-MOF composites",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "sodium polystyrene sulfonate (PSS)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "NAU-x",
+            "amount": "80 mg"
+          }
+        ],
+        "other_conditions": "20 mg or 50 mg of CNTs or GO was used; sonication for 10 mins and stirring for 1 h; no PSS for GO synthesis"
+      }
+    }
+  ]
+}

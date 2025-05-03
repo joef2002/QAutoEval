@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the compound with chiral triple-helical strands mentioned?",
+      "answer": "[{CrIII(CN)6}(MnIIL)3]·3 H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature do the spins on the manganese ions within the compound display ferrimagnetic order?",
+      "answer": "Below 35 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon involves alteration of the absorbance of a substance with ordinary light according to the directions of the magnetic field and incident radiation?",
+      "answer": "Magneto–chiral dichroism effect (MChD)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coordination geometry of the heptanuclear unit of [{CrIII(CN)6}(MnII l-NH2ala)3]·3 H2O?",
+      "answer": "The coordination geometry involves two types of functional groups to bridge between two adjacent MnII ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Weiss temperature of the compounds as per the Curie–Weiss law?",
+      "answer": "-25 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the saturation magnetization value for the compounds at 2 K?",
+      "answer": "MS = 3.93 mB",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main factor governing the formation of the triple-helical-strand structure in the compounds?",
+      "answer": "The rigid frame of the helical chain and not hydrogen bonding between helical chains.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the magnetic transition temperature of the compounds relatively low?",
+      "answer": "Due to the comparatively long cyanide-bridged distance and possibly spin frustration between manganese ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What leads to the construction of two differing chelating rings around the MnII ion?",
+      "answer": "The unique coordination of two amino moieties and one carboxyl group within the aminoalanine ion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the expected outcome of the initial construction of an infinite helical chain of ligated MII?",
+      "answer": "Formation of a multiple helical structure of MII.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the hexacyanometalate [MIII(CN)6]3(cid:1) ion in the compounds?",
+      "answer": "It connects between adjacent helical structures containing MII through cyanide bridges.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the abrupt increase of the cmolT value around 30 K suggest?",
+      "answer": "The onset of three-dimensional magnetic ordering.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds exhibit antiferromagnetic behavior below 35 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Hydrogen bonds are the main factor governing the formation of the triple-helical-strand structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic transition temperature is high due to the formation of a three-dimensional cyanide network.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compounds were synthesized from the reaction of manganese(ii) complex with an alanine derivative and hexacyanochromate(iii) ion.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compounds have a triple-helical structure with counterclockwise and clockwise turns around the manganese ion obtained from d and l isomers, respectively.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The shortest and longest Cr···Mn distances through cyanide bridges are significantly shorter than those in previous crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compounds exhibit ferrimagnetic behavior below 25 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The main factor governing the formation of the triple-helical-strand structure is the positive charge of the manganese ions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

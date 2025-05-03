@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the calixarene-based metal-organic framework discussed?",
+      "answer": "Zr-cal, [Zr6O4(OH)4(FA)6]2(cal)3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the specific BET surface area of the discussed MOF?",
+      "answer": "670 m2 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gas is the MOF highly selective for detecting?",
+      "answer": "NO2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the stability of the material?",
+      "answer": "Powder X-ray diffraction and 1H NMR spectroscopy",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Lewis acids mentioned in the context of the MOF?",
+      "answer": "Lewis acids can greatly reduce the irreversible nitration of calixarenes upon NO2 exposure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the MOF when exposed to NO2?",
+      "answer": "It changes color from white to dark blue.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum diameter of a sphere that could pass through the complete pore system of the MOF?",
+      "answer": "About 5 c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the NO2 detection by the MOF reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF lose its crystallinity after being exposed to NO2?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the MOF detect NO gas?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of formic, acetic, or propionic acid in the synthesis of the MOF?",
+      "answer": "They act as modulating agents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What temperature is required for the crystallization of the MOF?",
+      "answer": "120 88C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF stable in aqueous acidic conditions at room temperature?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of humidity affect the NO2 detection capability of the MOF?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed shift in the C=O vibration when acetone coordinates to Lewis acids in the MOF?",
+      "answer": "15 cm@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the absorption maximum in the UV/Vis spectra of the MOF after prolonged NO2 exposure?",
+      "answer": "Approximately 560 nm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a band at 1942 cm@1 in the IR spectra imply?",
+      "answer": "The complexation of NO+ inside the calixarene cavity",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the coatings of the MOF on glass slides homogeneous?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the response time of the sensor to a step function of NO2 concentration?",
+      "answer": "A few seconds",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF exhibit a BET surface area after being synthesized with acetic acid as the modulator?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

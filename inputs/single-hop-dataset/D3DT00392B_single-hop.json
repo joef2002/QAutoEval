@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the formula of the Zn-based coordination polymer synthesized?",
+      "answer": "[Zn2(Hpbc)2(2,2’-bipy)(H2O)]·H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize Tb3+@Zn-CP?",
+      "answer": "Postsynthetic modification (PSM) method",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the limit of detection (LOD) for BP using Zn-CP?",
+      "answer": "4.67 × 10^-6 M",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the luminescence intensity of Zn-CP change upon the addition of BP?",
+      "answer": "The luminescence intensity of Zn-CP is quenched by BP.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main reason for the luminescence quenching of Zn-CP and Tb3+@Zn-CP by BP?",
+      "answer": "The main reasons are competitive absorption and static quenching.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Tb3+@Zn-CP capable of ratiometric luminescence sensing of BP?",
+      "answer": "Yes, Tb3+@Zn-CP is capable of ratiometric luminescence sensing of BP.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What changes occur in the luminescence spectrum of Tb3+@Zn-CP upon the addition of BP?",
+      "answer": "Both the emissions of H3pbc and Tb3+ ions of Tb3+@Zn-CP simultaneously decrease.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can Zn-CP and Tb3+@Zn-CP detect BP in real urine systems?",
+      "answer": "Yes, both Zn-CP and Tb3+@Zn-CP can detect BP in real urine systems.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the LOD for BP using Tb3+@Zn-CP in a real urine system?",
+      "answer": "1.01 × 10^-5 M",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of Zn-CP and Tb3+@Zn-CP remain unchanged after the detection of BP?",
+      "answer": "Yes, the structures of Zn-CP and Tb3+@Zn-CP remain unchanged after the detection of BP.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the response time of Zn-CP and Tb3+@Zn-CP for BP detection?",
+      "answer": "The response time is very fast, less than 5 seconds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Tb3+@Zn-CP be used as a portable device for detecting BP?",
+      "answer": "Yes, Tb3+@Zn-CP can be used as a portable device for detecting BP.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the uncoordinated –COOH groups in Zn-CP?",
+      "answer": "The uncoordinated –COOH groups in Zn-CP allow for the introduction of Tb3+ ions through coordinated postsynthetic modification.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of BP on the color of Tb3+@Zn-CP suspensions under UV light?",
+      "answer": "The color of Tb3+@Zn-CP suspensions changes from green to colorless upon the addition of BP under UV light.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence lifetime of Zn-CP and Tb3+@Zn-CP significantly affected after sensing BP?",
+      "answer": "No, the luminescence lifetime of Zn-CP and Tb3+@Zn-CP slightly changes after sensing BP, indicating static quenching.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of competitive absorption in the luminescence quenching mechanism?",
+      "answer": "Competitive absorption between Zn-CP or Tb3+@Zn-CP and BP contributes to the luminescence quenching.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the LOD of Zn-CP for BP detection compare to other methods?",
+      "answer": "The LOD of Zn-CP for BP detection is competitive and comparable with those reported in other methods.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the incorporation of Tb3+ ions into Zn-CP affect its structure?",
+      "answer": "No, the incorporation of Tb3+ ions does not destroy the structure of Zn-CP.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dual-emission characteristic of Tb3+@Zn-CP?",
+      "answer": "The dual-emission characteristic of Tb3+@Zn-CP enables ratiometric luminescence sensing of BP.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the test papers of Tb3+@Zn-CP visually detect BP under UV light?",
+      "answer": "Yes, the test papers of Tb3+@Zn-CP can visually detect BP under UV light by showing a color change.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

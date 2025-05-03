@@ -1,0 +1,26 @@
+{
+  "materials": [
+    {
+      "name": "Cu3(BTC)2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis and Crystal Growth",
+          "details": "Performed in 50 mL volume Teflon-lined stainless-steel autoclave reactors. Octahedral single crystals (exposing the 111 face) and microcrystalline powder were prepared according to the Wu et al. strategy. Single crystals with a size up to 300 μm were grown by increasing the cooling time up to 12 h. The single crystals were washed by decanting three times with 60 °C DMF and stored in Cl3CH."
+        },
+        {
+          "step": "MOF Activation",
+          "details": "Microcrystalline pellets were activated by heating to 200 °C for 20 h at 10−3 mbar. This treatment retrieves a complete removal of guest molecules. Activated pellets for impedance spectroscopy were loaded into the sample holder by working in a glovebox with N2 atmosphere and ca. 5 ppm of H2O. More gentle activation treatments were tested on single crystals to retain high single-crystal quality."
+        }
+      ]
+    },
+    {
+      "name": "Zn3(BTC)2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis and Crystal Growth",
+          "details": "Cubic single crystals (exposing the 100 face) were obtained by using the synthesis reported by Feldblyum et al.; the size of single crystals was increased up to 250 μm by using 3 times the reagent’s concentration. The single crystals were washed by decanting three times with 60 °C DMF and stored in Cl3CH."
+        }
+      ]
+    }
+  ]
+}

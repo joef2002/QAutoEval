@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the synthesis condition for Fe2(dobdc)?",
+      "answer": "The synthesis of Fe2(dobdc) was performed as previously reported. For all gas adsorption measurements, 200-225 mg of Fe2(dobdc)·4MeOH was transferred to a pre-weighed glass sample tube under an atmosphere of nitrogen and capped with a Transeal.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gases were used for adsorption measurements in Fe2(dobdc)?",
+      "answer": "For acetylene adsorption, 99.5% purity gas was used while 99.99% or higher purity gases were used for methane, ethane, ethylene, propane, and propylene.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the activated Fe2(dobdc) prepared for gas adsorption analysis?",
+      "answer": "Samples were transferred to Micromeritics ASAP 2020 gas adsorption analyzer and heated at a rate of 0.1 K/min from room temperature to a final temperature of 433 K. Samples were considered activated when the outgas rate at 433 K was less than 2 μbar/min.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of differential scanning calorimetry in the study?",
+      "answer": "Differential scanning calorimetry was performed to determine the energies needed to release propylene and ethylene from Fe2(dobdc) and regenerate the material for subsequent separation steps.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of neutron powder diffraction data for Fe2(dobdc) when dosed with deuterated gas?",
+      "answer": "Neutron powder diffraction data confirmed a side-on coordination of acetylene, ethylene, and propylene at the iron(II) centers, while also providing solid-state structural characterization of the weaker interactions of ethane and propane with the metal.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 238U/235U ratio considered invariant for calculating terrestrial mineral ages?",
+      "answer": "Previously, a value of 137.88 was considered invariant and used without uncertainty to calculate terrestrial mineral ages.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does Fe2(dobdc) show selectivity for certain hydrocarbons over others?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was there any observed loss in olefin uptake capacity over multiple adsorption/desorption cycles in Fe2(dobdc)?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can Fe2(dobdc) be used for separating ethylene/ethane and propylene/propane mixtures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find a clear relation between 238U/235U values and petrogenetic, secular, or regional trends?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using differential scanning calorimetry in the context of Fe2(dobdc)?",
+      "answer": "Differential scanning calorimetry was used to determine the energies required to release propylene and ethylene from Fe2(dobdc) for material regeneration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does Fe2(dobdc) compare to other materials in terms of adsorption selectivities for ethylene/ethane and propylene/propane separations?",
+      "answer": "Fe2(dobdc) displays higher adsorption selectivities for ethylene/ethane and propylene/propane separations compared to other materials like zeolite NaX or Mg2(dobdc).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Fe2(dobdc) capable of removing acetylene impurities from ethylene?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the neutron powder diffraction data reveal about the interaction between Fe2(dobdc) and hydrocarbons?",
+      "answer": "The neutron powder diffraction data reveal that unsaturated hydrocarbons like acetylene, ethylene, and propylene display side-on binding modes to the iron(II) centers, indicating stronger interactions compared to weaker interactions observed with ethane and propane.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed range in 238U/235U values in the study?",
+      "answer": "The study observed a range in 238U/235U values of more than 5 per mil.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Fe2(dobdc) be regenerated for subsequent separation steps?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the variation between comagmatic minerals suggest about 238U/235U fractionation?",
+      "answer": "The variation between comagmatic minerals suggests that 238U/235U fractionation processes operate at magmatic temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 238U/235U ratio in zircon samples reflective of the average uranium isotopic composition of terrestrial zircon?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study imply about the use of a single value for the 238U/235U ratio in geochronology?",
+      "answer": "The study implies that using a single invariant value for the 238U/235U ratio in geochronology without considering its variability may not accurately reflect the true uranium isotopic composition in terrestrial minerals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the 238U/235U ratio in terrestrial uranium-bearing minerals?",
+      "answer": "The 238U/235U ratio has fundamental implications for uranium-lead geochronology and cosmochronology, affecting the calculation of mineral ages.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

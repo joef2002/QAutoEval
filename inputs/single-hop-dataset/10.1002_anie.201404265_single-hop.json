@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the metal-organic framework discussed for hydrogen storage?",
+      "answer": "SNU-200",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which cation is best for enhancing the isosteric heat of H2 adsorption in SNU-200?",
+      "answer": "K+",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 18-crown-6 ether moiety in SNU-200?",
+      "answer": "It acts as a specific binding site for selected cations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the inclusion of K+ ion affect the isosteric heat of H2 adsorption in SNU-200?",
+      "answer": "It increases the isosteric heat of H2 adsorption to 9.92 kJ mol-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to activate SNU-200 for gas adsorption?",
+      "answer": "Activation with supercritical CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the K+ ion in the structure of SNU-200?",
+      "answer": "The K+ ion has accessible open sites that enhance H2 adsorption energy.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why was KSCN chosen as a K+ source instead of KCl?",
+      "answer": "Because of the easily identifiable SCN- ion in the IR spectra and the higher solubility of KSCN in DMF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to SNU-200 when it binds with K+ and NH4+ ions?",
+      "answer": "It undergoes a single-crystal to single-crystal transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the inclusion of cations affect the BET surface areas of SNU-200?",
+      "answer": "The BET surface areas of the compounds including cations are higher than that of SNU-200.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of activation with supercritical CO2 on the structure of SNU-200?",
+      "answer": "It removes two water molecules bound at each K+ ion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the inclusion of MV2+ affect the structure of SNU-200?",
+      "answer": "The structure of SNU-200 is maintained, but the included MV2+ species could not be located due to thermal disorder.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the 18Cr6 moiety in the binding of NH4+ ions?",
+      "answer": "The NH4+ ion forms hydrogen bonds with the oxygen atoms of the crown ether.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is SNU-200 the first MOF incorporating a crown ether moiety as the framework component?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the inclusion of K+ ion decrease the isosteric heat of H2 adsorption in SNU-200?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all activated compounds of SNU-200 air sensitive?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the PXRD pattern of SNU-200 change significantly after activation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the H2 uptake capacity of SNU-200 higher at 298 K than at 77 K?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the inclusion of MV2+ ions lead to a decrease in the BET surface area of SNU-200?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the isosteric heat of H2 adsorption in SNU-200 higher than in general Zn type MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the inclusion of NH4+ ions result in a decrease in the hydrogen storage capacity of SNU-200?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

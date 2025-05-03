@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of engineering metal-organic frameworks (MOFs) as described in the article?",
+      "answer": "The main goal is to achieve selective separation of hexane isomers using 3-dimensional linkers in MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize NU-2002 single crystals?",
+      "answer": "NU-2002 single crystals were synthesized via hydrothermal synthesis using AlCl3·6H2O and BPDCA linker in a stainless-steel Parr vessel at 200 °C for 3 days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using a 3-dimensional linker in MOFs for hexane isomer separation?",
+      "answer": "Using a 3-dimensional linker in MOFs limits structural breathing and allows for precise control over pore size, which is critical for the selective separation of hexane isomers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NU-2002 requires the use of hydrofluoric acid.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to confirm the structure of NU-2002 powder?",
+      "answer": "Powder X-ray diffraction (PXRD) was used to confirm the structure of NU-2002 powder.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of 3D linkers affect the flexibility of MOFs?",
+      "answer": "The incorporation of 3D linkers in MOFs limits global structural breathing, making the structure more rigid and stable.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of hexane isomers in NU-2002 is not affected by the flexibility of the linker.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of performing variable temperature powder X-ray diffraction studies on NU-2002?",
+      "answer": "The purpose was to understand if NU-2002 exhibits any temperature-dependent structural transformations, similar to those seen in MIL-53.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NU-2002 MOF structure undergoes significant structural changes upon guest molecule inclusion.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to predict the uptake of hexane isomers in NU-2002?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulations were used to predict the uptake of hexane isomers in NU-2002.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is it important to accurately predict the pore size distribution (PSD) in MOFs?",
+      "answer": "Accurately predicting the PSD is important for understanding how well different molecules can be accommodated within the MOF's pores, which is crucial for applications like gas separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NU-2002 MOF is thermally stable past 350 °C under air.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

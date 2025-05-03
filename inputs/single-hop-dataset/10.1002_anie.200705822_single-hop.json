@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the flexible porous coordination polymer discussed?",
+      "answer": "{[Cd(bpndc)(bpy)]}n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the gate-opening process in the discussed coordination polymer?",
+      "answer": "Guest-induced framework transition.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The gate-opening pressure (Pgo) is the same for all guest molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of kinetic analysis in understanding the gate-opening process?",
+      "answer": "It helps to understand the mechanism behind differences in Pgo between similar gases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the gate-opening pressure (Pgo) in the context of the coordination polymer?",
+      "answer": "It is the onset pressure at which the framework structure changes, allowing adsorption to occur.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of O2, Ar, and N2 at 90 K showed no sudden increase at specific pressures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Why does adsorption not occur below the gate-opening pressure?",
+      "answer": "Because gate opening is required before the diffusion process can begin.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What determines the gate-opening pressure (Pgo)?",
+      "answer": "The structural transformation of the host framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The solvothermal reaction used in the synthesis involves water as the solvent.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What gases were used as adsorbates in the study?",
+      "answer": "O2, Ar, and N2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption volumes of O2, Ar, and N2 at 90 K were the same when the pressure approached 100 kPa.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the gate-opening process affect the adsorption of gases?",
+      "answer": "It enhances the difference in Pgo between gases, allowing selective adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The gate-opening process is independent of the guest molecule's physical properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the gate-opening process?",
+      "answer": "As temperature increases, the value of kgo decreases, affecting the gate-opening pressure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of the coordination polymer remains unchanged upon desolvation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the double-exponential (DE) equation in the study?",
+      "answer": "It describes the diffusion process during adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the gate-opening model (GO model) differ from the DE model?",
+      "answer": "The GO model includes the formation of an intermediate phase, which is not considered in the DE model.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The gate-opening process is faster than the diffusion process for all gases studied.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to measure the adsorption isotherms?",
+      "answer": "Volumetric adsorption",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the gate-opening process considered essential for adsorption to occur?",
+      "answer": "Because it allows the structure to transform from a closed phase to an open phase, enabling gas molecules to diffuse into the cavities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

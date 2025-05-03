@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of metal-organic frameworks (MOFs) discussed in the text?",
+      "answer": "The main application of MOFs discussed is for non-thermal chemical separations, specifically for the separation of hexane isomers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the 3D linker in the zinc-based MOF?",
+      "answer": "The 3D linker enhances the structural stability and provides well-defined pore apertures/channels with sub-Ångstrom precision for the separation of hexane isomers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using a 3D linker in MOFs for hydrocarbon separations?",
+      "answer": "Using a 3D linker in MOFs allows for precise control over the pore size and aperture, enabling the separation of molecules based on subtle differences in their kinetic diameters.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is NU-2200 stable at high temperatures?",
+      "answer": "Yes, NU-2200 is stable up to 350 °C under air and up to 450 °C under N2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET area of NU-2200?",
+      "answer": "The BET area of NU-2200 was calculated to be 355 m2/g.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does NU-2200 achieve separation of hexane isomers?",
+      "answer": "NU-2200 achieves separation of hexane isomers through kinetic diffusion limitation or molecular sieving, based on the precise control of pore size and limited flexibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NU-2200 maintain its porosity after activation at high temperatures?",
+      "answer": "True, NU-2200 maintains its porosity even after activations at high temperatures up to 400 °C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the experimental pore volume of NU-2200?",
+      "answer": "The experimental pore volume of NU-2200 is 0.13 cm3/g.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can NU-2200 selectively separate linear isomers from monobranched and dibranched isomers?",
+      "answer": "Yes, NU-2200 can selectively separate linear isomers from monobranched and dibranched isomers.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest uptake isomer by NU-2200 in single-component sorption isotherms?",
+      "answer": "The highest uptake isomer by NU-2200 in single-component sorption isotherms is nC6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of zinc nitrate hexahydrate in the synthesis of NU-2200?",
+      "answer": "Zinc nitrate hexahydrate acts as a source of zinc in the solvothermal synthesis of NU-2200.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of 3D linkers in NU-2200 minimize dynamic variation of pore aperture?",
+      "answer": "True, the presence of 3D linkers within NU-2200 minimizes the dynamic variation of pore aperture due to linker rotation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the kinetic diameter of nC6?",
+      "answer": "The kinetic diameter of nC6 is 4.3 Å.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does NU-2200's pore size affect its separation performance?",
+      "answer": "NU-2200's precisely controlled pore size allows for the separation of molecules based on their kinetic diameters, enhancing its separation performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the separation of C6 isomers into linear, monobranched, and dibranched possible at room temperature using NU-2200?",
+      "answer": "True, the separation of C6 isomers into linear, monobranched, and dibranched is possible at room temperature using NU-2200.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of NU-2200?",
+      "answer": "DMF acts as a solvent in the solvothermal synthesis process of NU-2200.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NU-2200 show a Type-I isotherm in N2 sorption measurements?",
+      "answer": "True, NU-2200 shows a Type-I isotherm in N2 sorption measurements, indicating it is an ultramicroporous material.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of NU-2200?",
+      "answer": "The space group of NU-2200 is P2/c.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of 3D linkers affect the thermal stability of NU-2200?",
+      "answer": "The incorporation of 3D linkers increases the structural rigidity of NU-2200, contributing to its enhanced thermal stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can NU-2200 selectively uptake nC6 from a mixture of all five C6 isomers?",
+      "answer": "True, NU-2200 can selectively uptake nC6 from a mixture of all five C6 isomers, demonstrating its ability to separate linear isomers from the mixture.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

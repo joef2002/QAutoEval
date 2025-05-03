@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are metal-organic frameworks (MOFs)?",
+      "answer": "MOFs are crystalline synthetic porous materials formed by binding organic linkers to metal nodes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the flexibility of MOFs?",
+      "answer": "The flexibility of MOFs allows for rearrangement in the presence of guests through mechanical mechanisms, offering a range of routes to controlling function that are not accessible to rigid frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZnGGH-1⋅(DMF-H2O) a rigid or flexible framework?",
+      "answer": "ZnGGH-1⋅(DMF-H2O) is a flexible framework.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZnGGH-2⋅(DMSO) adsorb guests without triggering?",
+      "answer": "No, ZnGGH-2⋅(DMSO) does not adsorb guests without triggering.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the addition of DMF trigger the adsorption of dioxane in ZnGGH-2⋅(DMSO)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to ZnGGH-2⋅(DMSO) when exposed to neat dioxane?",
+      "answer": "The structure of ZnGGH-2⋅(DMSO) remains unchanged when exposed to neat dioxane.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption of L-menthyl acetate by ZnGGH structures possible without DMF triggering?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the adsorption process of ZnGGH frameworks?",
+      "answer": "DMF acts as a trigger for the adsorption process, enabling the uptake of guests by transforming the structure of ZnGGH frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does ZnGGH-4⋅(H2O) contain water molecules in its pores?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to analyze the conformational energy landscape of ZnGGH?",
+      "answer": "Dihedral angle principal-component analysis (dPCA) is used to analyze the conformational energy landscape of ZnGGH.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZnGGH frameworks adsorb guests larger than their pore windows?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What determines the guest uptake capability of ZnGGH frameworks?",
+      "answer": "The guest uptake capability of ZnGGH frameworks is determined by the flexibility of the framework and the presence of triggering molecules like DMF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural transformation from ZnGGH-2 to ZnGGH-1 reversible?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of solvent exchange on ZnGGH frameworks?",
+      "answer": "Solvent exchange can lead to structural transformations of ZnGGH frameworks, affecting their guest uptake capabilities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of DMF always lead to the adsorption of guests in ZnGGH frameworks?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the conformational energy landscape in understanding ZnGGH frameworks?",
+      "answer": "The conformational energy landscape is significant in understanding the structural flexibility and guest uptake capabilities of ZnGGH frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are all ZnGGH structures capable of undergoing structural transformations?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the peptide linker play in the flexibility of ZnGGH frameworks?",
+      "answer": "The peptide linker plays a crucial role in the flexibility of ZnGGH frameworks by allowing rotation about covalent bonds, leading to structural transformations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZnGGH frameworks adsorb any type of guest molecule?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the internal surface chemistry of ZnGGH frameworks affect their function?",
+      "answer": "The internal surface chemistry of ZnGGH frameworks affects their function by determining the interactions with guest molecules, influencing adsorption and catalytic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

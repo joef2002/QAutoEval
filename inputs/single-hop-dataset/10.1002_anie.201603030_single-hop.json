@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the three flexible MOFs mentioned in the text?",
+      "answer": "FJI-H11-Me, FJI-H11-Et, FJI-H11-iPr",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the record-high uniaxial positive thermal-expansion coefficient observed in FJI-H11-Me?",
+      "answer": "653.2 x 10^-6 K^-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What percentage of shrinkage is observed during desolvation?",
+      "answer": "32.4%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the stimuli-responsive mechanism related to in the MOFs?",
+      "answer": "The rotations and deformations of the organic linkers",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group in which FJI-H11-Et crystallizes?",
+      "answer": "Trigonal space group R-3m",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the dihedral angle of the inner biphenyl ring in the L-Et ligand?",
+      "answer": "Close to zero",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the unit cell parameters of FJI-H11-Et from 100 K to 293 K?",
+      "answer": "A axis exhibits a negative thermal expansion with a slight decrease by 0.6%, but c axis has a positive thermal expansion with a significant increase by 9.4%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the flexibility of FJI-H11-Et's framework respond to temperature stimulus?",
+      "answer": "It exhibits exceptional anisotropic thermal expansion property",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of exposing FJI-H11-Et to air at ambient condition?",
+      "answer": "The unit cell parameters dramatically change while the space group and the topology are retained",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the polarity and size of guest molecules and the V expansion coefficients?",
+      "answer": "The V expansion coefficients range from 33.3% to 59.7% following the sequence of DEF > 1,4-dioxane > DMF > DMA > methanol, which is related to the polarity and size of the guest molecules (nonpolar > polar, large molecular size > small molecular size)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the reversibility of the thermal expansion in FJI-H11-Et?",
+      "answer": "When cooled from 293 K to 100 K the unit cell parameters can recover",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the N2 sorption isotherm at 77 K indicate about FJI-H11-Et?",
+      "answer": "It indicates an obvious breathing behavior",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: FJI-H11-R can only respond to temperature stimuli.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The stimuli-responsive mechanism of MOFs cannot be visualized due to their non-crystalline nature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The dihedral angle between the Cu2–O2 plane and the carboxylate group O2 > C increases from 0.4088 to 1.3288 in FJI-H11-Et.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The desolvated samples of FJI-H11-Et cannot respond to other solvents after being exposed to DMA vapor.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The unit cell volume of FJI-H11-Et expands by 8.0% from 100 K to 293 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The coefficients of expansion for a, c, and V during desolvation of FJI-H11-Et are 2.1%, ¢32.4%, and ¢29.6%, respectively.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The dynamic behavior of FJI-H11-R during desolvation cannot be visualized by in situ X-ray snapshot analyses.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The thermal expansion and desolvation processes of FJI-H11-Et are irreversible.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

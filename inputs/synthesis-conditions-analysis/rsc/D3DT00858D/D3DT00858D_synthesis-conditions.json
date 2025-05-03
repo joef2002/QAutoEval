@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "material": "(nPrPh3P)[FeIIFeIII(dto)3] (3)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "19 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "(anilinium)3[FeIII(dto)3]·3H2O",
+            "amount": "10 mmol L-1"
+          },
+          {
+            "chemical": "FeCl2·4H2O",
+            "amount": "10 mmol L-1"
+          },
+          {
+            "chemical": "nPrPh3P bromide",
+            "amount": "10 mmol L-1"
+          }
+        ],
+        "equipment": "Pasteur pipet with cotton",
+        "temperature": "ice bath temperature",
+        "time": "15 minutes",
+        "yield": "27%",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "material": "single crystal of (nPrPh3P)[FeIIFeIII(dto)3] (3)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "0.50 mL for (anilinium)3[FeIII(dto)3]·3H2O and FeCl2·4H2O solution, 0.50 mL for nPrPh3P bromide solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "chemical": "(anilinium)3[FeIII(dto)3]·3H2O",
+            "amount": "10 mmol L-1"
+          },
+          {
+            "chemical": "FeCl2·4H2O",
+            "amount": "10 mmol L-1"
+          },
+          {
+            "chemical": "nPrPh3P bromide",
+            "amount": "10 mmol L-1"
+          },
+          {
+            "chemical": "ascorbic acid",
+            "amount": "minute amount"
+          }
+        ],
+        "equipment": "ϕ4 glass tube",
+        "temperature": "room temperature",
+        "time": "2 weeks",
+        "yield": "not specified",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    }
+  ]
+}

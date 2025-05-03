@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main feature of DUT-8(Ni) structure?",
+      "answer": "The main feature of DUT-8(Ni) structure is the nonlinearity of the 2,6-ndc linker.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of symmetry do the two limiting, ordered instances of DUT-8(Ni) represent?",
+      "answer": "The two limiting, ordered instances of DUT-8(Ni) represent monoclinic and tetragonal symmetries.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to generate DUT-8 configurations for PXRD pattern calculation?",
+      "answer": "A custom Monte Carlo code was implemented to generate DUT-8 configurations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the parameter ϕ represent in the disorder model of DUT-8(Ni)?",
+      "answer": "The parameter ϕ represents the likelihood of neighbouring rows/columns adopting opposite 2,6-ndc orientations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the linker in DUT-8(Ni) mobile or immobile according to 2H solid-state NMR spectra?",
+      "answer": "According to 2H solid-state NMR spectra, the majority of the linkers in DUT-8(Ni) are immobile.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of diffuse reflections in electron diffraction patterns indicate?",
+      "answer": "The presence of diffuse reflections in electron diffraction patterns indicates stacking faults in the structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the disorder–disorder transformation in DUT-8(Ni) be stimulated by repeated guest exchange?",
+      "answer": "Yes, the disorder–disorder transformation in DUT-8(Ni) can be stimulated by repeated guest exchange.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the parameter η represent in the disorder model of DUT-8(Ni)?",
+      "answer": "The parameter η represents the relative fraction of D2d loops.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of temperature on the mobility of the linker in DUT-8(Ni)?",
+      "answer": "Temperature increase has no noticeable influence on the mobility of the linker in DUT-8(Ni).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the initial as-made disorder configuration of DUT-8(Ni) can be restored by solvent exchange?",
+      "answer": "No, the initial as-made disorder configuration of DUT-8(Ni) cannot be restored by solvent exchange.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to analyze the domain structure of DUT-8(Ni) nanocrystals?",
+      "answer": "HRTEM and electron diffraction studies were used to analyze the domain structure of DUT-8(Ni) nanocrystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a small line width in the 2H NMR spectra of DUT-8(Ni) indicate?",
+      "answer": "The presence of a small line width in the 2H NMR spectra of DUT-8(Ni) indicates fast motion of a small fraction of the linkers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the configurational landscape in DUT-8(Ni)?",
+      "answer": "The configurational landscape in DUT-8(Ni) is significant because it allows for reversible switching between distinct disordered states.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the configurational entropy of DUT-8(Ni) imply about its structure?",
+      "answer": "The configurational entropy of DUT-8(Ni) implies that the structure supports a finite configurational entropy, favoring disorder.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the disorder–disorder transformation mechanism in DUT-8(Ni) proceed?",
+      "answer": "The disorder–disorder transformation mechanism in DUT-8(Ni) proceeds through concerted vertical translations of linear chains of alternating PW and dabco units.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of both tetragonal and monoclinic reflections in a single diffraction pattern of DUT-8(Ni) imply?",
+      "answer": "The presence of both tetragonal and monoclinic reflections in a single diffraction pattern of DUT-8(Ni) implies the co-existence of multiple domains within a single nanocrystallite.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of solvent–framework interaction on the structure of DUT-8(Ni)?",
+      "answer": "The solvent–framework interaction impacts the structure of DUT-8(Ni) by directing the framework into a new disordered configuration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the configurational landscape of DUT-8(Ni) suggest about its dynamic properties?",
+      "answer": "The configurational landscape of DUT-8(Ni) suggests that its dynamic properties allow for adaptive response to guest adsorption, leading to distinct disordered configurations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of DCM in the disorder–disorder transformation of DUT-8(Ni)?",
+      "answer": "DCM plays a singular role in the disorder–disorder transformation of DUT-8(Ni) by inducing linker orientations that correspond to an almost pure D2d loop arrangement.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the transformation mechanism of DUT-8(Ni) vary with its disorder configuration?",
+      "answer": "The transformation mechanism of DUT-8(Ni) varies with its disorder configuration, with monoclinic domains directly closing their pores, whereas tetragonal domains containing D2d loops adapt the linker orientations before pore closing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using a molecular vise in metal-organic frameworks?",
+      "answer": "The purpose of using a molecular vise in metal-organic frameworks is to precisely position ligands near catalytic metal centers, allowing for the tuning of distances between linkers without altering their geometric angle.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the distance within the molecular vise measured?",
+      "answer": "The distance within the molecular vise is accurately measured by 1H–31P solid-state nuclear magnetic resonance spectroscopy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the distance within a molecular vise have on catalytic performance?",
+      "answer": "The distance within a molecular vise impacts catalytic performance by affecting the accessibility of substrates to the metal center, with different distances leading to variations in conversion efficiency and selectivity towards substrates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The angle between linkers at metal sites in a molecular vise changes upon functional group modification.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the tritopic phosphine linker in the construction of molecular vises?",
+      "answer": "The tritopic phosphine linker, such as PBCA, provides high polarizability and strong coordination to late transition metals, facilitating the precise measurement of distances within molecular vises and unveiling the role of distance on catalytic performance.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of a tritopic phosphine linker involves a new synthetic route using a p-toluenesulfonyl phosphine precursor.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the synthesis of single crystals of MVs differ from the parent MOF?",
+      "answer": "The synthesis of single crystals of MVs involves mixing ZrCl4, MTBC, PBCA, and monotopic linkers with specific functional groups, exhibiting identical space group to the parent MOF but with slightly altered axis lengths due to steric tension.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the geometry of the linker pairs in MVs?",
+      "answer": "The accurate measurement of distances between linkers and the metal-binding site within MVs, confirmed through solid-state NMR, validates the geometry of the linker pairs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The porosity and chemical stability of MVs are compromised upon functional group change.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What demonstrates the uniqueness of the MV approach in catalysis?",
+      "answer": "The MV approach is unique in catalysis because it allows for selectivity towards different substrates by arranging functional groups around the secondary coordination sphere of the metal, influencing the metal center without blocking substrate access.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MVs always results in high crystallinity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the percentage of tritopic PBCA linker in MVs?",
+      "answer": "The percentage of tritopic PBCA linker in MVs, determined by 1H NMR spectroscopy, is significant because it indicates the proportion of tritopic linkers incorporated into the MV structure, affecting the framework's properties and catalytic performance.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The exact percentage of tritopic PBCA linker in MVs can be determined by laser scanning confocal microscopy.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the synthesis of MVs using a tritopic phosphine linker differ from traditional methods?",
+      "answer": "The synthesis of MVs using a tritopic phosphine linker, such as PBCA, differs from traditional methods by involving a new synthetic route with a p-toluenesulfonyl phosphine precursor, leading to high reproducibility and purity, and enabling precise tuning of distances within MVs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The distance between linkers in a molecular vise can be tuned without affecting the geometric angle of the linkers.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of linker distance on the catalytic performance of MVs?",
+      "answer": "The impact of linker distance on the catalytic performance of MVs is significant, as it determines the accessibility of substrates to the catalytic metal center, influencing conversion efficiency and selectivity towards different substrates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The functionality of the monotopic linker directly contacts the metal coordinated to the tritopic linker in MVs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the molecular vise approach facilitate the study of electrostatic and steric effects in ligand design?",
+      "answer": "The molecular vise approach facilitates the study of electrostatic and steric effects in ligand design by isolating these effects, allowing for the precise tuning of distances between linkers without altering their geometric angle, and enabling the study of their impact on catalytic performance independently.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The molecular vise approach has been applied to classic organometallic complexes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the tritopic phosphine linker play in the measurement of distances within MVs?",
+      "answer": "The tritopic phosphine linker plays a crucial role in the measurement of distances within MVs by providing high polarizability and strong coordination to late transition metals, enabling accurate distance measurements through solid-state NMR techniques.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

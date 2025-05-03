@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the space group of the crystals [Ln2Cu3(IDA)6]nH2O?",
+      "answer": "P3̅c1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which software package was used for the molecular dynamics simulations?",
+      "answer": "Material Studio Modeling v5.0",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relation between the Ln atomic number and the n-value in [Ln2Cu3(IDA)6]nH2O?",
+      "answer": "The n-value decreases with increasing atomic number of Ln.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dielectric constant of the Sm crystal is 15 times larger than that of bulk water at 400 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What phenomenon is observed in the guest water molecules at approximately 170 K?",
+      "answer": "Freezing of the positional freedom of guest water molecules",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The lattice constants of the water-free La crystal showed significant anomalies at approximately 170 K.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What behavior do the guest water molecules exhibit at high temperatures?",
+      "answer": "Antiferroelectric behavior",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ε|| of [Ln2Cu3(IDA)6]nH2O increases rapidly with temperature above room temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of evacuating the sample cell on ε||?",
+      "answer": "ε|| decreases sharply",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The porous spaces of the Ho and Er crystals are larger than those of the La and Nd crystals.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using a polyimide cell in the experiments?",
+      "answer": "To store the sample crystal during dielectric measurements and suppress the decrease in ε at high temperatures",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The positions of water molecules were kept fixed during the molecular dynamics simulations.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the average n-value for the crystals [Ln2Cu3(IDA)6]nH2O?",
+      "answer": "9.0",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dielectric constant ε of the Sm crystal at 400 K is less than 100.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between ΔTp and ΔT/Δt at approximately 170 K?",
+      "answer": "ΔTp is proportional to ΔT/Δt",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest water molecules in [Ln2Cu3(IDA)6]nH2O exhibit ferroelectric behavior at high temperatures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing the atomic number of Ln on the magnitude of ε|| at 400 K?",
+      "answer": "The magnitude of ε|| changes in the order La < Nd < Sm > Gd > Ho > Er",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a shallow minimum at ∼240−280 K in the ε|| of [Ln2Cu3(IDA)6]nH2O indicate?",
+      "answer": "It indicates a change in the dielectric behavior of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dielectric properties of guest water molecules in [Ln2Cu3(IDA)6]nH2O are consistent with molecular dynamics simulation results.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dielectric constant becoming very small below ∼170 K?",
+      "answer": "It signifies the freezing of thermal motion of water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

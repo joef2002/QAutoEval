@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "NENU-3",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "time": "2 days",
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "0.24 g, 1 mmol"
+          },
+          {
+            "name": "H3PW12O40·xH2O",
+            "amount": "0.20 g, 0.07 mmol"
+          },
+          {
+            "name": "H3BTC",
+            "amount": "0.21 g, 1mmol"
+          },
+          {
+            "name": "(CH3)4NOH·5H2O",
+            "amount": "0.18 g, 1 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "10 mL"
+          }
+        ],
+        "equipment": "Teflon-lined autoclave",
+        "yield": "68%",
+        "drying_method": "activated sample of NENU-3a was prepared by exchanging the solvent with acetone and then pumped under high vacuum at 200 oC for 10 h"
+      }
+    },
+    {
+      "name": "Im-Cu@(NENU-3a)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 h",
+        "chemicals_used": [
+          {
+            "name": "imidazole",
+            "note": "vaporized into the activated sample of NENU-3a"
+          }
+        ],
+        "amount_of_imidazole": "0.25Im",
+        "yield": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "Im@(NENU-3)",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 h",
+        "chemicals_used": [
+          {
+            "name": "imidazole",
+            "note": "vaporized into the pristine sample of NENU-3"
+          }
+        ],
+        "amount_of_imidazole": "14.5 wt %",
+        "yield": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "Im@(NENU-3)-B",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "36 h",
+        "chemicals_used": [
+          {
+            "name": "imidazole",
+            "note": "vaporized into the pristine sample of NENU-3"
+          }
+        ],
+        "amount_of_imidazole": "11.8 wt %",
+        "yield": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "Im@(NENU-3)-A",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "24 h",
+        "chemicals_used": [
+          {
+            "name": "imidazole",
+            "note": "vaporized into the pristine sample of NENU-3"
+          }
+        ],
+        "amount_of_imidazole": "7.6 wt %",
+        "yield": "Not specified",
+        "drying_method": "Not specified"
+      }
+    }
+  ]
+}

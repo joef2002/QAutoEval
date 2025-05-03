@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the observed structure factor for the HKL value of 100?",
+      "answer": "361",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated structure factor for the HKL value of 422?",
+      "answer": "942",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the observed structure factor for the HKL value of 300 greater than 100?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "For the HKL value of 422, is the observed structure factor equal to the calculated structure factor?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the difference between the observed and calculated structure factors for the HKL value of 100?",
+      "answer": "99",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Which HKL value has an observed structure factor of 850?",
+      "answer": "200",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the calculated structure factor for the HKL value of 300 less than 100?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "For the HKL value of 422, what is the observed structure factor?",
+      "answer": "291",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the HKL value for the observed structure factor of 1038?",
+      "answer": "300",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the observed structure factor for the HKL value of 422 greater than 300?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated structure factor for the HKL value with an observed structure factor of 850?",
+      "answer": "186",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "For the HKL value of 100, is the observed structure factor greater than the calculated structure factor?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the HKL value for the highest observed structure factor?",
+      "answer": "300",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the difference between the observed and calculated structure factors for the HKL value of 422 more than 50?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed structure factor for the HKL value with a calculated structure factor of 942?",
+      "answer": "291",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "For the HKL value with an observed structure factor of 1038, is the calculated structure factor less than 100?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the difference between the observed and calculated structure factors for the HKL value with the highest observed structure factor?",
+      "answer": "82",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the observed structure factor for the HKL value of 100 exactly 360?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated structure factor for the HKL value with the lowest observed structure factor?",
+      "answer": "Cannot be determined from the given data",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "For the HKL value of 300, is the observed structure factor exactly 1038?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

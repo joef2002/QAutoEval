@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus of the research article is on the development of a squarate-based metal-organic framework (MOF) that demonstrates a record-high affinity and selectivity for xenon (Xe) over krypton (Kr).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of the squarate-based MOF is highlighted as exceptional in the article?",
+      "answer": "The squarate-based MOF is highlighted for its exceptional Xe/Kr selectivity and Xe uptake capacity at ambient temperature and low pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of the MOF compare to the kinetic diameter of xenon?",
+      "answer": "The pore size of the MOF (4.1 Å × 4.3 Å) is comparable to the kinetic diameter of xenon (4.047 Å).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the polar hydroxyl groups in the MOF play according to the article?",
+      "answer": "The polar hydroxyl groups in the MOF play a crucial role in effectively discriminating Xe atoms, contributing to the MOF's high selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the squarate-based MOF stable under ambient conditions according to the experiments?",
+      "answer": "Yes, the squarate-based MOF is stable under ambient conditions and its performance does not decline with noticeable decrease in mean retention time for Xe and Kr in three continuous cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Henry coefficient values mentioned in the article?",
+      "answer": "The Henry coefficient values are significant as they represent the intrinsic selectivity of the MOF for Xe over Kr, with the MOF displaying the largest Henry coefficient value for Xe among all materials reported.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique is used to confirm the MOF's separation performance?",
+      "answer": "Single-column breakthrough experiments are used to confirm the MOF's separation performance for Xe/Kr adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the squarate-based MOF be fully regenerated after adsorption?",
+      "answer": "Yes, the squarate-based MOF can be fully regenerated after adsorption, and its adsorptive performance remains stable over multiple cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method is mentioned for the analysis of gas adsorption?",
+      "answer": "The Ideal Adsorbed Solution Theory (IAST) is mentioned for the analysis of gas adsorption selectivity in the MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of the MOF's pore size and polar porosity on xenon adsorption?",
+      "answer": "The MOF's pore size and polar porosity synergistically contribute to maximizing the interaction between Xe atoms and the MOF framework, leading to high adsorption efficiency.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the squarate-based MOF exhibit high thermal stability?",
+      "answer": "Yes, the squarate-based MOF exhibits high thermal stability, remaining stable up to 593 K.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of density functional theory (DFT) calculations in the study?",
+      "answer": "Density functional theory (DFT) calculations are used to explore the nature of the interaction of the Xe/Kr gas mixture within the MOF, revealing distinct adsorption sites and the energetic favorability of Xe adsorption.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's performance for Xe/Kr separation compare to other materials?",
+      "answer": "The MOF's performance for Xe/Kr separation outperforms all existing benchmark porous materials in terms of IAST selectivity and Henry's selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the squarate-based MOF chemically stable under harsh conditions?",
+      "answer": "Yes, the squarate-based MOF is chemically stable under harsh conditions, with no phase transition or structure collapse observed.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What future applications are suggested for the squarate-based MOF?",
+      "answer": "The squarate-based MOF is suggested for future applications in adsorptive separation of inert gases, leveraging its exceptional separation performance, stability, and recyclability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the chemical formula of the squarate-based MOF?",
+      "answer": "The chemical formula of the squarate-based MOF is [Co3(C4O4)2(OH)2]·3H2O.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of potassium hydroxide (KOH) in the synthesis of the MOF?",
+      "answer": "Potassium hydroxide (KOH) is used in the synthesis of the MOF as a reactant in the mixture with squaric acid and cobalt chloride hexahydrate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF's performance for Xe adsorption decrease after exposure to air?",
+      "answer": "No, the MOF's performance for Xe adsorption does not decrease after exposure to air for 1 week, indicating its stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CO2 adsorption isotherm at 273 K for the MOF?",
+      "answer": "The CO2 adsorption isotherm at 273 K for the MOF confirms its permanent porosity and provides an apparent surface area measurement.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's selectivity for Xe over Kr at low pressures contribute to its potential industrial application?",
+      "answer": "The MOF's high selectivity for Xe over Kr at low pressures contributes to its potential industrial application in the efficient separation of Xe from Kr in processes such as nuclear fuel reprocessing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

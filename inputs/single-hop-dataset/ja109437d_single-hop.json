@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula for the nanotubular MOF mentioned?",
+      "answer": "C39H31N19OI2WS4Cu4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to collect X-ray crystallographic data?",
+      "answer": "Bruker-AXS APEXII X-ray diffractometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature is the DMF guest removed from the MOF?",
+      "answer": "100 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the dptz ligand in the solvatochromic response of the MOF?",
+      "answer": "The dptz ligand plays an important role in the solvatochromic response due to its strong π-acceptor property and labile electronic structure to solvent polarity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The absorption bands of the MOF are red-shifted up to 245 nm from compound 1⊃CH3CN to 1⊃CHCl3.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the color of the MOF when it is immersed in CH3CN or CHCl3?",
+      "answer": "The MOF changes to bright red color in CH3CN and to totally black in CHCl3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF can sense solvent molecules by changes in UV−vis spectra.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of solvent polarity on the band gaps of the solvent-included compounds?",
+      "answer": "The band gaps show excellent linear correlation with the solvent polarity, indicating the MOF's powerful sensing capability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF exhibits reversible solvatochromic response upon incorporating different solvent guests.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of exchanging DMF guests with more volatile solvent CH3OH on the MOF?",
+      "answer": "The CH3OH guests can be easily removed below 60 °C, and the MOF retains its single crystallinity after being heated at 60 °C under vacuum for 10 h.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's sensing occurs predominantly within the channel-containing material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the cross-section size of the nanotube's inner area?",
+      "answer": "5.4 × 5.3 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF is stable and does not contaminate the analyte.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the MOF respond to solvent vapors compared to liquid solvents?",
+      "answer": "The MOF responds to solvent vapors but at a much slower speed compared to liquid solvents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's absorption bands are blue-shifted with increasing solvent guests' polarity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the WS4Cu4 unit in the MOF structure?",
+      "answer": "The WS4Cu4 unit acts as a tetrahedral node, linking adjacent units into a diamondoid network.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF's solvatochromic behavior is due to d-d transitions of metal centers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the linear correlation between band gaps and solvent polarity?",
+      "answer": "It indicates the MOF's powerful capability for sensing solvents based on their polarity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF can distinguish molecules with similar polarity but different sizes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the dptz ligand compared to the bpy ligand in solvatochromic response?",
+      "answer": "The dptz ligand contributes to the solvatochromic response, unlike the bpy ligand which shows no solvatochromic effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

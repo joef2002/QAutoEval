@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the polyanion obtained by the reaction of K3Bi2 with K4Sn9 or K12Sn17 in liquid ammonia?",
+      "answer": "[SnBi3]5@",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structural analogy of the [SnBi3]5@ polyanion?",
+      "answer": "The [SnBi3]5@ polyanion is structurally analogous to the carbonate ion.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for quantum-chemical calculations of the [SnBi3]5@ polyanion?",
+      "answer": "DFT-PBE0/def2-TZVPP/COSMO level of theory",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the charge of the [SnBi3]5@ polyanion?",
+      "answer": "The [SnBi3]5@ polyanion has a high negative charge.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the [SnBi3]5@ unit in the context of carbonate-like anions?",
+      "answer": "The [SnBi3]5@ unit is the first example of a carbonate-like anion obtained from solution, consisting exclusively of metal atoms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the bond lengths between Sn and Bi atoms in the [SnBi3]5@ anion?",
+      "answer": "The Sn@Bi bond lengths range between single and double bonds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the [SnBi3]5@ anion compare to the carbonate ion in terms of electronic structure?",
+      "answer": "The [SnBi3]5@ anion is iso(valence)electronic with the carbonate ion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of delocalized p-electronic system in [SnBi3]5@ indicate about its bond character?",
+      "answer": "It indicates partial double bond character between Bi and Sn atoms.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does liquid ammonia play in the synthesis of the [SnBi3]5@ polyanion?",
+      "answer": "Liquid ammonia is used as the solvent in the reaction to obtain the [SnBi3]5@ polyanion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of the reaction between K3Bi2 and low-valent ZnI complexes in liquid ammonia?",
+      "answer": "The reaction results in the formation of the linear [Bi@Zn@Bi]4@ unit.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural feature of the [SnBi3]5@ anion determined by single-crystal X-ray diffraction?",
+      "answer": "The structure is determined to be trigonal planar with three Bi atoms covalently bound to a central Sn atom.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the formation of [SnBi3]5@ in solution signify in terms of metal analogues?",
+      "answer": "It signifies the completion of the series of metal analogues of CO and CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [SnBi3]5@ anion has a similar bond length to other compounds with covalent Sn@Bi bonds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The [SnBi3]5@ anion is the first iso(valence)electronic carbonate analogue formed in solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The bond lengths in [SnBi3]5@ are longer than in compounds with Sn@Bi single bonds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The [SnBi3]5@ anion's structure is significantly influenced by the negative charges on the Bi–Sn atoms.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The [SnBi3]5@ anion's bond lengths are consistent with a Sn@Bi double bond.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The [SnBi3]5@ anion's formation in solution contradicts the Zintl concept.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The [SnBi3]5@ anion exhibits a bond order higher than one, as indicated by its Sn@Bi distances.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The [SnBi3]5@ anion's formation from K3Bi2 and low-valent tin anions in liquid ammonia is an example of oxidative coupling.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

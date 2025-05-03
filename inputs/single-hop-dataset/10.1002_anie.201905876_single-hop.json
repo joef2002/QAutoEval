@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the new magnesium metal–organic framework reported?",
+      "answer": "CPM-107",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique interaction does CPM-107 have?",
+      "answer": "A special interaction with CO2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does CPM-107 open and turn into a rigid porous form with CO2?",
+      "answer": "195 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation of CPM-107 to a porous form reversible via desorption?",
+      "answer": "No, it is irreversible via desorption.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can CPM-107, once opened by CO2, be accessed by other gas types?",
+      "answer": "Yes, it remains in the stable porous state accessible to additional gas types.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of CO2 on CPM-107 described as?",
+      "answer": "An unusual CO2 effect",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structural transformation of CPM-107 from closed to open phase called?",
+      "answer": "Gate-opening effect",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How can the closed phase of CPM-107 be regenerated?",
+      "answer": "By repeating the activation procedure, soaking in CH2Cl2 and then desolvating under vacuum.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does CPM-107 have solvent binding sites?",
+      "answer": "No, CPM-107 has no solvent binding sites.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of CPM-107op?",
+      "answer": "319 m2 g@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the open form of CPM-107 the same as the as-synthesized framework?",
+      "answer": "No, the open form does not correspond to the as-synthesized framework.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of CO2 adsorption near zero coverage for CPM-107op?",
+      "answer": "24 kJ mmol@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What makes CPM-107op among the best materials for C2H2/CO2 separation?",
+      "answer": "Its high C2H2 uptake capacity and high C2H2/CO2 selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can CPM-107cl be transformed back to CPM-107as by soaking in DMA?",
+      "answer": "No, PXRD did not show the occurrence of CPM-107as.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Do CPM-107NH2 and CPM-107OH exhibit the same adsorption behavior as CPM-107?",
+      "answer": "No, they have the adsorption behavior of rigid MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the selectivity of C2H2/CO2 for CPM-107op at 298 K and 1 atm?",
+      "answer": "5.7",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation from CPM-107cl to CPM-107op reversible?",
+      "answer": "No, the opened phase could not transform back to the closed phase upon desorption.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of CO2 in the synthesis path to porous CPM-107?",
+      "answer": "CO2 at 195 K opens CPM-107 and turns it into a rigid porous form.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the lock-and-key effect in CPM-107?",
+      "answer": "It means the pore can be accessed with CH4, N2, and H2 after being opened by CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does heating and vacuum revert CPM-107op back to CPM-107cl?",
+      "answer": "No, they were unable to use heat and vacuum to return CPM-107op back to CPM-107cl.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

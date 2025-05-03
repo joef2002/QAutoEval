@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research presented in the paper?",
+      "answer": "The main focus of the research is on the magnetic alignments of paramagnetic lanthanide metal-organic frameworks (Ln-MOFs) at low magnetic fields.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the magnetic alignment in Ln-MOFs?",
+      "answer": "The magnetic alignment in Ln-MOFs is attributed to the strong macroscopic anisotropy of the Ln-MOFs, where the highly-ordered structure allows the Ln-ions' molecular anisotropy to be summed according to the crystal symmetry.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All Ln-MOFs align parallel to the magnetic field.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of solvent molecules in the framework of Ln-MOFs?",
+      "answer": "Solvent molecules' removal and re-adsorption in the framework enable reversible switching between different magnetic alignments of the Ln-MOFs.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the crystal symmetry affect the magnetic alignment of Ln-MOFs?",
+      "answer": "In tetragonal Ln-MOFs, the alignment is either parallel or perpendicular to the field depending on the easiest axis of molecular anisotropy, while in monoclinic Ln-MOFs, the alignments can become inclined to the field.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic alignments of Ln-MOFs are observed under extremely high magnetic fields.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the magnetic anisotropy in Ln-MOFs?",
+      "answer": "The magnetic anisotropy is significant because it leads to the macroscopic magnetic alignments of Ln-MOFs under low magnetic fields, demonstrating a transfer of microscopic magnetic properties to macroscopic applications.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic properties of Ln-MOFs are influenced by the species of Ln-ions.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to study the magnetic properties of Ln-MOFs?",
+      "answer": "Techniques such as optical magnetometry measurements, angle-resolved magneto-optical Kerr effect (MOKE) measurements, and cantilever torque magnetometry (CTM) were used.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The shape of Ln-MOF crystals affects their magnetic alignments.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How do the magnetic alignments of Ln-MOFs change with temperature?",
+      "answer": "The magnetic alignments of Ln-MOFs are reproducible and robust within a relatively wide temperature range from -40 to 120 °C.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic susceptibility of Ln-MOFs is isotropic.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of de(re)-solvation treatments on the magnetic alignments of Ln-MOFs?",
+      "answer": "De(re)-solvation treatments can cause reversible switching between different magnetic alignments in Ln-MOFs by changing the configuration of the [LnO6(H2O)] polyhedron units.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of lowering the crystal symmetry from tetragonal to monoclinic on Ln-MOFs?",
+      "answer": "Lowering the crystal symmetry from tetragonal to monoclinic allows for inclined magnetic alignments with different angles to the magnetic field in Ln-MOFs.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic alignments of Ln-MOFs are not affected by the removal and re-adsorption of solvent molecules.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are suggested by the magnetic properties of Ln-MOFs?",
+      "answer": "The magnetic properties of Ln-MOFs suggest potential applications in designing and fabricating magnetic-field-sensitive intelligent materials and devices.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic alignments of Ln-MOFs are only observed in tetragonal space groups.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the molecular magnetic anisotropy correlate with the macroscopic magnetic anisotropy in Ln-MOFs?",
+      "answer": "The molecular magnetic anisotropy correlates with the macroscopic magnetic anisotropy through the symmetry-related summation of the Ln-ions' molecular anisotropy according to specific crystal symmetries.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic alignments of Ln-MOFs are determined by their crystallographic structures.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the magnetic properties of Ln-MOFs from those of disordered paramagnetic materials?",
+      "answer": "Ln-MOFs exhibit strong macroscopic anisotropy and robust magnetic alignments at low magnetic fields, which is a significant distinction from the usually observed behavior in disordered paramagnetic materials.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    }
+  ]
+}

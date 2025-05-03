@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of nickel bis(dicarbollide)?",
+      "answer": "Ni(C2B9H11)2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the installation of manganese oxide in NU-1000 and NiCB@NU-1000?",
+      "answer": "Atomic layer deposition in MOFs (AIM)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated electrical conductivity of NiCB@NU-1000?",
+      "answer": "2.7 × 10^-7 S/cm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the loading of manganese oxide in the framework determined?",
+      "answer": "By digesting the spin-coated thin film and measuring the UV-vis spectrum of the obtained solution",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of installing NiCB in NU-1000 on its BET surface area?",
+      "answer": "The BET surface area of NU-1000 decreases from 2215 m^2/g to 1260 m^2/g after installation of NiCB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystallinity of Mn-AIM-NiCB@NU-1000 is preserved after the installation of manganese oxide.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the specific capacitance of manganese oxide in Mn-AIM-NiCB@NU-1000 at a charge–discharge current density of 0.02 mA/cm^2?",
+      "answer": "276 F/gMnO2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The performance of Mn-AIM-NiCB@NU-1000-based capacitor decreases to about 65% of its initial value after 200 cycles of the charge-discharge process.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main reason speculated for the performance drop of the Mn-AIM-NiCB@NU-1000-based capacitor?",
+      "answer": "Partial detachment of the spin-coat thin film during the initial stage of the long-term cycling",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The installation of NiCB in NU-1000 significantly affects the loading of manganese oxide in the framework.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the loading of NiCB per Zr6 node in NiCB@NU-1000?",
+      "answer": "0.74 ± 0.07 NiCB per Zr6 node",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electrical conductivity of NiCB@NU-1000 is higher than that of pristine NU-1000.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to estimate the electrical conductivity of NiCB@NU-1000?",
+      "answer": "Electrochemical impedance spectroscopy with a spin-coated thin film of NiCB@NU-1000",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area of NiCB@NU-1000 increases after the installation of manganese oxide.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of NiCB installation on the emission spectrum of NU-1000?",
+      "answer": "Significant quenching of the emission was observed for NiCB@NU-1000, suggesting an efficient electron transfer from the excited TBAPy linkers to NiCB",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The loading of manganese oxide in Mn-AIM-NiCB@NU-1000 is less than in Mn-AIM-NU-1000.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge identified for improving the long-term stability of the Mn-AIM-NiCB@NU-1000-based capacitor?",
+      "answer": "Finding a better approach to deposit the thin film of Mn-AIM-NiCB@NU-1000 with a better adhesion",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystallinity of the Mn-AIM-NiCB@NU-1000 thin film is lost after 2000 cycles of the charge-discharge process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the electrochemically addressable fraction of installed manganese sites in Mn-AIM-NiCB@NU-1000 at a charge-discharge current density of 0.02 mA/cm^2?",
+      "answer": "24.9%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The performance of the Mn-AIM-NiCB@NU-1000-based capacitor remains constant throughout the 2000 cycles of the charge-discharge process.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

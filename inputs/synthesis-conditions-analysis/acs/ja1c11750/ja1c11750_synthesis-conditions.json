@@ -1,0 +1,149 @@
+{
+  "materials": [
+    {
+      "name": "Car_Zn MOF (MeCN)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L-Carnosine",
+            "amount": "2 mL, 80 mM"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1 mL, 160 mM"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "ethanol and deionized water",
+        "drying_method": "60 °C for 12 hours"
+      }
+    },
+    {
+      "name": "Car_Zn MOF (IPA)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "IPA",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L-Carnosine",
+            "amount": "2 mL, 80 mM"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1 mL, 160 mM"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "ethanol and deionized water",
+        "drying_method": "60 °C for 12 hours"
+      }
+    },
+    {
+      "name": "Car_Zn MOF (EtOH)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L-Carnosine",
+            "amount": "2 mL, 80 mM"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1 mL, 160 mM"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "ethanol and deionized water",
+        "drying_method": "60 °C for 12 hours"
+      }
+    },
+    {
+      "name": "Car_Zn MOF (Acetone)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Acetone",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L-Carnosine",
+            "amount": "2 mL, 80 mM"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1 mL, 160 mM"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "ethanol and deionized water",
+        "drying_method": "60 °C for 12 hours"
+      }
+    },
+    {
+      "name": "Car_Zn MOF (DMF)",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "2 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "L-Carnosine",
+            "amount": "2 mL, 80 mM"
+          },
+          {
+            "name": "Zn(NO3)2",
+            "amount": "1 mL, 160 mM"
+          }
+        ],
+        "time": "4 h",
+        "washing_method": "ethanol and deionized water",
+        "drying_method": "60 °C for 12 hours"
+      }
+    }
+  ]
+}

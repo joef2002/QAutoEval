@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the phenomenon described in the article that involves an electronic conversion between two local spin states?",
+      "answer": "Spin crossover (SCO)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of material is described as having a guest programmable multistep spin crossover?",
+      "answer": "A porous 2-D Hofmann-type material",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of guest exchange in the SCO properties of the material discussed?",
+      "answer": "Guest exchange influences the SCO character, including the number of steps and transition completion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of the framework scaffold involves slow diffusion of Fe(ClO4)2·6H2O, K2[Pd(CN)4], and bztrz in a H2O:EtOH mixture.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to analyze the crystal structure of the material?",
+      "answer": "Single crystal X-ray diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the guest exchange process from 1·(H2O,EtOH) to 1·3H2O achieved?",
+      "answer": "By exposure of the crystalline material to atmospheric conditions or by immersion in water.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic susceptibility measurements indicate a high-spin character over the full temperature range after SCO deactivation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the variable temperature synchrotron powder X-ray diffraction in the study?",
+      "answer": "It confirms the phase purity and structural equivalence between single crystal and polycrystalline powdered samples.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The material exhibits a two-step desolvation process as revealed by thermogravimetric analysis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the water adsorption isotherm reveal about the material?",
+      "answer": "It shows stepped uptake at distinct partial pressures, indicating the strongly hydrophilic nature of the A site.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The material's SCO behavior is unaffected by the presence of ethanol in the framework B site.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula of the framework scaffold discussed in the article?",
+      "answer": "[FeII(bztrz)2(PdII(CN)4)]·n(guest)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of a dual-guest binding pocket influence the SCO behavior?",
+      "answer": "It enables a broad diversity of spin transition character due to distinct guest affinities and interaction modes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study presents the first account of guest programmable multistep SCO.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'HSLSLSLS' state refer to in the context of the material's spin crossover behavior?",
+      "answer": "A state with alternating high-spin and low-spin iron(II) sites.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The material's SCO transitions are influenced by the internal pore space's labile nature.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique is used to determine the material's thermal stability?",
+      "answer": "Thermogravimetric analysis",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the material's SCO character vary with guest modification?",
+      "answer": "It shows one-, two-, and three-stepped SCO transitions and SCO-deactivation, depending on the guest modification.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The material maintains a high degree of sample homogeneity across its SCO transitions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bztrz ligand in the framework scaffold?",
+      "answer": "It is bound axially to the FeII sites through N1 of the 1,2,4-triazole group, contributing to the framework's pseudo-3-D character.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

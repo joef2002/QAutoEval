@@ -1,0 +1,155 @@
+{
+  "materials": [
+    {
+      "material": "[{enPt(bpz-N4,N4‘)}3](NO3)6 (1)",
+      "conditions": {
+        "temperature": "80 °C",
+        "time": "2 days",
+        "yield": "65%",
+        "solvents": "water",
+        "amount_of_solvent": "10 mL",
+        "chemicals_used": "NaClO4 or NH4PF6",
+        "washing_method": "filtration",
+        "drying_method": "concentration under vacuum",
+        "crystallization": "7 days at 4 °C"
+      }
+    },
+    {
+      "material": "[enPt(bpz-N1,N1‘)](NO3)2 (2a)",
+      "conditions": {
+        "temperature": "100 °C",
+        "time": "14 days",
+        "solvents": "water",
+        "conversion": "from 2 to 2a",
+        "characterization": {
+          "1H NMR": {
+            "solvent": "D2O",
+            "signals": [
+              {
+                "type": "singlet",
+                "delta": "2.95",
+                "description": "CH2"
+              },
+              {
+                "type": "doublet",
+                "delta": "8.89",
+                "description": "aromatic",
+                "J": "3.3 Hz"
+              },
+              {
+                "type": "doublet",
+                "delta": "9.08",
+                "description": "aromatic",
+                "J": "3.3 Hz"
+              },
+              {
+                "type": "singlet",
+                "delta": "9.81",
+                "description": "aromatic"
+              }
+            ]
+          },
+          "195Pt NMR": {
+            "solvent": "D2O",
+            "delta": "-2749",
+            "description": "PtN4 coordination"
+          }
+        }
+      }
+    },
+    {
+      "material": "[{enPt(N4,N4‘-bpz-N1,N1‘)Pten}3](NO3)7(PF6)5·4H2O (4)",
+      "conditions": {
+        "temperature": "80 °C",
+        "time": "3 days",
+        "solvents": "water",
+        "amount_of_solvent": "10 mL",
+        "chemicals_used": "AgNO3, NH4PF6",
+        "yield": "23%",
+        "crystallization": "7 days at 4 °C",
+        "characterization": {
+          "1H NMR": {
+            "solvent": "D2O",
+            "signals": [
+              {
+                "type": "singlet",
+                "delta": "2.7",
+                "description": "CH2"
+              },
+              {
+                "type": "doublet",
+                "delta": "9.26",
+                "description": "aromatic",
+                "J": "3.9 Hz"
+              },
+              {
+                "type": "doublet",
+                "delta": "9.81",
+                "description": "aromatic",
+                "J": "3.9 Hz"
+              },
+              {
+                "type": "singlet",
+                "delta": "10.56",
+                "description": "aromatic"
+              }
+            ]
+          },
+          "195Pt NMR": {
+            "solvent": "D2O",
+            "delta": ["-2704", "-2715"],
+            "description": "PtN4 coordination"
+          }
+        }
+      }
+    },
+    {
+      "material": "[{enPd(N4,N4‘-bpz-N1,N1‘)Pden}3](NO3)4(PF6)8·5H2O (5)",
+      "conditions": {
+        "temperature": "room temperature",
+        "time": "1 day",
+        "solvents": "water",
+        "amount_of_solvent": "10 mL",
+        "chemicals_used": "AgNO3, NH4PF6",
+        "yield": "83%",
+        "crystallization": "5 days at 4 °C"
+      }
+    },
+    {
+      "material": "[{enPd(N4,N4‘-bpz-N1,N1‘)Pten}3](NO3)7(PF6)5·9.75H2O (6)",
+      "conditions": {
+        "temperature": "room temperature",
+        "time": "1 day",
+        "solvents": "water",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": "[enPd(H2O)2]2+, NH4PF6",
+        "yield": "81%",
+        "crystallization": "5 days at 4 °C"
+      }
+    },
+    {
+      "material": "[{enPt(bpz-N4,N4‘)}3AgNO3]2(NO3)8(PF6)4·15.5H2O (7)",
+      "conditions": {
+        "temperature": "room temperature",
+        "time": "1 day",
+        "solvents": "water",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": "AgPF6",
+        "yield": "50%",
+        "crystallization": "3 days at 4 °C"
+      }
+    },
+    {
+      "material": "[{enPt(bpz-N4,N4‘)}3AgNO3]3(NO3)12·AgNO3·22H2O (8a)",
+      "conditions": {
+        "temperature": "room temperature",
+        "time": "1 day",
+        "solvents": "water",
+        "amount_of_solvent": "5 mL",
+        "chemicals_used": "AgNO3",
+        "yield": "90%",
+        "crystallization": "7 days at 4 °C"
+      }
+    }
+  ]
+}

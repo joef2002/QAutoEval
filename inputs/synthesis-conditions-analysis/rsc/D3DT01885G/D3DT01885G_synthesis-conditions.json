@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "C2H10N2·Mg(H2PO3)2(C2O4)",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "time": "3 days",
+        "cooling_rate": "6 °C h−1",
+        "solvents": "solvent-free",
+        "chemicals_used": {
+          "Mg(OAc)2·4H2O": "0.428 g",
+          "H3PO3": "0.410 g",
+          "ethylenediamine": "200 μL",
+          "H2C2O4·2H2O": "0.252 g"
+        },
+        "equipment": "25 mL Teflon-lined steel autoclave",
+        "washing_method": "washed with distilled water",
+        "drying_method": "dried in air",
+        "yield": "60% based on magnesium"
+      }
+    },
+    {
+      "name": "C7H20N2·Mg2(H2PO3)2(C2O4)2·H2O",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "time": "7 days",
+        "cooling_rate": "6 °C h−1",
+        "solvents": "solvent-free",
+        "chemicals_used": {
+          "Mg(OAc)2·4H2O": "0.428 g",
+          "H3PO3": "0.328 g",
+          "N,N,N',N'-tetramethyl-1,3-propanediamine": "335 μL",
+          "H2C2O4·2H2O": "0.504 g"
+        },
+        "equipment": "25 mL Teflon-lined steel autoclave",
+        "washing_method": "washed with distilled water",
+        "drying_method": "dried in air",
+        "yield": "41% based on magnesium"
+      }
+    }
+  ]
+}

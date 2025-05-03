@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the starting material for the solid state reaction described?",
+      "answer": "The starting material is a hexanuclear cluster [{FeIII(Tp)(CN)3}4{CoII(CH3CN)(H2O)2}2]·10H2O·2CH3CN.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What transformation occurs to the hexanuclear cluster upon heating?",
+      "answer": "Upon heating, the hexanuclear cluster transforms into a one-dimensional double-zigzag chain.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from the nonporous nanocluster to the microporous coordination polymer reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What property changes accompany the structural transformation of the material?",
+      "answer": "The magnetic properties change, switching between paramagnetism in the nanocluster and metamagnetism in the 1D chain.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the size of the channels in the microporous framework after transformation?",
+      "answer": "The channels are 1.9 Å × 3.6 Å in size.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does the microporous coordination polymer selectively adsorb H2 and CO2 over N2?",
+      "answer": "The selective adsorption is due to the general correlation between the pore size and the kinetic diameters of the adsorbates, with N2 being too large to be adsorbed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interaction between CO2 and the microporous coordination polymer mainly physisorptive?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to investigate the gas adsorption properties of the microporous coordination polymer?",
+      "answer": "The gas adsorption properties were investigated using BELSORP-mini II volumetric adsorption equipment.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the microporous coordination polymer have a higher thermal stability compared to the starting material?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of exposing compound 2 to a vapor of mixed H2O and CH3CN?",
+      "answer": "Exposing compound 2 to a vapor of mixed H2O and CH3CN reverses the transformation, converting it back to compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the BET surface area of the microporous coordination polymer determined after the transformation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the terminal CN− anions in the solid state reaction?",
+      "answer": "The terminal CN− anions coordinate to the free sites of CoII, allowing the formation of a coordination polymer structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the microporous coordination polymer exhibit ferromagnetic interactions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dihedral angle mentioned in the transformation?",
+      "answer": "The dihedral angle of 83.0° between the square units indicates the orientation of the mean planes in the double-zigzag chain.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the chains with the structure of compound 2 be obtained by reactions in solutions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of thermogravimetric analysis (TGA) in the study?",
+      "answer": "TGA is used to verify the solid state reaction by measuring the weight loss corresponding to the loss of solvent molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic behavior of the material before and after transformation the same?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption of CO2 at 298 K for the microporous coordination polymer?",
+      "answer": "The isosteric heat of adsorption of CO2 at 298 K is 12.5 kJ mol−1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What indicates the presence of intrinsic micropores in the microporous coordination polymer?",
+      "answer": "The high initial uptake of H2 at extremely low pressures relative to the saturation vapor pressure indicates the presence of intrinsic micropores.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural transformation from the nonporous nanocluster to the microporous coordination polymer induced by a solid state reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

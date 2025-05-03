@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the outcome of the photochemical [2++2] cycloaddition in a CdII porous coordination polymer?",
+      "answer": "The outcome is the production of different isomeric products depending on the guest solvent present in the PCP during irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the nature of the included guest influence the cycloaddition reaction in the CdII porous coordination polymer?",
+      "answer": "The nature of the included guest influences the conformation of the ligand, and thus the outcome of the cycloaddition reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Porous coordination polymers (PCPs) cannot exhibit flexible and dynamic structural responses to external stimuli.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the topochemical postulates proposed by Schmidt for [2++2] cycloaddition in the solid state?",
+      "answer": "Carbon–carbon double bonds should be separated by less than 4.2 c and aligned parallel to each other.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of template molecules in controlling [2++2] cycloaddition in the solid state?",
+      "answer": "Template molecules help in controlling the packing of olefinic molecules to meet the topochemical requirements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ligand 1,4-bis[2-(4-pyridyl)ethenyl]benzene (bpeb) is not used in the synthesis of photoactive MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the bpeb ligand upon solvent exchange from DMA to DMF in the CdPCP·DMA framework?",
+      "answer": "The bpeb ligand changes from the trans-trans-trans to the trans-cis-trans conformation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the conformation change of the bpeb ligand affect the photoreactivity of the framework?",
+      "answer": "It affects the alignment and separation of the olefinic bonds, thus controlling the outcome of the cycloaddition reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Irradiation of CdPCP·DMA with a 365 nm UV-LED does not result in any cycloaddition.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of irradiating CdPCP·DMF?",
+      "answer": "Cycloaddition between the out-of-phase aligned bpeb ligands in adjacent two-dimensional sheets, yielding Isomer 2 of the bpeb dimer.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The solvent-exchange experiments between DMA and DMF in CdPCP·DMA are irreversible.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the reversible nature of the guest exchange from DMA to DMF indicate about the framework?",
+      "answer": "It indicates that the framework can undergo structural changes without permanent alteration, allowing for controlled manipulation of its properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The choice of included solvent does not offer any control over the outcome of the photochemical cycloaddition reaction in the PCP.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the distances between double bonds in predicting the position of cycloaddition?",
+      "answer": "The distances between double bonds, along with ligand conformation, determine the likelihood and position of cycloaddition occurring within the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All solvents tested in solvent-exchange experiments with CdPCP·DMA resulted in observable cycloaddition.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the observation of cycloaddition in different solvates of CdPCP·x indicate about the framework's versatility?",
+      "answer": "It indicates that the framework's photoreactivity and the outcome of cycloaddition can be precisely controlled by the choice of solvent.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of either isomer from the same PCP by simple exchange of solvent demonstrates the framework's adaptability to different chemical reactions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the inclusion of different solvents affect the conformation of the bpeb ligands?",
+      "answer": "Different solvents can induce changes in the conformation of the bpeb ligands, affecting their alignment and the outcome of the cycloaddition reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cycloaddition reaction within the CdII porous coordination polymer is solely dependent on the ligand used.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the ability to control the outcome of cycloaddition reactions in PCPs by solvent exchange demonstrate?",
+      "answer": "It demonstrates a precise degree of control over chemical reactions within the framework, highlighting the potential for targeted synthesis and material design.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

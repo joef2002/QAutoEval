@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of DTEMOF?",
+      "answer": "C33H19Cd1F6N3O7S2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does DTEMOF thermally decompose according to thermogravimetric analysis?",
+      "answer": "around 300 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of DTEMOF?",
+      "answer": "Tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the DTEMOF structure determined by single crystal X-ray diffraction analysis?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the Le Bail fitting of the PXRD pattern of DTEMOF?",
+      "answer": "DIFFRACplus TOPAS® v4.2 software followed by RIETAN-FP program",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can DTEMOF be photochemically crushed for guest release?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to DTEMOF upon irradiation with UV light in DMF/MeOH?",
+      "answer": "It is crushed to afford soluble fragments",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photochemical transformation of constituent PyDTEopen to PyDTEclosed in DTEMOF reversible?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated destabilization energy caused by photoisomerization of PyDTEopen to PyDTEclosed per unit cell?",
+      "answer": "105.6 kcal/mol",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the photochemical regeneration process of DTEMOF involve both PyDTEopen and PyDTEclosed coexisting?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of visible light in the regeneration process of DTEMOF?",
+      "answer": "It triggers the isomerization of PyDTEclosed back to PyDTEopen, allowing DTEMOF to regenerate",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum temperature up to which DTEMOF is thermally stable?",
+      "answer": "260 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is DTEMOF capable of accommodating small molecules in its nanopores?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of UV light irradiation on the structure of DTEMOF?",
+      "answer": "It causes the crystalline network to be readily crushed, transforming into a homogeneous blue-colored solution",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can DTEMOF be used as a nanoporous molecular reservoir for highly efficient, on-demand guest release?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of heating as-prepared DTEMOF at 110 °C?",
+      "answer": "It produces guest-free DTEMOF",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the PXRD pattern of DTEMOF change upon exposure to DMF vapor at 20 °C for 5 days?",
+      "answer": "Yes, the original structural integrity of guest-included DTEMOF is recovered",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF/MeOH in the synthesis of DTEMOF?",
+      "answer": "It acts as a solvent mixture for the reaction of 5-nitroisophthalic acid, PyDTEopen, and Cd(NO3)2·4H2O",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photochemical crushing of DTEMOF selective to UV light?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the photocyclization reaction in the context of DTEMOF?",
+      "answer": "It enables the reversible photochemical crushing and regeneration of DTEMOF, facilitating on-demand guest release",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

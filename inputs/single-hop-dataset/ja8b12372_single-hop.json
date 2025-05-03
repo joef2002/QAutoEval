@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of dynamic spacer installation in MOFs?",
+      "answer": "The purpose of dynamic spacer installation in MOFs is to engineer versatile catalytically active coordination interspace in the same primitive MOF for variable heterogeneous catalysis, allowing for the reversible insertion and removal of different functional ligands to bring in single or binary catalytic sites for specific reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What reactions can be achieved through the simple exchange of a single catalytic spacer in proto-LIFM-28?",
+      "answer": "Alcohol-oxidation, Knoevenagel-condensation, click, acetal, and Baylis–Hillman reactions can be achieved through simple exchange of a single catalytic spacer in proto-LIFM-28.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can LIFM-80(Cu) be reused after catalysis?",
+      "answer": "Yes, LIFM-80(Cu) can be reused after catalysis.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TEMPO in the oxidation reaction catalyzed by LIFM-80(Cu)?",
+      "answer": "TEMPO acts as a catalyst in the oxidation reaction of benzyl alcohol to benzaldehyde, catalyzed by LIFM-80(Cu).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of the Knoevenagel condensation reaction catalyzed by LIFM-80(Cu)?",
+      "answer": "The yield of the Knoevenagel condensation reaction catalyzed by LIFM-80(Cu) is greater than 99%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the BET surface area of LIFM-28-NH2-BDC higher than that of LIFM-28?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to confirm the presence and content of inserted functional spacers in MOFs?",
+      "answer": "The presence and content of inserted functional spacers in MOFs are confirmed by 1H NMR after digesting these MOFs with dilute HF in DMSO.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of electron-donating groups on the yield of sequential reactions with substituted benzyl alcohols?",
+      "answer": "Benzyl alcohols with electron-donating groups have slightly higher yield than those with electron-withdrawing groups in sequential reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can LIFM-80(Cu)-ArSO3H catalyze the acetal reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the Baylis–Hillman reaction catalyzed by LIFM-80(Cu)-ArSO3H?",
+      "answer": "The yield of the Baylis–Hillman reaction catalyzed by LIFM-80(Cu)-ArSO3H is 53%.",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of JMOF-1?",
+      "answer": "C36 H24 I7 N6 O47 Pb2 Zr9",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal XRD data for JMOF-2 collected?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Co-MOF?",
+      "answer": "P2(1)/n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many unique reflections were collected for the Pd-cage?",
+      "answer": "23450",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>2sigma(I)) for JMOF-2?",
+      "answer": "R1 = 0.0746, wR2 = 0.2156",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of Mo-cage?",
+      "answer": "2652.81",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of JMOF-1?",
+      "answer": "Trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density (calculated) of JMOF-2 in mg/m3?",
+      "answer": "1.212",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of the unit cell for Co-MOF in Å3?",
+      "answer": "5943.40(6)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the absorption coefficient of Pd-cage in mm-1?",
+      "answer": "12.986",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does JMOF-1 have a higher formula weight than JMOF-2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of JMOF-2 R32?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of Mo-cage Triclinic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the density of JMOF-1 higher than that of JMOF-2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the formula weight of Co-MOF higher than that of Pd-cage?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does JMOF-2 have a trigonal crystal system?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the volume of the unit cell for JMOF-1 larger than that for JMOF-2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the high iodine adsorption capacity in JMOF-2?",
+      "answer": "The π-electron walls originating from the isonicotinic acids and the high concentration of NO3– ions facilitate the ion exchange with Ix– species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the SQUEEZE routine of PLATON used in the crystallography of JMOF-1 and JMOF-2?",
+      "answer": "To remove contributions to scattering due to highly disordered solvent molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the porosity of JMOF-2 confirmed?",
+      "answer": "By comparing the experimental and calculated powder X-ray diffraction (PXRD) patterns.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

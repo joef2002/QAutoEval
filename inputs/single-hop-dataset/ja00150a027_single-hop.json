@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Coordinative Intercalation of Alkylamines into Layered Zinc Phenylphosphonate. Crystal Structures from X-ray Powder Diffraction Data",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Damodara M. Poojary and Abraham Clearfield",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "In which journal was the article published?",
+      "answer": "Journal of the American Chemical Society",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja00150a027",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "1995",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many supplementary materials are associated with the article?",
+      "answer": "2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the positional parameters and Uiso values, how many different atoms are detailed for material 1?",
+      "answer": "9",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How many different atoms are detailed for material 2?",
+      "answer": "11",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How many different atoms are detailed for material 3?",
+      "answer": "12",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Uiso value for the Zn atom in material 1?",
+      "answer": "0.013(1)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Uiso value for the Cl atom in material 2?",
+      "answer": "0.044(5)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Uiso value for the N atom in material 3 higher than that in material 1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does material 2 have more atoms detailed than material 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the publication year of the article 2002?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Uiso value for the PI atom in material 3 less than 0.02?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does material 3 have a Cl atom with a Uiso value of 0.045(8)?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Uiso value for the C2 atom in material 1 higher than that in material 3?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article have a supplementary material named 'ja11278.pdf'?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Uiso value for the C10 atom in material 2?",
+      "answer": "0.044",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Uiso value for the C11 atom in material 3?",
+      "answer": "0.045",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

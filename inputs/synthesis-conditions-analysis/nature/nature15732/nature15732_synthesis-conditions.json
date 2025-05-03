@@ -1,0 +1,63 @@
+{
+  "Co(bdp)": {
+    "synthesis_conditions": {
+      "temperature": "160 °C",
+      "solvents": ["N,N-diethylformamide (DMF)"],
+      "amount_of_each_solvent": ["90 ml"],
+      "equipment": ["500-ml solvent bomb"],
+      "chemicals_used": [
+        "Co(CF3SO3)2 (4.96 g, 0.0139 mol)",
+        "H2bdp (2.46 g, 0.0117 mol)"
+      ],
+      "time": "4.5 days",
+      "washing_method": "washed nine times with hot DMF (9 × 18 ml)",
+      "drying_method": "dried under high vacuum at 160 °C for 24 h"
+    },
+    "usable_CH4_capacity_at_25C": {
+      "35_bar": "155 cm3 STP cm−3 (v/v)",
+      "65_bar": "197 cm3 STP cm−3 (v/v)"
+    },
+    "crystallographic_density": {
+      "collapsed_phase": "1.50 g cm−3",
+      "expanded_phase": "0.774 g cm−3"
+    },
+    "high_pressure_CH4_adsorption_measurements": {
+      "temperature": "25 °C",
+      "pressure_range": "0–70 bar",
+      "sample_mass": "0.5–1.0 g",
+      "sample_holder": "stainless steel",
+      "freespace_measurement_conditions": "expansion of He from a calibrated volume at 0.7 bar and 25 °C to the evacuated sample holder"
+    }
+  },
+  "Fe(bdp)": {
+    "synthesis_conditions": {
+      "temperature": "120 °C",
+      "solvents": ["DMF", "methanol"],
+      "amount_of_each_solvent": ["9 ml DMF", "1 ml methanol"],
+      "equipment": ["20 ml glass vial"],
+      "chemicals_used": [
+        "FeCl2 (0.197 g, 1.55 mmol)",
+        "H2bdp (0.200 g, 0.95 mmol)"
+      ],
+      "time": "24 h",
+      "washing_method": "washed nine times with hot DMF (9 × 18 ml)",
+      "drying_method": "dried under high vacuum at 170 °C for 24 h"
+    },
+    "usable_CH4_capacity_at_25C": {
+      "35_bar": "150 cm3 STP cm−3 (v/v)",
+      "65_bar": "190 cm3 STP cm−3 (v/v)"
+    },
+    "crystallographic_density": {
+      "collapsed_phase": "1.45 g cm−3",
+      "expanded_phase_40_bar": "0.705 g cm−3",
+      "expanded_phase_50_bar": "0.678 g cm−3"
+    },
+    "high_pressure_CH4_adsorption_measurements": {
+      "temperature": "25 °C",
+      "pressure_range": "0–70 bar",
+      "sample_mass": "0.274 g",
+      "sample_holder": "stainless steel",
+      "freespace_measurement_conditions": "expansion of He from a calibrated volume at 0.7 bar and 25 °C to the evacuated sample holder"
+    }
+  }
+}

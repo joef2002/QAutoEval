@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of SCU-101?",
+      "answer": "C38H28N8NiO2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the sorption data fitting by isotherm models?",
+      "answer": "The Langmuir and Freundlich models were used for the sorption data fitting.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is SCU-101 stable in aqueous solutions with different pH values?",
+      "answer": "Yes, SCU-101 is stable in aqueous solutions within pH range from 2 to 14.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum sorption capacity (qm) of SCU-101 towards ReO4- according to the Langmuir model?",
+      "answer": "217 mg/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the hydrolytic stability of SCU-101 measured?",
+      "answer": "By soaking the samples in HNO3 or NaOH of different pH and shaking vigorously in an oscillator for 12 hours.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can SCU-101 be fully regenerated for sorption/desorption cycles?",
+      "answer": "Yes, SCU-101 can be fully regenerated for at least four sorption/desorption cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the distribution coefficient (Kd) of SCU-101 toward ReO4-?",
+      "answer": "7.5 × 10^5 mL/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of SCU-101 remain intact after anion exchange?",
+      "answer": "Yes, the structure of SCU-101 remains intact after anion exchange.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of SO4^2- concentration on the anion exchange of ReO4- by SCU-101?",
+      "answer": "The removal of ReO4- is almost unaffected by the concentration of SO4^2-.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated binding energy between TcO4- and the framework of SCU-101?",
+      "answer": "-20.42 kcal/mol",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of oxalic acid in the synthesis of SCU-101?",
+      "answer": "Oxalic acid is added to increase the crystal yield of SCU-101.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is SCU-101 resistant to both β and γ irradiation?",
+      "answer": "Yes, SCU-101 maintains its crystallinity even after 200 kGy β and γ irradiation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of competing anions on the removal percentage of ReO4- by SCU-101?",
+      "answer": "The removal percentage of ReO4- by SCU-101 is still as high as ∼90% in the presence of competing anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the tipm ligand in the structure of SCU-101?",
+      "answer": "The tipm ligand serves as a 4-connected node, bridging four Ni^2+ cations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can SCU-101 selectively remove TcO4- from waste solutions with high ionic strengths?",
+      "answer": "Yes, SCU-101 can selectively remove TcO4- from waste solutions with high ionic strengths.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the single crystal structure of TcO4- incorporated SCU-101?",
+      "answer": "It is the first reported crystal structure to display TcO4- trapped in a sorbent material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does SCU-101 compare to traditional polymeric anion exchange resins in terms of radiation resistance?",
+      "answer": "SCU-101 exhibits excellent radiation resistance, contrasting sharply with traditional anion exchange resins that lose anion uptake capacities after irradiation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the dense hydrogen-bond network in the sorption mechanism of SCU-101?",
+      "answer": "The dense hydrogen-bond network traps TcO4- within SCU-101, contributing to its high sorption capacity and selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of large excesses of NO3- and SO4^2- affect the sorption of TcO4- by SCU-101?",
+      "answer": "No, even large excesses of NO3- and SO4^2- do not significantly affect the sorption of TcO4- by SCU-101.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the electrostatic potential (ESP) distribution analysis for SCU-101?",
+      "answer": "The ESP distribution analysis helps identify the binding site of TcO4- in SCU-101, consistent with the experimentally obtained crystal structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

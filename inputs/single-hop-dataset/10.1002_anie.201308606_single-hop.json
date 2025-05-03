@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing metal–organic organopolymeric hybrid framework?",
+      "answer": "10.1002/anie.201308606",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction is used to fuse a 1D ZnII coordination polymer with an organic polymer ligand?",
+      "answer": "[2+2] cycloaddition reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the organic polymer ligand be depolymerized in a single-crystal-to-single-crystal fashion?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of the MOF that undergoes a double [2+2] cycloaddition reaction?",
+      "answer": "Diamondoid (dia) topology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photopolymerization reaction reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the temperature and duration required to achieve depolymerization of the hybrid framework compound?",
+      "answer": "250 8C for 3 hours",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the solvent mixture used to obtain yellow block crystals of [Zn(bpeb)(bdc)]·H2O·0.1 DMA?",
+      "answer": "A mixture of dimethylacetamide (DMA), dimethylsulfoxide (DMSO), and water",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the photopolymerization reaction lead to a change in the space group of the crystal structure?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the new topology named after the photopolymerization reaction?",
+      "answer": "jjv1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the solvent accessible void reduced after the photopolymerization reaction?",
+      "answer": "Yes, from 30.8% to 28.3%",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of UV irradiation in the synthesis process?",
+      "answer": "To initiate the photopolymerization reaction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of tetrahedrally coordinated ZnII atoms affect the bpeb ligands?",
+      "answer": "It aligns all the bpeb ligands to pack slip-stacked infinitely in a plane",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the six-fold interpenetrated diamondoid network structure upon UV light exposure?",
+      "answer": "It gives rise to a non-interpenetrated structure as a result of the formation of cyclobutane rings",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the cyclobutane rings in the coordination polymers be thermally cleaved?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of heating single crystals of the photopolymerized structure at 250 8C for 3 hours?",
+      "answer": "The cyclobutane rings are cleaved, regenerating the original MOF structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the crystals of the photopolymerized structure soluble in acid?",
+      "answer": "No, they are insoluble in acid",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence supports the phase change from triclinic P1¯ to monoclinic P2/n?",
+      "answer": "The PXRD pattern recorded after subsequent cooling to room temperature matched well with that of the original structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal data space group for the original structure before photopolymerization?",
+      "answer": "Monoclinic, P2/n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the microporosity of the materials retained upon photopolymerization?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential application of extending the synthetic methodology to other metal–organic organopolymeric hybrid materials?",
+      "answer": "The properties of these new compounds are potentially interesting for various applications",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

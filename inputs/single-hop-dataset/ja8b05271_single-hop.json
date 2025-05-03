@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of carrying out single-crystal X-ray diffraction experiments at cryogenic temperatures?",
+      "answer": "To obtain high-resolution data by reducing thermal disorder.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the collection of diffraction data at lower temperature (100 K) not provide sufficient quality for MOF-1004 and MOF-1005?",
+      "answer": "Disordered guest–framework interactions introduced disorder at low temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The practice of collecting single-crystal X-ray diffraction data at cryogenic temperatures is always applicable to metal–organic frameworks (MOFs).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the initial data collection temperature for MOF-1005?",
+      "answer": "260 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of disordered guest molecules affect the framework of MOFs at low temperatures?",
+      "answer": "It causes the framework to become more disordered due to stronger interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The inverse behavior of disorder increasing at lower temperatures was observed for MOF-177 and UiO-67.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the activation of MOF-1004?",
+      "answer": "Supercritical CO2 drying",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the temperature swing procedure have on the organization of guest molecules in UiO-66?",
+      "answer": "It makes the disordered guests in the pores more ordered.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The removal of guest molecules by heating to 400 K and subsequent cooling to 100 K did not affect the ⟨I/σ⟩ value of UiO-66.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of guest removal on the atomic displacement parameters (ADPs) of UiO-66?",
+      "answer": "ADPs were significantly reduced, indicating less disorder.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of disordered guest molecules in the pores of MOFs always enhances the X-ray scattering power.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of MOF-1004?",
+      "answer": "Pm-3n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of defects affect the disorder in UiO-67 crystals?",
+      "answer": "Crystals with more defects showed less pronounced reduction of disorder upon cooling.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The disordered guest–framework interactions are less pronounced in MOFs with lower porosity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion regarding the collection of data on crystals of MOFs?",
+      "answer": "Disordered guest–framework interactions play a profound role in introducing disorder at low temperatures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that the practice of collecting X-ray diffraction data at cryogenic temperatures is beneficial for all types of crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of increasing temperature on the resolution of diffraction data for MOF-1004?",
+      "answer": "High temperatures reduced the disorder and gave high-resolution diffraction data.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UiO-66 exhibited the inverse behavior of increased disorder at lower temperatures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for solvent exchange in MOF-1005?",
+      "answer": "Washing with anhydrous acetone",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the temperature swing procedure affect the electron density maps in UiO-66?",
+      "answer": "More localized densities were observed after the temperature swing.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

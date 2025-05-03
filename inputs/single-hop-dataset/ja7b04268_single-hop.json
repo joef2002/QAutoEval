@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using metal-organic frameworks (MOFs) in the context of propyne and propylene?",
+      "answer": "The purpose of using MOFs is for the efficient separation of propyne/propylene mixtures to produce high-purity propylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purity level of propylene obtained using the described MOF method?",
+      "answer": "The purity of the obtained propylene is over 99.9998%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of ELM-12 in the separation of propyne from propylene?",
+      "answer": "ELM-12, a flexible-robust MOF, is used for the efficient separation of propyne from propylene, allowing for the removal of trace amounts of C3H4 from a C3H4/C3H6 mixture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation performance of flexible MOFs for gas mixtures can be easily predicted from their single gas sorption isotherms.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What makes flexible-robust MOFs different from traditional flexible and robust MOFs?",
+      "answer": "Flexible-robust MOFs have guest-free phases or intermediate phases with robust pore structures that preserve their overall structures within a substantial low-pressure range before becoming fully flexible at higher gas pressures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ELM-12 exhibits high C3H4/C3H6 selectivity due to its strong binding affinity and suitable pore confinement for propyne.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the kinetic diameter of propyne and propylene?",
+      "answer": "The kinetic diameter of propyne is approximately 4.76 Å, and for propylene, it is approximately 4.68 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of C3H8, C2H4, and CO2 significantly affects ELM-12's performance in separating C3H4 from C3H6.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the structure of ELM-12 change upon C3D4 adsorption?",
+      "answer": "Upon C3D4 adsorption, cavity II in ELM-12 slightly expands, indicating relatively strong host-guest interaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption capacity and separation performance of ELM-12 are significantly reduced after 20 cycles of adsorption and separation.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated static binding energy for C3H4 in ELM-12?",
+      "answer": "The calculated static binding energies for C3H4 in ELM-12 are approximately 53.5 and 45.0 kJ/mol for the two binding sites.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: ELM-12 can retain its structure, uptake capacity, and separation performance after 2 years of storage under ambient conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the void fraction and pore volume of ELM-12 after guest removal?",
+      "answer": "After guest removal, ELM-12 has a void fraction of 20.5% and a pore volume of 0.141 cm3/g.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dynamic adsorption results show that the diffusion rates of C3H4 and C3H6 through ELM-12 are significantly different.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the high C3H4/C3H6 selectivity of ELM-12?",
+      "answer": "The high C3H4/C3H6 selectivity of ELM-12 is mainly attributed to the binding and sieving effect of ELM-12.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental breakthrough curves for a 1/99 C3H4/C3H6 mixture show that C3H4 is completely removed by ELM-12 to a concentration below 2 ppm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of C3D4 loading on the pore volume of ELM-12?",
+      "answer": "The geometric pore volume remains almost the same as that of guest-free ELM-12 upon C3D4 loading.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The purity of C3H6 monitored at the outlet during breakthrough experiments was less than 99.9998%.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of dynamic OTf- groups in ELM-12?",
+      "answer": "Dynamic OTf- groups in ELM-12 adjust their position/orientation upon C3H4 loading, contributing to the selective adsorption of C3H4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The calculated exceptional performance of ELM-12 for C3H4 adsorption is common among flexible MOFs.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

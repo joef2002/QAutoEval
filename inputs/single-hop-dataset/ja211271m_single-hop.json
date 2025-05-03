@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MOF-1?",
+      "answer": "C56H24N13O22.50Ru2Zn5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for X-ray structure determination?",
+      "answer": "Bruker SMART Apex II CCD-based X-ray diffractometer system",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum amount of MB+ adsorbed onto the MOF surface according to the Langmuir model?",
+      "answer": "The maximum amount of MB+ adsorbed is represented by Γmax in the Langmuir model.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission energy of the Ru MOF has significant spectral overlap with the absorption of methylene blue.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Stern-Volmer constant for MOF-1 with added MV2+?",
+      "answer": "The Stern-Volmer constant is not directly provided but is related to the slope of the Stern-Volmer plot.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the lifetime of Ru(bpy)2CN2 without MB+ in solution?",
+      "answer": "246 ns",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The interaction of MB+ with MOF-2 is irreversible.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of adding 0.1M TBAH to the quenching efficiency of MOF-2 by MV2+?",
+      "answer": "Adding 0.1M TBAH changes the quenching efficiency, as indicated by changes in the time-resolved emission spectra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission lifetime of MOF-2 decreases as the Os content increases.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of formic acid in the synthesis of MOF-1?",
+      "answer": "Formic acid is used in the synthesis mixture for MOF-1, likely as a modulating agent to control the crystal growth.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD pattern of MOF-2 is unchanged after exposure to MB+.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main quenching mechanism for MOF-2 by MB+?",
+      "answer": "Electron transfer is the dominant quenching mechanism for MOF-2 by MB+.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission lifetime of MOF-2 with MB+ is unchanged after washing with MeCN.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of MOF concentration on the quenching efficiency by MB+?",
+      "answer": "At low MOF concentrations, the quenching by MB+ is more efficient due to fewer binding sites competing for association with a fixed number of quenchers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission lifetime of MOF-2 with MV2+ shows slower decay kinetics after washing with MeCN.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of KCN in the synthesis of Ru(5,5’-CO2H-bpy)2CN2 (L1-H4)?",
+      "answer": "KCN is used to replace chloride ligands with cyanide ligands in the synthesis of Ru(5,5’-CO2H-bpy)2CN2 (L1-H4).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission lifetime of MOF-2-Os with MV2+ decreases as the concentration of MV2+ increases.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dihedral angle between the two crystallographically distinct four-metal-centered cores in MOF-1?",
+      "answer": "The dihedral angle affects the overall structure and potentially the photophysical properties of MOF-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MOF-1 involves heating a mixture of L1-H4 and Zn(NO3)2 in DMF and H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of tetra-N-alkylammonium salts in the quenching experiments of MOF-2 by MV2+?",
+      "answer": "Tetra-N-alkylammonium salts are used to investigate the effect of cation size on the quenching efficiency and to understand the electrostatic interactions with surface carboxylate sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

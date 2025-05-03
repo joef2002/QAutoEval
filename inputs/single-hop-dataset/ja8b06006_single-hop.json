@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the referenced article by Mondloch et al.?",
+      "answer": "2013",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for atomic layer deposition in the synthesis process?",
+      "answer": "Savannah 100 (Cambridge Nanotech, Inc)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the study conducted by Li et al. in 2016?",
+      "answer": "The study focuses on the use of metal-organic frameworks (MOFs) as supports for heterogeneous catalysts, specifically examining the activity and selectivity of a Ni catalyst supported on NU-1000 for ethylene oligomerization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Ni-NU-1000 catalyst used for ethylene oligomerization?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method is used for the energy decomposition analysis in the study?",
+      "answer": "Amsterdam Density Functional (ADF 2017) program",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study involve the use of X-ray photoelectron spectroscopy (XPS) for characterization?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hexafluoroacetylacetonate (Facac) in the synthesis process?",
+      "answer": "Facac acts as a ligand introduced to the metal-organic framework NU-1000 to modify its steric and electronic properties, supporting the heterogeneous catalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Gibbs free energy profile computationally modeled for the catalytic activity of Ni-Acac-AIM-NU-1000?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique is employed to measure the nitrogen adsorption and desorption isotherms?",
+      "answer": "Micromeritics Tristar II 3020 instrument",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the CM5 charge analysis in the study?",
+      "answer": "The CM5 charge analysis is used to understand the electronic communication between the ligands, Zr6 nodes, and grafted Ni(II), which is crucial for assessing the catalyst's electronic properties and its interaction with the support.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study confirm the structural stability of the MOF with respect to node elaboration?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using diffuse reflectance infrared Fourier transform (DRIFTS) spectra in the study?",
+      "answer": "DRIFTS spectra are used to analyze the changes in the binding of -OH to nodes and to observe shifts in the -OH stretching frequency, which indicates alterations in the strength of binding due to the introduction of ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the use of inductively coupled plasma atomic emission spectroscopy (ICP-AES) mentioned for analyzing Ni content?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study reveal about the effect of support modifiers on catalytic selectivity?",
+      "answer": "The study reveals that the introduction of support modifiers like Facac and Acac to the MOF NU-1000 leads to a remarkable increase in product selectivity, specifically showing exclusive formation of C4 (butene) species with a strong preference for the 1-butene isomer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational tool is used for Gibbs free energy profiles?",
+      "answer": "Gaussian 09",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study involve the modification of the MOF NU-1000's nodes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the single crystal X-ray diffraction data for Facac-AIM-NU-1000?",
+      "answer": "The single crystal X-ray diffraction data for Facac-AIM-NU-1000 provides crucial structural information, confirming the chelation of Facac anions to the Zr ions within the MOF structure, which is key to understanding the interaction between the ligand and the MOF framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is scanning electron microscopy (SEM) used for surface morphology analysis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the Et2AlCl co-catalyst play in the catalytic process?",
+      "answer": "The Et2AlCl co-catalyst is used to activate the Ni-AIM-NU-1000, Ni-Facac-AIM-NU-1000, and Ni-Acac-AIM-NU-1000 catalysts for ethylene dimerization, facilitating the formation of the active catalytic species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What analytical technique is employed to probe the valence and size of the Ni-oxo clusters?",
+      "answer": "X-ray absorption spectroscopy (XAS)",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

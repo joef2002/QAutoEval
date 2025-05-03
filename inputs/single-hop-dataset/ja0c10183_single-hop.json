@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Controlled Photoinduced Generation of “Visual” Partially and Fully Charge Separated States in Viologen Analogues",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Ming-Sheng Wang",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main objective of the study mentioned in the article?",
+      "answer": "The main objective is to capture a photoinduced partially charge separated (PCS) state with a lifetime of days and control the photoinduced generation of PCS and fully charge separated (FCS) states by molecular design.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the synthesis of [Zn(OAc)2(bipy)]n (1)?",
+      "answer": "The method reported in reference 5 was used for the synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What instruments were used for the UV–vis spectra recording?",
+      "answer": "PerkinElmer Lambda 900 UV/vis/Near-IR spectrophotometer equipped with an integrating sphere was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the compound [Zn(IBA)2(bipy)]n (2) a new compound according to the article?",
+      "answer": "Yes, [Zn(IBA)2(bipy)]n (2) is a new compound according to the article.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the temperature used for the X-ray crystallographic study of [Zn(IBA)2(bipy)]n (2)?",
+      "answer": "The temperature used was 293 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of the synthesis of [Zn(IBA)2(bipy)]n (2) based on bipy?",
+      "answer": "The yield was greater than 80%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the compound [Zn(IBA)2(bipy)]n (2) undergo a two-step color change after irradiation according to the article?",
+      "answer": "Yes, the compound underwent a two-step color change after irradiation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using isobutyric acid and Zn2(OH)2CO3·H2O in the synthesis of [Zn(IBA)2(bipy)]n (2)?",
+      "answer": "Isobutyric acid and Zn2(OH)2CO3·H2O were used as starting materials for the synthesis of [Zn(IBA)2(bipy)]n (2).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the phase purity of [Zn(IBA)2(bipy)]n (2) confirmed by PXRD patterns?",
+      "answer": "Yes, the phase purity of [Zn(IBA)2(bipy)]n (2) was confirmed by PXRD patterns.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the X-ray crystallographic study of [Zn(IBA)2(bipy)]n (2)?",
+      "answer": "The method used was single-crystal X-ray diffraction measurement.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the space group of [Zn(IBA)2(bipy)]n (2) according to the article?",
+      "answer": "The space group was C2/c.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the article mention the use of a specific software for PXRD pattern simulation?",
+      "answer": "Yes, Mercury Version 2020.1 software was mentioned for PXRD pattern simulation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the EPR spectrometer in the study?",
+      "answer": "The EPR spectrometer was used to measure electron paramagnetic resonance data for the compounds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was thermal annealing used in the study for any purpose?",
+      "answer": "Yes, thermal annealing was used to accelerate the color change from yellow to purple for compound [Zn(IBA)2(bipy)]n (2).",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the Raman spectra in the study?",
+      "answer": "Raman spectra were used to reveal the charge-separation processes between the compounds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the compound [Zn(IBA)2(bipy)]n (2) stable at room temperature according to the article?",
+      "answer": "Yes, the compound was stable at room temperature.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the easyspin package in MATLAB according to the article?",
+      "answer": "The easyspin package was used for EPR spectral simulations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the article provide any information on the thermal stability of [Zn(IBA)2(bipy)]n (2)?",
+      "answer": "Yes, the article mentioned that [Zn(IBA)2(bipy)]n (2) can stabilize to at least 150 C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

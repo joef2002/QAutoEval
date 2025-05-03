@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the Titanium(IV)-based metal-organic framework discussed in the text?",
+      "answer": "DGIST-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What ligand is used in the synthesis of DGIST-1?",
+      "answer": "TCPP (tetrakis(4-carboxyphenyl)porphyrin)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the surface area of DGIST-1?",
+      "answer": "1957.3 m2 g@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What photocatalytic activity does DGIST-1 exhibit?",
+      "answer": "Visible-light-responsive photocatalytic activity",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Ti-oxo clusters in the synthesis of Ti-MOFs?",
+      "answer": "Ti-oxo clusters are used as building blocks for Ti-MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of the Ti-cluster used as the source of Ti4+ ions?",
+      "answer": "Ti6O6(OiPr)6(t-BA)6",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using preformed Ti-oxo clusters in the synthesis of DGIST-1?",
+      "answer": "To avoid the spontaneous hydrolysis and condensation reactions of traditional Ti-alkoxide precursors.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is a high TCPP purity critical for obtaining single crystals of DGIST-1?",
+      "answer": "Because a lower TCPP concentration fails to produce the desired MOF crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the photocatalytic activity of DGIST-1 confirmed?",
+      "answer": "By the simultaneous generation of singlet oxygen and superoxide species, and the selective oxidation of benzyl alcohol to benzaldehyde.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the band gap calculated for DGIST-1?",
+      "answer": "1.85 eV",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the high surface area of DGIST-1?",
+      "answer": "It is important for its photocatalytic applications due to increased contact area.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the thermal stability range of DGIST-1?",
+      "answer": "Up to 350 88C",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is DGIST-1 stable in methanol and water?",
+      "answer": "False, DGIST-1 exhibited limited stability in methanol and water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DGIST-1 require dry solvents or an inert atmosphere for its synthesis?",
+      "answer": "False, the optimized synthetic conditions did not require the use of dry solvents or an inert atmosphere.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the structure of DGIST-1 maintained in various organic solvents?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET specific surface area of DGIST-1 higher than that of previously reported Ti-MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DGIST-1 generate singlet oxygen species upon visible light irradiation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic activity of DGIST-1 attributed solely to the presence of Ti-oxo chain clusters?",
+      "answer": "False, the photocatalytic activity is attributed to the synergetic effect of the Ti-oxo chain cluster and the TCPP ligand.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can DGIST-1 be recycled without loss of catalytic activity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is DGIST-1 the first example of single-crystal MOFs with Ti-oxo clusters of infinite chain structures?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

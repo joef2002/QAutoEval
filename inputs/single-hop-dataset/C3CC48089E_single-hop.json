@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the metal-organic framework (MOF) 1?",
+      "answer": "C159H255Cu6N3O63S36",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does MOF 1 belong to?",
+      "answer": "Tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) were the single-crystal X-ray diffraction data for MOF 1 collected?",
+      "answer": "110(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the molecular cage MOP 2?",
+      "answer": "Triclinic P-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of the molecular cage MOP 2?",
+      "answer": "3033.32",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum N2 uptake at 1 bar for MOF 1?",
+      "answer": "568 cm3 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MOF 1?",
+      "answer": "1475 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the in situ oxidation of H4ADDI to H4OADDI during the formation of MOF 1?",
+      "answer": "It confirms the formation of H4OADDI during the synthesis of MOF 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of MOF 1 compare to NOTT-115 in terms of polyhedral molecular building units?",
+      "answer": "MOF 1 has preserved original polyhedral molecular building units similar to those observed in NOTT-115.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What strategy was used to construct MOFs from desymmetrized ligands?",
+      "answer": "Linker-directed vertex desymmetrization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the paddle-wheel Cu2 nodes in the structure of MOF 1?",
+      "answer": "They act as dimeric nodes connecting the carboxylate groups in the coordination.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The molecular cage of MOP 2 is a structural unit of MOF 1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The desymmetrization of ligands always leads to predictable MOF structures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The pore volume ratio in MOF 1 is about 70% without guest solvent molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ligand H4OADDI was originally designed with reduced symmetry compared to H6NBPD.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PXRD pattern of as-synthesized MOF 1 matches well with the simulated one.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The TGA of as-synthesized MOF 1 indicates a weight loss of 50% before about 250°C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the lantern shaped configuration in MOP 2?",
+      "answer": "It represents the overall molecular cage structure formed by the connection of Cu2 entities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the desymmetrization of ligands affect the structural diversity of MOFs?",
+      "answer": "It can lead to novel structures distinct from those constructed from high symmetry ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the hexacarboxylate ligands in the construction of the series of MOFs mentioned?",
+      "answer": "They should have a C3 symmetry and the three isophthalate moieties must be coplanar for the construction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing Alkyl Lithium Compounds?",
+      "answer": "10.1002/anie.200700113",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the article dedicated to and on what occasion?",
+      "answer": "Professor Helge Willner on the occasion of his 60th birthday",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes carbanions with two N substituents special among carbanionic systems?",
+      "answer": "They belong to the group of formally nonstabilized or even destabilized systems due to the repulsive interaction of the carbanion with the adjacent nitrogen lone pair.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of the reaction between 1,3,5-trimethyl-1,3,5-triazacyclohexane (TMTAC) and nBuLi in hexane?",
+      "answer": "The reaction proceeds unexpectedly smoothly, resulting in the deprotonation exclusively at a position between two N atoms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The lithiation of TMTAC always occurs selectively at a methylene unit, regardless of the solvent used.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the crystal structure determination of the lithiated TMTAC product reveal about its aggregate?",
+      "answer": "The chain aggregate consists of two crystallographically independent units of dimeric 2-lithio-TMTAC, which are alternatingly linked by two nitrogen atoms of a non-lithiated TMTAC molecule.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NMR data of compound 1 does not reflect the presence of lithiated and free TMTAC units in a 2:1 ratio.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield reported for the generation of 2-deuterio-TMTAC, and how does it compare with the findings for aggregate 1?",
+      "answer": "The reported yield was 91%, which is not consistent with the findings for aggregate 1 consisting of a 2:1 mixture of lithiated and non-lithiated TMTAC.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The third N atom in TMTAC is responsible for the observed regioselectivity of lithiation.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the molecular structure of the lithiated product of 1,3-dimethyl-1,3-diazacyclohexane indicate about the regioselectivity of lithiation?",
+      "answer": "The reaction occurs selectively at the position between the two N atoms, proving the irrelevance of the third N atom in TMTAC for the observed regioselectivity of lithiation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Compound 1 can be used as a nucleophilic transfer reagent for acyl groups.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the advantage of using compound 1 for nucleophilic acylation over the classical Corey–Seebach method?",
+      "answer": "It does not require mercury- or thallium-containing reagents for liberation of the aldehyde, offering a notable advantage in terms of preparative ease and ecological issues.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction of 1 with bromodiphenylmethane resulted in the addition of a TMTAC function.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of 1,1,2,2-tetraphenylethane in the reaction of 1 with bromodiphenylmethane?",
+      "answer": "72%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The molecular structure of 3 a in the crystal was determined by X-ray crystallography.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the umpolung principle in relation to compound 1?",
+      "answer": "Like the 2-lithio-1,3-dithianes, compound 1 can be used as a nucleophilic transfer reagent for acyl groups, making it highly useful in organic synthesis and an example of the umpolung principle.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The regioselectivity of the lithiation of TMTAC to give compound 1 can be explained by a detailed mechanism presented in the article.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the experiment with D2O indicate about compound 2?",
+      "answer": "It indicates that the ring structure is behind the regioselectivity of the lithiation of TMTAC to give compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the third N atom in TMTAC according to the hypothesis tested with 1,3-dimethyl-1,3-diazacyclohexane?",
+      "answer": "The hypothesis tested was that the third N atom in TMTAC might be responsible for the observed reactivity by precoordinating BuLi in close proximity to the lithiation site, but it was found to be irrelevant for the observed regioselectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article provides a comprehensive mechanism for the reaction of 1,3,5-trimethyl-1,3,5-triazacyclohexane with nBuLi.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

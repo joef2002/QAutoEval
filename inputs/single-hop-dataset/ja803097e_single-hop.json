@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the primary purpose of the study reported in the Journal of the American Chemical Society?",
+      "answer": "The primary purpose of the study is to report a method for rapidly purifying MOF materials.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent was chosen as the parent solvent for the purification studies of MOFs?",
+      "answer": "CH2BrCl was chosen as the parent solvent for the purification studies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density of CH2BrCl used in the purification process?",
+      "answer": "The density of CH2BrCl used in the purification process is 1.99 g/cm3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the purity of separated MOF materials confirmed?",
+      "answer": "The purity of separated MOF materials is confirmed by comparing Powder X-ray diffraction (PXRD) data of both fractions to candidate simulated PXRD patterns.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the purified MOF material labeled as 6 after purification?",
+      "answer": "The yield percentage of the purified MOF material labeled as 6 after purification is 30%.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to determine the structure of the MOF labeled as 6?",
+      "answer": "The structure of the MOF labeled as 6 is determined by single-crystal X-ray diffraction.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the solvent-based density-discrimination method be used to separate MOFs from linear coordination polymers?",
+      "answer": "Yes, the solvent-based density-discrimination method can also be useful for separating MOFs from linear coordination polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the purification method reported applicable to separating a desired mixed-strut material from a crystalline MOF containing only a single type of strut?",
+      "answer": "Yes, the purification method is applicable to separating a desired mixed-strut material from a crystalline MOF containing only a single type of strut.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the purification technique allow for the isolation of minor components of mixed phases?",
+      "answer": "Yes, the purification technique allows for the isolation of even minor components of mixed phases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the solvent mixture's density crucial for the successful separation of MOF materials?",
+      "answer": "Yes, the density of the solvent mixture is crucial for the successful separation of MOF materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the method require the MOF materials to have significant density differences for separation?",
+      "answer": "Yes, the method requires the MOF materials to have significant density differences for separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the purification process rapid, completing within a few hours?",
+      "answer": "Yes, the purification process is rapid, completing within a few hours.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "The separation of MOF materials occurs within a few tens of seconds after reaching the appropriate solvent density.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The density of the solvent mixture used for purification is always higher than the density of MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The purification method is limited to MOFs with large internal surface areas only.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The method described is well developed for molecular metal complexes but not for metal−organic framework chemistry.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The solvent-based density-discrimination method is broadly applicable to the purification of MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis conditions for MOF labeled as 6 involved heating at 80°C for 48 hours.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "All MOFs have the same density, making the purification process straightforward.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

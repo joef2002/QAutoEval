@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "Cu(C9H3N4O4)0.5(NO3)0.167(O2-)0.167(H2O)3.9",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system and space group does compound 1 belong to?",
+      "answer": "Cubic, F m-3m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of compound 1?",
+      "answer": "0.93 Mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many unique reflections were collected for compound 1?",
+      "answer": "1702",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R1 index for compound 1?",
+      "answer": "0.0787",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the structure of compound 1 be interpreted in several ways?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Cu3O(N4CR)3 trimer observed in compound 1 unprecedented for tetrazolate ligands?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 have a ternary topology?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the largest diff. peak for compound 1 greater than the largest diff. hole?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the structure of compound 1 solved using SHELXS-97?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 5-position of the isophthalate ligands in the structure of compound 1?",
+      "answer": "It sits directly on the vertices of the rhombicuboctahedron, serving as the TBU.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of compound 1 contribute to its potential for gas storage?",
+      "answer": "The structure has large accessible windows, open cavities, and a charged nature, making it prospective for gas storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for absorption correction in the X-ray crystallography of compound 1?",
+      "answer": "Multi-scan method",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of three different cage diameters in compound 1 indicate about its sorption properties?",
+      "answer": "It indicates that the smallest cages are first to be covered, and the largest are subsequently covered at higher pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Cu-oxo trimer in the structure of compound 1?",
+      "answer": "It results in a 24-connected rhombicuboctahedral TBU, linked to 12 neighboring TBUs through 24 3-connected trigonal SBUs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of compound 1 tetragonal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal data for compound 1 collected at room temperature?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of compound 1 only have a binary topology?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the solvent-accessible volume for compound 1 estimated to be around 50%?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 have a low calculated density for the fully evacuated framework?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

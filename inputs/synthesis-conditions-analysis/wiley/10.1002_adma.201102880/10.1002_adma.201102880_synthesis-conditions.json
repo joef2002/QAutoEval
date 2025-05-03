@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "Zn4O(L)1.5 (L1, 1; L2, 2; L3, 3)",
+      "synthesis_conditions": {
+        "solvents": ["DMF", "DEF/NMP"],
+        "chemicals_used": ["Zn(NO3)2 · 6H2O", "tetratopic ligands (H4L1, H4L2, H4L3)"],
+        "equipment": "solvothermal conditions",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "solvent-exchange and desolvation treatments",
+        "drying_method": "not specified",
+        "additional_information": "The reaction afforded three mesoporous MOFs with corundum-type frameworks and hierarchical pore sizes."
+      }
+    },
+    {
+      "name": "Eu3+ or Tb3+ doped 1",
+      "synthesis_conditions": {
+        "solvents": ["DMF"],
+        "chemicals_used": ["nitrate salts of Eu3+ or Tb3+", "100 mg MOF"],
+        "amount_of_each_solvent": "5 mL DMF",
+        "equipment": "soaking",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "The successful Ln3+ loading does not influence the crystalline integrity of 1, as demonstrated by PXRD profiles."
+      }
+    },
+    {
+      "name": "Eu3+/Tb3+ co-doped 1",
+      "synthesis_conditions": {
+        "solvents": ["DMF"],
+        "chemicals_used": ["nitrate salts of Eu3+ and Tb3+", "100 mg MOF"],
+        "amount_of_each_solvent": "5 mL DMF",
+        "equipment": "soaking",
+        "temperature": "not specified",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "additional_information": "The co-doped MOF displayed bimodal luminescence and the Eu3+/Tb3+ percentage-tuned intermediate colors of the doped MOF samples can also be observed by naked eye."
+      }
+    }
+  ]
+}

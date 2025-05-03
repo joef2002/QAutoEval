@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the study conducted by Jacopo Perego and colleagues?",
+      "answer": "The primary focus of the study is on the fast motion of molecular rotors within the struts of a zinc-based metal–organic framework at very low temperatures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property of the zinc-based MOF is highlighted in the study?",
+      "answer": "The study highlights the hyperfast molecular rotor dynamics within the zinc-based MOF, facilitated by the high torsional flexibility of the pivotal bond and the mismatch in symmetry between the rotator and the framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the use of zirconium instead of zinc affect the metal–organic framework?",
+      "answer": "Using zirconium instead of zinc leads to a different metal cluster–carboxylate coordination arrangement in the resulting metal–organic framework, resulting in much slower rotation of the bicyclic units.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the energy barrier for the rotation of the bicyclic units in the zinc-based MOF?",
+      "answer": "The energy barrier for the rotation of the bicyclic units in the zinc-based MOF is 6.2 cal mol−1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what frequency does the hyperfast rotation of the bicyclic units persist even at very low temperatures?",
+      "answer": "The hyperfast rotation of the bicyclic units persists at a frequency of 1010 Hz below 2 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to characterize the fast molecular motion within the MOF?",
+      "answer": "The fast molecular motion within the MOF was characterized using 1H NMR and molecular dynamics simulations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the mismatch between the three-fold trigonal symmetry of the rotator and the four-fold carboxylate arrangement in the MOF?",
+      "answer": "The mismatch between the three-fold trigonal symmetry of the rotator and the four-fold carboxylate arrangement in the MOF creates geometrical frustration, allowing for continuous, unidirectional, hyperfast rotation of the bicyclic units.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that solid phases can support fast molecular motion similar to fluid phases.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The energy barrier for rotation in the zirconium-based MOF is lower than in the zinc-based MOF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study suggests that the fast rotation of molecular rotors can be modulated by changing the metal center in the MOF.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to refine the crystal structure of Zn-FTR?",
+      "answer": "The crystal structure of Zn-FTR was refined using the Rietveld method combined with molecular mechanics and plane-wave density functional theory calculations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of iodine affect the rotation speed of the molecular rotors in Zn-FTR?",
+      "answer": "The presence of iodine drastically reduces the rotation speed of the molecular rotors in Zn-FTR, increasing the activation energy to 1,000 cal mol−1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides evidence of dynamic materials operating at temperatures as low as 0.5 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of formic acid in the synthesis of Zr-FTR?",
+      "answer": "Formic acid acts as a modulator to control crystal nucleation and growth during the synthesis of Zr-FTR, with formate anions coordinating to the zirconium clusters.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that molecular rotors can perform continuous unidirectional motion for several turns without being trapped in energy minima.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the muon spin relaxation experiment reveal about the energy barrier for rotation in Zn-FTR?",
+      "answer": "The muon spin relaxation experiment reveals an energy barrier of 18±4 cal/mol for rotation in Zn-FTR, indicating very low energy barriers for rotation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings suggest that molecular dynamics in solid phases can lead to high thermal capacities and low surface friction.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of geometrical frustration on the energy landscape of the molecular rotors in the MOF?",
+      "answer": "Geometrical frustration flattens the energy landscape, reducing the energy barriers for rotation and enabling hyperfast, continuous rotation of the molecular rotors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirms that molecular rotors in MOFs can achieve rotation speeds comparable to those in the gas phase.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the study contribute to the understanding of molecular dynamics in solid-state materials?",
+      "answer": "The study demonstrates that molecular rotors can exhibit hyperfast rotation at very low temperatures within solid-state materials, challenging the traditional view that solid phases are unsuitable for sustaining fast molecular motion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

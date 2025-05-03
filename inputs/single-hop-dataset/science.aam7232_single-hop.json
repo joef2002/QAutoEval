@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of the hydrophilic metal-organic framework used for butadiene purification?",
+      "answer": "[Zn2(btm)2]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in separating 1,3-butadiene from other C4 hydrocarbons using conventional adsorbents?",
+      "answer": "Conventional adsorbents preferentially adsorb 1,3-butadiene over other C4 hydrocarbons due to its small size, high polarity, and unsaturation, making separation difficult.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation of 1,3-butadiene from C4 hydrocarbons is energy-consuming and environmentally unfriendly due to the need for high towers and organic solvents.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do quasi-discrete pores play in the adsorption mechanism of the metal-organic framework for butadiene purification?",
+      "answer": "Quasi-discrete pores induce conformational changes in flexible guest molecules, weakening 1,3-butadiene adsorption through a large bending energy penalty.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The metal-organic framework [Zn2(btm)2] can purify 1,3-butadiene to a purity of ≥99.5% at ambient temperature and pressure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the breakthrough sequence of gases in the metal-organic framework [Zn2(btm)2]?",
+      "answer": "1,3-butadiene first, then butane, butene, and isobutene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the recovery of adsorbent and product difficult when using adsorbents functionalized by open metal sites (OMSs) for C4H6 extraction?",
+      "answer": "Heating is necessary for recovery, which induces polymerization of C4H6, making the process challenging.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorptive separation mechanism exploiting the flexibility of guest molecules leads to an optimum adsorption-separation sequence for C4H6 purification.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purity level of 1,3-butadiene achieved using the metal-organic framework [Zn2(btm)2] in a single breakthrough operation?",
+      "answer": "≥99.5%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption selectivity of hydrophobic MOFs for C4 hydrocarbons is high, making them effective for direct purification of 1,3-butadiene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using [Zn2(btm)2] for 1,3-butadiene purification over conventional methods?",
+      "answer": "It allows for efficient purification at ambient temperature and pressure, avoiding high-temperature conditions that lead to undesirable polymerization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption enthalpies for C4 hydrocarbons in [Zn2(btm)2] are consistent with the breakthrough sequence observed.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the guest conformation–controlling adsorbent on the adsorption of 1,3-butadiene?",
+      "answer": "It elutes 1,3-butadiene first by inducing conformational changes in the flexible guest molecules, which weakens its adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation performances of hydrophobic MOFs for C4 hydrocarbons are negligible due to similar molecular sizes, shapes, and properties of C4 hydrocarbons.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of discrete and quasi-discrete pores in the metal-organic framework for gas separation?",
+      "answer": "They control the guest conformation to utilize the difference in guest flexibility, lowering the adsorption enthalpy for C4H6 compared with other C4 hydrocarbons.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The metal-organic framework [Zn2(btm)2] is stable and easy to synthesize with reproducible properties.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of controlling guest conformation in the purification of butadiene using [Zn2(btm)2]?",
+      "answer": "Controlling guest conformation allows for the efficient separation of butadiene from other C4 hydrocarbons by exploiting the flexibility of guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The breakthrough experiments using [Zn2(btm)2] demonstrate its ability to directly produce highly pure 1,3-butadiene from C4 hydrocarbons.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the hydrophilic pore surfaces of [Zn2(btm)2] on its adsorption properties?",
+      "answer": "The hydrophilic pore surfaces induce conformational changes in guest molecules, which is crucial for the selective adsorption and separation of 1,3-butadiene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption selectivity of [Zn2(btm)2] for unsaturated n-C4H8 and i-C4H8 molecules improves the purification performance for 1,3-butadiene.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

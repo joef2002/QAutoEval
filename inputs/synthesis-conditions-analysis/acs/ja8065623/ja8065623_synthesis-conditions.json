@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "[{Et4N}{TeFe3(CO)9Cu}]∞ ([Et4N]∞[1])",
+      "synthesis_conditions": {
+        "solvent": "THF",
+        "solvent_amount_ml": 20,
+        "reactants": [
+          "[Et4N]2[TeFe3(CO)9]",
+          "[Cu(MeCN)4][BF4]"
+        ],
+        "reactant_amounts_g": [
+          0.30,
+          0.12
+        ],
+        "reactant_molar_ratio": "1:1",
+        "temperature_C": 0,
+        "stirring_time_h": 1,
+        "washing_solvent": "deionized water",
+        "extraction_solvent": "MeCN",
+        "recrystallization_solvent": "MeCN/Et2O",
+        "yield_percent": 76,
+        "IR_nu_CO_MeCN_cm-1": [
+          2011,
+          1960,
+          1915,
+          1894,
+          1877
+        ],
+        "IR_nu_CO_Nujol_cm-1": [
+          2009,
+          1966,
+          1948,
+          1935,
+          1918,
+          1908,
+          1895,
+          1883,
+          1872
+        ]
+      }
+    },
+    {
+      "name": "[{TeFe3(CO)9Cu2}(μ-4,4'-dipyridyl)1.5]∞ (2)",
+      "synthesis_conditions": {
+        "solvent": "THF",
+        "solvent_amount_ml": 20,
+        "reactants": [
+          "[Et4N]2[TeFe3(CO)9]",
+          "[Cu(MeCN)4][BF4]",
+          "4,4'-dipyridyl"
+        ],
+        "reactant_amounts_g": [
+          0.30,
+          0.24,
+          0.09
+        ],
+        "reactant_molar_ratio": "2:4:3",
+        "temperature_C": 0,
+        "stirring_time_h": 5.5,
+        "washing_solvent": "deionized water and Et2O",
+        "extraction_solvent": "MeCN",
+        "recrystallization_solvent": "MeCN/Et2O/MeOH",
+        "yield_percent": 50,
+        "IR_nu_CO_MeCN_cm-1": [
+          2008,
+          1960,
+          1915,
+          1892,
+          1873
+        ],
+        "IR_nu_CO_Nujol_cm-1": [
+          2023,
+          1959,
+          1944,
+          1907,
+          1870,
+          1861,
+          1822
+        ]
+      }
+    },
+    {
+      "name": "[TeFe3(CO)9Cu2(MeCN)2] (3)",
+      "synthesis_conditions": {
+        "solvent": "THF",
+        "solvent_amount_ml": 20,
+        "reactants": [
+          "[Et4N]2[TeFe3(CO)9]",
+          "[Cu(MeCN)4][BF4]"
+        ],
+        "reactant_amounts_g": [
+          0.30,
+          0.35
+        ],
+        "reactant_molar_ratio": "1:3",
+        "temperature_C": 0,
+        "stirring_time_h": 5,
+        "washing_solvent": "deionized water and Hexanes",
+        "extraction_solvent": "Et2O",
+        "recrystallization_solvent": "Et2O/Hexanes",
+        "yield_percent": 70,
+        "IR_nu_CO_Et2O_cm-1": [
+          2031,
+          1997,
+          1982,
+          1948,
+          1909
+        ],
+        "1H_NMR_CDCl3_298K_ppm": 2.32,
+        "13C_NMR_CDCl3_298K_ppm": [
+          2.74,
+          115.07,
+          214.02,
+          214.11
+        ],
+        "melting_point_C": 140
+      }
+    }
+  ]
+}

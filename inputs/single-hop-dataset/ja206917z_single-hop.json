@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the metal-organic framework discussed in the text?",
+      "answer": "(NH4)4[MnCr2(ox)6]·4H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the crystal structure of the discussed compound?",
+      "answer": "P6522",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for crystal structure data collection and refinement?",
+      "answer": "Single-crystal X-ray diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proton conductivity of the compound at 295 K and 96% relative humidity?",
+      "answer": "1.1 × 10−3 S cm−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What property allows the compound to be classified as a superionic conductor?",
+      "answer": "σ value of 2.3 × 10−3 S cm−1 at 91.5% RH",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Curie temperature (Tc) of the compound?",
+      "answer": "3.0 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the compound achieve high proton conductivity?",
+      "answer": "Through a Grotthus mechanism facilitated by humidity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound ferromagnetic at room temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit both chirality and ferromagnetism?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's structure similar to β-quartz?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound contain water molecules in its structure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's magnetic susceptibility data corrected for the diamagnetism of its constituent atoms?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound's structure include hydrogen bonding?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the compound's proton conductivity be measured using a two-probe method?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ammonium cations in the compound?",
+      "answer": "They compensate for the four negative charges of the repeating unit of the bimetallic coordination network.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the compound synthesized?",
+      "answer": "By slow diffusion of ethanol in an aqueous solution containing stoichiometric amounts of MnCl2·4H2O and (NH4)3[Cr(ox)3]·3H2O.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation energy (Ea) of the ionic conductivity for the compound?",
+      "answer": "0.23 eV",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the percentage of mass loss observed in thermogravimetric analysis (TGA) for the compound?",
+      "answer": "Approximately 9%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound's structure allow for the introduction of proton carriers such as NH4+ cations?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's proton conductivity independent of humidity?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

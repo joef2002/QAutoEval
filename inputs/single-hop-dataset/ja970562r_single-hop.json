@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Synthesis, Reactivity, and Catalytic Behavior of Iron/Zinc-Containing Species Involved in Oxidation of Hydrocarbons under Gif-Type Conditions",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Bharat Singh, Jeffrey R. Long, Fabrizia Fabrizi de Biani, Dante Gatteschi, Pericles Stavropoulos",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/ja970562r",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main goal of the investigation presented in the research article?",
+      "answer": "To explore the nature and reactivity of iron- and zinc-containing species generated in hydrocarbon-oxidizing Gif-IV-type solutions and to unravel the role of metal sites in mediating dioxygen-dependent C−H activation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of solutions are used in the study for hydrocarbon oxidation?",
+      "answer": "Gif-IV-type solutions (Fe catalyst/Zn/O2 in pyridine/acetic acid (10:1 v/v))",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key compounds synthesized in the study?",
+      "answer": "[Fe3O(O2CCH3)6(py)3]·py (1), [Zn2FeII(O2CCH3)6(py)2] (2), [FeII(O2CCH3)2(py)4] (3), [FeII2(O2CCH3)4(py)3]n (4), [Zn(O2CCH3)2(py)2] (5), [Zn2(O2CCH3)4(py)2] (6), [Zn(O2CCH3)2(py)]n (7), [Zn3(O2CCH3)6(py)2] (8), [PPN][FeII(O2CCH3)3(py)] (9), [FeII(H2O)4(trans-py)2][O2CCH3]2 (10), [FeII3(O2CCH3)6(OS(CD3)2)2]n (11)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary outcome of catalytic oxidations mediated by the system 1/Zn/O2 in py/AcOH (10:1)?",
+      "answer": "The catalytic system affords product profiles which are not fully compatible with the reported outcome of analogous oxidations by hydroxyl radicals or biologically relevant high-valent iron−oxo species alone.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the intermolecular deuterium kinetic isotope effect for the oxidation of adamantane to adamantanone?",
+      "answer": "kH/kD = 2.01(12)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the active oxidant in Gif-IV-type oxidation discussed in the research article identified?",
+      "answer": "No, the nature of the active oxidant in Gif-IV-type oxidation remains largely unspecified or is a matter of debate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the implications of the research findings for understanding the mechanism of hydrocarbon oxidation?",
+      "answer": "The research findings suggest that the iron and zinc-containing species generated under Gif-IV-type conditions play a significant role in mediating dioxygen-dependent C−H activation, indicating a complex mechanism of hydrocarbon oxidation that may involve novel oxidants or disguised forms of known oxidants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

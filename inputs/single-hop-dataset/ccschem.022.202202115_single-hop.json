@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal for chemists in designing and constructing pore microenvironments?",
+      "answer": "The main goal is to create suitable pore microenvironments for selective catalytic reactions of small guest molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is used to control competitive E–Z photoisomerization and photodimerization within MOFs?",
+      "answer": "The strategy involves fine-tuning the pore microenvironments using different dicarboxylate linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of MOFs with small pores on the photoinduced E–Z isomerization?",
+      "answer": "MOFs with small pores favor the photoinduced E–Z isomerization of one encapsulated diaryl alkene substrate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the size of the pores in MOFs affect the photodimerization reaction?",
+      "answer": "MOFs with large pores prefer the photodimerization of two encapsulated alkene substrates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does high local concentration of diaryl alkene ligands play in stereoselective dimerization within MOFs?",
+      "answer": "High local concentration of diaryl alkene ligands and their preorientation within pores facilitate stereoselective dimerization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the pore engineering strategy be applied to control other photo-induced organic reactions within porous MOFs?",
+      "answer": "Yes, this pore engineering strategy is applicable to control and create pore microenvironments for other photo-induced organic reactions within porous MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photoinduced E–Z isomerization and dimerization process within MOFs stereospecific?",
+      "answer": "Yes, both reactions proceed stereospecifically.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the pore engineering strategy allow for broad functional group compatibility in the reactions?",
+      "answer": "Yes, the reactions show broad functional group compatibility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the photoinduced E–Z isomerization and dimerization reactions within MOFs limited by the substituent groups and their positions?",
+      "answer": "No, the transformation had a broad substrate scope without much limit to the substituent groups and their positions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is sunlight sufficient to complete the dimerization process in the studied MOFs?",
+      "answer": "Yes, the relatively low concentration of UV radiant energy present in sunlight was nevertheless sufficient to complete the dimerization.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the pore size of MOFs depend on the type of dicarboxylate linker used?",
+      "answer": "Yes, the pore size of MOFs can be tuned by using different dicarboxylate linkers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the photodimerization products be precipitated by destruction of the MOF in a basic solution?",
+      "answer": "Yes, cyclobutane derivatives were precipitated by destruction of the MOF in a basic solution.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the resulting H2BDC from the photoreaction process photoinert?",
+      "answer": "Yes, the resulting H2BDC showed no change, indicating the square-like windows were photoinert.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the pore engineering strategy provide a promising protocol for the solid-state synthesis of cyclobutane and cis arene alkene derivatives?",
+      "answer": "Yes, this strategy provides a promising protocol for the solid-state synthesis of cyclobutane and cis arene alkene derivatives with excellent selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the competition of photoinduced isomerization vs photodimerization governed by monomer or dimer encapsulation?",
+      "answer": "Yes, the competition can be governed by monomer or dimer encapsulation, which is, in turn, pore size-dependent.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the photodimerization reactions within MOFs regio- and stereo-selective?",
+      "answer": "Yes, good regio- and stereo-selectivity were achieved from functionalized (E)-X starting materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the photodimerization process within MOFs require extra energy?",
+      "answer": "No, these sunlight-driven reactions seem mild and clean and need no extra energy, which meets the green and sustainable chemistry synthesis criteria.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the photodimerization of unencapsulated substrates be achieved in the solid state?",
+      "answer": "No, the failure to achieve dimerization of unencapsulated substrates may be attributed to the poor alignment of neighbouring molecules in the solid state.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photodimerization process within MOFs dependent on the alignment of neighbouring molecules?",
+      "answer": "Yes, the formation of photodimeric products is highly dependent on the alignment of neighbouring molecules in the solid state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the photodimerization reactions within MOFs clean and sustainable?",
+      "answer": "Yes, the sunlight-driven photodimerization reactions within MOFs are clean and sustainable, meeting green chemistry criteria.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

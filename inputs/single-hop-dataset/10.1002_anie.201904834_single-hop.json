@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of guest solvents in the crystal voids according to the study?",
+      "answer": "The presence or absence of guest solvents in the crystal voids modulates the patterning of the cyclobutane rings in metal–organic frameworks under UV light.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction is employed for chemical patterning in MOFs under UV light?",
+      "answer": "[2++2] cycloaddition reaction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What patterns of cyclobutane rings were generated in MOFs 3 and 5?",
+      "answer": "ABAB and AABBAABB patterns were generated in MOFs 3 and 5, respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOF with dimethylformamide in its lattice under UV light?",
+      "answer": "The MOF undergoes 100% photoreaction, but the photoproduct contains broken chains.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of dimethylacetamide (DMA) in MOF 5 affect the photoreaction?",
+      "answer": "The presence of DMA in MOF 5 results in only 50% of the bpe pairs being converted to cyclobutane rings.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the outcome of the photoreaction in MOF 1 under UV light?",
+      "answer": "Complete conversion of the olefins to cyclobutane derivatives was observed.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the [2++2] cycloaddition reaction in the study?",
+      "answer": "It allows for the chemical patterning of MOFs at the molecular level, representing a step forward in crystal engineering.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the single crystallinity of MOF 1 preserved after the photoreaction?",
+      "answer": "DMF molecules from the lattice bond to CdII, preventing the collapse of the single crystallinity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What effect does removing the lattice guest solvent from MOF 1 have?",
+      "answer": "It results in the desolvated product 3, with the single-crystalline nature being preserved.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of guest molecules in voids affect photoreactivity?",
+      "answer": "It influences the outcome of the corresponding photoproducts, leading to different cyclobutane ring patterns.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of the [2++2] cycloaddition reaction in MOF 1?",
+      "answer": "It leads to a quantitative photoreaction, producing a photoproduct with broken ladder structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural transformation observed in MOF 1 after UV irradiation?",
+      "answer": "The structure transforms from a wavy ladder structure to a broken structure while maintaining the cds topology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the [2++2] cycloaddition reaction used for micro- and nanopatterning?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of dimethylformamide always result in 100% photoreaction in MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the single crystallinity of MOF 1 compromised after the photoreaction?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the presence of guest solvents in MOFs voids lead to different chemical patterning outcomes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the [2++2] cycloaddition reaction limited to 2D surfaces?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of dimethylacetamide in MOF 5 prevent complete photoreaction?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the structural integrity of MOFs always preserved after photoreaction?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study demonstrate that MOFs can undergo [2++2] cycloaddition reactions in a single-crystal-to-single-crystal manner?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

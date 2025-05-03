@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound synthesized?",
+      "answer": "C10H26N2O18Zn2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the single crystal X-ray structure analyses?",
+      "answer": "Single crystal X-ray diffraction (SCXRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the sorption measurements performed?",
+      "answer": "Measurements were performed after drying samples at 80 °C under vacuum over 12 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of 1·6H2O porous?",
+      "answer": "No, 1·6H2O is assumed to be nonporous.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound show complete selectivity in its adsorption of EtOH over MeCN and MeCHO?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bonds in the selective sorption properties of MOFs?",
+      "answer": "Hydrogen bonds work selectively for specific molecules having hydrogen-bonding functional groups, allowing MOFs to selectively bind to these hydrogen-bonding guests.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the MOF recognize hydroxyl groups of protic guests?",
+      "answer": "Yes, the MOF can recognize hydroxyl groups of protic guests by forming multiple hydrogen bonds with the hydroxyl groups.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of 1·6H2O?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the MOF able to adsorb larger hydroxylic guests than EtOH?",
+      "answer": "No, 1 does not adsorb hydroxylic guests that are larger than EtOH.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the compound's ability to selectively adsorb EtOH over MeCN and MeCHO?",
+      "answer": "This demonstrates the compound's unique ability for hydroxyl group recognition, allowing for the separation of protic polar solvents from aprotic solvents based on their proticity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the heating rate during the thermogravimetry analysis?",
+      "answer": "5 °C / min",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF structure remain stable up to 300 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 1,4-diaminobutane in the MOF structure?",
+      "answer": "1,4-diaminobutane (dab) acts as a counterion in the voids of the honeycomb framework, contributing to the formation of hydrogen bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the MOF synthesized using a hydrothermal method?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the void volume of the host of 1·4MeOH estimated by PLATON?",
+      "answer": "40.8%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF exhibit a gate-open type absorption behavior?",
+      "answer": "Yes, the absorption behavior of this MOF is recognized as a gate-open type, with a closed–open structural transformation that enhances selectivity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the compound's thermal stability up to 300 °C?",
+      "answer": "The thermal stability up to 300 °C indicates that the MOF's framework is robust and can maintain its structure under high temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of 1·2H2O?",
+      "answer": "Triclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the MOF adsorb small gaseous molecules like H2 and N2?",
+      "answer": "False, anhydrate 1 did not show any adsorption behavior toward small gaseous molecules such as H2 and N2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of oxalate ions in the MOF structure?",
+      "answer": "Oxalate ions bridge zinc ions to form an infinite two-dimensional layer framework, contributing to the MOF's structure and hydrogen-bonding capabilities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

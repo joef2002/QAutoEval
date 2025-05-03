@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound discussed in the article?",
+      "answer": "C78 H180 Cu6 Mn4 N12 Na4 O96",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the compound?",
+      "answer": "P4/mmm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature (in K) used for the thermogravimetric analysis?",
+      "answer": "125",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound crystalline or amorphous according to the article?",
+      "answer": "Crystalline",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound exhibit selective gas and vapor sorption behavior?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical temperature for the ferromagnetic phase transition of iso1?",
+      "answer": "Below 2.0 K",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's structure described as having a pillared square/octagonal layer structure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for the preparation of the compound?",
+      "answer": "Slow diffusion of aqueous solutions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound have a higher selectivity for CO2 over CH4?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sodium ions in the compound's structure?",
+      "answer": "They are countercations weakly bound to the carboxylate and carbonyl oxygen atoms from the oxamato groups",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's magnetic behavior influenced by the adsorption of guest molecules?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula unit for the compound according to the article?",
+      "answer": "[Na(H2O)3.25]4{Mn4[Cu2(Me3mpba)2(H2O)3.33]3} · 37 H2O",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound's structure allow for the separation of azeotropic mixtures?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the percentage of potential void space per unit cell volume for H2O@iso1?",
+      "answer": "Approximately 60%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's structure topologically identical to its ancestor?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for the magnetic measurements of the compound?",
+      "answer": "Quantum Design SQUID magnetometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of crystallization water molecules in the compound's structure?",
+      "answer": "They fill the small square and large octagonal pores of the open-framework structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound exhibit reversible solvatomagnetic switching?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the compound's selectivity in the separation of small gas molecules?",
+      "answer": "CO2 over CH4",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's magnetic ordering temperature influenced by the nature of the guest molecule?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

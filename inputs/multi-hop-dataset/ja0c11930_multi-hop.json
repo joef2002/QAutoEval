@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the highest NH3 uptake capacity among the MFM-300 MOFs studied?",
+            "answer": "MFM-300(VIV) exhibits the highest NH3 uptake capacity of 17.3 mmol g\u922d? at 273 K and 1 bar among the MFM-300 MOFs studied.",
+            "type": "factual"
+        },
+        {
+            "question": "Which MFM-300 MOF shows the maximum retention of NH3 under dynamic breakthrough conditions despite not having the highest isothermal uptake?",
+            "answer": "While MFM-300(VIV) exhibits the highest isothermal NH3 uptake, MFM-300(VIII) demonstrates the maximum retention of NH3 under dynamic breakthrough conditions.",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to determine the preferred binding domains of ND3 in the MFM-300 MOFs?",
+            "answer": "Neutron powder diffraction (NPD) was used to determine the preferred binding domains of ND3 in MFM-300(M) (M = In, VIII, Fe, VIV).",
+            "type": "factual"
+        },
+        {
+            "question": "How many distinct ND3 binding sites were found in MFM-300(Fe) compared to MFM-300(M) (M = In, VIII)?",
+            "answer": "Three distinct ND3 binding sites were found in MFM-300(Fe), compared to two sites in MFM-300(M) (M = In, VIII), due to the higher ND3 loading in the MFM-300(Fe) experiment.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the main difference in the adsorbed species between MFM-300(VIV) and the other MFM-300 MOFs upon ND3 loading?",
+            "answer": "Unlike MFM-300(M) (M = In, Fe, VIII) where adsorbed ND3 molecules remain chemically intact, in MFM-300(VIV) a N2D4 molecule is identified along with a partially protonated ND4+ species.",
+            "type": "factual"
+        },
+        {
+            "question": "What experimental techniques were used to investigate the host-guest charge transfer between NH3 and MFM-300(VIV)?",
+            "answer": "EPR spectroscopy, in situ synchrotron FTIR microspectroscopy, and in situ synchrotron single-crystal XRD were used to investigate the host-guest charge transfer between NH3 and MFM-300(VIV).",
+            "type": "factual"
+        },
+        {
+            "question": "What is the oxidation state of the V center in bare MFM-300(VIV) and how does it change upon NH3 loading?",
+            "answer": "The oxidation state of the V center in bare MFM-300(VIV) is +4 based on EPR and bond valence sum calculations. Upon sufficient loading of NH3, the V center gets reduced to +3 oxidation state, indicating a host-guest charge transfer.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How do the inelastic neutron scattering spectra of adsorbed NH3 in MFM-300(Al) compare to those of solid NH3?",
+            "answer": "Compared to solid NH3, the INS spectra of adsorbed NH3 in MFM-300(Al) show a red-shift and broadening of peaks in the translational, librational and rocking regions. This is attributed to the isolated hydrogen bonding environment of NH3 in the MOF compared to the extensive 3D hydrogen bonding network in solid NH3.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the significance of the single crystal X-ray diffraction studies on NH3-loaded MFM-300(VIV) at different NH3 loadings?",
+            "answer": "The single crystal XRD studies show that the charge transfer between adsorbed NH3 and the VIV center to form N2H4 only occurs above a certain NH3 loading threshold. This suggests sufficient occupancy of NH3 close to the metal sites is needed to initiate the redox reaction.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Why does MFM-300(VIV) show an increase in both NH3 capacity and residual NH3 over multiple adsorption-desorption cycles unlike the other MFM-300 MOFs?",
+            "answer": "The redox-active VIV center in MFM-300(VIV) oxidizes some of the adsorbed NH3 to N2H4 which remains strongly bound and accumulates in the MOF over cycles. This increases the residual NH3 and also enhances the adsorption capacity in subsequent cycles, unlike the redox-inactive MFM-300 analogs.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the proposed reason for the discrepancy between the isothermal and dynamic breakthrough NH3 capacities of the MFM-300 MOFs?",
+            "answer": "The discrepancy is attributed to the fundamentally different nature of the isothermal and breakthrough experiments. Isotherms are measured under equilibrium conditions with pure NH3, while breakthrough occurs under flow with ppm levels of NH3. Therefore, both kinetic and thermodynamic factors influence the dynamic uptake.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How do the isosteric heats of adsorption of NH3 in the different MFM-300 MOFs compare?",
+            "answer": "The isosteric heats of NH3 adsorption are in the range of 30-65 kJ/mol for all the MFM-300 MOFs studied, with MFM-300(Cr) having the highest values between 35-65 kJ/mol.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the main advantage of using inelastic neutron scattering to study the binding dynamics of adsorbed NH3 in the MFM-300 MOFs?",
+            "answer": "INS is uniquely sensitive to the dynamics of hydrogen atoms and can readily distinguish the vibrational modes of the adsorbed NH3 molecules and the MOF host. The experimental INS spectra can also be accurately modeled using DFT calculations to assign all the observed peaks.",
+            "type": "reasoning"
+        },
+        {
+            "question": "MFM-300(VIV) undergoes a host-guest charge transfer with NH3 to form N2H4 while MFM-300(VIII) does not.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "The single crystal XRD studies show that the oxidation state of V changes from +3 to +4 upon NH3 loading in MFM-300(VIV).",
+            "answer": "False. The oxidation state changes from +4 in bare MFM-300(VIV) to +3 upon sufficient NH3 loading.",
+            "type": "true_false"
+        },
+        {
+            "question": "The dynamic breakthrough NH3 capacity is always lower than the isothermal uptake capacity for the MFM-300 MOFs.",
+            "answer": "False. While this is true for MFM-300(VIV), the dynamic capacity is actually higher than the isothermal uptake for MFM-300(VIII), showing the influence of kinetic factors.",
+            "type": "true_false"
+        },
+        {
+            "question": "Neutron powder diffraction shows that adsorbed ND3 molecules remain chemically intact in all the MFM-300 MOFs studied.",
+            "answer": "False. While ND3 remains intact in MFM-300(M) (M = In, Fe, VIII), in MFM-300(VIV) some ND3 is oxidized to N2D4 and ND4+.",
+            "type": "true_false"
+        },
+        {
+            "question": "The INS spectra of adsorbed NH3 in MFM-300(Al) show sharper peaks compared to solid NH3 due to the isolated NH3 molecules in the MOF pores.",
+            "answer": "False. The INS peaks for adsorbed NH3 are actually broader than solid NH3 because the isolated NH3 molecules in the MOF have uncorrelated vibrations compared to the in-phase vibrations in the solid.",
+            "type": "true_false"
+        },
+        {
+            "question": "MFM-300(Fe) and MFM-300(VIV) show higher stability to humid NH3 vapor compared to MFM-300(Cr) and MFM-300(VIII).",
+            "answer": "False. MFM-300(Cr) and MFM-300(VIII) retain crystallinity after humid NH3 exposure while MFM-300(Fe) and MFM-300(VIV) show some degradation, indicating the metal center influences stability even in MOFs with saturated coordination.",
+            "type": "true_false"
+        },
+        {
+            "question": "The N2H4 molecules formed in MFM-300(VIV) upon NH3 adsorption can be extracted and detected in the filtrate using a colorimetric method.",
+            "answer": true,
+            "type": "true_false"
+        }
+    ]
+}

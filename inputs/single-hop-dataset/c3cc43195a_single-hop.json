@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for the enantiopure cyanido-bridged ferrimagnets synthesized in the study?",
+      "answer": "{[MnII(R-/S-mpm)2]2[NbIV(CN)8]}⋅4H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the magnetic ordering occur for the synthesized ferrimagnets?",
+      "answer": "23.5 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the crystal structure determination of the synthesized ferrimagnets?",
+      "answer": "Single-crystal XRD",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the chiral mpm ligand in the synthesis of the ferrimagnets?",
+      "answer": "The chiral mpm ligand is used to introduce chirality into the MnII–[NbIV(CN)8]4 system, resulting in enantiopure ferrimagnets.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic characteristics of the ferrimagnets are independent of their chirality.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What spectroscopy techniques were used to investigate the natural and magnetic optical activity of the synthesized materials?",
+      "answer": "UV-Vis, NCD, and MCD spectroscopy",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of the ferrimagnets was performed under an air atmosphere.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the TC value in the context of the synthesized ferrimagnets?",
+      "answer": "The TC value represents the ordering temperature at which the ferrimagnets transition to a magnetically ordered state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized ferrimagnets show both natural optical activity (NOA) and magnetic optical activity (MOA).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the external magnetic field in the study of magnetic optical activity (MOA)?",
+      "answer": "The external magnetic field is applied to break time-reversal symmetry, which is necessary for observing MOA.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic circular dichroism (MCD) spectra were measured without applying an external magnetic field.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a strong enhancement in the MCD effects below 30 K indicate about the ferrimagnets?",
+      "answer": "It indicates a phase transition to the ferrimagnetic state, enhancing the MCD effects.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of the ferrimagnets involved the use of a racemic mixture of (R)- and (S)-mpm.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the purity of the bulk samples used in the measurements?",
+      "answer": "Powder XRD",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis under an Ar atmosphere affect the yield and purity of the ferrimagnets?",
+      "answer": "Synthesis under an Ar atmosphere improves the yield and purity of the ferrimagnets compared to synthesis under air.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized ferrimagnets are expected to exhibit significant sensitivity to external stimuli such as temperature and light.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected outcome of implementing chiral radicals into coordination networks, according to the study?",
+      "answer": "The implementation of chiral radicals is expected to strengthen magnetic interactions and possibly increase TC in MnII–NbIV–CN systems.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study reports the simultaneous investigation of NCD and MCD effects for a pair of enantiopure magnets.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'enantiopure' imply about the synthesized ferrimagnets?",
+      "answer": "Enantiopure implies that the synthesized ferrimagnets exist in either the right-handed or left-handed form, but not a mixture of both.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study explores the non-linear effect of magnetization-induced second harmonic generation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

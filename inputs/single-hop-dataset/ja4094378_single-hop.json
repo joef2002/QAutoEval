@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the MOF structure discussed?",
+      "answer": "[GdCu(DOTP)Cl]·4.5H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum r1 relaxivity value of nanoCAMOF-1 at 40 MHz?",
+      "answer": "15 mM–1·s–1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the relaxivity of nanoCAMOF-1 increase with temperature?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Cu(II) ions in the formation of CAMOF-1?",
+      "answer": "Cu(II) ions are key actors in the formation of the MOF structure, chelated inside the cage formed by DOTP.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is nanoCAMOF-1 stable in physiological saline solution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the maximum potential concentration of free Gd(III) ions?",
+      "answer": "Xylenol orange UV-VIS method",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of nanoCAMOF-1 on the viability of HepG2 and MCF7 cells?",
+      "answer": "Both cells showed good viability up to 200 μM nanoCAMOF-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the relaxivity of nanoCAMOF-1 remain constant over a wide pH range?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using DOTP in the synthesis of CAMOF-1?",
+      "answer": "DOTP is used for its strong chelating capabilities and to limit free Gd(III) leaching.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the BET surface area of CAMOF-1?",
+      "answer": "110 m2·g–1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the relaxivity of nanoCAMOF-1 affected by the presence of surfactants or thickeners?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to confirm the microporosity of CAMOF-1?",
+      "answer": "CO2 gas adsorption studies",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can nanoCAMOF-1 be used as a contrast agent (CA) for MRI?",
+      "answer": "Yes, due to its high relaxivity and stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of CAMOF-1 pH-dependent?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Gd(III) ions in nanoCAMOF-1?",
+      "answer": "Gd(III) ions contribute to the relaxivity and are coordinated by phosphonate groups from DOTP units.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does nanoCAMOF-1 show significant toxicity due to leakage of free Gd(III) and Cu(II) ions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of pH on the crystal size of CAMOF-1?",
+      "answer": "The crystal size is affected by pH, with macrocrystals formed at low pHs and nanocrystals at high pHs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the primary advantage of using nanoMOFs as contrast agents?",
+      "answer": "They can carry high Gd(III) concentrations per nanocrystal unit.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are nanoCAMOF-1 nanowires uniform in size?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of temperature on the formation of CAMOF-1?",
+      "answer": "Temperature affects the crystal size, with high temperatures favoring macrocrystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

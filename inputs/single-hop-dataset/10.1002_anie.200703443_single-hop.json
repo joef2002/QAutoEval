@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research presented in the text?",
+      "answer": "The main focus is on chiral symmetry breaking by manipulating statistical fluctuation in crystallization to synthesize homochiral coordination polymers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is homochirality a significant topic in biology and materials science?",
+      "answer": "Homochirality is significant because homochiral materials are useful for applications like enantioselective separation, nonlinear optics, catalysis, and sensor technology, and the origin of homochirality is a major debate in biology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of [{Cu(succinate)(4,4’-bipyridine)}n]·(4 H2O)n resulted in optically active conglomerates.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does ammonia play in the synthesis of coordination polymers?",
+      "answer": "Ammonia acts as a competing reagent that competes with the polymer-forming ligands for the metal ions, controlling the availability of the metal ion for polymer formation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the concentration of ammonia affect the crystallization of coordination polymers?",
+      "answer": "A high concentration of ammonia impedes the formation of the polymer, while lowering ammonia concentration facilitates it, affecting the rate of crystallization and the enantiomeric excess of the product.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis approach described can only produce coordination polymers in racemic forms.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of controlling the pH value and ammonia evaporation rate in the synthesis process?",
+      "answer": "Controlling the pH value and ammonia evaporation rate is critical for achieving high enantiomeric excess values in the product, as they influence the number of primary nuclei and the rate of crystallization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The handedness of the crystals in a particular cluster can be predicted beforehand.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome when the synthesis is carried out using pH 9.2 solutions with slow ammonia evaporation?",
+      "answer": "The outcome is the production of a limited number of homochiral crystal clusters, with each bulk sample being CD active, indicating chiral symmetry breaking.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Fast evaporation of ammonia always results in a high enantiomeric excess.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the CD activity of bulk samples indicate about the crystallization outcome?",
+      "answer": "CD activity in bulk samples indicates chiral symmetry breaking, as it suggests the presence of enantiomerically pure crystals or a high enantiomeric excess.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of homochiral coordination polymers is only applicable to a specific type of polymer.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the initial pH value of the reaction mixture influence the synthesis outcome?",
+      "answer": "A high initial pH value favors the formation of NH3, which can influence the ammonia content and thus affect the crystallization behavior and enantiomeric excess of the product.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis strategy described in the text has been successfully applied to multiple coordination polymers.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of achieving a homochiral product in the context of the research?",
+      "answer": "Achieving a homochiral product is significant because it demonstrates the ability to break chiral symmetry and synthesize enantiomerically pure materials, which are important for applications in chemical and pharmaceutical industries.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of a competing ligand in the reaction mixture has no impact on the kinetics of product crystallization.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'homochiral' refer to in the context of this research?",
+      "answer": "In the context of this research, 'homochiral' refers to a state where a product or material consists of molecules of only one chiral form, either left- or right-handed.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the statistical argument of coin flipping relate to the nucleation of helical coordination polymers?",
+      "answer": "The statistical argument of coin flipping is used as an analogy to explain how limiting the number of nucleation events can skew the probability towards forming primary nuclei of one particular enantiomeric form, similar to how a single coin toss has a 100% chance of landing on one side.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research presented provides a definitive explanation for the origin of homochirality in nature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications do homochiral materials have according to the research?",
+      "answer": "Homochiral materials are useful for applications such as enantioselective separation, nonlinear optics, catalysis, and sensor technology.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

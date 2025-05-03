@@ -1,0 +1,56 @@
+{
+  "materials": [
+    {
+      "name": "cyano-bridged SCM complex [Mn(TPP)][Mn(TPP)(CN)2]",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Sodium cyanide",
+              "amount": "19.6 mg",
+              "molarity": "0.4 mmol"
+            },
+            {
+              "name": "[MnTPP(H2O)2]Cl",
+              "amount": "73.9 mg",
+              "molarity": "0.1 mmol"
+            },
+            {
+              "name": "tris(2-pyridylmethyl)amine",
+              "amount": "29 mg",
+              "molarity": "0.1 mmol"
+            },
+            {
+              "name": "manganese(II) perchlorate hexahydrate",
+              "equivalent": "equiv"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "methyl cyanide",
+              "volume": "10 mL"
+            }
+          ],
+          "conditions": [
+            {
+              "label": "temperature",
+              "detail": "room temperature"
+            },
+            {
+              "label": "environment",
+              "detail": "dark place"
+            },
+            {
+              "label": "time",
+              "detail": "several days"
+            }
+          ],
+          "product_collection_method": "evaporation",
+          "product_form": "Black plate-shaped crystals",
+          "yield": "33%"
+        }
+      ]
+    }
+  ]
+}

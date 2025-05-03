@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What method was used to grow single crystals of [(CH3)2NH2]Fe(HCOO)3?",
+      "answer": "Hydrothermal method",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the hydrothermal synthesis reactor heated for growing [(CH3)2NH2]Fe(HCOO)3 crystals?",
+      "answer": "140 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "For how many days were the crystals allowed to crystallize by slow evaporation at room temperature?",
+      "answer": "5 days",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What device was used to measure the magnetic properties of the samples?",
+      "answer": "Superconducting quantum interference device magnetometer (Quantum Design MPMS)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the poling electric field used during the pyroelectric current measurement?",
+      "answer": "5.4 kV/cm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the electric polarization along [012] obtained?",
+      "answer": "By integrating the pyroelectric current with time",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dielectric permittivity at 15 K affected by the magnetic field?",
+      "answer": "No, the dielectric permittivity at 15 K decreases monotonically with increasing magnetic field.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the M-H curve at 15 K show resonant quantum tunneling of magnetization?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What confirms the perovskite structure and phase purity of the prepared samples?",
+      "answer": "The powder X-ray diffraction pattern at room temperature",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates a ferroelectric transition at 164 K?",
+      "answer": "The sharp pyroelectric peak",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the dielectric permittivity measured along the [012] direction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the synthesis process involve washing the crystals with ethanol?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the value of electric polarization an average of positive and negative poling?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Were the crystals stored in an Ar protective atmosphere after synthesis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the constant rate of warming during the pyroelectric current measurement?",
+      "answer": "2 k/min",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What radiation was used for the X-ray diffraction measurements?",
+      "answer": "Cu Kα1 radiation (λ =1.5406 Å)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the dielectric permittivity at 15 K measured in a Cryogen-free Superconducting Magnet System?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the synthesis process involve removing the supernatant to a round-bottom flask for crystallization?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the sample poled in both positive and negative electric fields during the pyroelectric current measurement?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used to measure the dielectric permittivity?",
+      "answer": "An Andeen Hagerling 2700 capacitance bridge",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

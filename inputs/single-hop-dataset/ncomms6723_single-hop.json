@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of synthesizing metal-organic frameworks (MOFs) with high stability?",
+      "answer": "The main goal is to meet the sustainability requirement for practical applications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why has it been difficult to synthesize chemically ultra-stable, highly porous MOFs in the form of crystalline solids?",
+      "answer": "Because controlling the metal-containing nodes and therefore the topology of the MOF is challenging through conventional one-pot reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What synthetic route is presented in the text for preparing highly crystalline and extremely robust MOFs?",
+      "answer": "A kinetically tuned dimensional augmentation synthetic route.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many different iron-containing MOFs were obtained through the presented synthetic route?",
+      "answer": "34 different iron-containing MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using [Fe2M(m3-O)(CH3COO)6] as the starting material in the synthesis of MOFs?",
+      "answer": "It allows for a pure ligand substitution process and avoids unpredictable in situ formation of inorganic building blocks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-250(Fe2Co) exhibits high volumetric uptake of hydrogen and methane.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of Fe-MOFs using preformed clusters?",
+      "answer": "Acetic acid acts as a competing reagent to slow down the rate of bridging ligand attachment by increasing its concentration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of the [Fe2M(m3-O)] building block is maintained in all synthesized Fe-MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect of using mixed ligands in the synthesis of Fe-MOFs?",
+      "answer": "It allows for the synthesis of MOFs with mixed ligands more easily and enables the growth of single crystals instead of powders.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-250(Fe2Co) remains stable in water and aqueous solutions with a wide range of pH values.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenge does the synthesis of MOFs with high-valence metal ions, such as Fe3+, pose?",
+      "answer": "The strong electrostatic interaction between the metal nodes and organic linkers makes it difficult to control the substitution and dissociation balance, often resulting in long-range disordered products.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The kinetically tuned dimensional augmentation strategy allows for the synthesis of MOFs with distinct structural features.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of ligand functionality on the substitution process in the synthesis of Fe-MOFs?",
+      "answer": "Ligands with bulky groups or specific symmetries can prevent complete substitution on the [Fe2M(m3-O)] cluster, leading to frameworks with reduced connectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The concentration of acetic acid used in the synthesis of Fe-MOFs is an indication of the frameworks' free energy of formation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What makes PCN-250(Fe2Co) a viable candidate for natural gas storage for automotive applications?",
+      "answer": "Its high gas uptake, extraordinary stability, and excellent scalability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Fe-MOFs using preformed clusters eliminates the interference from side reactions generating different inorganic building blocks.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of ligand symmetry and steric hindrance on the connectivity of the [Fe2M(m3-O)] cluster in the synthesis of Fe-MOFs?",
+      "answer": "It can lead to partial substitution on the [Fe2M(m3-O)] cluster, resulting in frameworks with reduced connectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The kinetically tuned dimensional augmentation strategy enables the synthesis of Fe-MOFs with preserved metal cluster cores.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the kinetically tuned dimensional augmentation strategy address the challenges in synthesizing chemically stable MOFs?",
+      "answer": "By using preformed metal clusters as starting materials and acetic acid as a competing reagent, it allows for controlled ligand substitution and facilitates defect reparation and structure reorganization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The kinetically tuned dimensional augmentation strategy has been successful in synthesizing large single crystals of Fe-MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

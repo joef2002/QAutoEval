@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for MOF-14?",
+      "answer": "Cu3(BTB)2(H2O)3z(DMF)9(H2O)2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the diameter of the large pores in MOF-14?",
+      "answer": "16.4 angstroms",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to pattern surface free energies inside microchannel networks?",
+      "answer": "Combining multistream liquid laminar flow and self-assembled monolayer (SAM) chemistry",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the P-minimal surface in the structure of MOF-14?",
+      "answer": "It partitions space into two interpenetrating labyrinths, each consisting of six orthogonal channels meeting at sites of a primitive cubic lattice.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does MOF-14 maintain its structural integrity in solution?",
+      "answer": "Guest exchange studies indicate that MOF-14 maintains its structural integrity in solution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum pressure determined by in the surface-directed liquid flow inside microchannels?",
+      "answer": "The maximum pressure is determined by the surface free energy of the liquid, the advancing contact angle of the liquid on the hydrophobic regions, and the channel depth.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to MOF-14 under 1025 torr at room temperature after 40 hours?",
+      "answer": "A weight loss of 38.5% was observed, equivalent to the loss of virtually all guests.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are the pores in MOF-14 considered exceptionally large?",
+      "answer": "Because a sphere 16.4 Å in diameter can fit inside each cavity, which is substantially larger than that of noninterpenetrated MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the interweaving structure of MOF-14 contribute to its stability?",
+      "answer": "The interweaving allows mutual reinforcement of the exceptionally large BTB moieties, which alone would be insufficiently rigid to sustain an open framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the gas sorption isotherms for MOF-14?",
+      "answer": "They confirm the rigidity and permanent porosity of the evacuated framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis of MOF-14 involve copper(II) nitrate?",
+      "answer": "Copper(II) nitrate reacts with H3BTB in a solvent mixture to produce MOF-14.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the virtual walls in the microchannel networks?",
+      "answer": "They confine liquid flow to hydrophilic pathways, creating a large gas-liquid interface.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MOF-14 stable in air?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MOF-14 lose its structural integrity when immersed in an organic solvent?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the pores in MOF-14 smaller than those in MOF-5?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can MOF-14 sorb voluminous amounts of gases and organic solvents reversibly?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the evacuated MOF-14 unstable at temperatures below 250°C?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the gas sorption isotherms for MOF-14 show hysteresis upon desorption of gases from the pores?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the surface-directed liquid flow technique used to create pressure-insensitive switches inside channel networks?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MOF-14 have a smaller pore volume compared to the most porous crystalline zeolites?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

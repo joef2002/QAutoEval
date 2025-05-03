@@ -1,0 +1,64 @@
+{
+  "QAs": [
+    {
+      "question": "What is the main focus of the study described in the manuscript?",
+      "answer": "The main focus of the study is the cooperative adsorption of carbon disulfide (CS2) in diamine-appended metal–organic frameworks (MOFs), specifically examining the adsorption mechanism, selectivity, and reversibility of CS2 adsorption in these frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What materials were studied for the adsorption of carbon disulfide?",
+      "answer": "Diamine-appended metal–organic frameworks (MOFs) based on Mg2(dobpdc), Mn2(dobpdc), and Zn2(dobpdc) were studied for the adsorption of carbon disulfide (CS2).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the adsorption of CS2 in the MOFs characterized?",
+      "answer": "The adsorption of CS2 in the MOFs was characterized using a combination of adsorption isotherms, FTIR analyses, X-ray diffraction studies, and spectroscopic characterizations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature of the adsorption mechanism was highlighted in the study?",
+      "answer": "The study highlighted a cooperative chemical adsorption mechanism that involves the insertion of CS2 into metal–amine bonds, coupled with proton transfer, leading to the formation of electrostatically paired ammonium dithiocarbamate chains.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study find that all diamine-appended MOFs showed reversible adsorption of CS2?",
+      "answer": "No, the study found that only the Mg-based MOF (mm-2–Mg2(dobpdc)) showed reversible adsorption of CS2, while adsorption in the Mn and Zn analogs was irreversible.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the cooperative adsorption mechanism specific only to carbon disulfide?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the diamine-appended MOFs selectively adsorb CS2 in the presence of water?",
+      "answer": "Yes, the study demonstrated that mm-2–Mg2(dobpdc) can selectively adsorb CS2 even when fully saturated with water, indicating the chemical specificity of the cooperative adsorption mechanism.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was a significant finding regarding the coordination chemistry of CS2 in the study?",
+      "answer": "A significant finding was the observation of an unprecedented dithiocarbamate coordination mode in the MOFs, which is crucial for the reversibility of CS2 adsorption in mm-2–Mg2(dobpdc).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study propose immediate industrial application of the diamine-appended MOFs for CS2 capture?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were mentioned regarding the performance of breakthrough experiments with CS2?",
+      "answer": "The study mentioned challenges such as the toxicity and corrosive nature of CS2, safety concerns, and potential damage to specialized instrumentation as reasons for not performing breakthrough experiments with CS2.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

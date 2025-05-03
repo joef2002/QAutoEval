@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the nanoporous metal-organic framework discussed?",
+      "answer": "Fe(bpe)2(NCS)2·3(acetone)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range does the two-step spin transition occur in SCOF-4(Ac)?",
+      "answer": "65-155 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of acetone guest molecules on the spin transition of SCOF-4(Ac)?",
+      "answer": "The presence of acetone guest molecules makes the two-step spin transition sensitive.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural phase transition is associated with the spin transition in SCOF-4(Ac)?",
+      "answer": "From tetragonal (P4̅21c) to orthorhombic (P212121)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the characteristic T(LIESST) value for SCOF-4(Ac)?",
+      "answer": "52 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the thermal trapping of a metastable state observed in SCOF-4(Ac)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SCOF-4(Ac) exhibit a light-induced excited spin state trapping (LIESST) effect?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bpe ligand in SCOF-4(Ac)?",
+      "answer": "Bpe acts as a bridging ligand linking the iron(II) centers into a multidimensional network.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can SCOF-4(Ac) undergo reversible desorption and resorption of acetone?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Ea value calculated from photomagnetism kinetics in SCOF-4(Ac)?",
+      "answer": "The Ea value indicates the apparent activation energy for the LIESST effect, suggesting low cooperativity in the system.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the spin crossover in SCOF-4(Ac) influenced by the presence of guest molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to SCOF-4(Ac) when it is heated at 90°C under vacuum?",
+      "answer": "It undergoes desorption to form SCOF-4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of rapid quenching on SCOF-4(Ac)?",
+      "answer": "Rapid quenching leads to the thermal trapping of a metastable state with high-spin character.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structural phase transition in SCOF-4(Ac) occur before the magnetic evidence of spin crossover?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the angle of interpenetration (θ) in the structural analysis of SCOF-4(Ac)?",
+      "answer": "The angle of interpenetration relates to the difference between the a and b lattice parameters, affecting the pore structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the spin crossover behavior of SCOF-4(Ac) history-dependent?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Ea value in the context of SCOF-4(Ac)'s photomagnetic properties?",
+      "answer": "The Ea value helps to understand the energy barrier for the relaxation of the photoexcited state, indicating the cooperativity level.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can SCOF-4(Ac) be classified as a two-step SCO system where a structural phase transition accompanies SCO?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of desolvation on the spin crossover properties of SCOF-4(Ac)?",
+      "answer": "Desolvation leads to the loss of spin crossover behavior, indicating the importance of guest molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the SCO behavior of SCOF-4(Ac) sensitive to the local disorder of guest and framework components?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the first breathing titanium metal-organic framework synthesized?",
+      "answer": "COK-69",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique cluster is COK-69 built up from?",
+      "answer": "[TiIV3(m3-O)(O)2(COO)6] cluster",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of COK-69 was investigated using proton-coupled electron-transfer experiments?",
+      "answer": "The photoactive properties",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can up to one TiIV center per cluster in COK-69 be photoreduced to TiIII while preserving the structural integrity of the framework?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the band gap of COK-69 as determined by molecular modeling?",
+      "answer": "3.77 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of titanium-carboxylate MOFs challenging due to the high reactivity of alkoxide precursors?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What precursor was used to synthesize COK-69?",
+      "answer": "Titanocene dichloride",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula for the evacuated COK-69 material?",
+      "answer": "[TiIV3(m3-O)(O)2(cdc)3]n",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does COK-69 exhibit a breathing behavior?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the breathing behavior of COK-69?",
+      "answer": "The conformational flexibility of the cdc2¢ linker",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the porosity of COK-69 upon evacuation?",
+      "answer": "It becomes limited with a BET surface area of 29.1 m2 g¢1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can polar solvents reopen the evacuated material of COK-69?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of UV-A light irradiation on COK-69?",
+      "answer": "It affords a blue solid, COK-69_R, indicating photoreduction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What species is indicated by the EPR spectrum of photoreduced COK-69?",
+      "answer": "A TiIII species",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photoreduction of COK-69 reversible upon exposure to air?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How many TiIV centers per Ti3 cluster can be reduced in COK-69 according to PCET experiments?",
+      "answer": "One third of all TiIV, that is, one TiIV center per Ti3 cluster",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reduction rate differ between COK-69cp and COK-69op?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the empirical formula proposed for COK-69_R?",
+      "answer": "[TiIV3-xTiIIIx(m3-O)(OH)x(O)2-x(cdc)3]n",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of titanocene dichloride in the synthesis of COK-69?",
+      "answer": "It acts as a hydrolytically more robust organometallic Ti precursor",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of COK-69 scalable using microwave irradiation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

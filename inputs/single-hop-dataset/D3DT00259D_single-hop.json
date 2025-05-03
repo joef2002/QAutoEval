@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the Co-MOF discussed in the paper?",
+      "answer": "[Co6(oba)4(Hatz)(atz)(H2O)2(μ3-OH)2(μ2-OH)]·H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two main functionalities of the Co-MOF mentioned?",
+      "answer": "Proton conduction and fluorescence sensing of Fe3+ ions",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the conductivity value of the Co-MOF along the [001] direction at 55 °C and 95% RH?",
+      "answer": "1.1 × 10−3 S cm−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the Co-MOF selectively detect Fe3+ ions in the presence of other interfering ions?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the limit of detection (LOD) for Fe3+ ions by the Co-MOF?",
+      "answer": "2.98 μM",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conduction of the Co-MOF anisotropic?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What mechanism does proton transfer in the Co-MOF follow?",
+      "answer": "Grotthuss mechanism",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Co-MOF maintain its structure after being soaked in Fe3+ solution for 24 hours?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the fluorescence quenching mechanism of the Co-MOF for sensing Fe3+?",
+      "answer": "Absorption competition quenching (ACQ) mechanism",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conductivity of the Co-MOF dependent on humidity?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the oba ligand in the structure of the Co-MOF?",
+      "answer": "Acts as a pillar in the pillar-layer structure",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the proton conductivity of the Co-MOF?",
+      "answer": "Increases with temperature",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Co-MOF be regenerated for repeated use in Fe3+ sensing?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of adding Fe3+ ions on the fluorescence intensity of the Co-MOF?",
+      "answer": "Causes fluorescence quenching",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Co-MOF exhibit good water stability?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Ea value for proton migration in the Co-MOF?",
+      "answer": "Indicates the type of proton migration mechanism",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conduction of the Co-MOF stable over time?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature and humidity in the proton conduction of the Co-MOF?",
+      "answer": "Both temperature and humidity positively affect the proton conduction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Co-MOF's structure allow for selective detection of Fe3+ ions?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the atz ligand in the Co-MOF's structure?",
+      "answer": "Links Co-clusters to form a layer in the structure",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

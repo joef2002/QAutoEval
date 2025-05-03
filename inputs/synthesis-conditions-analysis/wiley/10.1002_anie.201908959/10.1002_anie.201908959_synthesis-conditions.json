@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "[Me2NH2][In(L1)]·H2O·2 DMF (1)",
+      "synthesis_conditions": {
+        "temperature": "100 88C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·6 H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "H4L1",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[Me2NH2]2[In2(L2)2]·2 H2O·DMF (2)",
+      "synthesis_conditions": {
+        "temperature": "100 88C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·6 H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "H4L2",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "[In3(L3)2]-[NO3]·6.7 H2O·4 DMF (3)",
+      "synthesis_conditions": {
+        "temperature": "100 88C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "In(NO3)3·6 H2O",
+            "amount": "not specified"
+          },
+          {
+            "name": "H4L3",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "H4L1, H4L2, and H4L3 ligands",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": [
+          {
+            "name": "(R)- or (S)-6,6’-dimethyl-3,3’-di-tert- butyl-5,5’-di(4-methoxycarbonyl)phenyl-1,1’-biphenyl-2,2’-diol",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": [
+          {
+            "name": "H4L1",
+            "value": "24%"
+          },
+          {
+            "name": "H4L2",
+            "value": "36%"
+          },
+          {
+            "name": "H4L3",
+            "value": "47%"
+          }
+        ]
+      }
+    }
+  ]
+}

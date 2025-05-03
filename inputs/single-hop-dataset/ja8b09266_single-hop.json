@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the phosphorus analogue of DMF?",
+      "answer": "P,P-Dimethylformylphosphine",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the phosphorus analogue of DMF?",
+      "answer": "A synthetic protocol exploiting the species Ph3GePCO",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational study was conducted to explore the structural and electronic differences between the nitrogen and phosphorus congeners?",
+      "answer": "A computational study highlights the similarities and differences between the P- and N-containing molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the barrier to P–C(O) bond rotation in the phosphorus analogue of DMF higher or lower than in DMF?",
+      "answer": "The barrier to P–C(O) bond rotation in the phosphorus analogue of DMF is lower than in DMF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the isolated yield of compound 3 following distillation?",
+      "answer": "The isolated yield of compound 3 following distillation was calculated to be 50%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 3 exhibit stability to the presence of water in solution?",
+      "answer": "Yes, compound 3 proved to be stable to the presence of water in solution.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to determine the T1 relaxation time of compound 3?",
+      "answer": "The T1 relaxation time of compound 3 was determined via inverse-gated recovery 31P NMR experiments.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the synthesis of compound 3 amenable to scale up?",
+      "answer": "Yes, the synthesis of compound 3 is amenable to scale up.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the major product formed when [K][1] was treated with CH3I in the presence of the fluoride source, [NBu4][Ph3SiF2]?",
+      "answer": "The major product formed was compound 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of photolysis of compound 3?",
+      "answer": "Photolysis of compound 3 did not lead to clean decarbonylation; instead, multiple unidentified products were formed.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the ground state of the phosphorus analogue of DMF planar?",
+      "answer": "No, the ground state of the phosphorus analogue of DMF is not planar.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the solvent used in the synthesis of [K][1] and [K(18-crown-6)][1]?",
+      "answer": "THF was the solvent used in the synthesis.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Did the computational study find that the barrier to phosphine inversion in the phosphorus analogue of DMF is lower than typical trialkylphosphines?",
+      "answer": "Yes, the computational study found that the barrier to phosphine inversion in the phosphorus analogue of DMF is relatively low compared to typical trialkylphosphines.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using [Na(diox)3.00][PCO] in the synthesis?",
+      "answer": "The purpose of using [Na(diox)3.00][PCO] in the synthesis was not explicitly mentioned in the provided text.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of 18-crown-6 in the synthesis of [K][1]?",
+      "answer": "18-crown-6 was used to quantitatively yield [K(18-crown-6)][1] from THF solutions of [K][1].",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the reaction of K­[HBPh3] with Ph3GePCO temperature sensitive?",
+      "answer": "The reaction of K­[HBPh3] with Ph3GePCO was conducted at ambient temperature, indicating it was not particularly temperature sensitive.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the computational method used to explore the forces controlling the P–C bond length in phosphamides?",
+      "answer": "The computational method used was not specified in the provided text.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of compound 4 involve a metal-complex formation?",
+      "answer": "Yes, the synthesis of compound 4 involved the formation of a metal-complex.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed stability of solutions of compound 3 in THF?",
+      "answer": "Solutions of compound 3 in THF showed no signs of decomposition after weeks in the freezer or after refluxing for 8 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the synthesis of the phosphorus analogue of DMF conducted under an inert atmosphere?",
+      "answer": "Yes, the synthesis was performed under an inert atmosphere of anhydrous N2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

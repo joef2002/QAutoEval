@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest ligand-to-ligand ET efficiency value reported for two distinct ligands in a MOF matrix?",
+      "answer": "65%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What inspired the design of the system for efficient multiple-chromophore coupling?",
+      "answer": "A protein system possessing 100% energy-transfer efficiency between a green fluorescent protein variant and cytochrome b562.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two approaches developed for energy transfer in the study?",
+      "answer": "Coordination assemblies and host–guest coupling.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main selection criteria in Approach II for achieving efficient chromophore coupling?",
+      "answer": "The guest size, host aperture, and chromophore photoluminescence responses.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the disappearance of donor emission in the scaffolds 1 and 1’’ indicate?",
+      "answer": "Efficient energy transfer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the Fçrster critical radius (Ro) for the scaffolds determined?",
+      "answer": "Through calculation of the spectral overlap function (J).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of 1D 8 x 11 Å channels in framework 2 facilitate?",
+      "answer": "BI molecule incorporation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission spectrum of the HBI-based donor designed to overlap with the absorption spectrum of the porphyrin-based acceptor?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the inclusion of BI molecules affect the host crystallinity in framework 2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the FET value for 1’’ higher than for 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the solvent choice in the second step of Approach I critical for the formation of the crystalline scaffolds 1 and 1’’?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study confirm that efficient energy transfer from DPB-BI to Zn2(ZnTCPP) occurs in the prepared scaffolds?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the bio-inspired approach successful in achieving directional energy transfer in a predesigned pathway?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the solvent in the coordinative immobilization of DPB-BI?",
+      "answer": "It affected the stacking of the 2D layers in the formation of the crystalline scaffolds 1 and 1’’.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using time-resolved fluorescence decay measurements in the study?",
+      "answer": "To quantitatively describe possible energy transfer processes occurring in the scaffolds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the structural analysis of 1 and 1’’ reveal about the Zn2(ZnTCPP) framework?",
+      "answer": "It consists of two-dimensional layers where ZnTCPP4¢ is coordinated to paddle-wheel Zn2(O2C–)4 secondary building units.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the effect of BI molecule inclusion on the photoluminescence of framework 2?",
+      "answer": "It did not affect the host crystallinity, and spectroscopic studies revealed one guest molecule per two TCPP4¢ units.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the FET value for BI@2 higher than that for 1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study achieve its goal of mimicking high energy transfer efficiency seen in natural systems?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the spectral overlap function (J) in the study?",
+      "answer": "It was used to estimate the Fçrster critical radius (Ro) and thereby support the occurrence of resonance energy transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

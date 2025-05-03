@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "material": "SCOF-4(Ac)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "N/A",
+          "solvents": "acetone",
+          "chemicals_used": "bpe (60 mg, 0.33 mmol), iron(II) perchlorate (42 mg, 0.17 mmol), ammonium thiocyanate (25 mg, 0.33 mmol)",
+          "equipment": "N/A",
+          "time": "N/A",
+          "yield": "N/A",
+          "washing_method": "N/A",
+          "drying_method": "N/A"
+        }
+      ]
+    },
+    {
+      "material": "SCOF-4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "90 °C",
+          "solvents": "N/A",
+          "chemicals_used": "SCOF-4(Ac)",
+          "equipment": "vacuum",
+          "time": "2 h",
+          "yield": "N/A",
+          "washing_method": "immersed in a few drops of acetone",
+          "drying_method": "N/A"
+        }
+      ]
+    },
+    {
+      "material": "r-SCOF-4(Ac)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "N/A",
+          "solvents": "acetone",
+          "chemicals_used": "SCOF-4",
+          "equipment": "N/A",
+          "time": "12 h",
+          "yield": "N/A",
+          "washing_method": "N/A",
+          "drying_method": "N/A"
+        }
+      ]
+    }
+  ]
+}

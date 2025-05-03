@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of the MOF prepared from a Zn:Co 1:1 molar code?",
+            "answer": "Zn0.89Co0.11(hfipbb)",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to determine that cobalt is preferentially located in the external areas of the crystals prepared from Zn:Co molar codes?",
+            "answer": "Scanning electron microscopy (SEM) and energy-dispersive x-ray spectroscopy (EDS) analyses",
+            "type": "factual"
+        },
+        {
+            "question": "What causes the doubling of the c lattice parameter in the MOF prepared from a Zn:Co 1:10 molar code?",
+            "answer": "The splitting of the crystallographic metal sites within the SBUs into alternating tetrahedral and octahedral metal sites",
+            "type": "reasoning"
+        },
+        {
+            "question": "At what temperature does the phase transition start to occur in the Zn0.59Co0.41(hfipbb) MOF according to the variable temperature single-crystal XRD study?",
+            "answer": "150 K",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to determine the occupancy of the metal sites in the zinc-cobalt MOFs?",
+            "answer": "Neutron powder diffraction (NPD)",
+            "type": "factual"
+        },
+        {
+            "question": "In the Zn0.50Mn0.50(hfipbb) MOF, zinc exclusively occupies tetrahedral sites while manganese occupies octahedral sites.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "What is the role of zinc in the preparation of these multication MOFs?",
+            "answer": "Zinc is the structure-directing element necessary to obtain the desired MOF SBU and topology",
+            "type": "factual"
+        },
+        {
+            "question": "In the Zn0.64Ca0.36(hfipbb) MOF, what percentage of the octahedral sites are occupied by zinc instead of calcium?",
+            "answer": 0.28,
+            "type": "factual"
+        },
+        {
+            "question": "According to DFT calculations, which hypothetical MOF phase has a higher formation energy than the original ZnPF-1 phase?",
+            "answer": "The phase consisting of tetrahedral and octahedral zinc atoms",
+            "type": "reasoning"
+        },
+        {
+            "question": "In the Zn0.59Co0.41(hfipbb) MOF, ferromagnetism develops within the SBUs below what temperature?",
+            "answer": "15 K",
+            "type": "factual"
+        },
+        {
+            "question": "The incorporation of a second metal cation like cobalt into the MOF structure leads to a decrease in the formation energy compared to the pure zinc MOF.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "What type of magnetic interaction is developed within the SBUs of the Zn0.21Co0.79(hfipbb) MOF?",
+            "answer": "Canted antiferromagnetism",
+            "type": "reasoning"
+        },
+        {
+            "question": "In MOFs prepared from Zn:Mn:Co molar codes, cobalt can occupy both tetrahedral and octahedral sites.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "What is the coordination environment of calcium when it occupies metal sites in the SBUs of the zinc-calcium MOFs?",
+            "answer": "Octahedral",
+            "type": "factual"
+        },
+        {
+            "question": "In the Zn:Co:Ca 1:1:1 MOF, which element is preferentially located in the external shell of the crystals?",
+            "answer": "Calcium",
+            "type": "reasoning"
+        },
+        {
+            "question": "The use of manganese in the molar codes leads to a homogeneous distribution of elements in the resulting MOFs.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "What two factors determine the magnetic properties of these multication MOFs at the atomic scale?",
+            "answer": "The geometry of the SBUs and the atomic distribution of cations",
+            "type": "factual"
+        },
+        {
+            "question": "Can this synthetic method be generalized to prepare new materials with rod-shaped SBUs where multiple metal cations can be arranged at desired atomic positions?",
+            "answer": "Yes",
+            "type": "reasoning"
+        },
+        {
+            "question": "The amount of cobalt incorporated into the Zn0.59Co0.41(hfipbb) MOF increases with longer heating times up to 20 hours.",
+            "answer": true,
+            "type": "true_or_false"
+        },
+        {
+            "question": "What mesoscopic property, in addition to atomic arrangement, can influence the magnetic properties of these multication MOFs?",
+            "answer": "The possible mesoscopic interaction among SBUs",
+            "type": "reasoning"
+        }
+    ]
+}

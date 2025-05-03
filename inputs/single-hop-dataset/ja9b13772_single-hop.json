@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on blending ionic and coordinate bonds in hybrid semiconductor materials to develop a general approach toward robust and solution-processable covalent/coordinate network structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key properties of the 1D-AIO structures mentioned in the article?",
+      "answer": "The key properties of the 1D-AIO structures include high resistance to heat and moisture, remarkable solubility and solution processability, strong blue-light excitability, and significantly enhanced photoluminescence and quantum yield for certain structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do the μ1-MC and μ2-DC structures differ in terms of binding strength?",
+      "answer": "The μ2-DC ligands have a much stronger binding strength to the inorganic chain than the μ1-MC ligands, with a binding energy of -4.9 eV for compound 3 (μ2-DC) compared to -3.4 eV for compound 1 (μ1-MC).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to calculate the density of states and band gaps of selected compounds?",
+      "answer": "The density of states and band gaps of selected compounds were calculated using the Cambridge Serial Total Energy Package (CASTEP) in Materials studio package.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the vibrational mode analysis for compounds 1 and 3?",
+      "answer": "The vibrational mode analysis for compounds 1 and 3 indicates that compound 1 (μ1-MC) vibrates more, leading to faster non-radiative relaxation and decreased quantum yield, while compound 3 (μ2-DC) has a 'stiffer' Cu-N bond, resulting in less atomic vibrations and higher quantum yield.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method was used for pKa calculation?",
+      "answer": "The pKa calculation was performed using density functional theory (B3LYP/6-31+G(d)) as implemented in Gaussian 16, with geometries fully optimized and calculated under the SMD model using water as solvent.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of ionic bonds in the solubility of 1D-AIO compounds?",
+      "answer": "The incorporation of ionic bonds in the 1D-AIO compounds significantly enhances their solubility in polar aprotic solvents, making them highly soluble compared to charge-neutral CuI(L) extended network structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 1D-AIO structures exhibit thermally activated delayed fluorescence combined with short-lived phosphorescence.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All 1D-AIO compounds are insoluble in common organic and inorganic solvents.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to confirm the crystallinity of thin film samples?",
+      "answer": "Powder X-ray diffraction (PXRD) analysis was used to confirm the crystallinity of thin film samples.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

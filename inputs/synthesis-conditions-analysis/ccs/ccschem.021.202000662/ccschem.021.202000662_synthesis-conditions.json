@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "[LH-Au5]Cl",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "dichloromethane-pyridine",
+        "solvent_ratio": "10:1 v/v",
+        "solvent_amount": "11 mL",
+        "chemicals_used": "[LH(AuCl)2] (91.1 mg, 0.10 mmol)",
+        "time": "not specified",
+        "washing_method": "layering of diethyl ether onto a dichloromethane solution",
+        "drying_method": "evaporation",
+        "yield": "53 mg (67% based on the Au content)"
+      }
+    },
+    {
+      "name": "[LMe-Au5]Cl",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "dichloromethane-pyridine",
+        "solvent_ratio": "10:1 v/v",
+        "solvent_amount": "not specified",
+        "chemicals_used": "[LMe(AuCl)2] (93 mg, 0.10 mmol)",
+        "time": "not specified",
+        "washing_method": "layering of diethyl ether onto a dichloromethane solution",
+        "drying_method": "evaporation",
+        "yield": "58 mg (72% based on the Au content)"
+      }
+    },
+    {
+      "name": "[LF-Au5]Cl",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "dichloromethane-pyridine",
+        "solvent_ratio": "10:1 v/v",
+        "solvent_amount": "not specified",
+        "chemicals_used": "[LF(AuCl)2] (93 mg, 0.10 mmol)",
+        "time": "not specified",
+        "washing_method": "layering of diethyl ether onto a dichloromethane solution",
+        "drying_method": "evaporation",
+        "yield": "85 mg (84% based on the Au content)"
+      }
+    },
+    {
+      "name": "[LCN-Au5]Cl",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "dichloromethane-pyridine",
+        "solvent_ratio": "10:1 v/v",
+        "solvent_amount": "22 mL",
+        "chemicals_used": "[LCN(AuCl)2] (46.8 mg, 0.05 mmol)",
+        "time": "5 min",
+        "washing_method": "layering of diethyl ether onto a dichloromethane solution",
+        "drying_method": "evaporation",
+        "yield": "23.1 mg (57% based on the Au content)"
+      }
+    },
+    {
+      "name": "[LF-Au18]Cl2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "dichloromethane-pyridine",
+        "solvent_ratio": "10:1 v/v",
+        "solvent_amount": "11 mL",
+        "chemicals_used": "[LF(AuCl)2] (186 mg, 0.20 mmol)",
+        "time": "5 h",
+        "washing_method": "recrystallization from dichloromethane solution",
+        "drying_method": "evaporation",
+        "yield": "78 mg (53% based on the Au content)"
+      }
+    },
+    {
+      "name": "[LCN-Au18]Cl2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "dichloromethane-pyridine",
+        "solvent_ratio": "10:1 v/v",
+        "solvent_amount": "22 mL",
+        "chemicals_used": "[LCN(AuCl)2] (46.8 mg, 0.05 mmol)",
+        "time": "1 h",
+        "washing_method": "recrystallization from slow vapor diffusion of diethyl ether into a dichloromethane solution",
+        "drying_method": "evaporation",
+        "yield": "15.1 mg (41% based on the Au content)"
+      }
+    }
+  ]
+}

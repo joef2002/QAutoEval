@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on the catalytic activity of isolated Fe(III)–O sites in metal–organic frameworks (MOFs) for the hydrogenation of acetylene in ethylene flows under front-end industrial conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the purity of the bulk material in the study?",
+      "answer": "The purity of the bulk material was confirmed using experimental powder X-ray diffraction (PXRD) patterns, which were consistent with the theoretical one.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of Fe(III)–O sites in the study?",
+      "answer": "Fe(III)–O sites acted as catalysts for the chemoselective transfer of H2 to acetylene in an industrial process, demonstrating similar activity to the Pd-catalyzed process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study extended to more robust and inexpensive materials beyond MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the hydrogenation of acetylene using MOF 2 at 150°C?",
+      "answer": "The outcome was that acetylene was hydrogenated to less than 10 ppm, and ethane formation was initially below 10%, which are typical values for some Pd industrial catalysts.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the stability of Fe(III) in MOF 2 under an H2 atmosphere confirmed?",
+      "answer": "The stability of Fe(III) in MOF 2 under an H2 atmosphere was confirmed through XPS measurements, which showed that the original Fe(III) signal remained unaltered.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that isolated Fe(III)–O sites are catalytically more active than extended Fe(III)–O–Fe(III) species.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the isotopic H2/D2 exchange experiments?",
+      "answer": "The isotopic H2/D2 exchange experiments supported the spontaneous dissociation of H2 over the catalytic hexa-aqueous Fe(III) site, under heating conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The catalysts presented in the study are made of relatively nontoxic and inexpensive metals such as Fe, Ti, Cu, or Zr.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the SC to SC PS cation exchange process in the study?",
+      "answer": "The SC to SC PS cation exchange process was used to replace Ni(II) ions with Fe(III) ones within MOF channels, leading to the novel compound that acted as an efficient catalyst.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that MOFs can catalyze a continuous process under simulating industrial conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of temperature on the hydrogenation of acetylene using Fe(III)–ZrO2?",
+      "answer": "Fe(III)–ZrO2 catalyzed the hydrogenation of acetylene at just 100°C with similar levels of efficiency to higher temperatures, providing a reasonable operational window of temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that isolated Fe(III) atoms embedded into a nano-ZrO2 framework showed no catalytic activity for the hydrogenation of acetylene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the isotopic experiments with d2-acetylene in the study?",
+      "answer": "The isotopic experiments with d2-acetylene indicated that the hydroxyl groups and water present on the solid oxide interact with the alkyne, confirming that H2 dissociation intervenes in the rate-determining step of the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study concluded that MOFs embedding accessible Fe(III) sites within its pores could not be used as efficient catalysts for the hydrogenation of acetylene in ethylene streams.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the postsynthetic (PS) methodology in the preparation of functional MOFs?",
+      "answer": "The postsynthetic (PS) methodology involved selecting preformed MOFs and incorporating desired functional species within the MOF channels, enabling the creation of efficient catalysts.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study exclusively focused on the use of noble metals for the hydrogenation of acetylene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the impact of using more robust and inexpensive titania and zirconia supports in the study?",
+      "answer": "Using more robust and inexpensive titania and zirconia supports enabled the industrially relevant hydrogenation of acetylene with similar activity to the Pd-catalyzed process, demonstrating the versatility of the catalysts.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that MOFs are unsuitable for supporting metal cations, complexes, or small clusters.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the BET surface area calculation in the study?",
+      "answer": "The BET surface area calculation was significant for determining the porosity and structural stability of the MOF after the postsynthetic cation metathesis, indicating an enhanced structural stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

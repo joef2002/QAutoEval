@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main interest in developing solid-state proton-conducting materials?",
+      "answer": "The main interest is in fuel-cell technology.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does the 3D metal–organic framework (MOF) mentioned in the text have regarding proton conduction?",
+      "answer": "It efficiently conducts protons under both anhydrous and humid conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is Nafion's conductivity limited at elevated temperatures?",
+      "answer": "The conductivity of Nafion drops significantly at elevated temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of the MOF under anhydrous conditions superior or comparable to other MOF materials?",
+      "answer": "The anhydrous proton conductivity for this MOF is among the highest values reported for MOF materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's water-assisted proton conductivity is inferior to that of Nafion.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the two categories of proton-conducting MOF materials?",
+      "answer": "Water-assisted MOFs and anhydrous proton-conducting MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the oxalate-based MOF {[(Me2NH2)3(SO4)]2[M2(ox)3]}n?",
+      "answer": "It was identified as the most suitable candidate for high proton conduction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF {[(Me2NH2)3(SO4)]2[Zn2(ox)3]}n shows high proton conductivity only under humid conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of dimethyl ammonium cations and sulfate anions in the MOF?",
+      "answer": "They form a supramolecular net through electrostatic and hydrogen-bonding interactions, aiding in proton conduction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's structure changes significantly at 150 8C, affecting its proton conductivity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy value for the MOF in both heating and cooling cycles?",
+      "answer": "The activation energy values are very similar, 0.129 eV for heating and 0.130 eV for cooling.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Grotthuss mechanism of proton conduction is not operating in the MOF.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of humidity on the proton conductivity of the MOF?",
+      "answer": "The proton conductivity increases with increasing humidity, reaching a maximum value at 98% RH.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's water-assisted proton conductivity is the highest reported for MOF-based materials under similar conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What makes the MOF a significant material for solid electrolytes and proton sensors?",
+      "answer": "Its inherent anhydrous and water-assisted high proton conduction from inexpensive starting materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF performs only under anhydrous conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proton conductivity of the MOF at 150 8C under anhydrous conditions?",
+      "answer": "1.0 × 10-4 S cm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF maintain its structure upon exposure to water?",
+      "answer": "The overlapping PXRD patterns of as-synthesized and water-treated samples confirmed the water stability of the compound.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's structure is non-porous towards gas.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the acid–base pair units in the MOF under humidified conditions?",
+      "answer": "They provide an efficient proton-conducting pathway.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

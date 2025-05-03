@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular weight of the gold cluster compound synthesized?",
+      "answer": "2185.4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of crystal system does the synthesized gold cluster compound belong to?",
+      "answer": "monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the synthesized gold cluster compound?",
+      "answer": "P2_1/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density (Dx) of the synthesized gold cluster compound?",
+      "answer": "2.627 g cm^-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the shortest Au-Au interatomic distance in the gold cluster compound?",
+      "answer": "2.959(1) A",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the angle between Au2-Au1-Au6 in the gold cluster compound?",
+      "answer": "73.02(3)°",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to solve the structure of the gold cluster compound?",
+      "answer": "direct methods using MULTAN",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the maximum shift in the final cycle of refinement for the gold cluster compound?",
+      "answer": "0.16a",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Were the methyl H atoms located in the structure determination of the gold cluster compound?",
+      "answer": "No, methyl H atoms were not located.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the minimum relative transmission coefficient for the gold cluster compound?",
+      "answer": "77.66%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the crystal size of the gold cluster compound larger than 0.1 mm in any dimension?",
+      "answer": "No, the crystal size was 0.06 x 0.06 x 0.42 mm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of the gold cluster compound involve the use of a graphite monochromator?",
+      "answer": "Yes, a graphite monochromator was used.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the gold cluster compound's crystal system hexagonal?",
+      "answer": "False, it is monoclinic.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The space group for the gold cluster compound is P2_1/c.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The density of the gold cluster compound is less than 2 g cm^-3.",
+      "answer": "False, it is 2.627 g cm^-3.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The shortest Au-Au interatomic distance in the compound is greater than 3 A.",
+      "answer": "False, it is 2.959(1) A.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The structure of the gold cluster compound was solved using Fourier transform infrared spectroscopy.",
+      "answer": "False, it was solved by direct methods using MULTAN.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The gold cluster compound has a molecular weight of over 2000.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The gold cluster compound was synthesized at a temperature higher than 25°C.",
+      "answer": "False, it was synthesized at 25°C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The gold cluster compound's crystal size was measured to be exactly 0.06 x 0.06 x 0.42 mm.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

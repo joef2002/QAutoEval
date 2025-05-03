@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the paper?",
+      "answer": "10.1002/anie.201805348",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which anion was first synthesized in 1968?",
+      "answer": "The tellurium-containing analogue of the cyanate ions (NCTe@)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary goal of the synthesis described in the paper?",
+      "answer": "The synthesis aims to isolate the phosphaethynselenolate, PCSe@ (1), the arsaethynthiolate, AsCS@ (2), and the arsaethynselenolate, AsCSe@ (3), anions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to purify the products of the synthesis?",
+      "answer": "The products are purified by reducing the reaction mixtures to dryness under a dynamic vacuum, followed by extraction with THF in the presence of 18-crown-6, filtration, and precipitation with hexane.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why might the AsCCh@ anions prefer binding through the chalcogen atom?",
+      "answer": "Bond metric data suggest that the preferred binding mode of AsCCh@ anions should be through the chalcogen atom.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the negative charge being localized at the central carbon atom in the anions?",
+      "answer": "The localization of the negative charge at the central carbon atom indicates that while the species are formally pseudo-halide ions, their reactivity differs from their lighter analogues due to a lack of significant negative charge buildup on the terminal atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the PCSe@ ion more or less shielded in its 31P NMR spectrum compared to the PCO@ and PCS@ anions?",
+      "answer": "The PCSe@ ion exhibits a singlet at a considerably higher frequency in its 31P NMR spectrum compared to the PCO@ and PCS@ anions, indicating it is less shielded.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis procedure allows for the isolation of compositionally pure salts of PCS@, PCSe@, AsCS@, and AsCSe@ in moderate yields.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The arsenic-containing anions allow for a detailed comparison of bond lengths.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PCSe@ anion exhibits positional disorder in the lattice.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The negative charge in the anions is largely localized at the terminal atoms.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The vibrational force constants do not provide a reliable measure for the experimental characterization of a bond.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of the anions described in the paper has been previously achieved by other research groups.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the yields typically around for the isolation of the anions?",
+      "answer": "30–40%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What conditions are required for manipulating the isolated anions?",
+      "answer": "The anions can be manipulated with ease under anaerobic and anhydrous conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary reason for the remarkable stability of these ions?",
+      "answer": "The remarkable stability is rationalized by analyzing the contributions of the 2@Pn@C/Ch+ resonance to the overall structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What spectroscopic methods were used to characterize all anions?",
+      "answer": "Multi-element NMR spectroscopy was used to characterize all anions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of the anions was motivated by their potential use in redox chemistry and coordination modes.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary challenge in synthesizing adducts of AsCCh@ anions via salt metathesis reactions?",
+      "answer": "The challenge is that for all four of the heavier PnCCh@ ions, the greatest degree of negative charge accumulates on the central carbon atom, making them susceptible to attack at the carbon centre by electrophiles.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The vibrational data for the PnCCh@ ions show no correlation with the atomic weight of the comprising elements.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

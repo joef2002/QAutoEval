@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular weight of compound 1?",
+      "answer": "1662.5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What radiation was used for data collection of compound 1?",
+      "answer": "Cu Kα",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "P 21 / c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many molecules per unit cell are there in compound 1?",
+      "answer": "2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the cell volume of compound 2?",
+      "answer": "33542",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum crystal dimension for compound 1?",
+      "answer": "0.15x0.30x0.40",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the occupancy factors, how many water molecules are associated with each anion in compound 1?",
+      "answer": "20.5",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the occupancy factor assigned to W10 and W11 in compound 1?",
+      "answer": "0.50",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the two compounds isostructural?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the molecular weight of compound 2 higher than compound 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 have more water molecules per acid molecule than compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was SHELX-86 used for structure solution of both compounds?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the cell volume of compound 2 larger than that of compound 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are hydrogen atoms on the calixarene -CH2- groups in compound 1 placed in calculated positions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 have a higher density than compound 2?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal of compound 2 scattered very poorly?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How many observed reflections were obtained for compound 1?",
+      "answer": "3091",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the occupancy factor of W12 in compound 1?",
+      "answer": "0.25",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How many water molecules per acid molecule are there in compound 2?",
+      "answer": "23",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the data set for compound 2 limited due to poor scattering?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

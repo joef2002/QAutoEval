@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Two-Photon Responsive Metal–Organic Framework",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Jiancan Yu, Yuanjing Cui, Chuan-De Wu, Yu Yang, Banglin Chen, Guodong Qian",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja512552g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of material is discussed in the article?",
+      "answer": "Metal–organic frameworks (MOFs)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main application of the two-photon responsive MOF mentioned in the article?",
+      "answer": "Two-photon patterning and imaging in high-resolution 3D structure",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the two-photon responsive MOF capable of fluorescence change under UV light and infrared femtosecond laser?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the chemical formula of the zwitterionic linker used in the synthesis of the MOF?",
+      "answer": "2,5-bis­(3,5-dicarboxyphenyl)-1-methylpyridinium hydroxide (H4L1·OH)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the MOF retain its original crystal structure after UV light irradiation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the emission peak wavelength of ZJU-56–0.20 before UV light exposure?",
+      "answer": "450 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the fluorescence color of the MOF change from blue to yellow after UV light exposure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the zwitterionic linker in the MOF's fluorescence change?",
+      "answer": "The zwitterionic linker undergoes a photochemical reaction under UV light, leading to the fluorescence change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photochemical reaction of the zwitterionic linker reversible?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the spatial resolution achieved by the two-photon patterning in the MOF?",
+      "answer": "1 × 1 × 5 μm³",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF exhibit two-photon excited fluorescence change when exposed to a 900 nm laser?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using a 710 nm laser for patterning in the MOF?",
+      "answer": "The 710 nm laser can induce photochemical reactions and emission around 550 nm without affecting unaddressed areas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the two-photon excited fluorescence pattern in the MOF stable over time?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential application of the 3D two-photon excited fluorescence pattern in the MOF?",
+      "answer": "3D optical storage",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF ZJU-56 exhibit fluorescence color change after UV light illumination?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "2015",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using two-photon processing in MOFs?",
+      "answer": "It allows for spatial modulation of the fluorescence property of the MOF in three dimensions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

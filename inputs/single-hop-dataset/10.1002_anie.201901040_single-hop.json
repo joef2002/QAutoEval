@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of symmetric batteries over traditional batteries?",
+      "answer": "Symmetric batteries have a simplified fabrication process and reduced manufacturing cost.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the discharge voltage and energy density of the dual-ion organic symmetric cell mentioned in the study?",
+      "answer": "The discharge voltage is 2.5 V and the energy density is 127 Wh kg@1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why might lithium-ion batteries not be the best choice for electrical grid storage?",
+      "answer": "The limited availability and uneven distribution of lithium resources might hinder their practical application.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dilithium salt of PZDB (PZDB-Li2) soluble in carbonate-based electrolytes?",
+      "answer": "No, PZDB-Li2 is insoluble in carbonate-based electrolytes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bipolar organic material in organic symmetric batteries?",
+      "answer": "The bipolar organic material serves as both the cathode and anode, simplifying the fabrication process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the molecular structure of PZDB-Li2 contribute to its stability in both oxidized and reduced states?",
+      "answer": "The HOMO and LUMO of the PZDB anion are distributed in the aromatic phenazine and benzoate moieties, respectively, suggesting that oxidation and reduction reactions occur solely in the corresponding molecular orbitals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The energy density of PZDB-Li2 is greater than that of most symmetric cells based on binary transition-metal oxides.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical capacity of PZDB-Li2 when serving as the cathode and anode?",
+      "answer": "The theoretical capacity is 106 and 112 mA h g@1, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can PZDB-Li2 serve as a bipolar molecule in a polarity-reversal experiment?",
+      "answer": "Yes, the capacity remained stable around 50 mA h g@1 in all polarities.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the ion size on the diffusion in PZDB-Li2?",
+      "answer": "The ion size has a profound impact on the diffusion, with the diffusion of PF6@- anions being facile in the bulk phase of PZDB-Li2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated number of crystalline water molecules per PZDB-Li2?",
+      "answer": "The calculated number of crystalline water molecules per PZDB-Li2 is 3.3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The stability of the redox intermediates of PZDB-Li2 is verified by molecular-orbital and aromaticity analysis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Coulombic efficiency of PZDB-Li2 in the measured 100 cycles when serving as the cathode and anode?",
+      "answer": "The Coulombic efficiency remained stable in the range of 98.5–100% after the first few cycles.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The discharge capacity based on the total weight of the cathode and anode was stabilized at ca. 53 mA h g@1 in the measured 200 cycles.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the energy and power densities of the symmetric PZDB-Li2 cell at 1 C?",
+      "answer": "The energy density is 127 Wh kg@1 and the power density calculation is not directly provided.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The power density of the symmetric PZDB-Li2 cell is likely restricted by the electric conductivity of the electrode.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the ACID and NICS analyses reveal about the electron delocalization and molecular stability of PZDB-Li2?",
+      "answer": "The analyses reveal that the electron transfer occurs only in the p-bond perpendicular to the dihydropyrazine ring and there is no chemical bond rearrangement, indicating enhanced stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The redox reactions occurring in the phenazine moiety of PZDB-Li2 are highly localized.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high discharge voltage of the demonstrated organic symmetric cell?",
+      "answer": "The high discharge voltage facilitates a battery-pack design that meets the voltage specifications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study highlights the prospect of using organic materials to improve the voltage and energy-density restrictions in symmetric batteries.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main objective of the study described in the text?",
+      "answer": "The main objective of the study is to demonstrate the formation of a syndiotactic organic polymer ligand inside a MOF through a [2++2] photopolymerization reaction in a single-crystal-to-single-crystal manner.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of MOF structure is mentioned as being used in the synthesis process?",
+      "answer": "A three-fold interpenetrated pillared-layer MOF with pcu topology is mentioned.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the organic polymer in the single crystals be depolymerized reversibly?",
+      "answer": "Yes, the organic polymer in the single crystals can be depolymerized reversibly by cleaving the cyclobutane rings upon heating.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of UV light in the formation of the syndiotactic polymer ligand?",
+      "answer": "UV light is used to initiate the [2++2] photopolymerization reaction, causing the spacer ligands to undergo pedal motion and facilitating the formation of the syndiotactic polymer ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photoreactivity of the MOFs influenced by the presence of different solvents in the channels?",
+      "answer": "Yes, the presence of different solvents in the channels influences the photoreactivity of the MOFs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the pedal motion mentioned in the text?",
+      "answer": "The pedal motion is significant because it allows the trans,trans,trans-bpeb ligand to transform into a trans,cis,trans-conformation, facilitating the [2++2] cycloaddition reaction and the formation of the syndiotactic polymer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What property of MOFs is explored for sensing small organic molecules?",
+      "answer": "The photoluminescent properties of MOFs are explored for sensing small organic molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study demonstrate a reversible process for depolymerizing the organic polymer?",
+      "answer": "Yes, the study demonstrates a reversible process for depolymerizing the organic polymer by heating.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome of irradiating the pale yellow crystals of MOF under a Xe-lamp?",
+      "answer": "Irradiating the pale yellow crystals of MOF under a Xe-lamp results in the shattering of the single crystals and the formation of a syndiotactic polymer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the crystals of MOF 2 and 3 isostructural?",
+      "answer": "Yes, the crystals of MOF 2 and 3 are isostructural.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of heating the single crystals of MOF 4?",
+      "answer": "Heating the single crystals of MOF 4 leads to depolymerization, indicated by the cleavage of the cyclobutane rings in the S-poly-bppcb ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural change observed in the bpeb ligand during the photopolymerization process?",
+      "answer": "During the photopolymerization process, the bpeb ligand undergoes a structural change from trans,trans,trans-conformation to trans,cis,trans-conformation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the formation of the syndiotactic polymer ligand a predictable outcome based on crystal packing?",
+      "answer": "No, the formation of the syndiotactic polymer ligand was an unexpected outcome and could not be predicted from the crystal packing.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of guest water molecules in the channels of the MOF?",
+      "answer": "The guest water molecules in the channels of the MOF promote pedal motion, facilitating the photoreactivity and the formation of the syndiotactic polymer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MOFs sense specific drug molecules according to the study?",
+      "answer": "Yes, MOFs can sense specific drug molecules, showing selective sensing for flufenamic acid and indometacin among others.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the syndiotactic polymer ligand formed in an SCSC manner?",
+      "answer": "Yes, the syndiotactic polymer ligand is formed in a single-crystal-to-single-crystal (SCSC) manner.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of exchanging solvents in MOF 1 to form MOF 2?",
+      "answer": "Exchanging solvents in MOF 1 with methanol to form MOF 2 results in a change of guest solvents in the channels but retains the single crystal nature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of methanol or DMF in the channels hinder photoreactivity in MOFs 1 and 2?",
+      "answer": "Yes, the presence of methanol or DMF in the channels hinders photoreactivity in MOFs 1 and 2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of the 3D structure formed by the integration of the new organic polymer ligand with the [Zn2-(obc)2] sheet?",
+      "answer": "The integration of the new organic polymer ligand with the [Zn2-(obc)2] sheet results in a 3D structure with a new topology called jjv3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the solid-state photoluminescence (PL) spectra of MOFs 1-3 influenced by the presence of different solvents?",
+      "answer": "Yes, the solid-state photoluminescence (PL) spectra of MOFs 1-3 are influenced by the presence of different solvents in the lattice.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

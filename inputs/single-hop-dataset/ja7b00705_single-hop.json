@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "2D Conductive Iron-Quinoid Magnets Ordering up to Tc = 105 K via Heterogenous Redox Chemistry",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Jordan A. DeGayner, Ie-Rang Jeon, Lei Sun, Mircea Dincă, and T. David Harris",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/jacs.7b00705",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest reported ordering temperature for a MOF according to the article?",
+      "answer": "105 K",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for X-ray structure determination?",
+      "answer": "Single crystals of 2 suitable for X-ray analysis were coated with deoxygenated Paratone-N oil and mounted on a MicroMounts rod. The crystallographic data were collected at 100 K on a Bruker APEX II diffractometer equipped with a Cu Kα microsource.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the empirical formula for compound 2?",
+      "answer": "C50.1H61.2Cl6Fe2Co1.43N6.5O16.9",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the magnetic ordering temperature of compound 2 higher than that of compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 exhibit magnetic hysteresis up to 100 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy (Ea) for electrical conductivity in compound 2?",
+      "answer": "0.34(1) eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the ambient temperature conductivity of compound 1a higher than that of compound 2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area reported for compound 1a after the new activation procedure?",
+      "answer": "1175(29) m^2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in designing conductive metal–organic magnets according to the article?",
+      "answer": "The main challenge is that both magnetic ordering and electrical conductivity rely on the presence of efficient electronic communication between structural units.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article report the use of redox-active bridging ligands as a strategy for designing conductive metal–organic magnets?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of benzoquinoid ligands in the compounds discussed in the article?",
+      "answer": "Benzoquinoid ligands are bis-bidentate ligands that can readily access three oxidation states and have been shown to form porous networks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the compound (Cp2Co)1.43(Me2NH2)1.57[Fe2L3]·4.9DMF according to the article?",
+      "answer": "This compound undergoes a single-crystal-to-single-crystal one-electron reduction to give a magnetically ordered phase below Tc = 105 K, one of the highest reported ordering temperatures for a MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the electrical conductivity of compound 2 higher than that of compound 3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main finding of the research article?",
+      "answer": "The article demonstrates the ability of metal-quinoid solids to simultaneously exhibit high magnetic ordering temperatures and electrical conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of postsynthetic redox chemistry in the study?",
+      "answer": "Postsynthetic redox chemistry allows for the reduction of the framework to give a magnetically ordered phase with a critical temperature of Tc = 105 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article provide a literature survey of metal-organic conductive magnets?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What future directions does the article suggest for the field of metal-quinoid solids?",
+      "answer": "The article suggests incorporating related bridging ligands, including those with different ligand substituents and more diffuse donor atoms, to isolate MOFs with higher values of magnetic ordering temperature and electrical conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "MOF 1",
+      "synthesis_conditions": {
+        "precursors": "Derived from the amino acid L-methionine",
+        "characterization_methods": ["ICP-MS", "CHNS", "TGA", "PXRD"],
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "MOF 2",
+      "synthesis_conditions": {
+        "precursors": "Derived from the amino acid S-methyl-L-cysteine",
+        "characterization_methods": ["ICP-MS", "CHNS", "TGA", "PXRD"],
+        "yield": "Not specified",
+        "additional_information": "Single crystals suitable for X-ray diffraction obtained by a slow diffusion method."
+      }
+    },
+    {
+      "name": "1@Matrimid",
+      "synthesis_conditions": {
+        "MOF_activation_temperature": "80 °C",
+        "MOF_activation_time": "5 h",
+        "solvent": "DMA (dimethylacetamide)",
+        "solvent_amount": "Not specified",
+        "polymer_matrix": "Matrimid 5218",
+        "polymer_solution_concentration": "20 wt% in DMA",
+        "MOF_loading": "30 wt%",
+        "casting_solution_stirring_time": "24 h",
+        "casting_gap": "250 µm",
+        "coagulation_bath": "Distilled water",
+        "protective_layer": "Hyflon AD60x",
+        "drying_method": "Thoroughly dried after washing with distilled water"
+      }
+    },
+    {
+      "name": "2@Matrimid",
+      "synthesis_conditions": {
+        "MOF_activation_temperature": "80 °C",
+        "MOF_activation_time": "5 h",
+        "solvent": "DMA (dimethylacetamide)",
+        "solvent_amount": "Not specified",
+        "polymer_matrix": "Matrimid 5218",
+        "polymer_solution_concentration": "20 wt% in DMA",
+        "MOF_loading": "30 wt%",
+        "casting_solution_stirring_time": "24 h",
+        "casting_gap": "250 µm",
+        "coagulation_bath": "Distilled water",
+        "protective_layer": "Hyflon AD60x",
+        "drying_method": "Thoroughly dried after washing with distilled water"
+      }
+    }
+  ]
+}

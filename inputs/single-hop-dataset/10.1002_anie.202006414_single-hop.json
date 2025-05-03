@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the pore diameter of bnn-1-Ca-H2O?",
+      "answer": "0.34 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What gas mixture does bnn-1-Ca-H2O exhibit ultra-high binary selectivity for?",
+      "answer": "CO2/N2, CO2/CH4, and C2H2/C2H4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ideal selectivity offered by bnn-1-Ca under cryogenic conditions?",
+      "answer": "H2/CO2 and H2/N2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the kinetic diameter of H2?",
+      "answer": "2.8 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore diameter of bnn-1-Ca?",
+      "answer": "0.31 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation temperature for transforming bnn-1-Ca-H2O to bnn-1-Ca?",
+      "answer": "373 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of dehydration on the pore diameter of Ca-trimesate?",
+      "answer": "Dehydration reduces the pore diameter from 0.34 nm in bnn-1-Ca-H2O to 0.31 nm in bnn-1-Ca.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does bnn-1-Ca exhibit ideal selectivity for H2 under cryogenic conditions?",
+      "answer": "Because its pore diameter of 0.31 nm is smaller than the kinetic diameter of CO2 and N2, allowing only H2 to pass through.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of water molecules affect the sorption properties of Ca-trimesate?",
+      "answer": "The presence of water molecules in bnn-1-Ca-H2O enables strong binding sites for certain gases, which are absent in the dehydrated bnn-1-Ca.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the ultramicropore engineering by dehydration play in gas separation?",
+      "answer": "It enables precise control over pore diameter, allowing for molecular sieving based on the size or shape exclusion of gas molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is bnn-1-Ca considered a prototype for a general approach to exert precise control over pore diameter in physisorbents?",
+      "answer": "Because it demonstrates how dehydration can be used to adjust pore diameters to enable selective gas separation, such as H2 sieving under cryogenic conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the pore diameter being intermediate between the kinetic diameter of two molecules for gas separation?",
+      "answer": "It allows for molecular sieving by excluding larger molecules while permitting smaller molecules to pass through, enabling selective separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the pore diameter of bnn-1-Ca smaller than the kinetic diameter of CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can bnn-1-Ca-H2O selectively separate CO2 from N2 under ambient conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does bnn-1-Ca exhibit non-porosity to all gases tested except H2 and Ne at 77 and 87 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is bnn-1-Ca the first reported H2-selective molecular sieve?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the dehydration of bnn-1-Ca-H2O increase its pore diameter?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can bnn-1-Ca-H2O exhibit molecular sieving selectivity for C2H2 over C2H4 and C2H6?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation process of bnn-1-Ca reversible upon exposure to ambient air?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does bnn-1-Ca-H2O exhibit a Type I CO2 isotherm at 195 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the magnetic metal organic framework structure synthesized in the study?",
+      "answer": "Mn3(C8O4H4)3(C5H11ON)2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the antiferromagnetic ordering occur in the synthesized material?",
+      "answer": "Approximately 4 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the phase transition between 100 and 20 K?",
+      "answer": "Heat capacity data",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of diethylformamide (DEF) molecules in the structure of the synthesized material?",
+      "answer": "DEF molecules are coordinated directly to the magnetic Mn atoms, creating crystalline systems with limited structural disorder.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis method of the metal organic framework Mn3(C8O4H4)3(C5H11ON)2 differ from that of Mn2(C8O4H4)2(C3H7ON)2?",
+      "answer": "The DEF solvent in Mn3(C8O4H4)3(C5H11ON)2 is replaced with dimethylformamide (DMF) in Mn2(C8O4H4)2(C3H7ON)2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic MOFs are considered hybrids between classical 3D magnetic solids and molecular magnets.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic susceptibility measurements from 2 to 400 K reveal ferromagnetic ordering at approximately 4 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a phase transition between 100 and 20 K indicate about the structure of the synthesized material?",
+      "answer": "It indicates ordering of the diethylformamide molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electron distributions around the two unique Mn centers are identical.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Bader topological analysis show about Mn-Mn bonding in the synthesized material?",
+      "answer": "It shows an absence of Mn-Mn bonding, and the magnetic ordering is via super-exchange through the oxygen bridges.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of Mn3(C8O4H4)3(C5H11ON)2 is a multi-pot reaction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the orbital population analysis in understanding the magnetic properties of the synthesized material?",
+      "answer": "It reveals large electron donation to each Mn atom and indicates a considerable orbital component to the magnetic moment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of Mn3(C8O4H4)3(C5H11ON)2 is thermally stable up to about 500 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the exponential correlation derived between Mn-O bond lengths and the values of ∇2ρ at the bond critical points suggest?",
+      "answer": "It suggests a simple relationship between Mn-O bond lengths and the electron density properties at the bond critical points.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental charge density study of Mn3(C8O4H4)3(C5H11ON)2 and Mn2(C8O4H4)2(C3H7ON)2 revealed identical Mn atomic charges.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a large orbital component to the magnetic moment in Mn3(C8O4H4)3(C5H11ON)2 indicate about its magnetic properties?",
+      "answer": "It indicates that the magnetic moment is not solely due to spin but also has significant contributions from the orbital motion of electrons.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of Mn3(C8O4H4)3(C5H11ON)2 exhibits significant orbital contributions to the magnetism.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of synchrotron X-ray diffraction in the study of Mn3(C8O4H4)3(C5H11ON)2?",
+      "answer": "It was used to determine the experimental electron density and to model the charge density of the material.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found direct Mn-Mn bonding in Mn3(C8O4H4)3(C5H11ON)2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study conclude about the antiferromagnetic ordering in Mn3(C8O4H4)3(C5H11ON)2?",
+      "answer": "It concludes that the antiferromagnetic ordering is documented and is supplemented by analysis of the electron density at a subatomic level.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

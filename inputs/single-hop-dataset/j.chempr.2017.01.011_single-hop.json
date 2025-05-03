@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using fluorescence-based assay in the study?",
+      "answer": "The purpose is to prescreen inhibitor candidates for treating conditions implicated by carbonic anhydrases, such as glaucoma, cancer, and epilepsy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to compare the results of the fluorescence-based assay?",
+      "answer": "The results of the fluorescence-based assay were compared with ligand docking calculations using AutoDock Vina and AutoDock4Zn.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dye-displacement arrays are less accurate and sensitive than docking calculations.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of fluorescent indicators in the assay?",
+      "answer": "Fluorescent indicators bind to carbonic anhydrase and display fluorescence quenching in the presence of the enzyme, which is recovered when a competitive inhibitor is added.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the study suggest about the use of dye-displacement assay and docking calculations?",
+      "answer": "The study suggests that dye-displacement arrays are more accurate and sensitive than docking calculations, and these two tools can be used together to efficiently screen libraries of potential carbonic anhydrase inhibitors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What diseases are associated with carbonic anhydrases according to the study?",
+      "answer": "Diseases such as glaucoma, cancer, epilepsy, and others are associated with carbonic anhydrases.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The fluorescence-based assay cannot be used for high-throughput screening.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How do competitive inhibitors affect the fluorescence in the assay?",
+      "answer": "Competitive inhibitors cause the recovery of fluorescence that was quenched by the binding of fluorescent indicators to carbonic anhydrase.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational tools were used for ligand docking calculations in the study?",
+      "answer": "AutoDock Vina and AutoDock4Zn were used for ligand docking calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the study's findings for drug development?",
+      "answer": "The findings highlight the potential of using a fluorescence-based assay in combination with docking calculations for the efficient screening of inhibitors, which can accelerate the development of drugs targeting carbonic anhydrases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main feature of the viologen-based porous framework discussed?",
+      "answer": "The viologen-based porous framework features rapid photochromic response and recovery within one minute, and a reversible single-crystal-to-single-crystal structural transformation when exposed to X-ray sources.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes the viologen-based framework a potential candidate for practical applications?",
+      "answer": "Its ability to undergo photochromism over a broad temperature range of 100–333 K, both in the form of single crystals and thin films, makes it suitable for practical indoor and outdoor applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The viologen-based framework is sensitive only to CuKa X-ray sources.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How is the viologen-based framework synthesized?",
+      "answer": "It is synthesized by self-assembly of H2BpybcCl2 and CoII ion in aqueous solution, followed by evaporating the solution to afford red block crystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of CoII ion in the structure of the viologen-based framework?",
+      "answer": "The CoII ion serves as a 3-connection node joining three Bpybc ligands to generate a 2D honeycomb-like network.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The viologen-based framework shows photochromism when exposed to ambient light or UV light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the viologen-based framework when it is irradiated with X-rays?",
+      "answer": "The framework undergoes a color change from red to dark blue, indicating a photochromic response.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the generation of free radicals in the viologen-based framework upon X-ray irradiation?",
+      "answer": "The appearance of a new and intensive single line signal with a g factor of 2.002 in electron spin resonance (ESR) measurements confirms the generation of free radicals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photochromic process in the viologen-based framework cannot be reversed.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural change is observed in the viologen-based framework after X-ray irradiation?",
+      "answer": "The structure shows shrinking, with the cell volume decreasing from 7625.7(7) c3 (blm-Co) to 7312.2(13) c3 (blm-Co-X).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the orientation of adjacent electron-rich carboxylate group and electron-deficient bipyridinium cation change after X-ray irradiation?",
+      "answer": "The orientation changes slightly by shortening the O···N distance from 4.288(6) c (blm-Co) to 4.166(5) c (blm-Co-X).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Borromean entanglement structure is destroyed after X-ray irradiation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the detection limit of X-ray radiation dosage for the thin film made from the viologen-based framework?",
+      "answer": "The detection limit of X-ray radiation dosage is calculated to be 7.72 Gy.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The viologen-based framework can only detect X-ray exposure in the form of single crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the reversible SC-SC transformation in the viologen-based framework?",
+      "answer": "It affords a new perspective for the development of X-ray responsive functional materials, as it allows for the detection of X-ray exposure and the material's performance can be cycled without loss.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The viologen-based framework's photochromic response is slow and requires several hours.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does oxygen play in the recovery process of the viologen-based framework after X-ray irradiation?",
+      "answer": "Oxygen accelerates the quenching of free radicals, facilitating the rapid recovery of the framework within 60 seconds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the viologen-based framework compare to previous viologen-based metal complexes in terms of X-ray detection?",
+      "answer": "The viologen-based framework surpasses most previous complexes in fast response, high reversibility, and the ability to sustain a broad temperature range without coloration in absence of irradiation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The viologen-based framework's photochromic process could be cycled without any performance loss.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential application of the viologen-based framework as mentioned in the text?",
+      "answer": "It could be used for detecting the dose of X-ray exposure, especially in the form of portable thin films.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

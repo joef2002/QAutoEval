@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the chiral coordination polymer synthesized?",
+      "answer": "(BMIm)2[Ni(TMA-H)2(H2O)2]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the chiral coordination polymer?",
+      "answer": "Ionothermal synthesis",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What ionic liquid was used in the synthesis of Ni-SIMOF-1?",
+      "answer": "1-butyl-3-methyl-imidazolium L-aspartate",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What change in the ionic liquid results in the synthesis of Ni-SIMOF-1a?",
+      "answer": "Replacing L-aspartate with D-aspartate",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of SIMOF-1?",
+      "answer": "P41212",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using a chiral ionic liquid in the synthesis?",
+      "answer": "To induce chirality in the resulting solid",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the homochirality of SIMOF-1 proven?",
+      "answer": "Through 10 high-quality single-crystal X-ray determinations showing the same absolute structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens when the chiral component of the ionic liquid is not included in the synthesis?",
+      "answer": "An achiral compound, SIMOF-2, is formed",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the ionic liquid in ionothermal synthesis?",
+      "answer": "It acts as solvent and structure directing agent",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Flack parameter in crystal structure determination?",
+      "answer": "It indicates whether the structure under study has the correct absolute structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ionic liquid cation removed from the pores of SIMOF-1 during synthesis?",
+      "answer": "No, it is strongly held inside the pores and cannot be removed without causing the structure to collapse",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of SIMOF-1 require a chiral center in the building units?",
+      "answer": "No, it is synthesized from nonchiral building blocks",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of SIMOF-1 does not involve any chiral building blocks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The anion of the ionic liquid is occluded by the material in the synthesis of SIMOF-1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of SIMOF-2 requires a chiral ionic liquid.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The bulk samples of SIMOF-1 consist entirely of crystals of mixed chirality.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Flack parameter value near 1 indicates the correct absolute structure.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of Ni-SIMOF-1a uses 1-butyl-3-methyl-imidazolium bromide.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis temperature for Ni-SIMOF-1 is 110oC.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of SIMOF-1 and SIMOF-1a results in materials with opposite chirality.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

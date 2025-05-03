@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound that exhibits class II mixed-valency behavior?",
+      "answer": "Pu3(DPA)5(H2O)2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DPA in the synthesis of Pu3(DPA)5(H2O)2?",
+      "answer": "DPA acts as a ligand that facilitates the formation of the mixed-valent PuIII/PuIV solid-state compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PuIII,IV-3 and PuIV,III-4 both exhibit class II behavior according to the Robin–Day system.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to determine the electronic structure of PuIII,IV-3?",
+      "answer": "UV–vis–NIR absorption spectroscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to analyze the electronic structure of PuIII,IV-3?",
+      "answer": "DFT level (B3PW91) calculations",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the color change from purple to emerald green upon adding DPA to a solution containing [Pu(H2O)9]3+?",
+      "answer": "The color change is indicative of the formation of a broad metal-to-ligand charge transfer (MLCT) band, suggesting oxidation of PuIII to PuIV.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of bromide in the reaction mixture prevents the formation of PuIII,IV-3.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the geometry around the PuIV center in PuIV-2?",
+      "answer": "Tricapped trigonal prismatic geometry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the PuIV−N bond length in PuIII,IV-3 compare to that in PuIV-2?",
+      "answer": "The PuIV−N bond lengths in PuIII,IV-3 are slightly longer than those measured in PuIV-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The absorption spectrum of PuIII,IV-3 is simply the sum of the spectra of its PuIII and PuIV moieties.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a vibronic progression in the absorption spectrum of PuIII,IV-3 suggest?",
+      "answer": "It suggests that the charge transfer, facilitated by the MLCT in [PuIII(DPA)] and LMCT in [PuIV(DPA)3], is through the DPA ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PuIII,IV-3 is a class I compound according to the Robin–Day system.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cyclic voltammetry in the study of PuIII,IV-3?",
+      "answer": "Cyclic voltammetry was used to investigate the electrochemical behavior and stabilization of PuIII upon complexation by DPA.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the coordination environment of PuIII in PuIII,IV-3 compare to that in PuIII-1?",
+      "answer": "The coordination environment of PuIII in PuIII,IV-3 matches well with that found in PuIII-1, indicating PuIII centers in both compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SOMO and LUMO in PuIII,IV-3 are located on the same plutonium site.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the effective magnetic moment of 1.2 µB/Pu in PuIII,IV-3 indicate about its magnetic properties?",
+      "answer": "It suggests weak, short-range interactions at high temperature between the plutonium centers, supporting emergent Class II behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PuIII,IV-3 requires an anaerobic environment.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the formal potential shift observed in cyclic voltammetry measurements upon complexation of PuIII by DPA?",
+      "answer": "The shift indicates stabilization of PuIII by removing electron density from the metal center and placing it on the ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of PuIII,IV-3 is derived from linking the fundamental building units found in PuIII-1 and PuIV-2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the class II nature of PuIII,IV-3?",
+      "answer": "The broad and intense charge transfer (CT) band in the UV–vis–NIR absorption spectrum extending deeper into visible wavelengths.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

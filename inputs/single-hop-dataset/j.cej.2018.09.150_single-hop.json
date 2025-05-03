@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the source of the chemicals used in the study?",
+      "answer": "Sigma Aldrich and Ranbaxy Fine Chemicals",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for Single crystal X-ray structural studies?",
+      "answer": "CCD Agilent Technologies (Oxford Diffraction) SUPER NOVA diffractometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the temperature at which electrochemical experiments were performed?",
+      "answer": "298 ± 1 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of electrode was used as the working electrode in the electrochemical experiments?",
+      "answer": "Mild steel sample",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using FE-SEM and AFM in the study?",
+      "answer": "To analyze the surface morphology of metal sample",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What bacterial strain was used for the antibacterial activity study?",
+      "answer": "MRSA Methicillin-Resistant Staphylococcus aureus ATCC® 43300TM",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What assay was performed to study the antiproliferative activity?",
+      "answer": "Sulforhodamine B (SRB) growth inhibition (GI50) assays",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main finding from the antibacterial activity test?",
+      "answer": "Both azido complexes showed moderate anti-bacterial activity against MRSA",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that complex 4 showed high antiproliferative activity against breast cancer cell line MCF 7.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion of the study regarding the corrosion inhibition by the synthesized Zn (II) Schiff base complexes?",
+      "answer": "The synthesized azido zinc complexes 3 and 4 showed considerable anti-corrosion property",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study used a three-electrode assembly for all electrochemical experiments.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the scan rate used in the potentiodynamic polarization measurement?",
+      "answer": "0.5 mVs-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study concluded that azido complexes have potential as corrosion inhibitors for mild steel.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of using azide as a co-ligand in the complexes?",
+      "answer": "It may increase the absorption capacity on mild steel",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study performed antibacterial activity tests against a fungal species.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

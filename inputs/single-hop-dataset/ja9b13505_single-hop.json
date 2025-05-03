@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Confinement-Driven Photophysics in Cages, Covalent–Organic Frameworks, Metal–Organic Frameworks, and DNA",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Natalia B. Shustova",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research conducted in the article?",
+      "answer": "The research focuses on the photophysics of confined chromophores within different frameworks such as cages, covalent–organic frameworks (COFs), metal–organic frameworks (MOFs), and DNA.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for X-ray intensity data collection?",
+      "answer": "X-ray intensity data were collected using a Bruker D8 QUEST diffractometer equipped with a PHOTON-100 CMOS area detector and an Incoatec microfocus source.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the space group I41/a in the context of the article?",
+      "answer": "The space group I41/a is significant as it was used to determine the crystal structure of the compounds Cl-BI@Pd6(TPT)4 and Cl-oHBI@Pd6(TPT)4, indicating the tetragonal system of the crystals.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the disorder in the crystal structure addressed during the refinement process?",
+      "answer": "The disorder in the crystal structure was addressed by using the Squeeze program in PLATON to account for diffusely scattering species and by applying restraints and modeling disordered components.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using the Squeeze program in the refinement process?",
+      "answer": "The Squeeze program was used to account for diffusely scattering species in the interstitial regions of the crystal structure, which could not be modeled due to extensive disorder.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of the space group P-1 indicate about the crystal system of pCOOH-BI-CH2COOH?",
+      "answer": "The presence of the space group P-1 indicates that the crystal system of pCOOH-BI-CH2COOH is triclinic.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the compound pOH-BI-CH2COOCH3 fluorescent?",
+      "answer": "Yes, the compound pOH-BI-CH2COOCH3 is fluorescent as indicated by the emission spectra provided in the supporting information.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the photophysical behavior of Cl-BI chromophore conformers in the solid state and in the cage the same?",
+      "answer": "No, the photophysical behavior of Cl-BI chromophore conformers differed between the solid state and in the cage, as indicated by the different optical transition strengths and the bathochromic shift observed.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "MOF [Fe(tvp)2(NCS)2] · 2BzCHO",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "temperature": "160-220 K",
+          "solvents": "Not specified",
+          "equipment": [
+            {
+              "type": "Synchrotron x-ray diffraction",
+              "details": "beamline SNBL at the ESRF synchrotron, λ = 0.69730 Å, Pilatus 2M detector, 146.2 mm from sample"
+            },
+            {
+              "type": "SuperNOVA diffractometer",
+              "details": "Agilent Technologies, EosS2 CCD detector, microfocus copper source (λ = 1.54184 Å), flowing nitrogen 700 and 800 Plus series cryostats from Oxford Cryosystems"
+            }
+          ],
+          "chemicals_used": "benzaldehyde (C6H5COH; BzCHO)",
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_information": "The guest molecule benzaldehyde induces various types of SCO behavior towards the low-spin (LS, S = 0) state."
+        }
+      ]
+    },
+    {
+      "name": "Molecular dynamics (MD) simulations",
+      "synthesis_conditions": [
+        {
+          "step": "MD simulations",
+          "temperature": "298 K",
+          "solvents": "Not specified",
+          "equipment": "DLPOLY software",
+          "chemicals_used": "benzaldehyde, MOF-SCO material",
+          "time": "10 ns with a time step of 1 fs, 10 ns of equilibration",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "additional_information": "Used to explore the structure of guest molecules confined within the MOF-SCO. The simulation box consisted of two unit cells with specific dimensions for LS and HS forms."
+        }
+      ]
+    },
+    {
+      "name": "Grand canonical Monte Carlo (GCMC) simulation",
+      "synthesis_conditions": [
+        {
+          "step": "GCMC simulation",
+          "temperature": "298 K",
+          "solvents": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "benzaldehyde, MOF-SCO material",
+          "time": "1 × 109 GCMC steps",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "8 molecules per unit cell",
+          "additional_information": "Performed to fill the porous material at 1 bar and T = 298 K (saturation)."
+        }
+      ]
+    }
+  ]
+}

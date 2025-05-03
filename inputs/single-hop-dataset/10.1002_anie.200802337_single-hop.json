@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of using near-infrared (NIR) emission for biological applications?",
+      "answer": "Biological tissues are more transparent at NIR wavelengths, facilitating deeper penetration of light.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is direct excitation of LnIII ions considered inefficient?",
+      "answer": "Due to their weak (Laporte forbidden) f–f absorptions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the antenna effect have on metal emission?",
+      "answer": "It more effectively achieves sensitization of the metal emission.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which two metal ions showed sensitized emission in the NIR region when complexed with the 5LIO-Me-3,2-hopo ligand?",
+      "answer": "PrIII and HoIII.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the geometry of the HoIII ion in the Na[Ho(5LIO-Me-3,2-hopo)2] complex?",
+      "answer": "Archimedian antiprismatic (D4d) geometry.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the Na+ counterion in the structure of Na[Ho(5LIO-Me-3,2-hopo)2]?",
+      "answer": "It forms a hexadentate coordination geometry and links two complexes together to form dimers.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a broad ligand-centered absorption band at 346 nm indicate about the PrIII and HoIII complexes?",
+      "answer": "It indicates that the complexes have essentially identical electronic absorption spectra.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the 5F5!5I6 transition for HoIII likely not observed in the spectra?",
+      "answer": "Due to strong reabsorption of the weakly emitted NIR radiation by the solvent.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What suggests that the sensitizing triplet level of the Me-3,2-hopo ligand is too low to effectively populate the 3P0 excited state of PrIII?",
+      "answer": "The absence of expected peaks originating from the 3P0 excited level.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the lifetime of the NIR emission for the PrIII complex determined?",
+      "answer": "Using the time-correlated single photon counting (TCSPC) technique.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the monoexponential lifetime of the HoIII complex's emission indicate?",
+      "answer": "It indicates a consistent lifetime measurement in both the visible and NIR regions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 5F5!5I7 transition of the HoIII complex observed in the NIR region?",
+      "answer": "Yes, the 980 nm band in the NIR region can be attributed to the 5F5!5I7 transition of the HoIII complex.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The direct excitation of LnIII ions is highly efficient.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Na+ counterion dissociates upon dissolution in water to form the solvated ion, allowing ligand strands to freely rotate.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The emission spectra of the PrIII and HoIII complexes in the visible region are identical.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The 5F5!5I6 transition for HoIII was observed in the spectra of the complex.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The NIR emission spectra for PrIII and HoIII complexes are significantly different.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The absence of the 1D2!1G4 transition for PrIII in the NIR region is likely due to reabsorption by the aqueous solvent.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Sensitized emission from PrIII complexes in the NIR region is common.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The lifetime measurements in the NIR region for the HoIII complex were inconsistent with those in the visible region.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

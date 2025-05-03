@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of PCN-136?",
+      "answer": "C84H36O32Zr6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of PCN-136?",
+      "answer": "Aromatization-driven postsynthetic annulation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of PCN-136?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of PCN-136?",
+      "answer": "Fd-3m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (V) of the unit cell for PCN-136?",
+      "answer": "89047(6) Å3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photocatalytic activity of PCN-136 higher than that of pbz-MOF-1?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does PCN-136 exhibit a photocatalytic activity of three times that of pbz-MOF-1?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the photocatalytic CO2 reduction experiment conducted under visible-light irradiation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was H2 detected as a product in the photocatalytic CO2 reduction experiment using PCN-136?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the structure of PCN-136 maintained after reaction cycling?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TIPA in the photocatalytic CO2 reduction experiment?",
+      "answer": "Serves as an electron donor and hydrogen donor",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the photocatalytic performance of PCN-136 compared to pbz-MOF-1?",
+      "answer": "PCN-136 showed nearly 3 times higher HCOO– yield than pbz-MOF-1 under the same reaction conditions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of introducing Ru(bpy)3Cl2 into the pbz-MOF-1 system?",
+      "answer": "The amount of HCOO– anion produced from pbz-MOF-1 increased to a level comparable to that of PCN-136",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using a UV-cutoff filter in the photocatalytic CO2 reduction experiment?",
+      "answer": "To ensure that only visible light was used for irradiation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of the Mott-Schottky measurement for PCN-136?",
+      "answer": "The positive slope of the obtained C2– values is consistent with those of typical n-type semiconductors",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the photocatalytic CO2 reduction experiment with PCN-136 selective towards a specific product?",
+      "answer": "Yes, the catalyst is highly selective toward the conversion to HCOO–",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the photocatalytic CO2 reduction experiment with PCN-136 produce any gaseous products?",
+      "answer": "No, there was no H2, CH4, or CO observed",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the photocatalytic CO2 reduction experiment with PCN-136 conducted in a mixed solvent system?",
+      "answer": "Yes, it was conducted in a mixed MeCN/H2O system",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the xenon arc lamp in the photocatalytic CO2 reduction experiment?",
+      "answer": "It was used as the irradiation source",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of the π-conjugated hexabenzocoronene-based linkers in PCN-136?",
+      "answer": "They improved the optical absorption of the materials and largely increased the yield of the photocatalytic reaction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

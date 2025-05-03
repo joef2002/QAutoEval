@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of the porous coordination polymer 1 described in this paper?",
+            "answer": "The chemical formula of the porous coordination polymer 1 is [Zn(TCNQ-TCNQ)bpy].",
+            "type": "factual"
+        },
+        {
+            "question": "What two ligands are used to construct the three-dimensional structure of 1?",
+            "answer": "The two ligands used to construct the three-dimensional structure of 1 are 4,4-bipyridyl (bpy) and 7,7,8,8-tetracyano-p-quinodimethane (TCNQ).",
+            "type": "factual"
+        },
+        {
+            "question": "What characterization technique was used to detect the structural transformation of 1 upon adsorption of O2 and NO?",
+            "answer": "X-ray powder diffraction (XRPD) analysis was used to detect the structural transformation of 1 from the closed form to the open form upon adsorption of O2 and NO.",
+            "type": "factual"
+        },
+        {
+            "question": "What spectroscopic technique provided direct evidence of a charge-transfer interaction between the framework of 1 and adsorbed O2 molecules?",
+            "answer": "Raman spectroscopy of 1 under an O2 atmosphere provided direct evidence of a charge-transfer interaction, based on the large redshift observed in the O=O stretching band of the adsorbed O2 compared to gaseous O2.",
+            "type": "factual"
+        },
+        {
+            "question": "At what temperature were the infrared spectra measured to study the charge state of the TCNQ ligand in 1 during O2 sorption?",
+            "answer": "The infrared spectra were measured at 93 K to study the charge state of the TCNQ ligand in 1 during O2 sorption.",
+            "type": "factual"
+        },
+        {
+            "question": "What two properties of 1 are stated to be key to its selective sorption of O2 and NO over other gases?",
+            "answer": "The structural dynamics (closed-open structural transformation) and electron-donating function of the framework of 1 are stated to be key to its selective sorption of O2 and NO over other gases.",
+            "type": "factual"
+        },
+        {
+            "question": "Why does the framework of 1 selectively adsorb O2 and NO over CO2, even though CO2 has a smaller kinetic diameter?",
+            "answer": "The selectivity for O2 and NO over CO2 arises from the charge-transfer interaction between O2/NO and the electron-donating TCNQ ligands, not simply from size-based discrimination, since CO2 actually has a smaller kinetic diameter than O2 and NO.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Based on the infrared spectra, what can be concluded about the form of the TCNQ ligands in 1 during the O2 sorption process?",
+            "answer": "The lack of change in the \u672a(C-H) band at 805 cm-1 indicates that the TCNQ moieties remain in their dimeric form during the O2 sorption process, while the shift in the \u8c13(C\u922e\ue4d4) bands shows a change in the electron density and conjugation of the TCNQ \u87fa-system due to charge transfer with O2.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Why was 18O2 used in addition to 16O2 in the Raman spectroscopy experiments on 1?",
+            "answer": "18O2 was used in addition to 16O2 in order to definitively assign the sharp band at 1454 cm-1 to the O=O stretching mode of adsorbed oxygen. This band disappeared when switching from a 16O2 to an 18O2 atmosphere, confirming it arises from adsorbed O2 rather than the framework.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What two effects are proposed to account for the unusual state of the O2 molecules adsorbed in 1 as evidenced by Raman spectroscopy?",
+            "answer": "The large redshift of the O=O stretching band suggests the adsorbed O2 molecules have a partial negative charge due to a combination of 1) charge transfer from the electron-donating framework and 2) confinement effects from adsorption in the pores.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How do the reduction energies of O2 and NO compare to those of the other gases studied, and how does this relate to the selective adsorption by 1?",
+            "answer": "O2 and NO have lower reduction energies and better electron acceptability compared to the other gases. This electron acceptability allows them to engage in charge-transfer interactions with the electron-donating framework of 1, leading to selective adsorption over the other gases.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What property of porous coordination polymers makes them promising candidates for achieving selective adsorption compared to conventional porous materials?",
+            "answer": "The designability of porous coordination polymers, arising from their modular structure and the ability to functionalize the organic linkers, makes them promising for achieving selective adsorption compared to conventional porous materials where it is more difficult to tune host-guest interactions.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the combination of structural dynamics and electronic functionality enable the selective adsorption properties of 1?",
+            "answer": "The structural dynamics (closed-open structural transformation) provides a size/shape-based selectivity while the electronic functionality (electron-donating TCNQ ligands) provides a specific charge-transfer interaction with O2 and NO. Together, these properties enable the highly selective adsorption of O2 and NO over other gases by 1.",
+            "type": "reasoning"
+        },
+        {
+            "question": "The selective adsorption of O2 and NO by 1 arises from a charge-transfer interaction between the gas molecules and the TCNQ ligands.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "The framework of 1 remains in the closed form upon adsorption of O2 and NO.",
+            "answer": "False - XRPD analysis shows the framework transforms from the closed form to an open form upon adsorption of O2 and NO.",
+            "type": "true_false"
+        },
+        {
+            "question": "Infrared spectroscopy indicates that the TCNQ ligands in 1 remain in a dimeric form during O2 adsorption.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "The O2 molecules adsorbed in 1 have a partial positive charge due to the charge-transfer interaction with the framework.",
+            "answer": "False - The Raman data suggests the adsorbed O2 molecules have a partial negative charge due to accepting electron density from the electron-donating framework.",
+            "type": "true_false"
+        },
+        {
+            "question": "The selective adsorption of 1 for O2 over CO2 can be explained solely by the difference in kinetic diameters of the two gases.",
+            "answer": "False - CO2 actually has a smaller kinetic diameter than O2. The selectivity arises instead from the specific charge-transfer interaction between O2 and the framework.",
+            "type": "true_false"
+        },
+        {
+            "question": "The structural flexibility of 1 plays no role in its selective gas adsorption properties.",
+            "answer": "False - The closed-open structural transformation of 1 is stated to be a key factor, along with the electronic functionality, in enabling the selective adsorption of O2 and NO.",
+            "type": "true_false"
+        },
+        {
+            "question": "Conventional porous materials like zeolites and activated carbons can easily be designed to achieve highly selective adsorption of particular gas molecules.",
+            "answer": "False - It is stated that it is difficult to design conventional porous materials to have specific host-guest interactions for selective adsorption, motivating the use of porous coordination polymers.",
+            "type": "true_false"
+        }
+    ]
+}

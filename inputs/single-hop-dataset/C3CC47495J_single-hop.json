@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the liquid phase epitaxy (LPE) method used for in the context of ZIF-8 membranes?",
+      "answer": "The LPE method is used for the deliberate growth/construction of ultrathin (0.5–1 lm) continuous and defect-free ZIF-8 membranes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gas pair systems were studied for their permeation properties using ZIF-8 membranes?",
+      "answer": "The gas pair systems studied were O2–N2, H2–CO2, CO2–CH4, C3H6–C3H8, and CH4–n-C4H10.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of MOFs in membrane gas separation technology?",
+      "answer": "MOFs are significant due to their controlled porosity, tuned affinity for specific gases, and amendable chemical composition, making them prospective materials for gas separation and storage applications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: ZIF-8 is the most widely studied MOF membrane for gas separation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical accessible window aperture of ZIF-8?",
+      "answer": "The theoretical accessible window aperture of ZIF-8 is 3.4 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the membrane preparation method critical for the fabrication of suitable MOF membranes?",
+      "answer": "It is critical because controlling the growth process is difficult with solvothermal methods, and there's a high probability of growing undesirably large crystals and thick MOF layers, resulting in poor film-reproducibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The LPE method for ZIF-8 membrane construction was reported to have significant discrepancies in gas permeation properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the occurrence of a permeation time-lag in the pressure-rise curves indicate?",
+      "answer": "It indicates gas transport diffusional resistance mainly via the pore network of the ZIF-8 with minimal contribution from inter-crystalline defects or gaps.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The LPE method allowed for the control over film growth thickness and continuity of ZIF-8 membranes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed lower permeance for the relatively thinner ZIF-8 films compared to?",
+      "answer": "It was compared to preceding thicker ZIF-8 films in the open literature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ZIF-8 membrane showed an ideal selectivity of 2.4 for C2H4–C2H6 at 308 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the significant decrease in gas permeance indicate about the ZIF-8 continuous membrane?",
+      "answer": "It indicates the effective fabrication of a higher quality ZIF-8 continuous membrane with minimal grain boundary micro-defects.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ZIF-8 membrane's performance for the separation of CH4/n-C4H10 revealed a selectivity of 4 at 308 K after steady state at 30 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the selectivity improvement when the temperature was raised to 323 K for CH4/n-C4H10 separation?",
+      "answer": "The selectivity improved to ca. 16 when the temperature was raised to 323 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The performances of the ZIF-8 membrane prepared by the LPE method for the separation of H2–CO2, H2–N2, H2–CH4, and C2H4–C2H6 in mixtures match the respective ideal selectivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the range of gas permeance measured on the ultra-thin ZIF-8 membrane fabricated by the LPE growth method indicate?",
+      "answer": "It indicates high quality, reproducible membranes with negligible defects and gaps.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ZIF-8 membrane showed an ideal selectivity of 2.5 for O2–N2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for pure gas adsorption measurements?",
+      "answer": "Pure gas adsorption measurements were carried out using the gravimetric–densimetric technique.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ZIF-8 membrane's separation factor for the C3H6–C3H8 mixture was lower than the ideal selectivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of the faster permeating C3H6 in the feed may promote regarding the window opening?",
+      "answer": "It may promote stretching of the window opening and thus facilitate the diffusion of the slightly larger C3H8.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

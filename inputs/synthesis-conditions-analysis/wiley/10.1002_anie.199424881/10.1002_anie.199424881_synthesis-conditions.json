@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "[Mn(N3)2(bpy)]n",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          },
+          {
+            "name": "water",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,2'-bipyridine",
+            "amount": "0.15 g",
+            "molarity": "1 mmol"
+          },
+          {
+            "name": "Mn(ClO4)2 * 6H2O",
+            "amount": "0.35 g",
+            "molarity": "1 mmol"
+          },
+          {
+            "name": "Na N3 (sodium azide)",
+            "note": "Excess, dissolved in water"
+          }
+        ],
+        "procedure": "2,2'-bipyridine in methanol was added dropwise to a stirred aqueous solution of Mn(ClO4)2 * 6H2O. Excess sodium azide dissolved in water was slowly added. The resulting yellow solution was filtered and left to stand at room temperature. After several days, prismatic, transparent, yellow, X-ray quality single crystals were obtained.",
+        "yield": "0.23 g (77%)",
+        "temperature": "Room temperature",
+        "time": "Several days",
+        "equipment": [
+          {
+            "name": "stirrer"
+          },
+          {
+            "name": "filter"
+          }
+        ],
+        "drying_method": "Standing at room temperature"
+      }
+    }
+  ]
+}

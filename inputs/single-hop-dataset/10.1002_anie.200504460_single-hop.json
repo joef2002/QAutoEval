@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of the coordination compound that undergoes two consecutive reversible phase transitions?",
+      "answer": "[Pb(m-Cl)2(m-bipy)]1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the phase transition from 1b to 1a occur?",
+      "answer": "Below 271 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest symmetry phase of [Pb(m-Cl)2(m-bipy)]1 called?",
+      "answer": "1g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to prepare single crystals of 1b suitable for X-ray diffraction?",
+      "answer": "Three-layer diffusion",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the bipy ligands during the transition from 1b to 1a?",
+      "answer": "One nitrogen atom of each bipy ligand shifts in the c direction to the next lead atom.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the high-temperature phase 1g?",
+      "answer": "Cmmm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the phase transition from 1b to 1g considered topotactic?",
+      "answer": "Because essential features of the layer structure are conserved during the process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main reason for the larger cell volume of the high-temperature form 1g compared to 1b?",
+      "answer": "The difference in the cell constant a.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination environment of the lead atoms change in the transition to the low-temperature structure 1a?",
+      "answer": "It becomes highly distorted and asymmetric.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the phase transition on the space filling of the structure?",
+      "answer": "The space filling increases in the low-temperature phase due to a reduction in the distance between neighboring bipy bridges.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the crystal-to-crystal transformations being reversible?",
+      "answer": "It indicates that the structure can switch between phases without losing its crystalline character.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the term 'aristotype' refer to in the context of the phase transitions?",
+      "answer": "The arrangement of maximum symmetry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase transition from 1b to 1a reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the decomposition of the crystals start at 450 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the crystal-to-crystal transformations limited to single crystals only?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of the room-temperature phase 1b Cmmm?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the transition from 1b to 1g involve a decrease in symmetry?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the phase transition from 1b to 1a accompanied by visible changes?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the transition to the low-temperature structure 1a involve the movement of entire {Pb(m-Cl)2}1 chains throughout the crystal?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the decomposition temperature of the sample below 500 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

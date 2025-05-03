@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary feature of the synthesized metal-organic framework (MOF) mentioned in the text?",
+      "answer": "The synthesized MOF exhibits both direct chemiluminescence and dual tunable photoluminescence.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What application is the MOF explored for, as mentioned in the text?",
+      "answer": "The MOF has been explored as a selective visual sensor for hydrogen peroxide.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How can the sensing behavior of the MOF towards electron-rich aromatics be switched?",
+      "answer": "The sensing behavior can be switched from 'turn-off' to 'turn-on' by varying the excitation wavelength.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What response does the MOF exhibit towards nitroaromatics?",
+      "answer": "The MOF exhibits a novel linear quantitative quenching response towards nitroaromatics.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of anthracene moieties in the MOF's structure?",
+      "answer": "Incorporating anthracene moieties into the framework is a strategy to develop luminescent materials with remarkable sensing properties.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What makes the MOF a multiresponsive sensor?",
+      "answer": "Its ability to exhibit both chemiluminescence and photoluminescence, along with dual tunable sensing responses, makes it a multiresponsive sensor.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens when the MOF is excited at 368 nm?",
+      "answer": "When excited at 368 nm, the MOF acts as a 'turn-off' sensor for electron-rich/deficient molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the emission color of the MOF when used as a CL agent?",
+      "answer": "The MOF exhibits remarkable green light emission.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How can the MOF be reused without deteriorating its sensing activity?",
+      "answer": "The MOF can be simply recovered by filtration and washed with DMF for reuse.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of tuning the excitation wavelength to 200 nm on the MOF's sensing behavior?",
+      "answer": "Tuning the excitation wavelength to 200 nm allows for 'turn-on' sensing of electron-rich molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural feature of the MOF that contributes to its chemiluminescence?",
+      "answer": "The incorporation of linear polycyclic aromatic hydrocarbons, such as anthracene derivatives, contributes to its chemiluminescence.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the MOF's structure affect its luminescence properties?",
+      "answer": "The 3D architecture of the MOF leads to the reduction of nonradiative decay rate, improving its luminescence properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it true that the MOF can act as both a 'turn-off' and 'turn-on' sensor for the same analyte?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The MOF's sensing behavior towards electron-rich aromatics cannot be switched by changing the excitation wavelength. Is this statement true?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's emission color when used as a CL agent blue?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The MOF exhibits a linear quantitative quenching response towards all types of analytes. Is this statement true?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is it true that the MOF can only be used once for sensing applications?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The MOF's structure remains intact after multiple cycles of use. Is this statement true?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is it true that the MOF does not exhibit photoluminescence?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The MOF's ability to switch between 'turn-off' and 'turn-on' sensing modes is unique and has not been reported before. Is this statement true?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

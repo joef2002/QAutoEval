@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of DPEB?",
+      "answer": "C56H40O8",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does NUS-1 belong to?",
+      "answer": "trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) were the crystal data for NUS-1a collected?",
+      "answer": "100.0 (2)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the space group of DPEB and NUS-1 the same?",
+      "answer": "False, DPEB has a triclinic system with space group P–1, while NUS-1 has a trigonal system with space group P–3.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the volume (Å3) of the crystal structure for NUS-1?",
+      "answer": "6420.0 (3)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does NUS-1a have a higher density (g/cm3) than DPEB?",
+      "answer": "False, DPEB has a density of 1.251 g/cm3, while NUS-1a has a density of 0.791 g/cm3.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula weight of NUS-1a?",
+      "answer": "1532.75",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were collected for NUS-1?",
+      "answer": "8347",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of NUS-1a different from that of NUS-1?",
+      "answer": "False, both NUS-1 and NUS-1a have a trigonal crystal system.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the R value for DPEB?",
+      "answer": "0.0397, 0.1019",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the space group of NUS-1a be determined from the given data?",
+      "answer": "Yes, the space group of NUS-1a is P–3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the volume of NUS-1a's crystal structure larger than that of NUS-1?",
+      "answer": "True, NUS-1a has a volume of 6438.8 (6) Å3, slightly larger than NUS-1's volume of 6420.0 (3) Å3.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Goodness-of-fit value for NUS-1?",
+      "answer": "1.108",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the molecular formula of NUS-1a indicate the presence of zinc?",
+      "answer": "Yes, the molecular formula C84H54O13Zn4 indicates the presence of zinc.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the density of DPEB higher than that of NUS-1?",
+      "answer": "True, DPEB has a density of 1.251 g/cm3, which is higher than NUS-1's density of 0.801 g/cm3.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the peak position (°C) for the endothermic peak observed in NUS-1a during the heating scan?",
+      "answer": "-132.7 °C",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the crystal structure of NUS-1 be determined from its space group and temperature of data collection?",
+      "answer": "Yes, with the space group P–3 and temperature of 100.0 (2) K, the crystal structure of NUS-1 can be determined.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the molecular formula of NUS-1 the same as that of NUS-1a?",
+      "answer": "False, NUS-1 has a molecular formula of C84H54O14Zn4, while NUS-1a has C84H54O13Zn4.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the R value for NUS-1a?",
+      "answer": "0.0949, 0.2400",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the crystal system of DPEB differ from that of NUS-1 and NUS-1a?",
+      "answer": "Yes, DPEB has a triclinic crystal system, while NUS-1 and NUS-1a have a trigonal crystal system.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

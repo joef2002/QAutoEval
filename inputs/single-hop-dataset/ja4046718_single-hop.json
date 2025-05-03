@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the structure of S3 when trapped in a pore?",
+      "answer": "C2v bent structure",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can S3 be transformed to S6 in the network?",
+      "answer": "Yes, S3 can be transformed to S6 by mechanical grinding or heating in the presence of NH4X (X = Cl or Br).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the network containing trapped S3 stable under ambient conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the ab initio crystal structure determination of network 2?",
+      "answer": "X-ray powder diffraction analysis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does photoirradiation affect S3 when encapsulated in a pore?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to S3 in network 2 when exposed to sulfur vapor?",
+      "answer": "It changes from pale yellow to bright yellow, indicating sulfur encapsulation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation of S3 to S6 reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the transformation of S3 to S6 in the presence of NH4Cl?",
+      "answer": "A proton from an ammonium cation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can S6 enter the pore physically?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NH4Br in the transformation of S3 to S6?",
+      "answer": "It catalyzes the S6 ring formation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the presence of S3 in network 2?",
+      "answer": "A shoulder at ∼680 cm−1 in the IR spectrum corresponding to the S3 asymmetric stretching mode.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of NH4Cl impurity affect the formation of S6 in network 1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of mechanical grinding on S3 in network 2?",
+      "answer": "It converts S3 to S6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to S3 in network 2 when heated with NH4Cl?",
+      "answer": "It transforms to network that traps S6.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is polymerized sulfur observed in network 1 below 573 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence supports the existence of S3 in a pore?",
+      "answer": "Diffuse reflectance UV–vis spectra showing an additional absorption band at ∼420 nm attributable to S3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What indicates the generation of polymerized sulfur in the pores at 653 K?",
+      "answer": "Broad absorption bands reaching 1450 nm in the near-IR region.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the XRPD pattern of network 2 change over 2-3 months under ambient conditions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of photoirradiation with a xenon lamp on S3 powder?",
+      "answer": "No change in the XRPD pattern.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the TG/DSC of network 2 indicate about S3?",
+      "answer": "S3 evaporates from the pores of the network at temperatures >500 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

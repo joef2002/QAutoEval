@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the CoIII complex discussed in the article?",
+      "answer": "C19 H22 Co N4 Na O4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method and basis set were used for geometry optimization in the DFT calculations?",
+      "answer": "UB3LYP/6-31+g(d,p) level of theory",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of NaH2PO4 in the water oxidation mechanism according to the DFT study?",
+      "answer": "NaH2PO4 assists the nucleophilic attack of water in the oxygen-oxygen bond formation step.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation barrier for the water nucleophilic attack transition state TS?",
+      "answer": "The activation barrier for the water nucleophilic attack transition state TS is the lowest among the modeled pathways.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental conditions were used to construct the energy diagram for the full catalytic cycle?",
+      "answer": "Reference potential of 1.4 V vs NHE and pH = 7.0",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the oxidation process of the CoIII complex ligand-centered or metal-centered?",
+      "answer": "The oxidation process of the CoIII complex is ligand-centered.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Gibbs free energy change for the proton in aqueous solution used in the study?",
+      "answer": "-272.2 kcal/mol",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the preferred pathway for O-O bond formation in the cobalt-catalyzed water oxidation?",
+      "answer": "The preferred pathway for O-O bond formation is through the water nucleophilic attack via transition state TS.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of phosphate anion in the water oxidation mechanism?",
+      "answer": "The phosphate anion acts as a proton acceptor facilitating the nucleophilic attack of water.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the kinetic isotope effect (KIE) value mentioned in the study?",
+      "answer": "The kinetic isotope effect (KIE) value is 2.0.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study provides a detailed mechanism for water oxidation catalyzed by a CoIII complex.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The DFT calculations suggest that the CoIII center undergoes oxidation to CoIV during the catalytic cycle.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study concludes that the CoIII complex is unstable under the working conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The buffer anion's role in the catalytic cycle is to donate a proton.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study uses experimental solvation free energies for water, proton, and sodium cation in the DFT calculations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study identifies a single transition state as the rate-limiting step in the catalytic cycle.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study suggests that the CoIII complex undergoes a two-electron oxidation process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study finds that the CoIII complex directly interacts with oxygen molecules during the catalytic cycle.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study concludes that the CoIII complex is a homogeneous catalyst for water oxidation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study demonstrates that the CoIII complex is more efficient than Ru-based catalysts for water oxidation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

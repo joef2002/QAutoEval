@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the microporous cationic framework reported?",
+      "answer": "JCM-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What functional groups are present on the pore surfaces of JCM-1?",
+      "answer": "Imidazolium functional groups",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of pyrazolate in JCM-1?",
+      "answer": "Pyrazolate acts as a metal binding group to form strong metal-to-ligand bonds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the separation of acetylene from carbon dioxide and ethylene challenging?",
+      "answer": "Because of their similar sizes and physical properties.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What makes MOFs strong candidates for gas separation?",
+      "answer": "The presence of functional pore surfaces that can selectively capture a specific target molecule.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of JCM-1 makes it highly recyclable in separation processes?",
+      "answer": "Its excellent hydrolytic stability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the structure of JCM-1 confirmed?",
+      "answer": "By single-crystal X-ray diffraction analysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the BET surface area of JCM-1 being 550 m2 g@1?",
+      "answer": "It indicates the microporosity of JCM-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does JCM-1 show selective sorption of acetylene over carbon dioxide and ethylene?",
+      "answer": "Due to the appropriate channel diameter and the high affinity of the imidazolium functional group toward acetylene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What theory is used to predict the adsorption selectivity in JCM-1?",
+      "answer": "Ideal adsorbed solution theory (IAST).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of nitrate in JCM-1's binding of acetylene?",
+      "answer": "It indicates a potential role of nitrate in the strong binding of acetylene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the water stability of JCM-1 contribute to its practical applications?",
+      "answer": "It promises potential applications of the material in realistic gas separation processes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the BET surface area of JCM-1 less than 600 m2 g@1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does JCM-1 possess poor hydrolytic stability?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is JCM-1 the first imidazolium-based MOF with excellent water-stability?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can JCM-1 selectively sorb acetylene over carbon dioxide and ethylene due to its unique structure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption capacity of C2H2 in JCM-1 under dynamic conditions significantly different from the equilibrium adsorption?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does JCM-1 show a decrease in C2H2 capacity over multiple cycles of adsorption-desorption?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the selectivity of JCM-1 towards C2H2 over CO2 and C2H4 due to the size of the gas molecules alone?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

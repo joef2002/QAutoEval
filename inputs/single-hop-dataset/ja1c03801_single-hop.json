@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the empirical formula of FTR-P1?",
+      "answer": "C24H12D8N2O8Zn2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the crystal structure of FTR-P1d collected?",
+      "answer": "The crystal structure of FTR-P1d was collected at 110 K, 160 K, and 275 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of FTR-P1d at 275 K?",
+      "answer": "The space group of FTR-P1d at 275 K is Cmma.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of adsorption isotherm does FTR-P1 display for CO2 at 195 K?",
+      "answer": "FTR-P1 displays a type I CO2 adsorption isotherm at 195 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum CO2 uptake for FTR-P1d at 195 K?",
+      "answer": "The maximum CO2 uptake for FTR-P1d at 195 K is 1.73 mmol/g STP.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy for the 4-site flip reorientation of ring A in the β-phase of FTR-P1d?",
+      "answer": "The activation energy for the 4-site flip reorientation of ring A in the β-phase of FTR-P1d is 1.2 kcal/mol.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the phase transition temperature range observed for FTR-P1d under vacuum?",
+      "answer": "The phase transition temperature range observed for FTR-P1d under vacuum is from 210 K to 390 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the molecular motion of FTR-P1d reversible upon heating and cooling?",
+      "answer": "Yes, the molecular motion of FTR-P1d is reversible upon heating and cooling.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of CO2 affect the rotational dynamics of bipyridine rings in FTR-P1d?",
+      "answer": "Yes, the presence of CO2 affects the rotational dynamics of bipyridine rings in FTR-P1d.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the isosteric heat of adsorption for FTR-P1?",
+      "answer": "The isosteric heat of adsorption for FTR-P1 was calculated using Langmuir and Langmuir-Freundlich models, and measured with sorption-coupled microcalorimetry.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of CO2 loading on the phase transition of FTR-P1d?",
+      "answer": "CO2 loading leads to a phase transition from the β-phase to the α'-phase in FTR-P1d.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the average isosteric heat of adsorption for FTR-P1 according to the Langmuir model?",
+      "answer": "The average isosteric heat of adsorption for FTR-P1 according to the Langmuir model is 32.5 kJ/mol.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the dynamics of molecular rotors in FTR-P1d be actively manipulated by external stimuli?",
+      "answer": "Yes, the dynamics of molecular rotors in FTR-P1d can be actively manipulated by external stimuli such as CO2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for potential energy scans of the BCP conformations in FTR-P1?",
+      "answer": "DFT (Density Functional Theory) and Molecular Mechanics (MM) computational methods were used for potential energy scans of the BCP conformations in FTR-P1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the paddle-wheel node in the structure of FTR-P1?",
+      "answer": "The paddle-wheel node acts as a structural anchor, coordinating with the carboxylate groups of BCP and the nitrogen atoms of bipyridine to form the 3D framework of FTR-P1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does FTR-P1 exhibit reversible gas-capture properties?",
+      "answer": "Yes, FTR-P1 exhibits reversible gas-capture properties.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the disorder observed in the bipyridine and BCP ligands in FTR-P1?",
+      "answer": "The disorder observed in the bipyridine and BCP ligands in FTR-P1 indicates flexibility in the structure, which is crucial for the dynamic behavior and gas adsorption properties of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of DMF on the dynamics of FTR-P1d?",
+      "answer": "The presence of DMF in FTR-P1d impacts the dynamics by altering the rotational frequencies of the bipyridine rings, indicating that guest molecules can modulate the motion of molecular rotors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the rotational motion of the BCP rotors in FTR-P1d temperature-dependent?",
+      "answer": "Yes, the rotational motion of the BCP rotors in FTR-P1d is temperature-dependent.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to investigate the spin-lattice relaxation times (T1) of FTR-P1d?",
+      "answer": "1H NMR spectroscopy was used to investigate the spin-lattice relaxation times (T1) of FTR-P1d.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

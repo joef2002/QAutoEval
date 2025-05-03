@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing the synthesis of a metal-organic framework with high surface area and gas storage capacities?",
+      "answer": "10.1038/NCHEM.834",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name of the metal-organic framework discussed in the article with a high BET surface area?",
+      "answer": "NU-100",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What gases were measured for storage capacities in the synthesized metal-organic framework?",
+      "answer": "Hydrogen and carbon dioxide",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to design and predictively characterize the metal-organic framework?",
+      "answer": "Computational modelling",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of NU-100 as reported in the article?",
+      "answer": "6,143 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the (3,24)-paddlewheel connected network in the design of NU-100?",
+      "answer": "It was chosen for its high stability under ambient conditions, 'open' coordination sites for enhanced gas uptake, and avoidance of network interpenetration to achieve maximum surface area.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental structure of NU-100 was found to be nearly identical to the predicted structure, NU-100SP.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was found to be effective in removing guest solvent molecules from the pores of NU-100 without damaging its porosity?",
+      "answer": "Activation with supercritical carbon dioxide (SCD)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The total hydrogen uptake of NU-100 at 70 bar and 77 K was calculated to be 164 mg g-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the experimental BET surface area of activated NU-100, and how does it compare to the simulated BET surface area of NU-100SP?",
+      "answer": "The experimental BET surface area of activated NU-100 was 6,143 m2 g-1, in excellent agreement with its simulated BET surface area (6,515 m2 g-1) and with the simulated BET surface area of NU-100SP (6,605 m2 g-1).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The pore size distribution of NU-100 revealed peaks at 17, 24, and 30 Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to calculate the BET surface area based on the simulated N2 adsorption isotherm?",
+      "answer": "The BET method, ensuring that the analysis satisfied the two consistency criteria as detailed by Walton et al.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The stability of NU-100 was confirmed by repeated high-pressure H2 uptake measurements showing no evidence of degradation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the hexatopic carboxylate ligand (LH6) in the structure of NU-100?",
+      "answer": "The deprotonated form of LH6, when combined with appropriate metal ions, forms the predicted structure through coordination of the carboxylate groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental gas sorption data for NU-100 and the simulated gas sorption data for NU-100SP show perfect agreement at high pressures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the calculated isosteric heat of adsorption of hydrogen in the low-loading limit for NU-100?",
+      "answer": "6.1 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental structure of NU-100 has cubic unit cell dimensions of a = b = c = 59.872(2) Å at 100 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the primary reason for the discrepancies between experimental and simulated H2 uptake data at high pressure for NU-100?",
+      "answer": "Possible reasons include the presence of solvent molecules and/or defects in NU-100, limitations in the molecular model, and the neglect of quantum diffraction effects for H2 molecules at 77 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The total CO2 uptake of NU-100 at 40 bar and 298 K was calculated to be 2,315 mg g-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the potential applications of metal-organic frameworks (MOFs) as mentioned in the article?",
+      "answer": "Gas storage, molecular separation, chemical catalysis, sensing, ion exchange, and drug delivery.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

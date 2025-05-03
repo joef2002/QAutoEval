@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Guest Molecule-Responsive Functional Calcium Phosphonate Frameworks for Tuned Proton Conductivity",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Montse Bazaga-García, Rosario M. P. Colodrero, Maria Papadaki, Piotr Garczarek, Jerzy Zoń, Pascual Olivera-Pastor, Enrique R. Losilla, Laura León-Reina, Miguel A. G. Aranda, Duane Choquesillo-Lazarte, Konstantinos D. Demadis, and Aurelio Cabeza",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research?",
+      "answer": "The research focuses on the synthesis, structural characterization, and functionality of an open-framework hybrid material for tuned proton conductivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of Ca-PiPhtA-I?",
+      "answer": "Ca2[(HO3PC6H3COOH)2]2[(HO3PC6H3(COO)2H)­(H2O)2]·5H2O",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and relative humidity was the highest proton conductivity measured for Ca-PiPhtA-NH3?",
+      "answer": "The highest proton conductivity for Ca-PiPhtA-NH3 was measured at 98% RH and T = 24 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What structural change occurs to Ca-PiPhtA-I upon exposure to ammonia vapors?",
+      "answer": "Upon exposure to ammonia vapors, Ca-PiPhtA-I transforms into a new derivative, Ca-PiPhtA-NH3, containing 7 NH3 and 16 H2O molecules, indicating partial breaking and transformation of the parent pillared structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of internal H-bonding networks in the Ca-PiPhtA materials?",
+      "answer": "Internal H-bonding networks are significant as they determine the conductivity properties of the Ca-PiPhtA materials, with the potential to create new proton transfer pathways for improved proton conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of Ca-PiPhtA materials higher than other Ca-based MOFs?",
+      "answer": "Yes, the proton conductivity of Ca-PiPhtA materials is higher than those reported for other Ca-based MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Ca-PiPhtA-I framework possess 1D channels hosting zigzag chains of water molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the proton conductivity properties of Ca-PiPhtA-I be enhanced by activation upon preheating?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation energy for proton transfer in Ca-PiPhtA-NH3 within the range consistent with the Grotthuss H+ transfer mechanism?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the exposure of Ca-PiPhtA-I to ammonia vapors result in a decrease in proton conductivity?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the structural changes upon dehydration of Ca-PiPhtA-I reversible upon rehydration?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water molecules in the proton conductivity of Ca-PiPhtA materials?",
+      "answer": "Water molecules play a crucial role in the proton conductivity of Ca-PiPhtA materials by forming extended networks of H bonds along the 1-D channels, creating potential proton transfer pathways.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the proton conductivity of Ca-PiPhtA-III at temperatures above 40 °C?",
+      "answer": "The proton conductivity of Ca-PiPhtA-III drops significantly at temperatures above 40 °C, most likely due to dehydration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the publication year of the research article?",
+      "answer": "The publication year is not explicitly mentioned in the provided text.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the research article include supporting information?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of thermal activation on Ca-PiPhtA-I's proton conductivity?",
+      "answer": "Thermal activation, specifically preheating at 40 °C, induces small structural or textural changes that enhance Ca-PiPhtA-I's proton conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the chemical formula of Ca-PiPhtA-II?",
+      "answer": "Ca2[(HO3PC6H3COOH)2]2[(HO3PC6H3(COO)2H)­(H2O)2]",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the research article published in the Journal of the American Chemical Society?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

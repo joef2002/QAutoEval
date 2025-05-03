@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound 1as?",
+      "answer": "C38 H40 N2 O16 Zn2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal data of 1as measured?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the compound 2?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of compound 2 exhibit interpenetration?",
+      "answer": "Yes, compound 2 is a two-fold interpenetrated structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of [Zn2(BMP-bdc)2(bipy)]n isoreticular to compound 1?",
+      "answer": "Yes, the structure of [Zn2(BMP-bdc)2(bipy)]n is isoreticular to compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the structure of [Zn2(BB-bdc)2(bipy)]n be determined from PXRD patterns?",
+      "answer": "Yes, the PXRD patterns indicate that the structure of [Zn2(BB-bdc)2(bipy)]n is isoreticular to compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2/N2 selectivity of compound 1dry higher at 195 K compared to 298 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound 1dry adsorb nitrogen at 77 K?",
+      "answer": "False, compound 1dry does not adsorb any nitrogen at 77 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2/CH4 selectivity of compound 1dry the same at 195 K and 298 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of compound 2 revert to its original form after exposure to water vapor?",
+      "answer": "False, the structure does not revert to its original form after exposure to water vapor.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the sorption selectivity of CO2 over N2 in compound 1dry due to a simple size-sieving effect?",
+      "answer": "False, the sorption selectivity of CO2 over N2 in compound 1dry is not due to a simple size-sieving effect.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the flexible methoxyethoxy groups in compound 2 located in the electron density map?",
+      "answer": "False, most of the flexible methoxyethoxy groups in compound 2 could not be located in the electron density map due to high disorder.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2 sorption capacity of compound 1dry at 273 K higher than its N2 sorption capacity at the same temperature?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bipy in compound 1as?",
+      "answer": "The function of bipy in compound 1as is not that of a pillar between zinc-carboxylate sheets but rather an additional connector between infinite zinc-carboxylate rods.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What triggers the formation of the unique topology of compound 1?",
+      "answer": "The 2,5-disubstitution at the bdc linker triggers the formation of the unique topology of compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of compound 1as?",
+      "answer": "R-3c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "P21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the flexible alkyl ether side chains in compound 1dry?",
+      "answer": "The flexible alkyl ether side chains in compound 1dry act as molecular gates for guest molecules, allowing highly selective sorption of CO2 over N2 and CH4.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of [Zn2(BME-bdc)2(bipy)]n obtained using a linker with flexible alkyl ether groups?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compound 1 involve heating a mixture of H2BME-bdc, Zn(NO3)2·6H2O, and bipy to 85 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

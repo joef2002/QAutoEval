@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Crystal Structure of [Aib-COCO-Aib]Cu2: A Unique Example of Modular Self-Assembly",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the first author of the study?",
+      "answer": "Darshan Ranganathan",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "In which journal was the article published?",
+      "answer": "Journal of the American Chemical Society",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja00110a023",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "1995",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many supplementary materials are associated with the article?",
+      "answer": "2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated standard deviation for the bond angle between Atom 1 CU, Atom 2 O1, and Atom 3 CU?",
+      "answer": "0.4(1)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the distance between Atom 1 CU and Atom 2 O1?",
+      "answer": "1.936(3) Angstroms",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the dihedral angle between Plane 1 and Plane 2?",
+      "answer": "105.63 degrees",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the U11 displacement parameter for atom CU?",
+      "answer": "0.0196(1)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the B(A2) value for atom CU?",
+      "answer": "3.40(1)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the article published in the Journal of the American Chemical Society?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the article first published electronically in 2002?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article have a supplementary material available?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the bond distance between Atom 1 CU and Atom 2 O1 less than 2 Angstroms?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dihedral angle between Plane 3 and Plane 4 greater than 115 degrees?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the U22 displacement parameter for atom Cl greater than 0.02?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article provide information on the crystallographic equation of Plane 4?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystallographic equation of Plane 1?",
+      "answer": "5.3644X + 4.8870Y +-7.5646Z --0.0278 =0",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the distance between Atom 1 N1 and Atom 2 Cl?",
+      "answer": "1.291(4) Angstroms",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

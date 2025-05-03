@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "[Co(dpt24)2]guest",
+      "synthesis_conditions": {
+        "temperature": "160 oC",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          {
+            "name": "Hdpt24",
+            "amount": "0.112 g, 0.5 mmol"
+          },
+          {
+            "name": "CoCl26H2O",
+            "amount": "0.060 g, 0.25 mmol"
+          },
+          {
+            "name": "Et3N",
+            "amount": "0.2 mL"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "5 oC/hr to room temperature",
+        "washing_method": "washed with EtOH",
+        "drying_method": "dried at 150 oC in air",
+        "yield": "75%"
+      }
+    },
+    {
+      "name": "[Co(mdpt24)2]guest",
+      "synthesis_conditions": {
+        "temperature": "160 oC",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "15-mL Teflon-lined reactor",
+        "chemicals_used": [
+          {
+            "name": "Hmdpt24",
+            "amount": "0.119 g, 0.5 mmol"
+          },
+          {
+            "name": "CoCl26H2O",
+            "amount": "0.060 g, 0.25 mmol"
+          },
+          {
+            "name": "Et3N",
+            "amount": "0.2 mL"
+          }
+        ],
+        "time": "3 days",
+        "cooling_rate": "5 oC/hr to room temperature",
+        "washing_method": "washed with EtOH",
+        "drying_method": "dried at 150 oC in air",
+        "yield": "60%"
+      }
+    }
+  ]
+}

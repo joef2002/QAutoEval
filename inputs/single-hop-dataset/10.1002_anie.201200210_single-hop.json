@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of developing new cathode materials for lithium-ion batteries?",
+      "answer": "To confront the existing energy, economic, and ecologic crises by providing high power/energy density.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are MOPOFs?",
+      "answer": "Metal organic–phosphate open frameworks are hybrid materials with multidimensional architectures constructed from transition-metal phosphates cross-linked by simple organic linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why have MOPOFs not been previously investigated as energy storage materials?",
+      "answer": "Though well known for their structural diversity and conventional industrial applications, their potential as energy storage materials had not been explored.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the major challenges in utilizing MOFs as electrode materials for LIBs?",
+      "answer": "The high molecular weight, low density, difficulty of synthesizing large quantities, and challenging isolation of robust MOFs with redox-active metal centers.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What motivated the investigation of MOPOFs as cathode materials for LIBs?",
+      "answer": "The synthetic simplicity of MOPOFs with redox-active metal centers and the possible two-dimensional migration pathways for M+ ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of mixed organic oxalate and inorganic phosphate anions is expected to reduce the synthesis temperature required for MOPOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal density of MOPOF material 1 is lower than that of the reported MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of hydrothermal treatment of an aqueous solution of H3PO4, V2O5, and K2C2O4 at 120 8C?",
+      "answer": "It resulted in bluish-green plates of 1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the first charge cycle of 1 show in terms of lithium storage performance?",
+      "answer": "A single flat plateau at 4.16 V, corresponding to the extraction of K+ ions and resulting in a charge capacity of 85 mA h g-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cyclic voltammogram curves of 1 show the anodic and cathodic peak voltages at 4.18 and 3.83 V, respectively.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What confirms the stability of 1 upon charging and discharging?",
+      "answer": "Ex situ FTIR spectroscopy studies on the cycled electrodes after charging show characteristic carboxylate and phosphate bands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reversible capacity of 1 at different C rates was about 68, 58, and 40 mA h g-1 at the end of 60 cycles, respectively.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of 2.5 crystallographically different K+ ions in 1 indicate?",
+      "answer": "The charge is balanced by 1.5 HPO4 and 0.5 PO4 anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The bond-valence calculation of the V atoms of 1 shows the presence of only VIV.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the ex situ energy dispersive X-ray spectrum of the cycled electrode charged at 4.6 V show?",
+      "answer": "A decrease in the K/V or K/P ratio to 0.45 compared to the ratio in the bare electrode.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electrochemical cycling curves of the chemically lithiated product, 3, show a discharge capacity of 55 mA h g-1 at the end of the 25th cycle.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of the bluish-green precipitate, 1, after synthesis?",
+      "answer": "1.3 g, 75%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The systematic investigation of the electrochemical performance of 1 demonstrates the non-facile extraction and insertion of alkali metal ions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the improvement in the Warburg lines at low-frequency region of the spectra suggest?",
+      "answer": "That the Li+ ion diffusion conditions were improved upon cycling after the fifth cycle because of the removal of K+ ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the MOPOF system in the context of Na-ion batteries?",
+      "answer": "The MOPOF system could be applied to the emerging field of Na-ion batteries, which is important due to the higher natural abundance of Na compared to Li.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

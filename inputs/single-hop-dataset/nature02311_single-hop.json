@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the mass of the hollow ping-pong ball used in the experiment?",
+      "answer": "2.55 g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the diameter of the ping-pong ball?",
+      "answer": "3.8 cm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the shell thickness of the ping-pong ball?",
+      "answer": "0.038 cm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effective mass of the ping-pong ball including rolling inertial mass?",
+      "answer": "4.22 g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the flow speed of air used in the experiment?",
+      "answer": "280 cm s^-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the terminal speed of a falling ping-pong ball mentioned in the experiment?",
+      "answer": "800 cm s^-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Reynolds number based on sphere size?",
+      "answer": "Re = 104",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the variation of mesh size and height of side wall significantly affect the experiment?",
+      "answer": "No, variation of mesh size and height of side wall has little effect.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the airflow uniformity achieved by mounting the sieve to a windbox?",
+      "answer": "Yes, uniformity of airflow is achieved by mounting the sieve to a windbox.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the frame rate of the digital camera used to measure the ball position?",
+      "answer": "120 Hz",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the position resolution of the digital camera?",
+      "answer": "±0.05 mm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the ball speed and acceleration found by fitting position versus time to a third-order polynomial?",
+      "answer": "Yes, the ball speed and acceleration are found by fitting position versus time to a third-order polynomial.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the fitting window for calculating ball speed and acceleration consist of ±4 points?",
+      "answer": "Yes, the fitting window consists of ±4 points.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is a gaussian weighting used that is nearly zero at the edges for the fitting process?",
+      "answer": "Yes, a gaussian weighting that is nearly zero at the edges is used for the fitting process.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "How long were the position measurements based on?",
+      "answer": "3.9 h",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the experiment demonstrate a steadily driven dissipative system described by near-equilibrium statistical mechanics?",
+      "answer": "Yes, the experiment demonstrates a steadily driven dissipative system described by near-equilibrium statistical mechanics.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can gas-fluidized ping-pong balls be used to understand the application of near-equilibrium statistical mechanics to driven systems?",
+      "answer": "Yes, gas-fluidized ping-pong balls can be used to understand the application of near-equilibrium statistical mechanics to driven systems.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the framework of the experiment thermally stable in air at temperatures between 100 and 350 °C?",
+      "answer": "Yes, the framework is thermally stable in air at those temperatures.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the experiment involve monitoring the speed and uniformity of the upflow of air with a hot-wire anemometer?",
+      "answer": "Yes, the speed and uniformity of the upflow of air are monitored with a hot-wire anemometer.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the experiment's data based on 3.9 hours of position measurements?",
+      "answer": "Yes, the data in the experiment is based on 3.9 hours of position measurements.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

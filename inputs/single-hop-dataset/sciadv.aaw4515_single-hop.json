@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of FJU-23-H2O?",
+      "answer": "C30H29N9O19Zn3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the set voltage for Ag/FJU-23-H2O/Ag RRAM?",
+      "answer": "~0.2 V",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does FJU-23-H2O exhibit a rectification effect?",
+      "answer": "Yes, FJU-23-H2O exhibits a rectification effect.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ON/OFF ratio for the Ag/FJU-23-H2O/Ag RRAM?",
+      "answer": "2×105",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize FJU-23-H2O?",
+      "answer": "Solvo-thermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of FJU-23-H2O?",
+      "answer": "Hexagonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is FJU-23-H2O the first MOF with voltage-gated proton conduction?",
+      "answer": "Yes, FJU-23-H2O is the first MOF with voltage-gated proton conduction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the compliance current (ICC) used in the I-V measurements for FJU-23-H2O?",
+      "answer": "0.0001 A",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the rectification ratio of FJU-23-H2O?",
+      "answer": "~105",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the switched hydrogen bond pathway in FJU-23-H2O?",
+      "answer": "It is responsible for the resistive switching and rectifying effects.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does FJU-23-D2O exhibit volatile resistance switching behavior?",
+      "answer": "Yes, FJU-23-D2O exhibits volatile resistance switching behavior.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the set voltage range for FJU-23-D2O?",
+      "answer": "56.5 to 99.5 V",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the resistance switching in FJU-23-H2O attributed to proton transport?",
+      "answer": "Yes, the resistance switching in FJU-23-H2O is attributed to proton transport.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy value (Ea) for proton conduction in FJU-23-H2O under a dc voltage of 0.5 V?",
+      "answer": "1.42 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can FJU-23-H2O be used for high-density storage applications?",
+      "answer": "Yes, FJU-23-H2O has the potential for high-density storage applications.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the storage density potential of FJU-23-H2O compared to traditional mechanical hard disks?",
+      "answer": "100 times higher",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the temperature for the synthesis of FJU-23-H2O?",
+      "answer": "85°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is FJU-23-H2O electroforming-free?",
+      "answer": "Yes, FJU-23-H2O is electroforming-free.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DFIX command in the structure refinement of FJU-23-H2O?",
+      "answer": "To restrain the O─H bond distances.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the switched hydrogen bond pathway in FJU-23-H2O's structure?",
+      "answer": "It enables the turn ON/OFF of the chiral proton channels under the stimulus of dc voltages.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

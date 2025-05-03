@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are polymer-metal-organic frameworks (polyMOFs)?",
+      "answer": "PolyMOFs are a new class of hybrid porous materials that combine advantages of both organic polymers and crystalline metal-organic frameworks (MOFs).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes polyMOFs promising materials for CO2/N2 separations?",
+      "answer": "PolyMOFs exhibited relatively high CO2 sorption but very low N2 sorption, making them promising for CO2/N2 separations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are polyMOFs water stable?",
+      "answer": "Yes, polyMOFs demonstrated exceptional water stability attributed to the hydrophobicity of polymer ligands and the cross-linking of the polymer chains within the MOF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of pillaring linkers in the synthesis of polyMOFs?",
+      "answer": "Pillaring linkers, such as bpy, dabco, and bpe, are used in the synthesis of polyMOFs to form additional MOF architectures and enhance the framework's stability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How were the polymer ligands for polyMOFs synthesized?",
+      "answer": "The polymer ligands for polyMOFs were synthesized through a process involving the reaction of diethyl 2,5-dihydroxyterephthalate with appropriate dibromoalkane and potassium carbonate, followed by hydrolysis.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can polyMOFs be synthesized with different metal ions?",
+      "answer": "Yes, polyMOFs with other metal ions, such as Cu(II), can be prepared, suggesting the polyMOF approach can be generalized to other metal ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the polymer ligand degradation observed during the polyMOF synthesis process?",
+      "answer": "No, 1H NMR data confirmed that the recovered polymer ligands remained intact after the polyMOF synthesis process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the glass transition temperature (Tg) in the context of polyMOFs?",
+      "answer": "The glass transition temperature (Tg) of the polymer ligands affects the conformational freedom of the polymer and its polar fraction, influencing the properties of the resulting polyMOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Do polyMOFs inherit hydrophobicity from their polymer ligands?",
+      "answer": "Yes, polyMOFs inherit hydrophobicity from their polymer ligands, which contributes to their exceptional water stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to confirm the crystallinity of polyMOFs after water treatment?",
+      "answer": "Powder X-ray diffraction (PXRD) patterns were used to confirm that polyMOFs retain their crystallinity after water treatment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the kinetic sieving effect contribute to the selective adsorption in polyMOFs?",
+      "answer": "The kinetic sieving effect in polyMOFs limits the diffusion of larger N2 molecules into pores, reducing adsorption, while allowing smaller CO2 molecules to enter, contributing to selective adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are all polyMOFs hydrophobic?",
+      "answer": "No, not all polyMOFs are hydrophobic; the hydrophobicity depends on the competition between hydrophobic (polymer ligand) and hydrophilic (SBU) components of the polyMOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of gel permeation chromatography in the study of polyMOFs?",
+      "answer": "Gel permeation chromatography was used to determine the molecular weight values and polydispersity index of the polymer ligands used in polyMOF synthesis.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can polyMOFs be used for real-world applications?",
+      "answer": "Yes, the enhanced water stability and selective gas adsorption properties of polyMOFs suggest they may be suitable for real-world applications such as CO2 capture from flue gas.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do polyMOFs retain their original morphology after water treatment?",
+      "answer": "Yes, SEM data revealed that water-treated polyMOFs retained their original morphology, suggesting no dissolution or degradation of the original phase.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CO2 uptake capacity of polyMOFs?",
+      "answer": "The CO2 uptake capacity of polyMOFs indicates their efficiency in adsorbing CO2, which is crucial for applications in CO2 capture and separation processes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of polyMOFs affect their gas adsorption properties?",
+      "answer": "The structure of polyMOFs, including the type of pillaring linkers and polymer ligands used, affects the porosity and adsorption sites, influencing their gas adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are polyMOFs suitable for N2 sorption?",
+      "answer": "No, polyMOFs demonstrate very low N2 uptake, making them less suitable for N2 sorption but promising for CO2/N2 separation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical techniques were used to characterize polyMOFs?",
+      "answer": "Techniques such as NMR spectroscopy, gel permeation chromatography, gas adsorption measurements, scanning electron microscopy, and powder X-ray diffraction were used to characterize polyMOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Do polyMOFs demonstrate selective adsorption for CO2 over other gases?",
+      "answer": "Yes, polyMOFs demonstrate selective adsorption for CO2 over other gases such as N2 and CH4, attributed to a kinetic sieving effect.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

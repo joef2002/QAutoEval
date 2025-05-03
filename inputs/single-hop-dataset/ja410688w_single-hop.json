@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the oxidation state of cerium in [Li3(DMEDA)3][(BINOLate)3Ce] (1–DMEDA)?",
+      "answer": "III",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the color change observed upon addition of trityl chloride to the solution of [Li3(THF)4][(BINOLate)3Ce(THF)]·THF (1)?",
+      "answer": "The solution changes from light yellow to dark purple.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of sodium azide in the synthesis of [Li3(THF)5][(BINOLate)3Ce–N3] (2–N3)?",
+      "answer": "Sodium azide is used to introduce the azide group, resulting in the formation of the Ce-N3 bond.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main difference in the electronic absorption spectra between 2–N3 and other 2–X compounds?",
+      "answer": "2–N3 displays a very different λmax for the LMCT, suggesting a different origin of the CT band.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the observed reaction order of TPPO in the oxidation of 1 with trityl chloride in the presence of varying equivalents of TPPO?",
+      "answer": "The reaction order of TPPO is complicated, being inverse first order at low concentrations and inverse second order at higher concentrations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of [Li3(DMEDA)3][(BINOLate)3Ce–Cl]∙C5H12 (2–Cl(DMEDA)) when synthesized from 1?",
+      "answer": "80%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the color of the crystals obtained for [Li3(DMEDA)3][(BINOLate)3Ce–Br] (2–Br(DMEDA))?",
+      "answer": "Dark purple",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the oxidation of 1 with trityl chloride in the presence of TPPO an inner-sphere or outer-sphere process?",
+      "answer": "The oxidation mechanism is proposed to be an inner-sphere process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the function of sodium thiocyanate in the synthesis of [Li3(THF)5][(BINOLate)3Ce–NCS] (2–NCS)?",
+      "answer": "Sodium thiocyanate is used to introduce the thiocyanate group, resulting in the formation of the Ce-NCS bond.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main structural feature of {[Cs2][(BINOLate)3Ce]·DME}∞ (8)?",
+      "answer": "It forms infinitely repeating helical chains.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electronic absorption spectra of 2–N3 is similar to other 2–X compounds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The reaction order of TPPO in the oxidation of 1 with trityl chloride is consistent across all concentrations.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of [Li3(DMEDA)3][(BINOLate)3Ce–I] (2–I(DMEDA)) can also be achieved using N-iodosuccinimide.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of [Li3(THF)5][(BINOLate)3Ce–NCS] (2–NCS) results in a color change from dark purple to light yellow.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound [Li3(DMEDA)3][(BINOLate)3Ce] (1–DMEDA) is paramagnetic.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound {[Cs3(THF)1.5][(BINOLate)3Ce]}2 (7) forms a dimeric structure in the solid state.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound {[K2(THF)4(BINOL)][(BINOLate)3Ce]}∞ (6–BINOL) displays fluxional behavior in solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The reaction of 1 with trityl chloride in the presence of TPPO is not affected by the concentration of TPPO.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The electronic absorption spectra of 2–OAr displays a charge transfer (CT) band similar to other 2–X compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound [Li3(THF)5][(BINOLate)3Ce–N3] (2–N3) forms a monomeric structure in the solid state.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

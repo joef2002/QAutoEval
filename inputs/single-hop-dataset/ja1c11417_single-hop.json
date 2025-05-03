@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of NU-910-DEF-d-100K?",
+      "answer": "C92H54N8O36Zr6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal X-ray diffraction data of NU-910-acetone-i-225K collected?",
+      "answer": "225.15 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of NU-910-DEF-i-100K?",
+      "answer": "Pbam",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for geometry optimizations in DFT calculations?",
+      "answer": "B3LYP/Def2-SVP level of theory with dispersion corrections using Becke-Johnson damping",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of single crystals of NU-910?",
+      "answer": "Acetic acid was added to the mixture before incubation to facilitate the formation of single crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the PXRD pattern shift to higher angles after irradiation indicative of a structural change in NU-910?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the EPR signal intensity increase with irradiation time for NU-910-acetone?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area calculation in the characterization of NU-910-acetone?",
+      "answer": "The BET surface area calculation helps determine the porosity and surface area available for adsorption in NU-910-acetone.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the appearance of a new absorption band from 500 to 1400 nm upon UV irradiation indicate about NU-910-acetone?",
+      "answer": "It indicates the generation of organic radical species on the linker.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of a radical π-dimer in NU-910-acetone at temperatures higher than 225 K directly observed?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the change in crystal system from orthorhombic to monoclinic suggest about NU-910 under different conditions?",
+      "answer": "It suggests that NU-910 undergoes structural changes under different conditions, such as solvent exchange or temperature variation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the radical generation properties of NU-910-acetone be investigated through EPR spectroscopy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the decrease in unit cell volume from 10515 Å3 to 7549 Å3 indicate about NU-910?",
+      "answer": "It indicates a structural contraction of NU-910 upon solvent exchange from DEF to acetone.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the flexibility of MOFs utilized to modulate radical spin states in the solid state less precedented?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using a high-Q resonator in EPR spectroscopy for NU-910?",
+      "answer": "The high-Q resonator is used to enhance the sensitivity and resolution of EPR spectroscopy, allowing for the detection of subtle changes in the electronic environment of NU-910.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of NU-910 involve solvothermal synthesis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a signal at g = 2.000 in the EPR spectrum of H4BBI indicate?",
+      "answer": "It indicates the generation of a radical species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of a radical π-dimer in NU-910-acetone reversible?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the use of TDDFT calculations in the study of NU-910-acetone aim to achieve?",
+      "answer": "TDDFT calculations aim to elucidate the nature of the transitions observed in UV-vis-NIR spectroscopy, helping to understand the electronic structure and photochemical behavior of NU-910-acetone.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural flexibility of NU-910 directly observed through single-crystal X-ray diffraction analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

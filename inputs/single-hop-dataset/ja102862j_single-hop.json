@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for 4,4'-bis(1H-pyrazol-4-yl)biphenyl?",
+      "answer": "C18H14N4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for X-ray absorption experiments at the Ni K-edge?",
+      "answer": "Transmission mode at the BM26A of the ESRF facility",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What change in the DR-UV-Vis-NIR spectrum of species 4 occurs upon activation at 453 K?",
+      "answer": "A change in the intensity ratio between the two components detected in the UV region and the appearance of a new band centered at 7000 cm-1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the presence of extraframework cations in species 4 supported by the IR spectroscopy results?",
+      "answer": "No, the absence of components at higher frequencies excludes the presence of extraframework cations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of the thermodiffractometric measurements of species 4 when heated in air from room temperature to 410 °C?",
+      "answer": "The XRPD pattern of species 4 remains substantially constant, indicating stability up to 410 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does species 4 contain structural water molecules?",
+      "answer": "Yes, the presence of structural water molecules is confirmed by the appearance of strong bands around 2500 cm-1 upon D2O exchange.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the synthesis yield of 2,6-bis(1H-pyrazol-4-yl)pyrrolo[3,4-f]isoindole-1,3,5,7(2H,6H)-tetrone (2, H2tet)?",
+      "answer": "92%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of 4,4'-bis(1H-pyrazol-4-yl)biphenyl involves a Vilsmeier−Haack reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Ni8 cluster in species 4 has a cubic symmetry.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The EXAFS data analysis of species 4 suggests a lattice contraction of 3%.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of triethylamine in the synthesis of Ni8(OH2)2(OH)4(pbp)6, 3?",
+      "answer": "It is added to the mixture during the synthesis process, likely serving as a base.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of CO adsorption at low temperature on species 4?",
+      "answer": "It causes a modest erosion of the OH band and the formation of OH···CO adducts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of species 5 involves the use of NiCl2·6H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The XANES spectrum of species 4 indicates the presence of Ni(II) species in octahedral-like local symmetry.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of 4,4'-bis(1H-pyrazol-4-yl)biphenyl (1, H2pbp) involves a reaction with hydrazine.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of the intermediate 4,4’-bis(cyanomethyl)-1,1’-biphenyl, B?",
+      "answer": "DMF is used as a solvent in the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of species 2 involves a one-pot reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main spectroscopic technique used to characterize species 4?",
+      "answer": "DRS-UV-Vis-NIR spectroscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of species 3 involves heating the mixture to 60 °C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the synthesis of species 3 and 4?",
+      "answer": "Species 3 is synthesized using DMF as a solvent, while species 4 uses 1-methyl-2-pyrrolidinone.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

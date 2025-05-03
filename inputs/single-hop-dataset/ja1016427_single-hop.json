@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the unsubstituted aminodiboranate synthesized?",
+      "answer": "Na(H3BNH2BH3)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize Sodium N-Methylaminodiboranate?",
+      "answer": "Reduction of dimethylamine−borane with Na in refluxing tetrahydrofuran.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of Sodium N-Ethylaminodiboranate using Method B?",
+      "answer": "50%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of dioxane in the synthesis of aminodiboranate salts?",
+      "answer": "Dioxane is added to the aminodiboranate salts, followed by extraction and crystallization from diethyl ether, to afford the corresponding dioxane adducts.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Er(H3BNH2BH3)Cl2(thf)3 complex?",
+      "answer": "It provides crystallographic verification of the H3BNH2BH3− motif.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of Sodium N-Methylaminodiboranate differ from Sodium N-Ethylaminodiboranate?",
+      "answer": "Sodium N-Methylaminodiboranate is synthesized by adding MeNH2 to BH3·thf, while Sodium N-Ethylaminodiboranate is synthesized by adding EtNH2 to BH3·thf.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the synthesis of Sodium N,N-Methylethylaminodiboranate significant?",
+      "answer": "It demonstrates the versatility of the synthesis method, allowing for the preparation of aminodiboranates with different N-alkyl groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of NaBH4 as an impurity in some aminodiboranate syntheses indicate?",
+      "answer": "It indicates that the reaction conditions might not be fully optimized, leading to the formation of by-products.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of Sodium Aminodiboranate, Na(H3B-NH2-BH3)(thf)x, successful using both Method A and Method B?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of Sodium N-Methylaminodiboranate result in a 100% pure product without any impurities?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of Sodium N-Ethylaminodiboranate higher when synthesized using Method A compared to Method B?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the crystal structures of all synthesized aminodiboranate salts reported in the text?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the addition of dioxane necessary for the synthesis of all aminodiboranate salts?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of Er(H3BNH2BH3)Cl2(thf)3 require the use of sodium metal?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

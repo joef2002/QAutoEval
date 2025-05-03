@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1′?",
+      "answer": "C18H28Co2N7NaO20.8P2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystallographic data for 1′ and 2′ collected?",
+      "answer": "100 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to obtain the variable-pH dc magnetic susceptibility data for compound 1?",
+      "answer": "The Evans method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CEST effect at 64 ppm for compound 1 change with pH?",
+      "answer": "The CEST effect at 64 ppm increases with pH",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the pKa value obtained from the sigmoidal fit of the 1H NMR chemical shift of CH3 from etidronate for compound 3?",
+      "answer": "5.28(5)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the pH calibration curve for compound 1 concentration-independent?",
+      "answer": "Yes, the pH calibration curve for compound 1 is concentration-independent",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of Ca2+ ions affect the 1H NMR spectrum of compound 1?",
+      "answer": "No, the presence of Ca2+ ions does not affect the 1H NMR spectrum of compound 1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is compound 1 stable in the presence of millimolar concentrations of various anions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can compound 1 be used for ratiometric pH imaging in the physiological pH range?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does temperature variation affect the pH calibration curve for compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the cell viability above 50% when melanoma B16F10 cells are incubated with millimolar concentrations of compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the CEST effect at 104 ppm for compound 1 decrease with increasing pH?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CEST effect at 104 ppm for compound 1 observed at a higher frequency offset under acidic conditions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the CEST effect at 64 ppm for compound 1 show a significant change at higher pH values?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CEST effect at 104 ppm for compound 1 unaffected by the presence of proteins in fetal bovine serum?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the CEST effect at 64 ppm for compound 1 decrease with increasing pH?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the CEST effect at 104 ppm for compound 1 be used to measure pH in vivo?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CEST effect at 104 ppm for compound 1 concentration-dependent?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of NaCl affect the CEST properties of compound 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CEST effect at 64 ppm for compound 1 optimal for pH imaging at 37 °C?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

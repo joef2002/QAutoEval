@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of HBCMOF-1 at 93 K?",
+      "answer": "C117.3H119.6N5.06O10.5Zn",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the PXRD patterns of HBCMOF-3 with CO2 collected?",
+      "answer": "195 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of HBCLMe2?",
+      "answer": "Suzuki–Miyaura cross-coupling",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of HBCMOF-2?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the solvent in HBCMOF-1 treated for the crystallography analysis?",
+      "answer": "The solvent molecules that could not be modeled were treated by the Olex2 Solvent Mask routine.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the ratio of C2H2 to CO2 adsorption capacity for HBCMOF-3?",
+      "answer": "2.3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used for the optimization of HBCMOF-3 structures?",
+      "answer": "Self-consistent-charge density-functional tight-binding (DFTB) method",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of HBCMOF-1 and HBCMOF-2 the same?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the synthesis of HBCLMe2 performed under an argon atmosphere?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does HBCMOF-3 have a higher adsorption capacity for C2H2 compared to CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the TGA analysis of HBCMOF-1 and HBCMOF-3 performed under nitrogen?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of HBCMOF-3 with CO2 different from that without gases?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the synthesis of HBCLH2 involve alkaline hydrolysis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of C2H2 on HBCMOF-3 performed at a higher temperature than CO2?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does HBCMOF-3 undergo a structural phase transition upon gas adsorption?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DEF in the synthesis of HBCMOF-1 and HBCMOF-2?",
+      "answer": "DEF acts as a solvent and coordinating molecule in the synthesis process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adsorption capacity of HBCMOF-3 for C2H2 compare to other materials?",
+      "answer": "HBCMOF-3 has a higher adsorption capacity for C2H2 compared to many other materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the dihedral angle between the HBC core and connected phenylene moiety in HBCLH2?",
+      "answer": "The dihedral angle affects the planarity and potential stacking interactions within the MOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational studies were conducted to understand the interaction of HBCMOF-3 with gases?",
+      "answer": "DFTB molecular dynamics simulation studies were conducted to investigate the orientation and interaction of gas molecules with HBCMOF-3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum adsorption amount of C2H2 on HBCMOF-3?",
+      "answer": "15.4 mmol g–1",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

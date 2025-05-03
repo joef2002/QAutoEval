@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of the derivative A?",
+      "answer": "The molecular formula of the derivative A is not explicitly provided in the text.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for X-ray data collection?",
+      "answer": "X-ray data collection was performed using a D8 Venture Bruker AXS with Mo-Kα radiation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Pt in the photophysical properties of the derivatives?",
+      "answer": "Pt provides significant spin–orbit coupling, resulting in efficient phosphorescence path in addition to the TADF path.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The derivative C crystallizes as a neutral 1D coordination polymer.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational program was used for DFT calculations?",
+      "answer": "DFT calculations were carried out with the Gaussian 09 program.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main difference in charge transfer between DNi, DPd, and DPt?",
+      "answer": "The charge transfer between the Cu dimers and the Pt central metal atom is much more important for DPt compared to DNi and DPd.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The derivative DPd exhibits thermally activated delayed fluorescence (TADF).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the emission spectra of derivative C?",
+      "answer": "Upon cooling, a gradual drop of the emission band at 538 nm, together with a growth of a higher-energy band to the blue, is observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission behavior of DPd resembles those typically described for Cu(I) TADF derivatives.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the central M atom on the photophysical properties of the derivatives D?",
+      "answer": "The differences observed along the series clearly suggest a strong impact of the nature of the central M atom in their photophysical properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission spectra of derivatives DNi, DPd, and DPt present gradual red-shifts associated with intense solid-state green luminescence at low temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cyano ligands in the structure of derivative C?",
+      "answer": "One of the cyano ligands acts as μ2-ditopic linker between two Cu(I) metal centers of two neighboring repeating units while the second cyano ligand bridges the two metal centers within each Cu2(μ2-dppm)2 fragment in an unusual “end-on/side-on” coordination mode.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission decay lifetime for DPd varies significantly upon cooling.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the spin–orbit coupling offered by the central M metal center?",
+      "answer": "The spin–orbit coupling offered by the central M metal center has a crucial impact on the photophysical properties of the heterobimetallic derivatives, affecting the nonradiative and radiative processes involving S1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission spectra of derivative C suggest the lack of a TADF mechanism.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the central metal atom on the luminescence properties of the entire D assemblies?",
+      "answer": "The nature of the central metal atom, specifically its spin–orbit coupling value, has a crucial and unanticipated impact on the luminescence properties of the entire D assemblies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Full DFT geometry optimization of the excited states was possible for the derivatives DNi, DPd, and DPt.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of KCN in the synthesis of derivative C?",
+      "answer": "KCN reacts with the metallacycle A to afford derivative C through a coordination-driven supramolecular process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission spectra of DPd and DPt are identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ΔE(S1–T1) value in the context of TADF?",
+      "answer": "The ΔE(S1–T1) value represents the singlet-triplet energy difference, which is crucial for the reverse intersystem crossing process in TADF, affecting the efficiency of the TADF mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

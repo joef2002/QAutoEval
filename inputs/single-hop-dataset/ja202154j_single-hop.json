@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is ZIF-8?",
+      "answer": "ZIF-8 is a zeolitic imidazole-based metal–organic framework with large cavities interconnected by narrow windows.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the adsorption of large molecules on ZIF-8 suggest?",
+      "answer": "The adsorption of large molecules on ZIF-8 suggests the existence of structural flexibility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural change in ZIF-8 caused by gas adsorption reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using grand canonical Monte Carlo simulations in the study of ZIF-8?",
+      "answer": "Grand canonical Monte Carlo simulations are used to explore structural flexibility in ZIF-8 by simulating gas adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the experimental adsorption isotherm of N2 at 77 K on ZIF-8 behave?",
+      "answer": "The experimental adsorption isotherm of N2 at 77 K on ZIF-8 shows two steps occurring at low pressures, indicating a structural change.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the ZIF-8 structure undergo the same structural changes on adsorption as observed in high-pressure experiments?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area in the study of ZIF-8?",
+      "answer": "The BET surface area is used to analyze the adsorption properties and pore structure of ZIF-8.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZIF-8 separate hydrogen from larger molecules like methane and nitrogen?",
+      "answer": "Yes, ZIF-8 is expected to separate hydrogen from larger molecules due to its narrow window size, but the adsorption of larger molecules suggests flexibility.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the reorientation of the imidazolate linkers in ZIF-8HP indicate?",
+      "answer": "The reorientation of the imidazolate linkers in ZIF-8HP indicates an increase in the accessible pore volume and the size of the 6-ring windows.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption process of N2 on ZIF-8 completely reversible?",
+      "answer": "Yes, the desorption process was completely reversible, and no hysteresis was found.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the swing effect of the imidazolate linkers play in ZIF-8?",
+      "answer": "The swing effect of the imidazolate linkers allows for the enlargement of the window size and facilitates the adsorption of larger molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study confirm the existence of a high-pressure phase, ZIF-8HP, at high nitrogen loadings?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of tuning the flexibility of ZIF-8 on gas separation?",
+      "answer": "Tuning the flexibility of ZIF-8 impacts the design of advanced molecular sieving membrane materials for gas separation by adjusting access to the porous network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the structural changes in ZIF-8 induced by adsorption similar to those observed at very high pressure?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique is used to confirm the structural change of ZIF-8 at high nitrogen loadings?",
+      "answer": "In situ powder XRD measurements at 77 K were used to confirm the structural change of ZIF-8 at high nitrogen loadings.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study demonstrate that ZIF-8 undergoes structural changes upon adsorption?",
+      "answer": "Yes, the study demonstrates that ZIF-8 undergoes structural changes upon adsorption, similar to those observed in high-pressure experiments.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of pressure on the structural changes of ZIF-8?",
+      "answer": "High pressure, up to 1.47 GPa, induces structural changes in ZIF-8, including a reorientation of the imidazolate linkers and an increase in pore volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of nitrogen on ZIF-8 at 77 K a reversible process?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the comparison of free pore volumes and accessible surface areas reveal about ZIF-8 and ZIF-8HP?",
+      "answer": "The comparison reveals no significant difference in either the free pore volumes or surface areas between ZIF-8 and ZIF-8HP, despite the substantial increase in maximum uptake.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study provide a correct description of the flexibility and structural changes of ZIF-8?",
+      "answer": "Yes, the study provides a correct description of the flexibility and structural changes of ZIF-8 essential for accurately describing its adsorption performance.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

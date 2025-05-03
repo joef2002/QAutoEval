@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "material_name": "[MgFp2(THF)]2 (9)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": "THF",
+        "amount_of_solvent": "20 mL",
+        "equipment": "Schlenk line or dry-box",
+        "chemicals_used": "Mg amalgam (0.343 g, 14.1 mmol Mg; 10 mL Hg), Fp2 (1.00 g, 2.83 mmol)",
+        "time": "16 h",
+        "washing_method": "washed with pentane (2 x 10 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "84%",
+        "characterization": {
+          "1H_NMR": "δ 4.35 (20 H, s, Cp)",
+          "13C_NMR": "δ 78.7 (Cp) (δ(CO) not observed)",
+          "IR": "1912 (s, ν(CO)), 1855 (s, ν(CO)), 1775 (m, ν(CO)) in Nujol mull; 1875 (br, s), 1703 (s) in THF solution",
+          "elemental_analysis": "C, 49.97 (49.76); H, 4.49 (4.70)%"
+        }
+      }
+    },
+    {
+      "material_name": "[Mg(HMPA)4][Fp]2 (10)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": "THF",
+        "amount_of_solvent": "10 mL",
+        "equipment": "Schlenk line or dry-box",
+        "chemicals_used": "MgFp2(THF)4 (8) (formed in situ from as-prepared “MgFp2(THF)1.6” (0.300 g, 0.604 mmol)), HMPA (0.43 mL, 2.47 mmol)",
+        "time": "16 h",
+        "washing_method": "washed with pentane (2 x 10 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "68%",
+        "characterization": {
+          "1H_NMR": "δ 4.20 (10 H, s, Cp), 2.65 (72 H, d, 3J = 8.9 Hz, Me)",
+          "13C_NMR": "δ 76.8 (s, Cp), 37.1 (d, 2J = 4.5 Hz, Me) (δ(CO) not observed)",
+          "31P_NMR": "δ 24.1 (s)",
+          "IR": "1863 (s, ν(CO)), 1789 (s, ν(CO)), 1304 (s), 1186 (s), 1165 (s), 1104 (w), 1068 (m), 994 (s), 801 (w), 759 (s), 672 (m) in Nujol mull; 1865 (m), 1787 (m) in THF solution",
+          "elemental_analysis": "C, 41.53 (41.68); H, 7.40 (7.55); N, 15.50 (15.35)%"
+        }
+      }
+    },
+    {
+      "material_name": "CaFp2(HMPA)4 (11)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": "THF",
+        "amount_of_solvent": "10 mL",
+        "equipment": "Schlenk line or dry-box",
+        "chemicals_used": "Ca amalgam (0.283 g, 7.06 mmol Ca; 10 mL Hg), HMPA (2.06 mL, 11.9 mmol), Fp2 (0.500 g, 1.41 mmol)",
+        "time": "16 h",
+        "washing_method": "washed with benzene (2 x 10 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "73%",
+        "characterization": {
+          "1H_NMR": "δ 4.16 (10 H, s, Cp), 2.67 (72 H, d, 3J = 9.4 Hz, Me)",
+          "13C_NMR": "δ 229.7 (s, CO), 76.7 (s, Cp), 37.2 (d, 2J = 4.4 Hz, Me)",
+          "31P_NMR": "δ 23.7 (s)",
+          "IR": "1864 (s, ν(CO)), 1781 (s, ν(CO)), 1753 (s, ν(CO)), 1299 (s), 1196 (s), 1174 (s), 1105 (w), 1070 (s), 987 (s), 776 (m), 754 (s), 676 (w) in Nujol mull; 1787 (s), 1742 (s) in THF solution",
+          "elemental_analysis": "C, 40.92 (41.09); H, 7.28 (7.44); N, 14.72 (15.13)%"
+        }
+      }
+    },
+    {
+      "material_name": "YbFp2(HMPA)4 (12)",
+      "synthesis_conditions": {
+        "temperature": "RT",
+        "solvents": "THF",
+        "amount_of_solvent": "10 mL",
+        "equipment": "Schlenk line or dry-box",
+        "chemicals_used": "Yb amalgam (4.89 g, 28.3 mmol Yb; 20 mL Hg), HMPA (8.26 mL, 47.4 mmol), Fp2 (2.00 g, 5.65 mmol)",
+        "time": "16 h",
+        "washing_method": "washed with pentane (2 x 10 mL)",
+        "drying_method": "dried in vacuo",
+        "yield": "99%",
+        "characterization": {
+          "1H_NMR": "δ 4.24 (10 H, s, Cp), 2.66 (72 H, d, 3J = 8.2 Hz, Me)",
+          "13C_NMR": "δ 230.0 (s, CO), 76.7 (s, Cp), 37.2 (d, 2J = 4.1 Hz, Me)",
+          "31P_NMR": "δ 26.6 (s)",
+          "IR": "1863 (s, ν(CO)), 1749 (s, br, ν(CO)), 1300 (s), 1194 (s), 1169 (s), 1104 (m), 1068 (m), 985 (s), 803 (w), 752 (s), 671 (m) in Nujol mull; 1790 (m), 1746 (m) in THF solution",
+          "elemental_analysis": "C, 36.51 (36.70); H, 6.47 (6.65); N, 13.39 (13.51)%"
+        }
+      }
+    }
+  ]
+}

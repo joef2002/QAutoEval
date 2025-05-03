@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "material": "1D",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": "dimethyl formamide (DMF)",
+        "amount_of_solvent": "5.0129 g",
+        "equipment": "20 ml vial",
+        "chemicals_used": {
+          "D-Camphoric_acid": "0.2015 g, 1 mmol",
+          "(CH3)4NCl": "0.1034 g, 1 mmol",
+          "In(NO3)3.xH2O": "0.1552 g, 0.5 mmol"
+        },
+        "time": "48 h",
+        "washing_method": "ethanol and distilled water",
+        "yield": "about 75% based on In"
+      }
+    },
+    {
+      "material": "1L",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": "dimethyl formamide (DMF)",
+        "amount_of_solvent": "4.1232 g",
+        "equipment": "20 ml vial",
+        "chemicals_used": {
+          "L-Camphoric_acid": "0.1007 g, 0.5 mmol",
+          "(CH3)4NCl": "0.0532 g, 0.5 mmol",
+          "In(NO3)3.xH2O": "0.0803 g, 0.25 mmol"
+        },
+        "time": "48 h",
+        "washing_method": "ethanol and distilled water",
+        "yield": "about 78% based on In"
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": "dimethyl formamide (DMF)",
+        "amount_of_solvent": "5.3242 g",
+        "equipment": "20 ml vial",
+        "chemicals_used": {
+          "D-Camphoric_acid": "0.1013 g",
+          "choline chloride": "0.1211 g",
+          "In(NO3)3.xH2O": "0.0783 g"
+        },
+        "time": "48 h",
+        "washing_method": "ethanol and distilled water"
+      }
+    },
+    {
+      "material": "3",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": "H2O",
+        "amount_of_solvent": "5 mL",
+        "equipment": "23ml Teflon cup",
+        "chemicals_used": {
+          "D-Camphoric_acid": "0.1030 g",
+          "1,4-benzenedicarboxylic_acid": "0.0801 g",
+          "4,4’-trimethylenedipyridine": "0.0956 g",
+          "CoCO3": "0.1307 g"
+        },
+        "time": "5 days",
+        "washing_method": "not specified",
+        "yield": "67%"
+      }
+    },
+    {
+      "material": "4",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": "H2O",
+        "amount_of_solvent": "7 mL",
+        "equipment": "23ml Teflon cup",
+        "chemicals_used": {
+          "D-Camphoric_acid": "0.1021 g",
+          "Na2CO3": "0.0503 g",
+          "Ni(NO3).6H2O": "0.3098 g"
+        },
+        "time": "5 days"
+      }
+    },
+    {
+      "material": "5",
+      "synthesis_conditions": {
+        "temperature": "120 oC",
+        "solvents": "H2O",
+        "amount_of_solvent": "7 mL",
+        "equipment": "20 ml vial",
+        "chemicals_used": {
+          "L-Malic_acid": "0.1078 g",
+          "Na2CO3": "0.0602 g",
+          "Mg(NO3)2.6H2O": "0.1546 g"
+        },
+        "time": "5 days",
+        "washing_method": "ethanol and distilled water"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the luminescent MOF discussed?",
+      "answer": "[Zn3(TDPAT)-(H2O)3]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What dual functions does the Zn–TDPAT MOF serve?",
+      "answer": "Detecting the concentration of nitrobenzene and temperature.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and for how long was the Zn–TDPAT synthesized?",
+      "answer": "80°C for 3 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the limit of detection for nitrobenzene using Zn–TDPAT?",
+      "answer": "50 ppm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the luminescence intensity of Zn–TDPAT affected by temperature changes?",
+      "answer": "Yes, the luminescence intensity increases with decreasing temperature.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the luminescence quantum yield of Zn–TDPAT?",
+      "answer": "0.213.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How can the luminescence of Zn–TDPAT be recovered after detecting nitrobenzene?",
+      "answer": "By filtering and washing several times with DMF.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does Zn–TDPAT exhibit strong luminescence?",
+      "answer": "Due to the highly conjugated systems of the TDPAT6- ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can Zn–TDPAT selectively detect nitrobenzene over other small molecules?",
+      "answer": "Yes, it has high selectivity for nitrobenzene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the inclusion of nitrobenzene within Zn–TDPAT?",
+      "answer": "IR spectra and XPS results.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of Zn–TDPAT stable after detecting nitrobenzene?",
+      "answer": "Yes, as confirmed by powder X-ray diffraction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does Zn–TDPAT have a high surface area?",
+      "answer": "Yes, it is based on the (3,24)-connected rht-type network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence quenching phenomenon of Zn–TDPAT reversible?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Zn–TDPAT can only detect nitrobenzene qualitatively, not quantitatively.",
+      "answer": "False.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The emission peak location of Zn–TDPAT changes with temperature.",
+      "answer": "False.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Zn–TDPAT is the first MOF that can quantify both nitrobenzene concentration and temperature.",
+      "answer": "True.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The luminescence intensity of Zn–TDPAT decreases with an increase in nitrobenzene concentration.",
+      "answer": "True.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Zn–TDPAT can be used as a luminescent thermometer due to its temperature-dependent luminescence intensity.",
+      "answer": "True.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis of Zn–TDPAT involves a solvothermal reaction.",
+      "answer": "True.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Zn–TDPAT's luminescence sensing properties are inferior to other luminescent materials.",
+      "answer": "False.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

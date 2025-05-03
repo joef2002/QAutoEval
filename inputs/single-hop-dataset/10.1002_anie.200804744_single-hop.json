@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI number of the research paper discussing Luminescent Metal Phosphites?",
+      "answer": "10.1002/anie.200804744",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which two metal phosphates were discovered to emit intense yellow light without metal activators?",
+      "answer": "NTHU-4 and NTHU-6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using a deep eutectic solvent (DES) in the synthesis of nanotubular structures?",
+      "answer": "It is environmentally friendly.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structure does NTHU-7 adopt?",
+      "answer": "An organic–inorganic hybrid nanotubular structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 4,4’-trimethylenedipyridine (tmdp) in the emission mechanism of NTHU-7?",
+      "answer": "It acts as a sensitizer.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the photoluminescence quantum efficiency (PLQE) of NTHU-7 compare to traditional phosphors?",
+      "answer": "NTHU-7 has a PLQE of 46%, indicating high efficiency.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the discovery of NTHU-7 in the context of LED technology?",
+      "answer": "NTHU-7 can be used as a yellow-green phosphor for blue LEDs and a green phosphor for UV LEDs, expanding the range of color-conversion phosphors available.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the presence of water in the deep eutectic solvent critical for the formation of NTHU-7 nanotubules?",
+      "answer": "The specific amount of water creates optimal conditions for the formation of NTHU-7 nanotubules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of NTHU-7 contribute to its luminescence properties?",
+      "answer": "The nanotubular structure and the presence of defects enhance its luminescence properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes NTHU-7 an intrinsic phosphor?",
+      "answer": "It does not require metal activators for luminescence.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the excitation range of NTHU-7 compare to YAG:Ce?",
+      "answer": "NTHU-7 has a wider excitation range than YAG:Ce in the NUV region.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the disorder in the large pores of NTHU-7 play in its yellow emission?",
+      "answer": "The disorder correlates with defects that enhance the yellow emission.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of NTHU-7 dependent on the use of an environmentally friendly solvent?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can NTHU-7 be synthesized without the presence of water in the DES?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is NTHU-7 the first known inorganic lattice to emit yellow light without being doped with lanthanide ions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of tmdp guarantee photoluminescence in all compounds?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are NTHU-7 nanotubules capable of emitting light when excited by both UV and visible light?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the atom-disorder in NTHU-7 unrelated to its luminescence properties?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can NTHU-7 be used to fabricate near-white LEDs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of NTHU-7L achieved without introducing HF into the reaction mixture?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

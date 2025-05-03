@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of creating organic proton-conducting molecules?",
+      "answer": "The main goal is to create organic molecules that control the proton-transport mechanism through supramolecular order, as an alternative to state-of-the-art polymers used as electrolytes in proton-exchanging membrane (PEM) fuel cells.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two sorts of proton-transport mechanisms detailed in the literature?",
+      "answer": "The two sorts of proton-transport mechanisms are the vehicle mechanism and the Grotthuss-type mechanism, also called structure diffusion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is phosphonic acid chosen as the protogenic group in the synthesized molecules?",
+      "answer": "Phosphonic acid is chosen because of its amphoteric properties, and it has been demonstrated that a high concentration of these acidic groups with the ability to aggregate is required to achieve high intrinsic proton conductivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What determines the proton conductivity of the synthesized phosphonic acid-containing molecules?",
+      "answer": "The proton conductivity is closely connected to crystallinity and strongly dependent on the supramolecular ordering of the compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The vehicle mechanism implies the diffusion of hydrated protons as a whole in a medium of low viscosity and high diffusion coefficient.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of water uptake in the context of proton conductivity for the synthesized molecules?",
+      "answer": "Water uptake is significant because it determines both the proton conductivity and the mechanical stability of the material, influencing its suitability as separator materials in PEMs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Grotthuss-type mechanism consists of the transport of protons from site to site without a carrier molecule.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges do state-of-the-art separator materials like Nafion face at high temperatures?",
+      "answer": "They cannot be applied at high temperatures because the vehicle mechanism dominates proton transport, making the polymer performance strongly dependent on the hydration of the membrane, and they possess a low glass-transition temperature.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the geometry and structure of the synthesized molecules determine their proton conductivity?",
+      "answer": "The geometry and structure determine the proton conductivity by affecting the water uptake, self-organization, and proton density, which in turn influence the proton transport mechanisms and the overall conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized phosphonic acid-containing molecules are proposed as alternative separator materials for fuel cells operating at intermediate temperatures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does crystallinity play in the proton conductivity of the synthesized materials?",
+      "answer": "Crystallinity plays a crucial role in proton conductivity as it is closely connected to the supramolecular ordering of the compound, which influences the formation of proton-conducting pathways.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All synthesized phosphonic acid-containing molecules are water insoluble.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the target operating condition established by the U.S. Department of Energy for automotive applications of PEMs?",
+      "answer": "A guideline of 120 °C and 50% relative humidity (RH) was established by the U.S. Department of Energy as target operating conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the self-organization of small molecules contribute to proton mobility?",
+      "answer": "The self-organization of small molecules contributes to proton mobility by creating a nanophase separation between hydrophobic and hydrophilic domains, leading to a continuous acidic phase that facilitates proton transport.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The proton conductivity of the synthesized compounds decreases with increasing temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum proton conductivity value reached by compound 3 at 184 °C?",
+      "answer": "Compound 3 reached a maximum proton conductivity value of 8.5 × 10 − 5 S · cm − 1 at 184 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The proton conductivity of compounds 1, 2, 5, and 6 remained constant upon increasing the temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of water uptake on the proton conductivity of the synthesized molecules?",
+      "answer": "Water uptake affects proton conductivity by determining the amount of water molecules that can assist in proton transport, with higher water uptake generally leading to higher proton conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized phosphonic acid-containing molecules require a time-consuming pre-treatment before proton conductivity measurements.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the advantages of operating fuel cells above 100 °C?",
+      "answer": "Operating above 100 °C improves the carbon monoxide tolerance of the catalyst systems, allows for a lower catalyst load, reduces cost, dispenses with water management, and improves cooling of the stacks.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

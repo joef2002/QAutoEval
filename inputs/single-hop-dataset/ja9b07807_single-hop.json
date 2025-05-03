@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for NKU-FlexMOF-1?",
+      "answer": "C16H13CuFN2O5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for gas adsorption studies?",
+      "answer": "Micrometrics ASAP 2020M volumetric gas adsorption analyzer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the N2 adsorption measurements conducted for NKU-FlexMOF-1a?",
+      "answer": "77 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the NKU-FlexMOF-1 framework stable in aqueous solutions with varying pH?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of NKU-FlexMOF-1a calculated from the N2 adsorption isotherm at 77 K?",
+      "answer": "952 m2g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does NKU-FlexMOF-1 exhibit a higher adsorption capacity for CO2 or CH4 at 273 K?",
+      "answer": "CO2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can NKU-FlexMOF-1a selectively separate C3H6 from C3H8?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the selectivity of C3H6 over C3H8 at 298 K according to the breakthrough experiment?",
+      "answer": "2.31",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption behavior of NKU-FlexMOF-1a for C3H8 at higher temperatures typical or atypical?",
+      "answer": "Atypical",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NKU-FlexMOF-1a exhibit a guest-induced flexibility mechanism?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the increase in sorption with temperature in NKU-FlexMOF-1a?",
+      "answer": "Dynamic behavior of NKU-FlexMOF-1a where guest molecules subtly interacting with an adaptive framework lead to an induced-fit specific to each sorbate",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used for single-crystal X-ray crystallography of NKU-FlexMOF-1?",
+      "answer": "Rigaku SCX-mini diffractometer with Mo-Kα radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the NKU-FlexMOF-1 framework considered rigid?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the F-group on the ligand in NKU-FlexMOF-1?",
+      "answer": "The F-group on the ligand adds lability to the torsion, resulting in the stepwise N2 adsorption behavior at 77 K",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum saturated uptake amount of C3H8 at 318 K?",
+      "answer": "66.8 cm3g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does NKU-FlexMOF-1a have a high density of sulfonic acid sites for proton conduction?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main application of NKU-FlexMOF-1a as suggested by the study?",
+      "answer": "Hydrocarbon capture and separation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated adsorption capacity of C3H6 at 298 K?",
+      "answer": "1.96 mmol g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Are the electrostatic environments for C2H6 and C3H8 in NKU-FlexMOF-1a similar?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the energy barrier for the torsion of the ligand H2FPBDC in NKU-FlexMOF-1?",
+      "answer": "1.7 kJ mol-1",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the compound 1-SS?",
+      "answer": "C78H86Mn4Mo2N26O5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "P1̅",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the X-ray single-crystal data for all compounds collected?",
+      "answer": "193 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical temperature for magnetic ordering in compound 1-SS?",
+      "answer": "About 40 K",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the chirality of ligands affect the crystal structure of compounds 1-SS and 1-RR compared to compound 2?",
+      "answer": "Compounds 1-SS and 1-RR are chiral due to the SS/RR-Dpen ligands and crystallize in the chiral space group P21, while compound 2 crystallizes in the achiral space group P1̅ due to the racemization of the SS/RR-Chxn ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic interaction between MnII and MoIII centers in compounds 1-SS, 1-RR, and 2 ferromagnetic or antiferromagnetic?",
+      "answer": "Antiferromagnetic",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic properties of compounds 1-SS and 1-RR are significantly affected by their chirality.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The coercive fields of compounds 1-SS and 1-RR are significantly larger than that of compound 2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main factor determining the magnetic coercivity in compounds 1-SS, 1-RR, and 2?",
+      "answer": "The magnetic anisotropy, mainly arising from the anisotropic magnetic exchange.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The interlayer magnetic coupling has no effect on the critical temperatures of compounds 1-SS, 1-RR, and 2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to confirm the enantiomeric nature of compounds 1-SS and 1-RR?",
+      "answer": "Circular dichroism spectra",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of compounds 1-SS, 1-RR, and 2 was performed under a nitrogen atmosphere to avoid oxidation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the [MoIII(CN)7]4− unit in the structure of compounds 1-SS, 1-RR, and 2?",
+      "answer": "It acts as a building block facilitating the formation of high-dimensional coordination polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic measurements were performed on powdered samples of compounds 1-SS, 1-RR, and 2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the C–N–Mn bond angles on the magnetic properties of compounds 1-SS, 1-RR, and 2?",
+      "answer": "The bending of the C–N–Mn groups influences the anisotropic magnetic coupling between the MnII and MoIII centers, affecting the magnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic ordering temperatures of compounds 1-SS, 1-RR, and 2 are determined solely by the strength of the intralayer magnetic interactions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the similar magnetic ordering temperatures but different coercive fields between compounds 1-SS/1-RR and 2?",
+      "answer": "The balance between stronger intralayer magnetic coupling and weaker interlayer coupling in compounds 1-SS and 1-RR, compared to compound 2, leads to similar ordering temperatures but different coercive fields.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of compound 2 using SS-Chxn ligand resulted in an enantiomerically pure compound.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the purity of compounds 1-SS, 1-RR, and 2?",
+      "answer": "Powder X-ray diffraction (PXRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic properties of compounds 1-SS, 1-RR, and 2 are mainly determined by the chirality of the ligands used in their synthesis.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

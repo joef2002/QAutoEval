@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for NJU-Bai52?",
+      "answer": "The chemical formula for NJU-Bai52 is {Fe3O(TPBTM6-)(Cl-)(H2O)2}∞.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single-crystal X-ray structure determination?",
+      "answer": "Single-crystal X-ray diffraction data were measured on a Bruker D8 Venture diffractometer using graphite monochromated Mo/Kα radiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the CO2 uptake of NJU-Bai53 at 0.4 mbar and 298 K compared to NJU-Bai52?",
+      "answer": "The CO2 uptake of NJU-Bai53 at 0.4 mbar and 298 K is significantly improved by around 50 times compared with NJU-Bai52.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is NJU-Bai53 more selective for CO2 capture than NJU-Bai52?",
+      "answer": "Yes, NJU-Bai53 shows higher selectivity for CO2 capture than NJU-Bai52.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the TPBTM ligand in the structure of NJU-Bai52 and NJU-Bai53?",
+      "answer": "The TPBTM ligand self-assembles into pairs by strong π–π stacking and H-bonds, forming a pure supramolecular linker of crown-like dodecatopic ligand from planar hexadentate ligands.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to confirm the presence of chloride in the activated sample NJUBai52?",
+      "answer": "X-ray photoelectron spectroscopy (XPS) was used to confirm the presence of chloride in the activated sample NJUBai52.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CO2 adsorption capacity of NJU-Bai53 at 298 K and 0.15 bar compare to other famous MOFs?",
+      "answer": "The CO2 adsorption capacity of NJU-Bai53 at 298 K and 0.15 bar is higher in comparison to NJU-Bai52 and is among the highest reported for amide-functionalized MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did NJU-Bai53 maintain its structural integrity in pH = 2 to 11 aqueous solutions for 24 hours?",
+      "answer": "Yes, NJU-Bai53 could preserve its structural integrity in pH = 2 to 11 aqueous solutions for 24 hours.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Fe3O cluster in the structure of NJU-Bai52?",
+      "answer": "The Fe3O cluster is central to the structure of NJU-Bai52, linking with the TPBTM ligands to form a highly connected and isostructural MOF with exceptional thermal stability and CO2 capture properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the CO2/N2 selectivity of NJU-Bai53 at 298 K calculated using IAST?",
+      "answer": "No, the CO2/N2 selectivity of NJU-Bai53 at 298 K was not calculated using IAST due to the inability to mathematically model the CO2 isotherms with a single equation over the entire pressure range.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

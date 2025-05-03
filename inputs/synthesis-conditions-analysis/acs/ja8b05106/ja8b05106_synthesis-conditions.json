@@ -1,0 +1,254 @@
+{
+  "materials": [
+    {
+      "name": "(NH3OH)+N5ˉ",
+      "synthesis_conditions": {
+        "temperature": "153.15 K",
+        "solvents": [
+          {
+            "name": "ethanol/methanol and water",
+            "amount": "minimum amount"
+          }
+        ],
+        "equipment": "Bruker D8 Venture single-crystal diffractometer",
+        "chemicals_used": [
+          {
+            "name": "tetramethylammonium iodide",
+            "amount": "1.00 mmol"
+          },
+          {
+            "name": "AgN5",
+            "amount": "1.00 mmol"
+          }
+        ],
+        "time": "1.5 h",
+        "yield": "0.092 g (0.64 mmol, 64%)",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/c",
+        "a": "3.7489(3) Å",
+        "b": "14.7612(14) Å",
+        "c": "7.6841(7) Å",
+        "alpha": "90°",
+        "beta": "96.265(2)°",
+        "gamma": "90°",
+        "volume": "422.69(7) Å3",
+        "Z": "4",
+        "density": "1.636 g/cm3",
+        "absorption_coefficient": "0.144 mm-1",
+        "F(000)": "216",
+        "crystal_size": "0.27 x 0.25 x 0.22 mm3",
+        "theta_range": "2.760 to 28.405°",
+        "index_ranges": "-5<=h<=5, -11<=k<=19, -10<=l<=10",
+        "reflections_collected": "3741",
+        "independent_reflections": "1039",
+        "goodness_of_fit_on_F2": "1.077",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "R1 = 0.0304, wR2 = 0.0792",
+          "all_data": "R1 = 0.0332, wR2 = 0.0813"
+        },
+        "largest_diff_peak_and_hole": "0.182 and -0.228 e. Å-3",
+        "CSD": "434433"
+      }
+    },
+    {
+      "name": "[C(NH2)3]+N5ˉ",
+      "synthesis_conditions": {
+        "temperature": "153.15 K",
+        "solvents": [
+          {
+            "name": "ethanol/methanol and water",
+            "amount": "minimum amount"
+          }
+        ],
+        "equipment": "Bruker D8 Venture single-crystal diffractometer",
+        "chemicals_used": [
+          {
+            "name": "tetramethylammonium iodide",
+            "amount": "1.00 mmol"
+          },
+          {
+            "name": "AgN5",
+            "amount": "1.00 mmol"
+          }
+        ],
+        "time": "1.5 h",
+        "yield": "0.230 g (1.77 mmol, 88.5%)",
+        "crystal_system": "Tetragonal",
+        "space_group": "I-42d",
+        "a": "12.679(2) Å",
+        "b": "12.679(2) Å",
+        "c": "7.0988(11) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "1141.1(4) Å3",
+        "Z": "8",
+        "density": "1.515 g/cm3",
+        "absorption_coefficient": "0.121 mm-1",
+        "F(000)": "544",
+        "crystal_size": "0.26 x 0.12 x 0.11 mm3",
+        "theta_range": "3.214 to 28.232°",
+        "index_ranges": "-16<=h<=16, -16<=k<=16, -9<=l<=7",
+        "reflections_collected": "5302",
+        "independent_reflections": "710",
+        "goodness_of_fit_on_F2": "1.141",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "R1 = 0.0281, wR2 = 0.0818",
+          "all_data": "R1 = 0.0284, wR2 = 0.0823"
+        },
+        "largest_diff_peak_and_hole": "0.174 and -0.190 e. Å-3",
+        "CSD": "1838393"
+      }
+    },
+    {
+      "name": "[N(CH3)4]+N5ˉ",
+      "synthesis_conditions": {
+        "temperature": "153.15 K",
+        "solvents": [
+          {
+            "name": "ethanol/methanol and water",
+            "amount": "minimum amount"
+          }
+        ],
+        "equipment": "Bruker D8 Venture single-crystal diffractometer",
+        "chemicals_used": [
+          {
+            "name": "tetramethylammonium iodide",
+            "amount": "1.00 mmol"
+          },
+          {
+            "name": "AgN5",
+            "amount": "1.00 mmol"
+          }
+        ],
+        "time": "1.5 h",
+        "yield": "0.168 g (1.91 mmol, 95.5%)",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/m",
+        "a": "5.786(2) Å",
+        "b": "8.571(3) Å",
+        "c": "7.867(3) Å",
+        "alpha": "90°",
+        "beta": "99.590(8)°",
+        "gamma": "90°",
+        "volume": "384.7(2) Å3",
+        "Z": "2",
+        "density": "1.245 g/cm3",
+        "absorption_coefficient": "0.089 mm-1",
+        "F(000)": "156",
+        "crystal_size": "0.19 x 0.16 x 0.05 mm3",
+        "theta_range": "2.626 to 27.372°",
+        "index_ranges": "-7<=h<=7, -6<=k<=11, -10<=l<=10",
+        "reflections_collected": "2877",
+        "independent_reflections": "921",
+        "goodness_of_fit_on_F2": "1.084",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "R1 = 0.0490, wR2 = 0.1167",
+          "all_data": "R1 = 0.0626, wR2 = 0.1233"
+        },
+        "largest_diff_peak_and_hole": "0.217 and -0.178 e. Å-3",
+        "CSD": "1838395"
+      }
+    },
+    {
+      "name": "(NH4)+N5ˉ",
+      "synthesis_conditions": {
+        "temperature": "153.15 K",
+        "solvents": [
+          {
+            "name": "ethanol/methanol and water",
+            "amount": "minimum amount"
+          }
+        ],
+        "equipment": "Bruker D8 Venture single-crystal diffractometer",
+        "chemicals_used": [
+          {
+            "name": "tetramethylammonium iodide",
+            "amount": "1.00 mmol"
+          },
+          {
+            "name": "AgN5",
+            "amount": "1.00 mmol"
+          }
+        ],
+        "time": "1.5 h",
+        "yield": "0.195 g (1.89 mmol, 94.6%)",
+        "crystal_system": "Orthorhombic",
+        "space_group": "Pcca",
+        "a": "9.4905(17) Å",
+        "b": "3.9137(7) Å",
+        "c": "10.3616(17) Å",
+        "alpha": "90°",
+        "beta": "90°",
+        "gamma": "90°",
+        "volume": "384.86(12) Å3",
+        "Z": "4",
+        "density": "1.520 g/cm3",
+        "absorption_coefficient": "0.125 mm-1",
+        "F(000)": "184",
+        "crystal_size": "0.19 x 0.18 x 0.16 mm3",
+        "theta_range": "4.482 to 27.500°",
+        "index_ranges": "-1<=h<=12, 0<=k<=5, -13<=l<=13",
+        "reflections_collected": "434",
+        "independent_reflections": "434",
+        "goodness_of_fit_on_F2": "1.107",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "R1 = 0.0407, wR2 = 0.1107",
+          "all_data": "R1 = 0.0442, wR2 = 0.1151"
+        },
+        "largest_diff_peak_and_hole": "0.310 and -0.217 e. Å-3",
+        "CSD": "434432"
+      }
+    },
+    {
+      "name": "(N2H5)+N5ˉ",
+      "synthesis_conditions": {
+        "temperature": "153.15 K",
+        "solvents": [
+          {
+            "name": "ethanol/methanol and water",
+            "amount": "minimum amount"
+          }
+        ],
+        "equipment": "Bruker D8 Venture single-crystal diffractometer",
+        "chemicals_used": [
+          {
+            "name": "tetramethylammonium iodide",
+            "amount": "1.00 mmol"
+          },
+          {
+            "name": "AgN5",
+            "amount": "1.00 mmol"
+          }
+        ],
+        "time": "1.5 h",
+        "yield": "0.195 g (1.89 mmol, 94.6%)",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/c",
+        "a": "6.4517(5) Å",
+        "b": "12.2378(9) Å",
+        "c": "5.4024(4) Å",
+        "alpha": "90°",
+        "beta": "97.747(2)°",
+        "gamma": "90°",
+        "volume": "422.65(5) Å3",
+        "Z": "4",
+        "density": "1.620 g/cm3",
+        "absorption_coefficient": "0.133 mm-1",
+        "F(000)": "216",
+        "crystal_size": "0.22 x 0.19 x 0.18 mm3",
+        "theta_range": "3.18 to 27.598°",
+        "index_ranges": "-6<=h<=8, -15<=k<=15, -7<=l<=7",
+        "reflections_collected": "3582",
+        "independent_reflections": "970",
+        "goodness_of_fit_on_F2": "1.124",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "R1 = 0.0283, wR2 = 0.0737",
+          "all_data": "R1 = 0.0300, wR2 = 0.0749"
+        },
+        "largest_diff_peak_and_hole": "0.159 and -0.156 e. Å-3",
+        "CSD": "434434"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "materials": [
+    {
+      "material": "Ce(C2O4)(HCO2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "200 ºC",
+          "time": "5 days",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "10 mL"
+            }
+          ],
+          "equipment": "23 mL PTFE-lined Parr autoclave",
+          "chemicals_used": [
+            {
+              "name": "Ce(OH)4",
+              "amount": "0.15 mmol",
+              "supplier": "Aldrich"
+            },
+            {
+              "name": "oxalic acid",
+              "amount": "1 mmol",
+              "supplier": "Aldrich"
+            }
+          ],
+          "washing_method": "washed with water and ethanol",
+          "drying_method": "dried in air",
+          "yield": "colorless block crystals (~200×50×45 μm3)"
+        }
+      ]
+    }
+  ]
+}

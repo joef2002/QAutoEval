@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the nanocage labeled as 1?",
+      "answer": "[Cu24(L)24(H2O)16(DMA)8]·15MeOH·42DMA",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the 3D nanocage polymer denoted as 2 synthesized?",
+      "answer": "By heating crystals of 1 in a MeOH solution with added DMSO at 120°C for 3 days.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield percentage of the synthesis of the nanocage labeled as 1?",
+      "answer": "65%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the BET surface area of the 3D nanocage polymer 2 higher than that of the 0D nanocage 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to measure the CO2 adsorption isotherms?",
+      "answer": "Volumetrically using a Micromeritics ASAP 2020 surface area analyzer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the 2D nanocage polymer 3 transform into the 3D nanocage polymer 2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the temperature used to activate nanocage polymer 2 and 3 before gas sorption measurements?",
+      "answer": "40 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of the 3D nanocage polymer 2?",
+      "answer": "Triclinic, P-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMSO in the synthesis of nanocage polymers?",
+      "answer": "DMSO acts as a solvent that facilitates the polymerization of the nanocages by reducing steric hindrance around the metal sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does increasing the ratio of V(DMSO):V(MeOH) lead to the formation of 2D polymerization of nanocages?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using nanocages for gas adsorption?",
+      "answer": "Nanocages enhance the surface area, improving targeted properties like gas adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 adsorption capacity at 195 K the same for 0D, 2D, and 3D nanocage polymers?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area in the study of nanocage polymers?",
+      "answer": "It indicates the extent of surface area available for gas adsorption, with higher values suggesting better adsorption capabilities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the direct polymerization of nanocage 1 successful?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the conversion from 2D to 3D nanocage polymers?",
+      "answer": "Raising the temperature facilitates the conversion from 2D to 3D nanocage polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the formula for the 2D nanocage polymer denoted as 3?",
+      "answer": "[Cu24(L)24(DMSO)4.5(H2O)15.5]·95MeOH·12DMSO",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of nanocage 1 involve solvothermal conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature in the synthesis of nanocage polymers?",
+      "answer": "Temperature controls the dimensionality of the polymers and facilitates the conversion between 2D and 3D structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2/N2 selectivity ratio for the 3D nanocage polymer 2 higher at 273 K or 298 K?",
+      "answer": "The selectivity ratios are similar at both temperatures, with values of 46 at 273 K and 45 at 298 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main challenge in the assembly of supramolecular nanocages into ordered frameworks?",
+      "answer": "The controlled arrangement of the supramolecular nanocages into an ordered 2D or 3D framework structure remains a challenge.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound 1a?",
+      "answer": "C53H77Mn2N5O19",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What method was used for the enantioselective adsorption and separation experiments?",
+      "answer": "Evacuated sample of (S)-1a and racemic amine in MeOH were mixed together.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the highest enantioselectivity achieved for 1-(4-fluorophenyl)ethylamine?",
+      "answer": "98.3% ee",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why is the resolution of amines more challenging compared to alcohols?",
+      "answer": "Amines are more reactive than alcohols and tend to dissociate MOF structures.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the role of chiral dihydroxyl groups in MOF 1a for enantioselective separation?",
+      "answer": "Chiral dihydroxyl groups, together with the Mn atoms and phenyl rings, create a microenvironment crucial for optical discrimination of small organic molecules.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Is MOF 1a capable of enantioselective separation of both aromatic and aliphatic amines?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Can MOF 1a be recycled and reused without loss of performance in enantioselective separation?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Does the chiral nature of the included molecule depend on the handedness of the host?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Was molecular simulation conducted to provide insights into the enantioselective adsorption?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Did the study demonstrate the use of MOF 1a as a chiral stationary phase (CSP) in HPLC for enantioseparation?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the method used to confirm the composition of the amine-exchanged solid samples?",
+      "answer": "Combination of 1H NMR and elemental analysis.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the effect of temperature on the enantioselectivity of 1-phenylethylamine separation?",
+      "answer": "Decreasing the temperature from 23°C to -10°C led to better enantioselectivity.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Was the MOF 1a structure stable after being used as a CSP for HPLC enantioseparation?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What was the role of methyl-protected biphenol groups in MOF 1b regarding enantioselectivity?",
+      "answer": "MOF 1b with methyl-protected biphenol groups showed essentially no enantioselectivity.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What was the selectivity factor (a) achieved for the HPLC separation of 1-phenylethylamine?",
+      "answer": "1.4",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Did the study find that the adsorption of amines correlates to the pair of available hydroxyl groups of biphenol per unit cell?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the method used to prepare the MOF 1a-packed column for HPLC?",
+      "answer": "The upward stirred slurry method.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Was the MOF 1a capable of achieving baseline resolution in HPLC for all tested racemic amines?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What was the impact of increasing the injection mass on the retention time of enantiomers in HPLC?",
+      "answer": "The retention time of the enantiomer for 1-PEA became closer with increasing injection mass.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Did the study demonstrate the use of MOF 1a for the large-scale resolution of racemic 1-phenylethylamine?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    }
+  ]
+}

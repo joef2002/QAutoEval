@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the homochiral 3D MOF discussed?",
+      "answer": "[{Co2(L)(bpe)(H2O)}·5H2O]n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of the ligand H4L?",
+      "answer": "Hydrothermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of NaOH in the preparation of MOF 1?",
+      "answer": "NaOH acts as a base in the reaction.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF 1 structure preserved after dehydration and rehydration?",
+      "answer": "Yes, the MOF 1 structure is preserved after dehydration and rehydration.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What changes occur in the coordination environment of Co(II) from MOF 1 to MOF 3?",
+      "answer": "The coordination number of Co(II) changes from 6 (octahedral) to 5 (trigonal bipyramidal).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the intermediate phase 2' be stabilized during the transformation process?",
+      "answer": "No, the intermediate phase 2' cannot be stabilized and quickly transforms into 1' in air.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main factor contributing to the ferroelectricity of MOF 1?",
+      "answer": "The main factor contributing to the ferroelectricity of MOF 1 is the ordered helical water columns.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the removal of free water molecules trigger a change in the chiral backbone of MOF 1?",
+      "answer": "No, the removal of free water molecules does not trigger a significant change in the chiral backbone of MOF 1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to measure the ferroelectric properties of MOF 1?",
+      "answer": "The ferroelectric properties of MOF 1 were measured using a ferroelectric tester.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the polarization of MOF 1 mainly induced by the water spirals according to the computational calculations?",
+      "answer": "Yes, the polarization of MOF 1 is mainly induced by the water spirals according to the computational calculations.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the dielectric constant of MOF 1?",
+      "answer": "The dielectric constant of MOF 1 shows broad peaks from 250 to 400 K and pronounced maxima close to 320 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the MOF 1 structure at temperatures above 393 K?",
+      "answer": "At temperatures above 393 K, MOF 1 transforms into MOF 3 with a change in the coordination environment of Co(II).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF 1 framework thermally stable up to 350 °C in air?",
+      "answer": "Yes, the MOF 1 framework remains thermally stable up to 350 °C in air.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hexagonal space group P61 in the structure of MOF 1?",
+      "answer": "The hexagonal space group P61 contributes to the chiral and noncentrosymmetric nature of MOF 1, which is important for its ferroelectric properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the crystal-to-crystal transformation of MOF 1 involve a change in the color of the single crystal?",
+      "answer": "Yes, the crystal-to-crystal transformation from MOF 2 to MOF 3 involves a color change from red to dark brown.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bpe in the structure of MOF 1?",
+      "answer": "Bpe acts as a ligand that helps to stabilize the structure of MOF 1 by forming Co-N bonds and supporting the double-helical chains.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MOF 1 undergo reversible SCSC transformation without losing its integrity?",
+      "answer": "Yes, MOF 1 can undergo reversible SCSC transformation without losing its integrity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ordered helical water chains in MOF 1?",
+      "answer": "The ordered helical water chains in MOF 1 are significant for its switchable ferroelectric and optical behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of dehydration on the powder XRD pattern of MOF 1?",
+      "answer": "Dehydration causes some diffraction peaks to disappear above 200 °C, but they return upon cooling, indicating reversible structural changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fast reversible SCSC transformation of MOF 1 attributed to the robustness and hydrophilicity of its host backbone?",
+      "answer": "Yes, the fast reversible SCSC transformation of MOF 1 is attributed to the robustness and hydrophilicity of its host backbone.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

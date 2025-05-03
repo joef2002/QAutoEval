@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the planar compound synthesized?",
+      "answer": "[Cu(pyz)2(pyO)2](PF6)2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What change in the ratio of pyrazine to pyridine-N-oxide was made to synthesize the chain-like compound from the planar compound?",
+      "answer": "The ratio of pyrazine to pyridine-N-oxide was decreased from 3:1 to 2:1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the transition temperature (TN) for the planar compound as determined by muon-spin relaxation?",
+      "answer": "1.71 ± 0.02 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The primary exchange couplings, J, for both the planar and chain-like compounds are within 5% of each other.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to determine the g-factor anisotropy in both compounds?",
+      "answer": "Electron-spin resonance",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the increase in the non-relaxing part of the muon-spin relaxation signal (A∞) indicate about the chain-like compound?",
+      "answer": "It indicates the onset of long-range magnetic order below a certain temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of the chain-like compound is orthorhombic.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the saturation field (Bc) for the planar compound as extracted from pulsed-field magnetization data?",
+      "answer": "23.7 ± 0.8 T",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to simulate the Hamiltonian of the magnetic systems?",
+      "answer": "Quantum Monte Carlo simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The chain-like compound exhibits oscillations in the muon-spin relaxation asymmetry below about 1.7 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a precession signal in muon-spin relaxation data below TN indicate?",
+      "answer": "It indicates long-range magnetic order throughout the bulk of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nearest-neighbor exchange energies of the planar and chain-like compounds are significantly different due to their structural differences.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary exchange coupling, J, estimated for the chain-like compound?",
+      "answer": "8.8 ± 0.2 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the dimensionality of the magnetic system affect the critical temperature (TN) relative to the primary exchange energy (J)?",
+      "answer": "The relative sizes of TN and J are indicative of the anisotropy of the exchange interactions in a low-dimensional magnetic system.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The g-factor is lowest when the excitation field is applied in the ab plane for the planar compound.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the deviation of pulsed-field magnetization data from simulations close to the saturation field likely due to?",
+      "answer": "The deviation is likely due to the finite temperatures at which the experiments were performed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The chain-like compound has a higher transition temperature (TN) than the planar compound.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the alteration in composition from the planar to the chain-like compound achieve in terms of magnetic exchange?",
+      "answer": "It changes the symmetry of the crystal and reduces the number of nearest neighbors, affecting the dimensionality of the magnetic exchange.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The quasi-two-dimensional material has a stronger exchange anisotropy compared to the quasi-one-dimensional material.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the g-factor anisotropy in determining the type of magnetic order in the compounds?",
+      "answer": "The g-factor anisotropy helps to verify the equivalence of the magnetic and structural planes and chains, indicating the direction of highest electronic orbital overlap and the mediation of magnetic exchange.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

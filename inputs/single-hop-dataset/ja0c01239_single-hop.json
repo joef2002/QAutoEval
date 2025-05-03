@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of CBT-CS?",
+      "answer": "C10H12CuF6N2O2Ti",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature in Kelvin was the crystallographic data for CBT-NCS collected?",
+      "answer": "100.07",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does CBZ-NCS belong to?",
+      "answer": "orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of CBH-CS?",
+      "answer": "P2/n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume in Å3 of the unit cell for CBT-NCS?",
+      "answer": "4444.9(2)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many reflections were collected for Zr-CS?",
+      "answer": "276593",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index for all data of Hf-NCS?",
+      "answer": "0.0304",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the bpy:ETM ratio less than or equal to 1.5 indicative of M-CS or M-NCS?",
+      "answer": "M-CS",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does a bpy:CuO ratio greater than 1.5 predict the formation of M-CS or M-NCS for reactions containing Zr and Hf?",
+      "answer": "M-NCS",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of Ti-NCS only possible when the amount of HF is less than 0.0025 mol?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of the TiF6 2– anion shift the speciation equilibrium towards the formation of Cu­(bpy)­(H2O)2 2+ species?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the out-of-center distortions in Ti-NCS and Hf-NCS comparable in magnitude?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the decision tree model able to effectively classify reactions for Zr and Hf but not fully capture the crystallization boundary between Ti-CS and Ti-NCS?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the decision tree model show that phase selection is primarily driven by the bpy:CuO molar ratio?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the strong ligand-to-metal π bonding between Ti­(3d – t2g) and F­(2p) states unique to the TiF6 2– anion compared to ZrF6 2– and HfF6 2– anions?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the dataset used in the machine learning analysis include calculated stoichiometric properties and computed electronic structure properties?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the interpolative STTS models expected to perform better than the extrapolative LOO models?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

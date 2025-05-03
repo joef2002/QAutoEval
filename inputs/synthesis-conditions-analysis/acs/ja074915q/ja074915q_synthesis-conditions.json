@@ -1,0 +1,53 @@
+{
+  "materials": [
+    {
+      "material": "[Mn(NNdmenH)(H2O)][Cr(CN)6]·nH2O",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "10 mL"
+          },
+          {
+            "name": "aqueous solution of NNdmen",
+            "amount": "5 mL"
+          },
+          {
+            "name": "aqueous solution of K3[Cr(CN)6]",
+            "amount": "5 mL"
+          }
+        ],
+        "equipment": "standard Schlenk apparatus",
+        "chemicals_used": [
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "59 mg, 0.3 mmol"
+          },
+          {
+            "name": "NNdmen",
+            "amount": "53 mg, 0.6 mmol"
+          },
+          {
+            "name": "K3[Cr(CN)6]",
+            "amount": "65 mg, 0.2 mmol"
+          }
+        ],
+        "time": "over 2 weeks",
+        "washing_method": "suction filtration, washed with water",
+        "drying_method": "vacuo",
+        "yield": "16 mg (19%)",
+        "additional_information": "All operations were carried out in the dark to avoid decomposition of K3[Cr(CN)6]. The number of lattice water molecules (n) fluctuated between one and two, confirmed by elemental analysis, TGA, and adsorption isotherm of H2O. The composition was finally defined to be [Mn(NNdmenH)(H2O)][Cr(CN)6]·H2O by consideration of all results."
+      }
+    },
+    {
+      "material": "[Mn(NNdmenH)][Cr(CN)6]",
+      "synthesis_conditions": {
+        "temperature": "373 K",
+        "equipment": "reduced pressure (<10^-2 Pa)",
+        "time": "more than 10 h",
+        "additional_information": "The anhydrous sample ([Mn(NNdmenH)][Cr(CN)6], referred to as 1a) was obtained by treatment under reduced pressure at 373 K for more than 10 h."
+      }
+    }
+  ]
+}

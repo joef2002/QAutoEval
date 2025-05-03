@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the coordination polymer discussed?",
+      "answer": "[Cu(F-pymo)2(H2O)1.25]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What topology does the coordination polymer display?",
+      "answer": "Zeolitic gismondine (GIS) topology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the void volume percentage of the thermally activated counterpart of the coordination polymer?",
+      "answer": "13%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pressure does the coordination polymer adsorb 0.56 wt % of H2?",
+      "answer": "At 90 K and 900 Torr",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of CO2 incorporation on the transition temperature of the coordination polymer?",
+      "answer": "It increases the transition temperature at which the weak ferromagnetic ordering takes place from 22 to 29 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the kinetic diameter of N2?",
+      "answer": "2.99 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does the coordination polymer selectively adsorb H2 over N2 at 77 K?",
+      "answer": "Due to size-exclusion reasons, as the channels are 2.9 Å wide, allowing smaller H2 molecules to pass through over the slightly larger N2 molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination polymer behave towards CO2 at temperatures as high as 433 K?",
+      "answer": "It readily incorporates CO2 molecules despite them being slightly larger than the pore size.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the guest-induced effect on the magnetic properties of the coordination polymer?",
+      "answer": "CO2 incorporation in the pores is responsible for an increment of the transition temperature at which the weak ferromagnetic ordering takes place.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural change observed upon CO2 adsorption?",
+      "answer": "The uptake of CO2 occurs through a transient phase and channels expansion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the weight percentage of CO2 adsorbed at 273 K and 900 Torr?",
+      "answer": "7.6 wt %",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the water molecules in the coordination polymer structure?",
+      "answer": "They stabilize the polymeric network through extensive hydrogen bonding.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dehydration of the coordination polymer reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer have a high gas storage capacity?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer's framework affected more by dehydration or CO2 incorporation?",
+      "answer": "True, CO2 incorporation has a more profound effect on the framework than dehydration.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer exhibit framework flexibility in response to guest molecules?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer's behavior as a molecular sieve of H2 over N2 modified when exposed to CO2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer adsorb N2 at 77 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer's magnetic behavior unaffected by guest molecule incorporation?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer exhibit a spin-canted antiferromagnetic behavior?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

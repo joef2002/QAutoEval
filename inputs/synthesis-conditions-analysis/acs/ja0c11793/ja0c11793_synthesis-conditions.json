@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "OPM-1",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "0.5 mL",
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2•6H2O",
+            "amount": "1 equiv., 0.025 mM, 7.4 mg"
+          },
+          {
+            "chemical": "Peptide 1",
+            "amount": "2 equiv., 0.05 mM, 37.5 mg"
+          },
+          {
+            "chemical": "KOH",
+            "amount": "2 M aqueous solution, 4 equiv., 0.1 mM, 50.0 µL"
+          }
+        ],
+        "time": "7 days",
+        "washing_method": "slow cooling to room temperature",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Crystals stable in solution. Solvent in the channel is entirely disordered."
+      }
+    },
+    {
+      "name": "OPM-2",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": "DMF",
+        "amount_of_solvent": "0.5 mL",
+        "chemicals_used": [
+          {
+            "chemical": "Zn(NO3)2•6H2O",
+            "amount": "1 equiv., 0.025 mM, 7.4 mg"
+          },
+          {
+            "chemical": "Peptide 1",
+            "amount": "2 equiv., 0.05 mM, 37.5 mg"
+          },
+          {
+            "chemical": "RbOH",
+            "amount": "2 M aqueous solution, 4 equiv., 0.1 mM, 50.0 µL"
+          }
+        ],
+        "time": "7 days",
+        "washing_method": "slow cooling to room temperature",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Crystals stable in solution. Solvent in the channel is entirely disordered."
+      }
+    },
+    {
+      "name": "ZnK-dimer",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "amount_of_solvent": "not specified",
+        "chemicals_used": [
+          {
+            "chemical": "Zn",
+            "amount": "not specified"
+          },
+          {
+            "chemical": "K",
+            "amount": "not specified"
+          }
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "The ZnK-dimer is a component of the OPM-1 and OPM-2 structures, involved in the metal string architecture."
+      }
+    }
+  ]
+}

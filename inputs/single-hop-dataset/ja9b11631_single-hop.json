@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of scandacyclopropene 2a?",
+      "answer": "C82H120K2N4O3Sc2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (in Kelvin) were the crystallographic data for 2a-crypt•(THF)2 collected?",
+      "answer": "179.99",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the crystal structure for 2b-crypt?",
+      "answer": "P21/n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of analysis was performed using Multiwfn program?",
+      "answer": "Orbital localization analysis and orbital composition analysis",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of KC8 in the formation of scandacyclopropene 2a?",
+      "answer": "KC8 acts as a reducing agent in the formation of scandacyclopropene 2a",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of scandacyclopropene 2a through oxidative addition of diphenylacetylene to the Sc(I) center possible?",
+      "answer": "No, the formation of scandacyclopropene 2a does not proceed through oxidative addition of diphenylacetylene to the Sc(I) center",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the calculation of NICS in the study?",
+      "answer": "GIAO method at B3LYP/6-311G(d,p) level",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the LOL-π analysis in Multiwfn reveal about the electron density?",
+      "answer": "The LOL-π analysis gives a clear picture of the electron density localization at the center of the three-membered ring",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the multicenter bond order (Iring) calculation?",
+      "answer": "The multicenter bond order (Iring) calculation helps in evaluating the aromaticity of the scandacyclopropene unit",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the formation of scandacyclopropene 2a confirmed by harmonic frequency calculations?",
+      "answer": "Yes, harmonic frequency calculations confirmed the structure of scandacyclopropene 2a as a local minimum",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational package was used for all calculations in the study?",
+      "answer": "GAUSSIAN 09 program package",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What basis set was used for scandium in the DFT calculations?",
+      "answer": "LANL2DZ basis set",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the B3LYP level in the study?",
+      "answer": "The B3LYP level was used for the optimization of structures and harmonic frequency calculations",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of 2a characterized by a one-dimensional coordination polymer?",
+      "answer": "Yes, the crystal structure of 2a presents a one-dimensional coordination polymer",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a delocalized three-center two-electron (3c-2e) aromatic system indicate about scandacyclopropene?",
+      "answer": "It indicates that the scandacyclopropene unit exhibits aromatic characteristics",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of [2.2.2]­cryptand in the synthesis of uncapped scandacyclopropene?",
+      "answer": "The [2.2.2]­cryptand was added to avoid the influence of the potassium countercation on the bonding mode of scandacyclopropene",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to confirm the molecular structures of scandacyclopropenes?",
+      "answer": "X-ray diffraction analysis was used to confirm the molecular structures",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the calculated NICS(1)zz value for the three-membered ring in 2a-crypt indicate?",
+      "answer": "The calculated NICS(1)zz value indicates the aromaticity of the scandacyclopropene",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the isomerization stabilization energy (ISE) calculation for the hypothetic dimethylscandacyclopropene?",
+      "answer": "The ISE calculation helps in evaluating the stability and aromaticity of the hypothetic dimethylscandacyclopropene",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the reaction between scandacyclopropene 2a and phenylacetylene?",
+      "answer": "The reaction produced scandium bis-phenylacetylide along with the release of cis-stilbene",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

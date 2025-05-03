@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "material": "α-[Ag2(bpz)] (1-Ag)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {"chemical": "Ag2O", "amount": "0.34 g", "molarity": "2.0 mmol"},
+            {"chemical": "aqueous ammonia", "concentration": "28%", "amount": "20 mL"},
+            {"chemical": "MeOH", "amount": "150 mL"},
+            {"chemical": "mesitylene", "amount": "5 mL"},
+            {"chemical": "H2bpz", "amount": "0.38 g", "molarity": "2.0 mmol"},
+            {"solvent": "MeOH", "amount": "200 mL"}
+          ],
+          "temperature": "room temperature",
+          "time": "ca. 1 day",
+          "equipment": "stirring",
+          "yield": "450 mg, 55%"
+        }
+      ],
+      "washing_method": "solvent exchanged with MeOH (200 mL, 2 h with stirring, 6−8 times) until all mesitylene was removed",
+      "drying_method": "filtered and dried at reduced pressure"
+    },
+    {
+      "material": "α-[Cu2(bpz)] (1-Cu)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {"chemical": "Cu2O", "amount": "0.143 g", "molarity": "1.0 mmol"},
+            {"chemical": "aqueous ammonia", "concentration": "28%", "amount": "30 mL"},
+            {"chemical": "MeOH", "amount": "30 mL"},
+            {"chemical": "toluene", "amount": "2.0 mL"},
+            {"chemical": "H2bpz", "amount": "0.19 g", "molarity": "1.0 mmol"}
+          ],
+          "temperature": "120 °C",
+          "time": "2 days",
+          "equipment": "100-mL Teflon-lined autoclave",
+          "yield": "240 mg, 75%"
+        }
+      ],
+      "washing_method": "filtered, washed by MeOH",
+      "drying_method": "dried at reduced pressure",
+      "additional_information": "Toluene guest was removed by heating the white powder at 200 °C under vacuum"
+    },
+    {
+      "material": "β-[Ag2(bpz)] (2-Ag)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {"chemical": "Ag2O", "amount": "0.34 g", "molarity": "2.0 mmol"},
+            {"chemical": "aqueous ammonia", "concentration": "28%", "amount": "20 mL"},
+            {"chemical": "MeOH", "amount": "150 mL"},
+            {"chemical": "H2bpz", "amount": "0.38 g", "molarity": "2.0 mmol"},
+            {"solvent": "MeOH", "amount": "200 mL"}
+          ],
+          "temperature": "room temperature",
+          "time": "ca. 1 day",
+          "equipment": "stirring",
+          "yield": "480 mg, 60%"
+        }
+      ],
+      "washing_method": "filtered, washed by MeOH",
+      "drying_method": "dried at reduced pressure"
+    },
+    {
+      "material": "β-[Cu2(bpz)] (2-Cu)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {"chemical": "Cu2O", "amount": "0.143 g", "molarity": "1.0 mmol"},
+            {"chemical": "aqueous ammonia", "concentration": "28%", "amount": "10 mL"},
+            {"chemical": "MeOH", "amount": "30 mL"},
+            {"chemical": "H2bpz", "amount": "0.19 g", "molarity": "1.0 mmol"}
+          ],
+          "temperature": "120 °C",
+          "time": "2 days",
+          "yield": "250 mg, 80%"
+        }
+      ],
+      "washing_method": "filtered, washed by MeOH",
+      "drying_method": "dried at reduced pressure"
+    }
+  ]
+}

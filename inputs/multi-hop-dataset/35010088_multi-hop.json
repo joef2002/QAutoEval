@@ -1,0 +1,139 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of the chiral organic building block 1 used to synthesize POST-1?",
+            "answer": "The chiral organic building block 1 used to synthesize POST-1 has the chemical formula C12H14N2O5.",
+            "type": "factual"
+        },
+        {
+            "question": "What metal ion does the chiral organic building block 1 react with to produce the homochiral open-framework solid POST-1?",
+            "answer": "The chiral organic building block 1 reacts with Zn2+ ions to produce the homochiral open-framework solid POST-1.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the chemical formula of POST-1?",
+            "answer": "The chemical formula of POST-1 is [Zn3(\u6e2d3-O)(1-H)6]\u8def2H3O\u8def12H2O.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the void volume of the channels in POST-1 estimated to be as a percentage of the total volume?",
+            "answer": "The void volume of the channels in POST-1 is estimated to be ~47% of the total volume.",
+            "type": "factual"
+        },
+        {
+            "question": "What molecules fill the void volume of the channels in POST-1?",
+            "answer": "The void volume of the channels in POST-1 is filled with water molecules (47 water molecules per unit cell).",
+            "type": "factual"
+        },
+        {
+            "question": "How many pyridyl groups are there per trinuclear unit [Zn3(\u6e2d3-O)(1-H)6]2- in the structure of POST-1?",
+            "answer": "There are six pyridyl groups per trinuclear unit [Zn3(\u6e2d3-O)(1-H)6]2- in the structure of POST-1.",
+            "type": "factual"
+        },
+        {
+            "question": "How are the trinuclear secondary building units [Zn3(\u6e2d3-O)(1-H)6]2- linked together to form the overall framework structure of POST-1?",
+            "answer": "The trinuclear secondary building units [Zn3(\u6e2d3-O)(1-H)6]2- are interconnected through coordinate covalent bonds between the zinc ions and pyridyl groups of the chiral ligand 1, generating two-dimensional infinite layers consisting of large edge-sharing chair-shaped hexagons with a trinuclear unit at each corner. The 2D layers then stack along the c axis.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What stabilizes the stacking of the 2D layers in POST-1 along the c axis?",
+            "answer": "The stacking of the 2D layers in POST-1 along the c axis is apparently stabilized by efficient van der Waals interactions between the layers arising from their self-complementary structure.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How many of the six pyridyl groups per trinuclear unit are coordinated to neighboring zinc ions and how many extrude into the channel without framework interactions?",
+            "answer": "Out of the six pyridyl groups per trinuclear unit, three are coordinated to the zinc ions of three neighboring trinuclear units, while the other three extrude into the channel without any interactions with the framework.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What provides the two additional positive charges per [Zn3(\u6e2d3-O)(1-H)6]2- unit needed for overall charge neutrality in POST-1?",
+            "answer": "Protonation of two of the three pyridyl groups exposed in the channel provides the two additional positive charges per [Zn3(\u6e2d3-O)(1-H)6]2- unit needed for overall charge neutrality in POST-1, as confirmed by cation exchange experiments showing the protons can be exchanged with alkali metal ions.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Can the protons bound to the pyridyl groups in the channels of POST-1 be exchanged with other cations?",
+            "answer": "Yes, cation exchange experiments showed that the protons bound to the pyridyl groups in the channels of POST-1 can be exchanged with alkali metal ions such as Na+, K+ and Rb+.",
+            "type": "factual"
+        },
+        {
+            "question": "What happens to the color of L-POST-1 when it is suspended in a methanol solution of racemic [Ru(2,2-bipy)3]Cl2?",
+            "answer": "When L-POST-1 is suspended in a methanol solution of racemic [Ru(2,2-bipy)3]Cl2, the color changes from white to reddish yellow due to inclusion of the Ru complex in the channels.",
+            "type": "factual"
+        },
+        {
+            "question": "What percentage of the exchangeable protons in L-POST-1 are exchanged with [Ru(2,2-bipy)3]2+ when suspended in a methanol solution of the racemic complex?",
+            "answer": "80% of the exchangeable protons in L-POST-1 are exchanged with [Ru(2,2-bipy)3]2+ (0.8 Ru complex per [Zn3(\u6e2d3-O)(1-H)6]2- unit) when suspended in a methanol solution of the racemic complex.",
+            "type": "factual"
+        },
+        {
+            "question": "Is the inclusion of the Ru complex enantioselective in L-POST-1?",
+            "answer": "Yes, the inclusion of the Ru complex is enantioselective in L-POST-1, with 66% enantiomeric excess in favor of the \u8796 form.",
+            "type": "factual"
+        },
+        {
+            "question": "What unique opportunities for chemical modification of the channel environment are provided by the pyridyl groups exposed in the channels of POST-1?",
+            "answer": "The pyridyl groups exposed in the channels of POST-1 provide unique opportunities for chemical modification of the channel environment, such as N-alkylation which can change the framework charge from negative to positive.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What happens to the pore volume of POST-1 when the exposed pyridyl groups are N-alkylated with iodomethane versus 1-iodohexane?",
+            "answer": "Thermal analysis showed that the pore volume of POST-1 shrinks by 14% upon N-alkylation with iodomethane and by 60% upon N-alkylation with 1-iodohexane, indicating the pore size can be modulated by the size of the alkylating agent.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Does POST-1 show catalytic activity for the transesterification of ester 2 with ethanol?",
+            "answer": "Yes, POST-1 shows catalytic activity for the transesterification of ester 2 with ethanol, producing ethyl acetate in 77% yield after 55 hours at 27\u63b3C with 0.1 equivalents of POST-1 as catalyst.",
+            "type": "factual"
+        },
+        {
+            "question": "Does transesterification of ester 2 occur without any catalyst or with N-methylated POST-1 as catalyst?",
+            "answer": "No or little transesterification of ester 2 occurs without any catalyst or with N-methylated POST-1 as catalyst, respectively, under the same conditions where POST-1 gives 77% yield.",
+            "type": "factual"
+        },
+        {
+            "question": "Does the rate of transesterification of ester 2 with bulkier alcohols like isobutanol, neopentanol and 3,3,3-triphenyl-1-propanol differ compared to ethanol when using POST-1 as catalyst?",
+            "answer": "Yes, the rate of transesterification of ester 2 with bulkier alcohols like isobutanol, neopentanol and 3,3,3-triphenyl-1-propanol is much slower or even negligible compared to ethanol when using POST-1 as catalyst under otherwise identical conditions.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What does the size selectivity observed in the transesterification of ester 2 with different alcohols catalyzed by POST-1 suggest about where the catalysis occurs?",
+            "answer": "The size selectivity observed in the transesterification of ester 2 with different alcohols, where bulkier alcohols react much more slowly, suggests that the catalysis mainly occurs inside the channels of POST-1 rather than on the external surface.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: POST-1 is stable in normal organic solvents but slightly soluble in water and DMSO.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: POST-1 maintains its crystallinity upon removal of the solvate molecules by evacuation.",
+            "answer": "False - POST-1 loses crystallinity upon removal of the solvate molecules by evacuation, but restores it upon exposure to ethanol or water vapor.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The structure of L-POST-1 is identical to that of D-POST-1 except for the opposite handedness.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The amount of anions that can be included in the channels of POST-1 increases as the pore volume shrinks upon N-alkylation of the pyridyl groups.",
+            "answer": "False - The amount of anions that can be included in the channels decreases as the pore volume shrinks upon N-alkylation of the pyridyl groups.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: POST-1 shows enantioselective catalytic activity for the transesterification of ester 2 with racemic 1-phenyl-2-propanol.",
+            "answer": "True - A preliminary study showed that the reaction of ester 2 with racemic 1-phenyl-2-propanol in the presence of D-POST-1 or L-POST-1 produces the corresponding esters with ~8% enantiomeric excess in favor of the S or R enantiomer, respectively.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: Asymmetric induction has never been observed before in reactions mediated by modular porous materials prior to this work.",
+            "answer": "True - The authors state that the enantioselectivity observed in the transesterification reaction, although modest, is noteworthy because asymmetric induction has never been observed in reactions mediated by modular porous materials before.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The authors anticipate that the design strategy used to make POST-1 can only be applied to the specific chiral building block 1 used in this study.",
+            "answer": "False - The authors anticipate that this design strategy, applied to chemically modified starting materials, will allow the introduction of other recognition and/or catalytic sites into the channels of analogous porous materials.",
+            "type": "true_false"
+        }
+    ]
+}

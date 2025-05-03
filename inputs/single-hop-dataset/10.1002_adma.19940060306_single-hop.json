@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the critical temperature (Tc) of [FeCp*]2@[TCNE]?",
+      "answer": "4.8 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What material was reported to have a Tc exceeding room temperature?",
+      "answer": "V(C,H,); y(solvent) magnet",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the a-polymorph of manganese phthalocyanine tetracyanoethenide obtained?",
+      "answer": "By grinding MnPc and TCNE followed by dissolution of the soluble product into MeCN.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Tc of [MnTPP]2@[TCNE]?",
+      "answer": "18 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the average effective moment peff for the a-phase of [MnPc]2@[TCNE]?",
+      "answer": "4.95 pB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the average theta (θ) value for the a-phase of [MnPc]2@[TCNE]?",
+      "answer": "72.6 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the goal of studying molecule-based magnets with enhanced Tcs and θs?",
+      "answer": "To elucidate the importance of 1D interactions with respect to 3D interactions, establish the structure-function relationship for this new class of materials, and characterize new molecule-based magnets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the effective moment peff value for the a-phase lower compared to [MnTPP][TCNE] . 2PhMe?",
+      "answer": "Because the average effective moment peff for the a-phase is 4.95 pB, which is lower than the 5.12 pB reported for [MnTPP][TCNE] . 2PhMe.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic susceptibility x of [MnTPP]2@[TCNE] fit to the Curie-Weiss expression between 115 and 250 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the a-polymorph of manganese phthalocyanine tetracyanoethenide obtained by direct reaction of MnPc and TCNE in refluxing MeCN?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the P-phase of manganese phthalocyanine tetracyanoethenide consist of parallel, albeit interleaving, 1D chains?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic behavior of a-[MnPc]2@[TCNE] characterized as ferrimagnetic?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the P-phase of [MnPc]2@[TCNE] exhibit stronger magnetic coupling than the a-phase?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the susceptibility of P-[MnPc]2@[TCNE] fit by the Curie-Weiss expression above ca. 130 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the intrachain [MnPc]2@[TCNE] planes essentially parallel to each other?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the effective magnetic-ordering temperature of a-[MnPc]2@[TCNE] estimated to be 40 K?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TCNE in the synthesis of manganese phthalocyanine tetracyanoethenide?",
+      "answer": "TCNE acts as a reactant in the synthesis process, forming a complex with manganese phthalocyanine.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the θ value in the study of molecule-based magnets?",
+      "answer": "The θ value indicates the strength of magnetic coupling, with larger values suggesting stronger magnetic interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of the P-phase of manganese phthalocyanine tetracyanoethenide differ from the a-phase?",
+      "answer": "The P-phase consists of parallel, albeit interleaving, 1D chains, while the a-phase is obtained through a different preparative route and has distinct magnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the direct reaction of MnPc and TCNE in refluxing MeCN?",
+      "answer": "It leads to the formation of the P-polymorph of manganese phthalocyanine tetracyanoethenide.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

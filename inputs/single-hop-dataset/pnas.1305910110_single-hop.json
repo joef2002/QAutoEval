@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application of the nano-MOFs developed in the study?",
+      "answer": "The primary application of the nano-MOFs developed in the study is for near-infrared (NIR) imaging in living cells.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does nano-Yb-PVDC-3 possess that makes it suitable for NIR imaging?",
+      "answer": "Nano-Yb-PVDC-3 possesses a unique feature of emitting near-infrared light, which is suitable for NIR imaging due to its ability to be incorporated into living cells and its stability in specific biological media.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nano-MOFs exhibit broad emission bands that limit their ability to be easily discriminated from the background fluorescence.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Yb3+ cations in the nano-MOFs?",
+      "answer": "The role of Yb3+ cations in the nano-MOFs is to emit near-infrared light for imaging applications.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How do nano-Yb-PVDC-3 MOFs enter living cells for imaging?",
+      "answer": "Nano-Yb-PVDC-3 MOFs are internalized by cells, with a cytoplasmic localization, allowing for imaging within living cells.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Nano-Yb-PVDC-3 has a high quantum yield, making it highly efficient for NIR imaging.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the nano-MOFs' stability in various media?",
+      "answer": "The stability of nano-MOFs in various media is significant because it ensures that they remain intact and retain their luminescent properties for effective imaging in biological environments.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The nano-MOFs require two-photon excitation for NIR imaging.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenge do nano-Yb-PVDC-3 MOFs overcome compared to traditional NIR reporters?",
+      "answer": "Nano-Yb-PVDC-3 MOFs overcome the challenge of limited photostability and blinking emission, which are issues with traditional NIR reporters like cyanine dyes and quantum dots.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Lanthanide cations, including Yb3+, have broader emission bandwidths than organic fluorophores.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IC50 value of nano-Yb-PVDC-3, and why is it important?",
+      "answer": "The IC50 value of nano-Yb-PVDC-3 is 100 μg/mL, which is important because it indicates the concentration at which the material is toxic to 50% of the cells, thus providing a measure of its suitability for live cell imaging.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Nano-Yb-PVDC-3 MOFs can be used for imaging in both HeLa and NIH 3T3 cells.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the antenna effect contribute to the functionality of nano-Yb-PVDC-3 MOFs?",
+      "answer": "The antenna effect contributes to the functionality of nano-Yb-PVDC-3 MOFs by sensitizing the Yb3+ cations through energy transfer from the PVDC ligands, enabling the MOFs to emit NIR light for imaging.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nano-MOFs' emission signal is significantly affected by photobleaching over time.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What advantage does NIR imaging with nano-Yb-PVDC-3 MOFs offer over traditional imaging methods?",
+      "answer": "NIR imaging with nano-Yb-PVDC-3 MOFs offers the advantage of highly efficient discrimination between the nano-MOF emission signal and cellular autofluorescence, leading to improved detection sensitivity and imaging resolution.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Nano-Yb-PVDC-3 MOFs are unstable in cellular media, leading to a decrease in luminescence over time.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the mechanism of cell uptake for nano-Yb-PVDC-3 MOFs?",
+      "answer": "The mechanism of cell uptake for nano-Yb-PVDC-3 MOFs involves internalization by the cells, with the MOFs being preferentially located in the cytoplasm, although the exact mechanism is under investigation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The nano-MOFs' NIR emission signal can only be generated if the antenna effect is present and the sensitizer is located sufficiently close to the lanthanide.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How do nano-Yb-PVDC-3 MOFs compare to other luminescent lanthanide compounds in terms of quantum yield?",
+      "answer": "Nano-Yb-PVDC-3 MOFs have relatively small quantum yield values compared to the best luminescent lanthanide compounds, but their design maximizes the number of chromophores and lanthanide cations per unit volume to mitigate this limitation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nano-MOFs require specialized laser equipment for imaging applications.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

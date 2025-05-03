@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula for MOF-1?",
+      "answer": "[ZnL1]·2DMF·4H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MOF-2?",
+      "answer": "Pbcn",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the driving force for the reaction between 1* and TMBD?",
+      "answer": "0.79 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the Ru concentration determined for the MOF stock suspension?",
+      "answer": "By adding tetrabutyl ammonium hydroxide and measuring the absorption spectrum.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the association constant (KA) used in the Stern-Volmer fitting model?",
+      "answer": "The association constant (KA) is an adjustable parameter extracted from fitting the experimental data using a nonlinear least-squares regression analysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission intensity of MOF-2 with added BQ greater than MOF-1 with added BQ?",
+      "answer": "Yes, the emission intensity of MOF-2 with added BQ is greater than MOF-1 with added BQ.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of TBAH affect the quenching efficiency of MOF-2 by BQ?",
+      "answer": "Yes, the presence of TBAH affects the quenching efficiency of MOF-2 by BQ.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the quenching of MOF-1 by TMBD more efficient than by BQ?",
+      "answer": "False, the quenching of MOF-1 by TMBD is not more efficient than by BQ.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the Ru(III/II) potentials be determined from square-wave voltammetry?",
+      "answer": "True, the Ru(III/II) potentials can be determined from square-wave voltammetry.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission decay of Os-doped MOFs without added quenchers non-exponential?",
+      "answer": "True, the emission decay of Os-doped MOFs without added quenchers is non-exponential and can be satisfactorily fit with a biexponential.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the size of the MOF crystal affect its light-harvesting efficiency?",
+      "answer": "Yes, the size of the MOF crystal affects its light-harvesting efficiency, with optimal sizes absorbing the majority of light but not so large that the core is inactive.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the association constant (KA) for quencher pre-association with MOF-2 greater than with MOF-1?",
+      "answer": "True, the association constant (KA) for quencher pre-association with MOF-2 is greater than with MOF-1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Stern-Volmer model account for three classes of Ru excited states?",
+      "answer": "True, the Stern-Volmer model accounts for three classes of Ru excited states: those trapped in the core, those located at the surface quenched by pre-associated quencher, and those at the surface quenched by quenchers in solution.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission intensity from the core of the MOF crystal accessible to quencher?",
+      "answer": "False, the emission intensity from the core of the MOF crystal is not accessible to quencher.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the fraction of excited states that remain in the core of the MOF crystal be represented by (1- γ)?",
+      "answer": "True, the fraction of excited states that remain in the core of the MOF crystal can be represented by (1- γ).",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to purify N,N,N',N' tetramethylbenzidine (TMBD)?",
+      "answer": "N,N,N',N' tetramethylbenzidine (TMBD) was purified by a silica column eluting with chloroform.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of argon bubbling in the photophysical measurements?",
+      "answer": "Argon bubbling is used to degas the samples for 30 minutes to remove any oxygen before taking measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the emission decay of Os-doped MOFs with added quenchers satisfactorily fit with a triexponential?",
+      "answer": "True, the emission decay of Os-doped MOFs with added quenchers is satisfactorily fit with a triexponential.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Stern-Volmer fitting model include a Langmuir isotherm to describe the equilibrium between the quencher in solution and quencher bound to the crystal surface?",
+      "answer": "Yes, the Stern-Volmer fitting model includes a Langmuir isotherm to describe the equilibrium between the quencher in solution and quencher bound to the crystal surface.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the association constant (KA) for quencher pre-association with MOF-2 less than with MOF-1?",
+      "answer": "False, the association constant (KA) for quencher pre-association with MOF-2 is not less than with MOF-1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

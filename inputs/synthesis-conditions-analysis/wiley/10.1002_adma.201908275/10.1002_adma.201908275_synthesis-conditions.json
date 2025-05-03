@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Co(pyz)[Ni(CN)4] (ZJU-74)",
+      "synthesis_conditions": [
+        {
+          "step": "Crystal Synthesis",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Methanol/Water",
+              "amount": "5 mL (Methanol/Water solution 1/1)"
+            },
+            {
+              "name": "Methanol/Water",
+              "amount": "4 mL (Methanol/Water buffer solution 2/3)"
+            }
+          ],
+          "chemicals_used": [
+            "Co(NO3)2·6H2O (0.125 mmol)",
+            "Pyrazine (pyz, 0.125 mmol)",
+            "K2[Ni(CN)4]·nH2O (3 mL, 0.125 mmol)"
+          ],
+          "time": "2 weeks",
+          "equipment": "Slow diffusion method"
+        },
+        {
+          "step": "Powder Synthesis",
+          "temperature": "30 °C",
+          "solvents": [
+            {
+              "name": "Methanol/Water",
+              "amount": "10 mL (Methanol/Water solution 1/1)"
+            }
+          ],
+          "chemicals_used": [
+            "Co(NO3)2·6H2O (0.5 mmol)",
+            "Pyrazine (pyz, 0.5 mmol)",
+            "K2[Ni(CN)4]·nH2O (2 mL, 0.5 mmol)"
+          ],
+          "time": "3 h",
+          "equipment": "Stirring",
+          "yield": "78% based on pyz"
+        }
+      ]
+    },
+    {
+      "name": "Activated ZJU-74a",
+      "synthesis_conditions": [
+        {
+          "step": "Solvent Exchange and Activation",
+          "solvents": [
+            {
+              "name": "Dry Acetone",
+              "amount": "Multiple exchanges over two days"
+            }
+          ],
+          "temperature": [
+            "Room temperature for 24 h",
+            "363 K for 12 h"
+          ],
+          "equipment": "Vacuum",
+          "time": [
+            "24 h at room temperature",
+            "12 h at 363 K"
+          ],
+          "additional_information": "Evacuated until the outgas rate was 5 mmHg min−1"
+        }
+      ]
+    }
+  ]
+}

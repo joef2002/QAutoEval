@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "name": "[Co2(H0.67bdt)3]·20 H2O",
+      "synthesis_conditions": {
+        "temperature": "180 °C",
+        "time": "48 h",
+        "yield": "80 %",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "10.00 g, 556 mmol"
+          },
+          {
+            "name": "HF",
+            "amount": "0.100 mL, 48–51 % HF, 2.898 mmol"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CoSO4·7 H2O",
+            "amount": "0.227 g, 0.808 mmol"
+          },
+          {
+            "name": "5,5’-(1,4-phenylene)bis(1H-tetrazole)",
+            "amount": "0.100 g, 0.467 mmol"
+          }
+        ],
+        "molar_ratio": "1.73:1.00:6.21:1190",
+        "initial_pH": "2.2",
+        "final_pH": "2.0",
+        "equipment": "23 mL poly(tetrafluoroethylene)-lined stainless steel containers",
+        "washing_method": "Not specified",
+        "drying_method": "Filtered and dried in vacuo for 4 h"
+      }
+    }
+  ]
+}

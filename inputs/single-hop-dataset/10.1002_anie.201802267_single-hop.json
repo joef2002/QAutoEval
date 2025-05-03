@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the coordination number of lithium in the synthesized lithium-organic frameworks?",
+      "answer": "4-coordinated",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does MOF-74 possess compared to typical MOFs?",
+      "answer": "MOF-74 has an inorganic helical chain populated with a high density of six-coordinate divalent metal sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the guest-binding metal-site density of HKUST-1?",
+      "answer": "4.38 mmol cm@3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent is used in the synthesis of CPM-47?",
+      "answer": "A mixed solvent of methanol and hexane",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the theoretical guest-binding metal-site density for CPM-47?",
+      "answer": "12.76 mmol cm@3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of CPM-47, CPM-48, and CPM-49?",
+      "answer": "Chiral P32 space group",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why might the as-synthesized samples of CPM-47 and CPM-49 not show observable N2 sorption at 77 K?",
+      "answer": "Most likely due to the pore size selectivity and insufficient activation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes lithium particularly advantageous for the synthesis of the lithium-organic frameworks?",
+      "answer": "Lithium allows achieving the same M2L stoichiometry as MOF-74 and promotes the formation of phenoxide.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the rod packing in CPM-47 compare to MOF-74?",
+      "answer": "In CPM-47, all helical chains are of the same handedness, while in MOF-74, inorganic chains of opposite handedness are arranged alternatively.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the coordinate solvent molecule in CPM-47?",
+      "answer": "It occupies one of the coordination sites of lithium, making it potentially accessible for guest binding upon appropriate activation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of using a mixed phenolate–carboxylate type ligand in the synthesis of CPM-47?",
+      "answer": "It leads to the formation of a new type of 1D helical chains.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenge does the synthesis of MOF-74-like structures face?",
+      "answer": "The challenge mainly comes from the peculiarity of the ligand and its fully-deprotonated bonding mode with metal ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Lithium usually possesses a high enough coordination number for both framework construction and guest binding.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The homo-helical rod-packing is a common feature in lithium chemistry.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: CPM-47 and MOF-74 have the same space group.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The guest-binding metal-site density of CPM-47 is lower than that of MOF-74.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of CPM-47, CPM-48, and CPM-49 was achieved using the same ligand with a 1:1 ratio.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The theoretical guest-binding metal-site density for CPM-48 is higher than for CPM-49.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The void space estimated for CPM-47 is higher than for CPM-49.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

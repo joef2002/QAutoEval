@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the general formula for Hofmann-type MOFs?",
+      "answer": "M(pyz)[M'(CN)]4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does Cu(bpy)NP have for C2H2 separation?",
+      "answer": "Negative electrostatic potentials induced by cyanide and nitrosyl groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the BET surface area of Cu(bpy)NP?",
+      "answer": "459 m2 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Cu(bpy)NP has a higher C2H2 adsorption capacity than C2H4 and CO2 at 298 K and 1.0 bar.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the C2H2/CO2 selectivity of Cu(bpy)NP at 298 K and 1.0 bar?",
+      "answer": "47.2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does Cu(bpy)NP compare to other materials in terms of C2H2 uptake at 0.01 bar and 298 K?",
+      "answer": "It has a comparable C2H2 uptake, even to adsorbents with open metal sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of Cu(bpy)NP remains intact after exposure to various organic solvents for one week.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the C2H4 productivity of Cu(bpy)NP from C2H2/C2H4 (1/99, v/v) gas-mixture?",
+      "answer": "20.57 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Cu(bpy)NP shows excellent reusability with no noticeable decay in performance over five cycles.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to validate the adsorption selectivity of Cu(bpy)NP for C2H2/CO2 and C2H2/C2H4 separations?",
+      "answer": "Ideal adsorbed solution theory (IAST) calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The negative electrostatic potential in Cu(bpy)NP is responsible for its selective C2H2 capture over CO2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cyanide and nitrosyl groups in Cu(bpy)NP?",
+      "answer": "They create a negative-charged electrostatic potential field for preferred C2H2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Cu(bpy)NP's structure was destroyed after immersion in extreme pH conditions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of Cu(bpy)NP?",
+      "answer": "Orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The C2H2 binding energy in Cu(bpy)NP is higher than that of CO2 and C2H4.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does Cu(bpy)NP perform in dynamic breakthrough experiments for C2H2/CO2 separation?",
+      "answer": "It efficiently separates an equimolar gas-mixture of C2H2/CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Cu(bpy)NP can separate C2H2 from a ternary C2H2/CO2/C2H4 gas-mixture.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the separation selectivity (αAC) for equimolar C2H2/CO2 mixture on Cu(bpy)NP?",
+      "answer": "3.9",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The C2H2/CO2 IAST selectivity of Cu(bpy)NP is superior to many reported adsorbents.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to study the adsorption mechanisms of C2H2, CO2, and C2H4 in Cu(bpy)NP?",
+      "answer": "Grand canonical Monte Carlo (GCMC) and first-principles dispersion-corrected density functional theory (DFT-D).",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

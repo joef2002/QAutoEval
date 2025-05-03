@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the activation energy of MFM-300(Cr)-SO4(H3O)2?",
+      "answer": "0.04 eV",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structure determination and refinements of synchrotron XPD data?",
+      "answer": "Rietveld method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the proton conductivity of MFM-300(Cr)-SO4(H3O)2 change with relative humidity?",
+      "answer": "The activation energy of MFM-300(Cr)-SO4(H3O)2 rises gradually with decreasing RH, indicating a change from the Grötthuss mechanism to the Vehicular mechanism under lower humidity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of MFM-300(Cr)-SO4(H3O)2 retained after two years of storage under ambient conditions?",
+      "answer": "Yes, the structure and proton conductivity of MFM-300(Cr)-SO4(H3O)2 are retained after two years of being stored under ambient conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water molecules in MFM-300(Cr)-SO4(H3O)2 according to the FT-IR spectra analysis?",
+      "answer": "Water molecules play an important role in assembling efficient hydrogen-bonding networks and achieving low activation energy in MFM-300(Cr)-SO4(H3O)2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used to probe the proton dynamics in MFM-300(Cr)-SO4(H3O)2?",
+      "answer": "Quasi-elastic neutron scattering (QENS)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conduction in MFM-300(Cr)-SO4(H3O)2 temperature-dependent?",
+      "answer": "No, the proton conductivity of MFM-300(Cr)-SO4(H3O)2 was found to be almost independent of temperature.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main mechanism for long-range proton transfer in MFM-300(Cr)-SO4(H3O)2 under >50% RH conditions?",
+      "answer": "Hopping through hydrogen-bonding networks is the dominant mechanism for long-range proton transfer in MFM-300(Cr)-SO4(H3O)2 under >50% RH conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What additional bands are observed for MFM-300(Cr)-SO4(H3O)2 in the FT-IR spectra, indicating the presence of sulfate species?",
+      "answer": "Additional bands at 1233 and 1140 cm-1, resulting from asymmetric and symmetric ν(S=O) stretching modes, indicate the presence of sulfate species.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the proton transportation in MFM-300(Cr)-SO4(H3O)2 involve long-range displacement according to MD simulation?",
+      "answer": "Yes, protons in the presence of SO4(2-) species and H2O/H3O+ are mobile with long-range displacement according to MD simulation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

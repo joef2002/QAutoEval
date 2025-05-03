@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of CAU-26?",
+      "answer": "[Zr6O4(OH)4(OAc)6(BDC)3]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does CAU-27 exhibit in its structure?",
+      "answer": "CAU-27 exhibits a three-dimensional structure with a so far unknown type of one-dimensional inorganic building unit (IBU), which can be rationalized as condensed polyhedron-sharing chains of {Zr6O8} clusters.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent was used in the synthesis of CAU-26 and CAU-27?",
+      "answer": "Acetic acid",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How can CAU-26 be transformed into CAU-27?",
+      "answer": "CAU-26 can be directly transformed into CAU-27-BDC in the mother liquor by increasing reaction temperature and time.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of CAU-26 and CAU-27?",
+      "answer": "Acetic acid acts as a green and sustainable solvent in the synthesis of CAU-26 and CAU-27.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CAU-27-BIPY a performant catalyst for the direct C@H borylation of arenes?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does CAU-26 exhibit a layered structure?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are CAU-26 and CAU-27 synthesized using a highly carcinogenic solvent?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the {Zr6O8} cluster the most frequently observed IBU in zirconium and hafnium MOFs?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can CAU-27-BIPY be recycled for further catalytic reactions?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does increasing the reaction temperature and time always lead to the formation of CAU-27 from CAU-26?",
+      "answer": "CAU-26 occurs as an intermediate in the CAU-27-BDC synthesis, which is very slowly but fully transformed to CAU-27-BDC, indicating that CAU-27-BDC is the thermodynamically favored product.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main advantage of using zirconium in MOFs?",
+      "answer": "Zirconium-based MOFs have high thermal, chemical, and mechanical stability combined with low toxicity and high availability/low price of zirconium itself.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is CAU-27-BIPY more performant than UiO-67-BIPY as a catalyst for the direct C@H borylation of arenes?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is typically used for MOF structure determination?",
+      "answer": "Single crystal X-ray analysis is the most straightforward way and therefore usually the method of choice for MOF structure determination.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using green and sustainable solvents in MOF synthesis?",
+      "answer": "Using green and sustainable solvents, like acetic acid, in MOF synthesis reduces environmental impact and avoids the use of highly carcinogenic solvents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do CAU-26 and CAU-27 exhibit high thermal and chemical stability?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula for the CAU-27-BDC structure?",
+      "answer": "[Zr5O4(OH)4(OAc)4(BDC)2]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the acetate ligands in CAU-27 be partially exchanged with formate ligands?",
+      "answer": "Yes, the purification process for CAU-27 comprises two steps, with the second step leading to partial exchange of acetate with formate ligands.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of activation temperature on the surface area of CAU-26?",
+      "answer": "The surface area of CAU-26 is slightly lower after activation at a higher temperature compared to activation at a lower temperature, which can be explained by the removal of acetate ligands at high temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are CAU-26 and CAU-27 synthesized without using N,N-dimethylformamide (DMF)?",
+      "answer": "Yes, CAU-26 and CAU-27 are synthesized using acetic acid instead of the highly carcinogenic solvent N,N-dimethylformamide (DMF).",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

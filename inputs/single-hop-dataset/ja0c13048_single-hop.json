@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on H-Bond Mediated Selectivity Control of Formate versus CO during CO2 Photoreduction with Two Cooperative Cu/X Sites.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for X-ray absorption data collection?",
+      "answer": "X-ray absorption data were collected at Beamline 10-BM-A, B at the Advanced Photon Source (APS) at Argonne National Laboratory.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What software was used for DFT calculations?",
+      "answer": "DFT calculations were performed using Gaussian 16 software.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to treat dispersion correction in DFT calculations?",
+      "answer": "DFT-D3(BJ) methodologies were used to treat dispersion correction.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE routine in PLATON?",
+      "answer": "The SQUEEZE routine of PLATON was used to remove diffused electron densities resulting from residual solvent molecules from the data set.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of photocatalytic CO2 reduction to formate with Eu-bpy-Ru-40%-CuCl2?",
+      "answer": "The formate yield reached as high as 3040 μmol g−1 in 10 h with an extremely high selectivity of 99.7%.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was observed in the stability test of Ru-PS under synthetic conditions?",
+      "answer": "There were almost no changes in the absorption peak at ~460 nm for either [Ru(bpydc)(bpy)2]2+-10% or [Ru(bpydc)(bpy)2]2+-40%, indicating the excellent stability of [Ru(bpydc)(bpy)2]2+ ligand under the Eu-MOF synthetic conditions.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic process starts from the ground-state Cu complex features.",
+      "answer": "False. The calculated paths initiate from charge-transfer states during the process of catalytic mechanism.",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the H-bond synergy in the selectivity control toward CO2 reduction to formate?",
+      "answer": "The H-bond synergy between two cooperative sites of the residual Cl− and copper center plays an important role in the selectivity control toward CO2 reduction to solely generate HCOOH.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu center in Eu-bpy-CuCl2 is in a +1 oxidation state.",
+      "answer": "False. The Cu center should be in a +2 oxidation state in Eu-bpy-CuCl2.",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    }
+  ]
+}

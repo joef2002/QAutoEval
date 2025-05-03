@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main challenge in duplicating the reactivity of enzymatic iron-oxo species in a synthetic system?",
+      "answer": "The main challenge is the instability of the terminal iron-oxo moiety, along with steric and electronic factors.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What property of MOFs makes them appealing for supporting isolated terminal iron-oxo species?",
+      "answer": "The high surface area, permanent porosity, chemical and thermal stability, and synthetic tunability of MOFs make them appealing.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proposed active oxidant in the oxidation of ethane to ethanol using N2O in Fe2(dobdc)?",
+      "answer": "The proposed active oxidant is likely to be a high-spin S = 2 iron(IV)-oxo species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the challenges associated with heterogenizing molecular iron species on solid supports?",
+      "answer": "The challenges include difficulty in characterization, steric crowding, site inaccessibility, and metal leaching.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental techniques were used to investigate the binding of nitrous oxide to Fe2(dobdc)?",
+      "answer": "Powder neutron-diffraction data and in situ transmission-mode infrared spectroscopy were used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of flowing an N2O:ethane:Ar mixture over Fe2(dobdc) at 75°C?",
+      "answer": "The outcome was the formation of various ethane-derived oxygenates, including ethanol, acetaldehyde, diethyl ether, and other ether oligomers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were used to study the electronic structure of Fe2(O)2(dobdc)?",
+      "answer": "Periodic PBE + U geometry optimizations, cluster DFT calculations, and single-point multiconfigurational complete active space (CASSCF) calculations followed by second-order perturbation theory (CASPT2) were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The iron(III)-hydroxide species in Fe2(dobdc) is capable of activating weak C-H bonds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the predicted ground state spin configuration for the iron(IV)-oxo species in Fe2(dobdc)?",
+      "answer": "The predicted ground state spin configuration was a quintet (S = 2).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Mo¨ssbauer spectrum of Fe0.1Mg1.9(dobdc) after N2O/ethane treatment showed that roughly 90% of the iron centres decayed into a species with similar spectral parameters as those of Fe2(OH)2(dobdc).",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the reactivity studies of Fe2(dobdc) and Fe0.1Mg1.9(dobdc) with N2O and ethane?",
+      "answer": "The main finding was that these MOFs are likely capable of supporting fleeting iron(IV)-oxo species that possess an unusual S = 2 spin state, which can activate one of the strongest C-H bonds known.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of magnesium dilution in Fe2(dobdc) on the product selectivity in the oxidation of ethane?",
+      "answer": "Magnesium dilution in Fe2(dobdc) led to the exclusive formation of ethanol and acetaldehyde in a 10:1 ratio, albeit in low yield.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The iron(IV)-oxo species in Fe2(dobdc) is stable and can be easily isolated.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of nitrous oxide in the oxidation of ethane to ethanol in Fe2(dobdc)?",
+      "answer": "Nitrous oxide acted as the terminal oxidant, likely forming a transient, high-spin iron(IV)-oxo intermediate that reacted to oxidize ethane.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with the characterization of iron cations incorporated into zeolites?",
+      "answer": "Characterization is nontrivial because of the presence of multiple iron species, making the nature of the active sites largely speculative.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The iron(III)-hydroxide species in Fe2(dobdc) is incapable of activating strong C-H bonds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed effect of heating N2O-dosed Fe2(dobdc) to 60°C?",
+      "answer": "Heating N2O-dosed Fe2(dobdc) to 60°C resulted in the formation of an Fe(III)-hydroxide species, suggesting the intermediacy of an iron(IV)-oxo species.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Mo¨ssbauer spectrum of Fe2(OH)2(dobdc) is consistent with high-spin Fe(III) species.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the batch experiment using a Teﬂon-lined stainless-steel bomb for the oxidation of ethane in Fe0.1Mg1.9(dobdc)?",
+      "answer": "The batch experiment produced higher yields with respect to iron and selectivities for ethanol over acetaldehyde.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The iron(IV)-oxo species in Fe2(dobdc) exhibits a trigonal bipyramidal coordination geometry.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

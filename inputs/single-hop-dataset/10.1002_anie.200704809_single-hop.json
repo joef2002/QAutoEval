@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the porous coordination network synthesized by instant complexation?",
+      "answer": "[(ZnBr2)3(1)2]·5 C6H5NO2·H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the ab initio structure determination of the porous coordination network?",
+      "answer": "Synchrotron powder X-ray diffraction (PXRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the microcrystalline powder of the network synthesized?",
+      "answer": "48 %",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the difference in the exothermic energy of 2 a and 2 b?",
+      "answer": "2 a has an exothermic energy of 40.10 kJ mol-1, which is about three times larger than that of 2 b (13.09 kJ mol-1).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the solvent play in the instant synthesis of the porous network?",
+      "answer": "The solvent acts as a template for the network formation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structural difference between complex 2 a and complex 3?",
+      "answer": "Complex 2 a has a large flexible channel capable of reversible guest exchange, while complex 3 has a 1D network structure due to p-p stacking of 1 and contains no solvate.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of slow complexation on the product compared to instant synthesis?",
+      "answer": "Slow complexation produces a different thermodynamic network in high yield, while instant synthesis produces a kinetically controlled porous network.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why can't the structure of a kinetic product formed instantly as microcrystals be easily solved by single-crystal X-ray diffraction analysis?",
+      "answer": "Because the kinetic product formed instantly as microcrystals can seldom be solved by this method due to its microcrystalline nature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the instant synthesis method contribute to the field of coordination network chemistry?",
+      "answer": "It allows for the easy preparation of a large quantity of complex in a short time, with the product obtained as uniform microcrystals suitable for ab initio PXRD structural determination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Rietveld refinement in the determination of the structure of 2 a?",
+      "answer": "The Rietveld refinement refines the position of each atom with bond-length restraints, indicating a good agreement between the calculated and experimental PXRD patterns and confirming the framework structure of 2 a.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of 2 a is not isostructural with that of [(ZnI2)3(1)2]·5.5 C6H5NO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The instant synthesis method exclusively produces a coarse powder of the kinetically controlled porous network.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PXRD measurements show that heating 2 a and 2 b to 280 8C causes them to have different powder diffraction patterns.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The solvent has no effect on the product of the instant synthesis.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The instant synthesis method cannot be used for the preparation of biporous network complexes.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The channels in 2 b are smaller than in 2 a.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The structure of the thermodynamic product produced by conventional slow crystallization methods is likely to be totally different from that of the kinetically controlled product.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the simulated annealing method in the structure determination of 2 a?",
+      "answer": "The simulated annealing method is used to perform structure determination directly from the PXRD data, helping to identify the positions of the host structure and solvent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the crystal structure of 2 b differ from that of 2 a?",
+      "answer": "2 b has 1D channels formed by the p–p stacking of 1, and its channels are larger than in 2 a, with a completely different simulated powder pattern.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the PXRD and DSC analyses of 2 a and 2 b?",
+      "answer": "They support the proposal that crystal nucleation is kinetically controlled in the instant synthesis, giving the kinetic product 2 a, while slow crystallization forms the thermodynamic product 2 b.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

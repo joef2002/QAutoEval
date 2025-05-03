@@ -1,0 +1,38 @@
+{
+  "materials": [
+    {
+      "material": "1",
+      "synthesis_conditions": {
+        "temperature": "155°C",
+        "solvents": ["H2O"],
+        "amount_of_solvents": ["10 mL"],
+        "equipment": ["20 mL acid digestion bomb"],
+        "chemicals_used": ["PDA (1.3 mmol)", "Eu2O3 (0.1 mmol)", "MnCO3 (0.3 mmol)"],
+        "time": "3 days",
+        "washing_method": "washing with H2O (2 × 6 mL)",
+        "yield": "70% (based on Eu)",
+        "elemental_analysis": {
+          "calculated": {"C": "29.32", "H": "2.75", "N": "4.88"},
+          "found": {"C": "29.06", "H": "2.51", "N": "4.64"}
+        }
+      }
+    },
+    {
+      "material": "2",
+      "synthesis_conditions": {
+        "temperature": "165°C",
+        "solvents": ["H2O"],
+        "amount_of_solvents": ["10 mL"],
+        "equipment": ["20 mL acid digestion bomb"],
+        "chemicals_used": ["Tb(OH)3 (0.2 mmol)", "MnCO3 (0.3 mmol)", "PDA (1.0 mmol)"],
+        "time": "3 days",
+        "washing_method": "washing with H2O (2 × 6 mL)",
+        "yield": "63% (based on Tb)",
+        "elemental_analysis": {
+          "calculated": {"C": "29.08", "H": "2.73", "N": "4.85"},
+          "found": {"C": "29.45", "H": "2.54", "N": "4.74"}
+        }
+      }
+    }
+  ]
+}

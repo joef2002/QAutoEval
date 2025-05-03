@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main material modified in the study?",
+      "answer": "IRMOF-3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What reagent is used for the postsynthetic modification of IRMOF-3?",
+      "answer": "Acetic anhydride",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the evidence for successful modification of IRMOF-3?",
+      "answer": "Electrospray ionization mass spectrometry (ESI-MS) and nuclear magnetic resonance (NMR) showing the formation of IRMOF-3-AM1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of new resonances in the 1H NMR spectrum indicate?",
+      "answer": "The formation of IRMOF-3-AM1 due to the reaction of IRMOF-3 with acetic anhydride.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystallinity of IRMOF-3 preserved after modification?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to confirm the structural integrity of IRMOF-3 after modification?",
+      "answer": "Powder X-ray diffraction (PXRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does IRMOF-1 undergo modification with acetic anhydride in the same conditions as IRMOF-3?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated percent conversion (acetylation) of IRMOF-3 after 5 days?",
+      "answer": "Greater than 80%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the acetylation of IRMOF-3 be monitored over time?",
+      "answer": "Yes, by 1H NMR.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the generation of acetic acid during the reaction indicate?",
+      "answer": "The reaction is proceeding and approaching completion after approximately 2 to 3 days.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction between IRMOF-3 and acetic anhydride a homogeneous or heterogeneous mechanism?",
+      "answer": "Heterogeneous",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction of R3-BDC with acetic anhydride in CDCl3 show significant conversion?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the postsynthetic modification strategy expected to facilitate the generation of novel MOFs?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of acetic anhydride in the modification of IRMOF-3?",
+      "answer": "It reacts with IRMOF-3 to produce IRMOF-3-AM1 by converting free amine groups to amides.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the thermal gravimetric analysis (TGA) of IRMOF-3-AM1 show?",
+      "answer": "Comparable thermal stability to IRMOF-3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the cubic lattice of IRMOF-3 retained after modification according to PXRD data?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the negative mode mass spectra reveal about IRMOF-3-AM1?",
+      "answer": "A base peak at m/z 222, corresponding to the modified ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the organic linking components of MOFs targeted for modification?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the modification of IRMOF-3 with acetic anhydride involve the use of solvents?",
+      "answer": "Yes, CH2Cl2 or CHCl3 are used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the postsynthetic modification of MOFs considered a valuable method for generating MOFs with unprecedented structure and function?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

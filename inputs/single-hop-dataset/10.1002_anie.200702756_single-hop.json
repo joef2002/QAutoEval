@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the unique shape of the dinuclear connector described in the text?",
+      "answer": "F shape",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of synthesis approach is used for the CPs E1,2?",
+      "answer": "One-pot multicomponent approach",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the coordination numbers and geometries of the metal atoms in the F-shaped connector?",
+      "answer": "Tricoordinated CuI center with a trigonal-planar geometry and a tetracoordinated CuI center with a tetrahedral geometry",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the dppm-capped CuI nodes in the CPs?",
+      "answer": "They organize nanosized p-conjugated systems into CPs having p-stacked metallocyclophane motifs",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the p-stacked metallocyclophane motifs in the CPs?",
+      "answer": "They have unique electronic properties arising from p-orbital overlap",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of CP E2 from the synthesis described in the Experimental Section?",
+      "answer": "75%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using the U-shaped CuI dimer A in the synthesis of the p-stacked metalloparacyclophanes C1,2?",
+      "answer": "To self-assemble with the cyano-capped p-conjugated systems B1,2 to synthesize the metalloparacyclophanes C1,2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the mixed-coordination connector contribute to the structure of the CPs?",
+      "answer": "It allows for the propagation of the coordination geometry using p-conjugated linkers, giving CP frameworks with p-stacked metalloparacyclophanes as structural motifs",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are the CPs E1,2 obtained in excellent yields with different original CuI/dppm/B1,2 ratios?",
+      "answer": "Because the three simple building blocks can self-assemble into large and complex CP architectures from a library of interconverting CuI complexes, irrespective of the original stoichiometry",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of changing the counteranion from PF6- to BF4- in the synthesis of CPs?",
+      "answer": "It affects the solubility of the CuI species, leading to the formation of different compounds",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What demonstrates the flexibility of the dppm-capped CuI nodes?",
+      "answer": "The fact that the Cu···Cu separation decreases in E1,2 compared to D",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of the CPs differ when using biphenyl cores versus 2,5-distyrylthiophene cores?",
+      "answer": "The biphenyl cores of CP H are twisted, while the 2,5-distyrylthiophene moieties of CP I lie in parallel planes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "The F-shaped connectors are based on coordinatively saturated and unsaturated CuI centers. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The CPs E1,2 are synthesized using a two-step process. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The p-stacked metalloparacyclophanes C1,2 are synthesized without the use of a U-shaped CuI dimer. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The CPs E1,2 have nanosized p-stacked metalloparacyclophane units connected by rigid ditopic linkers B1,2. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The CPs E1,2, H, and I all contain F-shaped mixed-coordination {Cu2(m2-dppm)2} nodes. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis of CPs E1,2 requires a high temperature. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The CPs E1,2 are obtained by the self-assembly of self-assembled nanostructures. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The presence of paracyclophane like motifs and unsaturated CuI centers in the CPs are not under active investigation. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

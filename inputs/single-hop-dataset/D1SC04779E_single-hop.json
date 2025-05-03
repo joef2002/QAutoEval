@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main focus of the synthesis approach described in the text?",
+      "answer": "The main focus is on a direct green synthetic route based on a solvent-free methodology to construct mixed-ligand SOD Zeolitic Imidazolate Frameworks (ZIFs) that are unapproachable by pure ligand synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many different combinations of ligands and metal centers were explored in the study?",
+      "answer": "Three different combinations of ligands and three different metal centers were explored, totaling eight novel ZIFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the phase purity and homogeneity of the crystals obtained?",
+      "answer": "X-ray powder diffraction (XRPD) was used to confirm the phase purity and homogeneity of the crystals obtained.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the observed ratio of ligands in the mixed-ligand samples according to 1H NMR spectroscopy?",
+      "answer": "An approximate 2:1 ratio in the ligands was observed in the mixed-ligand samples according to 1H NMR spectroscopy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which two compounds were suitable for X-ray single crystal diffraction analysis?",
+      "answer": "MUV-3-mimb and MUV-3-eimb were suitable for X-ray single crystal diffraction analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main counterintuitive outcome regarding the mixture of ligands?",
+      "answer": "The main counterintuitive outcome was that the mixture of 2-methylbenzimidazole and 2-ethylimidazole led to a material with SOD topology for all three metals evaluated.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What did theoretical calculations predict about the stability of SOD topology upon ligand mixing?",
+      "answer": "Theoretical calculations predicted that the SOD topology is the lowest in energy upon ligand mixing, especially at a 2:1 ei:mb composition, in all three ZIFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the solvent-free synthesis approach described as environmentally friendly?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the mixture of ligands always resulted in the formation of SOD frameworks?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the inclusion of 2-methylbenzimidazole found to increase the thermal stability of the Fe(II) structures?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did all mixed-ligand materials show significant N2 sorption capacity?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the solvent-free synthesis method proven useful for processing the materials?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study demonstrate the ability to combine different metals in the same framework?",
+      "answer": "The study opened the door to potentially combine different metals in the same framework, but it primarily focused on creating multivariate ZIFs with different ligand combinations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of theoretical calculations in the study?",
+      "answer": "Theoretical calculations were used to assess phase stability and predict the most stable phases for each pure-ligand ZIF, as well as the effect of ligand mixing on the stability of SOD topology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study find that the gate-opening capacity of ZIFs could be modified by using mixed-ligand frameworks?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study successful in creating multivariate ZIFs with network complexity?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study's findings suggest that the solvent-free synthesis could be scaled up for commercial use?",
+      "answer": "The study highlighted the facile applicability and environmental friendliness of the solvent-free approach, suggesting potential for scaling up, though it did not explicitly discuss commercial scalability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the combination of 2-methylimidazole and 2-ethylimidazole with Fe(II) found to form a SOD framework?",
+      "answer": "No, in the case of a mixture of 2-methylimidazole and 2-ethylimidazole with Fe(II), a qtz framework with only one of the ligands (2-ethylimidazole) was obtained.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study provide insights into modifying the physical properties of ZIFs through mixed-ligand frameworks?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study able to control the final ratio of ligands in the mixed-ligand samples by adjusting the proportion in the synthesis?",
+      "answer": "Yes, the study was able to slightly modify the final ratio of ligands by adjusting the proportion in the synthesis, finding an upper limit of ca. 70% and a lower limit of ca. 50% for 2-ethylimidazole and 2-methylimidazole, respectively.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "name": "Complex 3",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Tetrahedral organic linker (1)",
+            "amount": "0.06 g",
+            "molarity": "0.1 mmol",
+            "equivalence": "1 equiv"
+          },
+          {
+            "name": "Bipyridine",
+            "amount": "0.015 g",
+            "molarity": "0.1 mmol",
+            "equivalence": "1 equiv",
+            "supplier": "Aldrich"
+          },
+          {
+            "name": "Zn(NO3)2*6H2O",
+            "amount": "0.03 g",
+            "molarity": "0.1 mmol",
+            "equivalence": "1 equiv",
+            "supplier": "Aldrich"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 ml"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "20 ml vial"
+          },
+          {
+            "type": "oven",
+            "temperature": "100 °C"
+          }
+        ],
+        "procedure": "The solid mixture of 1, bipyridine, and Zn(NO3)2*6H2O was dissolved in DMF in a 20 ml vial. The reaction mixture was mixed and ultrasonicated until homogeneous. The reaction vial was capped tightly and placed in an oven at 100 °C for 24 hours. After cooling to room temperature, the mother liquor was decanted, and the crystals were washed with DMF (3 mL × 3) and dried in air for 10 min.",
+        "time": "24 hours",
+        "washing_method": "DMF (3 mL × 3)",
+        "drying_method": "Dried in air for 10 min"
+      }
+    }
+  ]
+}

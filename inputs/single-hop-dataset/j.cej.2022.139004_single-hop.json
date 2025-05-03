@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in capturing trace krypton (Kr) from used nuclear fuel (UNF) off-gas?",
+      "answer": "The main challenge is the low Kr uptake and poor Kr/N2 selectivity for current available adsorbents.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does DMOF-Th-1o have that contributes to its ultrahigh Kr uptake?",
+      "answer": "DMOF-Th-1o has a trap-type pore that perfectly matches with the kinetic diameter of Kr to exactly fix one Kr atom, while forming a unique Kr2 dimer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Kr/N2 selectivity of DMOF-Th-1o compare to other adsorbents?",
+      "answer": "DMOF-Th-1o exhibits record Kr/N2 selectivity (>100) at low pressure, exceeding all reported adsorbents under the same condition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the real Kr/N2 separation performance of DMOF-Th-1o?",
+      "answer": "A breakthrough test from a simulated off-gas containing 40 ppm Kr was used to confirm the real Kr/N2 separation performance.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: DMOF-Th-1o and DMOF-Th-1c have different crystal systems.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of UV irradiation on DMOF-Th-1o?",
+      "answer": "UV irradiation causes a color change from yellow to red due to a structure transformation of diarylethene unit from open-ring to closed-ring.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Kr uptake of DMOF-Th-1c at 0.1 bar is less than that of DMOF-Th-1o.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated transformation efficiency of diarylethene unit in DMOF-Th-1c?",
+      "answer": "The transformation efficiency is estimated to be 43%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Kr/N2 selectivity of DMOF-Th-1c at 0.1 bar compare to DMOF-Th-1o?",
+      "answer": "The Kr/N2 selectivity of DMOF-Th-1c is further boosted by more than twofold compared to DMOF-Th-1o.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption mechanism of Kr in DMOF-Th-1o involves the formation of a Kr2 dimer.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of UV irradiation in enhancing Kr capture and separation in DMOF-Th-1c?",
+      "answer": "UV irradiation causes a structure transformation in DMOF-Th-1c that significantly enhances Kr capture and Kr/N2 separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: DMOF-Th-1o and DMOF-Th-1c have the same CCDC number.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of DMOF-Th-1c over DMOF-Th-1o in terms of Kr uptake?",
+      "answer": "DMOF-Th-1c exhibits a record-high Kr uptake of 13 cm3/g at 0.1 bar, exceeding all reported adsorbents and showing a significant improvement over DMOF-Th-1o.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Kr/N2 separation performance of DMOF-Th-1c is inferior to that of DMOF-Th-1o.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Kr2 dimer formation in the adsorption mechanism of Kr in DMOF-Th-1o?",
+      "answer": "The formation of a Kr2 dimer indicates strong Kr...Kr interaction and contributes to the ultrahigh Kr uptake and record Kr/N2 selectivity in DMOF-Th-1o.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photochromic properties of DMOF-Th-1o are due to a reversible open-ring-to-closed-ring transformation under light irradiation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the Kr/N2 selectivity of DMOF-Th-1c at 0.1 bar compare to other reported adsorbents?",
+      "answer": "DMOF-Th-1c exhibits a Kr/N2 selectivity of 40.6 at 0.1 bar:0.1 bar, which is significantly higher than that of other reported adsorbents, indicating its superior selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The transformation efficiency of the diarylethene unit in DMOF-Th-1c is 100%.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main contribution to the ultrahigh Kr uptake and record Kr/N2 selectivity in DMOF-Th-1o?",
+      "answer": "The main contribution is the perfect size of trap I, which matches the kinetic diameter of Kr, and the formation of a unique Kr2 dimer with strong Kr...Kr interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The breakthrough test from a simulated UNF off-gas confirms the superior Kr/N2 separation performance of DMOF-Th-1o.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

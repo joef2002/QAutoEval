@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study reported in the paper?",
+      "answer": "The main focus is on the evidence for multicenter bonding in dianionic tetracyanoethylene dimers by Raman spectroscopy.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to provide deeper insight into the properties of long bonds?",
+      "answer": "Raman spectroscopic studies are used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of p-[TCNE]2^2- affected by the nature of the cation?",
+      "answer": "No, the structure of p-[TCNE]2^2- is invariant to the nature of the cation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the intradimer C-C separation for K2[TCNE]2?",
+      "answer": "The intradimer C-C separation for K2[TCNE]2 is 2.908(8) Å.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the stretching force constant of the long, multicenter C-C bond in K2[TCNE]2 compare to conventional covalent CC bonds?",
+      "answer": "The stretching force constant of the long, multicenter C-C bond in K2[TCNE]2 is lower than that of conventional covalent CC bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated bond energy of the long 2e-/4c C-C bond in K2[TCNE]2?",
+      "answer": "The estimated bond energy of the long 2e-/4c C-C bond in K2[TCNE]2 is about 15 kcal mol^-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the experimental peak position in the Raman spectrum of K2[TCNE]2 match the computed values?",
+      "answer": "Yes, the experimental peak positions in the Raman spectrum of K2[TCNE]2 closely match the computed values.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Raman spectroscopy in the study?",
+      "answer": "Raman spectroscopy is used to characterize the presence of the long, multicenter bond in p-[TCNE]2^2-.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the Raman spectra of K2[TCNE]2 and [NBu4]+[TCNE]C^- identical?",
+      "answer": "False, the Raman spectra of K2[TCNE]2 and [NBu4]+[TCNE]C^- are distinctly different.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the temperature dependence of the low-frequency bands in the K2[TCNE]2 Raman spectra indicate?",
+      "answer": "It indicates information about the stability of the long bond with temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the p-[TCNE]2^2- anion diamagnetic?",
+      "answer": "True, the p-[TCNE]2^2- anion is diamagnetic.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ground state of the p-[TCNE]2^2- anion?",
+      "answer": "The ground state of the p-[TCNE]2^2- anion is a closed-shell singlet.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the intradimer separation in Cs2[TCNE]2 compare to that in K2[TCNE]2?",
+      "answer": "The intradimer separation in Cs2[TCNE]2 is slightly shorter than that in K2[TCNE]2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the strength of the multicenter C-C bonds in ionic crystals be estimated from Raman spectroscopy?",
+      "answer": "True, the strength of the multicenter C-C bonds in ionic crystals can be estimated from Raman spectroscopy.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for the theoretical Raman spectrum?",
+      "answer": "The UM06L/aug-cc-pVTZ computational method was used for the theoretical Raman spectrum.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the force constant of the long, multicenter C-C bond in K2[TCNE]2 higher than that of some hydrogen bonds?",
+      "answer": "True, the force constant of the long, multicenter C-C bond in K2[TCNE]2 is higher than that reported for some hydrogen bonds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the force constant in the context of bond strength?",
+      "answer": "The force constant is indicative of the bond strength, with higher force constants suggesting stronger bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the structure of Rb2[TCNE]2 determined using high-resolution X-ray powder diffraction data?",
+      "answer": "True, the structure of Rb2[TCNE]2 was determined using high-resolution X-ray powder diffraction data.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of similar IR spectra among different [TCNE]2^2- structures suggest?",
+      "answer": "It suggests that the [TCNE]2^2- dimer structure is essentially identical across different cations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the bond energy of the long 2e-/4c C-C bond in K2[TCNE]2 compare to experimental estimates from solution studies?",
+      "answer": "The bond energy estimate for the long 2e-/4c C-C bond in K2[TCNE]2 is twice the experimental estimates from solution studies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

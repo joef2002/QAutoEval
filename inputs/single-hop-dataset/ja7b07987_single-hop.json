@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "Tuning intrinsic and extrinsic proton conduction in metal-organic frameworks by the lanthanide contraction.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single crystal XRD of Pr-PCMOF-5?",
+      "answer": "Single-crystal diffraction was performed on a crystal of Pr-PCMOF-5 mounted on glass loops at 173K using a Nonius Kappa CCD diffractometer with Mo Kα radiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the Ln-PCMOF-5 structures characterized?",
+      "answer": "The Ln-PCMOF-5 structures were characterized using powder X-ray diffraction (PXRD), thermogravimetric analysis (TGA), elemental analysis (EA), and scanning electron microscopy/energy dispersive X-ray spectroscopy (SEM/EDX).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of replacing La3+ with smaller lanthanide ions in the synthesis of La-PCMOF-5?",
+      "answer": "Replacing La3+ with smaller lanthanide ions maintained the structure of the parent framework but contracted the unit cell slightly, allowing for fine-tuning of the proton conduction pathway.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The proton conductivities for the La and Pr complexes were significantly higher than other members of the series.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using SEM/EDX in the study?",
+      "answer": "SEM/EDX was used to confirm the exclusion of La and inclusion of Pr after conversion of crystals of PCMOF-5 to Pr-PCMOF-5 and Ce-PCMOF-5, and to analyze particle size and morphology after impedance measurements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structures of La, Pr, and Ce-PCMOF-5 showed significant differences in atomic positions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was observed when Dy, Er, and Yb carbonates were used in the synthesis instead of La, Ce, Pr, Nd, Sm, Eu, and Gd?",
+      "answer": "Using Dy, Er, and Yb carbonates yielded two different phases than those observed with Ln-PCMOF-5 (Ln = La, Ce, Pr, Nd, Sm, Eu, Gd), and these phases were not proton conducting.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The differences in proton conductivity within the Ln-PCMOF-5 series are likely correlated to the difference in grain boundary.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of ball milling on the particle size and proton conductivity of La-PCMOF-5?",
+      "answer": "Ball milling reduced the particle size of La-PCMOF-5, and with decreasing particle size, the proton conductivity dropped.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study concluded that degradation/dissolution of the MOF at the particle surface was critical for the observed proton conductivity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the lanthanide contraction in the study?",
+      "answer": "The lanthanide contraction was employed to systematically vary the unit cell dimensions and tune the proton conducting pathways in the Ln-PCMOF-5 series.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found a direct correlation between the water content of the Ln-PCMOF and conductivity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in obtaining single crystals for the Ln-PCMOF-5 series?",
+      "answer": "The main challenge was that adjustments to the H2SO4:Ln3+ ratio failed to yield single crystals suitable for analysis, resulting in spherical clusters of fine needle-like microcrystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study successfully generalized the outcomes of intrinsic and extrinsic proton conductivity in MOFs to all MOF materials.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of acid hydrolysis in the synthesis of H8L?",
+      "answer": "Acid hydrolysis of octaethyl 1,2,4,5-tetrakis(phosphonomethyl)benzene was used to obtain benzene-1,2,4,5-tetramethylenephosphonic acid (H8L) by refluxing in HCl.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study provided definitive answers to the observed conductivity through crystal structures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of the lanthanide contraction on the Ln-PCMOF-5 series?",
+      "answer": "The lanthanide contraction resulted in a systematic decrease in the length of the a-axis with the lanthanide cation radius, expected to impact proton conduction properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that larger particle sizes in the Ln-PCMOF-5 series correlated with higher proton conductivities.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion regarding the role of grain boundaries in proton conduction within the Ln-PCMOF-5 series?",
+      "answer": "The study concluded that differences in conductivity appear to originate more in a stable grain boundary rather than degradation of the interparticle region.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

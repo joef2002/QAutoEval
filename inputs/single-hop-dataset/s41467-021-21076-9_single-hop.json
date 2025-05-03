@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What phenomenon does the article describe as paradoxical in the context of biomineralization?",
+      "answer": "The coexistence of single-crystallinity with a multidomain morphology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unique appearance of the metallo-organic single-crystals formed?",
+      "answer": "Six-connected half-rods forming a hexagonal-like tube",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What process is essential for forming the multidomain single-crystals?",
+      "answer": "Sonication of the solvents generating radical species",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of sonication in the synthesis process?",
+      "answer": "It reduces the concentration of the active metal salt",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the chiral crystals formed?",
+      "answer": "P622",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of sonication on the solvent in the context of crystal formation?",
+      "answer": "It results in the formation of radicals",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the monodomain crystals transform into multidomain crystals?",
+      "answer": "The monodomain crystals dissolve from the inner regions while material is anisotropically added to their shell",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the hollow, single-crystals maintaining single-crystallinity?",
+      "answer": "It demonstrates that despite the complex morphology, the crystallographic structures remain nearly identical",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The multidomain crystals are formed from achiral components.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The formation of hollow crystals with a multidomain morphology requires a 1:1 molar ratio of TPVA to NiBr2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The solvothermal method without sonication results in the formation of multidomain structures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystallographic structures of the mono- and multidomain crystals are significantly different.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The multidomain crystals do not retain single-crystallinity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Sonication is not necessary for the formation of multidomain single-crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The multidomain crystals formed are not chiral.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the excess metal salt in the formation of the crystals?",
+      "answer": "It ensures the formation of a fully coordinative network and enhances morphological uniformity by surface saturation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of reducing the concentration of NiBr2 under solvothermal conditions?",
+      "answer": "It leads to the formation of hollow, multidomain crystals",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the crystals' chiral packing belonging to the P622 space group?",
+      "answer": "It indicates that the molecular components have chiral packing, despite being formed from achiral components",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of the morphological transformation from mono- to multidomain single crystals?",
+      "answer": "The crystals increase in dimensions while maintaining a high level of uniformity and develop a complex morphology",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The formation of radicals during sonication has no impact on crystal growth.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

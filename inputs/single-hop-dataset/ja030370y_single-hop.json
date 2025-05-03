@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus is on the perturbation of conjugation in allylic lithium compounds due to stereochemical control of internal lithium coordination, involving crystallography, NMR, and calculational studies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the paper?",
+      "answer": "Gideon Fraenkel",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What types of allylic lithium compounds were prepared?",
+      "answer": "Several allylic lithium compounds were prepared with ligands tethered at C2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was observed in the solid state structures of compounds 8-10 and 12?",
+      "answer": "In the solid state, compounds 8-10 and 12 are monomers, and lithium lies near the center of one face of a trigonal pyramid with two methoxy oxygens and nitrogen at its corners.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is compound 6 a monomer or a dimer in solution?",
+      "answer": "Compound 6 is a dimer in solution.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the ligand tether have on the stereochemistry of lithium coordination?",
+      "answer": "The ligand tether constrains the stereochemistry of lithium coordination, thus stabilizing otherwise aberrant structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What dynamic behavior was uncovered in the study of internally solvated allylic lithium compounds?",
+      "answer": "Dynamic behavior associated with inversion, C-Li exchange, and 1,3 lithium sigmatropic shifts was uncovered.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The degree of delocalization among the studied allylic lithium compounds is continuously variable.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All the crystallographic structures exhibit full coordination of the pendant ligand to lithium.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the comparison of X-ray crystallographic and solution data suggest about the structures of the studied compounds?",
+      "answer": "The comparison suggests that the structures of the compounds in the solid state and in solution must be very similar.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation enthalpies determined for bimolecular C-Li exchange are significantly different across the studied compounds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of a small degree of C-Li covalency to the bonds and to the 13C-6Li and 13C-7Li coupling constants?",
+      "answer": "It is still uncertain, although it cannot be eliminated.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The values reported for one-bond 13C-7Li spin coupling are much smaller than those observed for many different monomeric organolithium compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of one-bond 13C-7Li or 13C-6Li spin coupling at low temperature indicate?",
+      "answer": "It indicates the proximity of lithium to one of the allyl termini carbons.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ligand tether is too short to place coordinated lithium normal to the center of the allyl plane as in delocalized externally solvated ion-paired compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the averaging of the 13C-7Li or 13C-6Li coupling constants with increasing temperature necessarily imply?",
+      "answer": "It implies bimolecular C-Li exchange.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The rates of 1,3 lithium sigmatropic shifts are similar across all symmetrical internally solvated allylic lithium compounds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the similarity of the NMR parameters of compound 15 and 30 to those of compounds 10-12 and 14 suggest?",
+      "answer": "It suggests that compounds 15 and 30 have similar electronic structures to compounds 10-12 and 14.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation enthalpies for bimolecular C-Li exchange suggest that the rate-determining step involves dechelation of lithium from the pendant ligand.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the ligand tether length on the dynamics of configurational inversion?",
+      "answer": "The rates depend on the ligand tether, with shorter tethers resulting in faster inversion rates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C158H172BrCd3N18O31Ti4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature were the X-ray crystallography measurements taken for compounds 1 and 2?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compounds 1 and 2?",
+      "answer": "P21212",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of compound 1 when synthesized?",
+      "answer": "76.0%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Ti(salan)-based MOFs in the text?",
+      "answer": "They are used as heterogeneous catalysts for the asymmetric oxidation of thioethers to sulfoxides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework of compound 1 stable up to 315 1C according to TGA analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the oxidation reaction of thioanisole, methyl p-tolyl sulfide, and phenyl benzyl sulfide with 4.5 mol% TiL(OBu)2 as the catalyst show higher conversions in the homogeneous system compared to the heterogeneous system?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum inner width of the cage in compound 1?",
+      "answer": "B1.7 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the enantioselectivity (ee) of the sulfoxidation product when using (R)-1 as the catalyst for methyl phenyl sulfide?",
+      "answer": "23%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 2 show lower enantioselectivities and chemoselectivities than compound 1 for the oxidation of sulfides?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compounds 1 and 2?",
+      "answer": "orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Are the solid-state CD spectra of 1 and 2 made from R and S enantiomers of the H5L ligand mirror images of each other?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of aqueous H2O2 in the synthesis described?",
+      "answer": "It is used as an oxidant for the asymmetric oxidation of thioethers to sulfoxides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic performance of the monomer TiL(OBu)2 studied for the oxidation of thioanisole, methyl p-tolyl sulfide, and phenyl benzyl sulfide?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the conversion rate of benzyl 2-naphthyl sulfide when catalyzed by (R)-1?",
+      "answer": "Less than 5%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the oxidation of thioanisole and methyl p-tolyl sulfide give sulfoxides with higher enantioselectivity when using (R)-1 compared to (S)-1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the function of the chiral TiL units in compound 1?",
+      "answer": "They are utilized for the oxidation of thioethers to sulfoxides, indicating their role in catalysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the bulky substrate benzyl 2-naphthyl sulfide access the catalytic Ti sites in the porous structure of (R)-1?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of substituting the methyl group in PhSMe with isopropyl on the oxidation reaction?",
+      "answer": "The oxidation reaction still gives a conversion of 84%, but for a bulkier group like benzyl, the conversion decreases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the heterogeneity of the MOF catalyst examined in the study?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

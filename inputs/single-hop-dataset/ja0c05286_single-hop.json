@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Highly Active Gas Phase Organometallic Catalysis Supported Within Metal–Organic Framework Pores",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Ricardo A. Peralta, Michael T. Huxley, Jack D. Evans, Haijie Cao, Maoxia He, Xiu Song Zhao, Stefano Agnoli, Christopher J. Sumby, and Christian J. Doonan",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research conducted in the article?",
+      "answer": "The research focuses on the development of a Metal-Organic Framework (MOF) that supports highly efficient gas phase organometallic catalysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the single-crystal X-ray data collection?",
+      "answer": "The single-crystal X-ray data were collected at 100 K on the MX1 or MX2 beamlines of the Australian Synchrotron using the Blue-ice software interface.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational software was used for molecular simulations in the study?",
+      "answer": "The ORCA program system was used for molecular simulations in the study.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE routine in Platon during the study?",
+      "answer": "The SQUEEZE routine in Platon was applied to remove electron density equating to solvent molecules that could not be located in the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How did the presence of MOFs enhance the isomerization of 1-butene according to the DFT simulations?",
+      "answer": "The DFT simulations revealed that the interaction between π electrons and d orbitals of active Rh site of MOF significantly reduced the energy barrier for 1-butene isomerization, enhancing the process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of the [BF4] group in the catalytic process according to the study?",
+      "answer": "The [BF4] group in the MOF did not participate directly in the 1-butene isomerization process; instead, the interaction between Rh and C=C double bonds played a dominant role.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the research article published in a peer-reviewed journal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the Rhodium nanoparticles formed during hydrogenation were too small to produce discernible peaks in the PXRD pattern?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the rate-determining step in the 1-butene isomerization process identified as the migration of hydrogen to the Rh site?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study conclude that the MOF architecture did not influence the gas phase catalytic activity of the material?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the study, did the chloride anion significantly reduce the catalytic activity of the Rh­(I) complex in ethylene hydrogenation?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the ORCA program system version 4.0 used for the computational studies in the research?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study demonstrate that the MOF scaffold is integral to the gas phase catalytic activity because it allows access of the substrate to all of the Rh active sites?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding regarding the influence of anions on the catalytic activity in the study?",
+      "answer": "The study found that the presence of non- or weakly coordinating BF4 and coordinating Cl- anions significantly impacted the activity of the Rh center in catalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of crushing the MOF crystals on the catalytic activity according to the study?",
+      "answer": "Crushing the MOF crystals significantly reduced the catalytic activity, suggesting that the open, porous structure of the MOF scaffold is crucial for catalytic efficiency.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study use high-pressure reaction vessels for post-synthetic metalation under ethylene?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study able to directly observe the formation of Rhodium nanoparticles within the MOF pores using HR-TEM?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study provide evidence for the formation of Rhodium hydride species during catalysis using IR spectroscopy?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

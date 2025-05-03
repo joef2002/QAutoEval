@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the porous coordination polymer (PCP) discussed?",
+      "answer": "(Zn2(1,4-ndc)2(dabco))n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the AFM observations carried out?",
+      "answer": "28 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What guest molecule was used to induce lattice deformation in the PCP?",
+      "answer": "Biphenyl",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What competing ligand was used to observe layer-by-layer delamination of the PCP surface?",
+      "answer": "4,4'-bipyridine (bpy)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the observed effect of 1,3,5-triphenylbenzene on the PCP lattice?",
+      "answer": "It did not induce lattice deformation due to its size, which impedes access to the channels.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why was the supernatant solution of the crystal stock used as the observation droplet for AFM imaging?",
+      "answer": "To avoid fast surface decomposition that could interfere with long-term stable imaging in lattice-scale resolution.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the γ value determined for the lattice on the {001} plane?",
+      "answer": "Using 2D FFT analysis and lattice-fitting analysis based on 2D ACFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the onset of the single crystal–single crystal transformation process?",
+      "answer": "The highly responsive nature of the PCP surfaces imaged by in situ liquid-phase atomic force microscopy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The bulk crystals of PCP underwent structural change after soaking in biphenyl solution.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The lattice deformation observed in the study is a kinetically limited state.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The surface of the PCP responds to guest molecules even under conditions that barely induce structural transformation of the inner bulk phase.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The observed γ value was distributed around a certain value due to thermal lattice fluctuations and drifts.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The delamination process observed with 4,4'-bipyridine (bpy) as the competing ligand could be a chemical decomposition of the surface.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The lattice deformation induced by biphenyl accommodation into the PCP channels was observed only at the liquid–solid interface of the PCP.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study suggests that the kinetics and direction of crystal growth/decomposition can be modulated at the molecular level by using additional competing ligands.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using a fluid cell equipped with perfusion cannulas in the study?",
+      "answer": "To inject the guest solution into the cell and perfuse it at a constant flow rate in situ.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of 1,2-di(4-pyridyl)ethylene (dpye) on the PCP surface?",
+      "answer": "The point defect formation and layer-by-layer delamination process were quite fast at 200 mM concentration of dpye.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of the stochastic model consideration mentioned in the study?",
+      "answer": "It suggested that the collision frequency of biphenyl is 26 times less than that of DMF in 500 mM biphenyl solution, indicating a stochastic nature of the lattice fluctuations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed height of the terraces on the {001} face of PCP 1 by AFM?",
+      "answer": "9.8(9) Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the observed change in the lattice structure of PCP 1 in response to biphenyl concentration?",
+      "answer": "The original tetragonal lattice quickly changed to a rhombic shape as γ decreased in response to the biphenyl concentration change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

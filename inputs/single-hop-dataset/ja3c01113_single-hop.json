@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for X-dia-4-Co-α?",
+      "answer": "C18H12CoN6O4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal X-ray diffraction measurements for X-dia-4-Co-α conducted?",
+      "answer": "100 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of X-dia-5-Co-β?",
+      "answer": "Pna21",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the absorption correction in single-crystal X-ray diffraction measurements?",
+      "answer": "Multi-scan method",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of X-dia-4-Co-β?",
+      "answer": "Orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of X-dia-5-Co-α?",
+      "answer": "433.28",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (V) of the unit cell for X-dia-4-Co-β?",
+      "answer": "1962.0(3) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did X-dia-4-Co-α undergo a phase transformation upon heating?",
+      "answer": "Yes, it started to undergo a phase transformation at 70 °C and completed at 90 °C.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 adsorption in X-dia-5-Co endothermic or exothermic?",
+      "answer": "Exothermic, as indicated by negative adsorption enthalpy values.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does X-dia-4-Co exhibit flexibility upon CO2 adsorption?",
+      "answer": "Yes, it shows flexibility as indicated by changes in unit cell parameters upon CO2 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Langmuir surface area for X-dia-4-Co?",
+      "answer": "499.6260 ± 0.3953 m²/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the CO2-induced phase transformation in X-dia-5-Co reversible?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the DSC analysis confirm the phase change in X-dia-4-Co-α?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2 adsorption capacity of X-dia-5-Co higher at 273 K compared to 298 K?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does X-dia-4-Co-β have a higher density compared to X-dia-4-Co-α?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2 adsorption in X-dia-4-Co spontaneous at 298 K?",
+      "answer": "True, as indicated by negative Gibbs free energy values.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does X-dia-5-Co-β have a larger unit cell volume after CO2 adsorption at 35 bar compared to its initial volume?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2 adsorption capacity of X-dia-4-Co higher than X-dia-5-Co at 195 K?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal size of X-dia-4-Co-β decrease after CO2 sorption?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2 adsorption enthalpy for X-dia-5-Co at V5 = 2292.98 Å3 more negative than at V2 = 2072.40 Å3?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Cu-I-bpyc?",
+      "answer": "C16H19CuIN5OS",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of Cu-Br-bpyc?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystals of Cu-I-bpyc and Cu-Br-bpyc analyzed?",
+      "answer": "170 K for Cu-I-bpyc and 220.0 K for Cu-Br-bpyc",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Cu-Cl-bpyc?",
+      "answer": "P-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the EPR detection of the superoxide radical?",
+      "answer": "EPR detection was conducted in the presence of DMPO.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield percentage of Cu-Cl-bpyc based on ligands bpyc?",
+      "answer": "50%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE subroutine in PLATON during the structural refinement of Cu-X-bpyc?",
+      "answer": "The SQUEEZE subroutine in PLATON was used to handle disordered solvent regions in the crystal structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu-Cl-bpyc coordination polymer was tested for photocatalytic oxidation of C(sp3)−H bonds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the chlorine radical trapping experiments with styrene?",
+      "answer": "The experiments were designed to support the hypothesis of the importance of chlorine radicals in the C–H functionalization of hydrocarbons.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu-Cl-bpyc catalyst was reused at least five times without a remarkable decrease in reactivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of NH4Cl in the catalytic oxidation of C-H bond of phthalan?",
+      "answer": "NH4Cl was used to possibly substitute other halide anions coordinated initially, improving the catalytic performances of Cu-Br-bpyc and Cu-I-bpyc.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu-Cl-bpyc coordination polymer exhibits a lamellar structure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of adding different amounts of NH4Cl to the model experiment for tetrahydrofuran oxidation?",
+      "answer": "The reaction efficiency was the best when 0.5 equiv of NH4Cl was added, increasing the yield to 63% for Cu-Br-bpyc.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu-Cl-bpyc catalyst was characterized by SEM and elemental mapping.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of the SEM images and elemental mapping for Cu-X-bpyc polymers?",
+      "answer": "The SEM images and elemental mapping were used to provide a homogeneous distribution of the elements over the entire structures, implying the integration of halogen into the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu-Cl-bpyc catalyst demonstrated the ability to activate O2 and oxidize the C(sp3)−H bond without any additional co-catalyst.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the PXRD patterns tests conducted on Cu-Cl-bpyc before and after catalysis?",
+      "answer": "The PXRD patterns tests were conducted to confirm the structural integrity of Cu-Cl-bpyc after being reused for multiple catalytic cycles.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu-Cl-bpyc catalyst was impregnated in acetonitrile solution containing tetrahydrofuran to confirm substrate loading.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the substrate encapsulation experiments conducted on Cu-Cl-bpyc?",
+      "answer": "The substrate-loaded crystals were confirmed by using IR spectroscopy, showing characteristic peaks of the tetrahydrofuran.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: DFT calculations were performed to understand the enzymatic activation processes of tetrahydrofuran on Cu-Cl-bpyc.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

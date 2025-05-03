@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are metal-organic polyhedra (MOPs) used for in the synthesis of metal-organic frameworks (MOFs)?",
+      "answer": "MOPs are used as supermolecular building blocks (SBBs) for the synthesis of MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What characteristic of polycarboxylate cuboctahedral RhII-MOPs makes them suitable for constructing highly-connected MOFs?",
+      "answer": "Their high stability, symmetry, and multiple sites for functionalization with carboxylic acid groups make them suitable.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of polycarboxylate RhII-MOPs involves both coordinative and covalent post-synthetic routes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of the bimetallic MOF constructed from a 12-c SBB with a 4-c paddle-wheel SBU?",
+      "answer": "The topology is ftw (4,12)-c.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How are the 24 carboxylic acid groups on the cuboctahedral RhII-MOP functionalized?",
+      "answer": "Using a covalent route based on selective carboxylic group protection.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The assembly of a pre-synthesized 24-c SBB with a 3-c triangular CuII SBU results in a MOF with rht (3,24)-c topology.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in using pre-synthesized, isolated MOPs as SBBs for MOF synthesis?",
+      "answer": "The main challenge is controlling the formation of the MOP and preventing cross-linking reactions between MOPs functionalized with available coordinating sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of polycarboxylate RhII-MOPs has been demonstrated to be feasible by Zhou and Chun.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula of the cuboctahedral RhII-MOP synthesized via the coordinative route?",
+      "answer": "[Rh2(OH-bdc)2(H2O)(HINA)]12",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The cuboctahedral RhII-MOP functionalized with 24 carboxylic acid groups was confirmed by single-crystal X-ray diffraction.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected Rh/Cu ratio in the structure of RhCu-rht-MOF?",
+      "answer": "The expected Rh/Cu ratio is 1:1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The overall network in RhCu-rht-MOF is constructed by the packing of cages A, B, and C at a ratio of 1:2:1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the total accessible volume percentage of RhCu-rht-MOF?",
+      "answer": "The total accessible volume is 71%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of RhCu-ftw-MOF-1 involves the use of stoichiometric amounts of OH-RhMOP(HINA)12 and Cu(NO3)2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the underlying topology of RhCu-ftw-MOF-1?",
+      "answer": "The underlying topology is (4,12)-c ftw.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The cages in RhCu-ftw-MOF-1 are decorated with the outer OH groups of the initial OH-RhMOP(HINA)12 SBB.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET area of RhCu-rht-MOF?",
+      "answer": "The BET area is 700 m2 g-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The three MOFs presented exhibit reversible transformations between crystalline and amorphous states upon solvent guest removal.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using pre-synthesized MOPs as SBBs for MOF synthesis?",
+      "answer": "The main advantage is the ability to predict their assembly and introduce elements like RhII into highly connected MOF structures with atomic precision.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the research on polycarboxylate Rh-MOPs and their use in MOF synthesis?",
+      "answer": "The research enriches the repertoire of strategies for MOF synthesis, including those incorporating inert metal ions, by demonstrating the use of robust polycarboxylate Rh-MOPs as SBBs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

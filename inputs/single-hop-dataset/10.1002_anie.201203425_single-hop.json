@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical composition of CPM-7?",
+      "answer": "[(CH3CH2)2NH2]12·[Zn-(FDA)3]4·[Zn3(OH)(FDA)3/2·Zn3(OH)(FDA)3/2·(H2O)6]4-[Zn4O(FDA)4]6·[(DEF)22]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the [Zn(FDA)3]4 unit in CPM-7?",
+      "answer": "It represents the monomeric Zn2+ site at the face center of the sodalite cage and has the role of cube-to-sodalite intercage connection.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the sodalite cage in CPM-7 formed?",
+      "answer": "From the Zn4O tetramer and FDA.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the difference in coordination between trimer 1 and trimer 2 in CPM-7?",
+      "answer": "In trimer 1, each Zn is four-coordinated, while in trimer 2, each Zn is six-coordinated because of the presence of two terminal water molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 uptake of CPM-7 at 760 Torr and 273 K?",
+      "answer": "28.6 cm3 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature at which CPM-7 retains its crystallinity?",
+      "answer": "Approximately 240°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the eight-connected Zn4O tetramer in CPM-7?",
+      "answer": "It is very unusual and, to the best of the authors' knowledge, has never been observed before.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the CO2 uptake of CPM-7 lower than that of CPM-5?",
+      "answer": "Because there is a significant difference between CPM-5 and CPM-7 in terms of the interactions between gas molecules and frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of water molecules affect the connectivity of trimer 1 and trimer 2?",
+      "answer": "The presence of water molecules does not affect the intercluster connectivity in any way.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the monomeric Zn2+ site in the structure of CPM-7?",
+      "answer": "It uses two connections to join the cubes into the zeolitic ACO topology and the remaining six connections to join to the six nodes of the hexagonal rings of the sodalite cage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of creating a cage-within-cage structure in materials like CPM-7?",
+      "answer": "To accomplish efficient partition of pore space to optimize usage of pore space for gas sorption, especially for low-pressure gas sorption applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes the bonding pattern of the Zn4O tetramer in CPM-7 unusual?",
+      "answer": "The Zn4O tetramer is eight-connected, which is very unusual and has not been observed before.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the intercage linking mechanism in CPM-7 based on polyfunctional ligands?",
+      "answer": "No, it is accomplished by monomeric Zn2+ sites.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does CPM-7 have a higher CO2 uptake than CPM-5?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Zn4O tetramer in CPM-7 six-connected?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of water molecules in trimer 2 change its topological equivalence to trimer 1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the monomeric Zn2+ site in CPM-7 topologically six-connected?",
+      "answer": "False, it is topologically eight-connected.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does CPM-7 lose its crystallinity above 240°C?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation of CPM-7 for gas adsorption/desorption measurements done at 160°C for 24 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of CPM-7 achieved through a solvothermal reaction involving Zn(NO3)2·6 H2O and 2,5-furandicarboxylic acid?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

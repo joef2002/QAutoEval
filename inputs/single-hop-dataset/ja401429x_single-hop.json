@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C52 H18 F6 N26 O48 Tb6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystallography measurements for compound 2 conducted?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of compound 3?",
+      "answer": "Cubic, Fm-3m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of compound 4?",
+      "answer": "2870.94",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many reflections were collected for compound 5?",
+      "answer": "20849",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of compound 6?",
+      "answer": "0.870 Mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the largest diff. peak and hole for compound 7?",
+      "answer": "1.137 and -1.339 e. Å-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of compound 1 cubic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 have a higher formula weight than compound 3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the absorption coefficient for compound 4 greater than 2 mm-1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the theta range for data collection of compound 5 less than 66 degrees?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 6 have a unit cell dimension a greater than 27 Å?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Z value for compound 7 equal to 4?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the difference in formula weight between compound 1 and compound 2?",
+      "answer": "60.94",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "If the crystal size of compound 3 is 0.10 x 0.10 x 0.10 mm, what is its volume?",
+      "answer": "0.001 mm3",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Given the absorption coefficient of compound 4 is 1.651 mm-1, is it more or less transparent to X-rays compared to compound 5?",
+      "answer": "More transparent",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "If compound 6 has a Z value of 4, how many formula units are in its unit cell?",
+      "answer": "4",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Considering the theta range for data collection of compound 7 is up to 67.93 degrees, does it indicate a wide or narrow range of data collection?",
+      "answer": "Wide",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the final R index for compound 1 less than 0.04?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 have a larger unit cell volume compared to compound 3?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

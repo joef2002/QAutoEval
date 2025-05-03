@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of ITC-1?",
+      "answer": "[In3O(ina)3(bdc)1.5](NO3)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of ITC-2?",
+      "answer": "I-43m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of ITC-3?",
+      "answer": "Tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the percentage of void space in ITC-4?",
+      "answer": "72.2%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of ITC-2NH2?",
+      "answer": "1285.77",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does ITC-2Br have a higher formula weight than ITC-2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of ITC-4 cubic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the density of ITC-3 higher than that of ITC-4?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the absorption coefficient of ITC-1?",
+      "answer": "1.306",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R indices [I > 2σ(I)] for ITC-2?",
+      "answer": "R1 = 0.0612, wR2 = 0.1037",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature used for the synthesis of ITC-3?",
+      "answer": "150(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of ITC-4 require a higher temperature than ITC-3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the volume of ITC-2 larger than that of ITC-3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can ITC-4 selectively exchange -1 charged dyes?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the selective ion exchange in ITC-4?",
+      "answer": "The selective ion exchange in ITC-4 is due to its positive framework which allows for charge-selective ion exchange of anionic dyes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does ITC-4 have a higher ion-exchange capacity for OG2- compared to MB2-?",
+      "answer": "ITC-4 has a higher ion-exchange capacity for OG2- compared to MB2- due to the size-exclusion effect, where MB2- is too large to enter the pores of ITC-4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of NaNO3 in the release experiment of ITC-4?",
+      "answer": "NaNO3 triggers the release of the previously exchanged dye from ITC-4 by displacing the dye through ion-exchange.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ion-exchange process in ITC-4 reversible?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the BET surface area of ITC-4 decrease after ion-exchange?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the ion-exchange and release process in ITC-4 be performed for multiple cycles without loss of capacity?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

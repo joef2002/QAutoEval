@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of silver fluoride in the synthesis of aryl fluorides?",
+      "answer": "Silver fluoride is used as a fluoride source in the synthesis of aryl fluorides.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the presence of copper critical for the reaction to occur in high yields?",
+      "answer": "Copper acts as a mediator in the fluorination of aryl iodides, and its presence is critical for the reaction to occur in high yields.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction between AgF and ArI direct?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of using CsF instead of AgF in the reaction?",
+      "answer": "Using CsF instead of AgF gives the same aryl fluoride product but in a lower yield.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of using a non-coordinating counterion and weakly donating ligands in the reaction?",
+      "answer": "The use of a non-coordinating counterion and weakly donating ligands facilitates reductive elimination from an arylcopper(III) fluoride species.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the reaction proceed through an aryl radical intermediate?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in the current reactions for synthesizing aryl fluorides?",
+      "answer": "The main challenge is the separation of the major aryl fluoride product from the arene side product.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the fluorination reaction tolerate heterocyclic systems?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of deuterium-labeling experiments in the study?",
+      "answer": "Deuterium-labeling experiments were used to investigate the source of hydride leading to the arene side product.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction of aryl iodides with Cu(I) species always proposed to occur through Cu(III) intermediates?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of added AgOTf on the yield of the reaction?",
+      "answer": "Added AgOTf results in much lower yields and lower conversions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction of aryl halides with Cu(I) species occur by radical intermediates?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed mechanism for the fluorination of aryl iodides?",
+      "answer": "The proposed mechanism involves oxidative addition to form a Cu(III) intermediate and C–F reductive elimination from an arylcopper(III) fluoride.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the reaction of 4-bromobenzophenone under standard conditions expected to proceed at a comparable rate to aryl iodides?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of protonolysis in the formation of arene side product?",
+      "answer": "Protonolysis of an arylcopper species occurs, suggesting its role in the formation of the arene side product.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the fluorination process provide 18F-labeled products for PET imaging?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of excess AgF on the reaction?",
+      "answer": "Excess AgF results in lower yields due to an unproductive redox reaction with copper.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of a single product in palladium-catalyzed fluorination limited to substrates bearing electron-withdrawing groups?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the reaction conditions for conducting fluorinations with limiting fluoride?",
+      "answer": "Conditions for conducting fluorinations with limiting fluoride are important for the use of this process to provide 18F-labeled product for PET imaging.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the reaction between AgF and ArI occur directly?",
+      "answer": "No reaction occurred in the absence of copper, demonstrating that a direct reaction between AgF and ArI is not occurring.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

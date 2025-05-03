@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the high-nuclearity isopolyoxotungstate cluster reported?",
+      "answer": "[H12W36O120]12-",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What organic cation is used to encapsulate the potassium ion in the cluster?",
+      "answer": "Protonated triethanolamine",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Na2S2O4 in the synthesis of compound 1?",
+      "answer": "It is necessary for the synthesis of compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 does not require any potassium salt as a starting material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens when excess KCl is added to the reaction mixture under similar conditions for synthesizing compound 1?",
+      "answer": "It results in the formation of compound 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of compound 1 based on tungsten?",
+      "answer": "Approximately 10%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The cluster anion [H12W36O120]12- is the largest isopolyoxotungstate discovered so far.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the symmetry of the new cluster anion [H12W36O120]12-?",
+      "answer": "Approximately C3v-symmetric",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The addition of Na2S2O4 is optional for the synthesis of compound 1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How is the potassium ion coordinated in the cluster?",
+      "answer": "The potassium ion is 10-fold coordinated to six Oterm ligands from the tungstate and to four water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "(TEAH)9Na2{(H2O)4K⊂[H12W36O120]}·17H2O",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 can be successfully carried out in a plastic vessel.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main by-product of the syntheses of compounds 1 and 2?",
+      "answer": "(TEAH)6[H2W12O40]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystallographic studies of compound 1 revealed that the TEAH+, sodium cations, and solvent water molecules are highly disordered.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the potassium ion's coordination in the cluster's structure?",
+      "answer": "It demonstrates the cluster's ability to capture trace potassium ions within its cavity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: DFT calculations suggest that the {W36} anion could be used as a building block for future polyoxotungstate-based frameworks.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of charge density 'hotspots' on the {W36} cluster imply?",
+      "answer": "It implies possible reactivity 'hotspots' toward electrophilic reactants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 always results in a 100% yield.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrochloric acid in the synthesis of compound 1?",
+      "answer": "To adjust the pH to 2.0.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The {W36} cluster's ability to capture potassium ions is unrelated to the presence of organic cations.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

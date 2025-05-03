@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application of the 3D dynamic porous metal–organic framework mentioned?",
+      "answer": "Selective gas adsorption of CO2 over N2 and H2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structural feature does the metal–organic framework (MOF) exhibit?",
+      "answer": "It is assembled from fivefold interlocked closed nanotubes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to obtain single crystals of the MOF?",
+      "answer": "Diffusing an acetonitrile solution of [NiL](ClO4)2 into an aqueous solution of H3TCBA and triethylamine.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does the MOF exhibit selective adsorption for CO2 over N2 and H2?",
+      "answer": "Due to the quadrupole moment of CO2, which induces interaction with the framework to open the channels.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the framework of the MOF upon heating to 50 1C?",
+      "answer": "The framework of the MOF shrinks after the loss of guest water molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the desolvated compound stable up to 220 1C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF adsorb N2 and H2 as efficiently as CO2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the gate-opening pressure for CO2 adsorption?",
+      "answer": "From 0 to 0.26 atm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the large hysteretic behavior of CO2 sorption?",
+      "answer": "The presence of the hydroxyl group and/or the secondary amines of L located at the surface of the pores, which can strongly interact with CO2 molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the sorption capacity of CO2 decrease with increasing temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF constructed from helical chains?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of triethylamine in the synthesis of the MOF?",
+      "answer": "It is used in the aqueous solution along with H3TCBA for the synthesis of the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the original framework of the MOF be restored after immersion in methanol?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the saturation value of CO2 adsorption at 0.95 atm?",
+      "answer": "134 cm3 g-1 (STP, 26.3 wt%)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF exhibit a stepwise and hysteretic adsorption behavior for CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the gate-closing pressure on CO2 desorption?",
+      "answer": "It causes the MOF to desorb CO2 abruptly, resulting in a significantly large hysteresis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the guest water molecules in the MOF's pores removed at around 60 1C?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore size of the channels along the c-axis in the MOF?",
+      "answer": "3.6 x 3.6 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF's framework expand to allow more CO2 molecules to enter after the limited porous volumes are fully filled?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the quadrupole moment of CO2 in the selective adsorption behavior of the MOF?",
+      "answer": "It induces interaction with the framework, facilitating the opening of the channels for CO2 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

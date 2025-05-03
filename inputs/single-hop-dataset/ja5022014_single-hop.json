@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the highly proton-conductive MOF discussed?",
+      "answer": "(NH4)2(adp)[Zn2(ox)3]·nH2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the three phases of the MOF mentioned in the text?",
+      "answer": "Anhydrate (1), dihydrate (1·2H2O), and trihydrate (1·3H2O) phases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do water molecules play in the MOF's proton conduction?",
+      "answer": "Water molecules serve as conducting media and triggers to change the proton conductivity through reforming hydrogen-bonding networks by water adsorption/desorption processes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is proton conductivity controlled in the MOF?",
+      "answer": "Proton conductivity is controlled by the humidity, ranging from ∼10−12 S cm−1 (1) to ∼10−2 S cm−1 (1·3H2O).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of 1·3H2O is different from that of 1·2H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the crystal-to-crystal transformations among the three phases of the MOF?",
+      "answer": "The loss of included water triggers the transformations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The proton conductivity of 1·3H2O is lower than that of 1·2H2O.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of 1·3H2O?",
+      "answer": "Triclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Nitrogen gas adsorption is observed in the MOF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum proton conductivity achieved in the MOF at 25 °C?",
+      "answer": "8 × 10−3 S cm−1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The microwave conductivity measurements show a significant difference in molecular motions between 1·3H2O and 1·2H2O.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of adp molecules in the MOF's proton conductivity?",
+      "answer": "Adp molecules contribute to the formation of hydrogen-bonding networks that facilitate proton conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The transformation from 1·2H2O to 1·3H2O does not involve a change in the hydrogen-bonding network.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of 1·2H2O?",
+      "answer": "P21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The proton conductivity of the MOF can be dynamically changed by external stimuli.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the conducting mechanism hypothesized for 1·3H2O?",
+      "answer": "A Grotthuss-type mechanism",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The anhydrate phase of the MOF shows high proton conductivity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of 1 or 1·2H2O?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of the hydrogen-bonding network change from 1·2H2O to 1·3H2O?",
+      "answer": "The structure changes to include a 1-D channel of water guests, which contributes to its high proton conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The transformation among the three phases of the MOF is a crystal-to-crystal transformation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

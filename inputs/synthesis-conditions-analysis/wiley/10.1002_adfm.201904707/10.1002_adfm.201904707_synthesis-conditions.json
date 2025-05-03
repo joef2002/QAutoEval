@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "FMOF-1",
+      "synthesis_conditions": {
+        "procedure": "Followed previously reported procedure",
+        "chemicals_used": "Fluorinated ligand H2FBTB",
+        "yield": "Not specified",
+        "time": "Not specified",
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "equipment": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "FN-PCP-1",
+      "synthesis_conditions": {
+        "procedure": "Reacting H2FBTB with silver(I) nitrate in water at reflux",
+        "chemicals_used": "H2FBTB, silver(I) nitrate",
+        "yield": "90%",
+        "time": "4 h",
+        "temperature": "Reflux",
+        "solvents": "Water",
+        "equipment": "Not specified",
+        "washing_method": "Washed with distilled water and methanol",
+        "drying_method": "Dried under vacuum (100 °C, 10−4 bar, 4 h)"
+      }
+    },
+    {
+      "name": "FMOF-3",
+      "synthesis_conditions": {
+        "procedure": "Prepared in DMF using copper(II) acetate as the source of metal ions",
+        "chemicals_used": "H2FBTB, copper(II) acetate, DMF",
+        "yield": "90%",
+        "time": "4 h",
+        "temperature": "Not specified",
+        "solvents": "DMF",
+        "equipment": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "lc-[Cu(BTB)(DMF)]",
+      "synthesis_conditions": {
+        "procedure": "Reacting H2BTB in DMF with Cu(OAc)2 at 135 °C",
+        "chemicals_used": "H2BTB, Cu(OAc)2, DMF",
+        "yield": "Not specified",
+        "time": "4 h",
+        "temperature": "135 °C",
+        "solvents": "DMF",
+        "equipment": "Not specified",
+        "washing_method": "Washed with methanol",
+        "drying_method": "Dried under vacuum (100 °C, 10−4 bar, 4 h)"
+      }
+    },
+    {
+      "name": "[Ag2(BTB)]",
+      "synthesis_conditions": {
+        "procedure": "Reacting H2BTB with AgNO3 in water",
+        "chemicals_used": "H2BTB, AgNO3, water",
+        "yield": "Not specified",
+        "time": "Not specified",
+        "temperature": "Not specified",
+        "solvents": "Water",
+        "equipment": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    },
+    {
+      "name": "ZIF-8",
+      "synthesis_conditions": {
+        "procedure": "Reacting zinc nitrate hexahydrate with 2-methylimidazole",
+        "chemicals_used": "Zinc nitrate hexahydrate, 2-methylimidazole",
+        "yield": "Not specified",
+        "time": "Not specified",
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "equipment": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified"
+      }
+    }
+  ]
+}

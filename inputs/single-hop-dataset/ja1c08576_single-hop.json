@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using UiO-66-NH2 as a chlorine carrier?",
+      "answer": "UiO-66-NH2 is used as a chlorine carrier because it possesses abundant amine groups for chlorine bonding and offers robust chemical stability within MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the mass loading of Zr-MOFs on fiber calculated?",
+      "answer": "The mass loading of Zr-MOFs on fiber is calculated based on ICP-OES analysis, using the formula ML = (C x 100 x 0.01 L)/(100 mg x WZr) x 100%, where C is the concentration of Zr in the diluted nitric acid solution measured by ICP-OES.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to evaluate the antibacterial efficacies of the chlorinated MOF-coated surface?",
+      "answer": "The antibacterial efficacies of the chlorinated MOF-coated surface are evaluated using a modified AATCC (American Association of Textile Chemists and Colorists) 100-2004 test method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the chlorine loading determination in the synthesis process?",
+      "answer": "The chlorine loading determination is significant as it quantitatively measures the amount of active chlorine loaded on the composite, which is crucial for assessing the biocidal and detoxifying efficacy of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The UiO-66-NH-Cl/PET composite showed a significant delay in virus growth for 48 hours when exposed to SARS-CoV-2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sodium thiosulfate in the antibacterial efficacy tests?",
+      "answer": "Sodium thiosulfate is used to quench the chlorine after different periods of contact time, neutralizing the active chlorine and detaching adherent cells from the fabric surfaces for biocidal efficacy analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the durability of the UiO-66-NH-Cl/PET composite evaluated?",
+      "answer": "The durability is evaluated after storage at ambient conditions for 40 days, followed by determining the remaining chlorine using a modified iodometric/thiosulfate titration method.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The UiO-66-NH-Cl/PET composite can selectively oxidize mustard gas (HD) to a nontoxic sulfoxide product under ambient conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What precautions are mentioned for handling trifluoroacetic acid (TFA) during the synthesis process?",
+      "answer": "All research with TFA must be conducted in a well-ventilated chemical fume hood with adequate personal protective equipment, including a properly fitting lab coat, long pants, closed-toed footwear, and chemical safety glasses.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The scaled-up synthesis of UiO-66-NH2 coating on fiber requires a different procedure than the initial synthesis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using potassium iodide in the chlorine determination process?",
+      "answer": "Potassium iodide is used in the chlorine determination process because iodide ions are oxidized by active chloramine (N-Cl) to release iodine, which is then titrated with thiosulfate to quantitatively determine the active chlorine loading.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of chloride in the UiO-66-NH-Cl/PET composite is confirmed by a significant peak in the XPS spectrum.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How is the cyclability of the UiO-66-NH-Cl/PET composite tested?",
+      "answer": "The cyclability is tested by quenching chlorinated fabrics in a sodium thiosulfate solution to remove active chlorine, then rechlorinating with a sodium hypochlorite solution, and measuring the recovered chlorine using a titration method.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The UiO-66-NH-Cl/PET composite requires light for the detoxification of chemical warfare agents.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What safety measures are mentioned for handling HD during the oxidation experiments?",
+      "answer": "HD should only be used in approved labs by specifically trained personnel, emphasizing the need for specialized training and facilities to handle such hazardous materials safely.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The UiO-66-NH-Cl/PET composite loses its chlorine loading completely after 40 days of storage.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sodium thiosulfate in the CEES oxidation experiments?",
+      "answer": "Sodium thiosulfate is used to quench the chlorine after the CEES oxidation reaction, stopping the reaction and allowing for the analysis of the oxidized products by NMR spectroscopy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The UiO-66-NH-Cl/PET composite can be regenerated and reused for multiple cycles of chlorination.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How is the release of active chlorine from the composite into water evaluated?",
+      "answer": "The release of active chlorine from the composite into water is evaluated by immersing the composite in saline water, adding potassium iodide, and then titrating the chlorine concentration with sodium thiosulfate solution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SEM analysis of bacterial cells is used to observe the morphological changes after treatment with the UiO-66-NH-Cl/PET composite.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main concern with reprocessing used nuclear fuel?",
+      "answer": "A major concern with reprocessing used nuclear fuel is the release of volatile radionuclides such as xenon and krypton that evolve into reprocessing facility off-gas in parts per million concentrations.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What technology is currently used to remove radioactive noble gases from used nuclear fuel reprocessing facilities?",
+      "answer": "The existing technology to remove these radioactive noble gases is a costly cryogenic distillation.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "Why is SBMOF-1 considered an outstanding material for xenon/krypton separation?",
+      "answer": "SBMOF-1 is considered outstanding for xenon/krypton separation because it shows exceptional Xe uptake at low pressure, selectivity for Xe, thermal and water stability, and adsorption kinetics.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What makes SBMOF-1 highly selective for xenon over krypton?",
+      "answer": "The selectivity of SBMOF-1 for xenon over krypton is attributed to its pore size tailored to Xe and its dense wall of atoms that constructs a binding site with a high affinity for Xe.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: SBMOF-1 retains its performance after multiple adsorption/desorption cycles.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of molecular simulations in the discovery of SBMOF-1?",
+      "answer": "Molecular simulations played a valuable role in predicting SBMOF-1 to be among the most selective materials for Xe/Kr separation, guiding experimental efforts to confirm its outstanding performance.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: SBMOF-1 shows high thermal stability up to 500 K.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does SBMOF-1 compare to other materials in terms of xenon adsorption capacity?",
+      "answer": "SBMOF-1 exhibits the highest Xe Henry coefficient and the highest Xe/Kr selectivity at dilute conditions among all reported Xe and Kr adsorption isotherms in the literature survey.",
+      "difficulty_level": "Hard",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The pore size of SBMOF-1 is not tailored specifically for xenon.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted advantage of using SBMOF-1 for xenon/krypton separation over cryogenic distillation?",
+      "answer": "The predicted advantage of using SBMOF-1 for xenon/krypton separation over cryogenic distillation is a more cost-effective process due to SBMOF-1's exceptional selectivity and performance under UNF reprocessing conditions.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: SBMOF-1 loses its Xe adsorption capacity in the presence of water vapor.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to identify the location of adsorbed xenon and krypton in SBMOF-1?",
+      "answer": "Single-crystal X-ray diffraction experiments were used to identify the location of adsorbed xenon and krypton in SBMOF-1.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: SBMOF-1's performance in xenon adsorption is unaffected by humidity.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the pore size in SBMOF-1 for xenon/krypton separation?",
+      "answer": "The significance of the pore size in SBMOF-1 for xenon/krypton separation is that it is slightly larger than a xenon atom, making it optimal for xenon adsorption and highly discriminatory for xenon over krypton.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: Molecular simulations inaccurately predicted the performance of SBMOF-1 for xenon/krypton separation.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does SBMOF-1's xenon adsorption capacity compare to that of Ni-MOF-74 and CC3?",
+      "answer": "SBMOF-1's xenon adsorption capacity is higher than that of Ni-MOF-74 and CC3, making it an outstanding material for xenon/krypton separation.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the role of the dense wall of atoms in SBMOF-1?",
+      "answer": "The dense wall of atoms in SBMOF-1 surrounds a xenon atom to achieve a high energy of xenon adsorption, enhancing its preference for xenon over krypton.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: SBMOF-1 was the only material considered for xenon/krypton separation.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What makes SBMOF-1 a practical material for capturing xenon from nuclear reprocessing facilities?",
+      "answer": "SBMOF-1 is a practical material for capturing xenon from nuclear reprocessing facilities due to its exceptional xenon uptake at low pressure, high selectivity for xenon, thermal and water stability, and fast adsorption kinetics.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The discovery of SBMOF-1's performance for xenon/krypton separation was purely accidental.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

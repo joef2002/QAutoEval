@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for Complex 1?",
+      "answer": "C228H352N96Ni12O42W6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structure is characterized for Complex 2?",
+      "answer": "Three-dimensional network with the highest symmetry space group Ia-3d",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Complex 3 transform into Complex 1?",
+      "answer": "Yes, Complex 3 can transform into Complex 1 after several days.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does water play in the synthesis and transformation of these complexes?",
+      "answer": "Water mediates the single-crystal transformations, including collapse of 3D networks, coordination substitution, and assisting in the dissolution of possible resulting intermediates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from Complex 2 to Complex 1 a one-step or two-step process?",
+      "answer": "The transformation from Complex 2 to Complex 1 can be both a one-step and a two-step process, depending on the quantity of water.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of Complex 3?",
+      "answer": "Monoclinic space group Cc",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the transformation from Complex 2 to Complex 3 involve a change in crystal shape?",
+      "answer": "Yes, the transformation from Complex 2 to Complex 3 involves a change in crystal shape.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of Complex 1 when synthesized?",
+      "answer": "Approximately 52%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can amorphous samples be transformed into single crystals of Complex 1?",
+      "answer": "Yes, amorphous samples can be transformed into single crystals of Complex 1 through amorphous to single-crystal transformation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination geometry of the [WIV(CN)8]4– module in Complex 1?",
+      "answer": "Bicapped trigonal prism conformation",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the transformation from Complex 2 to Complex 1 result in a decrease in dimensionality?",
+      "answer": "Yes, the transformation from Complex 2 to Complex 1 results in a decrease in dimensionality from 3D to 0D.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of adding very little water during the synthesis of Complex 2?",
+      "answer": "Adding very little water during the synthesis of Complex 2 leads to the formation of Complex 3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from Complex 2 to Complex 3 solvent-mediated?",
+      "answer": "Yes, the transformation from Complex 2 to Complex 3 is solvent-mediated.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the major axis distance of the WIV–WIV in Complex 1?",
+      "answer": "16.5 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the block single crystals of Complex 3 over time?",
+      "answer": "The block single crystals of Complex 3 slowly disappear and transform into needle-like crystals of Complex 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from Complex 2 to Complex 1 controlled by the quantity of solvent water?",
+      "answer": "Yes, the transformation from Complex 2 to Complex 1 is controlled by the quantity of solvent water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the symmetry space group of Complex 2?",
+      "answer": "Ia-3d",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the transformation process from Complex 2 to Complex 1 involve the collapse of 3D networks?",
+      "answer": "Yes, the transformation process from Complex 2 to Complex 1 involves the collapse of 3D networks.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 18-Crown-6 in the synthesis of Complex 2?",
+      "answer": "18-Crown-6 is introduced to solve the dissolution problem of the precursor K4[WIV(CN)8] in the absence of water.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the transformation from Complex 2 to Complex 3 be reversed?",
+      "answer": "No, the transformation from Complex 2 to Complex 3 is followed by a transformation to Complex 1, not a direct reversal.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

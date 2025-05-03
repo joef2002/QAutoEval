@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "[Mn(tda)(H2O)]n",
+            "amount": "0.113 g",
+            "molarity": "0.5 mmol"
+          },
+          {
+            "name": "4,4’-Me2bipy",
+            "amount": "0.092 g",
+            "molarity": "0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "20 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "90 8C",
+        "time": "2 h",
+        "equipment": "not specified",
+        "yield": "0.12 g (60 %)",
+        "drying_method": "slow evaporation at ambient temperature",
+        "crystallography_data": {
+          "system": "monoclinic",
+          "space_group": "C2/c",
+          "parameters": {
+            "a": "21.120(4)",
+            "b": "17.270(5)",
+            "c": "22.467(4)",
+            "beta": "122.29(2)°",
+            "volume": "6927(3) Å^3",
+            "Z": "8",
+            "density_calculated": "1.520 Mg m^-3",
+            "mu": "7.560 mm^-1"
+          },
+          "reflections_collected_unique": "4679/4365",
+          "R": "0.0516 (I > 2σ(I))",
+          "Rw": "0.1271"
+        }
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "similar to 3",
+            "details": "Similar synthetic procedure as for 3"
+          }
+        ],
+        "solvents": "similar to 3",
+        "temperature": "similar to 3",
+        "time": "similar to 3",
+        "equipment": "not specified",
+        "yield": "0.17 g (82 %)",
+        "drying_method": "similar to 3",
+        "crystallography_data": {
+          "system": "monoclinic",
+          "space_group": "P21/n",
+          "parameters": {
+            "a": "12.4650(14)",
+            "b": "17.101(6)",
+            "c": "16.1130(19)",
+            "beta": "95.42(1)°",
+            "volume": "3419.4(13) Å^3",
+            "Z": "4",
+            "density_calculated": "1.540 Mg m^-3",
+            "mu": "0.920 mm^-1"
+          },
+          "reflections_collected_unique": "4936/4746",
+          "R": "0.0369 (I > 2σ(I))",
+          "Rw": "0.0848"
+        }
+      }
+    }
+  ]
+}

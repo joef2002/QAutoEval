@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary goal of designing electronically conducting materials?",
+      "answer": "The primary goal is to attain conducting materials using low-dimensional covalently bonded or coordinating frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the DA chain compound 1?",
+      "answer": "The DA chain compound 1 was synthesized using an anisole solution of [Ru2(2-MeO-4-ClPhCO2)4(THF)2] and a benzene solution of BTDA-TCNQ.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does doping with redox-inert P units affect the ionic DA chains?",
+      "answer": "Doping with redox-inert P units rationally produces mixed valency in the system and if the energy barrier at P is not high, it allows for electron transport along the chain.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of increasing the amount of [Rh2(II,II)] dopant on the dc resistivity of the compounds?",
+      "answer": "Increasing the amount of [Rh2(II,II)] dopant tends to decrease the dc resistivity of the compounds exponentially.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the [Rh2(II,II)] unit itself a carrier in the doped compounds?",
+      "answer": "No, the [Rh2(II,II)] unit itself cannot contribute as a carrier since it is relatively redox-inert.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the electronic conductance in the chain mainly depend on the charge carrier concentration?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the ac impedance spectra of the doped compounds consistent with a single electron/hole hopping process?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the activation energy for ac electronic techniques remain almost invariant independent of the doping rate?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound 1-Rh an insulator?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the doping of a redox-inert dopant [Rh2] in place of [Ru2] decrease the electronic conductivity through the chain?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of mixed valency in designing conducting CTMOFs?",
+      "answer": "The construction of continuous mixed valency in a framework is a key way to design conducting CTMOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the doping level determine in the doped ionic chain?",
+      "answer": "The doping level determines the number of A0/A- sets, which is equal to the number of domains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the motion of an A0/A- set within a domain be detected as a permittivity response?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the electronic band structure unchanged with doping?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the activation energy Ea(dc) reflect in the doped compounds?",
+      "answer": "Ea(dc) reflects the activation energy for bulk conductivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the ac conductance mainly describing the local conduction in the chain?",
+      "answer": "The ac conductance mainly describes the local conduction in the chain, which is associated with the energy barrier to pass the P dopant.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of Ru and Rh atoms in a single crystal confirm the successful synthesis of the target [Rh2]-doped compounds?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the absorption spectra of the doped compounds identical to that of compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the temperature-dependent dc resistivity measurement indicate about the carrier type?",
+      "answer": "The consistency of the ρdc value at each temperature and lack of time-dependency indicate electron/hole carriers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the activation energy Ea(ac) for electron/hole hopping beyond the P units higher than Ea(dc)?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

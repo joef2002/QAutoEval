@@ -1,0 +1,125 @@
+{
+  "materials": [
+    {
+      "name": "BUT-8(Cr)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "H2NDC(SO3H)2",
+              "amount": "376 mg",
+              "molar_amount": "1 mmol"
+            },
+            {
+              "name": "Cr(NO3)3·9H2O",
+              "amount": "400 mg",
+              "molar_amount": "1 mmol"
+            },
+            {
+              "name": "hydrofluoric acid",
+              "amount": "110 μl",
+              "molar_amount": "2.6 × 10−3 mmol"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "6 ml"
+            }
+          ],
+          "temperature": "190 °C",
+          "time": "24 h",
+          "equipment": "Teflon-lined stainless-steel autoclave",
+          "washing_method": "washed with DMF (50 ml), soaked in hot DMF (100 ml, 80 °C) for 24 h, soaked in water (200 ml) for 24 h at room temperature, washed three times with fresh water",
+          "drying_method": "washed with methanol and dried under a vacuum at 60 °C for 12 h"
+        }
+      ]
+    },
+    {
+      "name": "BUT-8(Cr)A",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "freshly made BUT-8(Cr) sample",
+              "amount": "500 mg"
+            },
+            {
+              "name": "0.5 M sulfuric acid aqueous solution",
+              "amount": "200 ml"
+            }
+          ],
+          "washing_method": "washed three times with 0.5 M sulfuric acid aqueous solution (200 ml), soaked in 0.5 M sulfuric acid aqueous solution (100 ml) for 24 h, repeated at least three times, washed with water three times, alternately soaked three times in water (100 ml each time, for 24 h) and two times in methanol (100 ml each time, for 12 h)",
+          "drying_method": "washed with fresh water, washed with methanol and dried at 60 °C under a vacuum for 24 h"
+        }
+      ]
+    },
+    {
+      "name": "BUT-8(Al)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Al(NO3)3·9H2O",
+              "amount": "19 mg",
+              "molar_amount": "0.05 mmol"
+            },
+            {
+              "name": "H2NDC(SO3H)2",
+              "amount": "19 mg",
+              "molar_amount": "0.05 mmol"
+            },
+            {
+              "name": "trifluoroacetic acid (TFA)",
+              "amount": "0.2 ml",
+              "molar_amount": "2.69 mmol"
+            },
+            {
+              "name": "N,N’-dimethylformamide (DMF)",
+              "amount": "2 ml"
+            }
+          ],
+          "temperature": "150 °C",
+          "time": "72 h",
+          "equipment": "Teflon-lined stainless-steel autoclave",
+          "washing_method": "washed with DMF and acetone in sequence",
+          "drying_method": "dried at 60 °C under a vacuum for 24 h"
+        }
+      ]
+    },
+    {
+      "name": "MIL-101-SO3H",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "name": "Cr(NO3)3·9H2O",
+              "amount": "2.00 g",
+              "molar_amount": "5 mmol"
+            },
+            {
+              "name": "H2BDC-SO3Na",
+              "amount": "2.70 g",
+              "molar_amount": "10 mmol"
+            },
+            {
+              "name": "deionized water",
+              "amount": "30 ml"
+            },
+            {
+              "name": "hydrofluoric acid",
+              "amount": "0.3 g"
+            }
+          ],
+          "temperature": "190 °C",
+          "time": "24 h",
+          "equipment": "Teflon-lined stainless-steel autoclave",
+          "washing_method": "washed with deionized water five times",
+          "drying_method": "dried in air at 100 °C for 12 h"
+        }
+      ]
+    }
+  ]
+}

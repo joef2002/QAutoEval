@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Zr-sod-ZMOF-1?",
+      "answer": "C324H544N60O92Zr6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system and space group does Zr-sod-ZMOF-2 belong to?",
+      "answer": "Cubic, Im-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the argon sorption isotherm for Zr-sod-ZMOF-1 conducted?",
+      "answer": "87 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the BET surface area of Zr-sod-ZMOF-1 determined from nitrogen or argon adsorption?",
+      "answer": "Argon adsorption",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main purpose of using the SQUEEZE routine in PLATON?",
+      "answer": "To account for the electron density in voids with no substantial electron density peaks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does Zr-sod-ZMOF-1 have a higher, lower, or the same calculated density compared to Zr-sod-ZMOF-2?",
+      "answer": "Lower",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Zr-sod-ZMOF-1 and Zr-sod-ZMOF-2 involves the use of DMF and acetic acid.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The 1-periodic phase crystalizes in the cubic space group.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of trifluoroacetic acid in the synthesis of Zr-sod-ZMOFs?",
+      "answer": "It is used to promote the formation of fully coordinated clusters.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area of Zr-sod-ZMOF-1 was calculated using a cryo cooler system.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the point symbol for the net of Zr-sod-ZMOF-1?",
+      "answer": "{42.64}",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of the 1-periodic phase confirmed the expected triple bridging of the clusters by the ligands.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination sequence of the csd-net?",
+      "answer": "5 12 19 31 47 69 95 116 151 188 for one node and 5 12 19 32 47 64 93 125 156 176 for the other node.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Zr-sod-ZMOFs exhibit a sod topology.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in obtaining high-quality diffraction data for Zr-sod-ZMOFs?",
+      "answer": "Significant disorder of the solvent molecules in the pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 1-periodic phase has a higher calculated density than Zr-sod-ZMOF-1 and Zr-sod-ZMOF-2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference between the sod and csd nets in Zr-sod-ZMOFs?",
+      "answer": "The csd net introduces cuboctahedra connected by trigonal prisms, while the sod net is represented by connected tetrahedra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Zr-sod-ZMOF-1 and Zr-sod-ZMOF-2 requires heating at 120 °C for 24 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the T-X-T angles in the structure of Zr-sod-ZMOFs?",
+      "answer": "They indicate the orientation of tetrahedral MBBs in the structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The porosity of Zr-sod-ZMOF-1 was examined using a nitrogen sorption experiment.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

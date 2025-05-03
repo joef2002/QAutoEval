@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound discussed in the article?",
+      "answer": "FeF3(4,4′-bpy)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature at which magnetic susceptibility data for compound 1 was collected?",
+      "answer": "300 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Fe–F–Fe intrachain interaction in FeF3(4,4′-bpy) ferromagnetic or antiferromagnetic?",
+      "answer": "Antiferromagnetic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize FeF3(4,4′-bpy)?",
+      "answer": "Hydrothermal synthesis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 4,4′-bipyridyl in the structure of FeF3(4,4′-bpy)?",
+      "answer": "It is used to separate chains.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the broad maximum in the magnetic susceptibility curve indicate about FeF3(4,4′-bpy)?",
+      "answer": "It indicates well-developed spin–spin correlations or short-range order along the chain.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The FeF3(4,4′-bpy) compound shows a long-range ordered state at temperatures down to 2 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Fe–F–Fe angle being 180° in FeF3(4,4′-bpy)?",
+      "answer": "It signifies that the iron-centered FeF4N2 octahedra share trans-F atoms to form a linear magnetic chain.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The FeF3(4,4′-bpy) compound remains paramagnetic up to 350 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a Curie tail in the magnetic susceptibility data suggest about FeF3(4,4′-bpy)?",
+      "answer": "It suggests the presence of a tiny amount of free paramagnetic spins.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The FeF3(4,4′-bpy) compound exhibits a phase transition in the specific heat data down to 2 K.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Mössbauer spectroscopy reveal about FeF3(4,4′-bpy) at 2.7 K?",
+      "answer": "It reveals a critical slowing down of the 1D fluctuations toward a possible long-range ordered state at lower temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The interchain interaction J′ in FeF3(4,4′-bpy) is significantly large.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the value of J′/J < 3.2 × 10−5 indicate about FeF3(4,4′-bpy)?",
+      "answer": "It indicates extremely small interchain interactions, making it a nearly ideal 1D antiferromagnet.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The FeF3(4,4′-bpy) compound has been found to be an ideal system for studying large-S chains.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrofluoric acid in the synthesis of FeF3(4,4′-bpy)?",
+      "answer": "It is used in the hydrothermal synthesis process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The FeF3(4,4′-bpy) compound shows a spin-Peierls transition.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the absence of a long-range ordered state in FeF3(4,4′-bpy) suggest about its magnetic properties?",
+      "answer": "It suggests that the compound has strong intrachain interactions but very weak interchain interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The FeF3(4,4′-bpy) compound is synthesized using a Teflon pouch as described by the Poeppelmeier group.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'nearly ideal 1D antiferromagnet' imply about FeF3(4,4′-bpy)?",
+      "answer": "It implies that the compound exhibits characteristics close to those expected from a theoretical one-dimensional antiferromagnet.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "Hf-MOF-808-V",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "name": "HfOCl2·8H2O",
+            "amount": "105 mg"
+          },
+          {
+            "name": "trimesic acid (H3BTC)",
+            "amount": "54 mg"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "DMF/formic acid",
+            "ratio": "1:1",
+            "volume": "20 mL"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "5 days",
+        "post_synthetic_modifications": [
+          {
+            "method": "suspension in DMF and HCl",
+            "conditions": {
+              "volume": "20 mL DMF, 0.5 mL 12 M HCl",
+              "temperature": "120 °C",
+              "time": "overnight"
+            }
+          },
+          {
+            "method": "solution-phase metalation (SIM)",
+            "precursor": "V(O)(acac)2",
+            "solvent": "methanol",
+            "concentration": "0.03 M",
+            "time": "3 days",
+            "temperature": "room temperature"
+          }
+        ],
+        "washing_method": "methanol",
+        "drying_method": "air dry",
+        "color_change": "white to yellow"
+      }
+    },
+    {
+      "name": "Zr-NU-1000-V",
+      "synthesis_conditions": {
+        "precursors": [
+          {
+            "details": "Prepared using published procedures with diethylformamide as the solvent and small amount of trifuoroacetic acid as the modulator."
+          }
+        ],
+        "post_synthetic_modifications": [
+          {
+            "method": "solution-phase metalation (SIM)",
+            "precursor": "V(O)(acac)2",
+            "solvent": "methanol",
+            "concentration": "0.03 M",
+            "time": "3 days",
+            "temperature": "room temperature"
+          }
+        ],
+        "washing_method": "methanol",
+        "drying_method": "air dry",
+        "color_change": "yellow to dark yellow"
+      }
+    }
+  ]
+}

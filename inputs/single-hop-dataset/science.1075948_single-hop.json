@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the synthesis temperature for 1⋅(EtOH) at 150 K?",
+      "answer": "150 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of radiation and gas cryostreams were used for diffraction data collection of 1⋅(EtOH)?",
+      "answer": "Mo-K radiation and nitrogen gas and helium gas cryostreams",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the crystal structure for 1 at 375 K remain stable?",
+      "answer": "140°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of heating 1⋅(EtOH) on its crystal structure?",
+      "answer": "Heating 1⋅(EtOH) causes a scissors-like motion of the interpenetrating grids, elongation and constriction of the 1-D channels, and a slippage of the grids.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest desorption process in 1⋅(EtOH) reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What phenomenon is observed in 1⋅(EtOH) below 150 K?",
+      "answer": "A 50% spin crossover is observed in 1⋅(EtOH) below 150 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the magnetic moments of 1⋅(EtOH) as the temperature is lowered?",
+      "answer": "The magnetic moments decrease, indicating a transition of one of the Fe(II) sites to the low-spin state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the desorbed phase 1 show spin crossover behavior?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of immersing 1 in anhydrous methanol?",
+      "answer": "Immersing 1 in anhydrous methanol results in spin crossover behavior similar to 1⋅(EtOH), but without the sharp increase at ca. 140 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does the 1⋅(EtOH) system demonstrate?",
+      "answer": "The 1⋅(EtOH) system demonstrates the ability to retain the parent framework structure during guest desorption and resorption cycles, with considerable changes in the framework geometry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the observed seismicity at the propagating tip of the Galapagos Rise in Hess Deep?",
+      "answer": "The seismicity indicates low-magnitude seismic activity concentrated at the propagating tip, which provides insights into the dynamics of ridge propagation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the fracture energy required for ridge propagation relate to crack length and process zone size?",
+      "answer": "The fracture energy required for propagation scales with crack length and process zone size, suggesting that ridges can propagate stably in the brittle crust without exceptional resisting forces.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the seismic activity in Hess Deep similar to the process zone of laboratory-scale propagating tensile cracks?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the hydroacoustic monitoring in the eastern equatorial Pacific Ocean reveal about ridge earthquake magnitudes?",
+      "answer": "The hydroacoustic monitoring reveals low-magnitude seismicity at the propagating tip of the Galapagos Rise in Hess Deep, typically below the teleseismic network's detection threshold.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the implications of the observed patterns of seismicity and faulting in Hess Deep for models based on the linear elastic fracture mechanics approach?",
+      "answer": "The observed patterns challenge previous models based on the linear elastic fracture mechanics approach by providing real-world data on the dynamics of ridge propagation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Galapagos Rise volcanic ridge intersect with the East Pacific Rise according to multibeam bathymetry data?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What geological features bound Hess Deep?",
+      "answer": "Hess Deep is bounded by two major normal faulted margins.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the propagation rate of the Galapagos Rise compare to the spreading rate of the East Pacific Rise?",
+      "answer": "The Galapagos Rise is propagating at a slower rate compared to the spreading rate of the East Pacific Rise.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of low-magnitude seismicity at the propagating tip of the Galapagos Rise suggest about the process of lithospheric rifting and mid-ocean ridge propagation?",
+      "answer": "The presence of low-magnitude seismicity suggests active geological processes at the propagating tip, providing insights into the mechanisms of lithospheric rifting and mid-ocean ridge propagation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does hydroacoustic monitoring play in the study of mid-ocean ridge propagation?",
+      "answer": "Hydroacoustic monitoring plays a crucial role in detecting low-magnitude seismic events that are not captured by teleseismic networks, thus enhancing the understanding of mid-ocean ridge propagation dynamics.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

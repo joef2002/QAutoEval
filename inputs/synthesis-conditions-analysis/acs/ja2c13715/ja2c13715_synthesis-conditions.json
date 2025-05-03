@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "NU-2002",
+      "synthesis_conditions": [
+        {
+          "step": "Hydrothermal synthesis for single crystals",
+          "temperature": "200 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "2 mL"
+            }
+          ],
+          "equipment": "23 mL Teflon-lined stainless-steel Parr vessel",
+          "chemicals_used": [
+            {
+              "name": "AlCl3·6H2O",
+              "amount": "137 mg"
+            },
+            {
+              "name": "BPDCA linker",
+              "amount": "109 mg"
+            }
+          ],
+          "safety_caution": "Parr vessels are equipped with a rupture disc for safety. Do not use without a safety rupture disc."
+        },
+        {
+          "step": "Synthesis for bulk powder",
+          "temperature": "200 °C",
+          "time": "overnight",
+          "solvents": [
+            {
+              "name": "deionized water",
+              "amount": "15 mL"
+            }
+          ],
+          "equipment": "100 mL Teflon-lined stainless steel Parr vessel",
+          "chemicals_used": [
+            {
+              "name": "AlCl3",
+              "amount": "600 mg"
+            },
+            {
+              "name": "BPDCA",
+              "amount": "300 mg"
+            },
+            {
+              "name": "NaOH",
+              "amount": "120 mg"
+            }
+          ],
+          "washing_method": "washed with DI water, DMF, and acetone 3 times each"
+        }
+      ]
+    },
+    {
+      "name": "MIL-53",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "200 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "5 mL"
+            }
+          ],
+          "equipment": "23 mL Teflon-lined stainless-steel Parr vessel",
+          "chemicals_used": [
+            {
+              "name": "Al(NO3)3•9H2O",
+              "amount": "1300 mg"
+            },
+            {
+              "name": "benzene-1,4-dicarboxylic acid (BDC)",
+              "amount": "288 mg"
+            }
+          ],
+          "drying_method": "dried at 85 °C for 2 hours",
+          "calcination": "calcined for 3 days at 300 °C"
+        }
+      ]
+    }
+  ]
+}

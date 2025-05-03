@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are metal-organic frameworks (MOFs)?",
+      "answer": "MOFs are coordination polymers that have attracted interest for their ability to control or fine-tune physical properties and reactivity.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of 2D coordination polymers is highlighted in the text?",
+      "answer": "2D coordination polymers show dynamic behavior, gate opening properties, provide platform for various surface conversions and selective guest trapping.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the solid-state transformations from 2D to 3D frameworks?",
+      "answer": "Solid-state transformations can be achieved by heat, light, guest removal, or uptake.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 4-styrylpyridine (4-spy) in the synthesis of photoreactive interdigitated layered coordination polymers?",
+      "answer": "4-styrylpyridine (4-spy), which contains a C=C bond, is used as an ideal terminal ligand for making pillars in the layered 2D coordination polymeric structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of UV irradiation on the compound [Zn2(cca)2(4-spy)2]?",
+      "answer": "UV irradiation leads to 100% conversion of 4-spy ligand into 1,3-bis(4’-pyridyl)-2,4-bis(phenyl)cyclobutane (rctt-4-ppcb), confirming the photodimerization reaction.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structural outcome of the photodimerization reaction in the compound [Zn2(cca)2(4-spy)2]?",
+      "answer": "The photodimerization reaction results in the formation of a triply interpenetrated 3D pillared-layer coordination polymer with a primitive cubic topology.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the isostructural relationship between cca and ndc ligands significant?",
+      "answer": "The isostructural relationship between cca and ndc ligands is significant because it allows for the synthesis of structures that are similar in behavior and photo-reactivity, expanding the possibilities for creating new MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of the cyclobutane ring affect the structure after photodimerization?",
+      "answer": "The formation of the cyclobutane ring restricts the dangling movement of the benzene ring, removing the disorder in this part of the structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the alignment of 4-spy ligands in the solid-state photodimerization reactions?",
+      "answer": "The alignment of 4-spy ligands is significant because it follows Schmidt’s topochemical criteria for [2+2] photochemical cycloaddition reaction in the solid state, enabling the structural transformation of interdigitated 2D layers into 3D interpenetrated structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the disorder in the cca ligand indicate about the structure of the MOF?",
+      "answer": "The disorder in the cca ligand, due to crystallographic inversion symmetry, indicates that there is a structural complexity within the MOF, which can affect its properties and behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis of [Zn2(ndc)2(4-spy)2] compare to that of [Zn2(cca)2(4-spy)2]?",
+      "answer": "The synthesis of [Zn2(ndc)2(4-spy)2] is similar to that of [Zn2(cca)2(4-spy)2], but uses K2ndc instead of Na2cca, resulting in a structure that is isomorphous and isostructural to the latter.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of UV irradiation on the compound [Zn2(ndc)2(4-spy)2]?",
+      "answer": "UV irradiation leads to 100% dimerization of 4-spy, similar to the outcome observed for [Zn2(cca)2(4-spy)2], indicating that the structural transformation is consistent across different ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from 2D to 3D structures in MOFs reversible?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the disorder in the cca ligand be completely removed by the photodimerization reaction?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound [Zn2(ndc)2(4-spy)2] non-photoreactive?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structural transformation of MOFs require the presence of a guest molecule?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the isostructural relationship between cca and ndc ligands unique to MOFs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the photodimerization reaction always result in a decrease in cell volume?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are 2D coordination polymers incapable of undergoing solid-state transformations?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the use of 4-styrylpyridine (4-spy) as a terminal ligand a novel approach in the synthesis of MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the spongelike MOF material discussed?",
+      "answer": "[Mn(Me-ip)(DMF)]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property does the amorphous phase of the MOF material exhibit?",
+      "answer": "Sensing ability towards DMF molecules",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal-to-amorphous-to-crystal (CAC) phase transition reversible in the discussed MOF material?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum magnetocaloric effect (MCE) value reported for the MOF material?",
+      "answer": "42.41 J kg-1 K-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the desolvated MOF material be recovered in solvents other than DMF?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the isotropic transition-metal MnII ions in the MOF material?",
+      "answer": "They were selected to construct materials with a high magnetocaloric effect due to their abundance and low cost.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF material exhibit ferroelectric behavior?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the MOF material's structure upon removal of solvent molecules?",
+      "answer": "It collapses into an amorphous state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF material porous?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination environment of the central MnII ion in the MOF material?",
+      "answer": "A distorted octahedron with four carboxylate oxygens from three bridging Me-ip2- anions in the equatorial plane, one carboxylate oxygen atom from one Me-ip2- ligand, and one oxygen from the DMF molecule at the axial position.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Mn–Mn distance within the chain of the MOF material?",
+      "answer": "3.875 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF material exhibit a second harmonic generation response?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the DMF removal/recovery process on the MOF material?",
+      "answer": "It indicates a high degree of reversibility and suggests that a crystal-to-amorphous-to-crystal phase transition takes place reversibly.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Weiss constant of the MOF material after desolvation?",
+      "answer": "-19.26 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the MOF material's amorphous phase be recovered by immersing in mixed solvents of DMF and other common organic solvents?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the LiNO3 in the synthesis of the MOF material?",
+      "answer": "The text does not provide specific information on the role of LiNO3 in the synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Δ values in the IR spectroscopic analysis of the MOF material?",
+      "answer": "The Δ values are used as a spectroscopic criterion to determine the mode of the carboxylate binding.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF material exhibit a strong SHG response?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the DMF-induced 'shrinking-breathing' dynamic effect on the MOF material?",
+      "answer": "It suggests that a crystal-to-amorphous-to-crystal phase transition takes place reversibly during the cycles of de-DMF and re-DMF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF material discussed the first MnII-based MOF to exhibit a large magnetocaloric effect?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

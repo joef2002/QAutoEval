@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the microporous metal-organic framework discussed for high CH4 storage?",
+      "answer": "ZJU-25",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology type of ZJU-25?",
+      "answer": "sty topology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula for the organic linker used in the synthesis of ZJU-25?",
+      "answer": "H4FDDI",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pressure did ZJU-25 achieve the DOE target for methane storage?",
+      "answer": "At room temperature and 35 bar",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to measure the N2 sorption isotherms for ZJU-25?",
+      "answer": "Micromeritics ASAP 2020 surface area analyzer",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of ZJU-25?",
+      "answer": "2124 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the methane storage capacity of ZJU-25 compared to the DOE target?",
+      "answer": "ZJU-25 met the DOE methane storage target of 180 cm3(STP) cm-3 at 300 K and 35 bar.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of open metal sites in ZJU-25 for methane storage?",
+      "answer": "Open metal sites in ZJU-25 facilitate strong recognition and adsorption of methane molecules, contributing to its high methane storage capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the methane storage capacity of ZJU-25 saturated at 35 bar?",
+      "answer": "No, the methane storage capacity of ZJU-25 is not saturated at 35 bar and can be further increased under higher pressure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the initial isosteric heat of CH4 adsorption in ZJU-25?",
+      "answer": "Approximately 15.1 kJ/mol",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZJU-25 has a lower BET surface area compared to MOF-505 due to its longer linker.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The volumetric methane storage capacity of ZJU-25 surpasses most examined porous MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The primary CH4 adsorption sites in ZJU-25 can take up about 45 cm3 cm-3 at room temperature and 35 bar.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The pore sizes in ZJU-25 are unfavorable for methane storage.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: ZJU-25's methane storage capacity is attributed solely to its high porosity.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of ZJU-25 involves a solvothermal method.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the SQUEEZE process in the structural analysis of ZJU-25?",
+      "answer": "The SQUEEZE process was used to remove the scattering from highly disordered guest molecules in ZJU-25.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the heating rate used in the thermogravimetric analyses (TGA) for ZJU-25?",
+      "answer": "10 °C/min",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystallographic data for ZJU-25 was collected at room temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system identified for ZJU-25?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

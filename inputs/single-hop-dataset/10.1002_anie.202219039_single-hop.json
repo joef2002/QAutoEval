@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the two light modulated adsorbents (LMAs) reported in the study?",
+      "answer": "LMA-1 and LMA-2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What stimulus causes the LMAs to undergo a transformation from non-porous to porous?",
+      "answer": "Pressure",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of irradiating LMA-1 with light on its CO2 uptake?",
+      "answer": "Irradiation of LMA-1 results in a 55% maximum reduction of CO2 uptake at 298 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Both LMA-1 and LMA-2 exhibit multi-step adsorption isotherms.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bis-3-thienylcyclopentene (BTCP) ligand in the LMAs?",
+      "answer": "The BTCP ligand is light responsive and enables the switching transformation of the LMAs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformation of BTCP from ring-open to ring-closed is reversible.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to LMA-1 when it is soaked in dichloromethane (DCM)?",
+      "answer": "It undergoes rapid striation and transformation to a new phase, LMA-1-β.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The transformation of LMA-1-α to LMA-1-β results in an increase in unit cell volume.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of heat or vacuum on LMA-1-β and LMA-2-α?",
+      "answer": "They undergo an additional structural transformation to non-porous forms LMA-1-γ1 and LMA-2-γ1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The transformation of LMA-1-γ1 under UV light is associated with a color change from colorless to dark blue.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the threshold pressure for LMA-1-γ2 to undergo a switching phase transition with CO2?",
+      "answer": "0.02 bar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: LMA-2-γ2 undergoes a 3-step transformation upon exposure to C2H2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of fluorine substitution in the DPT ligand on the sorption properties of LMA-2 compared to LMA-1?",
+      "answer": "Fluorine substitution in the DPT ligand influences the sorption properties, making LMA-2 undergo single-step conversion with an inflection at higher partial pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ring-closed form of LMA-1-γ2-UV is stable and not subject to structural reopening under the pressure range studied.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to study the experimental crystal structures of LMA-1-α, LMA-1-β, and LMA-2-α?",
+      "answer": "Periodic density functional theory (DFT) electronic structure minimizations",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The relaxation calculations showed that LMA-2-α has a readily accessible energy landscape for different phases similar to LMA-1.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the central DPT linker's position in LMA-1-α's crystal structure?",
+      "answer": "Its position along the a-axis and the ability to rotate facilitates the optimization into a g-like structure during the transformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study presents the first example of light modulated adsorbents (LMAs) that switch in response to multiple stimuli and have light-responsive components incorporated into the backbone of the PCN.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the working capacity for LMA-1-γ2 in the range of 0.1–1 bar?",
+      "answer": "67 cc g-1 (STP)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the study suggest about the development of light-responsive PCNs in gas storage?",
+      "answer": "The study serves as a proof of concept for the development of light-responsive PCNs in gas storage, suggesting an energy-efficient method of desorption under ambient conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

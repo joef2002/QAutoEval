@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound synthesized in the experiment?",
+      "answer": "C28H34N5Ni",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for the structural determination of the synthesized compounds?",
+      "answer": "X-ray crystallography",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the crystal system of the compound with the empirical formula C28H34N5Ni?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What software was used for spectral simulation and analysis in EPR?",
+      "answer": "Easyspin",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a Teflon washer and Kapton tape in the preparation of powder samples for X-ray absorption measurements?",
+      "answer": "To seal the powder samples on one side with Kapton tape, compact them with a Teflon rod, and then seal the remaining face with Kapton tape, ensuring the samples are prepared under an inert atmosphere.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main finding from the X-ray absorption near-edge spectra (XANES) and Extended Absorption Fine Structure (EXAFS) studies?",
+      "answer": "The studies were employed to probe the local environment around Ni in the synthesized compounds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of AgOTf in the synthesis of the compound [tBu,TolDHP]NiOTf?",
+      "answer": "AgOTf was added to a stirring THF solution of the precursor compound, resulting in an immediate color change from dark purple to dark blue, indicating the formation of [tBu,TolDHP]NiOTf.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound [tBu,TolDHP]NiO2 was synthesized by bubbling air through a solution of its precursor in benzene.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using different solvents like benzene and THF in the UV-visible spectroscopy studies?",
+      "answer": "The use of different solvents like benzene and THF in UV-visible spectroscopy studies was to observe the solvent dependence of the low energy feature in the UV-visible spectrum of the synthesized compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The oxidation of benzyl alcohol to benzaldehyde by the synthesized compound was monitored using 1H NMR spectroscopy.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of DFT calculations in the study?",
+      "answer": "DFT calculations were performed to optimize geometries, confirm the structures as minima on the potential energy surface, generate spin density plots, and compare calculated bond lengths with those obtained from EXAFS fitting.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the reaction between the synthesized compound and diphenylhydrazine (DPH)?",
+      "answer": "The reaction between the synthesized compound and diphenylhydrazine (DPH) resulted in the formation of azobenzene, indicating slow H-atom transfer reactivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesized compounds were characterized using techniques such as NMR, IR, EPR, UV-visible spectroscopy, electrochemistry, and X-ray crystallography.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of conducting electrochemical measurements in the study?",
+      "answer": "Electrochemical measurements were conducted to investigate the redox behavior of the synthesized compounds and probe the reversibility of O2 binding and activation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The oxidation state of Ni did not change during the formation of the Ni superoxo species from its precursor.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main goal of the research article?",
+      "answer": "The main goal of the research article was to demonstrate the activation of O2 via ligand-based redox to generate a Ni superoxo species and investigate its oxidative reactivity, including stoichiometric C–H activations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesized Ni superoxo species was capable of mediating oxidative reactions including the conversion of alcohols to aldehydes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using TD-DFT calculations in the study?",
+      "answer": "TD-DFT calculations were used to predict the UV-visible spectrum of the synthesized Ni superoxo species, allowing for a comparison between calculated and experimentally determined UV-visible spectra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized compounds exhibited ligand-based redox activity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of oxygen in the synthesis of the Ni superoxo complex?",
+      "answer": "Oxygen played a crucial role in the synthesis of the Ni superoxo complex by reacting with the precursor compound in the presence of air or pure O2, leading to the formation of the superoxo species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

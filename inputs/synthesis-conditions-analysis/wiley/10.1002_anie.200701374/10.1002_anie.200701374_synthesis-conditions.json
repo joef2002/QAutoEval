@@ -1,0 +1,189 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "method": "diffusion process",
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "4 mL"
+          },
+          {
+            "name": "distilled water",
+            "amount": "5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tmdpy",
+            "amount": "0.0510 g"
+          },
+          {
+            "name": "Cd(NO3)2·4 H2O",
+            "amount": "0.151 g"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "0.0258 g"
+          },
+          {
+            "name": "d-camphoric acid",
+            "amount": "0.0570 g"
+          }
+        ],
+        "time": "several days",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "method": "single-crystal to single-crystal transformation",
+        "temperature": "100 8C",
+        "time": "10 min",
+        "atmosphere": "air",
+        "starting_material": "single crystal of 1",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "temperature": "140 8C",
+        "solvent": "distilled water",
+        "amount_of_solvent": "8.0229 g",
+        "equipment": "23-mL teflon cup",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4H2O",
+            "amount": "0.1545 g"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "0.0518 g"
+          },
+          {
+            "name": "tmdpy",
+            "amount": "0.1023 g"
+          },
+          {
+            "name": "d-camphoric acid",
+            "amount": "0.1075 g"
+          }
+        ],
+        "time": "3 days",
+        "yield": "78 %",
+        "alternative_conditions": [
+          {
+            "temperature": "160 8C",
+            "time": "3 days"
+          },
+          {
+            "method": "heating crystals of 1 in air",
+            "temperature": "140 8C",
+            "time": "20 min"
+          }
+        ]
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "temperature": "140 8C",
+        "solvent": "distilled water",
+        "amount_of_solvent": "8.2459 g",
+        "equipment": "23-mL teflon cup",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4 H2O",
+            "amount": "0.1453 g"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "0.0502 g"
+          },
+          {
+            "name": "tmdpy",
+            "amount": "0.0983 g"
+          },
+          {
+            "name": "d-camphoric acid",
+            "amount": "0.0995 g"
+          }
+        ],
+        "time": "36 h",
+        "yield": "56 %",
+        "alternative_conditions": [
+          {
+            "temperature": "100 8C",
+            "time": "2 days"
+          }
+        ]
+      }
+    },
+    {
+      "name": "5",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "temperature": "140 8C",
+        "solvent": "distilled water",
+        "amount_of_solvent": "8.3002 g",
+        "equipment": "23-mL teflon cup",
+        "chemicals_used": [
+          {
+            "name": "Cd(NO3)2·4 H2O",
+            "amount": "0.1503 g"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "0.0495 g"
+          },
+          {
+            "name": "tmdpy",
+            "amount": "0.0992 g"
+          },
+          {
+            "name": "dl-camphoric acid",
+            "amount": "0.10033 g"
+          }
+        ],
+        "time": "36 h",
+        "yield": "85 %"
+      }
+    },
+    {
+      "name": "6",
+      "synthesis_conditions": {
+        "method": "hydrothermal synthesis",
+        "temperature": "140 8C",
+        "solvent": "distilled water",
+        "amount_of_solvent": "8.0233 g",
+        "equipment": "23-mL teflon cup",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.1535 g"
+          },
+          {
+            "name": "Na2CO3",
+            "amount": "0.0487 g"
+          },
+          {
+            "name": "tmdpy",
+            "amount": "0.1003 g"
+          },
+          {
+            "name": "d-camphoric acid",
+            "amount": "0.1023 g"
+          }
+        ],
+        "time": "72 h",
+        "yield": "64 %"
+      }
+    }
+  ]
+}

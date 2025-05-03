@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the compound studied under high-pressure conditions?",
+      "answer": "(C22H12N2O8Zn2)n·X(C2H6O), (C22H12N2O8Zn2)n·X(C3H7NO), (C22H12N2O8Zn2)n·2n(C6H6)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what pressure does the EtOH-included material undergo a phase transition from P4/mmm to C2/m?",
+      "answer": "0.69 GPa",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of pressure on the DMF-included material?",
+      "answer": "It undergoes a guest-mediated phase transition from I4/mcm to P4/mmm at 0.33 GPa via disordering of the DMF guest.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the benzene-included framework undergo any phase transitions under high pressure?",
+      "answer": "No, it does not undergo any pressure-induced structural phase transitions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the EtOH-included material when compressed in a pressure-transmitting medium of Fluorinert® FC-70?",
+      "answer": "The crystal of the EtOH-included material becomes amorphous at the initial loading pressure of 0.1 GPa.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of EtOH in the structural resilience of the framework under pressure?",
+      "answer": "Pressure-induced intrusion of EtOH into the framework pores during compression increases the mechanical stability of the material, delaying onset of amorphisation to >2.10 GPa.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase transition in the DMF-included material observed when compressed in a non-penetrating medium?",
+      "answer": "No, the phase transition is not observed when the DMF-included material is compressed in a non-penetrating medium.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural change occurs in the EtOH-included material above 0.69 GPa?",
+      "answer": "The structure changes from a P4/mmm 'square' motif to a C2/m 'rhombus' motif.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of benzene affect the framework's response to pressure?",
+      "answer": "The presence of benzene in the pores generates a framework with rhombus-shaped channels and alters the response of the MOF to pressure, causing direct compression of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the DMF guest molecules be directly modeled in the crystal structure of the DMF-included material under high pressure?",
+      "answer": "No, the DMF guest molecules become extensively dynamically disordered and cannot be directly modeled in the crystal structure under high pressure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the phase transition observed in the EtOH-included material?",
+      "answer": "The phase transition is significant because it is mediated by EtOH inclusion at high-pressure, indicating the importance of host–guest interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the unit cell volume of the benzene-included framework under pressure?",
+      "answer": "The unit cell volume of the benzene-included framework decreases slightly under pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the phase transition in the DMF-included material reversible?",
+      "answer": "The text does not provide information on the reversibility of the phase transition in the DMF-included material.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest molecules on the high-pressure phase behavior of flexible MOFs?",
+      "answer": "The nature and quantity of guest molecules have a large influence on the high-pressure phase behavior of flexible MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of host–guest interactions in the structural response of MOFs to compression?",
+      "answer": "Host–guest interactions are crucial in determining the structural response of MOFs to compression, affecting the framework's flexibility and phase transitions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of DMF in the framework pores influence the mechanical stability of the material under pressure?",
+      "answer": "Yes, the presence of DMF in the framework pores appears to impart a degree of mechanical stability to the material, preventing immediate collapse of the framework.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of pressure on the DMF-included material when compressed in DMF as the pressure-transmitting medium?",
+      "answer": "When compressed in DMF as the pressure-transmitting medium, the DMF-included material undergoes a phase transition and shows an increase in the calculated pore volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of the EtOH-included material change under high pressure?",
+      "answer": "Under high pressure, the structure of the EtOH-included material changes from a square motif to a more voluminous phase with rhombus-shaped pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the phase transition in the EtOH-included material?",
+      "answer": "The phase transition in the EtOH-included material is triggered by the 'super-filling' of the channels with EtOH from the pressure-transmitting medium.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase transition observed in the DMF-included material driven by direct compression?",
+      "answer": "No, the phase transition observed in the DMF-included material is not driven by direct compression but by pressure-induced intrusion of the DMF medium into the framework channels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

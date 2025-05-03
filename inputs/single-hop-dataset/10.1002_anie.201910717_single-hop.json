@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main design strategy introduced for evolving the topology of highly connected rare-earth metal-organic frameworks (RE-MOFs)?",
+      "answer": "Molecular pivot-hinge installation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the symmetry of the pivot group in the linker L-SO2 used in the synthesis of a new MOF topology?",
+      "answer": "C2v symmetry.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What topology is formed when combining L-SO2 with 12-connected RE9 clusters?",
+      "answer": "(4,12)-c dfs topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What change in stacking behavior is observed when replacing L-SO2 with a tetrahedral linker L-O?",
+      "answer": "The stacking behavior switches from an eclipsed mode to a staggered stacking mode.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What topology results from the combination of the RE cluster and a linker [(L-(CH3)6)] with more bulky groups?",
+      "answer": "Flu topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the dfs topology of PCN-905-SO2 derived from the aea-MOF-1?",
+      "answer": "True.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the linker L-O lead to the discovery of an hjz topology?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dfs net constructed from 2D layers pillared by 12-c RE9 clusters?",
+      "answer": "False.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of replacing the pivot group with an -O- unit in the linker?",
+      "answer": "It alters the linker symmetry and decreases it to C1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystallographic space group of PCN-905-SO2?",
+      "answer": "Hexagonal space group P6/mmm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the dihedral angle between the two central phenyl rings in the linker L-SO2 within PCN-905-SO2?",
+      "answer": "104.388 degrees.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the introduction of molecular pivot groups and substituents into rotamers induce the formation of novel flexible topologies?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the diversity of RE-MOFs be enhanced through post-synthetic installation of linkers with various functional groups?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the thermal decomposition of PCN-90X(RE) series starting at around 250 degrees Celsius?",
+      "answer": "False.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 2-fluorobenzoic acid (2-FBA) in the synthesis of PCN-905-SO2?",
+      "answer": "It induces the in situ formation of polynuclear RE clusters (RE6 or RE9) for the construction of extended MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the point symbol of the dfs net determined by TOPOS 4.0?",
+      "answer": "{442.624}{46}3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the dfs net represent a rare RE-MOF with mesoporosity and flexibility?",
+      "answer": "True.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of bulky methyl groups on the dihedral angle between the two hinges in the linker?",
+      "answer": "It generates larger dihedral angles and forces two peripheral phenyl rings perpendicular to the central one.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of PCN-908-(CH3)6?",
+      "answer": "Triclinic space group P(1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the linker L-O configuration change leading to a staggered stacking mode of hcb layers in PCN-906-O?",
+      "answer": "True.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

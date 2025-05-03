@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main challenge in regulating interpenetration of networks in MOFs?",
+      "answer": "The main challenge is how to prevent one network from interpenetrating through the cavities of another, known as catenation isomerism, which reduces porosity and limits the ability to encapsulate guest molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do counterions play in the formation of MOFs according to the study?",
+      "answer": "Counterions can control geometry and interpenetration of MOFs by partially blocking the MOF cavities through interactions such as CH...anion and/or anion-π interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of ClO4- ions affect the formation of the square-grid MOF?",
+      "answer": "ClO4- ions occupy the cavities of the square-grid MOF by forming CH...anion interactions with DPNDI ligands, preventing interpenetration of networks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the difference in the products formed when using Zn(ClO4)2 and Zn(NO3)2 with DPNDI under identical conditions?",
+      "answer": "Using Zn(ClO4)2 with DPNDI forms a non-interpenetrated square-grid MOF, while using Zn(NO3)2 with DPNDI forms a linear coordination polymer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What potential application of anion-templated MOFs is mentioned in the study?",
+      "answer": "Anion-templated MOFs could be used for the exchange and sequestration of hazardous anions inside the cavities.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The square-grid MOF possesses smaller pores compared to Yaghi’s railroad-like MOF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What interactions do NO3- ions participate in within the coordination polymer formed?",
+      "answer": "NO3- ions participate in anion-π interactions with the electron-deficient imide rings of DPNDI ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The square-grid MOF loses its crystallinity after the loss of solvent molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability range of the square-grid MOF?",
+      "answer": "The square-grid MOF is fairly stable up to 375 °C even after the loss of solvent molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that solvent, temperature, and concentration have no effect on the formation of MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

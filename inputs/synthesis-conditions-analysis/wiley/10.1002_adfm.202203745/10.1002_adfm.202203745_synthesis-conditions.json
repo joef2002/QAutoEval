@@ -1,0 +1,47 @@
+{
+  "materials": [
+    {
+      "name": "NTU-67",
+      "synthesis_conditions": [
+        {
+          "step": "Crystal transformation",
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "alkaline aqueous solution",
+              "pH": "12",
+              "amount": "8 mL"
+            }
+          ],
+          "equipment": "glass bottle",
+          "chemicals_used": [
+            {
+              "name": "NaOH",
+              "purpose": "pH adjustment"
+            }
+          ],
+          "time": "1 week",
+          "washing_method": "ethanol/water (1/1)",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "NTU-65",
+      "synthesis_conditions": [
+        {
+          "step": "Not specified",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "Not specified",
+          "time": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified",
+          "yield": "Not specified"
+        }
+      ]
+    }
+  ]
+}

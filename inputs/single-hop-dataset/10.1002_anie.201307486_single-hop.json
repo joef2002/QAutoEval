@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are metal-organic polyhedra (MOPs) generally constructed from?",
+      "answer": "Metal ions as nodes and organic ligands as linkers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What significant advantage do soluble MOPs have over extended MOF structures?",
+      "answer": "Soluble MOPs can approach the target to its closest proximity, helping the host cages to effectively encapsulate and transport guest molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What transformation is reported in the text?",
+      "answer": "The hydrolytic conversion of a MOP into a MOF.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of changing the volumetric ratio of DMF/EtOH from 2:1 to 1:1 in the synthesis process?",
+      "answer": "It caused the formation of a less crystalline and flakelike form of the MOP, 2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to MOP crystals when heated in water at 120 8C for 1 hour?",
+      "answer": "They undergo conversion into hexagonal crystals of 3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why could compound 3 not be synthesized directly by the treatment of 5PIA with different CuII salts?",
+      "answer": "Despite several attempts, the direct synthesis of 3 by treating 5PIA with different CuII salts was unsuccessful.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proposed mechanism for the hydrolytic conversion of a MOP into a MOF?",
+      "answer": "The mechanism involves the unfolding of the polyhedral structure in the presence of water, leading to the rearrangement and formation of a MOF.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the solvent molecules coordination differ between compound 1 and Cu(pi)?",
+      "answer": "In compound 1, H2O molecules coordinate to the axial sites of the Cu–Cu paddle-wheel SBU, whereas in Cu(pi), Cu atoms at the inner sites are coordinated to water molecules and at the outer sites to methanol molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the presence of the Cu–Cu paddle-wheel structure in solution?",
+      "answer": "The UV/Vis spectrum of 1 and 2 in DMF, which was different from that of Cu(NO3)2 in solution.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the water stability and hydrophilic nature of the pores in compound 3 indicate?",
+      "answer": "It indicates that compound 3 has a capacity for water- and methanol-vapor adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the hydrophobic and hydrophilic channels in compound 3?",
+      "answer": "These channels are a result of the unfolding of the MOP and contain propargyloxy groups inside, contributing to the material's adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of propargyloxy functionality affect the interconversion of MOPs in water?",
+      "answer": "The propargyloxy functionality creates a hydrophobicity gradient that triggers the unfolding and conversion of MOPs into MOFs when placed in water.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conversion of MOPs into MOFs a simple recrystallization phenomenon?",
+      "answer": "False, it involves breaking, rearrangement, and reformation of labile metal-organic bonds.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can water molecules readily diffuse into the cage of MOPs, triggering structural transition?",
+      "answer": "True, due to the porous structure of MOPs, water molecules can diffuse into the cage and trigger structural transition.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the hydrophobicity gradient necessary for the interconversion of MOPs in water?",
+      "answer": "True, the difference in hydrophobicity between the interior and exterior surface of MOP cages is crucial for their interconversion in water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of caffeine inside the MOP cages prevent their conversion into MOFs?",
+      "answer": "False, the encapsulated caffeine does not prevent the MOP-to-MOF conversion and is gradually released during the process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the MOP particles observed in TEM imaging approximately 3–4 nm in diameter?",
+      "answer": "True, TEM imaging indicated the presence of polyhedral MOP particles of approximately 3–4 nm in diameter.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area of compound 3 lower than that of compound 1?",
+      "answer": "False, compound 3 showed a BET surface area of 92 m2 g-1, indicating it has a higher surface area compared to compound 1.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the conversion of MOPs into MOFs occur only in the presence of water?",
+      "answer": "True, the conversion of MOPs into MOFs is triggered by the presence of water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the chemical behavior of compound 2 similar to that of compound 1?",
+      "answer": "True, studies suggested that the chemical composition, metal–ligand binding, and chemical behavior of 2 were similar to those of 1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

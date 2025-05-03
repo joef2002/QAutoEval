@@ -1,0 +1,80 @@
+{
+  "materials": [
+    {
+      "material_id": 1,
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "1120 molar ratio"
+          }
+        ],
+        "equipment": "Teflon-lined autoclaves (23-mL capacity)",
+        "chemicals_used": [
+          {
+            "name": "THFTCA",
+            "amount": "1 molar ratio"
+          },
+          {
+            "name": "CoCl2",
+            "amount": "6 molar ratio"
+          },
+          {
+            "name": "NaOH",
+            "purpose": "pH modification to 5.5"
+          }
+        ],
+        "time": "3 days",
+        "yield": "beautiful cuboctahedral crystals, purple"
+      }
+    },
+    {
+      "material_id": 2,
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "1490 molar ratio"
+          }
+        ],
+        "equipment": "Teflon-lined autoclaves (23-mL capacity)",
+        "chemicals_used": [
+          {
+            "name": "THFTCA",
+            "amount": "1 molar ratio"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "9 molar ratio"
+          },
+          {
+            "name": "NaOH",
+            "purpose": "pH modification to 5.5"
+          }
+        ],
+        "time": "3 days",
+        "yield": "beautiful cuboctahedral crystals, colorless",
+        "elemental_analysis": {
+          "Zn": {
+            "measured": "36.36%",
+            "calculated": "35.93%"
+          },
+          "C": {
+            "measured": "16.41%",
+            "calculated": "16.26%"
+          },
+          "H": {
+            "measured": "2.702%",
+            "calculated": "2.4%"
+          },
+          "Na": {
+            "measured": "<0.1%",
+            "calculated": "0.0%"
+          }
+        }
+      }
+    }
+  ]
+}

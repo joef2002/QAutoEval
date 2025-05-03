@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "material": "Ni2(4,4‘-bipyridine)3(NO3)4·2CH3OH",
+      "synthesis_conditions": {
+        "temperature": "353 K",
+        "pressure": "10^-5 Pa",
+        "time": "24 h",
+        "equipment": "IGA system",
+        "solvent": "methanol vapor",
+        "solvent_temperature": "293 K",
+        "relative_pressure": "p/p0 with computer-controlled pressure setting",
+        "x-ray_diffraction_temperature": "293 K",
+        "x-ray_diffraction_equipment": "Stoe Stadi-P diffractometer",
+        "x-ray_diffraction_radiation": "Cu Kα1 radiation from a germanium monochromator"
+      }
+    },
+    {
+      "material": "Ni2(4,4‘-bipyridine)3(NO3)4·2C2H5OH",
+      "synthesis_conditions": {
+        "temperature": "353 K",
+        "pressure": "10^-5 Pa",
+        "time": "24 h",
+        "equipment": "IGA system",
+        "solvent": "ethanol vapor",
+        "solvent_temperature": "293 K",
+        "relative_pressure": "p/p0 with computer-controlled pressure setting",
+        "x-ray_diffraction_temperature": "293 K",
+        "x-ray_diffraction_equipment": "Stoe Stadi-P diffractometer",
+        "x-ray_diffraction_radiation": "Cu Kα1 radiation from a germanium monochromator"
+      }
+    }
+  ]
+}

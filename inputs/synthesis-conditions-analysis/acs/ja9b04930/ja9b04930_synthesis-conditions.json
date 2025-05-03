@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis": {
+        "temperature": "90 °C for 7 days",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "15 mL Teflon-lined stainless container",
+        "chemicals_used": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.149 g, 0.5 mmol"
+          },
+          {
+            "name": "o-BDC",
+            "amount": "0.035 g, 0.2 mmol"
+          },
+          {
+            "name": "H2BpybcCl2",
+            "amount": "0.099 g, 0.2 mmol"
+          }
+        ],
+        "yield": "Not specified",
+        "drying_method": "Room temperature",
+        "washing_method": "Filtered off",
+        "time": "7 days",
+        "ph_adjustment": "Adjusted to 7 with NaOH solution"
+      },
+      "characterization": {
+        "PXRD": "Rigaku MiniFlex II X-ray diffractometer using Cu Kα radiation (λ=1.5418 Å) in the 2θ angular range 4–40° with a step size of 0.02° at 293 K",
+        "TG": "SETARAM LABSYS equipment at a heating rate of 10 °C min−1 under nitrogen gas flow in the range of 30-800 °C",
+        "Elemental_analysis": "Vario EL-II analyzer",
+        "FT-IR": "Nicolet 5DX spectrometer using KBr pellets in the range of 4000–400 cm−1",
+        "Photochromic_properties": "Determined upon ultraviolet light irradiation (22.4 mw/cm2)",
+        "Cyclic_voltammetry": "CHI 660E electrochemical analyzer (Shanghai) with a modified glassy carbon electrode (GCE) as the working electrode, a platinum wire as the counter electrode, an Ag–AgCl electrode as reference electrode",
+        "EPR": "Bruker EMX spectrometer using an X-band microwave bridge (9.45 GHz)",
+        "X-ray_single-crystal_diffraction": "Agilent Technologies Gemini EOS diffractometer with Cu−Kα radiation (λ = 1.5418 Å) at room temperature"
+      }
+    }
+  ]
+}

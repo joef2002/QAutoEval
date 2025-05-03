@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the concept introduced into MOF chemistry for the first time?",
+      "answer": "Retrosynthesis",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of MOF materials were synthesized using the concept of retrosynthesis?",
+      "answer": "PCN-224-based multi-component MOF materials",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using retrosynthesis in MOF chemistry?",
+      "answer": "It allows for the synthesis of complex structures at atomic precision.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What activity did PCN-201(Fe)-Cu exhibit?",
+      "answer": "Cooperatively bimetallic catalysis activity towards the three-component Strecker reactions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main challenge in synthesizing multi-component MOFs with different inorganic SBUs?",
+      "answer": "The lack of control over framework assembly in one-pot reactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What criteria were used to select PCN-224 as a prototype for incorporating secondary linkers and metal clusters?",
+      "answer": "Existence of binding sites, large cavities, and high stability",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PCN-201 and PCN-202 was achieved through a dissolution-recrystallization process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the key to successfully incorporating different metal SBUs into one framework?",
+      "answer": "Sequential installation of linkers and metal clusters in a prototype MOF through a series of known chemical reactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cooperative bimetallic catalytic system in PCN-201(Fe)-Cu was due to the simple mixture of Cu and Fe MOF catalysts.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of the cooperative bimetallic catalytic system built in PCN-201(Fe)-Cu?",
+      "answer": "It led to improved catalytic activity toward three-component, one-pot Strecker reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The retrosynthesis approach in MOF chemistry is limited by the availability of a large and diverse organic reaction library.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in using TPA as a linker for constructing PCN-202?",
+      "answer": "TPA tends to exhibit a C3 symmetry, which is not compatible with the PCN-224 structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PCN-201(Fe)-Cu catalyst showed high stability and maintained catalytic activity after three cycles.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of kinetic analysis in the synthesis of multi-component MOFs?",
+      "answer": "It guided the stepwise incorporation of organic linkers and formation of metal clusters, avoiding undesirable thermodynamic products.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PCN-201 and PCN-202 involved the use of a one-pot reaction method.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using DCDPS as a linker instead of TPA for constructing PCN-202?",
+      "answer": "DCDPS is a semi-flexible linker that can adjust its conformation to fit the pore environment of PCN-224, unlike TPA.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The incorporation of catalytically active metal clusters into a robust MOF was achieved through the retrosynthesis approach.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main benefit of the stepwise synthesis approach in constructing multi-component MOFs?",
+      "answer": "It allowed for the integration of different metal SBUs into one framework by avoiding undesired thermodynamic sinks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cooperative bimetallic catalytic system in PCN-201(Fe)-Cu was less effective than individual Cu or Fe MOF catalysts.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in achieving the synthesis of complex MOFs with multiple components?",
+      "answer": "The competitive assembly of multiple components usually ends up with a thermodynamically favored MOF as the main product.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

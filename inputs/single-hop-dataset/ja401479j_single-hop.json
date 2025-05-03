@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of ASMOF-5?",
+      "answer": "C42H42O16S6Zn4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the absorption correction of ASMOF-5 crystal data?",
+      "answer": "Multi-scan",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single crystal X-ray diffraction data of ASMOF-5 collected?",
+      "answer": "100 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of ASMOF-5?",
+      "answer": "Fm3m cubic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum theta value (°) for the cell measurement of ASMOF-5?",
+      "answer": "30.8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the alkene unit in ASMOF-5?",
+      "answer": "The alkene unit facilitates the color change in ASMOF-5 by interacting with Pd(II) ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of HgCl2 affect the crystal structure of ASMOF-5?",
+      "answer": "HgCl2 treatment leads to a less pronounced non-Bragg diffraction intensity and a slight increase in the unit cell volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ASMOF-5 crystals are insoluble in common organic solvents or water.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The color change in ASMOF-5 upon PdCl2 treatment is due to the interaction between Pd(II) ions and the sulfur (thioether) function.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The phenyl rings in ASMOF-5 are not disordered after HgCl2 treatment.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Zn/Pd molar ratio in the PdCl2-treated ASMOF-5 sample?",
+      "answer": "6.25:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of PdCl2 sorption on the color of ASMOF-5 crystals?",
+      "answer": "The ASMOF-5 crystals turn from light yellow to dark brick-red.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ASMOF-5 structure is isomorphous with that of MOF-5.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the sulfur-conjugated aromatic core in ASMOF-5?",
+      "answer": "It features intense photoluminescence, providing potential for sensing applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activated ASMOF-5 sample displayed type-I N2 adsorption isotherms.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of the activated ASMOF-5 sample?",
+      "answer": "618 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The color change in ASMOF-5 crystals is highly specific to Pd species.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of other noble-metal ions on the color of ASMOF-5 crystals?",
+      "answer": "Other noble-metal ions do not cause the same color change as Pd species, making the color change specific to Pd.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PL of ASMOF-5 crystals is quenched by most transition-metal ions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of Ru(III) on the color change induced by Pd in ASMOF-5?",
+      "answer": "Ru(III) interferes with the orange-red color indicative of Pd, obscuring it.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

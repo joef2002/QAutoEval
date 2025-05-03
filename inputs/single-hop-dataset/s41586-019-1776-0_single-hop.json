@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework discussed?",
+      "answer": "Zr6O4(OH)4(bpydc)6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What methods were developed for the incorporation of metal(II) halide clusters in Zr6O4(OH)4(bpydc)6?",
+      "answer": "Two methods were developed: one involving reaction with an excess of metal halide source and the other involving stoichiometric amounts of metal halide source.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The microcrystalline powder samples were characterized by single-crystal X-ray diffraction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of metal(II) halide incorporation on the framework's surface area?",
+      "answer": "The incorporation of metal(II) halide significantly reduced the surface area of the framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to measure the Mössbauer spectra of the microcrystalline powder of 1(FeCl2)19?",
+      "answer": "Mössbauer spectroscopy",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of texture in the Mössbauer absorber is inconsistent with the block morphology of the crystallites.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Debye temperature indicate about the lattice of 1(FeCl2)19?",
+      "answer": "The relatively low Debye temperature indicates the relative softness of the layered encapsulated lattice found in 1(FeCl2)19.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The superparamagnetic component in 1(FeCl2)19 corresponds to a blocking temperature above 9 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the comparison of the low-pressure N2 isotherms at 77 K for 1 with different loadings of NiBr2 suggest?",
+      "answer": "The comparison suggests that the clusters in partially-loaded frameworks remain accessible for further interaction with guest molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystallographic loadings determined for single crystals in the same reaction mixture were always higher than the metal loadings determined by ICP-OES for powder samples.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the %BLD value indicate about the coordination environment of Site Vb in 1(FeCl2)19?",
+      "answer": "The %BLD value indicates substantial distortion of the coordination environment for Site Vb.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnitude of the quadrupole splitting for the pseudooctahedral iron(II) centers decreases with increasing temperature.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the comparison of the diffuse reflectance UV-Vis spectra of 1(NiBr2)15 and bulk NiBr2 reveal?",
+      "answer": "The comparison reveals that the intense peaks between 220–440 nm in 1(NiBr2)15 correspond well with peaks in bulk NiBr2 assigned to ligand-to-metal charge transfer transitions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The absorption bands between 450–600 nm for both 1(NiBr2)15 and bulk NiBr2 are ascribed to ligand-to-metal charge transfer transitions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a broad magnetic sextet at lower temperatures indicate about 1(FeCl2)19?",
+      "answer": "It indicates a superparamagnetic component in 1(FeCl2)19, corresponding to a blocking temperature below 9 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The inverse magnetic susceptibility versus temperature for 1(NiCl2)15 under applied fields shows a linear regime from 200–300 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Weiss temperature of 39 K and a Curie constant of 24 emu K mol−1 for 1(NiCl2)15 under a 1.0 T field suggest?",
+      "answer": "These values suggest the magnetic characteristics of 1(NiCl2)15 under the applied field.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Curie–Weiss fit was applied to the inverse magnetic susceptibility versus temperature data for 1(NiBr2)15.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Weiss temperature of −24 K and a Curie constant of 61 emu K mol−1 for 1(CoCl2)18 suggest?",
+      "answer": "These values suggest antiferromagnetic interactions within 1(CoCl2)18.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Debye temperature obtained from fitting the temperature dependence of the logarithm of the spectral absorption area of 1(FeCl2)19 is higher than the Mössbauer temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

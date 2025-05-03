@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the cluster used as the building block for assembly of 2D CPs I and II?",
+      "answer": "Mo2(INA)4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of MolybdenumII isonicotinate cluster (A)?",
+      "answer": "A solution of Mo2(acetate)4 and isonicotinic acid in anhydrous DMF was refluxed at 120 °C for two days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DABCO in the crystallization process of II?",
+      "answer": "DABCO facilitates improved crystalline ordering and alternate interplanar spacing between 2D lattices.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is DABCO incorporated into the crystal structure of II?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area calculated from the CO2 adsorption isotherm of I?",
+      "answer": "18.6 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of isotherm is observed for N2 adsorption on I?",
+      "answer": "Type III isotherm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the standard heterogeneous electron transfer rate constant (ks) for the [Mo2(INA)4]0/–1 couple?",
+      "answer": "1.49 s–1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the crystal structure of I remain intact after BET analysis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the temperature stability range of I before decomposition begins?",
+      "answer": "Up to 420 ˚C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main feature observed in the CO2 adsorption isotherm of I?",
+      "answer": "Three distinct regions suggesting a Type VI isotherm",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the redox behavior of I stable over multiple CV scans?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the crystal packing of I and II when viewed down the c axis?",
+      "answer": "II shows a flatter structure for the 2D lattices and increased ordering of the DMA solvent molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of DMA in the assembly of CPs I and II?",
+      "answer": "DMA acts as a solvent in the recrystallization process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of DABCO affect the crystal structure of II compared to I?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Mo-Mo bond distances in I and II?",
+      "answer": "They are within 2% of the Mo-Mo bond distances observed in quadruply bonded Mo2 cores coordinated by 3-atom bridging ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main characteristic of the CO2 adsorption isotherm of I?",
+      "answer": "It exhibits unique CO2 adsorption nominally Type VI for an isotherm collected at 195 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the hierarchical pore structure of the material mentioned in the text significant for its CO2 adsorption properties?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quasi-reversible feature identified in the cyclic voltammetry of I?",
+      "answer": "A quasi-reversible feature at E1/2 = −1.275 V versus ferrocene/ferrocenium ascribed to the [Mo2(INA)4]0/–1 redox couple.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main advantage of incorporating redox tunable states in CPs?",
+      "answer": "It engenders a responsive framework with functional properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Mo2(INA)4 cluster redox-active?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

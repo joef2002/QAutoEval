@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the desolvated NbOFFIVE-1-Ni?",
+      "answer": "C8H8F5N4NbNiO",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to perform high-pressure gas adsorption studies?",
+      "answer": "Magnetic suspension balance marketed by Rubotherm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the adsorption experiments for pure gases performed?",
+      "answer": "298 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What functional was used in the DFT calculations?",
+      "answer": "optB86B-vdW functional",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of the desolvated NbOFFIVE-1-Ni?",
+      "answer": "Tetragonal, P4/nbm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the adsorption energy for a guest molecule calculated?",
+      "answer": "Eads = Ehost with a guest - Eempty host - Eguest",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the unit cell volume of the NbOFFIVE-1-Ni structure with propylene?",
+      "answer": "788.52(6) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption of propane significant in NbOFFIVE-1-Ni at 25°C?",
+      "answer": "No, the adsorption of propane is not significant in NbOFFIVE-1-Ni at 25°C.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main difference in the adsorption behavior of propylene and propane in NbOFFIVE-1-Ni?",
+      "answer": "Propylene is preferentially adsorbed due to its interactions with the framework, whereas propane's adsorption is not significant.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of propylene affect the adsorption of propane in NbOFFIVE-1-Ni?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption energy of propylene in NbOFFIVE-1-Ni higher than that of propane?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the NbOFFIVE-1-Ni framework undergo significant expansion upon adsorption of propylene?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of NbOFFIVE-1-Ni with propane different from its desolvated form?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the anions in NbOFFIVE-1-Ni rotated due to the presence of propane?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the NbOFFIVE-1-Ni framework retain its tetragonal crystal system upon adsorption of propane?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of propane in NbOFFIVE-1-Ni at 25°C higher than that of propylene?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the adsorption behavior of NbOFFIVE-1-Ni towards propylene and propane be explained by the framework's dynamic response?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of NbOFFIVE-1-Ni with propane?",
+      "answer": "Tetragonal, P4/mmm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of thermal motion on the calculated adsorption energy of propylene in NbOFFIVE-1-Ni?",
+      "answer": "The effect of thermal motion reduces the adsorption energy of propylene in NbOFFIVE-1-Ni.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of propane in NbOFFIVE-1-Ni facilitated by the rotation of (NbOF5)2- anions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

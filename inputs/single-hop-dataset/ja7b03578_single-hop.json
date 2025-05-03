@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of FDM-4 based on atoms located by single X-ray diffraction?",
+      "answer": "C96H42N54O47Cu18Zn20",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the single crystal X-ray diffraction performed for FDM-5?",
+      "answer": "173(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of FDM-6?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction in the structure determination of FDM-7?",
+      "answer": "None",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of FDM-4?",
+      "answer": "P63mc",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were collected for FDM-5?",
+      "answer": "8340",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>2sigma(I)) for FDM-6?",
+      "answer": "R1 = 0.0779, wR2 = 0.1519",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of FDM-7 tetragonal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was multi-scan used for absorption correction in FDM-4?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FDM-5 have a higher formula weight than FDM-4?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the higher molar ratio of Zn to Cu in FDM-4?",
+      "answer": "The existence of isolated Zn ions in the pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the PXRD pattern measured for FDM-4 after CO oxidation?",
+      "answer": "To confirm the MOF retains its structure during the reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using DRIFTS in the study of FDM-3?",
+      "answer": "To study the interaction between CO and Cu sites in the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was H2O2 decomposition experiment performed with FDM-4?",
+      "answer": "To evaluate the catalytic performance of the MOF in H2O2 decomposition.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of TEMPO in the alcohol oxidation experiments?",
+      "answer": "As a cocatalyst in the aerobic oxidation of benzyl alcohol.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the oxidation state of Cu in FDM-5 changed after being vacuum dried at room temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal color of FDM-6 changed after contact with air?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did FDM-7 show a drastic drop in yield when used as a catalyst for TMBA oxidation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of benzaldehyde when FDM-3 was used as a catalyst for 24 hours?",
+      "answer": "98%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the PXRD pattern of FDM-5 after H2O2 decomposition match with its activated form?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

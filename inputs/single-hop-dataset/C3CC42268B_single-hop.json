@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using a stable metal-organic framework containing methyl viologen cations?",
+      "answer": "For fast and selective detection of oxygen by naked eye recognition of color change within five seconds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to record UV/Vis diffuse-reflectance spectra?",
+      "answer": "A Shimadzu UV-2501PC spectrophotometer.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of the synthesized material (1) mentioned in the text?",
+      "answer": "(Me2NH2)6[Cd9(TTCA)8]·20DMF·12H2O",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How long were the crystals of 1 soaked in a solution of methylviologen dichloride for the preparation of material (2)?",
+      "answer": "7 days",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The black crystals of 2 can be bleached to dark-yellow by O2 within 5 seconds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the color of the material upon irradiation with X-ray or UV light under a N2 atmosphere?",
+      "answer": "It changes from dark-yellow to black.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The detection of oxygen by the described method is interfered by UV and visible light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area change from 1d to 2d?",
+      "answer": "It decreased from 1197 m2 g-1 for 1d to 967 m2 g-1 for 2d.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The frameworks of 1 and 2 are stable up to 300 °C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of MV2+ cations in the material?",
+      "answer": "They are partly exchanged with Me2NH2+ cations to get (Me2NH2)3(MV)1.5[Cd9(TTCA)8]·15EtOH (2).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized material can detect O2 over N2 and CO2 by changes in color and fluorescence.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ratio of [Me2NH2]+/[MV]2+ in 2 as determined from the 1H-NMR spectrum?",
+      "answer": "2:1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The coloration and bleaching process of the material can be repeated for more than 10 cycles without loss of any signal.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the reversible color change among 2, 2d, and 2d0?",
+      "answer": "Electron transfer from the carboxyl group of TTCA3- to the nitrogen atom in MV2+.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The fluorescence of 2d0 can immediately recover to that of 2d once exposed to the atmosphere.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the internal diameter of the nanoscale cage in material 1?",
+      "answer": "18 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the electron density of disordered Me2NH2+, DMF, and H2O molecules in 1 treated?",
+      "answer": "As a diffuse contribution using the program SQUEEZE.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized material exhibits reversible photochromic, thermochromic, and fluorescence changes via host–guest interactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the broad peak at around 474 nm in the UV-vis spectrum of 2d?",
+      "answer": "It can be attributed to the charge-transfer transition between MV2+ and the framework of 2d.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The detection method described consumes oxygen during the measurement process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

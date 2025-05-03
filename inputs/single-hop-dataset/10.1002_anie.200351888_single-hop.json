@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the TC of the chiral two-dimensional ferrimagnet discussed?",
+      "answer": "38 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the study on the chiral two-dimensional ferrimagnet?",
+      "answer": "Katsuya Inoue, Koichi Kikuchi, Masaaki Ohba, and Hisashi Okawa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of the 2D chiral ferrimagnet reported in the study?",
+      "answer": "[{Cr(CN)6}{Mn(S)-pnH(H2O)}](H2O)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the magnetic behavior measurement of the complex?",
+      "answer": "SQUID magnetometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the saturation magnetization value of the complex at 5 K?",
+      "answer": "MS = 2 mB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon is exhibited by the material according to the MCD spectra behavior?",
+      "answer": "Faraday effect",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of controlling chirality in the construction of chiral molecule-based magnets?",
+      "answer": "Controlling chirality is crucial for achieving the desired magnetic and optical properties in the entire crystal structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the magnetic transition temperature of 38 K considered relatively high for the reported complex?",
+      "answer": "Because most reported chiral magnets have magnetic ordering temperatures below 10 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the dimensionality of the magnetic structure affect the TC of a magnet?",
+      "answer": "Extending the dimensionality of the magnetic structure can afford a higher TC magnet.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do the cyanide groups play in the structure of the reported chiral ferrimagnet?",
+      "answer": "The cyanide groups ligate to Mn2+ ions to form a bimetallic square, contributing to the two-dimensional chiral network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the study of chiral molecule-based magnets of academic and practical interest?",
+      "answer": "Because they offer potential for use in new devices due to their unique magnetic anisotropy and magnetochiral dichroism.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of introducing magnetic building blocks with more than three connections?",
+      "answer": "It might allow for the preparation of two or three-dimensional magnets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the complex [{Cr(CN)6}{Mn(S)-pnH(H2O)}](H2O) a three-dimensional chiral complex?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study report a magnetic ordering temperature above 100 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic behavior of the complex constant across all temperatures?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the complex exhibit a hard magnetic behavior at 5 K?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the effective magnetic moment at 300 K lower than the spin-only theoretical value?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the study's reported complex not suitable for magneto-optical phenomena applications?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MCD spectra behavior of the complex not change with temperature?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

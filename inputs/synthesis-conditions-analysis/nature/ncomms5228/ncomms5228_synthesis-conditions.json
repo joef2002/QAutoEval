@@ -1,0 +1,49 @@
+{
+  "SIFSIX-3-Cu": {
+    "synthesis": {
+      "solvents": [
+        {
+          "name": "methanol",
+          "amount": "5.0 ml for pyrazine solution, 5.0 ml for CuSiF6 solution"
+        }
+      ],
+      "chemicals_used": [
+        {
+          "name": "pyrazine",
+          "amount": "0.30 g (3.0 mmol)"
+        },
+        {
+          "name": "CuSiF6·H2O",
+          "amount": "0.325 g (0.6 mmol)"
+        }
+      ],
+      "equipment": "glass tube",
+      "time": "24 h",
+      "washing_method": "extensively with methanol",
+      "drying_method": "under vacuum"
+    },
+    "characterization": {
+      "PXRD": {
+        "equipment": "Panalytical X’pert PRO MPD X-ray Diffractometer",
+        "conditions": "Cu Ka radiation (λ = 0.15418 nm, 45 kV, 40 mA)"
+      },
+      "low_pressure_adsorption": {
+        "equipment": "Autosorb-1C (Quantachrome Instruments) Surface Area and Porosity Analyzer",
+        "activation_conditions": "degassed at room temperature under high vacuum (≤5 mm Hg) for 12 h, then to 323 K for another 12 h"
+      },
+      "equilibrium_and_kinetics_adsorption": {
+        "equipment": "Rubotherm gravimetric–densimetric apparatus",
+        "conditions": {
+          "activation": "323 K in vacuum",
+          "gas_flow": "300 ml min⁻¹"
+        }
+      },
+      "column_breakthrough_tests": {
+        "equipment": "stainless steel column (27 mm length, 4 mm inner diameter)",
+        "activation_conditions": "treated at 298 K overnight under helium flow of 5 ml min⁻¹ at 323 K",
+        "gas_flow": "5 ml min⁻¹",
+        "humidity_conditions": "74% RH"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in converting CO2 into functional materials?",
+      "answer": "The main challenge is the chemical inertness of CO2, which hampers its conversion into typical MOF linkers such as carboxylates without high energy reactants and/or harsh conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was presented for the conversion of CO2 into MOFs?",
+      "answer": "A one-pot conversion of CO2 into highly porous crystalline MOFs at ambient temperature and pressure was presented.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of piperazine in the synthesis of MOFs from CO2?",
+      "answer": "Piperazine reacts with CO2 to produce dicarbamate salt, which has two coordination sites suitable for constructing porous MOF structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the synthesis of MOF-5 be achieved without DBU?",
+      "answer": "Yes, the synthesis of MOF-5 is also possible without DBU.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DBU in the synthesis of MOFs from CO2?",
+      "answer": "DBU is employed to enhance the reactivity of piperazine towards CO2 by deprotonation, facilitating the formation of MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystallinity of MOF-5 affected by the presence of DBU in its synthesis?",
+      "answer": "The synthesis of MOF-5 without DBU is possible, suggesting that DBU's presence is not critical for achieving crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the introduction of a hydrophobic methyl group enhance the air/moisture stability of MOFs?",
+      "answer": "Yes, the introduction of a hydrophobic methyl group enhances the air/moisture stability by preventing the diffusion of H2O molecules in the pores.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of using dried air containing CO2 for the synthesis of MOFs?",
+      "answer": "Using dried air containing CO2 for the synthesis of MOFs results in crystalline MOFs, although the crystallinity might be slightly lower due to the lower concentration of CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the BET surface area of MOF-5 compare to other CO2-derived coordination compounds?",
+      "answer": "The BET surface area of MOF-5 is significantly higher than those of other CO2-derived coordination compounds, indicating better porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis protocol for MOFs from CO2 scalable?",
+      "answer": "Yes, the synthesis protocol for MOFs from CO2 is scalable, as demonstrated by the gram-scale synthesis under air.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 content in the synthesized MOFs?",
+      "answer": "The CO2 content in the synthesized MOFs is over 30 wt%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can MOFs synthesized from CO2 capture additional CO2?",
+      "answer": "Yes, MOFs synthesized from CO2 can capture additional CO2, as indicated by their CO2 adsorption capacities.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of CO2 pressure in the synthesis of MOFs?",
+      "answer": "The CO2 pressure influences the formation of MOFs by reacting with piperazine to form dicarbamate linkers under controlled conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the synthesized MOFs stable under air exposure?",
+      "answer": "The synthesized MOFs exhibit varying degrees of stability under air exposure, with some retaining their crystal structure longer than others.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do the synthesized MOFs demonstrate permanent porosity?",
+      "answer": "Yes, the synthesized MOFs demonstrate stable permanent porosity, as evidenced by their gas adsorption properties.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest BET surface area achieved among the synthesized MOFs?",
+      "answer": "The highest BET surface area achieved among the synthesized MOFs is 2366 m2 g−1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the synthesized MOFs be used for hydrogen storage?",
+      "answer": "Yes, the synthesized MOFs can be used for hydrogen storage, as shown by their H2 adsorption isotherms.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of MOFs from CO2 a one-step process?",
+      "answer": "Yes, the synthesis of MOFs from CO2 is a one-pot process conducted at room temperature and ambient pressure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of linker modification on MOF properties?",
+      "answer": "Linker modification, such as the introduction of methyl groups, impacts MOF properties by enhancing stability and potentially affecting porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of MOFs from CO2 require high temperatures?",
+      "answer": "No, the synthesis of MOFs from CO2 does not require high temperatures; it is conducted at room temperature.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

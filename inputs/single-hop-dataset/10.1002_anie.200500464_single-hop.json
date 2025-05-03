@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing one-dimensional magnets?",
+      "answer": "10.1002/anie.200500464",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the study on Molecular Engineering for Single-Chain-Magnet Behavior?",
+      "answer": "Lapo Bogani, Claudio Sangregorio, Roberta Sessoli, and Dante Gatteschi",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the scientific area mentioned in the article?",
+      "answer": "The main focus is on understanding and selectively changing the magnetic properties of matter.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The discovery of single molecule magnets (SMMs) did not significantly impact the scientific community.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What compound is known to display hysteresis behavior above the temperature of liquid helium?",
+      "answer": "[Co-(hfac)2{NIT(C6H4OMe)}]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two requirements needed to observe Glauber dynamics?",
+      "answer": "A strong Ising anisotropy and a very low ratio of interchain/intrachain interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Rare-earth-radical-based chains are considered poor candidates for SCMs due to their Ising anisotropy.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What transition temperature does [Dy(hfac)3{NIT(Et)}] display for 3D magnetic order?",
+      "answer": "4.3 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does varying the radical in [Dy(hfac)3{NIT(Et)}] potentially affect SCM behavior?",
+      "answer": "By increasing the distances between neighboring chains, it could transition from 3D order to SCM behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The radical NIT(C6H4OPh) was chosen because it decreases the electron density of the rings.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination geometry around the Dy atom in the compound [Dy(hfac)3{NIT(C6H4OPh)}]?",
+      "answer": "A distorted dodecahedron with triangular faces.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The distances between the metal center and the radical oxygen atoms are significantly different.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of crystal engineering on the magnetic properties of the compound?",
+      "answer": "It leads to an efficient suppression of interchain interactions independent of the orientation of the magnetic easy axis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound [Dy(hfac)3{NIT(C6H4OPh)}] does not exhibit SCM behavior.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the crossover between two different activated regimes in SCM?",
+      "answer": "It indicates the presence of a thermally activated mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of a crossover in the Arrhenius plot of SCMs has never been predicted or observed before.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What unusual feature is observed in the magnetization curve of the compound at 1.60 K?",
+      "answer": "The opening of a hysteresis loop and two different steps.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The steps observed in the magnetization curve are associated with dynamic properties.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was a key point in planning the synthesis of the SCM?",
+      "answer": "A critical reconsideration of previously known compounds to enhance stacking along the chains and weaken interchain magnetic interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the synthesis of [Dy(hfac)3{NIT(C6H4OPh)}] demonstrate about the chemical reactivity of rare-earth metals?",
+      "answer": "It can be exploited to study the role of anisotropy and magnetic multiplicity of the rare-earth ion on the slow dynamics of both monomers and chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

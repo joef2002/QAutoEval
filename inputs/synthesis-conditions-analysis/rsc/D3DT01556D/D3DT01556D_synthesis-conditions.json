@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "1m and 1t",
+      "synthesis_conditions": {
+        "temperature": "Microwave irradiation for 20 minutes; Room temperature for 13 days",
+        "solvents": "Acetonitrile",
+        "amount_of_solvent": "20 mL",
+        "equipment": "Microwave oven; Stirring at room temperature",
+        "chemicals_used": "Copper(II) bromide, 1,2-bis(1-methyl-1H-tetrazole-5-ylthio)ethane (bmtte)",
+        "yield": "46% for microwave method; 61% for stirring at room temperature",
+        "washing_method": "Not specified",
+        "drying_method": "Slow evaporation at room temperature",
+        "time": "20 minutes for microwave method; 13 days for stirring at room temperature"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "Microwave irradiation for 30 minutes; Room temperature for 13 days",
+        "solvents": "Acetonitrile",
+        "amount_of_solvent": "20 mL",
+        "equipment": "Microwave oven; Stirring at room temperature",
+        "chemicals_used": "Copper(II) bromide, 1,2-bis(1-methyl-1H-tetrazole-5-ylthio)ethane (bmtte)",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Slow evaporation at room temperature",
+        "time": "30 minutes for microwave method; 13 days for stirring at room temperature"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "Room temperature for 24 hours; Hydrothermal synthesis at 160 °C for 72 hours",
+        "solvents": "Tetrahydrofuran; Water",
+        "amount_of_solvent": "20 mL for tetrahydrofuran method; 15 mL for hydrothermal synthesis",
+        "equipment": "Stirring at room temperature; Teflon-lined stainless steel vessel",
+        "chemicals_used": "Copper(II) bromide, 1,2-bis(1-methyl-1H-tetrazole-5-ylthio)ethane (bmtte)",
+        "yield": "Not specified for tetrahydrofuran method; 12% for hydrothermal synthesis",
+        "washing_method": "Not specified",
+        "drying_method": "Slow evaporation at room temperature",
+        "time": "24 hours for tetrahydrofuran method; 72 hours for hydrothermal synthesis"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "temperature": "Microwave irradiation for 10 minutes",
+        "solvents": "Acetonitrile",
+        "amount_of_solvent": "20 mL",
+        "equipment": "Microwave oven",
+        "chemicals_used": "Copper(I) iodide, 1,2-bis(1-methyl-1H-tetrazole-5-ylthio)ethane (bmtte)",
+        "yield": "51%",
+        "washing_method": "Not specified",
+        "drying_method": "Slow evaporation at room temperature",
+        "time": "10 minutes"
+      }
+    }
+  ]
+}

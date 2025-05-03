@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework material discussed?",
+      "answer": "Ni2(4,4‘-bipyridine)3(NO3)4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature stability of the material Ni2(4,4‘-bipyridine)3(NO3)4?",
+      "answer": "215(4) °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the windows of the framework admit toluene based on the sorption experiments?",
+      "answer": "Yes, the windows admit toluene with no significant change in the structure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What transformation occurs when Ni2(4,4‘-bipyridine)3(NO3)4·2C2H5OH is exposed to methanol vapor?",
+      "answer": "It transforms to Ni2(4,4‘-bipyridine)3(NO3)4.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation from crystalline B to crystalline A reversible?",
+      "answer": "No, the transformation is not reversible.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of phase A?",
+      "answer": "Diffusion of Ni(NO3)2·6H2O and 4,4‘-bipyridyl in methanol solution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of methanol in the transformation of B to A?",
+      "answer": "Methanol acts as a guest that drives the solid-state transformation from B to A.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of A undergo a significant change when desolvated?",
+      "answer": "No, the structure of A is largely unchanged upon desolvation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated guest volume for ethanol in A·1.1C2H5OH?",
+      "answer": "112.2 Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the sorption of 1,3,5-triethylbenzene by A significant?",
+      "answer": "No, A does not significantly sorb 1,3,5-triethylbenzene.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to confirm the presence of toluene in the pores of A?",
+      "answer": "Gas chromatography.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the framework of A respond to the presence of toluene?",
+      "answer": "The framework dynamically distorts to accommodate the oversized toluene guest.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from B to A observed under an optical microscope?",
+      "answer": "Yes, the transformation from B to A can be observed under an optical microscope without any change in size, external morphology, position, or orientation of the crystals.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Monte Carlo docking calculations in the study?",
+      "answer": "Monte Carlo docking calculations were used to provide a description of the steric constraints on the docked guest molecules within the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the observation of toluene passage through A indicate about the framework's flexibility?",
+      "answer": "It indicates that the framework has a dynamic kind of flexibility, allowing it to expand window size temporarily for the passage of toluene molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the porosity of A similar to that observed in zeolites?",
+      "answer": "No, the porosity in A differs greatly from that observed in zeolites.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the transformation from B to A demonstrate about metal-organic frameworks?",
+      "answer": "It demonstrates that metal-organic frameworks can undergo guest-driven solid-state transformations between porous structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the framework of A be considered chemically stable in the presence of all guest species?",
+      "answer": "No, the framework may not be chemically stable in the presence of specific chemical species.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the observed flexibility in A's framework?",
+      "answer": "The flexibility allows A to sorb oversized guests and undergo solid-to-solid transformations, which is unprecedented for thermally robust microporous solids.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the transformation from B to A involve a dissolution-recrystallization process?",
+      "answer": "No, the transformation does not proceed via dissolution-recrystallization but through a direct solid-state transformation.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

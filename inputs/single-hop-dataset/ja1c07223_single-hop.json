@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the metal-organic framework CuI-MFU-4l?",
+      "answer": "Cu2.2Zn2.8Xn(btdd)3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the crystal structure of the evacuated CuI-MFU-4l framework at 7 K?",
+      "answer": "Powder neutron diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ratio of Cu to Zn in CuI-MFU-4l as determined by ICP-OES?",
+      "answer": "Approximately 0.75",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used for geometry optimization in the study?",
+      "answer": "ωB97M-V",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation barrier for hydrogen to access strong binding site I in CuI-MFU-4l?",
+      "answer": "9 kJ/mol",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What spectroscopy technique was used to probe the electronic structures of Cu sites in CuI-MFU-4l?",
+      "answer": "X-ray absorption spectroscopy (XAS)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the enthalpy change for molecular hydrogen binding to CuI-MFU-4l?",
+      "answer": "-28(2) kJ/mol",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of a new TPD desorption peak is dependent upon both the compaction of the material within the cell and the amount of material utilized.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of dosing temperature on the occupancy of site I in CuI-MFU-4l?",
+      "answer": "Increasing the dosing temperature increases the occupancy of site I.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation barrier for hydrogen adsorption in CuI-MFU-4l arises due to structural reorganization in the primary coordination sphere of copper.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of freezing the node coordinates on the interaction of H2 with the open copper site in CuI-MFU-4l?",
+      "answer": "Freezing the node results in attenuated interactions of H2 with the open copper site.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of a precursor intermediate to hydrogen chemisorption in CuI-MFU-4l was demonstrated through temperature-programmed desorption experiments.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the precursor intermediate in the chemisorption process within CuI-MFU-4l?",
+      "answer": "The precursor intermediate represents a metastable physisorbed state that serves as a precursor to chemisorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation barrier for hydrogen chemisorption in CuI-MFU-4l is an order of magnitude larger than the barrier to H2 diffusion within the framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the activation barrier in the deployment of real-world adsorptive storage systems?",
+      "answer": "An optimal material for adsorptive storage systems will likely need to adsorb gas at or very near the diffusion limit due to the impact of the activation barrier on loading time.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of a precursor-mediated adsorption within any porous solid has been directly observed for the first time in this study.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the activation barrier on the recovery of adsorbed gas?",
+      "answer": "An inherent activation barrier to adsorption will augment the activation energy needed for desorption, which could complicate recovery of the adsorbed gas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental kinetic pathway for hydrogen binding in CuI-MFU-4l is influenced by both local and long-range structural effects.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with modeling the experimental behavior of hydrogen chemisorption in CuI-MFU-4l using a single cluster?",
+      "answer": "A single cluster possesses more flexibility than the extended framework, which can lead to difficulties in accurately modeling the experimental behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a roadmap for devising experiments that will enable the identification of metastable intermediates in chemisorption processes within porous solids.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

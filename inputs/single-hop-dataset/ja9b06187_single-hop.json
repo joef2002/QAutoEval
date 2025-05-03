@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for NNS1?",
+      "answer": "[C34H18O8](F/OH)2(H2O)6(NpO2)6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the diffraction data for NNS2 and NNS3 collected?",
+      "answer": "220K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of NNS1?",
+      "answer": "P6/m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many vibrational modes are in the 650 cm-1 to 850 cm-1 range for NNS1 according to the PBE model?",
+      "answer": "44 vibrational modes",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the experimental yield of NNS1?",
+      "answer": "Experimental yields were not determined due to health risks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the peak at approximately 1026 nm in the UV-Vis-NIR spectrum of NNS1 characteristic of the Np(V)O2+ cation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the synthesis of NNS1 require the use of trifluoroacetic acid (TFA)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the NO2 group in the NNS3 structure fully resolved?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system used for NNS1?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to correct for disordered solvent molecules in NNS2?",
+      "answer": "The SQUEEZE method in PLATON",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the TGA of NNS1 able to confirm the conversion to NpO2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE method in the analysis of NNS2?",
+      "answer": "To correct for disordered solvent molecules",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of NNS1, NNS2, and NNS3 involve a solvothermal method?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of N,N-dimethylformamide (DMF) in the synthesis of NNS1?",
+      "answer": "It was used as a solvent",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the crystallographic data for NNS1 obtained using a Bruker APEX-II Quazar diffractometer?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the experimental method used to obtain the Raman spectrum of NNS1?",
+      "answer": "Using a Renishaw inVia Raman Spectrometer",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main challenge in measuring the yield of NNS1?",
+      "answer": "Health risks associated with handling solid-state transuranic materials",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the synthesis of NNS1 successful in producing crystals from an emerald green mother liquor?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to optimize the crystal structure of NNS1?",
+      "answer": "VASP package using PBE and PBESol functionals",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the TGA analysis of NNS1 indicate a weight loss of approximately 34%?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

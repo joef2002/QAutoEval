@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the band gap of CMF-1?",
+      "answer": "3.35 eV",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which CMF material contains both P1 and C1 clusters?",
+      "answer": "CMF-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature up to which CMF-2 is stable?",
+      "answer": "330 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What synthetic condition is common to the synthesis of CMF-2, CMF-3, and CMF-5?",
+      "answer": "Solvothermal conditions with thiourea as the S2- source.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What topology type is associated with CMF-1?",
+      "answer": "β-quartz",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of CS2 in the synthesis of CMF-1?",
+      "answer": "CS2 serves as the S2- source.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which CMF material has a moganite topology?",
+      "answer": "CMF-3",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "If a material has a band gap of 3.0 eV or higher, is it considered a wide-gap semiconductor?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is CMF-5 synthesized at room temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of CMF-1 require solvothermal conditions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are CMF-1, CMF-2, and CMF-3 all stable up to 300 °C or above?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the quartz-type topology found in CMF-2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does CMF-3 contain clusters larger than Cd4(SAr)10 2-?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of CMF-5 based on Cd(SC6H4Me-3)2?",
+      "answer": "65%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of CMF-2?",
+      "answer": "P6222",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What synthetic parameter is varied to obtain different CMF materials?",
+      "answer": "Temperature, solvent, surface ligand type, and S2- sources.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can CMF materials be considered as candidates for enantioselective processes?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the absorption onset for CMF-3 at 410 nm indicative of its semiconductor property?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the chemical composition of the cluster found in CMF-1?",
+      "answer": "Cd8S(SC6H4Me-3)14",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of P1 and C1 clusters in CMF-3 indicate a mixed cluster framework?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

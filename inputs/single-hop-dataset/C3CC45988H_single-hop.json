@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What instruments were used to record 1H NMR and 13C NMR spectra?",
+      "answer": "Bruker AV400 or AV600 spectrometer",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the heating rate for the thermogravimetric analyses (TGA)?",
+      "answer": "3 oC min-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the diffraction contribution of solvent molecules in UTSA-32?",
+      "answer": "PLATON/SQUEEZE",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of colorless rod-like crystals obtained from the synthesis of UTSA-32?",
+      "answer": "62%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the final R1 value for the crystal structure determination of UTSA-32?",
+      "answer": "0.0893 for I > 2σ(І)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the space group of UTSA-32?",
+      "answer": "P21",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of UTSA-32a in the meso-epoxide opening reaction?",
+      "answer": "UTSA-32a acts as a catalyst in the enantioselective ring-opening of meso-epoxides by aromatic amines.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the reaction temperature affect the yield and enantioselectivity of the meso-epoxide opening reaction?",
+      "answer": "The reaction temperature has major effects on the reactivity and enantioselectivity, with higher temperatures improving reactivity but potentially affecting enantioselectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why might solvents like DMSO interfere with the meso-epoxide opening reaction catalyzed by UTSA-32a?",
+      "answer": "DMSO might disrupt the coordination between the substrates and the catalyst, preventing the reaction from occurring.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What effect does the loading of aniline derivatives have on the meso-epoxide opening reaction?",
+      "answer": "The loading of aniline derivatives can affect both the yield and enantioselectivity of the reaction, with higher loadings potentially leading to lower enantioselectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the substitution on aniline derivatives influence the outcome of the meso-epoxide opening reaction?",
+      "answer": "The substitution on aniline derivatives influences both the yield and enantioselectivity, with electron-withdrawing groups like fluoro leading to higher yields and enantioselectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction of meso-epoxides with cyclic aliphatic substrates effective in producing high enantioselectivity?",
+      "answer": "No, the reaction of meso-epoxides with cyclic aliphatic substrates generally results in poor enantioselectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The solvent used in the meso-epoxide opening reaction has no impact on the reaction's outcome.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: UTSA-32a can be easily recovered and reused without significant loss in activity and selectivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The meso-epoxide opening reaction catalyzed by UTSA-32a is insensitive to changes in reaction temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: An increase in the loading of aniline derivatives always leads to an increase in the yield of the meso-epoxide opening reaction.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The use of electron-donating groups on aniline derivatives always improves the enantioselectivity of the meso-epoxide opening reaction.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The meso-epoxide opening reaction cannot occur outside the pores of UTSA-32a.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The specific structure of the meso-epoxide does not affect the enantioselectivity of the reaction catalyzed by UTSA-32a.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: DMSO is the best solvent for the meso-epoxide opening reaction catalyzed by UTSA-32a.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "The Crystal Structure of Sodium Oxalate",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "G. A. Jeffrey and G. S. Parry",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "In which journal was the article published?",
+      "answer": "Journal of the American Chemical Society",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja01650a007",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the publication date of the article?",
+      "answer": "May 1, 2002",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the issue number of the journal in which the article was published?",
+      "answer": "21",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the article's publication date, is this research recent?",
+      "answer": "No, it was published in 2002.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the crystal structure of sodium oxalate be considered a new discovery as of 2023?",
+      "answer": "No, since the article was published in 2002.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the article a review or a research article?",
+      "answer": "It is a research article.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Given the authors' names, can we infer the article was collaboratively written?",
+      "answer": "Yes, since there are multiple authors.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article focus on a chemical compound?",
+      "answer": "Yes, sodium oxalate.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the article's publication format electronic?",
+      "answer": "Yes, as indicated in the metadata.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the article published in the 21st century?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the article's subject related to physics?",
+      "answer": "False, it is related to chemistry.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the article get published before its issue publication date?",
+      "answer": "False, the electronic publication date is after the issue publication date.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the publisher of the journal the American Chemical Society?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article have more than one author?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the article's DOI 10.1021/ja01650a008?",
+      "answer": "False, the correct DOI is 10.1021/ja01650a007.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the article published in the 20th century?",
+      "answer": "False, it was published in 2002.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the article available in print format?",
+      "answer": "True, as indicated by the presence of an ISSN for print.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of Car_Zn·(MeCN)?",
+      "answer": "C22 H30 N10 O6 Zn2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which crystal system does Car_Zn·(IPA) belong to?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Car_Zn·(EtOH)?",
+      "answer": "P 21",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Car_Zn·(Acetone) crystal triclinic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Young's modulus of Car_Zn·(MeCN) as approximated using DFT-calculated elastic stiffness and compliance tensors?",
+      "answer": "7.5 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does Car_Zn·(DMF) have a higher Young's modulus compared to Car_Zn·(Acetone)?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the dielectric constant of Car_Zn·(IPA)?",
+      "answer": "3.5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which Car_Zn MOF single crystal has the highest computed dielectric constant?",
+      "answer": "Car_Zn·(MeCN)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effective longitudinal piezoelectric coefficient (dLeff) of the Car_Zn·(MeCN) crystal?",
+      "answer": "4.65 pm/V",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the piezoelectric response of Car_Zn·(MeCN) crystal linearly related to the applied voltage?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the piezoelectric characterization of the Car_Zn·(MeCN) crystal?",
+      "answer": "Piezoresponse force microscopy (PFM)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which Car_Zn MOF single crystal has the lowest Young's modulus value?",
+      "answer": "Car_Zn·(MeCN)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Car_Zn·(EtOH) crystal have a higher Young's modulus than Car_Zn·(IPA)?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal dipole moment direction of Car_Zn·(MeCN) that has the highest value?",
+      "answer": "along a-axis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which Car_Zn MOF single crystal has the highest piezoelectric charge tensor component eij?",
+      "answer": "Car_Zn·(MeCN)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of solvent in the formation of Car_Zn MOF crystals?",
+      "answer": "The solvent affects the crystal morphology and piezoelectric properties by influencing the supramolecular packing and guest molecule alignment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can Car_Zn MOF crystals be used in energy harvesting devices?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted Young's modulus of Car_Zn·(Acetone) using DFT calculations?",
+      "answer": "14.1 GPa",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Which Car_Zn MOF single crystal has the highest mechanical stability along the c axis?",
+      "answer": "Car_Zn·(DMF)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the piezoelectric response of Car_Zn·(IPA) higher than that of Car_Zn·(EtOH)?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

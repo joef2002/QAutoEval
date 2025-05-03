@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of Λ-CMOF-5?",
+      "answer": "C71.5H97.5N9.5Zn4O2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction in X-ray diffraction data analysis?",
+      "answer": "Multi-scan method implemented in SADABS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the space group of Λ-CMOF-5 and Δ-CMOF-5 the same?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NMP in the synthesis of CMOF-5?",
+      "answer": "NMP is used as a solvent and does not induce loss of chirality in CMOF-5.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What temperature was used for the synthesis of Λ-MOF-5 and Δ-MOF-5?",
+      "answer": "120 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can CMOF-5 transform to MOF-5 when immersed in organic solvents?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the enantiomeric excess (ee) observed for both Λ-MOF-5 and Δ-MOF-5?",
+      "answer": "Approximately 80%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to CMOF-5 when it is immersed in NMP?",
+      "answer": "It undergoes a phase transformation to a racemic conglomerate of CMOF-5.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of CMOF-5 dependent on the presence of proline?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of [Zn(BDC)(NMP)]?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of Λ-CMOF-5 and Δ-CMOF-5 require water?",
+      "answer": "Yes, water is part of the solvent mixture.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of L-proline or D-proline in the synthesis of Λ-CMOF-5 and Δ-CMOF-5?",
+      "answer": "They act as chiral additives to induce chirality.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield based on Zn for the synthesis of Λ-MOF-5 and Δ-MOF-5?",
+      "answer": "84%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of [Zn(BDC)(NMP)] similar to that of Λ-MOF-5 and Δ-MOF-5?",
+      "answer": "True, except L-proline or D-proline is not used.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of solvent exchange on CMOF-5?",
+      "answer": "It can transform CMOF-5 to MOF-5.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of Λ-CMOF-5 and Δ-CMOF-5?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of NMP in the synthesis affect the chirality of CMOF-5?",
+      "answer": "False, NMP does not induce loss of chirality in CMOF-5.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical method was used to verify the enantiomeric nature of Λ-CMOF-5 and Δ-CMOF-5?",
+      "answer": "Solid-state vibrational circular dichroism (VCD) spectra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Langmuir surface area reported for activated CMOF-5?",
+      "answer": "4535 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can MOF-5 undergo chiral induction to form CMOF-5?",
+      "answer": "True, especially when immersed in NMP.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

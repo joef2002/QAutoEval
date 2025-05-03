@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using a thermolabile tert-butoxycarbonyl (Boc) protecting group in the synthesis of MOFs?",
+      "answer": "The thermolabile tert-butoxycarbonyl (Boc) protecting group is used to protect organocatalytic units during MOF synthesis and then unveiled by a simple postsynthetic heating step, which endows the resulting MOF with catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of bulky Boc groups in the synthesis of open MOFs?",
+      "answer": "The bulky Boc groups prevent framework interpenetration, producing open MOFs that can admit relatively large substrates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The removal of the Boc protecting group does not affect the pore volume of the MOF framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using IRMOF-Pro-Boc for asymmetric aldol reactions?",
+      "answer": "IRMOF-Pro-Boc, upon conversion to IRMOF-Pro, exhibits catalytic activity for asymmetric aldol reactions due to the unveiled proline moiety.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the proline unit in the ligand protected during MOF synthesis?",
+      "answer": "The proline unit of the ligand is protected by a Boc group, which prevents its protonation or coordination to zinc(II) under the conditions of MOF synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of IRMOF-Pro-Boc involves a solvothermal reaction with Zn(NO3)2 in DEF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to determine the temperature at which the Boc groups can be expelled from IRMOF-Pro-Boc?",
+      "answer": "Thermogravimetric analysis (TGA) is used to determine the temperature at which the Boc groups can be expelled.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The conversion of IRMOF-Pro-Boc to IRMOF-Pro does not involve microwave irradiation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of thermolysis temperature on the enantiopurity of the proline groups in IRMOF-Pro?",
+      "answer": "Lowering the thermolysis temperature to 150 °C led to only a marginal improvement in the enantiopurity (ee) of the proline groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of IRMOF-Pro as determined by X-ray crystallography shows that it is suitable for heterogeneous catalysis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of IRMOF-Pro as determined by N2 gas sorption experiments?",
+      "answer": "The BET surface area of IRMOF-Pro is 138 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: IRMOF-Pro-Boc shows catalytic activity towards aldol reactions before the removal of the Boc group.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the diastereomeric ratio (dr) of the aldol product when cyclopentanone and 4-nitrobenzaldehyde are used as reactants with IRMOF-Pro as the catalyst?",
+      "answer": "The diastereomeric ratio (dr) of the anti to the syn products is 75:25.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The enantiomeric excess (ee) of the aldol product improves significantly when IRMOF-Pro is used as the catalyst.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the modest enantioselectivities observed for the aldol reactions catalyzed by IRMOF-Pro?",
+      "answer": "The modest enantioselectivities may be ascribed to a lack of organization in the reaction transition state due to several factors, including motion of the catalytic unit with respect to the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The strategy for incorporating organocatalytic groups into MOFs ensures that there is vacant space around the catalytic unit.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bulky protective groups in the synthesis of MOFs with organocatalytic groups?",
+      "answer": "Bulky protective groups preclude framework interpenetration, producing open networks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The general methodology for the introduction of organocatalytic groups into MOFs can be applied to any MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected outcome of the current efforts to produce second-generation catalysts with improved enantioselectivities?",
+      "answer": "The current efforts are focused on thermolabile groups that enable participation of both the proline nitrogen atom and its carboxyl group in the catalytic cycle within MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The initial focus of the work was to develop a highly enantioselective catalyst.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

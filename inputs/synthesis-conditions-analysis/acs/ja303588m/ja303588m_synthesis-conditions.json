@@ -1,0 +1,162 @@
+{
+  "materials": [
+    {
+      "name": "Na2NO2-ip",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "H2NO2-ip",
+            "amount": "2.1 g, 10 mmol"
+          },
+          {
+            "chemical": "NaOH",
+            "amount": "0.8 g, 20 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "water",
+            "amount": "40 mL"
+          },
+          {
+            "solvent": "ethanol",
+            "amount": "70 mL"
+          }
+        ],
+        "temperature": "room temperature",
+        "equipment": "vacuum",
+        "yield": "1.63 g (yield = 64%)",
+        "notes": "Caution! Na2NO2-ip is explosive on heating."
+      }
+    },
+    {
+      "name": "[M(NO2-ip)(bpy)]0.5DMF·0.5MeOH (M = Zn, Mn, and Ni)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Mn(ClO4)2·6H2O",
+            "amount": "0.37 g, 1.0 mmol"
+          },
+          {
+            "chemical": "5-nitroisophthalic acid",
+            "amount": "0.22 g, 1.0 mmol"
+          },
+          {
+            "chemical": "4,4′-Bipyridyl",
+            "amount": "0.16 g 1.0 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "N,N′-dimethylformamide (DMF)",
+            "amount": "20 mL"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "20 mL"
+          }
+        ],
+        "temperature": "70 °C",
+        "time": "a few days",
+        "notes": "Caution! Metal perchlorate is explosive on heating."
+      }
+    },
+    {
+      "name": "Solid-Solution Type [Zn1–xMnx(NO2-ip)(bpy)] 0.5DMF·0.5MeOH",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Disodium-5-nitroisophthalate",
+            "amount": "0.26 g, 0.10 mmol"
+          },
+          {
+            "chemical": "4,4′-bipyridyl",
+            "amount": "0.16 g, 1.0 mmol"
+          },
+          {
+            "chemical": "Zn(ClO4)2·6H2O",
+            "amount": "0.18 g, 0.5 mmol"
+          },
+          {
+            "chemical": "Mn(ClO4)2·6H2O",
+            "amount": "0.18 g, 0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "1:1 v:v DMF/MeOH solution",
+            "amount": "40 mL"
+          }
+        ],
+        "temperature": "70 °C",
+        "time": "a few days"
+      }
+    },
+    {
+      "name": "Phase-Separated Type [Zn1–xMnx(NO2-ip)(bpy)] 0.5DMF·0.5MeOH",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "5-Nitroisophthalic acid",
+            "amount": "0.21 g, 0.10 mmol"
+          },
+          {
+            "chemical": "4,4′-bipyridyl",
+            "amount": "0.16 g, 1.0 mmol"
+          },
+          {
+            "chemical": "Zn(ClO4)2·6H2O",
+            "amount": "0.18 g, 0.5 mmol"
+          },
+          {
+            "chemical": "Mn(ClO4)2·6H2O",
+            "amount": "0.18 g, 0.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "1:1 v:v DMF/MeOH solution",
+            "amount": "40 mL"
+          }
+        ],
+        "temperature": "70 °C",
+        "time": "a few days"
+      }
+    },
+    {
+      "name": "Ternary Phase-Separated Type [Zn1‑x‑yNi xMn y(NO2-ip)(bpy)]0.5DMF·0.5MeOH",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "5-Nitroisophthalic acid",
+            "amount": "0.25 g, 0.10 mmol"
+          },
+          {
+            "chemical": "4,4′-bipyridyl",
+            "amount": "0.16 g, 1.0 mmol"
+          },
+          {
+            "chemical": "Zn(ClO4)2·6H2O",
+            "amount": "0.12 g, 0.3 mmol"
+          },
+          {
+            "chemical": "Ni(ClO4)2·6H2O",
+            "amount": "0.12 g, 0.3 mmol"
+          },
+          {
+            "chemical": "Mn(ClO4)2·6H2O",
+            "amount": "0.12 g, 0.3 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "1:1 v:v DMF/MeOH solution",
+            "amount": "40 mL"
+          }
+        ],
+        "temperature": "70 °C",
+        "time": "a few days"
+      }
+    }
+  ]
+}

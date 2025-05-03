@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the article discussing switchable cyanometalates?",
+      "answer": "10.1002/anie.201601526",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of phase transition is described for the FeII/FeIII cyanide-bridged coordination polymer?",
+      "answer": "A thermally induced charge-transfer phase transition",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the FeFe cyanide-bridged system exhibit a charge-transfer-induced spin transition?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the electronic structure of the high-temperature phase of the coordination polymer?",
+      "answer": "FeIII-LS-CN-FeII-HS-NC-FeIII-LS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What changes occur in the coordination polymer upon cooling to 123 K?",
+      "answer": "The Fe¢N distances shorten, indicating a charge transfer between metal ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transition entropy obtained from the charge-transfer phase transition greater than the spin-only value expected for the change in spin multiplicity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the classification of the mixed-valence state of the coordination polymer according to the Robin and Day classification?",
+      "answer": "Class II",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the coordination polymer exhibit thermochromic behavior in the NIR region upon cooling?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bpe in the structure of the coordination polymer?",
+      "answer": "Bpe ligands link the chains by coordinating along the apical positions of the FeII centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the transition entropy being much greater than the spin-only value?",
+      "answer": "It indicates contributions from frequency shifts of molecular and lattice vibrations upon MMCT phase transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the FeCo system mentioned in the text also a homometallic cyanide-bridged system?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the molar ratio used in the synthesis of the target compound?",
+      "answer": "2:1:1 molar ratio of (Bu4N)[Fe(Tp)(CN)3], Fe(ClO4)2·6 H2O, and bpe in MeOH.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the coordination polymer's high-spin state change to a low-spin state during the phase transition?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the electronic structure of the coordination polymer in the low-temperature phase?",
+      "answer": "FeII-LS-CN-FeIII-HS-NC-FeIII-LS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a reversible signal in the cooling–heating mode measurement indicate?",
+      "answer": "The occurrence of a reversible charge-transfer process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the charge transfer in compound 1 coupled to a spin transition?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the cm T value behavior of compound 1 indicate about its magnetic properties?",
+      "answer": "It suggests the presence of ferromagnetic interactions between iron ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the FeIII-LS-CN-FeII-HS-NC-FeIII-LS electronic structure?",
+      "answer": "It is the electronic structure of the high-temperature phase of compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the appearance of new nCN stretches upon cooling indicate?",
+      "answer": "The presence of FeII-LS(m-CN)FeIII-HS linkages.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study on the mixed-valence FeII/FeIII coordination polymer?",
+      "answer": "It demonstrates a temperature-induced MMCT phase transition in a homometallic cyanide-bridged system.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

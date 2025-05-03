@@ -1,0 +1,58 @@
+{
+  "materials": [
+    {
+      "name": "[Fe3(HCOO)6](CH3OH)1.5(H2O)0.5 (1-parent)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(ClO4)2·6H2O",
+            "amount": "0.40 M in methanol"
+          },
+          {
+            "name": "formic acid",
+            "amount": "1.60 M in methanol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "0.80 M in methanol"
+          }
+        ],
+        "equipment": "glass tube",
+        "time": "one week",
+        "yield": "42%"
+      }
+    },
+    {
+      "name": "[Fe3(HCOO)6] (2-empty)",
+      "synthesis_conditions": {
+        "temperature": "90 °C",
+        "drying_method": "dynamic vacuum (10–2 Torr) for 10 h",
+        "precursor": "[Fe3(HCOO)6](CH3OH)1.5(H2O)0.5 (1-parent)"
+      }
+    },
+    {
+      "name": "Guest-inclusion compounds",
+      "synthesis_conditions": {
+        "method": "vapor diffusion",
+        "temperature": "room temperature",
+        "time_range": "2 to 10 days",
+        "precursor": "[Fe3(HCOO)6] (2-empty)",
+        "guests": [
+          "I2",
+          "C4H8O (THF)",
+          "C4H4O (furan)",
+          "C6H6 (benzene)",
+          "CH3CN (acetonitrile)",
+          "(CH3)2CO (acetone)"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of minimizing the torsional barrier for phenyl ring flipping in MOFs?",
+      "answer": "To provide a fluorescent MOF with a default dark off state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The new ligand shows a drastically reduced barrier to phenyl ring torsion compared with Zn2(TCPE).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of p-ethynyl groups in the design of H8TDPEPE?",
+      "answer": "They promote almost barrierless torsional motion for vicinal phenyl rings.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The fluorescence quantum yield (Φfl) of 1 is significantly lower than that observed for [Zn2(TCPE)(DEF)2]·DEF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated activation barrier for the phenyl rings in TDPEPE8– constrained within 1?",
+      "answer": "9 kcal/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The strain energy (SE) associated with TDPEPE8–⊂1 is 383.7 kcal/mol.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the empirical rule for predicting significant strain in ligands within tbo nets?",
+      "answer": "Significant strain should be imposed on ligands within tbo nets when the ratio κ = d1/d2 in the free ligand is much larger than ∼1.5.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SE in TDPEPE8–⊂1 is not strictly related to ligand size or functional groups.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Schläfli symbol for the 3,3,4-connected net of 1?",
+      "answer": "{7^2.8^2.11^2}{7^2.8}{7^3}_2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The centroid–centroid distance between phenyl rings on neighboring TPE cores in 1 is 10.24(1) Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the fluorescence quantum yield (Φfl) observed for 1?",
+      "answer": "9%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The fluorescence lifetime observed in 1 is comparable to that observed in the TCPE-based MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in designing turn-on fluorescent MOF-based sensors?",
+      "answer": "Achieving signal transduction by detecting a change in the intensity or the wavelength of the luminescent signal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of the analyte triggers an increase in the luminescence intensity in turn-on mechanisms.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of aggregation-induced emission (AIE) in the design of fluorescent MOFs?",
+      "answer": "AIE-type chromophores become fluorescent when low-frequency vibrational quenching modes are eliminated.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission maxima shifted in the presence of analytes in the TPE-derived Zn2(TCPE) material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the strain energy (SE) in MOFs?",
+      "answer": "It suggests that the influence of strain on MOF stability is part of a general phenomenon, especially in MOFs with large ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The mechanical instability of 1 was a direct result of the enormous strain on its constituent ligand.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the empirical rule suggest about the stability of tbo MOFs with high κ values?",
+      "answer": "High κ values are detrimental to permanent porosity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Strategies for maximizing κ include the use of high-connectivity ligands and sp and sp2 hybridization.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

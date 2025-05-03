@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of PCM-102?",
+      "answer": "C63H63Co3FN6O16P2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the gas adsorption-desorption isotherms for PCM-102 collected?",
+      "answer": "77 K for N2, H2, O2 and 196 K for CO2, CH4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of Ag-PCM-102?",
+      "answer": "Orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the binding energies for the various C2 hydrocarbons in PCM-102?",
+      "answer": "The Vienna ab-initio simulation package (VASP)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ideal Ag:Co ratio for 100% Ag loading in Ag-PCM-102 according to ICP-OES data?",
+      "answer": "1/3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why was the SQUEEZE utility in PLATON applied to metalated PCM-102 structures post-refinement?",
+      "answer": "To remove residual peaks due to disordered solvent",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using the Bader analysis in the study?",
+      "answer": "To determine the electronic charge on each atom",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal structure of Cu-PCM-102 orthorhombic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the sorption capacities for the M-PCM-102 materials were similar to other benchmark MOFs for C2 hydrocarbon separation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the PXRD pattern of Ag-PCM-102 made post-synthetically identical to that of Ag-PCM-102 synthesized peri-synthetically?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study use the Perdew-Burke-Ernzerhof functional for electron exchange and correlation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal system of Au-PCM-102 reported as monoclinic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study report the use of a nitrogen gas Cryostream for freezing the crystals during SCXRD data collection?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the Ag loading in Ag-PCM-102 found to be over 100% according to ICP-OES data?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the sorption capacities for the M-PCM-102 materials were lower than expected for C2 hydrocarbon separation?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system of PCM-102?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the Bader charges in the study?",
+      "answer": "To understand the experimental adsorption profiles of the C2 hydrocarbons in Ag-PCM-102",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the final R index for AgCu-PCM-102 made by Ag exchange?",
+      "answer": "R1 = 0.0913, wR2 = 0.2353 for I>=2σ (I)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the PXRD pattern of PCM-102 treated with 0.55 eq. Cu(I) per P2 pocket identical to that of Cu-PCM-102?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for gas sorption studies?",
+      "answer": "Volumetric adsorption measurements using a glass vacuum manifold equipped with a diffusion pump",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

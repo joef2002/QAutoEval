@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the predesigned zirconium cluster used in the synthesis?",
+      "answer": "[Zr16]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What organic ligand is used to substitute the formate groups in the [Zr16] cluster?",
+      "answer": "4,4′-biphenyl dicarboxylic acid (BPDC)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature range within which the mixed Eu/Tb multinary MOF [Zr16-BPDC-Eu0.8Tb0.2] can serve as a luminescent thermometer?",
+      "answer": "From 80 to 280 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The [Zr16] cluster is constructed solely from [Zr6(μ3-OH)4(μ3-O)4(COO)4] clusters.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in crystal engineering as mentioned in the text?",
+      "answer": "The final crystal structures cannot be easily predicted from the structures and geometries of reactants.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The [Zr16-BPDC-Eu0.8Tb0.2] MOF exhibits temperature-dependent luminescent behavior due to the presence of both Eu and Tb ions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using a kinetic-controlled step-by-step synthesis in the construction of multivariate MOFs?",
+      "answer": "To obtain MOFs with predictable topologies through single-crystal-to-single-crystal structural transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All zirconium-based MOFs (Zr-MOFs) are constructed from a single type of zirconium cluster.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the [Zr16] cluster having 24 potential coordination sites?",
+      "answer": "It allows for the linking of metal ions and substitution by other organic ligands, facilitating the construction of multivariate MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [Zr16-BPDC] MOF is a three-dimensional framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What strategy is used to introduce heterogeneity in the construction of multicomponent MOFs?",
+      "answer": "Designing and arranging the order of heterogeneity by controlling the self-assembly in a one-pot reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [Zr16] cluster can directly extend into a 3D multinary MOF without any intermediate steps.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of lanthanides in the construction of [Zr16-BPDC-Ln] MOFs?",
+      "answer": "Lanthanides are used to install in the cavity between [Zr16-BPDC] layers, further interconnecting them into 3D frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of multinary MOFs through a one-pot approach with Cp2ZrCl2, H2SQA, H2BPDC, and Ln(NO3)3 results in the formation of single crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum relative thermal sensitivity of the [Zr16-BPDC-Eu0.8Tb0.2] MOF?",
+      "answer": "0.66%·K−1 at 280 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The [Zr16] cluster is synthesized under high temperature conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using a stepwise synthetic approach in the construction of MOFs?",
+      "answer": "It allows for the predictable topology structure from a predesigned molecule through controlled assembly processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [Zr16-BPDC-Eu0.8Tb0.2] MOF's luminescence color changes with temperature due to the presence of a single type of lanthanide ion.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the [Zr16] cluster's tetragonal prismatic geometry?",
+      "answer": "It provides a versatile structure with multiple coordination sites for constructing multivariate MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [Zr16-BPDC] MOF undergoes a structural transformation without changing its crystal shape or size.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

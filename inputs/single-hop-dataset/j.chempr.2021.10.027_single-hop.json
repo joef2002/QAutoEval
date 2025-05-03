@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What phenomenon is described in the paper?",
+      "answer": "The discovery of spontaneous de-interpenetration through charged point-point repulsions.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main goal of the study described in the paper?",
+      "answer": "To demonstrate spontaneous de-interpenetration driven by charged point-point repulsions, which reverses the universal thermodynamics of stability arising from reduction of porosity and enables the thermodynamic synthesis of highly porous materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is NU-1303-6?",
+      "answer": "A 6-fold interpenetrated uranium-based metal-organic framework (MOF) that undergoes spontaneous de-interpenetration.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What drives the spontaneous de-interpenetration in NU-1303-6?",
+      "answer": "Charged point-point repulsions between anionic, closely positioned uranium-based nodes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of NU-1304 in the study?",
+      "answer": "NU-1304 serves as a control material to study the role of charged point-point repulsion (CPPR) in de-interpenetration, due to its similar structure to NU-1303-6 but with less-effective CPPR.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the results of the density functional theory (DFT) energy decomposition analysis (EDA) for NU-1303-6?",
+      "answer": "The EDA reveals that node-node interactions are repulsive and energetically unfavored, supporting the hypothesis that charged point-point repulsions drive de-interpenetration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of water in the de-interpenetration process of NU-1303-6?",
+      "answer": "Water from humid atmospheric conditions may interact with neighboring nodes in NU-1303-6 to stabilize the framework against de-interpenetration by forming hydrogen-bonded bridges between networks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NU-1304 does not exhibit de-interpenetration under the same conditions that lead to de-interpenetration in NU-1303-6.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the discovery of charged point-point repulsion on the synthesis of porous materials?",
+      "answer": "The discovery compels a re-evaluation of the thermodynamics of porosity and could be widely generalized for the direct and systematic production of non-interpenetrated structures with valuable pore space.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a detailed energetic understanding of charged point-point repulsion and its role in the spontaneous de-interpenetration of metal-organic frameworks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

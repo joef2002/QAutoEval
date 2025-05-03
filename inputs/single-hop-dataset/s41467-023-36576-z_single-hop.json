@@ -1,0 +1,64 @@
+{
+  "QAs": [
+    {
+      "question": "What is the main focus of the study presented in the article?",
+      "answer": "The main focus of the study is demonstrating a design strategy towards multiplexed, lifetime-encoded tags via engineering intermetallic energy transfer in heterometallic metal-organic frameworks (MOFs).",
+      "difficulty_level": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key elements used in the synthesis of heterometallic rare-earth MOFs?",
+      "answer": "The key elements used in the synthesis are a high-energy donor (Eu), a low-energy acceptor (Yb), and an optically inactive ion (Gd).",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the luminescence decay dynamics manipulated in the study?",
+      "answer": "The luminescence decay dynamics is manipulated via control over metal distribution in the heterometallic rare-earth MOFs.",
+      "difficulty_level": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is used to demonstrate the utility of the materials as practical tags?",
+      "answer": "The utility of the materials as practical tags is demonstrated via a dynamic double encoding method that uses the braille alphabet and by incorporation into photocurable inks patterned on glass.",
+      "difficulty_level": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study reveals that static, monochromatic luminescence is easy to duplicate using commonly available dyes.",
+      "answer": "True",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges do existing materials for secure encoding face according to the article?",
+      "answer": "Existing materials suffer from challenges such as monochromatic and/or broad emission bands, complex synthesis methods, and the need for highly specialized interrogation equipment.",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the TCPB linker in the MOFs?",
+      "answer": "The TCPB linker directs nonanuclear cluster formation in the MOF, allows for cluster separation, and serves as an antenna molecule for both Eu and Yb, but not Gd.",
+      "difficulty_level": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study reports the synthesis of 13 compositions including single-, di-, and trimetallic compounds.",
+      "answer": "True",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of Gd affect the luminescence lifetime in trimetallic compounds?",
+      "answer": "The presence of Gd increases the average distance between the emitting ions (Eu and Yb), reducing the statistical chance of energy transfer between them, thus affecting the luminescence lifetime.",
+      "difficulty_level": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The heterometallic MOFs rely on compatible coordination geometries and crystallization kinetics of metals to avoid phase or domain separation.",
+      "answer": "True",
+      "difficulty_level": "medium",
+      "type": "True or False"
+    }
+  ]
+}

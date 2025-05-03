@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the research article?",
+      "answer": "2012",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Crispin Lichtenberg, Thomas P. Spaniol, Ilja Peckermann, Timothy P. Hanusa, Jun Okuda",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/ja310112e",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnesium compounds were investigated in the research?",
+      "answer": "Cationic, neutral, anionic, and dianionic allyl magnesium compounds",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main focus of the research article?",
+      "answer": "The structure and reactivity of heterometallic allyl complexes containing magnesium",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the X-ray crystal structure determinations in the research?",
+      "answer": "Data were collected on a Bruker CCD area-detector diffractometer with Mo Kα radiation",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the research find that the allyl magnesium compounds displayed fluxional behavior in solution?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the reaction of allyl magnesium compounds with ethylene investigated in the research?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the butadiene polymerization initiated by the allyl magnesium compounds?",
+      "answer": "The heterobimetallic compounds gave polybutadiene with low polydispersity indices and high 1,2-PDB contents",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the research article include computational details for the structures investigated?",
+      "answer": "Yes, the article included computational details for various discrete model compounds",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of potassium in the allyl magnesium compounds according to the research?",
+      "answer": "Potassium or calcium centers balanced the charge in the case of the magnesiate complexes",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the reactivity of the allyl magnesium compounds towards unsaturated hydrocarbons a focus of the study?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of temperature on the butadiene polymerization initiated by the allyl magnesium compounds?",
+      "answer": "Higher 1,2-PBD contents were obtained at lower temperatures",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the research include investigations on the living character of butadiene polymerizations?",
+      "answer": "Yes, the research showed the living character of these polymerization reactions",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the coordination geometry around the magnesium center in the compounds studied?",
+      "answer": "The coordination geometry was closely related to those in the heterobimetallic complexes and confirmed by density functional theory calculations",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the stability of the allyl ligands in the magnesium compounds confirmed by single crystal X-ray analysis?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the impact of the counterion on the reaction rates and selectivities of BD polymerization?",
+      "answer": "The counterion (K+ vs Ca2+) and the formal charge of the magnesiate had a strong effect on the reaction rates and to a lesser extent the selectivities",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the research find that cationic allyl magnesium compounds initiate the polymerization of butadiene?",
+      "answer": "No, cationic and neutral compounds did not initiate the polymerization under the chosen conditions",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used in the research for geometry optimization?",
+      "answer": "The BP86-D3 functional was used for geometry optimization",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of THF in the allyl magnesium compounds according to the research?",
+      "answer": "THF acted as a ligand in the coordination geometry around the magnesium center in some compounds",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

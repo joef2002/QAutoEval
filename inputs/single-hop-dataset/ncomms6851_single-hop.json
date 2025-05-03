@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1038/ncomms6851",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of materials does the article focus on?",
+      "answer": "Porous coordination polymers (PCPs)",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main goal in research on applicable porous materials as mentioned in the article?",
+      "answer": "The design of inexpensive and less toxic PCPs that show selective adsorption or high adsorption capacity",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article reports the use of Group II magnesium(II) and calcium(II) ions in PCPs for the first time.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the newly introduced ligand, 4,40-bipyridine-N,N0-dioxide (bpdo), in the synthesis of PCPs?",
+      "answer": "It acts as a neutral and charge-polarized bridging ligand for magnesium(II) and calcium(II) ions.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized magnesium(II) and calcium(II) PCPs using bpdo ligand are unstable after the removal of guest molecules.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the charge distribution calculation for the bpdo ligand?",
+      "answer": "It helps to evaluate the hard basicity of the bpdo ligand.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article suggests that the neutral bpdo and pyo ligands act as weaker hard bases compared to 4,40-bpy.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main contribution of the article's finding to the field of PCP frameworks?",
+      "answer": "It contributes to the structural diversification of PCP frameworks with ubiquitous and biocompatible metals.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article claims that the pyo-type ligands can only be used with Group II metal ions.",
+      "answer": "False",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect of CO2 adsorption on the structure of PCP 2?",
+      "answer": "It shows a structural change associated with CO2 adsorption.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article reports that PCP 2 has a higher water stability compared to PCP 3.",
+      "answer": "False",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in using Group II Mg(II) and Ca(II) ions in PCPs as mentioned in the article?",
+      "answer": "The limited availability of neutral bridging ligands for the construction of Group II Mg(II) and Ca(II) PCPs.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized PCPs show selective adsorption of methane over carbon dioxide.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected advantage of using Group II metal ions in PCPs according to the article?",
+      "answer": "Cheaper materials with higher biocompatibility.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article suggests that the structural diversification of PCP frameworks is limited to transition metal ions.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the charge-polarized structure of the bpdo ligand in coordinating with hard Group II metal ions?",
+      "answer": "It allows the neutral bpdo to bridge hard Mg(II) and Ca(II) ions due to its hard basicity.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized PCPs using bpdo ligand do not show selective adsorption of carbon dioxide over methane.",
+      "answer": "False",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the calculated NBO charges for the bpdo ligand?",
+      "answer": "It indicates the potential of the bpdo ligand to act as a stronger hard base for coordinating with hard Group II metal ions.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article concludes that the pyo-type ligands are ineffective in diversifying the PCP frameworks with Group I and II metal ions.",
+      "answer": "False",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of the metal-organic framework discussed in the text?",
+      "answer": "CUK-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pressure range within which CUK-1 undergoes a reversible structural contraction?",
+      "answer": "280-290 MPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the stored energy capacity of CUK-1 as mentioned in the text?",
+      "answer": "40 J g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the transition from open to contracted form in CUK-1 involve a change in space group?",
+      "answer": "No, the space group remains the same (C2/c) throughout the transition.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to directly observe the contracted form of CUK-1?",
+      "answer": "High pressure single crystal X-ray diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unit cell volume change percentage observed for CUK-1 during the transition?",
+      "answer": "20.9%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transition from the open to contracted form in CUK-1 reversible?",
+      "answer": "Yes, the transition is fully reversible.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to gain insight into the mechanical behavior of CUK-1?",
+      "answer": "Density Functional Theory (DFT) calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the molecular dynamics simulations conducted to study CUK-1?",
+      "answer": "300 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the energy profile computed for CUK-1(Mg) at 0 K show a local minimum at lower unit cell volumes?",
+      "answer": "No, it does not show a local minimum at lower unit cell volumes.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main factor contributing to the ideal spring-like behavior of CUK-1?",
+      "answer": "The entropic contributions stabilize the open form and destabilize the contracted form.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of dispersion interactions in the transition of CUK-1?",
+      "answer": "Dispersion interactions between stacking aromatic linkers play a role but are not solely responsible for the transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated unit cell volume of the contracted form of CUK-1(Co) based on mercury intrusion measurements?",
+      "answer": "1950 Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the behavior of CUK-1 under pressure similar to that of MIL-53(M)/MIL-47(V)?",
+      "answer": "No, CUK-1 exhibits an ideal spring-like behavior without hysteresis, unlike MIL-53(M)/MIL-47(V).",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the linker configuration in CUK-1's pressure response?",
+      "answer": "The linker configuration, involving a dual-hinged pivot and a single hinge configuration, mediates the free energy landscape to yield a spring-like response.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the pressure applied to achieve the contracted form of CUK-1 in the high pressure SC-XRD experiments?",
+      "answer": "0.5 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does CUK-1 exhibit any hysteresis upon cycling between open and contracted forms?",
+      "answer": "No, CUK-1 does not exhibit any hysteresis upon cycling.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of aromatic stacking interactions in CUK-1's structural transition?",
+      "answer": "Aromatic stacking interactions are weaker in CUK-1 compared to MIL-53(M)/MIL-47(V), contributing to its reversible transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system and space group of CUK-1 before and after the transition?",
+      "answer": "Monoclinic, C2/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transition pressure for CUK-1 similar for both its Co and Mg forms?",
+      "answer": "Yes, the transition pressure is similar for both Co and Mg forms of CUK-1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1c?",
+      "answer": "C49 H35 B Dy F13 N11 P S2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to treat the static correlation effects in the WFT calculations?",
+      "answer": "CASSCF approach",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the principal magnetic axis orientation in the ground state of 1c?",
+      "answer": "Almost collinear to the B–Dy−F direction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic behavior of 1c and 1o very similar to the reference building block [Dy(Tppy)F(pyridine)2]+?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the electronic structure between 1c and 1o?",
+      "answer": "The nature of the Kramers doublet is strongly altered by a different mixing of the MJ states in the excited states ES4–ES7.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used for data collection and processing in the single-crystal diffraction study?",
+      "answer": "CrysAlisPRO software",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the SHAPE analysis for 1c and 1o?",
+      "answer": "The dysprosium coordination spheres can be described as approximate capped square antiprisms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the crystal of compound 1c change color upon irradiation with 532 nm light?",
+      "answer": "Yes, from dark blue to colorless",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the PLATON/SQUEEZE tool in the study?",
+      "answer": "To treat the electron density of strongly disordered molecules in the lattice.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main challenge in obtaining full data collection under 365 nm irradiation?",
+      "answer": "Quick loss of the diffraction signal with time.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of the neighboring Dy3+ centers in the solid-state structure of 1c and 1o?",
+      "answer": "The magnetic interactions could be simply reduced to a coupling between the two magnetic dipoles.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the magnetic relaxation pathway slower in compound 1c compared to 1o?",
+      "answer": "Yes, suggested by the larger transversal magnetic transition moment in ES3 for 1c.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main solvent used in the synthesis of compound 1c?",
+      "answer": "Dichloromethane",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the method used for the synthesis of ligand Lc?",
+      "answer": "UV-light driven photoisomerization",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of 1c involve layering solutions of different compounds?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of the synthesis of compound 1c?",
+      "answer": "84%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Was the magnetic hysteresis behavior different between 1c and 1o below 5 K?",
+      "answer": "Yes, differences in magnetic hysteresis behavior are clear for 1c and 1o below 5 K.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main computational challenge in the study?",
+      "answer": "The high computational cost of the WFT calculations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the orientation of the principal magnetic axis in 1o very similar to 1c?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the computational analysis regarding the magnetic properties of 1c and 1o?",
+      "answer": "The Orbach mechanism is favored for the relaxation of the magnetization up to certain excited states.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

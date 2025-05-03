@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "PC(sp3)HP Li(THF)] (4)",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": "hexanes",
+        "time": "7 days",
+        "yield": "93%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with pentanes"
+      }
+    },
+    {
+      "name": "PC(sp3)HP FeCl] (5)",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": "toluene",
+        "time": "30 min",
+        "yield": "87%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with n-pentane"
+      }
+    },
+    {
+      "name": "PC(sp3)HP FeMe] (6)",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to room temperature",
+        "solvents": "diethyl ether",
+        "time": "15 min",
+        "yield": "52%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with n-pentane"
+      }
+    },
+    {
+      "name": "PC(sp2)P Fe(N2)(NCtBu)] (1-N2-NCtBu)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "diethyl ether",
+        "time": "1 hour",
+        "yield": "66%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with n-pentane"
+      }
+    },
+    {
+      "name": "PC(sp2)P Fe(N2)(PMe3)] (1-N2-PMe3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "diethyl ether",
+        "time": "2 hours",
+        "yield": "62.5%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with n-pentane"
+      }
+    },
+    {
+      "name": "PC(sp2)P Fe(N2)] (2-N2)",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "toluene",
+        "time": "24 hours",
+        "yield": "81%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with diethyl ether"
+      }
+    },
+    {
+      "name": "PC(=CPh CPh=CPh Fe] (7-Ph,Ph)",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "C6D6",
+        "time": "48 hours",
+        "yield": "27%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with THF"
+      }
+    },
+    {
+      "name": "PC(=CPh CPh=CMe Fe] (7-Me,Ph)",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "solvents": "C6D6",
+        "time": "24 hours",
+        "yield": "34%",
+        "drying_method": "vacuum transfer",
+        "washing_method": "trituration with n-pentane"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the vinyl coordination polymer mentioned?",
+      "answer": "[Zn(4-Fb)2(tkpvb)]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the vinyl coordination polymer exhibit upon light irradiation at different wavelengths?",
+      "answer": "Photoinduced nonlinear lattice expansion",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of mechanical motions does the composite film of 1-PVA exhibit under UV light?",
+      "answer": "Bending, rolling, unrolling, lifting, grasping, and jacking",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of polyvinyl alcohol (PVA) in the study?",
+      "answer": "PVA is used to form a composite film with the vinyl coordination polymer to exhibit photopolymerization-driven macroscopic mechanical motions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the photopolymerization reaction of tkpvb ligands occur?",
+      "answer": "Through a [2+2] photocycloaddition reaction",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the photopolymerization-driven atomic displacements observed?",
+      "answer": "They directly change the positions of all atoms in the cell lattice, inducing lattice deformation of the coordination polymer.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the photopolymerization reaction lead to the formation of a two-dimensional network?",
+      "answer": "Yes, the photopolymerization reaction can yield single crystals of a two-dimensional network comprising one-dimensional organic polymer chains.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photomechanical motion of the 1-PVA film wavelength-dependent?",
+      "answer": "Yes, the photomechanical motion of the 1-PVA film is wavelength-dependent.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the composite film of 1-PVA bend towards or away from the light source upon irradiation?",
+      "answer": "The composite film of 1-PVA bends away from the light source upon irradiation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the photopolymerization-driven macroscopic mechanical motions promote the development of smart photoactuators in microrobotics?",
+      "answer": "Yes, the photopolymerization-driven macroscopic mechanical motions can promote the development of CPs-based smart photoactuators in microrobotics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photopolymerization reaction of tkpvb ligands a rare occurrence?",
+      "answer": "Yes, the photopolymerization reaction of tkpvb ligands based on [2+2] photocycloaddition reaction is a rare occurrence.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the composite film of 1-PVA exhibit photomechanical bending at all wavelengths of light?",
+      "answer": "Yes, the composite film of 1-PVA exhibits photomechanical bending at all wavelengths of light tested, but the fastest response was observed at 365 nm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photopolymerization reaction essential for the photomechanical properties of the 1-PVA films?",
+      "answer": "Yes, the photopolymerization reaction is essential for the photomechanical properties of the 1-PVA films.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "The composite film of 1-PVA can perform photomechanical movements without the presence of the vinyl coordination polymer.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The photopolymerization-driven macroscopic mechanical motions are independent of the light wavelength.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The composite film of 1-PVA requires UV light to exhibit photomechanical motions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The photopolymerization reaction can only occur in the presence of polyvinyl alcohol (PVA).",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The photomechanical motion of the 1-PVA film is caused by the photopolymerization reaction of 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The composite film of 1-PVA exhibits the same photomechanical response at all wavelengths of light.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The photopolymerization-driven macroscopic mechanical motions can be amplified into macroscopic motion through the inclusion of a crystalline powder of 1 in PVA.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

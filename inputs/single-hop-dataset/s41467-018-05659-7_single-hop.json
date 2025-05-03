@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the empirical formula of Eu-Ru(phen)3-MOF?",
+      "answer": "C120H72Eu2N26O22Ru2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the photocatalytic activity of Eu-Ru(phen)3-MOF under visible-light irradiation?",
+      "answer": "Selective CO2 reduction to formate with a rate of 321.9 μmol h−1 mmolMOF−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of TEOA in the photocatalytic reaction?",
+      "answer": "TEOA acts as a sacrificial agent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using Eu-Ru(phen)3-MOF for photocatalytic CO2 reduction?",
+      "answer": "It has high efficiency for selective CO2 photo-reduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Eu-Ru(phen)3-MOF achieve charge separation for photocatalysis?",
+      "answer": "Through electron transfer from Ru(phen)3-derived tricarboxylate ligand to {Eu(III)}2 catalytic centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system and space group of Eu-Ru(phen)3-MOF?",
+      "answer": "Orthorhombic crystal system with space group I222.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Eu2 clusters in the photocatalytic mechanism?",
+      "answer": "Eu2 clusters act as active sites for CO2 reduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Eu-Ru(phen)3-MOF stable after photocatalytic reactions?",
+      "answer": "Yes, it retains its structure and shows no noticeable degradation after three consecutive reactions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Eu-Ru(phen)3-MOF produce H2, CH4, or CO as by-products in the photocatalytic reaction?",
+      "answer": "No, it does not produce H2, CH4, or CO as by-products.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for the structural determination of Eu-Ru(phen)3-MOF?",
+      "answer": "Single-crystal X-ray diffraction determination.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the Ru(phen)3-derived tricarboxylate ligand in Eu-Ru(phen)3-MOF?",
+      "answer": "It acts as a photosensitizer for the photocatalytic process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main product of the photocatalytic CO2 reduction using Eu-Ru(phen)3-MOF?",
+      "answer": "Formate (HCOO−)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photocatalytic activity of Eu-Ru(phen)3-MOF selective?",
+      "answer": "Yes, it is selective for reducing CO2 to formate.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the charge transfer time range observed in Eu-Ru(phen)3-MOF?",
+      "answer": "From 1.2 ns to 293.6 ns.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique was used to confirm the photo-induced electron injection process in Eu-Ru(phen)3-MOF?",
+      "answer": "In situ Electron Paramagnetic Resonance (EPR) experiments.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Eu-Ru(phen)3-MOF framework undergo interpenetration?",
+      "answer": "Yes, it features a twofold interpenetrated structure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Eu2+ species observed in the EPR spectrum under visible-light irradiation?",
+      "answer": "Eu2+ species indicate the formation of active catalytic centers for CO2 reduction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated adsorption energy of CO2 on the active site of Eu1 ion in Eu-Ru(phen)3-MOF?",
+      "answer": "-0.55 eV.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the Eu-Ru(phen)3-MOF be reused without significant loss in photocatalytic activity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of integrating Ru-polypyridine photosensitizers into Eu cluster-based MOFs?",
+      "answer": "It enhances the catalytic activities on CO2 reduction under visible-light irradiation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

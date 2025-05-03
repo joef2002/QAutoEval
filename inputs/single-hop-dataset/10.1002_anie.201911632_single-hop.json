@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What phenomenon significantly impacts the properties and functional applications of MOFs?",
+      "answer": "Interpenetration",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of transforming a 7-fold interpenetrated MOF into an 8-fold interpenetrated MOF?",
+      "answer": "A giant enhancement of the second harmonic generation (SHG) and two-photon photoluminescence.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental condition can manipulate the degree of interpenetration in MOFs?",
+      "answer": "The removal of coordinating solvents or solvents in the channels.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformation from a 7-fold to an 8-fold interpenetrated MOF occurs in a non-single-crystal-to-single-crystal manner.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of the 7-fold interpenetrated MOF [Zn(pvb)2]·DMF?",
+      "answer": "Cc",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the giant enhancement of SHG in the transformation from a 7-fold to an 8-fold interpenetrated MOF?",
+      "answer": "The loss of DMF, which brings individual dia nets closer, facilitating stronger interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CuII MOF, [Cu(pvb)2]·DMF, undergoes a structural transformation similar to the ZnII MOFs upon DMF removal.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increased interpenetration on the porosity of MOFs?",
+      "answer": "It reduces porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The removal of DMF from [Zn(pvb)2]·DMF results in a decrease in the nonlinear optical conversion efficiency.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination geometry of ZnII atoms in the 7-fold interpenetrated MOF [Zn(pvb)2]·DMF?",
+      "answer": "Distorted five-coordinate geometry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The thermal behavior of the MOF [Zn(pvb)2]·DMF shows isotropic thermal expansion.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the large positive and negative thermal expansion observed in the MOF [Zn(pvb)2]·DMF?",
+      "answer": "Anisotropic thermal expansion due to the structure's response to temperature changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SHG response of MOFs is independent of the excitation wavelength.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of p–p interactions in the enhanced nonlinear optical properties of MOFs?",
+      "answer": "Strengthened p–p interactions result in increased oscillator strength and transition dipole moment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformation from 7-fold to 8-fold interpenetration in ZnII MOFs does not affect their SHG responses.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of DMF removal on the oscillator strength and transition dipole moment in MOFs?",
+      "answer": "It increases both the oscillator strength and transition dipole moment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CuII MOF [Cu(pvb)2]·DMF shows a significant change in SHG response after DMF removal.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the space group change from Cc to C2 in the transformation of [Zn(pvb)2]·DMF?",
+      "answer": "It indicates a structural transformation that enhances the SHG response.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The absolute j deff j value of MOF single crystals decreases after the structural transformation from 7-fold to 8-fold interpenetration.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique is used to measure the thermal behavior of the MOF [Zn(pvb)2]·DMF?",
+      "answer": "Variable temperature XRPD (VT-XRPD)",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

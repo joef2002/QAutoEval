@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the coordination polymer synthesized?",
+      "answer": "[Zn(H2PO4)2(TzH)2]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the coordination polymer?",
+      "answer": "The polymer was synthesized from zinc oxide, 1,2,4-triazole (TzH), and phosphoric acid (H3PO4) to give a white powder.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the coordination polymer show an amorphous pattern indicating decomposition or melting?",
+      "answer": "180 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy estimated for the bulk phase of the coordination polymer?",
+      "answer": "0.6 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the overall conductivity of the coordination polymer at 150 °C?",
+      "answer": "1.2 × 10−4 S cm−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conduction mechanism in the coordination polymer of the Grotthuss fashion?",
+      "answer": "Yes, the low activation energy for proton hopping and the study results indicate that the conduction mechanism is of the Grotthuss fashion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What promotes the proton hopping in the coordination polymer?",
+      "answer": "The rotation of phosphate ligands promotes the proton hopping.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the coordination polymer considered an intrinsic proton conductor?",
+      "answer": "Because it shows proton conductivity by itself without any assistance of guest molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the coordination polymer maintain its crystal structure up to 150 °C?",
+      "answer": "Yes, the original crystal structure was unchanged up to 150 °C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the proton conductivity of the coordination polymer higher in the ab plane than in the c direction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer require humidity for proton conductivity?",
+      "answer": "False, it shows anhydrous proton conductivity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the proton conductivity of deuterated coordination polymer higher than the non-deuterated one?",
+      "answer": "False, the conductivity of deuterated coordination polymer is lower.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer contain mobile species that are transported over long ranges?",
+      "answer": "False, it does not contain any species that are mobile over long ranges.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the proton conduction in the coordination polymer facilitated by van der Waals interactions?",
+      "answer": "False, it is facilitated by hydrogen bonds.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer show a decrease in conductivity after 7 hours at 150 °C?",
+      "answer": "False, the conductivity did not decrease significantly even after 7 hours.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TzH ligands in the coordination polymer?",
+      "answer": "TzH ligands contribute to the in-plane conductivity indirectly through the formation of hydrogen bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination polymer achieve its proton conductivity?",
+      "answer": "By having an appropriate interval of orthophosphates in the 2D layers supported by TzH ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the long-range proton conduction in the coordination polymer?",
+      "answer": "The direct current (DC) conductivity confirmed by manufacturing a membrane-electrode assembly (MEA).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination polymer stable under operating conditions?",
+      "answer": "Yes, the OCV values being almost constant over several hours demonstrate the stability of the material under operating conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the coordination polymer's structure allow for optimization of the ion-hopping path?",
+      "answer": "Yes, its crystalline nature allows for optimization of the ion-hopping path.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

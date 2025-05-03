@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Cage-Interconnected Metal–Organic Framework with Tailored Apertures for Efficient C2H6/C2H4 Separation under Humid Conditions",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Heng Zeng, Xiao-Jing Xie, Mo Xie, Yong-Liang Huang, Dong Luo, Ting Wang, Yifang Zhao, Weigang Lu, Dan Li",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/jacs.9b10923",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on a C2H6-selective MOF (JNU-2) with a rare xae topology for efficient C2H6/C2H4 separation under humid conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the JNU-2 MOF's tailored apertures?",
+      "answer": "The tailored apertures in JNU-2 MOF are significant for screening C2H6 selectively over C2H4, contributing to its enhanced C2H6 selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption capacity and selectivity of JNU-2 MOF are not affected by humid conditions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to characterize JNU-2?",
+      "answer": "Techniques used include single-component gas adsorption, water sorption measurements, powder X-ray diffraction (PXRD) analysis, thermogravimetric analysis (TGA), and energy dispersive spectroscopy (EDS).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does JNU-2 MOF perform in terms of C2H6/C2H4 separation compared to other MOFs?",
+      "answer": "JNU-2 MOF demonstrates a high C2H6 uptake and excellent separation capacity for C2H6/C2H4, even under humid conditions, making it superior to many other MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: JNU-2 MOF can be easily regenerated at room temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the cage-like cavities in JNU-2?",
+      "answer": "The cage-like cavities in JNU-2 are interconnected through apertures that function as screening sites for C2H6 selectivity, while the internal cavities provide space for large adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of JNU-2 involves the use of Zn(NO3)2·6H2O and Cu(NO3)2·3H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of JNU-2?",
+      "answer": "JNU-2 has a rare xae topology.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: JNU-2 MOF's performance in gas separation is significantly reduced in the presence of water vapor.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the kinetic diameter of C2H6 and C2H4 molecules?",
+      "answer": "The kinetic diameter of C2H6 is 4.2 Å and C2H4 is 4.4 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption enthalpy for C2H6 in JNU-2 is higher than that for C2H4.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the electronegative oxygen atoms on the aperture in JNU-2?",
+      "answer": "The electronegative oxygen atoms on the aperture in JNU-2 are poised to preferentially interact with C2H6 through multiple C–H···O hydrogen bonding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: JNU-2 MOF has a BET surface area of 1219 m2 g–1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the limiting diameter of the apertures in JNU-2?",
+      "answer": "The limiting diameter of the apertures in JNU-2 is approximately 3.7 Å.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: JNU-2 MOF is stable in water for at least 30 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiments under humid conditions for JNU-2?",
+      "answer": "The breakthrough experiments under humid conditions demonstrate JNU-2's exceptional capacity for separating C2H6 from C2H4, indicating its viability for C2H4 purification under real industrial conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

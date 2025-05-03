@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the space group of ZAG-4 according to DFT calculations at 0 pressure?",
+      "answer": "C2/c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume change of ZAG-6 when pressure is increased from 0 to 6.9 GPa according to experimental data?",
+      "answer": "The volume decreases from 1358.7(4) Å3 to 1004.4(4) Å3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does ZAG-4 exhibit negative linear compressibility?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum Young's modulus (Emax) value for ZAG-6?",
+      "answer": "83.51 GPa",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the density of ZAG-6 at 6.9 GPa higher than its density at ambient pressure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What phenomenon is observed in ZAG-4 at a pressure of 3.8 GPa?",
+      "answer": "A spontaneous proton jump is observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the linker chain in ZAG-6 coil under high pressure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the minimum linear compressibility (βmin) value for ZAG-4?",
+      "answer": "-18.4 TPa–1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the enthalpy of the coiled–H3O+ structure of ZAG-6 lower at higher pressures compared to the straight–H2O structure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of interstitial water molecules in ZAG compounds?",
+      "answer": "They form three hydrogen bonds, two to the framework and one from the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the elastic properties of ZAG-4 and ZAG-6 calculated using quantum chemical calculations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum shear modulus (Gmax) for ZAG-4?",
+      "answer": "18.03 GPa",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does ZAG-6 undergo a pressure-induced proton transfer similar to ZAG-4?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of pressure on the P–O bond distance in ZAG-6?",
+      "answer": "The P–O bond distance shortens from 1.562(2) to 1.503(9) Å, indicating a pressure-induced proton jump.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the crystallographic data for ZAG-6 at ambient and high pressure provided in the Supporting Information?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of ZAG-6 according to experimental data at 0 pressure?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of a proton jump in ZAG-4 and ZAG-6 make them candidates for pressure-switchable proton conduction materials?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the alkyl chain length in determining the flexibility of ZAG materials?",
+      "answer": "The alkyl chain length affects the flexibility of ZAG materials, with longer chains like in ZAG-6 exhibiting coiling under pressure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the mechanical properties of ZAG-4 and ZAG-6 derived from the elastic stiffness matrix?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the negative linear compressibility observed in ZAG-4 and ZAG-6?",
+      "answer": "Negative linear compressibility is significant as it indicates the materials' unique response to pressure, potentially useful for applications requiring materials that expand under pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

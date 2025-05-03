@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "hemispherand-strapped calix[4]pyrrole (2)",
+      "synthesis_conditions": [
+        {
+          "step": "solid-liquid extraction of CsCl",
+          "solvent": "CD2Cl2",
+          "equipment": "N/A",
+          "chemicals_used": "solid CsCl",
+          "observations": {
+            "1H_NMR_shifts": {
+              "pyrrole_NH_proton": "from 8.09 ppm to 11.23 ppm",
+              "b-pyrrolic_CH_proton": "from 5.93 ppm to 5.73 ppm",
+              "OMe_proton": "from 3.21 ppm to 3.55 ppm",
+              "CH2_protons_adjacent_to_amide": "from 2.32 ppm to 2.86 ppm"
+            }
+          }
+        },
+        {
+          "step": "liquid-liquid extraction of CsCl from aqueous phase into chloroform",
+          "solvent": "CDCl3",
+          "equipment": "N/A",
+          "chemicals_used": "saturated solution of CsCl in D2O",
+          "observations": {
+            "1H_NMR_shifts": {
+              "pyrrole_NH_resonances": "from 5.95 ppm to 5.71 ppm",
+              "methoxyl_group": "from 3.19 ppm to 3.37 ppm"
+            }
+          }
+        },
+        {
+          "step": "liquid-liquid extraction efficacy toward CsOH and Cs2CO3",
+          "solvent": "CDCl3",
+          "equipment": "1H NMR spectroscopy",
+          "chemicals_used": {
+            "CsOH": "concentrated solutions of CsOH(aq) (4 m or 6 m in D2O)",
+            "Cs2CO3": "saturated Cs2CO3 in D2O"
+          },
+          "observations": {
+            "extraction_efficiency": {
+              "CsOH": "circa 50 %",
+              "Cs2CO3": "greater than 50 %"
+            }
+          }
+        },
+        {
+          "step": "U-tube transport experiments for CsOH extraction",
+          "solvent": "chloroform (CHCl3)",
+          "equipment": "U-tube setup with stir bar",
+          "chemicals_used": "4.0 m CsOH aqueous solution",
+          "observations": {
+            "pH_change_receiving_phase": "from 6.60 to 9.90",
+            "cesium_concentrations_increase": "observed"
+          }
+        }
+      ]
+    }
+  ]
+}

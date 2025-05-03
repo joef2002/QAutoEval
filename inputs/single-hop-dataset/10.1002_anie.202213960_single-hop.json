@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary structural feature of the metal-organic framework (MOF) discussed in the text?",
+      "answer": "A rare two-dimensional (2D) secondary building unit (SBU).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What metal ions are involved in the MOF's structure?",
+      "answer": "Mixed-valent Fe2+ and Fe3+ metal ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of dimensionality in the properties of MOFs according to the text?",
+      "answer": "Dimensionality control of MOF SBUs is crucial for discovering new topologies and improving electronic communication within the MOF skeleton.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The vast majority of SBUs in MOFs are one-dimensional.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What ligand is used in the synthesis of the discussed MOF?",
+      "answer": "3,3’,4,4’,5,5’-hexahydroxybiphenyl (HHBP, or di-pyrogallol).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the crystallinity of the MOF improved?",
+      "answer": "By using an acid modulator, specifically the addition of up to 1.25 equivalents of nitric acid relative to HHBP.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF exhibits a 4,6-c net with 4,6T5 topology.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What spectroscopic method confirmed the mixed-valent nature of Fe2+/Fe3+ in the MOF?",
+      "answer": "Mössbauer spectroscopy.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the optical band gap of FeHOBP as determined by the Kubelka–Munk representation?",
+      "answer": "0.99 eV.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electrical conductivity of FeHOBP situates it within the range of semiconducting MOFs.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Fe2+/Fe3+ ratio in the MOF?",
+      "answer": "It indicates strong electronic interactions and mixed valency within the MOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF retains crystallinity after exposure to boiling water and saline solution.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of nitrogen in the MOF after activation suggest?",
+      "answer": "The presence of a persistent, charge-balancing cation, likely dimethylammonium (DMA).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's chemical stability is attributed to the high pKa value of pyrogallol.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the magnetic susceptibility behavior of FeHOBP suggest about its Fe atoms?",
+      "answer": "It suggests complex exchange interactions and strong antiferromagnetic super-exchange interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF discussed is chemically stable in acidic and basic media.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary decomposition temperature of FeHOBP as shown by thermogravimetric analysis?",
+      "answer": "Approximately 165 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the ferrimagnetic transition observed in magnetometry measurements indicate?",
+      "answer": "It indicates ferromagnetic double exchange interactions between Fe2+ and Fe3+ spin centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's unique topology and 2D SBU were discovered using a di-pyrogallol linker and iron precursors.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the high-dimensional SBUs in the MOF according to the conclusion?",
+      "answer": "They enable strong electronic interactions between the iron sites, showcasing the advantage of designing MOFs with high-dimensional SBUs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

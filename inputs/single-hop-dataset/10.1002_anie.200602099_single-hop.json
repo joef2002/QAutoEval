@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What are metal-organic frameworks (MOFs) potentially useful for?",
+      "answer": "Catalysis, gas storage, separation, and ion-exchange processes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How were the homochiral porous MOFs synthesized?",
+      "answer": "By incorporating chiral constituent building blocks that contained orthogonal functionalities under mild conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the single-crystalline nature of MOFs?",
+      "answer": "It allows detailed structural interrogation to examine the relationship between the structure and the catalytic activity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the CO2 adsorption measurements for compound 1?",
+      "answer": "It showed that compound 1 possessed permanent porosity, with a Langmuir surface area of 772.3 m2 g-1 and a pore volume of 0.25 mL g-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the mixture of 2 and Ti(OiPr)4 not catalyze the addition of diethylzinc to aromatic aldehydes?",
+      "answer": "Due to the steric congestion around the chiral dihydroxy groups, which prevents the substitution of two isopropoxide groups by the binolate functionality.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the lack of catalytic activity with the 2/Ti(OiPr)4 system indirectly prove?",
+      "answer": "The heterogeneous nature of the 1/Ti(OiPr)4 system.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of synthesizing homochiral porous MOFs?",
+      "answer": "To generate heterogeneous asymmetric catalysts by activating Lewis acidic metal centers with chiral dihydroxy groups.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of MOFs affect their catalytic performance?",
+      "answer": "The framework structure plays a crucial role in determining the catalytic performance, as demonstrated by the different activities of MOFs 1 and 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of catalyst loadings on the conversions and ee values?",
+      "answer": "The conversions and ee values were only slightly affected by catalyst loadings.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the successful synthesis of a highly enantioselective asymmetric catalyst from an interpenetrated homochiral MOF demonstrate?",
+      "answer": "It demonstrates the remarkable dependency of catalytic activity on the framework structure for heterogeneous asymmetric catalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are MOFs intrinsically zeolite-mimicking?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did compound 2 possess permanent porosity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the catalytic activity of 1/Ti(OiPr)4 system homogeneous?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the 1/Ti(OiPr)4 system catalyze the addition of diethylzinc to aromatic aldehydes with high enantioselectivity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic performance of MOFs independent of their framework structure?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the 2/Ti(OiPr)4 system show catalytic activity similar to the 1/Ti(OiPr)4 system?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the synthesis of homochiral porous MOFs achieved under harsh conditions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

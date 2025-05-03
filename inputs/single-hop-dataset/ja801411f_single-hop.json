@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C9H5YO7",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of compound 1?",
+      "answer": "Tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the TGA and DSC result for 1 plotted?",
+      "answer": "The TGA and DSC result for 1 was plotted from 0°C to 600°C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum hydrogen uptake of 1a at 77 K and 10 bar?",
+      "answer": "Approximately 2.1 wt %",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the optimal pore size mentioned for enhancing hydrogen adsorption in the framework?",
+      "answer": "Around 6 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many D2 adsorption sites were identified in 1a?",
+      "answer": "Four distinct D2 sites were identified.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the optimal pore size in hydrogen adsorption?",
+      "answer": "The optimal pore size strengthens the interactions between H2 molecules and pore walls, increasing the heat of adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the strongest adsorption site associated with the aromatic BTC linkers?",
+      "answer": "Because it provides direct structural evidence that small pores with an optimal diameter enhance interactions between H2 molecules and pore walls.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the hydrogen storage capacity of 1a at 77 K and 10 bar higher than 2.0 wt %?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the TGA result indicate that compound 1 is stable up to 600°C?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of compound 1 cubic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all D2 adsorption sites in 1a directly coordinated to the open metal Y ion?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the isosteric heat of adsorption for 1a less than 5 kJ mol-1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the gas adsorption isotherm of 1a at 77 K show a type I profile?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the enthalpy of adsorption for 1a less than 7 kJ mol-1?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can 1a selectively adsorb hydrogen over nitrogen gas molecules?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Y(BTC) framework in hydrogen storage?",
+      "answer": "The Y(BTC) framework provides a stable structure with optimal pore size for selective hydrogen adsorption and storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

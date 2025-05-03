@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What are metal-organic frameworks (MOFs)?",
+      "answer": "MOFs are crystalline extended structures constructed from a small number of distinct building units, combining the inherent rigidity of their framework with functional flexibility.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy was used to produce MTV-MOFs with multiple functionalities?",
+      "answer": "The strategy involved assembling the MOF structures from links with different functional groups, maintaining the link length and connectivity while controlling the orientation, number, relative position, and ratio of the functionalities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MTV-MOFs undergo restructuring under high CO coverage?",
+      "answer": "Yes, stepped platinum surfaces of MTV-MOFs can undergo extensive and reversible restructuring when exposed to CO at pressures above 0.1 torr.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What implications does the restructuring phenomenon have for heterogeneous catalytic reactions?",
+      "answer": "This restructuring phenomenon has important implications for heterogeneous catalytic reactions, potentially affecting the activity and selectivity of the catalyst.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How were the MTV-MOFs characterized?",
+      "answer": "The MTV-MOFs were characterized by powder x-ray diffraction, 13C CP/MAS NMR, 1H NMR on acid-digested solutions of their crystals, and thermogravimetric analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of low-coordination sites in MTV-MOFs imply?",
+      "answer": "The presence of low-coordination sites in MTV-MOFs implies that these sites may be the catalytically active sites, similar to real catalysts which consist of small particles exposing a large number of such sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the distribution of functional groups in MTV-MOFs ordered or disordered?",
+      "answer": "The distribution of functional groups in MTV-MOFs is disordered, although the MOF backbone itself is ordered.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of exposing MTV-MOFs to CO gas?",
+      "answer": "Exposing MTV-MOFs to CO gas resulted in the originally flat terraces breaking up into nanometer-sized clusters, which reverted to the initial morphology after pumping out the CO gas.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the restructuring of MTV-MOFs under CO coverage occur according to density functional theory calculations?",
+      "answer": "According to density functional theory calculations, the restructuring occurs as the creation of increased concentrations of low-coordination Pt edge sites in the formed nanoclusters relieves the strong CO-CO repulsion in the highly compressed adsorbate film.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the ability to control the ratio of links in MTV-MOFs allow?",
+      "answer": "The ability to control the ratio of links in MTV-MOFs allows for the fine-tuning of the pore environment, potentially leading to enhanced or new properties.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

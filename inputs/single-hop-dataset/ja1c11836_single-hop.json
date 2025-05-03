@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of NU-700?",
+      "answer": "C138 H102 O32 Zr6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) were the single-crystal XRD data for NU-405 collected?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of NU-1800?",
+      "answer": "Orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of NU-602?",
+      "answer": "Pm-3m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (Å3) of the unit cell for NU-405?",
+      "answer": "36066.2(3)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>2sigma(I)) for NU-1800?",
+      "answer": "R1 = 0.0341, wR2 = 0.1012",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield based on L1 for the synthesis of NU-700?",
+      "answer": "65%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What solvent was used for the synthesis of NU-913-HAc?",
+      "answer": "DMF",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of NU-913 the same as NU-1800?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NU-602 have a higher water uptake (g/g) at P/P0 = 0.6 compared to zeolite 13X?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the water working capacity of NU-913-TFA in the range of P/P0 between 0.4 and 0.6 higher than that of MIL-101-Cr?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the linker L1 synthesized using a Suzuki cross-coupling reaction?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of NU-700 P-3c1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NU-913-TFA have a higher water uptake capacity at P/P0 = 0.9 compared to NU-602?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was TGA used to analyze the thermal stability of the Zr-MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the linker used for the synthesis of NU-913?",
+      "answer": "L3",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation method used for NU-405 to obtain a high BET area?",
+      "answer": "Supercritical CO2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the BET area of NU-913-TFA after water sorption?",
+      "answer": "1670 m^2/g",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the linker L2 used in the synthesis of NU-1800?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NU-913-HAc have a higher water uptake capacity at P/P0 = 0.6 compared to MIL-101-Cr?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

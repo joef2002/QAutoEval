@@ -1,0 +1,57 @@
+{
+  "materials": [
+    {
+      "name": "[(Tp)2FeIII2(CN)6Cu(CH3OH)·2CH3OH]n",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "(Bu4N)[(Tp)Fe(CN)3]",
+              "amount": "118 mg",
+              "molarity": "0.2 mmol",
+              "solvent": "methanol",
+              "solvent_amount": "2 ml"
+            },
+            {
+              "chemical": "Cu(NO3)2·6H2O",
+              "amount": "30 mg",
+              "molarity": "0.1 mmol",
+              "solvent": "water",
+              "solvent_amount": "2 ml"
+            }
+          ],
+          "temperature": "Room temperature",
+          "time": "Two weeks",
+          "yield": "80%",
+          "other_conditions": "Layering method"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "method": "IR",
+          "details": "υ = 2129, 2177 cm-1 (υCN)"
+        },
+        {
+          "method": "Elemental Analysis",
+          "details": "Anal. calcd for C25H24B2CuFe2N18O·CH3OH: C, 38.02; H, 3.44; N 30.69. Found: C, 37.86; H 3.53; N, 30.21."
+        }
+      ],
+      "magnetic_measurements": [
+        {
+          "equipment": "Quantum Design MPMS-XL7 SQUID magnetometer",
+          "temperature_range": "1.8−300 K",
+          "dc_field_range": "–70 to 70 kOe",
+          "ac_measurements": {
+            "frequencies": "0.1 to 1000 Hz",
+            "ac_field_amplitude": "5 Oe",
+            "dc_field": "No dc field applied"
+          },
+          "second_harmonic_ac_magnetic_susceptibility": {
+            "equipment": "Oxford Instruments MagLab2000 system"
+          }
+        }
+      ]
+    }
+  ]
+}

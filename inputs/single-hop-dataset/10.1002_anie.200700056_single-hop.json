@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in separating mixed C8 alkylaromatic compounds in the chemical industry?",
+      "answer": "The main challenge is the similarity of their boiling points, making distillation only feasible for the removal of o-xylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What class of materials is currently receiving much attention for adsorption applications?",
+      "answer": "Metal–organic frameworks (MOFs) are receiving much attention for adsorption applications.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF shows a high selectivity for para-xylene over ethylbenzene?",
+      "answer": "MIL-47 shows a high selectivity for para-xylene over ethylbenzene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity of MIL-47 for para-xylene versus meta-xylene?",
+      "answer": "The selectivity of MIL-47 for para-xylene versus meta-xylene is 2.9:1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Zeolites X and Y are used as industrial adsorbents for separating C8 alkylaromatic compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adsorption selectivities in the liquid phase are a consequence of different interaction energies between the MIL-47 framework and the adsorbed molecules.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: MIL-47 has a lower uptake capacity for ethylbenzene compared to para-xylene.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the selectivities observed in the liquid phase for MIL-47?",
+      "answer": "The selectivities result from molecular packing effects inside the sterically confining environment of the MIL-47 pore system.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does MIL-47 prefer para-xylene over meta-xylene and ethylbenzene?",
+      "answer": "MIL-47 prefers para-xylene due to its ability to pack more easily and efficiently inside the MIL-47 pores than meta-xylene or ethylbenzene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adsorption of ethylbenzene affect the lattice constants of MIL-47?",
+      "answer": "The adsorption of ethylbenzene causes a major change in the lattice constants of MIL-47.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental setup was used to test the separation of C8 alkylaromatic compounds using MIL-47?",
+      "answer": "A continuous-flow setup using a column packed with MIL-47 crystals was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of para-xylene induces significant changes in the lattice constants of MIL-47.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hexane in the experiments with MIL-47?",
+      "answer": "Hexane served as a suitable desorbent for regeneration of the column between different experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MIL-47's preference for para-xylene over meta-xylene and ethylbenzene is due to its hydrophobic nature.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the selectivity values obtained from breakthrough profiles for MIL-47?",
+      "answer": "The selectivity values indicate MIL-47's effectiveness in separating para-xylene from meta-xylene and ethylbenzene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption enthalpies for all C8 alkylaromatic compounds measured in the gas phase are nearly identical.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the molecular arrangement of xylene isomers affect their adsorption in MIL-47?",
+      "answer": "The molecular arrangement, especially the alignment of aromatic planes and steric interactions, affects how efficiently the isomers can be packed in the MIL-47 pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MIL-47's remarkable properties for adsorption processes are solely due to its high uptake capacity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of MIL-47?",
+      "answer": "MIL-47 was hydrothermally synthesized and calcined in air.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is MIL-47 considered promising for real separations of C8 alkylaromatic compounds?",
+      "answer": "Due to its high selectivities, high uptake capacity, and hydrophobic nature, demonstrated by breakthrough and chromatographic experiments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

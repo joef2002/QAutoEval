@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound that was synthesized using a ternary solvent system?",
+      "answer": "The chemical formula of the compound synthesized using a ternary solvent system is [W10O32@Ag48(CyS)24(NO3)16]·4NO3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to record the IR spectra?",
+      "answer": "The IR spectra were recorded on the Bruker Tensor II spectrophotometer.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of MeOH in the synthesis of Ag48M compared to Ag48T?",
+      "answer": "In the synthesis of Ag48M, more polar and hydrogen-bond-donor MeOH molecules were employed than in the synthesis of Ag48T, leading to more MeOH molecules interacting with surface hydrogen-bond-acceptor NO3- of the cluster and inducing the formation of more strong directional hydrogen bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photothermal maximum temperature of Ag48T is slightly higher than that of Ag48M.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to measure the photothermal behaviors of the compounds?",
+      "answer": "The photothermal behaviors of the compounds were measured using a CNI Laser MDL-N-660nm and monitored by a thermal imaging camera (FLIR E54).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Jablonski diagram proposed for Ag48T and Ag48M?",
+      "answer": "The Jablonski diagram proposed for Ag48T and Ag48M illustrates the photothermal effect mechanism at room temperature, highlighting the processes of excitation, vibrational relaxation, radiative emission, and nonradiative transition, which are crucial for understanding the photothermal conversion efficiency.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the heating rate of Ag48T under 0.7 W cm-2 laser power?",
+      "answer": "The heating rate of Ag48T under 0.7 W cm-2 laser power was 163 °C s-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The quantum yield (QY) of Ag48T is higher than that of Ag48M.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the ternary solvent system in directing the self-assembly into tetragonal (Ag48T) and monoclinic (Ag48M) systems?",
+      "answer": "The ternary solvent system played a critical role in directing the self-assembly into tetragonal (Ag48T) and monoclinic (Ag48M) systems by influencing the orientation of surface NO3- ligands during nucleation, which affected the formation of intermolecular hydrogen bonds and the packing arrangement of the 1D chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ESI-MS technique was used to testify the stability of Ag48T in DMF solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

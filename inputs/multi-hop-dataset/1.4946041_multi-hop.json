@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of the lanthanide based metal-organic framework studied?",
+            "answer": "[Nd(C4H5O6)(C4H4O6)][3H2O]",
+            "type": "factual"
+        },
+        {
+            "question": "In what crystal system and space group does [Nd(C4H5O6)(C4H4O6)][3H2O] crystallize?",
+            "answer": "Tetragonal system with space group P41212",
+            "type": "factual"
+        },
+        {
+            "question": "How many oxygen atoms coordinate to each Nd center and what geometry do they form?",
+            "answer": "Each Nd center is coordinated by nine oxygen atoms, six from the tartrate ligands and three from water molecules, forming a distorted capped square antiprismatic geometry.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the range of Nd-O bond lengths in the crystal structure?",
+            "answer": "The Nd-O bond lengths range from 2.303(3) to 2.691(8) \u811c with an average value of 2.407 \u811c.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the tartrate ligands bridge the Nd atoms to form the overall structure?",
+            "answer": "The tartrate ligands act as bridges between Nd atoms and result in a two-dimensional chiral structure. The chiral sheets are interconnected through hydrogen-bonding to produce a three dimensional porous framework.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the average O-H...O hydrogen bonding distance that interconnects the 2D chiral sheets?",
+            "answer": "The average O-H...O hydrogen bonding distance is 2.113 \u811c.",
+            "type": "factual"
+        },
+        {
+            "question": "At what temperatures does [Nd(C4H5O6)(C4H4O6)][3H2O] exhibit dielectric anomalies and what are they attributed to?",
+            "answer": "The complex exhibits two dielectric anomalies - at 295 K attributed to a paraelectric-ferroelectric transition, and at 185 K attributed to the freezing down of the motion of the hydroxyl groups.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the nature of the ferroelectric phase transition at 295 K?",
+            "answer": "The ferroelectric phase transition at 295 K is of second order.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the spontaneous polarization in the low temperature ferroelectric phase attributed to?",
+            "answer": "The spontaneous polarization in the low temperature ferroelectric phase is attributed to the ordering of protons of hydroxyl groups.",
+            "type": "factual"
+        },
+        {
+            "question": "The dielectric constant follows the Curie-Weiss law in the vicinity of the ferroelectric transition. True or false?",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "The Curie-Weiss temperature coincides with the Curie temperature, suggesting the ferroelectric transition is first order. True or false?",
+            "answer": "False. The Curie-Weiss temperature coincides with the Curie temperature, suggesting the ferroelectric transition is second order.",
+            "type": "true_false"
+        },
+        {
+            "question": "What is the order of magnitude of the conductivity of [Nd(C4H5O6)(C4H4O6)][3H2O] and what is it attributed to?",
+            "answer": "The complex has a small conductivity of the order of 10^-8 S m^-1 and is attributed to the hopping of protons between different localized states.",
+            "type": "factual"
+        },
+        {
+            "question": "Which semiempirical quantum approach was found to be most accurate in predicting the unit cell structure of [Nd(C4H5O6)(C4H4O6)][3H2O]?",
+            "answer": "The Sparkle/PM7 model was found to be the most accurate in predicting the unit cell structure, with average error below 5% for unit cell parameters.",
+            "type": "factual"
+        },
+        {
+            "question": "The Nd-O, C-C, C-O bond lengths in the Sparkle/PM7 optimized structure agree well with the crystallographic structure. True or false?",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "What is the enthalpy of formation of [Nd(C4H5O6)(C4H4O6)][3H2O] calculated by the Sparkle/PM7 model?",
+            "answer": "-2524 kJ/mol",
+            "type": "factual"
+        },
+        {
+            "question": "The dielectric constant shows frequency dispersion only in the paraelectric phase due to domain wall motion. True or false?",
+            "answer": "False. The dielectric constant shows frequency dispersion throughout the temperature range, not just in the paraelectric phase. The dispersion cannot be attributed to domain wall motion only as ferroelectric domains are absent in the paraelectric phase.",
+            "type": "true_false"
+        },
+        {
+            "question": "What is responsible for the disorderness in the crystal structure of [Nd(C4H5O6)(C4H4O6)][3H2O] above 295 K?",
+            "answer": "The disorderness arises from the disordered coordinated water molecules and the fact that the non-coordinating carboxylate residue is protonated only 50% of the time above 295 K.",
+            "type": "reasoning"
+        },
+        {
+            "question": "The ferroelectric ordering below 295 K comes from the ordering of which chemical groups?",
+            "answer": "The ferroelectric ordering below 295 K comes from the ordering of the protons ensuing from the motion of the hydroxyl groups of the tartrate ligands and water molecules.",
+            "type": "reasoning"
+        },
+        {
+            "question": "The Sparkle/PM7 model can accurately predict the coordination polyhedron geometry around lanthanide ions in metal-organic frameworks. True or false?",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "What is the pore volume ratio and solvent-accessible volume per unit cell of [Nd(C4H5O6)(C4H4O6)][3H2O]?",
+            "answer": "The pore volume ratio is 36.79% and the solvent-accessible volume is 1611 \u811c^3 per unit cell.",
+            "type": "factual"
+        }
+    ]
+}

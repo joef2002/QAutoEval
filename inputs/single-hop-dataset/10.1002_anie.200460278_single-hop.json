@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What are the two rhodizonate transition-metal complexes reported in the study?",
+      "answer": "[Cd(C6O6)(bpym)(H2O)]·H2O and [Mn(C6O6)(bpym)(H2O)]·2 H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do rhodizonate and 2,2’-bipyrimidine (bpym) play in the complexes?",
+      "answer": "They act as the bis-bidentate ligands to chelate the metal ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the molecular symmetry of rhodizonate in the complexes?",
+      "answer": "Nonplanar C2 symmetry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of [Cd(C6O6)(bpym)(H2O)]·H2O when synthesized?",
+      "answer": "About 23%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of [Mn(C6O6)(bpym)(H2O)]·2 H2O when synthesized?",
+      "answer": "About 34%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the geometric environment of the cadmium center in compound 1?",
+      "answer": "Distorted pentagonal bipyramidal",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the nonplanar molecular geometry in C6O6^2-?",
+      "answer": "It indicates less extensive p-electron delocalization in the six-membered ring of the dianion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the molecular structure of compound 2 compare to that of compound 1?",
+      "answer": "Almost the same, with a 2D chairlike {Mn6} MOF constructed through similar linkages.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of the absorption band measurement for compound 1 in DMSO?",
+      "answer": "An absorption band maximized at 490 nm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What emission band maximum does compound 1 exhibit upon excitation?",
+      "answer": "590 nm with decent quantum efficiency (≈ 0.05).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of examining the correlation between molecular symmetry and p-electron delocalization?",
+      "answer": "To understand the diketone character and the molecular geometry of rhodizonate when used as a coordinating ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a bis-bidentate (m4) binding mode of rhodizonate in the complexes indicate?",
+      "answer": "It is a novel finding that contributes to understanding the coordination behavior of rhodizonate.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the molecular structure of rhodizonate in the complexes planar?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of [Cd(C6O6)(bpym)(H2O)]·H2O higher than [Mn(C6O6)(bpym)(H2O)]·2 H2O?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the geometric environment of the manganese center in compound 2 differ significantly from that of the cadmium center in compound 1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the Cd···Cd separations through C6O6^2- and bpym bridges identical in length?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal structure of a rhodizonate transition-metal complex previously reported before this study?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the nonplanar molecular geometry of C6O6^2- suggest a high degree of p-electron delocalization?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the absorption band of compound 1 in DMSO maximized at 590 nm?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

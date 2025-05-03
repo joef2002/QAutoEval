@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the occupation factor for the 3b site in the crystal structure discussed?",
+      "answer": "The occupation factor for the 3b site (Na1, octahedral void) converges at physically meaningless values during refinement.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature does the delocalization in the area of the octahedral interstice increase?",
+      "answer": "The delocalization in the area of the octahedral interstice increases with temperature.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the specific heat capacity curve for β-Na,Hg supposed to return to its initial baseline after the α/β phase transition?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ideal central position in the tetrahedral void for Na2?",
+      "answer": "The ideal central position in the tetrahedral void for Na2 would be z = 1/4 instead of 0.245.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How are the tetranuclear silver clusters in the crystal structure of succinatodisilver(1) oriented?",
+      "answer": "The tetranuclear silver clusters are strictly parallel to the ac plane.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to form single crystals of [Ag2{OOC-(CH2)2-COO}]n suitable for X-ray crystallography?",
+      "answer": "Single crystals were formed at room temperature by slow diffusion of a solution of Ag+ ions into a silica gel medium containing succinate anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the silver cations in the structure of succinatodisilver(1) held together by bridging carboxylato ligands?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the shortest intercluster Ag-Ag distance in the structure of succinatodisilver(1)?",
+      "answer": "The shortest intercluster Ag-Ag distance is 3.67 A.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of succinatodisilver(1) represent the first example of a three-dimensional coordination polymer containing metal clusters?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination pattern of silver in the succinatodisilver(1) structure?",
+      "answer": "The coordination of silver is quasi linear.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the ligands in the succinatodisilver(1) structure located on crystallographic inversion centers?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the experimental procedure for forming pale yellow prismatic crystals of succinatodisilver(1)?",
+      "answer": "A sodium silicate solution was slowly added to an aqueous solution of succinic acid until the pH reached 5.6, followed by the addition of an aqueous solution of AgNO3 on top of the gel.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound succinatodisilver(1) soluble in common organic solvents?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the symmetry of the oligomer represented by the Ag4 cluster with its four succinate anions in the structure of succinatodisilver(1)?",
+      "answer": "The oligomer exhibits pseudo-S4 symmetry.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of succinatodisilver(1) form by three interpenetrating, distorted diamondoid frameworks?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of the Human Protein Data collection?",
+      "answer": "The Human Protein Data collection aims to compile data on human proteins, including structural features, molecular mass, biological function, and more.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Human Protein Data collection available in both a physical looseleaf collection and on a diskette?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference between the Human Protein Data collection and the Enzyme Handbook by GBF?",
+      "answer": "The Human Protein Data collection focuses on human proteins, while the Enzyme Handbook covers enzymes from all known sources according to their EC numbers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the descriptions in the Human Protein Data collection specialized or accessible to general users?",
+      "answer": "The descriptions are concise and comprehensible to general users.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Human Protein Data collection include cross-references to protein sequence data banks like PIR or SWISSPROT?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

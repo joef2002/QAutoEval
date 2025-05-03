@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using Ln3+-based materials in the detection of Gossypol?",
+      "answer": "Ln3+-based materials are used for the luminescence “turn-on” detection of Gossypol, leveraging their near-infrared emitting properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the limit of detection for Gossypol using Yb-NH2-TPDC?",
+      "answer": "The limit of detection for Gossypol using Yb-NH2-TPDC is 25 µg/mL.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can Yb-NH2-TPDC be recycled for Gossypol detection?",
+      "answer": "Yes, Yb-NH2-TPDC can be recycled for Gossypol detection for at least four cycles.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of interferents like cottonseed oil on the detection of Gossypol using Yb-NH2-TPDC?",
+      "answer": "Interferents like cottonseed oil do not significantly affect the detection of Gossypol using Yb-NH2-TPDC.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Gossypol an effective sensitizer for Yb3+ photoluminescence?",
+      "answer": "Yes, Gossypol is an effective sensitizer for Yb3+ photoluminescence.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the antenna effect in the detection of Gossypol?",
+      "answer": "The antenna effect involves Gossypol sensitizing Yb3+ photoluminescence, enabling the “turn-on” detection mechanism.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: YbCl3·6H2O solution exhibits intense Yb3+ PL upon addition of Gossypol.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the detection range of Gossypol using YbCl3·6H2O?",
+      "answer": "The detection range of Gossypol using YbCl3·6H2O is from 0.5 to 10 µg/mL.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of Gossypol does not change the coordination environment of Yb3+ ions in YbCl3·6H2O solution.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the response time of YbCl3·6H2O compare to Yb-NH2-TPDC for Gossypol detection?",
+      "answer": "The response time of YbCl3·6H2O is significantly faster than Yb-NH2-TPDC for Gossypol detection.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NdCl3·6H2O can also be used for Gossypol detection.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the limit of detection for Gossypol using NdCl3·6H2O?",
+      "answer": "The limit of detection for Gossypol using NdCl3·6H2O is 1 µg/mL.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of interferents enhances the Yb3+ PL intensity of YbCl3·6H2O in response to Gossypol.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using Yb-NH2-TPDC over YbCl3·6H2O for Gossypol detection?",
+      "answer": "Yb-NH2-TPDC has improved resistance to interference and can be advantageous for integration into solid state devices that are recyclable.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The detection methods introduced for Gossypol have a limit of detection and response time superior to other spectroscopic methods.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the antenna effect in Ln3+-based materials for chemical sensing?",
+      "answer": "The antenna effect allows Ln3+-based materials to achieve luminescence “turn-on” sensing with high specificity for analytes like Gossypol.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Gossypol can independently function as an effective sensitizer for Yb3+ luminescence.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Schiff base formation in the detection mechanism of Gossypol?",
+      "answer": "Schiff base formation is unlikely in the detection mechanism of Gossypol, as Yb-NH2-TPDC is a recyclable sensor, suggesting the “antenna effect” is the main operative mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescence “turn-on” sensors described for Gossypol detection require little additional data interpretation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of Gossypol affect the excitation range of Yb3+ PL in Yb-NH2-TPDC?",
+      "answer": "The presence of Gossypol extends the excitation range of Yb3+ PL to longer wavelengths in Yb-NH2-TPDC.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

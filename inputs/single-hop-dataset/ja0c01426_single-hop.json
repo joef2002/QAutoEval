@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of synthesizing ytterbium-based MOFs with extended excitation bands?",
+      "answer": "The purpose is to extend the excitation bands of ytterbium-based MOFs to 800 nm via the postsynthetic coupling of acetylene units to form a high density of conjugated π-systems throughout MOF pores, aiming for long wavelength excitation/absorption bands for biological imaging applications.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to confirm the crystallinity of MOFs after post-synthetic modification?",
+      "answer": "Powder X-ray diffraction (PXRD) analysis was used to confirm the crystallinity of MOFs after post-synthetic modification.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The LCMS analysis was performed to identify the elemental composition of the modified linker species with isotopic resolution.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How were the modified MOF crystals analyzed for product distribution?",
+      "answer": "The modified MOF crystals were analyzed for product distribution by dissolving them in DMSO-d6 and D2SO4, followed by 1H NMR analysis to identify the peaks corresponding to the vinylogous protons on the modified linker species.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of Tween-20 in the miniaturization process of MOF-1114(Yb)?",
+      "answer": "Tween-20 was used to prevent the aggregation of the miniaturized MOFs in water, ensuring they remain well dispersed.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What imaging technique was used to observe the Yb3+ signal from MOF crystals?",
+      "answer": "Epifluorescence microscopy imaging was used to observe the Yb3+ signal from MOF crystals.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The size distribution of miniaturized MOF fragments was determined using a microscopy-based method.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using RAW 264.7 cells in the study?",
+      "answer": "RAW 264.7 cells were used to test the imaging capabilities of the miniaturized MOFs, demonstrating their potential for biological applications.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The modified MOFs maintained their structure and emissive properties in aqueous biological conditions.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the LCMS and NMR analyses regarding the modified MOFs?",
+      "answer": "The main finding was the identification of monoadduct and diadduct products from the post-synthetic modification of MOFs, indicating successful coupling reactions within the MOF pores.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the stability of miniaturized MOF fragments in water tested?",
+      "answer": "The stability of miniaturized MOF fragments in water was tested by comparing the PXRD patterns of modified MOF fragments after being in water for 1 day to those of unmodified MOF.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that MOF-based NIR imaging agents are suitable for biological applications with tunable and optimized excitation wavelengths.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the Gaussian fitting of the size distribution histogram?",
+      "answer": "The Gaussian fitting of the size distribution histogram was significant for determining the mean particle size and the polydispersity of the miniaturized MOF fragments, which is crucial for their application in biological imaging.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of post-synthetic modification on the emission spectra of MOF-1114(Yb)?",
+      "answer": "The post-synthetic modification led to the observation of characteristic Yb3+ NIR emission signals, indicating that the modification did not adversely affect the luminescent properties of the MOF.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study utilized a mortar and pestle grinding followed by ultrasonication for the miniaturization of MOF crystals.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in the LCMS analysis of the modified MOFs?",
+      "answer": "The main challenge in the LCMS analysis of the modified MOFs was the partial separation of the linker-modification products, which required further HPLC separation for detailed analysis.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How did the study ensure that the Tween-20 concentration used for miniaturized MOFs did not induce cell toxicity?",
+      "answer": "The study ensured that the Tween-20 concentration did not induce cell toxicity by diluting the miniaturized MOF in water with 0.5% Tween-20 100 times in complete medium before adding it to cells, keeping the final concentration of Tween-20 below toxic levels.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings support the use of MOFs as promising materials for sensitizing near-infrared emitting lanthanide ions for biological imaging.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of DMSO and H2SO4 in the analysis of modified MOF crystals?",
+      "answer": "DMSO and H2SO4 were used to dissolve the modified MOF crystals for LCMS and NMR analyses, facilitating the identification and characterization of the modification products.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that the long wavelength excitation and emission properties of modified MOFs are maintained under biological conditions.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

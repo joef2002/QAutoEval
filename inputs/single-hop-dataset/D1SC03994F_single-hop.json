@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application interest of porous materials in medical applications?",
+      "answer": "The primary application interest of porous materials in medical applications is for their ability to reversibly adsorb nitric oxide (NO) for potential medical applications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the difference in NO adsorption behavior between Co2Cl2(bbta) and Co2(OH)2(bbta) at room temperature?",
+      "answer": "At room temperature, NO adsorbs reversibly in Co2Cl2(bbta) without electron transfer, while in Co2(OH)2(bbta), adsorption of low pressures of NO is accompanied by charge transfer from the cobalt(II) centers to form a cobalt(III)–NO2 adduct.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Both Co2Cl2(bbta) and Co2(OH)2(bbta) exhibit the same gravimetric capacities for NO adsorption at 1 bar.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do secondary sphere hydrogen bonding interactions play in the transformation observed in Co2(OH)2(bbta) upon NO adsorption?",
+      "answer": "Secondary sphere hydrogen bonding interactions facilitate the disproportionation of the bound NO to form a cobalt(III)–nitro (NO2) species and N2O gas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of NO in Co2Cl2(bbta) leads to a significant change in the cobalt oxidation state.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of higher pressures of NO on Co2(OH)2(bbta)?",
+      "answer": "At higher pressures of NO, Co2(OH)2(bbta) shows additional uptake of the gas and disproportionation of the bound NO to form a cobalt(III)–nitro (NO2) species and N2O gas.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Co2Cl2(bbta) retains nearly all of its adsorption capacity over three adsorption/desorption cycles with regeneration at 363 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the adsorption capacity of Co2(OH)2(bbta) at 1 bar compare to other NO absorbents?",
+      "answer": "The adsorption capacity of Co2(OH)2(bbta) at 1 bar is one of the highest gravimetric capacities of any NO absorbent, contrasting with previously observed capacities for other materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NO adsorption isotherms for Co2(OH)2(bbta) and Co2Cl2(bbta) at 298 K exhibit an initial steep rise at low pressures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hydrogen bonding interactions between the bound NO2 species and framework hydroxo groups in Co2(OH)2(bbta)?",
+      "answer": "The hydrogen bonding interactions between the bound NO2 species and framework hydroxo groups in Co2(OH)2(bbta) are significant because they appear to facilitate the reductive NO binding and disproportionation reaction.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The capacity of Co2(OH)2(bbta) for NO adsorption is greatly reduced after one cycle, even with attempted regeneration at temperatures up to 423 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the primary and secondary coordination environment in tuning NO uptake in cobalt-based metal–organic frameworks?",
+      "answer": "The primary and secondary coordination environment plays a crucial role in tuning NO uptake by influencing the electron transfer and stabilizing interactions, such as hydrogen bonding, which can promote strong binding of NO and facilitate disproportionation reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of NO in Co2(OH)2(bbta) does not involve any electron transfer from cobalt(II) centers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the NO adsorption process in Co2(OH)2(bbta) from Co2Cl2(bbta)?",
+      "answer": "The NO adsorption process in Co2(OH)2(bbta) is distinguished by charge transfer from cobalt(II) centers to form cobalt(III)–NO2 adducts and the facilitation of NO disproportionation, unlike in Co2Cl2(bbta) where NO adsorbs reversibly without electron transfer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural changes upon NO binding in Co2Cl2(bbta) are related to changes in the cobalt oxidation or spin state.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the adsorption of NO at low pressures in Co2(OH)2(bbta) compare to its adsorption in Co2Cl2(bbta)?",
+      "answer": "The adsorption of NO at low pressures in Co2(OH)2(bbta) involves charge transfer and formation of cobalt(III)–NO2 adducts, indicating a more complex interaction compared to Co2Cl2(bbta), where NO adsorbs reversibly without significant electronic perturbation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of NO in Co2(OH)2(bbta) at higher pressures does not lead to any additional reactivity beyond the binding of NO to the metal sites.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence supports the formation of a cobalt(III)–nitro species upon NO adsorption in Co2(OH)2(bbta)?",
+      "answer": "Evidence supporting the formation of a cobalt(III)–nitro species upon NO adsorption in Co2(OH)2(bbta) includes changes in unit cell volume, infrared spectroscopy data showing bands consistent with cobalt(III)–NO2 adducts, and powder X-ray diffraction data indicating structural changes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of NO in Co2Cl2(bbta) results in a significant decrease in the unit cell volume of the framework.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of changing the bridging ligand from chloride to hydroxide on the adsorption of NO in cobalt-based frameworks?",
+      "answer": "Changing the bridging ligand from chloride to hydroxide in cobalt-based frameworks impacts the adsorption of NO by creating a more electron-rich ligand environment, which enables the frameworks to more readily reduce NO and, in the case of Co2(OH)2(bbta), facilitates disproportionation reactions at higher pressures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

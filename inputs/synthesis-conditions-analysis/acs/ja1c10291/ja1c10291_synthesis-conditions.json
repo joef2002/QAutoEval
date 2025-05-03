@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "NPF-500",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "1 mL",
+        "equipment": "dram vial, oven",
+        "chemicals_used": {
+          "ZrOCl2·8H2O": "8.3 mg",
+          "benzoic acid": "80 mg",
+          "H4L": "3 mg",
+          "trifluoroacetic acid": "32 μL"
+        },
+        "time": "24 h",
+        "activation_procedure": "exchanged with fresh DMF three times every 12 h and heated to 95°C for 10 h, exchanged with ethanol three times every 12 h, activated using scCO2 treatment",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "NPF-500-NiTCPP",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "1 mL",
+        "equipment": "dram vial, oven",
+        "chemicals_used": {
+          "ZrOCl2·8H2O": "4 mg",
+          "benzoic acid": "64 mg",
+          "H4L": "3 mg",
+          "NiTCPP": "1 mg",
+          "trifluoroacetic acid": "10.5 μL"
+        },
+        "time": "12 h",
+        "activation_procedure": "exchanged with fresh DMF three times every 12 h and heated to 95°C for 10 h, exchanged with ethanol three times every 12 h, activated using scCO2 treatment",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "NPF-500-H2TCPP",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": "DMF",
+        "solvent_amounts": "1 mL",
+        "equipment": "dram vial, oven",
+        "chemicals_used": {
+          "ZrCl4": "3.7 mg",
+          "benzoic acid": "55 mg",
+          "H4L": "3 mg",
+          "H2TCPP": "0.7 mg",
+          "acetic acid": "25 μL"
+        },
+        "time": "12 h",
+        "activation_procedure": "exchanged with fresh DMF three times every 12 h and heated to 95°C for 10 h, exchanged with ethanol three times every 12 h, activated using scCO2 treatment",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

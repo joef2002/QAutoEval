@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula for compound 1-L?",
+      "answer": "C12H24O24Y2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for X-ray data collection of single crystals of 1-L and 1-D?",
+      "answer": "Agilent Technologies Super Nova diffractometer with monochromatic Cu-Kα radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of compound 1-D?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the particle size observed in SEM images for 1-L and 1-D samples above 1 μm?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group for compound 1-L?",
+      "answer": "P1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of compounds 1-L and 1-D require recrystallization for purity?",
+      "answer": "No, the use of ultrapure reagents ruled out the necessity of recrystallization.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the recycle delay set to in CP experiments for 1-L and 1-D samples?",
+      "answer": "6.5 seconds",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the observed differences in signal intensities for L and D enantiomers be attributed to signal saturation effects?",
+      "answer": "No, the selection of acquisition parameters ensures a complete relaxation of all nuclei.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of measuring T1(1H) and T1(13C) in the NMR experiments?",
+      "answer": "To select appropriate recycle delay values and ensure complete relaxation of all nuclei.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of lattice water molecules in the channels of compounds 1-L and 1-D affect their crystallographic formula?",
+      "answer": "Yes, the presence of lattice water molecules results in a slight variation in the number of adsorbed waters between 1-L and 1-D.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

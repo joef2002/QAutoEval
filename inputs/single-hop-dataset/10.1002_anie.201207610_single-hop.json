@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of the luminescent LnMOF reported in the study?",
+      "answer": "The main application is as a turn-on sensor for DMF vapor.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why are lanthanide MOFs (LnMOFs) considered more attractive for sensing applications compared to transition-metal MOFs?",
+      "answer": "Because many LnMOFs have sharp and characteristic emissions that can be modulated by both analyte–metal and analyte–ligand interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study reports the first LnMOF sensor displaying luminescence turn-on towards gaseous analytes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is traditionally used for DMF vapor detection in air?",
+      "answer": "The standard sampling and detection method for DMF vapor in air requires physical absorption/desorption of air samples and the use of gas chromatography.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How can the needle-shaped crystals of the LnMOF be synthesized?",
+      "answer": "By heating a solution of Eu(NO3)3 and H2L in DMF/H2O (4:1 v/v) in a sealed scintillation vial at 80°C for three days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the crystals of the LnMOF when they are soaked in distilled water for three days?",
+      "answer": "The channel DMF molecules are replaced, resulting in the water-exchanged framework 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescence response of the LnMOF to various solvent vapors showed that DMF triggers a superior turn-on effect compared to other solvents.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed mechanism for the luminescence turn-on effect triggered by DMF vapor?",
+      "answer": "The mechanism involves the removal of coordinated water, leaving fewer O–H bonds around the Eu centers and thus triggering enhancement of Eu emission.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescence turn-on effect is solely due to the removal of water ligands from the Eu centers.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What additional factor contributes to the luminescence turn-on effect upon exposure to DMF vapor?",
+      "answer": "DMF–ligand interactions that shift the excited state energy level of the ligand and facilitate the LMET process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The selectivity for DMF is attributed to the tailored solvent channels built around DMF as the solvent template.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How fast does the sensor respond to DMF vapor?",
+      "answer": "The response rate of the sensor is quite fast, with 95% of turn-on and -off achieved within a few minutes and 10–20 seconds, respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The luminescence intensity of the sensor decreases significantly over many on–off cycles.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ligand-to-metal energy transfer (LMET) process in the luminescence mechanism of LnMOFs?",
+      "answer": "The LMET process facilitates the modulation of the lanthanide luminescent signal by analyte–metal and analyte–ligand interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that the removal of water ligands from the Eu centers is a minor contributor to the turn-on effect.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental setup was used to test the response rate of the sensor?",
+      "answer": "A prototype sensor setup was designed, where a powder of the LnMOF was attached on a glass slide with double-sided tape, and DMF and water vapors were introduced alternately.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study confirms that the presence of H2O in the LnMOF significantly shortens the lifetime of Eu emission.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study's findings for the development of luminescent MOF sensors?",
+      "answer": "The study's findings open up the possibility to build lanthanide-based turn-on luminescent MOF sensors by proper ligand design, targeting analytes through ligand–analyte interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the study propose to improve the on–off contrast of the sensor?",
+      "answer": "Studies are underway in the laboratory to further improve the on–off contrast and to optimize the sensor setup.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that the LnMOF sensor can be regenerated by soaking in water and reused without notable loss of selectivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

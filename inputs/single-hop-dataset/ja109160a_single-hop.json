@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication type of the article?",
+      "answer": "research-article",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the study?",
+      "answer": "Masaki Kawano",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of compounds 1-3?",
+      "answer": "instant synthesis method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does compound 1 undergo a CAC transformation?",
+      "answer": "573 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the metal-to-ligand ratio in compound 1a?",
+      "answer": "3:2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the intermediate amorphous phase in the CAC transformation?",
+      "answer": "It suggests that a certain degree of structural memory persists in the amorphous phase to form the new crystalline phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest inclusion of I2 in compound 1a reversible?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structural memory effect exist during the CAC transformations?",
+      "answer": "Yes, it permits structural information to be propagated from the metastable structure toward a more stable network.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compound 2a after the CAC transformation?",
+      "answer": "orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main driving force for the inclusion of I2 in compound 1a?",
+      "answer": "The attractive nature of the halogen bonding interaction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 3 undergo a CAC phase transition during heating at 573 K?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is compound 3b isostructural to compound 2c?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the geometry of Zn centers in compound 3b?",
+      "answer": "tetrahedral",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What analytical tool will be very powerful for the determination of structures?",
+      "answer": "ab initio powder X-ray diffraction determination",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the initial arrangement of molecules within metastable structures influence the synthesis of new crystal structures?",
+      "answer": "Yes, it plays a crucial role in the formation of new networks after the CAC transformations.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "2011",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the guest inclusion behavior of compound 1a demonstrated by immersion in nitrobenzene?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of zinc halides in the solid-state reaction of interpenetrated porous networks?",
+      "answer": "The different strength of coordination bonds between Zn and halide atoms influences the reactivity differences and the formation of different structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystallization of compound 1a observed by an exothermic peak in TG-DSC experiments?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the publication DOI of the article?",
+      "answer": "10.1021/ja109160a",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

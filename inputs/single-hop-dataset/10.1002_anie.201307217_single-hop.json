@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of oxygen sensors mentioned in the text?",
+      "answer": "Oxygen sensors have applications in food science, environmental analysis, space research, and biochemistry.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What mechanism is primarily used for oxygen sensing in the described research?",
+      "answer": "Luminescence quenching is used for oxygen sensing.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of phosphorescent coordination complexes in oxygen-sensing luminescent dyes?",
+      "answer": "Phosphorescent coordination complexes of precious-metal ions are widely used as oxygen-sensing luminescent dyes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are noble-metal-free PCPs significant in the context of oxygen sensing?",
+      "answer": "Noble-metal-free PCPs are significant because they offer a way to reduce material costs by avoiding the use of large amounts of precious metals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the composition of the highly porous and fluorescent PCP mentioned in the text?",
+      "answer": "The composition is [Zn4O(bpz)2(abdc)]·guest (MAF-X11, 1·g; g = guest).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the fluorescence quenching efficiency of the described PCP at 1 bar O2?",
+      "answer": "The fluorescence can be quenched by 96.5% at 1 bar O2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the solvothermal reaction in the synthesis of the described PCP?",
+      "answer": "The solvothermal reaction is used to produce the highly porous and fluorescent, noble-metal-free PCP with very high oxygen-sensing efficiency.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of MAF-X11 contribute to its oxygen sensing efficiency?",
+      "answer": "MAF-X11's unique framework structure provides high oxygen permeability and allows fluorophores to be well isolated from each other, avoiding self-quenching and giving relatively long fluorescence lifetimes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the fluorescence of desolvated compound 1 highly luminescent in vacuum but barely luminescent in air?",
+      "answer": "The fluorescence of desolvated compound 1 is highly luminescent in vacuum due to the absence of oxygen, which quenches the fluorescence when present.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What explains the high and rapid fluorescence quenching of compound 1 by oxygen?",
+      "answer": "The high and rapid fluorescence quenching of compound 1 by oxygen is explained by its high uptake and very fast sorption kinetics for O2 at 298 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the oxygen permeability of compound 1 compare to other solid porous matrixes?",
+      "answer": "The oxygen permeability of compound 1 is 2-4 orders of magnitude higher than for other solid porous matrixes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the amino group of abdc2 in the structure of compound 1?",
+      "answer": "The amino group of abdc2 is symmetrically disordered over four crystallography equivalent sites, contributing to the high symmetry of compound 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Phosphorescent noble metal complexes are the only type of complexes used in oxygen-sensing PCPs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The fluorescence of 1 is selectively quenched by O2 among various gases tested.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The fluorescence quenching response of compound 1 is irreversible.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The oxygen-sensing efficiency of compound 1 is influenced by other components in air.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The fluorescence lifetime of compound 1 is relatively short among coordination polymers.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The oxygen permeability of compound 1 is lower than that of oxygen-permeating polymers.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The fluorescence of IRMOF-1, IRMOF-3, and MAF-X10 cannot be quenched by O2.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of the described PCP requires the use of precious metals.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

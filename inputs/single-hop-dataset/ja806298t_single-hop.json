@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the first oxalate-based SCM described?",
+      "answer": "[C12H24O6K]1/2[(C12H24O6)(FC6H4NH3)]1/2[Co(H2O)2Cr(ox)3]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the crystal structure of compound 1?",
+      "answer": "P21/m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum value of χMT reached at 5.6 K for compound 1?",
+      "answer": "Approximately 118.9 emu.K.mol−1 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the effective energy barrier for the reversal of the magnetic moment in compound 1 within the previously reported range for SCM systems?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of thermal treatment on the magnetic properties of compound 1?",
+      "answer": "It shows an additional out-of-phase signal at 7.5 K along with the previously observed around 4.5 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hydrogen bonding interactions in the SCM behavior of compound 1?",
+      "answer": "They offer an effective pathway for the transmission of magnetic interactions but are not strong enough to promote long-range bulk magnetic ordering.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of a cationic layer lead to a larger separation between the magnetic layers in compound 1?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ϕ value obtained for compound 1, and how does it compare to that expected for superparamagnetic behavior?",
+      "answer": "The ϕ value is 0.11, which is in excellent agreement with that expected for superparamagnetic behavior (0.1 ≤ ϕ ≤ 0.3).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the intrachain magnetic exchange in oxalate-supported SCMs considered strong?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in designing oxalate-supported SCM systems?",
+      "answer": "The comparatively small intrachain magnetic exchange mediated by the oxalate ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the expected effect of substituting metal ions in the chain of oxalate-based SCMs?",
+      "answer": "It might tune the nature, extent, and anisotropy of the intrachain magnetic interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 1 exhibit slow relaxation of the magnetization at low temperatures?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the θ value obtained from the Curie−Weiss fitting for compound 1?",
+      "answer": "The large positive θ value confirms the presence of ferromagnetic exchange interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the SCM behavior of compound 1 affected by the presence of competing magnetic interactions?",
+      "answer": "No, the absence of competing magnetic interactions is confirmed by the crystalline nature of compound 1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the oxalate ligand in the design of molecule-based magnets?",
+      "answer": "The oxalate ligand exhibits wide synthetic versatility in the design of molecule-based magnets.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main parameter affecting the slow-relaxation phenomena in SCM materials?",
+      "answer": "The main parameters include the anisotropy and the strength of the magnetic exchange interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the magnetic properties of SCM materials be tuned by suitable replacement of metal ions?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the experimental synthesis conditions described for compound 1?",
+      "answer": "They detail the process of obtaining the first oxalate-based SCM, highlighting the methodological approach.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interlayer interaction considered key for the magnetism of oxalate-bridged bimetallic chains?",
+      "answer": "Yes, the interlayer interaction might be key for the magnetism of these materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of longer interlayer distances on SCM behavior?",
+      "answer": "Longer interlayer distances could promote SCM behavior in other analogous already known oxalate-bridged bimetallic chains.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the new zeolitic-imidazolate framework reported?",
+      "answer": "COK-17",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis yield of COK-17 based on Zn?",
+      "answer": "45%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pressure does COK-17 transition from open-pore to closed-pore phase at 50 K?",
+      "answer": "106 MPa for OP-to-CP transition and -62 MPa for CP-to-OP transition",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of chlorine substituents in COK-17 according to the text?",
+      "answer": "Chlorine substituents mediate the adsorption of CO2 by London dispersion forces.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption energy for CO2 higher in COK-17 or ZIF-8?",
+      "answer": "Higher in COK-17",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does COK-17 exhibit structural flexibility?",
+      "answer": "Yes, COK-17 displays structural flexibility.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption capacity of COK-17 for CO2 higher than for CH4?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of COK-17 over other adsorbents for CO2 capture?",
+      "answer": "COK-17 has exceptionally high affinity for the adsorption of CO2 compared to other adsorbents such as ZIF-8 and ZIF-71.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to investigate the flexibility of COK-17?",
+      "answer": "Force field simulations were used to investigate the flexibility of COK-17.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the selectivity of COK-17 for CO2 over CH4 affected by the CO2/CH4 mixture composition?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to calculate adsorption energies for CO2 and CH4 in COK-17?",
+      "answer": "Periodic Density Functional Theory (DFT) calculations were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of Cl substituents in COK-17 increase the van der Waals interactions for CO2 adsorption?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the structural flexibility of COK-17?",
+      "answer": "The structural flexibility of COK-17 varies with temperature, showing different (meta)stable phases and transition temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

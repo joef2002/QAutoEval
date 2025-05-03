@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary function of the flexible metal-organic framework discussed?",
+      "answer": "Selectively sorbs para-xylene over meta-xylene by synergic restructuring around para-xylene coupled with generation of unused void space upon meta-xylene loading.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF achieve shape selectivity?",
+      "answer": "Shape selectivity is achieved by the MOF's ability to undergo synergic restructuring around the preferred guest molecule.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF discussed is rigid and does not change structure upon guest molecule loading.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the chemical formula for the synthesized MOF before desolvation?",
+      "answer": "[Ce(HTCPB)·(EtOH)0.28(H2O)2.75]",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What structural change occurs in the MOF upon desolvation?",
+      "answer": "The MOF transitions from [Ce(HTCPB)·(EtOH)0.28(H2O)2.75] to [Ce(HTCPB)], becoming permanently porous to CO2 and N2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's selectivity for para-xylene over meta-xylene is due to the size exclusion principle.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to establish the MOF's selectivity for para-xylene?",
+      "answer": "Batch experiments on bulk powder samples in liquid C8 isomer mixtures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity value of the MOF for para-xylene over meta-xylene?",
+      "answer": "An apXmX selectivity of 4.5.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF cannot sorb meta-xylene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the MOF differentiate between para-xylene and meta-xylene?",
+      "answer": "The MOF differentiates between the two isomers through guest-driven restructuring that optimizes capacity and fit for each guest.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's restructuring is identical for both para-xylene and meta-xylene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to predict the MOF's behavior with xylene isomers?",
+      "answer": "Docking calculations with rigid 3 as a host.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the MOF's flexibility on its selectivity for xylene isomers?",
+      "answer": "The MOF's flexibility is essential for its high selectivity, allowing it to adapt its structure to optimize the fit for the preferred guest.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's selectivity for para-xylene over meta-xylene is solely based on its initial rigid structure.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural feature of the MOF allows it to undergo restructuring?",
+      "answer": "The MOF's flexible structure, which can respond to guest uptake by undergoing 'breathing'-type structural changes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF's selectivity for para-xylene improves with the use of a different lanthanide in its structure.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum experimentally measured selectivity for para-xylene over meta-xylene with a different lanthanide?",
+      "answer": "A maximum of 6.33 at Nd(HTCPB).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's response to para-xylene differ from its response to meta-xylene?",
+      "answer": "The MOF expands more and undergoes greater distortion to accommodate meta-xylene compared to the more synergic and less distorted response for para-xylene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's capacity for para-xylene doubles due to its structural flexibility.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the MOF's ability to selectively sorb para-xylene over meta-xylene suggest about its potential applications?",
+      "answer": "It suggests that the MOF has potential for applications in molecular separations where high selectivity for specific molecules is required.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

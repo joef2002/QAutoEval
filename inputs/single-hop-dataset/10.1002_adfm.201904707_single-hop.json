@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for the fluorous metal–organic framework synthesized in the study?",
+      "answer": "[Cu(FBTB)(DMF)] (FMOF-3)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of FMOF-1, FMOF-3, and FN-PCP-1 is investigated under both dry and humid conditions?",
+      "answer": "Low-dielectric constant (low-κ) properties",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the substitution of hydrogen with fluorine or fluoroalkyl groups have on the materials?",
+      "answer": "It imparts higher hydrophobicity and lower polarizability to the overall material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The intrinsic κ value for FMOF-1 is the lowest known value for a hydrophobic material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the κ value of FMOF-1 under ambient conditions at 2 × 106 Hz?",
+      "answer": "1.63(1)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the hydrophobicity of FN-PCP-1 compare to its nonfluorinated counterpart?",
+      "answer": "FN-PCP-1 shows higher hydrophobicity with a contact angle of ≈75° compared to ≈55° of the nonfluorinated counterpart.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: FMOF-3 is less stable under water vapor conditions compared to FN-PCP-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What synthesis protocol was used for preparing the H2FBTB ligand?",
+      "answer": "The so-called Demko–Sharpless protocol.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The κ values of FMOF-1, FMOF-3, and FN-PCP-1 increase significantly upon exposure to almost saturated humidity levels.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of porosity in influencing the dielectric constant of materials?",
+      "answer": "Porosity can lower the dielectric constant of materials because the main components of air are nonpolar, making the dielectric constant of air close to that of a vacuum (=1).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of FMOF-3·DMF requires strict control of acidity and temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET specific surface area of FN-PCP-1?",
+      "answer": "Only 6.4 m2 g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of FMOF-1 includes 1D hexagonal channels running along the a- and b-axes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using fluorous metal–organic frameworks and nonporous coordination polymers as low-κ materials?",
+      "answer": "They possess controlled and reproducible chemical composition, crystal structure, and low adsorptivity of high-κ species, making them promising alternatives to current low-κ dielectrics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of FN-PCP-1 involves reacting H2FBTB with silver(I) nitrate in water at reflux.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the intrinsic κ value of 1.28 for FMOF-1?",
+      "answer": "It is the lowest value known to date for a hydrophobic material, demonstrating the potential of FMOFs as ultralow-κ materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The thermal stability of FMOF-1 is higher than that of FN-PCP-1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of fluorination in the materials studied?",
+      "answer": "Fluorination promotes an intrinsic increase in hydrophobicity of the materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The contact angle of FMOF-3 is higher than that of FN-PCP-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main structural feature of FMOF-1?",
+      "answer": "It comprises AgN3 and Ag4N12 nodes and µ3-Tz− linkers within a 3D porous network possessing 1D hexagonal channels.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

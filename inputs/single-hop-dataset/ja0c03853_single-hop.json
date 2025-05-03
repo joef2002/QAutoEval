@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for ZnGlyPyr containing benzene?",
+      "answer": "ZnGlyPyr•1.21Benzene",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for CO2 adsorption measurements in ZnGlyPyr at 195 K?",
+      "answer": "Gravimetric method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of ZnAlaPyr structures?",
+      "answer": "R3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the probe radius used for calculating Connolly surfaces in the study?",
+      "answer": "1.2 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What functional was used in DFT simulations to describe dispersion interactions?",
+      "answer": "SCAN meta-GGA functional with the rVV10 vdW functional",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unit cell volume of ZnGlyPyr with high CO2 loading at 1000 mbar and 195 K?",
+      "answer": "6547.6(2) Å3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the change in the φ angle in the linker of ZnGlyPyr during CO2 adsorption?",
+      "answer": "The φ angle in the low loading CO2 phase is 77.9° compared to 87.4° in the desolvated phase",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How many CO2 sites are resolved in the structure of ZnAlaPyr at 1000 mbar and 195 K?",
+      "answer": "Four different CO2 sites",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the new small volume guest-free phase of ZnAlaPyr observed after CO2 removal transformable?",
+      "answer": "Yes, it transformed to the large volume phases by immersing the sample in solvents such as MeOH and benzene",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the equilibrium volume of ZnAlaPyr according to Rose-Vinet EOS fits?",
+      "answer": "6798.8 Å3 for the large volume and 4960.9 Å3 for the small volume",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Rwp factor from Pawley refinements for ZnGlyPyr under vacuum at 195 K?",
+      "answer": "1.57%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the occupancy of CO2 Site A in ZnAlaPyr with low CO2 loading at 195 K?",
+      "answer": "0.685(15)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature stability of the sample during CO2 adsorption experiments?",
+      "answer": "±0.1 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the probe radius used for channel analysis in the pore segmentation study?",
+      "answer": "1.2 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main conclusion from the Hirshfeld surface analysis of ZnGlyPyr containing toluene?",
+      "answer": "Toluene guest in ZnGlyPyr•(Toluene) shows C-H···π and slipped-parallel π···π interactions with the framework",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found multiple materials in the CSD database showing pore segmentation similar to ZnXPyr.",
+      "answer": "False, only one material meeting the criteria of pore segmentation analysis was found",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in pore segmentation between ZnXPyr and the material found in Fujita's work?",
+      "answer": "In Fujita's work, the segmentation involves the separation of one channel into two similar channels, whereas in ZnXPyr, the trefoil-shaped pore is segmented into four isolated components",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest-driven restructuring of the porous material is unique to ZnXPyr.",
+      "answer": "True, the study highlights the uniquely strong coupling in ZnXPyr between local torsion of the linker and global pore shape",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main feature observed in the 2D fingerprint plots for benzene rings in ZnGlyPyr?",
+      "answer": "Characteristic “wing” features evidencing C-H···π interactions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the equilibrium volumes obtained from Rose-Vinet EOS fits for ZnXPyr?",
+      "answer": "The equilibrium volumes help in understanding the energy landscape and structural stability of ZnXPyr under different conditions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

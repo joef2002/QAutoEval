@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the significance of constructing low-dimensional coordination polymers?",
+      "answer": "They have received intense attention due to their structural diversity, unusual properties, and magneto–structural correlations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the azido ion play in the formation of polynuclear complexes?",
+      "answer": "The azido ion acts as a versatile bridging ligand that can link two or more metal ions in various modes, leading to a variety of zero- to three-dimensional polynuclear complexes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the synthesis of 1D chains of increasing width considered a big challenge?",
+      "answer": "It is challenging due to the need to utilize the diverse coordination geometry of the copper ion and the versatile bridging modes of the azide moiety.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the exchange in the azido–copper system always ferromagnetic or antiferromagnetic?",
+      "answer": "False. While it has been stated that the exchange is ferromagnetic or antiferromagnetic depending on the angle of Cu-N-Cu for the EO mode, there are continuous exceptions.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of changing the experimental conditions to 100% methanol as the solvent?",
+      "answer": "Another molecular tape, [Cu5(N3)10(bzp)2]n (2), with parallel eight-membered copper rings was obtained.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the single-crystal X-ray determination reveal about the structure of 1?",
+      "answer": "It consists of neutral 1D azido–copper chains with serial octanuclear repeating units.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are the chains of 1 well isolated?",
+      "answer": "True. The chains of 1 are well isolated as the shortest Cu···Cu interchain distance is 8.3 :.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the structure of 2 reveal?",
+      "answer": "It reveals a more interesting neutral azido–copper tape with three crystallographically independent CuII ions and five nonequivalent azido ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the magnetic behavior of 1 and 2 differ?",
+      "answer": "For 1, the overall ferromagnetic coupling between adjacent CuII ions is suggested, while for 2, a decrease in cMT value indicates a net AF coupling among the metal ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magneto–structural correlation for a basal–basal EO azido bridge in the azido–copper system only dependent on the Cu-N-Cu angle?",
+      "answer": "False. It is not only dependent on the Cu-N-Cu angle; other factors such as the dihedral angle between the basal planes of the two bridged copper ions should also be considered.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used as a terminal/convergent coligand in the synthesis of 1?",
+      "answer": "2-Benzoylpyridyl (bzp) was used as a terminal/convergent coligand.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of the synthesis of 1?",
+      "answer": "58 mg, 52%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does the decrease in cMT value for 2 suggest?",
+      "answer": "It suggests a net AF coupling among the metal ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the tapes of 2 well isolated?",
+      "answer": "True. The tapes are well isolated, with the shortest Cu···Cu intertape distance of 8.13 :.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the magnetic susceptibility measurement of 1 suggest?",
+      "answer": "It suggests an overall ferromagnetic coupling between the adjacent CuII ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was long-range ordering observed for 1 above 1.9 K?",
+      "answer": "False. No long-range ordering was observed above 1.9 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the elemental analysis result for 2?",
+      "answer": "C 26.54, H 1.91, N 40.15.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does the magnetization value of 2.6 Nb per {Cu5} unit at 50 kOe and 1.9 K for 2 imply?",
+      "answer": "It implies a ferrimagnetic-like state in which S = 3/2, suggesting the coexistence of antiferromagnetic and ferromagnetic couplings within the pentanuclear subunit.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interaction through the basal–apical bridges in 1 negligible?",
+      "answer": "True. Interaction through the basal–apical bridges is negligible because of very small distortions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of theoretical studies in understanding the magnetic interaction in 1?",
+      "answer": "Theoretical studies helped understand the unusual ferromagnetic interaction through the Cu1-N11-Cu2 bridges by analyzing the overlap integral between local magnetic orbitals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

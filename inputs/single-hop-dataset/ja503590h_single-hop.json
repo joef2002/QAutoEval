@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the three cadmium selenide quantum dots synthesized in the study?",
+      "answer": "Cd35Se20(X)30(L)30, Cd56Se35(X)42(L)42, Cd84Se56(X)56(L)56",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the structures of the quantum dots?",
+      "answer": "Single-crystal X-ray diffraction and atomic pair distribution function analysis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of increasing QD size on the full width at half-maximum (fwhm) of the lowest energy electronic transition?",
+      "answer": "The fwhm decreases from 207 to 145 meV and then to 115 meV with increasing QD size",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photoluminescence of the synthesized quantum dots size-dependent?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of (TMS)2Se in the synthesis of quantum dots?",
+      "answer": "It acts as a highly reactive selenium precursor that converts quantitatively into cadmium selenide",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the synthesized quantum dots be separated by selective precipitation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the reported atomic structures of the quantum dots?",
+      "answer": "They bring us closer to an atomically resolved understanding of the chemistry and physics of quantum-confined semiconductors",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do the quantum dots exhibit a dynamic equilibrium with a coordinatively unsaturated species preceding growth?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of curvature on the ligand packing density on the quantum dots?",
+      "answer": "The effective curvature increases the volume available to the ligand shell, affecting the density of ligand atoms",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the quantum dots synthesized in the study stable under exposure to air and various solvents?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the quantum dot size and the energy of the lowest energy electronic transition?",
+      "answer": "The energy of the lowest energy electronic transition decreases as the size of the QD increases",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the synthesis of quantum dots affected by the Cd:Se stoichiometry?",
+      "answer": "Yes, varying the Cd:Se stoichiometry affected the synthesis outcome",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to support the presence of benzoate and amine surface ligands on the quantum dots?",
+      "answer": "Diffuse Reflectance Infrared Fourier Transform Spectroscopy (DRIFTS)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the quantum dots exhibit trap-luminescence?",
+      "answer": "Yes, the photoluminescence spectra of all three QDs are broad with large Stokes shifts characteristic of trap-luminescence",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of ligand coverage in the stability of the synthesized quantum dots?",
+      "answer": "High ligand coverage contributes to the special stability of the quantum dots by minimizing unfilled coordination sites per surface atom",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the atomic structure solution of the quantum dots achieved through ab initio determination from the PDF alone?",
+      "answer": "No, ab initio determination of a structural solution from the PDF alone is a significant challenge",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of using different primary amines and carboxylates in the synthesis of CdSe(350 nm)?",
+      "answer": "Little effect was observed in the UV-Vis profile, suggesting that the structure of the inorganic core is preserved",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesized quantum dots exhibit sensitivity to various conditions such as exposure to air and solvents?",
+      "answer": "Yes, the quantum dots demonstrated sensitivity to various conditions",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of curvature in the ligand packing density on the quantum dots?",
+      "answer": "Curvature increases the volume available to the ligand shell, affecting the density of ligand atoms",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Were the synthesized quantum dots characterized by laser desorption ionization mass spectrometry?",
+      "answer": "Yes, but the LDI data did not reflect the true composition of the sample",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

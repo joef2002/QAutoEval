@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of potassium-doped p-terphenyl synthesized in the study?",
+      "answer": "[K(222)]2[p-terphenyl3]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single crystal X-ray diffraction data collection?",
+      "answer": "Agilent SuperNova diffractometer using mirror-monochromated Cu Kα or Mo Kα radiation",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does antiferromagnetic ordering occur in [K(222)][methyl-p-terphenyl]?",
+      "answer": "16 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the magnetic susceptibility of [K(222)]2[p-terphenyl3] consistent with a Curie-Weiss law above 70 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main purpose of using ESR measurements in the study?",
+      "answer": "To determine the properties of the AFM state and explore weak spin anisotropies",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study provide evidence for superconductivity in K-doped p-terphenyl?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was employed for first-principles spin-polarized calculations?",
+      "answer": "Numerical atomic orbitals DFT approach implemented in the SIESTA code",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the effective magnetic moment per terphenyl at room temperature as inferred from ESR data?",
+      "answer": "~0.4 μB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the magnetic exchange coupling constants extracted from the calculations?",
+      "answer": "From the calculated energies for different spin arrangements via a least-squares fit to the expressions obtained for a Heisenberg Hamiltonian",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was disorder in the crystal structure considered in the DFT calculations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of chelating agents in the synthesis of phase-pure systems?",
+      "answer": "Chelating agents selectively encapsulate K+ ions and thus prevent the alkali metal from forming strong ion−π interactions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study find that the antiferromagnetic ordering persists in chemical cousins of [K(222)]2[p-terphenyl3]?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding regarding the magnetic properties of [K(222)]2[p-terphenyl3]?",
+      "answer": "An AFM phase sets in at 13 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the spin susceptibility calibrated using ESR measurements?",
+      "answer": "By calibrating the ESR signal intensity against another Curie spin system with a known amount of spins",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the synthesis of methyl-p-terphenyl outlined in the supplementary information?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of [K(222)]2[p-terphenyl3] from the synthesis?",
+      "answer": "28%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study use quantum Monte Carlo simulations for analyzing magnetic susceptibility?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using high-frequency ESR measurements?",
+      "answer": "To improve the g-factor resolution and increase the magnetic field strength by an order of magnitude",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the antiferromagnetic insulator state suggested to potentially host high Tc superconductivity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in controlling the reactivity of alkali metals mentioned in the study?",
+      "answer": "Inherently problematic nature of alkali metals contributes to the difficulty of obtaining phase-pure materials",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

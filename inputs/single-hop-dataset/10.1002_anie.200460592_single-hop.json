@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the volume of the giant cubic cell of MIL-100?",
+      "answer": "Close to 380,000 33.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two main topological concepts applied in the design of porous solids?",
+      "answer": "\"Scale chemistry\" for inorganics and \"reticular chemistry\" for metal–organic frameworks (MOFs).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of tailor-made solids is forbidden in high-temperature synthesis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of computer simulation in the development of MOFs according to the text?",
+      "answer": "It pushes forward the limits of targeted chemistry and leads to the discovery of new crystalline MOFs with giant cubic cells.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the chemical composition of MIL-100?",
+      "answer": "Cr3F(H2O)3O[C6H3-(CO2)3]2·n H2O (n ~ 28).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The simulated pattern of the MTN-type hybrid structure does not match the targeted experimental pattern of MIL-100.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Rietveld refinement in the study of MIL-100?",
+      "answer": "It allows for the refinement of the structure from powder-diffraction data, improving the prediction by locating the position of inserted species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MIL-100 is the first example of a porous solid with crystalline walls and a hierarchical system of cages.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the dimensions of the micropores and mesopores in MIL-100?",
+      "answer": "Micropores: 1 to 6.5 3 and Mesopores: 1 to 25–30 3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The computational approach cannot create potential upper homologues of numerous silicates and zeolites.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated Langmuir surface area of MIL-100?",
+      "answer": "Approximately 3100 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of MIL-100 involves the use of hydrothermal conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of trimesic acid in the structure of MIL-100?",
+      "answer": "It acts as the organic linker, located at the four faces of the super tetrahedron (ST).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of MIL-100 was determined without the need for single crystals.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the term 'simulation assisted chemical structures' (SACS) as described in the text?",
+      "answer": "It describes solids obtained through a method that does not require imagination for the first step but relies on computational prediction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MIL-100 does not require the presence of the inorganic building block at an early stage of the reaction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated pore volume of MIL-100 according to the Dubinin-Raduskhvich equation?",
+      "answer": "Around 1.16 cm3 g-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main limitation of the reticular chemistry approach as mentioned in the text?",
+      "answer": "It concerns the enumeration of possible predetermined frameworks accessible from predefined building blocks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The computational approach used in the study of MIL-100 cannot predict candidate crystal structures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of the new approach in the synthesis of MIL-100 as described in the text?",
+      "answer": "It allows for the resolution of structures from Rietveld refinements of powder-diffraction data without the need for single crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

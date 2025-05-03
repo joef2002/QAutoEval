@@ -1,0 +1,101 @@
+{
+  "IRMOF-3": {
+    "Synthesis": {
+      "Precursors": ["Zn(NO3)2·4H2O", "2-amino-1,4-benzene dicarboxylic acid (R3-BDC)"],
+      "Activation": {
+        "Solvent": "CHCl3",
+        "Drying": "Vacuum drying"
+      }
+    },
+    "Post-Synthetic Modification": {
+      "Solvent": "CH2Cl2 or CHCl3",
+      "Reagent": "Acetic anhydride",
+      "Reagent Amount": "ca. 2 equiv",
+      "Temperature": "Room temperature",
+      "Time": "Hours to days",
+      "Washing Method": {
+        "Solvent": "CH2Cl2",
+        "Duration": "2 to 3 days",
+        "Frequency": "Daily exchange"
+      },
+      "Drying Method": {
+        "Method": "Vacuum",
+        "Temperature": "Ambient"
+      }
+    }
+  },
+  "IRMOF-3-AM1": {
+    "Synthesis": {
+      "Precursors": ["Dried IRMOF-3 crystals"],
+      "Solvent": "CH2Cl2",
+      "Reagent": "Acetic anhydride",
+      "Reagent Amount": "20 µL (0.21 mmol)",
+      "Solvent Amount": "1.00 mL",
+      "Crystal Amount": "27 mg",
+      "Temperature": "Room temperature",
+      "Time": "Hours to days",
+      "Washing Method": {
+        "Solvent": "CH2Cl2",
+        "Times": "4-5 times",
+        "Soaking": {
+          "Duration": "2-3 days",
+          "Solvent Amount": "~10 mL",
+          "Frequency": "Daily exchange"
+        }
+      },
+      "Drying Method": {
+        "Method": "Vacuum",
+        "Temperature": "70 °C",
+        "Duration": "ca. 10 h"
+      },
+      "Yield": "~30 mg"
+    },
+    "Digestion for Analysis": {
+      "Solvent": "DMSO-d6",
+      "Acid": "Dilute DCl solution",
+      "Solvent Amount": "1.50 mL",
+      "Acid Amount": "200 µL",
+      "Digestion Method": "Sonication"
+    }
+  },
+  "Control Experiments": {
+    "IRMOF-1": {
+      "Solvent": "CDCl3",
+      "Reagent": "Acetic anhydride",
+      "Reagent Amount": "20 µL (0.21 mmol)",
+      "Solvent Amount": "1.00 mL",
+      "Crystal Amount": "26 mg",
+      "Temperature": "Room temperature",
+      "Time": "5 min to 72 h"
+    },
+    "R3-BDC": {
+      "Solvent": "CDCl3",
+      "Reagent": "Acetic anhydride",
+      "Reagent Amount": "20 µL (0.21 mmol)",
+      "Solvent Amount": "1.00 mL",
+      "Compound Amount": "18 mg",
+      "Temperature": "Room temperature",
+      "Time": "5 min to 72 h"
+    }
+  },
+  "Reactivity Comparison": {
+    "IRMOF-3 in Acetone-d6": {
+      "Solvent": "Acetone-d6",
+      "Reagent": "Acetic anhydride",
+      "Reagent Amount": "20 µL (0.21 mmol)",
+      "Solvent Amount": "5.00 mL",
+      "Crystal Amount": "27 mg",
+      "Temperature": "Room temperature",
+      "Time": "20 min to 96 h"
+    },
+    "R3-BDC in Acetone-d6": {
+      "Solvent": "Acetone-d6",
+      "Reagent": "Acetic anhydride",
+      "Reagent Amount": "20 µL (0.21 mmol)",
+      "Solvent Amount": "5.00 mL",
+      "Compound Amount": "18 mg",
+      "Temperature": "Room temperature",
+      "Time": "20 min to 96 h"
+    }
+  }
+}

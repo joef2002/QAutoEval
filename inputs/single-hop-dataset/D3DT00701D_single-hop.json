@@ -1,0 +1,64 @@
+{
+  "qas": [
+    {
+      "question": "What is the coordination number and geometry of the Mn(II) complex with the ligand L1?",
+      "answer": "The coordination number is seven with a pentagonal bipyramidal geometry.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which metal ion forms the most stable complex with ligand L1?",
+      "answer": "Cu(II) forms the most stable complex with ligand L1.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Does the presence of an acetate pendant arm in ligand L1 increase the thermodynamic stability of its Mn(II) complex compared to the parent 15-pyN3O2 macrocycle?",
+      "answer": "Yes, the presence of an acetate pendant arm in ligand L1 increases the thermodynamic stability of its Mn(II) complex compared to the parent 15-pyN3O2 macrocycle.",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the effect of the acetate pendant arm on the hydration number of the Mn(II) complex with ligand L1?",
+      "answer": "The acetate pendant arm reduces the hydration number to q = 1.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the Mn(II) complex with ligand L1 suitable for in vivo applications based on its properties?",
+      "answer": "No, the Mn(II) complex with ligand L1 is not suitable for in vivo applications based on its properties.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the water exchange rate (k298ex) for the Mn(II) complex with ligand L1?",
+      "answer": "The water exchange rate (k298ex) for the Mn(II) complex with ligand L1 is 4.5 × 106 s−1.",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Does the Mn(II) complex with ligand L1 exhibit constant relaxivity across all pH levels?",
+      "answer": "No, the Mn(II) complex with ligand L1 does not exhibit constant relaxivity across all pH levels; it shows constant relaxivity from pH 7 to pH 11.",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the main reason for the short dissociation half-life of the Mn(II) complex with ligand L1 at physiological pH?",
+      "answer": "The main reason for the short dissociation half-life of the Mn(II) complex with ligand L1 at physiological pH is related to its fast spontaneous dissociation.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "How does the relaxivity of the Mn(II) complex with ligand L1 compare to bishydrated Mn(II) complexes?",
+      "answer": "The relaxivity of the Mn(II) complex with ligand L1 is about 40% lower than for bishydrated Mn(II) complexes.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the water exchange rate of the Mn(II) complex with ligand L1 considered fast or slow compared to other Mn(II) chelates?",
+      "answer": "The water exchange rate of the Mn(II) complex with ligand L1 is considered slow compared to other Mn(II) chelates.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    }
+  ]
+}

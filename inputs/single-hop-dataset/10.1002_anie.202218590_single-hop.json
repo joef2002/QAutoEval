@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the Hofmann clathrate material reported for efficient C3H6/C3H8 separation?",
+      "answer": "ZJU-75a",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the record high storage density of C3H6 achieved by ZJU-75a?",
+      "answer": "0.818 g mL-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the C3H6/C3H8 selectivity of ZJU-75a at 296 K and 1 bar?",
+      "answer": "54.2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of amino groups into ZJU-74 affect its performance for C3H6/C3H8 separation?",
+      "answer": "It reduces the channel-pore size, limits the adsorption of C3H8, and provides high-density strong binding sites for C3H6, improving the size-sieving effect and maximizing C3H6 uptake.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes ZJU-75a a benchmark material for industrial C3H6/C3H8 separation?",
+      "answer": "Its combination of excellent separation performance, high stability, economic feasibility, and easy scalability of synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZJU-75a has a higher C3H6 storage density compared to all other reported MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of ZJU-75a requires high temperatures and toxic organic solvents.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the separation factor of ZJU-75a for C3H6/C3H8 mixtures based on breakthrough experiments?",
+      "answer": "14.7",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of high-density strong binding sites in ZJU-75a?",
+      "answer": "They enable the densest packing of C3H6 molecules within the ultra-micropores, maximizing C3H6 uptake capacity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZJU-75a exhibits a decrease in performance when exposed to moisture.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the C3H6 uptake capacity of ZJU-75a during breakthrough experiments?",
+      "answer": "2.79 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does ZJU-75a achieve both high C3H6 uptake and selectivity?",
+      "answer": "Through the incorporation of ultrahigh density of strong binding sites and optimal pore size close to the molecular size of C3H6.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZJU-75a's synthesis can be easily scaled up to kilogram-scale.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of ZJU-75a?",
+      "answer": "391 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of amino-functionalization on ZJU-74 to create ZJU-75a?",
+      "answer": "It reduces the pore volume but allows for a comparable C3H6 uptake, resulting in increased C3H6 storage density.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZJU-75a has a lower C3H6 uptake compared to ZJU-74a.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary adsorption site for C3H6 and C3H8 molecules in ZJU-75a?",
+      "answer": "The central of the multi-functionalized pore cavities, constructed by two [Ni(CN)4]2- units and four pyz-NH2 ligands.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does ZJU-75a's pore size affect its selectivity for C3H6 over C3H8?",
+      "answer": "The contracted window size efficiently limits the adsorption of larger C3H8 molecule, contributing to a more efficient size-sieving effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZJU-75a's separation performance deteriorates after multiple cycles of C3H6/C3H8 separation.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The incorporation of amino groups into ZJU-74 increases its BET surface area.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

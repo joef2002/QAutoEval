@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the dysprosium phosphonate complex reported?",
+      "answer": "[DyIII(SCN)2(NO3)(depma)2(4-hpy)2]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What structural transition does the dysprosium phosphonate complex undergo upon UV light irradiation?",
+      "answer": "0D to 1D single-crystal-to-single-crystal structural transition",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the blocking temperature change for the diluted sample after photo-induced switch?",
+      "answer": "From 3.8 K for 1Dy@Y to 2.6 K for 2Dy@Y",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the effective energy barrier increase or decrease after the photocycloaddition reaction?",
+      "answer": "Decrease",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocycloaddition reaction of anthracene units reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the structural transformation from 1Dy to 2Dy be monitored by UV/Vis diffused reflectance and IR spectroscopy?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the introduction of a NO3- anion in place of an SCN- anion influence the magnetic anisotropy of the material?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the effective energy barrier of 277 K for 1Dy the highest among known photo-responsive Ln-SMMs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the photodimerization of anthracene units lead to a non-reversible structural change?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the blocking temperature of 2Dy@Y higher than that of 1Dy@Y?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the photocycloaddition reaction result in a decrease in unit cell volume from 1Dy to 2Dy?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic hysteresis loop of 2Dy wider than that of 1Dy?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the photo-induced transformation from 2Dy to 1Dy be achieved by 280 nm light?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the photoluminescence profile of 2Dy show a decrease in peak intensity at 540 nm compared to 1Dy?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the effective energy barrier for spin-reversal of 2Dy@Y reported to be between that of 1Dy and 2Dy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the NO3- anion in the dysprosium phosphonate complex?",
+      "answer": "It provides three oxygen atoms for hydrogen bonding and influences the magnetic anisotropy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the effective energy barrier and hysteresis loop upon the structural transition from 1Dy to 2Dy?",
+      "answer": "The effective energy barrier is reduced by half and the hysteresis loop narrows.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocycloaddition reaction of anthracene units in the dysprosium phosphonate complex a [4+4] reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structural transformation from 1Dy to 2Dy involve a change in space group?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the reported dysprosium phosphonate complex in the context of single-molecule magnets?",
+      "answer": "It demonstrates a photo-responsive SMM with a high effective energy barrier and reversible structural and magnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

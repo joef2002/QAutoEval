@@ -1,0 +1,32 @@
+{
+  "materials": [
+    {
+      "name": "{[Mn2(L)2][{Mn(L)(EtOH)}2Nb6Cl12(CN)6]}·2 MeCN (1)",
+      "synthesis_conditions": {
+        "solvents": "MeCN/EtOH",
+        "solvent_ratio": "1:1",
+        "solvent_amounts": ["5.0 mm solution of [Mn2(L)2(OAc)](ClO4) in MeCN/EtOH (3.0 mL)", "2.0 mm solution of (Et4N)4[Nb6Cl12(CN)6] in MeCN (3.0 mL)"],
+        "reaction_type": "one-pot",
+        "layering_method": true,
+        "washing_method": "washed with EtOH",
+        "drying_method": "dried in air",
+        "yield": "46.1%",
+        "additional_information": "Brown platelike crystals were obtained at the interface."
+      }
+    },
+    {
+      "name": "{[(Mn(L)(bpe)Mn(L)][{Mn(L)(H2O)}2{Nb6Cl12(CN)6}]}·1.5 MeCN·8 H2O (2)",
+      "synthesis_conditions": {
+        "solvents": "MeCN",
+        "solvent_amounts": ["[Mn2(L)2(OAc)](ClO4) (0.0686 g, 0.16 mmol) and bpe (0.1166 g, 0.64 mmol) in MeCN (20 mL)", "4.0 mm solution of [Me4N]4[Nb6Cl12(CN)6]·2 MeOH (4.0 mL) in aqueous solution (4.0 mL)"],
+        "reaction_type": "one-pot",
+        "stirring_time": "overnight",
+        "crystal_formation_time": "24 h",
+        "washing_method": "washed with water and methanol",
+        "drying_method": "dried in air",
+        "yield": "58.1%",
+        "additional_information": "Red-brown elongated platelike crystals began to form after several minutes."
+      }
+    }
+  ]
+}

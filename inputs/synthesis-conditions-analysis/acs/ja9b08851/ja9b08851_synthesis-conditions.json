@@ -1,0 +1,215 @@
+{
+  "materials": [
+    {
+      "name": "I (Li2(HC3N3O3)∙2H2O; HCYL)",
+      "synthesis_conditions": {
+        "method": "vapor liquid diffusion",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetone",
+            "amount": "not specified",
+            "role": "diffused solvent"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "LiOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "H3C3N3O3",
+            "amount": "not specified"
+          }
+        ],
+        "ratio": "2:1 or 3:1",
+        "temperature": "room temperature",
+        "time": "10 days",
+        "yield": "84%"
+      },
+      "characterization_methods": [
+        "PXRD",
+        "XRD",
+        "Thermal stability",
+        "Reflectance and IR spectrum",
+        "Elemental analysis",
+        "Powder second harmonic generation (SHG)"
+      ],
+      "theoretical_calculations": true
+    },
+    {
+      "name": "II (Rb2(HC3N3O3); HCYR)",
+      "synthesis_conditions": {
+        "method": "vapor liquid diffusion",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetone",
+            "amount": "not specified",
+            "role": "diffused solvent"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "RbOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "H3C3N3O3",
+            "amount": "not specified"
+          }
+        ],
+        "ratio": "2:1 or 3:1",
+        "temperature": "room temperature",
+        "time": "10 days",
+        "yield": "78.6%"
+      },
+      "characterization_methods": [
+        "PXRD",
+        "XRD",
+        "Thermal stability",
+        "Reflectance and IR spectrum",
+        "Elemental analysis",
+        "Powder second harmonic generation (SHG)"
+      ],
+      "theoretical_calculations": true
+    },
+    {
+      "name": "III (LiRbHC3N3O3∙2H2O; HCYLR)",
+      "synthesis_conditions": {
+        "method": "vapor liquid diffusion",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetone",
+            "amount": "not specified",
+            "role": "diffused solvent"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "RbOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "LiOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "H3C3N3O3",
+            "amount": "not specified"
+          }
+        ],
+        "ratio": "1:1:1",
+        "temperature": "room temperature",
+        "time": "5 days",
+        "yield": "76.8%"
+      },
+      "characterization_methods": [
+        "PXRD",
+        "XRD",
+        "Thermal stability",
+        "Reflectance and IR spectrum",
+        "Elemental analysis",
+        "Powder second harmonic generation (SHG)"
+      ],
+      "theoretical_calculations": true
+    },
+    {
+      "name": "IV (NaRb0.84Cs0.16HC3N3O3∙2H2O; HCYNRC)",
+      "synthesis_conditions": {
+        "method": "vapor liquid diffusion",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          },
+          {
+            "name": "acetone",
+            "amount": "not specified",
+            "role": "diffused solvent"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "RbOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "CsOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "NaOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "H3C3N3O3",
+            "amount": "not specified"
+          }
+        ],
+        "ratio": "1:1:1:1",
+        "temperature": "room temperature",
+        "time": "5 days",
+        "yield": "74%"
+      },
+      "characterization_methods": [
+        "PXRD",
+        "XRD",
+        "Thermal stability",
+        "Reflectance and IR spectrum",
+        "Elemental analysis",
+        "Powder second harmonic generation (SHG)"
+      ],
+      "theoretical_calculations": true
+    },
+    {
+      "name": "V (NaRb3(H2C3N3O3)4∙3H2O; H2CYNR)",
+      "synthesis_conditions": {
+        "method": "slow evaporation",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "RbOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "NaOH",
+            "amount": "not specified"
+          },
+          {
+            "name": "H3C3N3O3",
+            "amount": "not specified"
+          }
+        ],
+        "ratio": "1:1:1",
+        "temperature": "room temperature",
+        "time": "5 days",
+        "yield": "81.2%"
+      },
+      "characterization_methods": [
+        "PXRD",
+        "XRD",
+        "Thermal stability",
+        "Reflectance and IR spectrum",
+        "Elemental analysis",
+        "Powder second harmonic generation (SHG)"
+      ],
+      "theoretical_calculations": true
+    }
+  ]
+}

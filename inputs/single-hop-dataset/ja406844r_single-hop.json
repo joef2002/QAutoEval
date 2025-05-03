@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of PCN-225?",
+      "answer": "C48H34N4O16Zr3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of PCN-225?",
+      "answer": "1902 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature do the frameworks of PCN-225 and PCN-225(Zn) start to decompose?",
+      "answer": "Around 350 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pH range in which PCN-225 remains stable?",
+      "answer": "1 to 11",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is it difficult to obtain single crystals of Zr-based MOFs?",
+      "answer": "Due to the inert/strong coordination bonds between Zr4+ cations and carboxylate anions, making ligand exchange reactions extremely slow.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does benzoic acid play in the synthesis of PCN-225?",
+      "answer": "Benzoic acid is introduced to the synthetic system based on modulated synthetic strategy to slow down the ligand substitution rate and facilitate the crystal growth.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence intensity of PCN-225 strongly correlated with the pH value of the dispersed solution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can PCN-225 be used for fluorescent pH sensing?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of Zn in the porphyrin center of PCN-225(Zn) affect its stability in acidic solutions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Zn/Zr ratio in PCN-225(Zn) exactly 1:3 as expected?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of pH on the fluorescence intensity of PCN-225?",
+      "answer": "The fluorescence intensity of PCN-225 is strongly correlated with pH value, with the most acidic solution giving the weakest fluorescence and the highest intensity obtained with pH = 10.2 solution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the Zn species in the porphyrin center of PCN-225(Zn) during the reaction process?",
+      "answer": "The Zn species in the porphyrin center could be readily kicked out by H+ because ZrCl4 is very acidic, which could generate H+ very easily in the presence of a little amount of H2O.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of PCN-225?",
+      "answer": "Acetic acid is added to the reaction to obtain the pure phase of PCN-225, as it facilitates faster precipitation and is assumed to make PCN-225 a kinetic product.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PCN-225 retain its framework structure in boiling water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is PCN-225 one of the most stable MOFs with large pore sizes that can survive in an extensive pH range?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of PCN-225?",
+      "answer": "I41/amd",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated BET surface area for PCN-225(Zn)?",
+      "answer": "2080 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the observed Zn/Zr ratio in PCN-225(Zn) according to EDS analyses?",
+      "answer": "Around 1:5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the addition of benzoic acid and acetic acid to the synthetic system of PCN-225 facilitate the formation of single crystals suitable for X-ray diffraction?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the fluorescence intensity of PCN-225 in acidic solutions weaker compared to basic solutions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the 2D network that underwent a [2+2] photodimerization reaction upon UV irradiation?",
+      "answer": "[Zn4(OH)2(5-NO2-1,3-BDC)2(5-NO2-1,3-HBDC)2(ppene)2]n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of reaction did the 2D coordination polymer undergo upon UV irradiation?",
+      "answer": "[2+2] photodimerization reaction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of single-crystal-to-single-crystal (SCSC) transformations in coordination compounds?",
+      "answer": "SCSC transformations allow for the structural nature of the product to be unambiguously determined using single crystal X-ray diffraction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The single crystal character is commonly preserved during the reaction process in coordination compounds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are there for reactions within crystalline solids induced by heating or irradiation?",
+      "answer": "Molecular switches, 3D data storage, and nanoscale actuators.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the product of the [2+2] photodimerization reaction of the conjugated dialkene 4-pyr-poly-2-ene (ppene)?",
+      "answer": "1,3-bis(pyridin-4-yl)-2,4-bis(2-(pyridin-4-yl)vinyl)cyclobutane (bpbpvcb)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [2+2] photodimerization reactions of ppene have been widely investigated.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used to organize ppene molecules into closely arranged pairs within crystals in previous studies?",
+      "answer": "A clip-like template, 5-methoxyresorcinol (5-OMe-res)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental results indicated that each pair of ppene molecules was dimerized into a molecule of a through UV irradiation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does DFT calculations suggest about the stability of the photoproducts obtained from [2+2] cycloaddition of two free ppene molecules?",
+      "answer": "Product a is the most thermodynamically stable product at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The constraints placed on the ppene ligands through their coordination to the zinc centres limit the type of structure that can be generated if the pyridyl-zinc connections are maintained.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the formation of dimer a indicate about the photodimerization process?",
+      "answer": "The process can proceed with only minimal changes in the coordination environment of the [Zn4(OH)2] aggregate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The centre of symmetry that lies between ppene ligands in 1 is lost upon formation of 2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the present work demonstrate about the SCSC transformation of a 2D coordination polymer?",
+      "answer": "It demonstrates a SCSC transformation through [2+2] photodimerization reaction, showing a regioselective photoreaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The methodology for SCSC transformation can be applied in the selective photodimerization reactions of conjugated polyenes.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the source of financial support for this work?",
+      "answer": "The National Natural Science Foundation of China, the State Key Laboratory of Organometallic Chemistry of Shanghai Institute of Organic Chemistry, and other sources.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental section and figures are available in the Electronic Supplementary Information (ESI).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for X-ray diffraction crystallography?",
+      "answer": "Measurements were made on a Rigaku Mercury CCD X-ray diffractometer using graphite monochromated Mo Kα.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational studies were performed to understand the photodimerization process?",
+      "answer": "Geometry optimizations and analytical frequencies calculations using Gaussian 09 with B3LYP functional and the 6-311++G(d,p) basis set.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The TGA curves for compounds 1 and 2 are identical.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

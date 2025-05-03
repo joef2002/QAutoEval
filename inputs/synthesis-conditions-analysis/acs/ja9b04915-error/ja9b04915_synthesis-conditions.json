@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "name": "MUV-11",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of H4bdha",
+          "temperature": "40 °C",
+          "time": "72 hours",
+          "chemicals_used": [
+            {
+              "name": "hydroxylamine hydrochloride",
+              "amount": "12.6 g, 180 mmol"
+            },
+            {
+              "name": "sodium hydroxide",
+              "amount": "14.4 g, 360 mmol"
+            },
+            {
+              "name": "dimethyl terephthalate",
+              "amount": "11.6 g, 60 mmol"
+            },
+            {
+              "solvent": "methanol",
+              "amount": "100 mL"
+            },
+            {
+              "solvent": "deionized water",
+              "amount": "90 mL"
+            }
+          ],
+          "yield": "62%"
+        },
+        {
+          "step": "Synthesis of MUV-11",
+          "temperature": "120 °C",
+          "time": "48 hours",
+          "chemicals_used": [
+            {
+              "name": "H4bdha",
+              "amount": "70.6 mg; 0.36 mmol"
+            },
+            {
+              "solvent": "N,N-dimethylformamide (DMF)",
+              "amount": "7.2 mL"
+            },
+            {
+              "solvent": "AcOH",
+              "amount": "2.1 mL"
+            },
+            {
+              "name": "titanium precursor",
+              "amount": "72 µmol"
+            }
+          ],
+          "washing_method": [
+            {
+              "solvent": "DMF",
+              "amount": "45 mL (3x15 mL)"
+            },
+            {
+              "solvent": "acetone",
+              "amount": "45 mL (3x15 mL)"
+            }
+          ],
+          "drying_method": "room temperature",
+          "yield": "65% (for high-scale synthesis)"
+        }
+      ],
+      "characterization": [
+        {
+          "technique": "PXRD",
+          "comments": "High crystallinity confirmed, consistent with MUV-11 structure."
+        },
+        {
+          "technique": "SEM",
+          "comments": "Hexagonal morphology and micrometric size (close to 20 µm)."
+        },
+        {
+          "technique": "NMR",
+          "comments": "Confirmed the structure of H4bdha."
+        },
+        {
+          "technique": "TGA",
+          "comments": "Shows weight loss due to solvent removal and thermal stability up to 400 °C."
+        },
+        {
+          "technique": "FT-IR",
+          "comments": "Shifts in C-N stretching and bending modes observed upon coordination to titanium."
+        },
+        {
+          "technique": "Gas adsorption",
+          "comments": "BET Surface area analysis performed, confirming microporosity."
+        },
+        {
+          "technique": "ICP-MS",
+          "comments": "Minimal leaching in acid media, confirming high chemical stability."
+        },
+        {
+          "technique": "1H-NMR",
+          "comments": "Confirmed minimal linker leaching in solution."
+        }
+      ],
+      "photocatalytic_activity": {
+        "H2_evolution": {
+          "conditions": "H2O:MeOH (4:1 v/v%), irradiated with a solar simulator",
+          "performance": "Low H2 production, improved with Pt photodeposition"
+        }
+      },
+      "stability": {
+        "water_stability": "High stability in acid media, partial amorphization in protic solvents",
+        "chemical_stability": "Minimal titanium leaching, confirming resistance to hydrolysis"
+      }
+    }
+  ]
+}

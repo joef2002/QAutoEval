@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "HIAM-301",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "precursors": [
+          "Y(NO3)3·9H2O",
+          "H4eddi"
+        ],
+        "solvent": "DMF",
+        "modulator": "2-fluorobenzoic acid",
+        "space_group": "R3̅c",
+        "formula": "Y6(OH)8(eddi)3(DMA)2",
+        "crystal_system": "Trigonal",
+        "a_b": "17.9206(5) Å",
+        "c": "45.982(2) Å",
+        "volume": "12788.5(9) Å3",
+        "radiation_type": "Neutron powder diffraction",
+        "scan_method": "Time of Flight",
+        "diffractometer": "Beamline WISH at ISIS",
+        "temperature": "10 K"
+      }
+    },
+    {
+      "name": "HIAM-301·1.30C3D6",
+      "synthesis_conditions": {
+        "formula": "Y6(OH)8(eddi)3(DMA)2·1.30C3D6",
+        "crystal_system": "Trigonal",
+        "space_group": "R-3c",
+        "a_b": "17.8985(4) Å",
+        "c": "46.012(2) Å",
+        "volume": "12765.3(8) Å3",
+        "radiation_type": "Neutron powder diffraction",
+        "scan_method": "Time of Flight",
+        "diffractometer": "Beamline WISH at ISIS",
+        "temperature": "10 K"
+      }
+    },
+    {
+      "name": "HIAM-301·2.33C3D6",
+      "synthesis_conditions": {
+        "formula": "Y6(OH)8(eddi)3(DMA)2·2.33C3D6",
+        "crystal_system": "Trigonal",
+        "space_group": "R-3c",
+        "a_b": "17.8788(4) Å",
+        "c": "46.021(2) Å",
+        "volume": "12740.0(8) Å3",
+        "radiation_type": "Neutron powder diffraction",
+        "scan_method": "Time of Flight",
+        "diffractometer": "Beamline WISH at ISIS",
+        "temperature": "10 K"
+      }
+    }
+  ],
+  "adsorption_parameters": {
+    "propylene": {
+      "qa": 2.410,
+      "ba": 0.0895,
+      "va": 0.685,
+      "qb": 2.251,
+      "bb": 1.690,
+      "vb": 1.360,
+      "R2": 0.999
+    },
+    "propane": {
+      "qa": 0.138,
+      "ba": 0.292,
+      "va": 1.484,
+      "qb": 4.999,
+      "bb": 0.00000916,
+      "vb": 1.751,
+      "R2": 0.999
+    }
+  },
+  "virial_fitting_parameters_propylene": {
+    "a0": -3193.16946,
+    "a1": 43.22475,
+    "a2": -0.52059,
+    "a3": -0.05041,
+    "a4": "1.41E-3",
+    "a5": "-1.92E-5",
+    "a6": "1.52E-7",
+    "a7": "-6.41E-10",
+    "a8": "1.11E-12"
+  }
+}

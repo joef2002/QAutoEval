@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the adenine-based Zn-MOF discussed?",
+      "answer": "The chemical formula is {[Zn3.5(AIPA)2(Ade)3(H2O)2]n.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the main applications of the discussed Zn-MOF?",
+      "answer": "The Zn-MOF is used for the detection and treatment of toxic pollutants in aqueous media, specifically for detecting explosives and antibiotics, and for the treatment of antibiotics in water through adsorption and photocatalytic degradation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of the Zn-MOF?",
+      "answer": "The Zn-MOF was synthesized by the hydrothermal method.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of adenine (Ade) and 5-aminoisophthalic acid (AIPA) in the Zn-MOF?",
+      "answer": "Adenine (Ade) and 5-aminoisophthalic acid (AIPA) serve as linkers in the Zn-MOF, contributing to its multifunctional behavior and enabling the detection and treatment of pollutants without the need for postsynthetic modifications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What pollutants can the Zn-MOF selectively detect?",
+      "answer": "The Zn-MOF can selectively detect nitrophenols, tetracyclines, and nitrofurans.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Zn-MOF treat antibiotics in water?",
+      "answer": "The Zn-MOF treats antibiotics in water through adsorption and photocatalytic degradation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What enables the Zn-MOF's detection selectivity towards pollutants?",
+      "answer": "The detection selectivity is enabled by a balance between photoinduced electron transfer (PET), resonance energy transfer (RET), and competitive excitation energy absorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Zn-MOF stable in water?",
+      "answer": "Yes, the Zn-MOF is stable in water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Zn-MOF require postsynthetic modifications for its multifunctional behavior?",
+      "answer": "No, the Zn-MOF does not require any postsynthetic modifications for its multifunctional behavior.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the emission wavelength of the Zn-MOF when excited at 314 nm?",
+      "answer": "The emission wavelength of the Zn-MOF when excited at 314 nm is 403 nm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the Zn-MOF detect pollutants other than nitrophenols, tetracyclines, and nitrofurans?",
+      "answer": "No, the Zn-MOF specifically detects nitrophenols, tetracyclines, and nitrofurans, with negligible effect on other pollutants.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of free NH2 groups in the Zn-MOF framework?",
+      "answer": "The free NH2 groups in the Zn-MOF framework enable the treatment of antibiotics through adsorption and photocatalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum adsorption capacity of Zn-MOF for NFT?",
+      "answer": "The maximum adsorption capacity of Zn-MOF for NFT is not explicitly mentioned in the text.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Zn-MOF exhibit luminescence properties?",
+      "answer": "Yes, the Zn-MOF exhibits luminescence properties.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the phase purity of Zn-MOF?",
+      "answer": "Powder X-ray diffraction (PXRD) patterns were used to confirm the phase purity of Zn-MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the competitive absorption of excitation energy in the detection mechanism of Zn-MOF?",
+      "answer": "The competitive absorption of excitation energy is significant for the detection mechanism of Zn-MOF as it contributes to the selectivity and efficiency in detecting specific pollutants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Zn-MOF be used for the development of a portable sensor?",
+      "answer": "Yes, the Zn-MOF can be utilized for the development of a portable sensor.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the photocatalytic degradation efficacy of Zn-MOF for TC?",
+      "answer": "The photocatalytic degradation efficacy of Zn-MOF for TC is not explicitly mentioned in the text.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Zn-MOF maintain its chemical stability throughout the detection process?",
+      "answer": "Yes, the chemical stability of Zn-MOF remains unaltered throughout the detection process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to understand the electron-transfer mechanism in Zn-MOF?",
+      "answer": "Density functional theory (DFT) calculations were used to understand the electron-transfer mechanism in Zn-MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

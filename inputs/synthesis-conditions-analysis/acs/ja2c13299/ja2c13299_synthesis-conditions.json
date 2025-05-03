@@ -1,0 +1,219 @@
+{
+  "materials": [
+    {
+      "name": "PCN-250 (Fe)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "500 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "100 mg"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "time": "24 h",
+        "washing_method": "centrifugation",
+        "drying_method": "room temperature"
+      }
+    },
+    {
+      "name": "PCN-250 (Fe2Ni)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "300 mg"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "150 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "100 mg"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "time": "24 h",
+        "washing_method": "centrifugation",
+        "drying_method": "room temperature",
+        "yield": {
+          "Ni/(Ni+Fe) ratio": "0.303"
+        }
+      }
+    },
+    {
+      "name": "PCN-250 (FeNi2)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "100 mg"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "290 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "100 mg"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "time": "24 h",
+        "washing_method": "centrifugation",
+        "drying_method": "room temperature",
+        "yield": {
+          "Ni/(Ni+Fe) ratio": "0.663"
+        }
+      }
+    },
+    {
+      "name": "PCN-250 (Fe2Co)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "100 mg"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "400 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "100 mg"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "time": "24 h",
+        "washing_method": "centrifugation",
+        "drying_method": "room temperature",
+        "yield": {
+          "Co/(Co+Fe) ratio": "0.286"
+        }
+      }
+    },
+    {
+      "name": "PCN-250 (Fe2Zn)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "100 mg"
+          },
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "500 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "100 mg"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "time": "24 h",
+        "washing_method": "centrifugation",
+        "drying_method": "room temperature",
+        "yield": {
+          "Zn/(Zn+Fe) ratio": "0.263"
+        }
+      }
+    },
+    {
+      "name": "PCN-250 (Fe2Mg)",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Fe(NO3)3·9H2O",
+            "amount": "100 mg"
+          },
+          {
+            "name": "Mg(NO3)2·6H2O",
+            "amount": "400 mg"
+          },
+          {
+            "name": "H4ABTC",
+            "amount": "100 mg"
+          }
+        ],
+        "equipment": "Pyrex vial",
+        "time": "24 h",
+        "washing_method": "centrifugation",
+        "drying_method": "room temperature",
+        "yield": {
+          "Mg/(Mg+Fe) ratio": "0.298"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge facing scientists in the development of adsorbent materials for clean energy?",
+      "answer": "The main challenge is the development of adsorbent materials that exhibit ultrahigh porosity but maintain balance between gravimetric and volumetric surface areas for the onboard storage of hydrogen and methane gas.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are NU-1501-Al and NU-1501-Fe based on?",
+      "answer": "NU-1501-Al and NU-1501-Fe are based on metal trinuclear clusters.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which material surpasses the gravimetric methane storage U.S. Department of Energy target?",
+      "answer": "NU-1501-Al surpasses the gravimetric methane storage U.S. Department of Energy target.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the gravimetric BET area of NU-1501-Al?",
+      "answer": "The gravimetric BET area of NU-1501-Al is 7310 m2 g−1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volumetric BET area of NU-1501-Al?",
+      "answer": "The volumetric BET area of NU-1501-Al is 2060 m2 cm−3.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the deliverable hydrogen capacity of NU-1501-Al under a combined temperature and pressure swing?",
+      "answer": "The deliverable hydrogen capacity of NU-1501-Al is 14.0 weight %, 46.2 g liter−1 under a combined temperature and pressure swing.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NU-1501-Al has a higher gravimetric methane uptake at 100 bar/270 K compared to NU-1500-Al.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NU-1500 in the development of NU-1501?",
+      "answer": "NU-1500 was used as a starting point in the pursuit of both high gravimetric and volumetric surface areas in a single material, leading to the development of NU-1501.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The volumetric deliverable capacities of NU-1500-Al are comparable to those of benchmark methane-storage materials.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the GSA × VSA product in evaluating MOFs for gas storage?",
+      "answer": "The GSA × VSA product quantifies the trade-off between gravimetric and volumetric surface areas, helping to identify MOFs that have both maximal gravimetric and volumetric surface areas, which is crucial for optimizing gas storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NU-1501-Al and NU-1501-Fe have similar gravimetric and volumetric BET areas.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the linker in the performance of NU-1501?",
+      "answer": "The linker in NU-1501 contributes to its ideal composition for attaining maximal volumetric and gravimetric surface areas, making it a promising candidate for gas storage.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The volumetric and gravimetric deliverable capacities in MOFs are optimized as concurrent objectives.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the pore size distribution on the GSA × VSA product?",
+      "answer": "Significant polydispersity in pore size distribution is detrimental for the GSA × VSA product, indicating that a uniform pore size distribution is preferable for optimizing the GSA × VSA product in MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NU-1501-Al is among the best MOFs for hydrogen storage under combined temperature and pressure swing conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the metal atom to organic atom ratio and the GSA × VSA product?",
+      "answer": "MOFs with lower metal atom to organic atom ratios tend to have higher GSA × VSA products, suggesting that organic atom moieties contribute significantly to the adsorption surface while being lighter compared to metals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NU-1501 involves solvothermal reactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the void fraction and largest pore diameter in the design of NU-1501?",
+      "answer": "The ideal void fraction and largest pore diameter are associated with maximizing the GSA × VSA product, indicating that these parameters are crucial for designing MOFs like NU-1501 with optimal gas storage capacities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The deliverable capacities of NU-1501-Al for methane are among the best for porous crystalline materials.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of computational results in the synthesis of NU-1501?",
+      "answer": "Computational results inspired the synthesis of expanded versions of acs-MOFs like NU-1501 by revealing the trade-off between gravimetric and volumetric surface area and guiding the selection of an extended ligand design.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

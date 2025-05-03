@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the supplementary information?",
+      "answer": "10.1038/NCHEM.1067",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the study described in the supplementary information?",
+      "answer": "Light-induced spin-crossover magnet",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to measure the magnetic properties of the synthesized materials?",
+      "answer": "Quantum Design MPMS superconducting quantum interference device (SQUID) magnetometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect is observed when the Fe2[Nb(CN)8]·(4-pyridinealdoxime)8·2H2O compound is irradiated with 473 nm light at 2 K?",
+      "answer": "A large spontaneous magnetization was observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Curie temperature (TC) observed for the photo-induced magnetization in the study?",
+      "answer": "20 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study reports a new compound Mn2[Nb(CN)8]·(4-pyridinealdoxime)8·0.2H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What phenomenon is responsible for the observed photomagnetism in the Fe–Nb-based metal–organic framework?",
+      "answer": "Light-induced excited spin-state trapping (LIESST) effect",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coercive field (Hc) measured at 2 K after light irradiation?",
+      "answer": "240 Oe",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The relaxation temperature of the LIESST effect (TLIESST) is easily determined in the present system.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated superexchange interaction constant (Jex) between FeII HS and neighbouring NbIV?",
+      "answer": "26.9 cm-1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates a method to optically control ferromagnetism in a metal–organic framework.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the saturation magnetization (Ms) value observed at 7 T after light irradiation?",
+      "answer": "7.4 µB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main mechanism behind the observed photo-induced spontaneous magnetization?",
+      "answer": "A combination of the LIESST effect and strong superexchange interactions between the magnetic centres of FeII HS and NbIV.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study reports the use of a diode laser with a wavelength of 473 nm for photo-irradiation experiments.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What percentage of the initial magnetization remains after the relaxation of the light-induced HS state?",
+      "answer": "70%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's findings could lead to the development of high-TC molecule-based photomagnets.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the key factors considered to realize LIESST-induced spontaneous magnetization according to the study?",
+      "answer": "Possibility of exciting the d–d transition of FeII LS, a three-dimensional network with strong exchange coupling, and a low-symmetrical crystal structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates a method to control magnetic properties such as Ms, TC, and Hc using light irradiation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the temperature defined as where the photo-induced phase disappears with increasing temperature?",
+      "answer": "Tp↓= 58 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's findings suggest that spin-crossover sites could lead to the development of flexible photomagnetic memory.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

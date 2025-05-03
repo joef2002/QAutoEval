@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the compound with the highest CO2 uptake at 298 K and 1 atm?",
+      "answer": "[Cu(bpy-1)2(SiF6)]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound exhibits a CO2/CH4 relative uptake of approximately 10.5:1?",
+      "answer": "[Cu(bpy-1)2(SiF6)]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the CO2 uptake of [Cu(bpy-2)2(SiF6)] at 1 atm higher than that of [Cu(bpy-1)2(SiF6)]?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does [Cu(bpy-1)2(SiF6)] have a higher selectivity for CO2 over CH4 compared to [Cu(bpy-2)2(SiF6)]?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of [Cu(bpy-1)2(SiF6)]?",
+      "answer": "1468 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to predict the equimolar binary mixture adsorption of CO2 and CH4?",
+      "answer": "Ideal Adsorbed Solution Theory (IAST)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 uptake of [Cu(bpy-2)2(SiF6)] at 1 atm?",
+      "answer": "12.1 wt %",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does [Cu(bpy-1)2(SiF6)] exhibit a high uptake for H2O?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption (Qst) for CO2 in [Cu(bpy-1)2(SiF6)]?",
+      "answer": "ca. 27 kJ/mol",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the surface area of [Cu(bpy-2)2(SiF6)] higher than that of [Cu(bpy-1)2(SiF6)]?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2/CH4 selectivity of [Cu(bpy-2)2(SiF6)]?",
+      "answer": "ca. 8:1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does [Cu(bpy-1)2(SiF6)] rely on chemisorption for CO2 uptake?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Qst value for CO2 in [Cu(bpy-2)2(SiF6)]?",
+      "answer": "ca. 21 kJ/mol",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does [Cu(bpy-2)2(SiF6)] have a lower H2O uptake compared to PCPs with open metal sites?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the synthesis method for [Cu(bpy-1)2(SiF6)]?",
+      "answer": "Layering a solution of CuSiF6 in EtOH/H2O onto a solution of bpy-1 in CHCl3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis temperature for [Cu(bpy-2)2(SiF6)]?",
+      "answer": "85 °C",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 uptake of [Cu(bpy-1)2(SiF6)] at 298 K and 1 atm higher than most MOFs with open metal sites?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the SiF6 2– moieties in the selectivity of [Cu(bpy-1)2(SiF6)] and [Cu(bpy-2)2(SiF6)]?",
+      "answer": "It is premature to assert their role in selectivity",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of [Cu(bpy-1)2(SiF6)]?",
+      "answer": "Tetragonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of open metal sites in a MOM typically lead to higher energy costs for regenerating the material?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

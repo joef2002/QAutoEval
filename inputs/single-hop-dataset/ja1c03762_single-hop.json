@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Y-thc-MOF-1 as made in DMF, measured at 200 K?",
+      "answer": "C78H48F3O36Y6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the crystal data of Sm-thc-MOF-1, as made in DMF, measured?",
+      "answer": "220 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Eu-thc-MOF-1 as made in DMF?",
+      "answer": "Pnma",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were collected for Tb-thc-MOF-1 as made in DMF measured at 220 K?",
+      "answer": "9222",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of the unit cell for Y-thc-MOF-1 immersed in EtOH and measured at 150 K?",
+      "answer": "9331.5 Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index for Dy-thc-MOF-1 as made in DMF measured at 210 K using all data?",
+      "answer": "wR2 = 0.2136",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of Y-thc-MOF-1 after post-synthetic exchange of 2-fluorobenzoates with formates measured at 220 K?",
+      "answer": "orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the largest diff. peak/hole for Tb-thc-MOF-1 immersed in EtOH measured at 210 K?",
+      "answer": "1.85/-1.20 e Å-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the space group for all RE-thc-MOF-1 frameworks Pnma?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Y-thc-MOF-1 structure remain stable up to 500 oC according to TGA analysis?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ratio of EtOH per cluster 5:1 for EtOH-exchanged Y-thc-MOF-1 after activation at room temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the PXRD pattern of Y-thc-MOF-1 change after exposure to air for 30 minutes?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the total pore volume for CH4 sorption in Y-thc-MOF-1 at 112 K 0.30 cm3 g-1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the formate-exchanged Y-thc-MOF-1 show a full breathing behavior upon adsorption of EtOH and other polar vapors?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the percent of trapped CH4 in Y-thc-MOF-1 at 112 K 24%?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the initial weight loss of ~12% up to 150 oC in the TGA curve of activated Y-thc-MOF-1 after ethanol exchange?",
+      "answer": "The initial weight loss is attributed to the removal of the coordinated ethanol molecules and possibly some absorbed moisture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the PXRD pattern of Y-thc-MOF-1 change after exposure to air for 30 minutes?",
+      "answer": "The PXRD pattern changes due to the material's breathing behavior, which involves structural changes in response to environmental conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the ratio of EtOH per cluster important for the breathing behavior of Y-thc-MOF-1?",
+      "answer": "The ratio of EtOH per cluster is crucial because it affects the framework's ability to breathe, with specific ratios allowing for more efficient gas adsorption and desorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the post-synthetic exchange of 2-fluorobenzoates with formates affect the vapor selectivity of Y-thc-MOF-1?",
+      "answer": "The post-synthetic exchange modifies the framework's interactions with vapors, enhancing its selectivity towards certain molecules by altering the pore environment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the largest diff. peak/hole in the crystal data analysis of MOFs?",
+      "answer": "The largest diff. peak/hole indicates the maximum electron density difference in the crystal structure, which helps in identifying regions of disorder or unmodeled parts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

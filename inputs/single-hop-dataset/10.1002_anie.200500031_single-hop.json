@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is near-infrared-to-visible photon upconversion?",
+      "answer": "It is the process where low-energy photons are converted into higher energy photons, requiring two or three photons of NIR light to generate one photon of visible light.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon allows molecules that typically absorb in the UV region to be excited with red or NIR light?",
+      "answer": "Multiphoton excitation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the organic chromophoric ligand in the photoluminescence processes from organolanthanide complexes?",
+      "answer": "It absorbs incident light and transfers its resultant excitation energy to the lanthanide ion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coordination geometry of the metal center in complex 1?",
+      "answer": "Tricapped trigonal prism.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the excitation wavelengths used for observing upconversion luminescence in the ligand and the lanthanide complex?",
+      "answer": "1.26 and 1.34 mm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the slopes obtained for logarithmic plots of incident power versus intensity in the study?",
+      "answer": "They are in good agreement with the multiphoton-upconversion processes, confirming the number of photons needed for SHG and THG processes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the energy transfer from the ligand to TbIII lead to green luminescence?",
+      "answer": "Electrons from the ligand's lowest energy triplet excited state transfer their excess energy to TbIII, promoting it to the 5D4 state, which then relaxes to the ground-state 7FJ configuration and emits green luminescence.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the rate of intersystem crossing enhanced in the presence of a heavy-metal ion like terbium?",
+      "answer": "Because the ligand is attached to a heavy-metal ion, enhancing the rate of intersystem crossing from S1 to T1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What enables the simultaneous observation of green upconversion and red and blue NLO processes?",
+      "answer": "The unique properties of the polymeric terbium(iii) complexes and the specific excitation source in the IR region.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the geometry and symmetry of the complex influence the multiphoton process?",
+      "answer": "The configuration of coordination of the chromophore to Tb, along with the properties of the chromophore, brings about the unique multiphoton process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the N-tripodal ligand L in the formation of complex 1?",
+      "answer": "It is treated with terbium nitrate to give the complex, adopting a polymetallic dendritic form for binding with lanthanide ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes complex 1 a good system for multiple-photon nonlinear photoluminescence?",
+      "answer": "Its strong linear and nonlinear luminescence at room temperature and the ability to act as the gain medium.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Only green multiphoton upconversion was observed in the system similar to complex 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The chromophore absorbs at approximately 330 nm, indicating that absorption of at least four photons is required for upconversion.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The slopes for the THG and SHG processes are 3 and 2, respectively, which do not agree with the theoretical values of photons needed.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ligand and complex have significant linear absorption in the spectral range from 400 nm to 1.34 mm.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The geometry and symmetry of the complex do not influence the multiphoton process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The energy-transfer diagram for the Tb complex 1 does not include SHG and THG processes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of complex 1 was determined by X-ray crystallography.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ligand L does not show upconversion emission in the blue region upon three-photon absorption.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

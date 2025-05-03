@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge for the pharmaceutical industry regarding enantiomers?",
+      "answer": "Selective separation of enantiomers is a substantial challenge for the pharmaceutical industry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is TAMOF-1 built from?",
+      "answer": "TAMOF-1 is built from copper(II) and an affordable linker prepared from natural L-histidine.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What makes TAMOF-1 notable for enantioselective separations?",
+      "answer": "TAMOF-1 is notable for enantioselective separations because it can separate a variety of model racemic mixtures, including drugs, in a wide range of solvents of different polarity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the preparation of TAMOF-1 scalable?",
+      "answer": "Yes, the preparation of TAMOF-1 is scalable to the multikilogram scale.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the porosity of TAMOF-1?",
+      "answer": "TAMOF-1 has a porosity of ca. 1200 m2 g–1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can TAMOF-1 be used in HPLC columns?",
+      "answer": "Yes, TAMOF-1 has been successfully incorporated into HPLC columns.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of open metal sites in TAMOF-1?",
+      "answer": "The open metal sites in TAMOF-1 play a role in its excellent capabilities for the separation of chiral model compounds and drugs as a chiral stationary phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does TAMOF-1 achieve quantitative separation of ibuprofen and thalidomide?",
+      "answer": "TAMOF-1 achieves quantitative separation of ibuprofen and thalidomide due to the different retention times for each enantiomer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is TAMOF-1 stable upon dehydration?",
+      "answer": "Yes, TAMOF-1 is stable upon dehydration.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Flack parameter value for TAMOF-1?",
+      "answer": "The Flack parameter value for TAMOF-1 confirms its homochirality.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical stability of TAMOF-1 in water?",
+      "answer": "TAMOF-1 shows good chemical stability in water, with negligible metal leaching.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can TAMOF-1 be used for the separation of chiral drugs?",
+      "answer": "Yes, TAMOF-1 can be used for the separation of chiral drugs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of triazolate metal connectors in TAMOF-1?",
+      "answer": "Triazolate metal connectors in TAMOF-1 lead to a chiral, robust framework that retains its porosity after activation and does not suffer from chemical limitations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the BET surface area of TAMOF-1?",
+      "answer": "The BET surface area of TAMOF-1 is over 980 ± 50 m2 g–1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is TAMOF-1 chemically stable under acidic and basic conditions?",
+      "answer": "Yes, TAMOF-1 is chemically stable under acidic and basic conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the thermal cycle for the coordination geometry of CuII centers in TAMOF-1?",
+      "answer": "The thermal cycle for the coordination geometry of CuII centers in TAMOF-1 shows that the structure remains unchanged up to 200 °C, indicating thermal stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the solvent-accessible volume of TAMOF-1 at 403 K?",
+      "answer": "The solvent-accessible volume of TAMOF-1 at 403 K is close to 41% of the total (3307.7 Å3).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does TAMOF-1 exhibit flexibility upon guest adsorption?",
+      "answer": "No significant structural behaviors beyond thermal motion were found for TAMOF-1 upon guest adsorption, indicating it does not exhibit significant flexibility.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of weak host-guest interactions in TAMOF-1 for chiral separation?",
+      "answer": "Weak host-guest interactions in TAMOF-1, combined with sufficiently high differences in adsorption enthalpies, enable quantitative separation of enantiomers without strong pinning.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can TAMOF-1 outperform commercial chiral HPLC columns?",
+      "answer": "Comparative studies suggest that the TAMOF-1 packed HPLC column yields highly efficient chiral resolutions and may exceed commercial column performance in terms of elution system versatility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

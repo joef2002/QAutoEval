@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of optical imaging over X-ray computed tomography and positron emission tomography?",
+      "answer": "Optical imaging uses neither ionizing radiation nor radioactive materials.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why do dye-loaded nanoparticles represent a solution for detecting low concentrations of biological targets in optical imaging?",
+      "answer": "Because they can carry a large payload of dye molecules and target certain cell types by conjugation to affinity molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Most fluorescent dye molecules have large Stokes shifts and do not suffer from self-quenching.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the dye loading percentage for the zinc-based nanoscale coordination polymers?",
+      "answer": "78.7%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the bulk zinc coordination polymer with the formula [Zn2L-(C2O4)2]·2 dmf·3 H2O?",
+      "answer": "By allowing Zn(NO3)2 and [L-H2](PF6)2 to react in a dimethylformamide and H2O mixture in a screw-capped vial at 90°C for two days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The zirconium-based nanoscale coordination polymers were not stabilized with a silica coating.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of functionalizing the silica-coated zirconium NCP with poly(ethylene glycol) (PEG) and a targeting molecule?",
+      "answer": "For in vitro optical imaging of cancer cells.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescent quantum yield of NCP-2 was reported to be 0.8%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the half-life of the as-synthesized particles of 2 in 8 mm phosphate-buffered saline at 37°C?",
+      "answer": "About 0.5 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the stability of NCP-2 under coating conditions confirmed?",
+      "answer": "By TGA, EDS, DLS, and release profile data.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The silica coating on NCP-2 particles did not provide surface silanol groups for further functionalization.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed effect of PEG-SiO2@2 and AA-PEG-SiO2@2 on H460 human non-small-cell lung cancer cells after 24 hours of incubation?",
+      "answer": "They did not lead to any appreciable cell death.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Significant MLCT luminescent signal was observed in H460 cells incubated with non-targeted PEG-SiO2@2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion of the study regarding the potential use of nanoscale coordination polymers?",
+      "answer": "They are a novel platform for the design of luminescent hybrid nanoparticles with extremely high dye loadings for optical imaging.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The anisamide-targeted particles showed no cancer specificity in uptake studies and confocal microscopy of H460 cells in vitro.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the synthesis of the phosphorescent ruthenium complex?",
+      "answer": "By treating 5,5’-(CO2Et)2-bpy with [Ru(bpy)2Cl2] and subsequent acid-catalyzed hydrolysis and anion exchange.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The zirconium-based NCPs had a dye loading percentage of 57.4%.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the average luminescence lifetime of NCP-1 monitored at 630 nm?",
+      "answer": "215 ns.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why were NCP-1 particles not stable under the coating conditions?",
+      "answer": "Because the L dye molecules leached from the particles, and the recovered particles were nearly colorless.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that nanoscale coordination polymers could not be used as contrast agents for optical imaging.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

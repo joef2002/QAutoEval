@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research reported in the article?",
+      "answer": "The research focuses on the synthesis of a heterogeneous catalyst consisting of Pd4 clusters with mixed-valence 0/1 oxidation states, stabilized within the walls of a metal–organic framework (MOF), which shows high catalytic activity for carbene-mediated chemistry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key properties of the synthesized Pd4-MOF catalyst?",
+      "answer": "The Pd4-MOF catalyst outperforms state-of-the-art metal catalysts in carbene-mediated reactions of diazoacetates, with high yields (>90%) and turnover numbers (up to 100,000), and retains its catalytic activity in repeated batch and flow reactions (>20 cycles).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using MOFs in the synthesis of metal clusters?",
+      "answer": "MOFs provide a versatile platform for encapsulating catalytic nanosized species within their channels, offering a controlled environment that can potentially enhance the catalytic properties of the encapsulated metal clusters.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How were the Pd4 clusters within the MOF characterized?",
+      "answer": "The nature of the Pd4-MOF compound was established using a combination of techniques including density functional theory calculations, inductively coupled plasma–mass spectrometry, elemental analysis, powder X-ray diffraction, thermo-gravimetric analyses, Fourier transform infrared spectroscopy, X-ray photoelectron spectroscopy, and electron microscopy.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the mixed-valence state of Pd play in the catalytic activity of the Pd4-MOF?",
+      "answer": "The mixed-valence state of Pd within the Pd4 clusters enables carbene bonding, which significantly enhances the catalytic activity for carbene-mediated reactions, surpassing that of state-of-the-art catalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Pd4-MOF catalyst be reused without loss of activity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of the Pd4-MOF catalyst limited to batch reactions only?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NaBH4 in the synthesis of the Pd4-MOF?",
+      "answer": "NaBH4 is used in the reduction process to convert PdII ions to Pd0/1+ within the MOF, leading to the formation of the final Pd4-MOF compound.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Pd4-MOF catalyst show selectivity in the carbene-mediated reactions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the Pd4-MOF catalyst on industrial chemical processes?",
+      "answer": "The Pd4-MOF catalyst, with its high yields, turnover numbers, and reusability, has the potential to significantly improve the efficiency and sustainability of industrially important carbene-mediated chemical processes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

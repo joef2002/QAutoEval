@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "question": "What is the main strategy demonstrated in this work to refine the pore structure of MOFs?",
+            "answer": "This work demonstrates a quasi-three-dimensional refinement strategy of the pore structure of MOFs that utilizes the tunability of both the size and number of aliphatic rings in polycycloalkane-dicarboxylate ligands.",
+            "type": "factual"
+        },
+        {
+            "question": "How does the expansion of the polycyclic moiety from ZUL-C1 to ZUL-C2 affect the pore structure and host-guest interactions?",
+            "answer": "From ZUL-C1 to ZUL-C2, the expansion of the polycyclic moiety from a bicyclo[1.1.1]pentane backbone to a cubane backbone extends the side of the pore channel, but the accompanying increase in ring number and moiety volume effectively reduces the dimension of the accessible pore space in specific directions and forms a contoured pore surface with more alkyl sites. This enables stronger trapping of guest molecules with relatively higher polarizability through enhanced van der Waals and hydrogen-bonding/dipolar interactions.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What are the two main separation applications that ZUL-C1 and ZUL-C2 were tested for?",
+            "answer": "ZUL-C1 and ZUL-C2 were applied in CH4/C2H6/C3H8 separation from natural gas and Xe/Kr separation from used nuclear fuel (UNF) off-gas.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the C2H6/CH4 and C3H8/CH4 selectivities of ZUL-C2 compare to other reported MOFs?",
+            "answer": "ZUL-C2 exhibits record C2H6/CH4 selectivity of 82 and C3H8/CH4 selectivity of 741 at 100 kPa and 298 K, significantly outperforming all existing benchmark porous materials under the same conditions.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the reason for the higher C2H6 and C3H8 uptake at low pressure in ZUL-C2 compared to ZUL-C1?",
+            "answer": "The C2H6 and C3H8 adsorption isotherms of ZUL-C2 are much steeper than those of ZUL-C1 at low pressures, indicating stronger host-guest interactions in ZUL-C2. This is supported by the higher isosteric heats of adsorption (Qst) for C2H6 and C3H8 in ZUL-C2 compared to ZUL-C1 at nearly zero loading.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The CH4 productivity of ZUL-C2 in the CH4/C2H6/C3H8 (85:10:5) breakthrough experiment surpasses most literature MOFs.",
+            "answer": true,
+            "type": "True or False"
+        },
+        {
+            "question": "What is the Xe capture capacity of ZUL-C2 from the breakthrough experiment mimicking UNF reprocessing off-gas, and how does it compare to other MOFs?",
+            "answer": "In the breakthrough experiment mimicking UNF reprocessing off-gas (400 ppm Xe, 40 ppm Kr, 21% O2, 0.91% Ar, balanced with N2), ZUL-C2 exhibits a total Xe capture capacity of 27.4 mmol/kg, outperforming all literature MOFs under similar conditions.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the binding energies of CH4, C2H6 and C3H8 compare between ZUL-C1 and ZUL-C2 based on DFT-D calculations?",
+            "answer": "DFT-D calculations show that the binding energies follow the trend C3H8 > C2H6 > CH4 in both ZUL-C1 and ZUL-C2. However, the binding energies are higher in ZUL-C2 than ZUL-C1 for each gas (C3H8: 78.99 vs 72.32 kJ/mol, C2H6: 52.95 vs 49.03 kJ/mol, CH4: 29.39 vs 28.46 kJ/mol), indicating stronger host-guest interactions in ZUL-C2.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What are the optimized adsorption sites for C2H6 in ZUL-C1 and ZUL-C2 based on DFT-D simulations?",
+            "answer": "In both ZUL-C1 and ZUL-C2, C2H6 is arranged along the shorter diagonal of the diamond-shaped pore with two methyl groups close to the metal chain. Multiple C-H\u8def\u8def\u8defO hydrogen bonds are formed between C2H6 and the carboxylate groups, as well as a weak C\u8def\u8def\u8defH-O interaction with the hydroxyl group on the metal chain. These interactions are stronger in ZUL-C2 due to the shorter distances.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The Kr productivity of ZUL-C2 for the Xe/Kr (20:80) mixture is the highest among reported MOFs.",
+            "answer": true,
+            "type": "True or False"
+        },
+        {
+            "question": "What are the two main factors that contribute to the superior separation performance of ZUL-C2 compared to ZUL-C1 for both alkane and Xe/Kr mixtures?",
+            "answer": "The superior separation performance of ZUL-C2 arises from 1) the reduction of the accessible pore space dimension in specific directions due to the expanded polycyclic moiety, and 2) the formation of a contoured pore surface with more alkyl sites. These factors enable stronger van der Waals interactions and hydrogen-bonding/dipolar interactions between the guest molecules and the framework.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the thermal stability of ZUL-C1 and ZUL-C2 compare based on TGA analysis?",
+            "answer": "TGA curves show that ZUL-C2 is thermally stable up to 623 K, while ZUL-C1 is stable up to 523 K.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The C2H6 uptake of ZUL-C2 at 1 kPa and 298 K is 3.2 times higher than that of ZUL-C1.",
+            "answer": true,
+            "type": "True or False"
+        },
+        {
+            "question": "What experimental techniques were used to confirm the permanent porosity of activated ZUL-C1 and ZUL-C2?",
+            "answer": "The permanent porosity of activated ZUL-C1 and ZUL-C2 was confirmed by argon (Ar) adsorption isotherms at 87 K. The BET surface areas were determined to be 504 m2/g for ZUL-C1 and 462 m2/g for ZUL-C2.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the densities of adsorbed C2H6 and C3H8 in ZUL-C1 and ZUL-C2 compare to their liquid phase densities?",
+            "answer": "The densities of adsorbed C2H6 and C3H8 in ZUL-C1 are 0.20 and 0.27 g/mL, while those in ZUL-C2 are 0.22 and 0.29 g/mL, respectively. These values are comparable to the liquid phase densities of C2H6 (0.32 g/mL) and C3H8 (0.49 g/mL) at 298 K, indicating dense packing of the gases in the MOF pores, especially in ZUL-C2.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The binding energy of Xe is higher than Kr in both ZUL-C1 and ZUL-C2 based on DFT-D calculations.",
+            "answer": true,
+            "type": "True or False"
+        },
+        {
+            "question": "What are the optimized adsorption sites for Xe in ZUL-C1 and ZUL-C2 based on DFT-D simulations?",
+            "answer": "In both ZUL-C1 and ZUL-C2, Xe\u8def\u8def\u8defH van der Waals interactions are formed between Xe and the polar hydroxyl group of the metal chain. The confined pore of ZUL-C2 leads to shorter average Xe\u8def\u8def\u8defO bonds (4.3 \u811c) than in ZUL-C1 (4.6 \u811c), resulting in a higher Xe binding energy in ZUL-C2 (37.4 kJ/mol) than in ZUL-C1 (34.0 kJ/mol).",
+            "type": "factual"
+        },
+        {
+            "question": "How does the presence of moisture affect the CH4/C2H6/C3H8 (85:10:5) separation performance of ZUL-C2 in breakthrough experiments?",
+            "answer": "Although the breakthrough times of C3H8 and C2H6 are both reduced in the presence of water (3% and 5% moisture), ZUL-C2 still exhibits good separation performance with only a slight reduction in CH4 productivity (10.9 mmol/g at 3% moisture and 10.1 mmol/g at 5% moisture) compared to dry conditions (11.4 mmol/g).",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: ZUL-C1 and ZUL-C2 have the same topology but different pore sizes due to the different lengths of the bpdc and cdc ligands.",
+            "answer": true,
+            "type": "True or False"
+        },
+        {
+            "question": "What are the main conclusions drawn from this study regarding the quasi-three-dimensional pore refinement strategy based on polycycloalkane-dicarboxylate ligands?",
+            "answer": "This study demonstrates the considerable potential of the quasi-three-dimensional pore refinement strategy based on polycycloalkane-dicarboxylate ligands. The increase in ring number and moiety volume from ZUL-C1 to ZUL-C2 effectively reduces the accessible pore space dimension in specific directions and forms a contoured pore surface with more alkyl sites, enabling simultaneous enhancement of van der Waals and hydrogen-bonding/dipolar interactions. This leads to exceptional separation performance and stability in both CH4/C2H6/C3H8 and Xe/Kr mixtures.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The water stability and H2S stability of ZUL-C1 and ZUL-C2 were verified by powder X-ray diffraction and adsorption isotherms after exposure to water and H2S.",
+            "answer": true,
+            "type": "True or False"
+        }
+    ]
+}

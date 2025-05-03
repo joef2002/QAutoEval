@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "MOF-1992·[Fe]3",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide/water/methanol",
+            "ratio": "100/0.5/0.5",
+            "volume_unit": "v/v"
+          }
+        ],
+        "temperature": "150 °C",
+        "time": "16 h",
+        "chemicals_used": [
+          {
+            "name": "FeCl2",
+            "amount": "33.65 mg"
+          },
+          {
+            "name": "CoPc",
+            "amount": "52.45 mg"
+          }
+        ],
+        "equipment": "borosilicate tube",
+        "yield": "Not specified",
+        "washing_method": "methanol (45 mL x 5) over a 24-hour period",
+        "drying_method": "evacuated at 150 ºC for six hours at 10-2 mtorr"
+      }
+    },
+    {
+      "name": "MOF-1992·[Mg]3",
+      "synthesis": {
+        "solvents": "DMF",
+        "temperature": "100 °C",
+        "time": "12 hours",
+        "chemicals_used": [
+          {
+            "name": "MOF-1992·[Fe]3",
+            "amount": "80 mg"
+          },
+          {
+            "name": "MgCl2",
+            "amount": "80 mg"
+          }
+        ],
+        "equipment": "capped vial",
+        "yield": "Not specified",
+        "washing_method": "DMF (45 mL x 5) over a 24-hour period",
+        "drying_method": "washed with methanol (45 mL x 5) over 24 hours and evacuated at 150 ºC for six hours at 10-2 mtorr"
+      }
+    }
+  ]
+}

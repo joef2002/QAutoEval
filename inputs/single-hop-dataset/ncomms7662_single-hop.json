@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main focus of the study described?",
+      "answer": "The main focus of the study is the in situ X-ray diffraction monitoring of a mechanochemical reaction to discover a unique topology metal-organic framework.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental setup was used for real-time, in situ experiments?",
+      "answer": "Real-time, in situ experiments were conducted at the ESRF beamline ID15B in a modified MM200 Retsch mill operating at 30 Hz.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the unexpected finding during the mechanochemical synthesis of ZIF-8?",
+      "answer": "The unexpected finding was the amorphization of ZIF-8 during milling in a water-containing environment, followed by recrystallization into different crystalline frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What new phase was discovered during the study?",
+      "answer": "A new phase named katsenite (kat-Zn(MeIm)2) with a previously unknown framework topology was discovered.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study successfully reproduced the synthesis of kat-Zn(MeIm)2, dia-Zn(MeIm)2, and amorph-Zn(MeIm)2 outside the synchrotron facility using conventional equipment.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of aqueous acetic acid in the mechanochemical reaction?",
+      "answer": "Aqueous acetic acid facilitated the structural instability and transformations of ZIF-8, although it was not mandatory for the amorphization process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The amorphous phase obtained during the study was stable under storage and did not rearrange into a crystalline material.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of discovering the katsenite phase in the context of mechanochemical reactivity?",
+      "answer": "The discovery of the katsenite phase provided direct evidence that milling transformations can involve short-lived, structurally unusual phases not yet accessed by conventional chemistry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the crystal structure of katsenite determined?",
+      "answer": "The crystal structure of katsenite was solved by global optimization in direct space using the program Topas, from PXRD data collected on a Bruker D8 Discovery X-ray diffractometer.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's findings suggest that mechanical agitation under wet conditions does not provide means to access unconventional behavior and structures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of pressure on ZIF-8 according to previous studies?",
+      "answer": "Previous studies reported that amorphization of ZIF-8 was observed only on dry milling of nano-sized crystals or on exposure to pressures greater than 10 GPa.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were used to evaluate the relative stabilities of the structures involved in the study?",
+      "answer": "Ab initio calculations using the VASP code with the projector augmented wave method and consideration of van der Waals interactions were used to evaluate the relative stabilities of the structures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study concluded that GGA type of the exchange correlation functional is a better choice than vdW-DF for evaluating the relative stabilities of zinc(2-methylimidazolate) structures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of crystalline silicon added to the reaction mixture?",
+      "answer": "Crystalline silicon was added as an internal scattering standard for quantitative in situ and real-time monitoring of mechanochemical reactions, and it unexpectedly led to in situ recrystallization of the initial amorphous phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings support the Ostwald's rule of stages in the context of solid-state transformations.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were encountered in the reproducible synthesis of pure kat-Zn(MeIm)2?",
+      "answer": "The reproducible synthesis of pure kat-Zn(MeIm)2 was challenging, and the samples often contained a variable amount of dia-Zn(MeIm)2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the study contribute to the understanding of structural transformations in mechanochemical processes?",
+      "answer": "The study contributed to the understanding of structural transformations in mechanochemical processes by providing the first direct observation of an amorphization–recrystallization mechanism and evidence of a metastable intermediate phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that the amorphous phase obtained during milling is dynamic and can be rearranged back into the open SOD topology by wet milling in a suitable environment.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What implications do the study's findings have for the synthesis of metal-organic frameworks?",
+      "answer": "The study's findings have implications for the synthesis of metal-organic frameworks by highlighting the potential of mechanical agitation under wet conditions to access unconventional behavior and structures not observed under static conditions or dry milling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the volume of liquid affects the amorphization of ZIF-8 more than the acid content.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

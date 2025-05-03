@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for Zn(AIm)2?",
+      "answer": "Zn(C5H3N2)2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which ZIF material has the highest calculated band gap according to Table S3?",
+      "answer": "Cd(AIm)2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ignition delay (ID) for Zn(AIm)2 when using WFNA as an oxidizer?",
+      "answer": "2(1), 4(1) ms",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, which ZIF material is expected to have the highest BET surface area?",
+      "answer": "Zn(AIm)2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZIF-8 exhibits hypergolic behavior when tested with WFNA.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ammonium acetate in the mechanochemical synthesis of ZIFs?",
+      "answer": "It acts as a catalytic salt.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The hypergolicity of ZIFs is influenced by the choice of metal and linker components.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Which ZIF material retained its hypergolic activity after 1 month of storage when tested with WFNA?",
+      "answer": "Zn(AIm)2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The formation of coordination bonds in a ZIF improves hypergolic behavior compared to the free ligand.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ignition delay (ID) for Co(AIm)2 when using RFNA as an oxidizer?",
+      "answer": "7(2), 10(2) ms",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The vinyl-substituted MOFs were not hypergolic with RFNA.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated band gap for Zn(VIm)2?",
+      "answer": "3.070 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ability to include the oxidizer in the MOF is critical for hypergolic response.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Which ZIF material has the lowest calculated band gap, indicating potentially higher reactivity?",
+      "answer": "Co(AIm)2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hypergolic MOFs are expected to be non-microporous.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ethanol in the mechanochemical synthesis of ZIFs?",
+      "answer": "It acts as a milling liquid.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ignition delay (ID) for ZIF materials is not affected by the method of preparation.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Which ZIF material showed the shortest ignition delay (ID) with WFNA?",
+      "answer": "Zn(AIm)2 and Co(AIm)2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All ZIF materials studied exhibit hypergolic behavior with both WFNA and RFNA.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the calculated band gaps in relation to the hypergolic properties of ZIFs?",
+      "answer": "Lower calculated band gaps are related to higher hypergolic reactivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

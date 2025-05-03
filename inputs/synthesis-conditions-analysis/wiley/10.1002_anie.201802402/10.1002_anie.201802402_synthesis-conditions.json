@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "PCM-101",
+      "synthesis_conditions": [
+        {
+          "temperature": "75-88°C",
+          "solvents": "DMF:MeOH:H2O",
+          "solvent_ratio": "5:2:1",
+          "time": "12 h",
+          "chemicals_used": [
+            "tris(p-carboxylato)triphenylphosphine (P{C6H4-4-CO2H}3; tctpH3)",
+            "4,4’-bipyridine (bipy) ligands",
+            "M(BF4)2 (M = Co, Ni)"
+          ],
+          "yield": "high",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "equipment": "not specified",
+          "additional_notes": "Reactions prepared under N2 using degassed solvents provide oxide-free isolated crystalline products."
+        }
+      ]
+    },
+    {
+      "name": "AuCl-PCM-101",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": "mother liquor",
+          "time": "12 h",
+          "chemicals_used": [
+            "(dimethylsulfide)gold(I) chloride ((Me2S)AuCl)"
+          ],
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "equipment": "not specified",
+          "additional_notes": "Bulk PXRD analysis of the products gave a very different pattern, indicating a change in metric symmetry."
+        }
+      ]
+    },
+    {
+      "name": "CuBr-PCM-101",
+      "synthesis_conditions": [
+        {
+          "temperature": "room temperature",
+          "solvents": "not specified",
+          "time": "not specified",
+          "chemicals_used": [
+            "CuBr·MeSMe"
+          ],
+          "yield": "not specified",
+          "washing_method": "not specified",
+          "drying_method": "not specified",
+          "equipment": "not specified",
+          "additional_notes": "SCXRD revealed the successful insertion of Cu2Br2 squares into P2 pockets with retention of host lattice symmetry."
+        }
+      ]
+    }
+  ]
+}

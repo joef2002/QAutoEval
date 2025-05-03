@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of designing porous materials in the context of the article?",
+      "answer": "The purpose is for the selective capture of molecules possessing an electron-acceptor character such as nitric oxide (NO).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of complexes were synthesized for selective NO trapping?",
+      "answer": "One-dimensional chain compounds possessing a high donor character were synthesized using 4-chloroanisate-bridged paddlewheel-type dimetal(II, II) complexes with M = Ru and Rh and phenazine (phz) as the chain linker.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to compounds 1 and 2 upon evacuating the crystallization solvent?",
+      "answer": "Compounds 1 and 2 change to a new phase (1-dry and 2-dry) upon evacuating the crystallization solvent (CH2Cl2) and almost lose their pores in the drying process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do 1-dry and 2-dry compounds behave in terms of gas accommodation?",
+      "answer": "Despite having almost no void space, the compounds show a unique gas accommodation ability, including a structural transformation at low pressures of <10 kPa.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the second gate-opening anomaly observed in the adsorption isotherm for NO?",
+      "answer": "The second gate-opening anomaly at NO pressures of ≈52 kPa for 1-dry and ≈21 kPa for 2-dry indicates a unique behavior in NO adsorption, different from O2 and CO2, involving a structural transformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The desorption process of NO from 1-dry and 2-dry shows hysteresis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of hysteresis in the NO desorption process suggest about the interaction between NO molecules and the host framework?",
+      "answer": "It suggests that NO molecules are trapped in pores even after evacuating at 121 K, indicating significant electron donation from the host framework to the adsorbed NO molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Heating to room temperature recovers the original dried sample after NO adsorption.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the phenazine (phz) linker play in the selective adsorption of NO?",
+      "answer": "The phenazine (phz) linker, being electronically activated by the paddlewheel-type dimetal complexes, contributes to the high donor character of the chain compounds, facilitating the selective adsorption of NO.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study proposes a simple strategy for the design of PCPs/MOFs for selective gas adsorption based on the high redox activity or potential for polarizing in their frameworks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

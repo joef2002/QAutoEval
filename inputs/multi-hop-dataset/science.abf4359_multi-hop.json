@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the main challenge addressed by this work?",
+            "answer": "The main challenge addressed is the stereocontrolled synthesis of dinucleotides and cyclic dinucleotides containing stereogenic phosphorus centers.",
+            "type": "factual"
+        },
+        {
+            "question": "Why is controlling the stereochemistry at phosphorus important for oligonucleotide therapeutics?",
+            "answer": "Controlling the stereochemistry at phosphorus is important because it has a substantial impact on the efficacy of oligonucleotide-based therapeutics.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What are the two different CPA scaffolds that were found to be essential for achieving stereodivergence?",
+            "answer": "The two different CPA scaffolds found to be essential for stereodivergence were peptide-embedded phosphothreonine-derived CPAs and C2-symmetric BINOL-derived CPAs.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The presently reported catalytic method requires stoichiometric activators or chiral auxiliaries.",
+            "answer": "False. The presently reported catalytic method does not require stoichiometric activators or chiral auxiliaries.",
+            "type": "True or False"
+        },
+        {
+            "question": "What is the proposed mechanism for CPA-catalyzed activation of phosphoramidite?",
+            "answer": "The proposed mechanism involves a mixed-valence P(III)-P(V) substrate-catalyst complex that undergoes rapid, pre-stereochemistry\u9225\u63f9etermining epimerization at P(III).",
+            "type": "reasoning"
+        },
+        {
+            "question": "What was the key finding that supported the feasibility of stereocontrol using CPAs?",
+            "answer": "Evaluation of pThr-derived catalysts revealed that catalysts biased toward the \u5c3e-turn structure with a DPro and Aib motif emerged as selective catalysts, amplifying the intrinsic selectivity.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The stereochemical outcome of the coupling reactions was found to be dependent on the starting diastereomeric ratio of the phosphoramidite.",
+            "answer": "False. The stereochemical outcome of dinucleotide 3 was found to be independent of the starting diastereomeric ratio of phosphoramidite 1.",
+            "type": "True or False"
+        },
+        {
+            "question": "What modification to the native phosphodiester linkages in cyclic dinucleotides was explored to prepare small-molecule therapeutics with increased metabolic stability?",
+            "answer": "Permutation of the phosphodiester linkage to a phosphorothioate (PS) was explored as a modification to prepare small-molecule therapeutics with increased metabolic stability.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the main limitation of current synthetic methods for preparing PS-modified cyclic dinucleotides?",
+            "answer": "Most current synthetic methods for preparing PS-modified cyclic dinucleotides rely on nonselective syntheses requiring tedious reversed-phase HPLC purifications to isolate diastereomerically pure analogs in small quantities.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The catalytic method was successfully applied to the stereocontrolled synthesis of diastereomeric dinucleotides as well as cyclic dinucleotides.",
+            "answer": "True. The catalytic method was applied to the stereocontrolled synthesis of diastereomeric dinucleotides as well as cyclic dinucleotides.",
+            "type": "True or False"
+        },
+        {
+            "question": "What is the significance of cyclic dinucleotides like 23-cyclic guanosine monophosphate\u9225\u63f3denosine monophosphate (cGAMP)?",
+            "answer": "Cyclic dinucleotides like cGAMP elicit an immune response through activation of the stimulator of interferon genes (STING) protein and are being evaluated in clinical studies for oncology therapeutics.",
+            "type": "factual"
+        },
+        {
+            "question": "How many possible diastereomers of a phosphorothioate-derived cyclic dinucleotide exist due to the stereogenic phosphorus atoms?",
+            "answer": "Four possible diastereomers of a phosphorothioate-derived cyclic dinucleotide exist due to the stereogenic phosphorus atoms.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The only stereoselective synthesis of a modified 33-cyclic dinucleotide to date uses a catalytic approach.",
+            "answer": "False. The only stereoselective synthesis of a modified 33-cyclic dinucleotide to date uses chiral auxiliaries, not a catalytic approach.",
+            "type": "True or False"
+        },
+        {
+            "question": "What is the main drawback of using chiral auxiliaries for stereocontrol in oligonucleotide synthesis?",
+            "answer": "Using chiral auxiliaries requires multistep syntheses to prepare and install the auxiliaries, and a stoichiometric quantity of by-product is intrinsic because the auxiliary is eventually cleaved from the target compound.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What was the key mechanistic hypothesis for the CPA-catalyzed coupling?",
+            "answer": "The key mechanistic hypothesis was that the phosphoric acid catalyst acts as both an acid and nucleophilic catalyst, resulting in a mixed-valence P(III)\u9225\u63da(V) intermediate that undergoes rapid epimerization, with the stereochemical outcome tracking with the relative displacement rate constants.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What was observed when evaluating the substrate scope of the catalytic coupling with different nucleobase pairs?",
+            "answer": "The scope studies revealed that the diastereodivergent catalysis could be applied to other nucleobase pairs, with the efficacy of the catalysts more strongly dependent on the structure of the electrophile than the nucleophile.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The catalytic method enabled access to a variety of P(V) products by controlling the stereochemistry at P(III).",
+            "answer": "True. By controlling the stereochemistry at P(III), the catalytic method enabled access to a variety of P(V) products including phosphates, phosphorothioates, selenophosphates, boranophosphates, phosphoramidates, and methyl phosphonates.",
+            "type": "True or False"
+        },
+        {
+            "question": "What challenge was encountered when attempting to couple phosphoramidite 1 and H-phosphonate 13 under the optimized catalytic conditions?",
+            "answer": "When attempting to couple phosphoramidite 1 and H-phosphonate 13, a fast, nonselective background reaction was observed, likely due to autocatalysis promoted by the triethylammonium cation that outcompeted the catalyzed process.",
+            "type": "factual"
+        },
+        {
+            "question": "How was the autocatalysis issue circumvented to enable the stereoselective synthesis of cyclic dinucleotides?",
+            "answer": "To circumvent the autocatalysis issue, alkali-metal phosphonate salts were prepared through ion exchange. The selectivity was found to be dependent on both the counterion and the catalyst structure, with the Cs+ salt working best with catalyst P3 and the Li+ salt with catalyst (S)-B8.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The relative stereochemical configuration at phosphorus of the synthesized cyclic dinucleotides was determined by x-ray crystallography.",
+            "answer": "False. The relative stereochemical configuration at phosphorus was determined by measuring the HPLC elution order and comparison with previous literature, not by x-ray crystallography.",
+            "type": "True or False"
+        }
+    ]
+}

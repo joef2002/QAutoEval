@@ -1,0 +1,79 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "200 C",
+        "pressure": "autogenous",
+        "time": "50 h",
+        "solvents": "water",
+        "amount_of_solvents": "945 mole ratio",
+        "chemicals_used": [
+          "VCl3",
+          "methylenediphosphonic acid",
+          "piperazine"
+        ],
+        "chemicals_amounts": [
+          "1 mole ratio",
+          "1.1 mole ratio",
+          "93 mole ratio"
+        ],
+        "equipment": "23 mL Teflon-lined Parr acid digestion bomb",
+        "yield": "80%",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "200 C",
+        "pressure": "autogenous",
+        "time": "96 h",
+        "solvents": "water",
+        "amount_of_solvents": "1890 mole ratio",
+        "chemicals_used": [
+          "VCl3",
+          "ethylenediphosphonic acid",
+          "ethylenediamine"
+        ],
+        "chemicals_amounts": [
+          "1 mole ratio",
+          "3.11 mole ratio",
+          "5.1 mole ratio"
+        ],
+        "equipment": "quartz glass tube",
+        "yield": "90%",
+        "drying_method": "not specified",
+        "washing_method": "not specified"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "200 C",
+        "pressure": "autogenous",
+        "time": "80 h",
+        "solvents": "water",
+        "amount_of_solvents": "945 mole ratio",
+        "chemicals_used": [
+          "VCl3",
+          "propylenediphosphonic acid",
+          "ethylenediamine",
+          "piperazine"
+        ],
+        "chemicals_amounts": [
+          "1 mole ratio",
+          "1.47 mole ratio",
+          "4.8 mole ratio",
+          "not specified"
+        ],
+        "equipment": "quartz glass tube",
+        "yield": "40%",
+        "drying_method": "heating at 100 C for 5 h",
+        "washing_method": "not specified",
+        "additional_information": "Piperazine is necessary for the isolation of crystals suitable for X-ray crystallography."
+      }
+    }
+  ]
+}

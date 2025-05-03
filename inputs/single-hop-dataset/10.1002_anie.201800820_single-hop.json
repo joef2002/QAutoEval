@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the flexible coordination network that switches between non-porous and porous phases?",
+      "answer": "NiL2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the solvothermal reaction conducted to synthesize NiL2?",
+      "answer": "105 degrees Celsius",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of isotherm does NiL2 exhibit for methane storage?",
+      "answer": "Type F-IV isotherm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the potential methane working capacity of NiL2 compared to compressed natural gas?",
+      "answer": "The potential methane working capacity of NiL2 approaches that of compressed natural gas but at much lower pressures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to study the guest-induced phase transitions of NiL2?",
+      "answer": "Single-crystal XRD, in situ variable pressure powder XRD, synchrotron powder XRD, pressure-gradient differential scanning calorimetry (P-DSC), and molecular modeling were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main component of natural gas?",
+      "answer": "CH4 (methane)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to NiL2 when exposed to methane at storage pressures?",
+      "answer": "It switches from a non-porous to a porous phase, exhibiting gate-opening.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are flexible microporous materials like NiL2 important for gas storage?",
+      "answer": "Because they can change their pore geometry upon guest-induced structural transformations, potentially improving storage capacity and efficiency.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does NiL2's behavior under CO2 pressure contribute to its functionality?",
+      "answer": "NiL2 exhibits multiple steps in the low-pressure adsorption isotherm for CO2, indicating structural transformations that could be useful for CO2 capture and storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of NiL2's high surface area for methane storage?",
+      "answer": "A high surface area indicates more space for methane adsorption, which could lead to higher storage capacities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is NiL2 the first material to exhibit CH4-induced reversible switching with a type F-IV isotherm?",
+      "answer": "False, NiL2 is the second material to exhibit this behavior.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NiL2 retain adsorbed gas at low pressures, reducing working capacity?",
+      "answer": "False, NiL2 is designed to overcome this limitation by exhibiting a type F-IV isotherm.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can NiL2 revert to its original phase after undergoing a phase transformation?",
+      "answer": "True, NiL2 can revert to its original phase when soaked in DMF or toluene at room temperature.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the structural flexibility of NiL2 unique among crystalline solids?",
+      "answer": "True, while crystalline solids are generally regarded as rigid, NiL2 exhibits extreme flexibility.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NiL2 exhibit a type-I adsorption isotherm for methane?",
+      "answer": "False, NiL2 exhibits a type F-IV isotherm for methane.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is NiL2's potential working capacity for methane lower than that of compressed natural gas?",
+      "answer": "False, NiL2's potential working capacity approaches that of compressed natural gas but at much lower pressures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all phases of NiL2 porous?",
+      "answer": "False, NiL2 switches between non-porous (closed) and several porous (open) phases.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ligand contortion in NiL2's flexibility?",
+      "answer": "Ligand contortion enables the observed switching between non-porous and porous phases by allowing the extended linker ligand to undergo conformational changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does NiL2 compare to other flexible metal-organic materials in terms of methane storage?",
+      "answer": "NiL2 is one of the few materials that meets the criteria for high working capacity and appropriate NG gate opening pressure, making it competitive with compressed natural gas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the adamantanoid cages in NiL2's structure?",
+      "answer": "The adamantanoid cages contribute to the high level of interpenetration in NiL2, which is crucial for its structural flexibility and ability to undergo phase transformations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

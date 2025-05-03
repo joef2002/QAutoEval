@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic polymer discussed?",
+      "answer": "[Cu(mipt)] (mipt = 5-methylisophthalate)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main application of the discussed metal-organic polymer?",
+      "answer": "CO oxidation catalytic activity",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis temperature for [Cu(mipt)(H2O)](H2O)2?",
+      "answer": "140 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How long is the synthesis process for [Cu(mipt)(H2O)](H2O)2?",
+      "answer": "4 days",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of [Cu(mipt)(H2O)](H2O)2?",
+      "answer": "65%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What color change occurs upon dehydration of [Cu(mipt)(H2O)](H2O)2?",
+      "answer": "From blue to black-violet",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the color of the dehydrated material when exposed to atmospheric air?",
+      "answer": "It immediately restores its original blue color",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation temperature for CO oxidation over [Cu(mipt)(H2O)](H2O)2?",
+      "answer": "250 °C",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "At what temperature does [Cu(mipt)(H2O)](H2O)2 reach 100% CO conversion?",
+      "answer": "200 °C",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation energy on [Cu(mipt)(H2O)](H2O)2 for CO oxidation?",
+      "answer": "70.1 kJ/mol",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic activity of [Cu(mipt)(H2O)](H2O)2 stable with time at a fixed temperature of 104 °C or higher?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the microporous framework of [Cu(mipt)(H2O)](H2O)2 remain intact after removal of guest molecules?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the paddle-wheel Cu2 clusters at the channel walls the stable active sites for catalytic oxidation?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the elemental analysis of the material after catalytic reaction match the theoretical value of the dehydrated sample?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO adsorbed inside the cavity of the dehydrated [Cu(mipt)(H2O)](H2O)2, not on the bulk surface?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the non-dehydrated [Cu(mipt)(H2O)](H2O)2 show a similar CO adsorption property to the dehydrated form at room temperature?",
+      "answer": "No",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic activity of [Cu(mipt)(H2O)](H2O)2 higher than that of Ni-containing MOP at 200 °C?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cyclic water tetramers in the structure of [Cu(mipt)(H2O)](H2O)2?",
+      "answer": "They aggregate into cyclic water tetramers through hydrogen-bonding interactions and form a 1D tube-like structure in the open channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of dehydration on the color of [Cu(mipt)(H2O)](H2O)2?",
+      "answer": "Dehydration causes a color change from blue to black-violet.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the adsorbed CO on [Cu(mipt)(H2O)](H2O)2 be completely removed at 200 °C in vacuum?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the dominant source of electricity in the United States?",
+      "answer": "Natural gas",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the target capture rate of CO2 from natural gas flue streams set by the U.S. Department of Energy?",
+      "answer": "90%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in separating CO2 from natural gas flue emissions?",
+      "answer": "The low partial pressure of CO2 in the flue stream",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of frameworks were reported to exhibit two-step cooperative CO2 adsorption?",
+      "answer": "Diamine-appended metal–organic frameworks",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of tetraamine-functionalized frameworks in carbon capture?",
+      "answer": "To retain cooperativity leading to exceptional efficiency in capturing CO2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is steam used for CO2 recovery in tetraamine-functionalized Mg2(dobpdc) considered cost-effective?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 concentration typically found in natural gas combined-cycle (NGCC) emissions?",
+      "answer": "~4%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Do aqueous amine solutions have high CO2 cycling capacities?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What mechanism do tetraamine-functionalized frameworks use for CO2 adsorption?",
+      "answer": "A two-step ammonium carbamate chain-formation mechanism",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are tetraamine-functionalized frameworks stable to adsorption-desorption cycling with simulated humid flue gas?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main mature technology for carbon capture as of the article's publication?",
+      "answer": "Aqueous amine solutions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Mg2(dobpdc)(3-4-3) reduce the CO2 content in an NGCC flue stream to 0.4%?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water in the CO2 capture process using Mg2(dobpdc)(3-4-3)?",
+      "answer": "Water enhances CO2 binding in the material",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 adsorption capacity of Mg2(dobpdc)(3-3-3) stable over time?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using steam for CO2 desorption in Mg2(dobpdc)(3-4-3)?",
+      "answer": "It could afford substantial energy savings compared with traditional processes",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the theoretical capacity of CO2 molecules per tetraamine in Mg2(dobpdc) frameworks?",
+      "answer": "Two CO2 molecules per tetraamine",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of O2 and water in NGCC emissions affect the performance of CO2 capture technologies?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main drawback of aqueous amine solutions in carbon capture?",
+      "answer": "Susceptibility to oxidative and thermal degradation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can Mg2(dobpdc)(3-4-3) achieve a 90% CO2 capture rate from NGCC flue emissions?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ordered, multimetal coordination in tetraamine-functionalized frameworks?",
+      "answer": "It markedly increases the stability of these adsorbents",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

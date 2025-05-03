@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the potential applications of organic second-order nonlinear optical (NLO) materials?",
+      "answer": "High-speed electro-optic modulators and all-optical data processing devices.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the most crucial yet challenging task for achieving large bulk second-order NLO responses?",
+      "answer": "Efficient ordering of chromophores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name of the microporous MOF that includes the ordered organic dipolar chromophore DPASD?",
+      "answer": "ZJU-28\u00b7DPASD.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the indium centers in the crystal structure of ZJU-28?",
+      "answer": "The indium centers act as nodes connected by H3BTB linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the SHG intensity of ZJU-28\u00b7DPASD compare to that of a quartz?",
+      "answer": "The SHG intensity of ZJU-28\u00b7DPASD is 18.3, versus a quartz.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the SHG images in different depths of ZJU-28\u00b7DPASD?",
+      "answer": "They display a uniform SHG distribution in the single crystal, indicating that the NLO activity originates from the ordered chromophores.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the terminal alkyl chain length of the included hemicyanine chromophore guest ions on the SHG intensities?",
+      "answer": "The longer the terminal alkyl chain, the stronger the SHG intensity of the resulting MOF material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does NOTT-210\u00b7DPASD with 3D intersecting pores/channels have no detectable SHG signals?",
+      "answer": "Because 1D pore channel confinement within porous MOF materials is necessary for the incorporation of the ordered dipolar chromophores and generation of second-order nonlinear optical activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the SHG intensity and the energy of the fundamental frequency beam?",
+      "answer": "The SHG intensity is proportional to the square of the energy of the fundamental frequency beam.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the uniform SHG distribution in ZJU-28\u00b7DPASD indicate about the distribution of DPASD ions?",
+      "answer": "It indicates that the DPASD ions have been uniformly distributed within ZJU-28\u00b7DPASD.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the longer alkyl chain on the rotational freedom of the included hemicyanine chromophore guest ions?",
+      "answer": "The longer alkyl chain minimizes the rotational freedom of the included hemicyanine chromophore guest ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the underlying net of ZJU-28 described before?",
+      "answer": "No, the underlying net of ZJU-28 is believed to be not described before.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZJU-28 show a second-order nonlinear optical response?",
+      "answer": "False, ZJU-28 does not show a second-order nonlinear optical response.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the SHG intensity of ZJU-28\u00b7DPASD lower than that of ZJU-28\u00b7DPASM?",
+      "answer": "False, the SHG intensity of ZJU-28\u00b7DPASD is higher than that of ZJU-28\u00b7DPASM.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the cationic Me2NH2 molecules in ZJU-28 be readily exchanged by metal cations?",
+      "answer": "True, the cationic Me2NH2 molecules can be readily exchanged by metal cations such as Cu2+, Ni2+, and Eu3+.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does bio-MOF-1\u00b7DPASD show nonlinear optical properties?",
+      "answer": "False, bio-MOF-1\u00b7DPASD does not show any NLO properties.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the strategy of using anionic MOF ZJU-28 to align ordered pyridinium hemicyanine chromophores a traditional approach for constructing NLO MOF materials?",
+      "answer": "False, this strategy is a new approach for constructing NLO MOF materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the inclusion of hemicyanine chromophores make ZJU-28 NLO active?",
+      "answer": "True, the inclusion of hemicyanine chromophores tunes ZJU-28 from NLO inactive to NLO active materials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the solvent molecules in the crystal structure of ZJU-28 highly ordered?",
+      "answer": "False, the solvent molecules in the crystal structure of ZJU-28 are highly disordered.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of ZJU-28 conducted at room temperature?",
+      "answer": "False, the synthesis of ZJU-28 is conducted at 130 8C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

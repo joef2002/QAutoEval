@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the MOF studied?",
+      "answer": "[Fe(tvp)2(NCS)2] · 2BzCHO",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the MOF [Fe(tvp)2(NCS)2] · 2BzCHO exhibit upon adsorption of benzaldehyde guest molecules?",
+      "answer": "A complex sequence of phase transitions and spin-crossover behavior",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two common control parameters for MOFs?",
+      "answer": "Temperature and pressure",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the spin state of [Fe(tvp)2(NCS)2]n system without guest at low temperature?",
+      "answer": "High-spin state (HS, S = 2)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the χMT vs T plot indicate about the spin-crossover behavior of the MOF with benzaldehyde?",
+      "answer": "An apparent continuous evolution between 160 and 220 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for characterizing the different structural phases of the MOF-SCO?",
+      "answer": "Synchrotron x-ray diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the appearance of h + k odd Bragg peaks at T = 210 K indicate about the MOF's structure?",
+      "answer": "The disappearance of glide planes, leading to a tetragonal space group P¯421c",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the plateau at xHS = 1/4 in the temperature dependence of the lattice parameters?",
+      "answer": "It indicates the formation of a periodic spin-state concentration waves, forming during a 'Devil’s staircase'-type spin crossover",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the spin-crossover phenomenon in the studied MOF isostructural?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the inclusion of benzaldehyde guests induce various types of SCO behavior towards the low-spin (LS, S = 0) state?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the guest molecule benzaldehyde always ordered in the pores during temperature scans?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the phase transition from tetragonal phase II to orthorhombic phase III involve a change in the unit cell volume?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all Fe sites symmetry equivalent in phase II of the MOF?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the orthorhombic phase III contain six inequivalent Fe sites?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the spin-state conversion marked by a change in the Raman spectra frequencies?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Do molecular dynamics simulations reveal that benzaldehyde molecules adopt a sandwich conformation within the MOF?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the radial distribution function between the oxygen atom of benzaldehyde and the hydrogen atom of MOF-SCO indicate?",
+      "answer": "A favorable interaction with a relatively short separating distance of 2.5 Å",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of guest molecules in the MOF according to the study?",
+      "answer": "To favor a reduction of the volume of the host due to attractive guest-host-guest interactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study conclude that the inclusion of guest molecules opens a rich field of investigation in new systems presenting bistable-spin states?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to obtain the frequencies modes of the molecular model?",
+      "answer": "Density functional theory (DFT) calculation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

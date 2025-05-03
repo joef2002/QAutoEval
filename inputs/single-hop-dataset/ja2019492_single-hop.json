@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is the experimental and computational studies of small molecule activation by uranium tris(aryloxides), specifically the binding of N2, coupling of CO, and deoxygenation insertion of CO2 under ambient conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "The authors of the research article are Stephen M. Mansell, Nikolas Kaltsoyannis, and Polly L. Arnold.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used in the study?",
+      "answer": "Density functional theory (DFT) calculations were carried out using the TPSSh hybrid functional and B3LYP functional, as implemented in the Gaussian 09 Rev. A.02 quantum chemistry code.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key molecules studied in the research?",
+      "answer": "The key molecules studied in the research are uranium tris(aryloxides) complexes, specifically U(ODtbp)3, U(OTtbp)3, and their reactions with N2, CO, and CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the reaction between U(ODtbp)3 and CO2?",
+      "answer": "The reaction between U(ODtbp)3 and CO2 resulted in the formation of [U(ODtbp)4], indicating oxidation of the uranium center followed by ligand redistribution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did U(OTtbp)3 react with benzene in the study?",
+      "answer": "No, U(OTtbp)3 did not react with benzene in the study.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was observed in the UV-vis-NIR spectroscopy of (TtbpO)3U(N2)U(OTtbp)3?",
+      "answer": "In the UV-vis-NIR spectroscopy of (TtbpO)3U(N2)U(OTtbp)3, a significant change in the spectrum occurs as (TtbpO)3U(N2)U(OTtbp)3 is converted to U(OTtbp)3 upon heating.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the Raman spectroscopy of (TtbpO)3U(N2)U(OTtbp)3 reveal?",
+      "answer": "The Raman spectroscopy of (TtbpO)3U(N2)U(OTtbp)3 revealed a strong band at 1451 cm-1, which is assigned as the N2 stretch.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the CO coupling reaction observed with U{CH(SiMe3)2}3?",
+      "answer": "No, the CO coupling reaction was not observed with U{CH(SiMe3)2}3; instead, decomposition to H2C(SiMe3)2 was noted.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study's findings on small molecule activation by uranium tris(aryloxides)?",
+      "answer": "The study's findings are significant as they provide insights into the mechanisms of small molecule activation by uranium tris(aryloxides), which can have implications for catalysis and the development of new reactions involving uranium complexes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

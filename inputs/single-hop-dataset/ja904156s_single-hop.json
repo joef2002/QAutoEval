@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the general formula for the multiferroic metal-organic frameworks discussed in the text?",
+      "answer": "[(CH3)2NH2]M(HCOO)3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range do the compounds exhibit paraelectric−antiferroelectric phase transition behavior?",
+      "answer": "160−185 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical temperature below which the compounds become canted weak ferromagnets?",
+      "answer": "Below 40 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What synthesis method was used for the compounds?",
+      "answer": "Solvothemal conditions at 140 °C",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the dimethylammonium cation in the structure?",
+      "answer": "It is disordered at room temperature and involves in hydrogen bonding with the formate framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the dielectric constant anomaly observed in the compounds?",
+      "answer": "It indicates a paraelectric to antiferroelectric phase transition.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is it preferable for the electrical ordering in MOFs to be driven by a structural force inherent to the lattice?",
+      "answer": "To avoid irreproducible data due to evaporation of guest molecules at room temperature.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does replacing zinc with a transition metal ion affect the properties of the material?",
+      "answer": "It enables the material to become multiferroic.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the splitting of PXRD peaks at 100 K indicate?",
+      "answer": "A phase change associated with lattice contraction and lowering of symmetry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the observed value of ΔS smaller than expected for a complete order−disorder transition?",
+      "answer": "Because the transition is more complex than a simple 3-fold order−disorder model.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the splitting of the EPR peak in DMMnF below ∼6 K indicate?",
+      "answer": "A magnetic transition accompanied by a structural change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is there magnetoelectric coupling associated with the phase transition in DMMnF?",
+      "answer": "No, there is no magnetoelectric coupling associated with this phase transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electrical ordering in the discussed MOFs is achieved through off-center displacements of ions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compounds discussed exhibit both ferroelectric and ferromagnetic properties.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic coupling parameters indicate a ferromagnetic superexchange mechanism.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: DMFeF is ferromagnetic below 20 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The strength of the magnetic field affects the antiferroelectric transition in DMMnF.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The transition to the monoclinic antiferroelectric phase does not involve hydrogen bonded ordering of the DMA cations.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The dielectric constants for the paraelectric phases of DMFeF, DMCoF, and DMNiF are approximately the same.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The specific heat measurements do not show clear anomalies at the transitions leading to electrical and magnetic ordering.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

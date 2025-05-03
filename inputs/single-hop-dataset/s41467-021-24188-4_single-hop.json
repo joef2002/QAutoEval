@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is frustrated flexibility in metal-organic frameworks?",
+      "answer": "Frustrated flexibility in metal-organic frameworks (MOFs) refers to the phenomenon where internal dispersion interactions within the MOF structure overcome the energy barrier for structural deformation of the framework lattice. This results in the MOF undergoing transitions between crystalline and amorphous phases, or between different crystalline phases, while retaining the framework connectivity and topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do dispersion energy donors (DEDs) influence MOF-5 derivatives?",
+      "answer": "Dispersion energy donors (DEDs), such as longer alkoxy chains, introduced into MOF-5 derivatives influence the MOF by inducing frustrated flexibility. The DEDs maximize dispersion interactions between the alkoxy chains and the framework backbone, causing structural contraction and enabling transitions between crystalline and amorphous phases or different crystalline phases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can frustrated flexibility lead to reversible transitions in MOFs?",
+      "answer": "Yes, frustrated flexibility can lead to reversible transitions in MOFs between crystalline and amorphous phases, or between different crystalline phases. This is demonstrated by the ability of MOFs with frustrated flexibility to recover their crystalline order after resolvation with certain solvents or by heating the amorphous materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do molecular dynamics simulations play in studying frustrated flexibility in MOFs?",
+      "answer": "Molecular dynamics simulations play a crucial role in studying frustrated flexibility in MOFs by showing the influence of dispersion energy donors on the formation of different (meta)stable states that become accessible. The simulations help understand the thermodynamic and kinetic aspects of the structural transformations induced by frustrated flexibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phenomenon of frustrated flexibility unique to MOF-5 derivatives?",
+      "answer": "No, the phenomenon of frustrated flexibility is not unique to MOF-5 derivatives. While the study focuses on MOF-5, IRMOF-10, and MOF-177 as examples, frustrated flexibility can potentially arise in any structurally rigid framework compound if the intra-framework interactions are properly manipulated via linker functionalization with dispersion energy donors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of dispersion energy donors (DEDs) in MOF-5 derivatives prevents any structural deformation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Frustrated flexibility in MOFs can only be induced by thermal changes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All MOF-5 derivatives with alkoxy chains undergo a crystalline-to-amorphous transition upon drying.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques are used to characterize the transitions in MOFs with frustrated flexibility?",
+      "answer": "Experimental techniques used to characterize the transitions in MOFs with frustrated flexibility include single-crystal X-ray diffraction, nuclear magnetic resonance, pair distribution functions, infrared spectroscopy, and gas sorption experiments.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The concept of frustrated flexibility suggests that MOFs are incapable of undergoing any form of structural transformation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

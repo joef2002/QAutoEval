@@ -1,0 +1,197 @@
+{
+  "materials": [
+    {
+      "name": "Th6-Me2BPDC-NO3-10",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.56 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "UCl4",
+            "amount": "12 mg"
+          },
+          {
+            "name": "H2Me2BPDC",
+            "amount": "4.3 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "25 μL"
+          }
+        ],
+        "yield": "72%",
+        "FTIR_spectrum": "Figure S8"
+      }
+    },
+    {
+      "name": "Th6-Me2BPDC-8",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "24 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.79 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Th(NO3)4·H2O",
+            "amount": "9.6 mg"
+          },
+          {
+            "name": "H2Me2BPDC",
+            "amount": "4.3 mg"
+          },
+          {
+            "name": "concentrated nitric acid",
+            "amount": "35 μL"
+          }
+        ],
+        "yield": "73%",
+        "FTIR_spectrum": "Figure S6"
+      }
+    },
+    {
+      "name": "Th6-Me2BPDC-8b",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Th(NO3)4·H2O",
+            "amount": "31 mg"
+          },
+          {
+            "name": "H2Me2BPDC",
+            "amount": "4.3 mg"
+          },
+          {
+            "name": "nitric acid",
+            "amount": "25 μL"
+          }
+        ],
+        "yield": "74%",
+        "FTIR_spectrum": "Figure S7"
+      }
+    },
+    {
+      "name": "Th6-BPDC-12",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.56 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Th(NO3)4·H2O",
+            "amount": "12 mg"
+          },
+          {
+            "name": "H2BPDC",
+            "amount": "1.6 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "25 μL"
+          }
+        ],
+        "yield": "69%",
+        "FTIR_spectrum": "Figure S28"
+      }
+    },
+    {
+      "name": "U6-Me2BPDC-TFA-10",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.56 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "UCl4",
+            "amount": "12 mg"
+          },
+          {
+            "name": "H2Me2BPDC",
+            "amount": "4.3 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "25 μL"
+          }
+        ],
+        "yield": "72%",
+        "FTIR_spectrum": "Figure S8"
+      }
+    },
+    {
+      "name": "U6-Me2BPDC-8-H2O-1d",
+      "synthesis_conditions": {
+        "comments": "Crystals were soaked in water for 1 day under a nitrogen atmosphere."
+      }
+    },
+    {
+      "name": "U6-Me2BPDC-8-H2O-4d",
+      "synthesis_conditions": {
+        "comments": "Crystals were soaked in water for 4 days under a nitrogen atmosphere."
+      }
+    },
+    {
+      "name": "Th6-Me2BPDC-10-MeOH",
+      "synthesis_conditions": {
+        "comments": "Crystals were soaked in methanol (MeOH) and mounted in a capillary tube."
+      }
+    },
+    {
+      "name": "Th6-Me2BPDC(Me2TPDC)-12",
+      "synthesis_conditions": {
+        "comments": "Crystals were soaked in a DMF solution of H2Me2TPDC."
+      }
+    },
+    {
+      "name": "Th6-Me2BPDC-8-intermediate",
+      "synthesis_conditions": {
+        "comments": "Intermediate phase during the linker installation process."
+      }
+    },
+    {
+      "name": "Th6-Me2BPDC(“QPDC”)-10",
+      "synthesis_conditions": {
+        "comments": "Attempted installation of H2QPDC linker."
+      }
+    },
+    {
+      "name": "Th6-Me2BPDC(“Me2BPDC”)-10",
+      "synthesis_conditions": {
+        "comments": "Attempted installation of H2Me2BPDC linker."
+      }
+    },
+    {
+      "name": "Th6-BPDC-10",
+      "synthesis_conditions": {
+        "comments": "Attempted installation of H2BPDC linker."
+      }
+    }
+  ]
+}

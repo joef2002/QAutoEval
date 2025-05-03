@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of carbon capture and sequestration (CCS)?",
+      "answer": "The main goal of CCS is to mediate anthropogenic carbon dioxide emissions.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What material has been designed for low-energy selective capture of CO2?",
+      "answer": "PCN-200, a guest-responsive MOF, has been designed for low-energy selective capture of CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What mechanism does PCN-200 use to capture CO2?",
+      "answer": "PCN-200 uses an elastic-binding mechanism to capture CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is PCN-200 stable in both acidic and basic conditions?",
+      "answer": "Yes, PCN-200 is stable after stirring in HCl (pH 2) and NaOH (pH 12) and boiling in water for 7 days.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum temperature up to which PCN-200-ac is stable?",
+      "answer": "PCN-200-ac is stable up to 218 degrees Celsius.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does PCN-200 compare to other MOFs in terms of CO2 uptake capacity at ambient conditions?",
+      "answer": "PCN-200 retains 75% of its uptake capacity at ambient conditions, which is exceptionally high compared to other MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of PCN-200 require expensive or rare reactants?",
+      "answer": "No, PCN-200 is synthesized with cheap commercially available reactants in a water-based, one-pot synthesis.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the dpp ligand in the structure of PCN-200?",
+      "answer": "The dpp ligand provides strong interlayer bonds that connect layers into a 3D network forming 1D pores.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can PCN-200 selectively adsorb CO2 over N2?",
+      "answer": "Yes, PCN-200 can selectively adsorb CO2 over N2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the elastic nature of the dpp ligand in PCN-200?",
+      "answer": "The elastic nature of the dpp ligand allows the pores to open up to fit exactly one gas molecule per pore.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the heat capacity of PCN-200 compared to aqueous amine solutions?",
+      "answer": "The heat capacity of PCN-200 is only one third of the value of aqueous amine solutions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does PCN-200 exhibit flexibility upon guest removal?",
+      "answer": "Yes, PCN-200 exhibits flexibility upon guest removal, leading to a change in pore volume.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the synthesis process for PCN-200?",
+      "answer": "The yield of the synthesis process for PCN-200 is 95%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does PCN-200 achieve high selectivity for CO2?",
+      "answer": "PCN-200 achieves high selectivity for CO2 through a combination of polar pore surface and pore size.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCN-200 water stable?",
+      "answer": "Yes, PCN-200 is water stable and retains its porosity upon water contact.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the adsorption capacity of PCN-200 for CO2 at 1 bar and 195 K?",
+      "answer": "The adsorption capacity of PCN-200 for CO2 at 1 bar and 195 K reaches full saturation of 4 molecules per unit cell (1.78 mmol g-1).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What makes PCN-200 a significant advancement in MOF design for CO2 capture?",
+      "answer": "PCN-200's ability to selectively capture CO2 with low regeneration energy and its stability under harsh flue-gas conditions make it a significant advancement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PCN-200 lose capture capacity after a series of adsorption–desorption cycles?",
+      "answer": "No, even after running a series of thirty adsorption–desorption cycles at 313 K, there was no loss in capture capacity for PCN-200.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Cu···Cu distances in the structure of PCN-200?",
+      "answer": "The Cu···Cu distances in the structure of PCN-200 are controlled to form CO2 pockets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of PCN-200 environmentally friendly?",
+      "answer": "Yes, the synthesis of PCN-200 is environmentally friendly as it is water-based and requires no purification steps.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

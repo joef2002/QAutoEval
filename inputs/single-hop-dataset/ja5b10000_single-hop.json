@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for 1·Gd, 1·Tb, and 1·Dy?",
+      "answer": "They were synthesized by adding an aqueous solution of triethylamine to a mixture of 2,2′-bipyridine-4,4′-dicarboxylic acid, Ln(NO3)3·6H2O (Ln = Gd, Tb, Dy) in ethanol and distilled water, sealed in a Teflon-lined stainless steel autoclave, and kept at 200 °C for three days.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum magnetic entropy change (−ΔSmmax) value for 1·Gd?",
+      "answer": "The maximum magnetic entropy change (−ΔSmmax) value for 1·Gd is 66.5 J kg−1 K−1.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of 1·Gd contribute to its catalytic activity in the cycloaddition of CO2 with epoxides?",
+      "answer": "The structure of 1·Gd features eight-coordinated Gd3+ sites that serve as catalytic centers and [Gd60] nanocages that enrich CO2 around the window, accelerating the transformation of CO2.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic reaction of CO2 with epoxides using 1·Gd homogeneous or heterogeneous?",
+      "answer": "The catalytic reaction of CO2 with epoxides using 1·Gd is heterogeneous.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can 1·Gd be reused in the cycloaddition reaction of CO2 with epoxides?",
+      "answer": "Yes, 1·Gd can be reused for several times without a significant loss of catalytic activity and can retain framework integrity.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of NO3− ions within the nanocages of 1·Gd, 1·Tb, and 1·Dy contribute to their structure?",
+      "answer": "No, the presence of NO3− ions within the nanocages of 1·Gd, 1·Tb, and 1·Dy does not contribute to their structure as indicated by XPS and IR analyses.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Br− in the cycloaddition reaction of CO2 with epoxides catalyzed by 1·Gd?",
+      "answer": "Br− promotes the ring-opening of the epoxides effectively in the cycloaddition reaction of CO2 with epoxides catalyzed by 1·Gd.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The catalytic activity of 1·Gd in the cycloaddition of CO2 with epoxides is due to leached Gd3+ ions in the reaction solution.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the window size in [Ln60] nanocages on the catalytic reaction of CO2 with epoxides?",
+      "answer": "The window size in [Ln60] nanocages slightly bigger than the size of CO2 allows CO2 to enrich around the window, accelerating the reaction, but does not allow CO2 to enter the nanocage.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 1·Gd, 1·Tb, and 1·Dy involves the use of triethylamine.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

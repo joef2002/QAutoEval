@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MIT-25?",
+      "answer": "Mg2H6(H3O)(C34H16O8S4)3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the X-ray diffraction studies?",
+      "answer": "Low-temperature data were collected on a Siemens three-circle diffractometer coupled to a Bruker-APEX CCD detector with graphite-monochromated Mo Kα radiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the BET surface area of MIT-25 greater than 800 m2/g?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bridging protons in the coordination environment around each Mg2+ ion in MIT-25?",
+      "answer": "The bridging protons serve both charge-balancing and structural roles.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of MIT-26?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of MIT-26 involve the use of H4TBAPy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of red needle single crystals when synthesizing MIT-25?",
+      "answer": "75%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the organic SBU in MIT-25 accommodate a single hole, evenly delocalized across the three TTF cores?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for gas sorption measurements?",
+      "answer": "A Micromeritics ASAP 2020 Surface Area and Porosity Analyzer was used to measure the nitrogen adsorption isotherms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to optimize the geometrical structure of the proton for MIT-25?",
+      "answer": "Kohn-Sham density functional theory (DFT) as implemented in the Vienna ab initio simulation package (VASP).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does MIT-25 exhibit permanent mesoporosity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of π interactions in the formation of MIT-25?",
+      "answer": "π interactions provide stabilization energy that is competitive with the self-assembly of canonical inorganic SBUs, leading to the formation of unusual topologies centered around the organic SBUs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was MIT-26 synthesized using a similar method to MIT-25?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the electrostatic potential method in determining the pore size of MIT-25?",
+      "answer": "The electrostatic potential method provides a chemically accurate estimate of pore aperture by using the tailing of electrostatic potential to plateaus.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the crystal system used for MIT-25?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the BET surface area of MIT-25 calculated using the Barrett-Joyner-Halenda (BJH) method?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of continuous-wave (CW) electron paramagnetic resonance (EPR) spectra in the study of MIT-25?",
+      "answer": "CW EPR spectra were used to elucidate the nature of the charge-compensating species in MIT-25, showing it is paramagnetic.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using thermogravimetric analysis (TGA) in the study of MIT-25?",
+      "answer": "TGA was used to determine the temperature for evacuating the crystals of MIT-25 before measuring the N2 adsorption isotherm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the synthesis of MIT-25 and MIT-26 performed at the same temperature?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational detail was unique to the study of the proton locality around the Mg2+ center in MIT-25?",
+      "answer": "A model coordination environment was constructed and optimized using DFT to elucidate the proton locality, showing that bridging protons were integral to the coordination environment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

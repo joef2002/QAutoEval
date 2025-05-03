@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the empirical formula of SDMOF-1?",
+      "answer": "C15H20CuNO6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature SDMOF-1 can withstand before decomposing?",
+      "answer": "325 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does SDMOF-1 achieve C2H2/C2H4 separation?",
+      "answer": "SDMOF-1 achieves C2H2/C2H4 separation through a molecular sieving effect, utilizing its pore size and multiple interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the C2H2 adsorption capacity of SDMOF-1 higher at 273 K or 298 K?",
+      "answer": "The C2H2 adsorption capacity of SDMOF-1 is higher at 273 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: SDMOF-1 has a higher selectivity for C2H4 over C2H2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the C2H2/C2H4 selectivity of SDMOF-1 at 298 K and 1 bar?",
+      "answer": "26",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the binding energy for C2H2 in SDMOF-1?",
+      "answer": "Periodic density functional theory (DFT) calculations were performed.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: SDMOF-1 can produce high purity C2H4 directly from C2H2/C2H4 mixtures in breakthrough experiments.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bicyclic alkane in SDMOF-1?",
+      "answer": "The bicyclic alkane in SDMOF-1 supplies several inwardly oriented hydrogen atoms that provide multiple interactions for C2H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The C2H2 uptake ratio of SDMOF-1 is lower than that of NOTT-300.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of SDMOF-1?",
+      "answer": "Orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: SDMOF-1's framework is single interpenetrated.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of SDMOF-1?",
+      "answer": "290 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: SDMOF-1 has a higher C2H2 adsorption capacity at 303 K compared to 273 K.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption (Qst) for C2H2 in SDMOF-1?",
+      "answer": "47.5 kJ mol-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many cycles of separation performance were tested for SDMOF-1 in the breakthrough experiments?",
+      "answer": "Five cycles",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation potential (ΔQ) of SDMOF-1 is less than 20.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the breakthrough time for C2H2 in SDMOF-1?",
+      "answer": "Approximately 21 minutes",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: SDMOF-1's structure is based on SiF6 2- anion pillars.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bipyridine (bpy) in the structure of SDMOF-1?",
+      "answer": "Bipyridine (bpy) acts as a pillaring agent, connecting the layers into a 3D structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

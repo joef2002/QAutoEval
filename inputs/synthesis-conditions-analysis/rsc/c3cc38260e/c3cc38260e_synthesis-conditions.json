@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "Compound 1",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "Water/DMSO",
+            "ratio": "8:2 v/v",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Water/DMSO",
+            "ratio": "8:1 v/v",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Dy(NO3)3",
+            "concentration": "0.02 M",
+            "amount": "2 mL"
+          },
+          {
+            "name": "Bpybc",
+            "amount": "0.04 mmol, 19.9 mg"
+          },
+          {
+            "name": "Sodium oxalate",
+            "amount": "0.04 mmol, 5.4 mg"
+          }
+        ],
+        "yield": "16%",
+        "crystal_system": "Monoclinic",
+        "space_group": "P2/c",
+        "cell_parameters": {
+          "a": "12.3743(8) Å",
+          "b": "14.5842(7) Å",
+          "c": "21.9435(15) Å",
+          "alpha": "90.00°",
+          "beta": "104.821(4)°",
+          "gamma": "90.00°",
+          "volume": "3828.4(4) Å3"
+        },
+        "density_calculated": "1.638 g/cm3",
+        "absorption_coefficient": "2.042",
+        "F(000)": "1924",
+        "radiation": "Mo Kα (λ = 0.71073 Å)",
+        "temperature": "123(2) K",
+        "theta_range": "2.37 to 27.48°",
+        "reflections": "29788 / 8716",
+        "observed_reflections": "6609",
+        "final_R_indices": {
+          "I_greater_than_2sigma(I)": "0.0362",
+          "all_data": "0.0958",
+          "R1": "0.0429",
+          "wR2": "0.0989",
+          "goodness_of_fit": "0.967"
+        },
+        "crystal_size": "0.25*0.14*0.09 mm",
+        "Z": "4",
+        "drying_method": "Heated at 100°C under vacuum for 6 hours",
+        "GC_separation_measurements": {
+          "column_dimensions": "160 × 3 mm",
+          "carrier_gas": "Helium (99.999 %), 21 mL/min",
+          "activation_temperature": "150 °C for 5 h",
+          "temperature_program": "80 ºC for the first 2 min, then gradually to 140 ºC with a rate of 30 ºC/min",
+          "injection_volume": "2µL",
+          "detector_temperature": "150 ºC"
+        }
+      }
+    }
+  ]
+}

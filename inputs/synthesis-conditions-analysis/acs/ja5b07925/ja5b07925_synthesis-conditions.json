@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "Ni-TCPE1",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "part of 4 mL mixed solvents"
+          },
+          {
+            "name": "H2O",
+            "amount": "part of 4 mL mixed solvents"
+          }
+        ],
+        "equipment": "screw-capped vial",
+        "chemicals_used": [
+          {
+            "name": "H4TCPE",
+            "amount": "30 mg, 0.06 mmol"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "166 mg, 0.57 mmol"
+          },
+          {
+            "name": "L-Pro",
+            "amount": "12 mg, 0.1 mmol"
+          }
+        ],
+        "time": "3 days",
+        "yield": "10 % (based on the crystal dried in vacuum)",
+        "washing_method": "washed with water",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "Ni-TCPE2",
+      "synthesis_conditions": {
+        "temperature": "Similar to Ni-TCPE1",
+        "solvents": "Similar to Ni-TCPE1",
+        "equipment": "Similar to Ni-TCPE1",
+        "chemicals_used": [
+          {
+            "name": "H4TCPE",
+            "amount": "Similar to Ni-TCPE1"
+          },
+          {
+            "name": "Ni(NO3)2·6H2O",
+            "amount": "Similar to Ni-TCPE1"
+          },
+          {
+            "name": "L-Pro",
+            "amount": "23 mg, 0.2 mmol"
+          }
+        ],
+        "time": "Similar to Ni-TCPE1",
+        "yield": "42 % (based on the crystal dried in vacuum)",
+        "washing_method": "Similar to Ni-TCPE1",
+        "drying_method": "Similar to Ni-TCPE1"
+      }
+    },
+    {
+      "name": "Ni-TCPE1′",
+      "synthesis_conditions": {
+        "preparation_steps": [
+          {
+            "step": "Ni-TCPE1 was firstly soaked in methanol solution (24 hours) for guest molecules exchange",
+            "temperature": "Room temperature",
+            "solvent": "Methanol"
+          },
+          {
+            "step": "Fully dried out the methanol molecules in a vacuum oven",
+            "temperature": "100 oC",
+            "time": "2 hours"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ni-TCPE1",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "Styrene oxide",
+            "amount": "10 mmol"
+          }
+        ],
+        "solvent": "Styrene oxide solution",
+        "time": "24 h"
+      }
+    }
+  ]
+}

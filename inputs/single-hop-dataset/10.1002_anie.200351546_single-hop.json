@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MOF-150?",
+      "answer": "[Zn4O(TCA)2]·(DMF)3(H2O)3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What topology does MOF-150 exhibit?",
+      "answer": "Pyrite topology",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the secondary building units (SBUs) used in the synthesis of MOF-150?",
+      "answer": "TCA and [Zn4O(CO2)6]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the symmetry of the interpenetrating frameworks in MOF-150?",
+      "answer": "Ia3¯",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ratio of trihedral to hexahedral tiles in the pyrite net?",
+      "answer": "2:1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the transitivity of the pyrite net?",
+      "answer": "2112",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the pyrite net in the context of MOF-150?",
+      "answer": "It is identified as the default structure for the assembly of triangles and octahedra.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the pyrite net considered more regular than the rutile topology?",
+      "answer": "Because the pyrite net has a higher symmetry with transitivity 2112 compared to rutile's 2232.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do the solvent guests play in the structure of MOF-150?",
+      "answer": "They fill the space remaining after interpenetration in the crystal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How are the SBUs in MOF-150 produced?",
+      "answer": "By employing previously determined reaction parameters to effect their formation in situ.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of heating MOF-150 at 10 °C min-1 in air from 30 to 700 °C?",
+      "answer": "A weight loss step at 240 °C corresponding to the loss of all guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MOF-150 the first example of a fully catenated structure with mixed coordination?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MOF-150 have the same topology as the high-pressure form of PdF2?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all rings in the pyrite net 6-rings and related by symmetry?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the pyrite net self-dual?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the two interpenetrating frameworks in MOF-150 have different symmetries?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the default net for a given connectivity always the one with the highest symmetry?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of MOF-150 involve heating a mixture in a quartz tube under vacuum?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

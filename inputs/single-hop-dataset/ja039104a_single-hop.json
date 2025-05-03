@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on the synthesis of chiral azido-bridged coordination polymers using diazine ligands, their spontaneous resolution, weak ferromagnetism, and topological ferrimagnetism.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do diazine ligands play in the synthesis of coordination polymers mentioned in the article?",
+      "answer": "Diazine ligands, which are achiral but can be locked in a chiral conformation upon coordination, are used to induce (partial) spontaneous resolution and obtain a series of chiral crystalline compounds containing homochiral chains or layers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is compound 1 described as a homometallic ferrimagnet?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What unique magnetic behavior does compound 1 exhibit according to the article?",
+      "answer": "Compound 1 behaves as a metamagnet built of unique homometallic ferrimagnetic chains.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does compound 2 differ from compound 1 in terms of magnetic interactions?",
+      "answer": "Compound 2 exhibits alternating antiferro- and ferromagnetic interactions mediated by the double diazine and the single EE azido bridges, respectively.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do compounds 3a and 3b exhibit weak ferromagnetism?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the weak ferromagnetism observed in compound 4?",
+      "answer": "The weak ferromagnetism in compound 4 is due to spin canting, which is attributed to antisymmetric exchange between Mn(II) ions that are not related by an inversion center.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 4 undergo two magnetic transitions at low temperatures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the spontaneous resolution of compounds 1 and 2?",
+      "answer": "In compounds 1 and 2, hydrogen bonding between amino groups and azido ligands plays a crucial role in organizing the chains in a homochiral way, leading to spontaneous resolution.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the chirality of the diazine-bridged binuclear subunit in compound 4 destroyed by the formation of centrosymmetric double EO azido bridges?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 'fused triangles' topology in compound 1?",
+      "answer": "The 'fused triangles' topology in compound 1 is significant because it represents a new example of homometallic ferrimagnetism and contributes to the compound behaving as a metamagnet.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the absence of side substituents in L4 affect the formation of bridges in compound 4?",
+      "answer": "The absence of side substituents in L4 leads to the formation of centrosymmetric double EO azido bridges in compound 4, which prevents the transmission of chirality from the diazine-bridged binuclear subunit to higher levels.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article provide supporting information including structural and magnetic graphics?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of azido ions in the synthesis of the coordination polymers discussed in the article?",
+      "answer": "Azido ions serve as versatile bridging ligands that facilitate the formation of homochiral structures through their ability to bridge metal ions in an asymmetric fashion and mediate magnetic interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the article focused on the development of polyfunctional materials combining magnetism and optical activity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are highlighted in the article regarding the synthesis of homometallic ferrimagnets?",
+      "answer": "The article highlights the intellectual challenge of rational synthesis of homometallic ferrimagnets due to the difficulty in achieving noncompensation in spin moments within homometallic systems.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the article describe the process of chiral induction and transfer in the absence of chiral auxiliaries?",
+      "answer": "The article describes the process of chiral induction and transfer as a progression from simple achiral species to chiral bi- or trinuclear building units, to homochiral chains or layers, and finally to chiral crystals, achieved through coordination of diazine ligands and azido bridges.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article mention the financial support received for the research?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of minute structural variations at the molecular level as discussed in the article?",
+      "answer": "Minute structural variations at the molecular level can induce dramatic changes in chirality transmission and in the supramolecular structure, illustrating the challenges faced by crystal engineering.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are the magnetic properties of the synthesized coordination polymers distinct from one another?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "QAs": [
+    {
+      "question": "What is the main focus of the research presented in the manuscript?",
+      "answer": "The main focus of the research is on a coordination framework based on an electroactive tetrathiafulvalene that exhibits a reversible single crystal-to-single crystal double [2+2] photocyclization, leading to significant changes in the electrochemical, electronic, optical, and mechanical properties of the material upon light irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What potential applications are suggested for the coordination frameworks discussed in the manuscript?",
+      "answer": "The reversible structural transformation of the coordination frameworks suggests potential applications in photo-mechanical and photoelectrochemical devices, such as light-driven actuators and photo-valves for targeted drug delivery.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the [2+2] photocyclization in the discussed coordination framework reversible?",
+      "answer": "Yes, the [2+2] photocyclization in the discussed coordination framework is reversible.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How was the structural transformation of the coordination framework verified?",
+      "answer": "The structural transformation of the coordination framework was verified using X-ray crystallography, PXRD, Raman analysis, and atomic force microscopy (AFM).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What novelty does the manuscript claim regarding the coordination framework?",
+      "answer": "The manuscript claims the first example of a coordination framework exhibiting a reversible single crystal-to-single crystal double [2+2] photocyclization based on the tetrathiafulvalene core, which also leads to varying the electrochemical and optical properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What challenges were faced in quantifying the reversibility of the coordination framework's structural transformation?",
+      "answer": "Challenges in quantifying the reversibility included the inability to digest the framework for 1H-NMR analysis and the need for semi-quantitative analysis using Raman spectroscopy due to the limitations of the method.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the manuscript undergo revisions based on reviewer comments?",
+      "answer": "Yes, the manuscript underwent revisions based on reviewer comments, including re-measuring elemental analysis, addressing concerns about the quantification of reversibility, and correcting typographical errors.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated uncertainty limit for the conversion percentage calculated using Raman spectroscopy?",
+      "answer": "The estimated uncertainty limit for the conversion percentage calculated using Raman spectroscopy is ±5%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the coordination framework's structural transformation affect its properties?",
+      "answer": "The coordination framework's structural transformation affects its electrochemical profile, spectral features, and potentially other properties such as gas sorption capabilities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination framework's photocyclization process unique in the field of metal-organic frameworks?",
+      "answer": "Yes, the coordination framework's photocyclization process is unique in the field of metal-organic frameworks due to its reversible nature and the use of a tetrathiafulvalene core.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

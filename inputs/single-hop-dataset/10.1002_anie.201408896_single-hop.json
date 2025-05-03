@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two types of metal-organic frameworks (MOFs) mentioned?",
+      "answer": "Micro- and mesoporous MOFs",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main function of the mesoporous MOF described in the text?",
+      "answer": "It functions as a host for encapsulation of an enantiopure organic amine catalyst.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction is the organocatalyst-loaded framework used for?",
+      "answer": "Asymmetric direct aldol reactions",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of the ligand H4L-(2MOM) synthesis?",
+      "answer": "80%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of compound 1 after its synthesis?",
+      "answer": "75%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of the apohost 3?",
+      "answer": "1015.5 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of carboxylic acids in the MOFs?",
+      "answer": "They play a dual role as catalyst anchors and modulators for activity and stereoselectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are MOFs with struts containing free carboxylic acids rare?",
+      "answer": "Due to steric crowding around the CO2H positions in the Zn7 helicate, which prevented some of the carboxylic acid groups from participating in metal coordination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the adduct Ap@3 achieved?",
+      "answer": "By soaking the evacuated MOF in a dilute anhydrous THF solution of Ap for two days at 0 8C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of encapsulating an organic amine in the mesoporous framework?",
+      "answer": "It leads to a recyclable heterogeneous catalyst for asymmetric direct aldol reactions with significantly enhanced stereoselectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the enantiopurity of the organocatalysis displayed by the MOFs?",
+      "answer": "There are only several reports of MOFs that displayed enantiopure organocatalysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main challenge in building MOFs from organic catalysts?",
+      "answer": "The challenge is that organic catalysts are often the ligating functionality of choice for framework construction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The mesoporous MOF loses its porosity after encapsulation of the organic amine catalyst.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of MOFs with desired functionalities, stability, and pore sizes is beyond current capabilities.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The organocatalyst-loaded framework is less efficient than the homogeneous organocatalyst for the asymmetric direct aldol reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ligand H4L-(2MOM) is synthesized with a 100% yield.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Compound 1 adopts a heptanuclear helical structure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The addition of 2 into a solution of Ap leads to the framework decomposition.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The catalytic reaction with cyclohexanone affords products with lower enantioselectivity compared to acetone.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The structural integrity and crystallinity of the MOFs are compromised upon guest removal.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

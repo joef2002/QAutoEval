@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of confining a reactive moiety in a metal-organic framework (MOF)?",
+      "answer": "Confinement in a MOF can enhance the stability of otherwise inaccessible or short-lived species.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does Mg(BH4)2 decompose?",
+      "answer": "Mg(BH4)2 decomposes at temperatures above 270°C.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of dihydrogen bonding in the mixed protic-hydridic species?",
+      "answer": "Dihydrogen bonding facilitates dehydrocoupling by affecting physical properties and enabling relatively facile dehydrocoupling.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the extended structure of the Mg(BH4)2-based MOF contribute to its reactivity?",
+      "answer": "The extended structure, comprised of extensive C-H···H-B dihydrogen bonding, is ideal for generating dihydrogen interactions, enhancing reactivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of direct combination of Mg(BH4)2 and pyrazine in Et2O?",
+      "answer": "It rapidly yields an insoluble material that is a single phase, with a Mg-(BH4)2/pyrazine molar ratio of 1:2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does thermogravimetric analyses (TGA) reveal about the thermal stability of the Mg(BH4)2 groups in the MOF?",
+      "answer": "TGA reveals a substantial mass loss between 120 and 170°C, indicating a reduction in mass due to the loss of a proportion of the organic pillaring ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the decomposition of Mg(BH4)2 in the MOF framework 1 a result of dehydrocoupling of the hydrogen atoms of the dihydrogen bond?",
+      "answer": "False, the decomposition does not proceed via dehydrocoupling of the hydrogen atoms of the dihydrogen bond but by a mechanism involving cleavage of only the B-H bonds.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the major organic product observed during the thermal decomposition of framework 1?",
+      "answer": "The major organic product observed is piperazine.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of dihydrogen bonding in framework 1 facilitate the low-temperature production of reactive BH3?",
+      "answer": "True, the extensive short dihydrogen bonds assist in orienting the proximal arene rings towards the BH4 moiety, facilitating the low-temperature production of reactive BH3.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the empirical formula of the nonvolatile solid that remained after thermal decomposition of framework 1?",
+      "answer": "The empirical formula of the nonvolatile solid is MgH2(B)2(C4N2H8)1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the extended MOF structure of 1 affect the decomposition pathway of Mg(BH4)2?",
+      "answer": "The extended MOF structure enables an alternative decomposition pathway, producing a {MgH} species and BH3, different from the decomposition behavior of pure Mg(BH4)2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction of Mg(BH4)2 with naphthalene, pyridine, or a combination of both observed at 140°C in a homogeneous phase?",
+      "answer": "False, under these conditions, Mg(BH4)2 does not react with naphthalene, pyridine, or their combination, returning the starting materials unchanged.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the absence of any reactivity in homogeneous control reactions suggest about the role of framework confinement?",
+      "answer": "It suggests that framework confinement is crucial for enabling the low-temperature reactivity of borohydrides in the solid state by modifying the decomposition pathway of Mg(BH4)2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the molecular analogue [Mg(BH4)2(pyridine)4] undergo hydroboration upon heating?",
+      "answer": "False, the molecular analogue does not hydroborate upon heating but decomposes by facile loss of pyridine at low temperature.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the key outcome of heating framework 1?",
+      "answer": "The key outcome is the reaction of all the Mg(BH4)2 units at only 140°C, involving the consumption of the majority of the B-H bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the extended framework structure essential for generating short Hd+···Hd- interactions?",
+      "answer": "True, the extended framework structure is essential for generating these short Hd+···Hd- interactions, as suggested by the shorter H···H contact in framework 1 compared to its molecular analogue.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the computational study confirm about the close Hd-···Hd+ contacts in framework 1?",
+      "answer": "The computational study confirms the presence of the close Hd-···Hd+ contacts detected by single crystal X-ray diffraction, verifying the extensive short dihydrogen bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are arenes known to be inert towards metal borohydrides in the absence of a catalyst?",
+      "answer": "True, arenes are well documented to be inert towards metal borohydrides in the absence of a catalyst or coreactant.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the formation of HD in the reaction of a metal hydride with protic D+ indicate?",
+      "answer": "The formation of HD indicates the hydridic nature of the hydrogen centers in the decomposed material, showing metal hydride interaction with protic D+.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of dihydrogen bonding in the stability and reactivity of Mg(BH4)2 within framework 1?",
+      "answer": "Dihydrogen bonding plays a crucial role in the stability and reactivity of Mg(BH4)2 within framework 1 by facilitating the low-temperature production of reactive BH3 and enabling hydroboration reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the space group of compound 1?",
+      "answer": "P-1 (2)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the magnetic moment calculated for compound 1?",
+      "answer": "2.93 μB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Weiss constant for compound 2?",
+      "answer": "+5.9 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of interactions mediate the magnetic frustration in compounds 1 and 2?",
+      "answer": "Competing F and AF interactions mediate by V–F–V and V–F–Cu bonds",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the frustration index of compound 1?",
+      "answer": "Larger than 9",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of cis-edge or -corner sharing metal-centered octahedra in the synthesis of new materials?",
+      "answer": "They enable interesting frustrated spin lattices to be targeted",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the magnetic frustration index of compound 1 indicate strong frustration?",
+      "answer": "Yes, materials with f > 5–10 indicate strong frustration, and compound 1 has a frustration index larger than 9",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic moment of compound 2 in agreement with theoretical values?",
+      "answer": "Yes, the magnetic moment of 2.62 μB is in agreement with the theoretical value of 2.45 μB",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the triangular motifs in compounds 1 and 2 the same?",
+      "answer": "Yes, both compounds are built from the same triangular spin-1/2 “CuV2” fragments",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis method affect the formation of “CuV2” triangular fragments?",
+      "answer": "No, the formation of “CuV2” triangular fragments is not affected by the synthesis method",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic frustration in compound 1 equivalent to that of materials synthesized using SBUs?",
+      "answer": "Yes, the magnetic frustration of compound 1 is equivalent to the frustration of materials synthesized using SBUs",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do compounds 1 and 2 exhibit long-range frustration?",
+      "answer": "Yes, both compounds exhibit long-range frustration",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the space group of compound 2 P21/c?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic moment of compound 1 lower than that of compound 2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the triangular motifs in compounds 1 and 2 different?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Weiss constant for compound 1 positive?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis method influence the lattice structure of the compounds?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic frustration index of compound 1 less than 5?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the magnetic properties of compounds 1 and 2 identical?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

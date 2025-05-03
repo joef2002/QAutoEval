@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Rh-1S?",
+      "answer": "C320H304N48O64S16F48Rh8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) were the crystal data for Rh-2S collected?",
+      "answer": "173(2)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does Rh-1R belong to?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were there for Rh-2R?",
+      "answer": "9409",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Rh-2S?",
+      "answer": "P42212",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction for Rh-1S?",
+      "answer": "Semi-empirical from equivalents",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (Å3) of the crystal system for Rh-1R?",
+      "answer": "21764(2)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of Rh-2R tetragonal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Rh-1S have a higher formula weight than Rh-2S?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the Flack parameter for Rh-1S determined to be 0.095?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was a TWIN law detected for Rh-2R according to PLATON instruction?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the density (calculated) of Rh-1S higher than that of Rh-2R?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for using the SQUEEZE algorithm in the refinement of Rh-1S?",
+      "answer": "There were disordered anions and solvents which could not be restrained properly.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the absolute structure of Rh-1R correctly determined by comparing the chirality of D-valine with the ligand structure?",
+      "answer": "Because no TWIN law was detected, and the chirality of D-valine matches the ligand structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of disordered anions and solvents affect the refinement process of Rh-2S?",
+      "answer": "It necessitates the use of the SQUEEZE algorithm to omit them for proper refinement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Flack parameter in the refinement of Rh-1R?",
+      "answer": "It indicates the enantiomeric purity or the absolute configuration of the crystal.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the absorption coefficient for Rh-2S higher than that for Rh-1S?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the refinement method for Rh-2R the same as for Rh-1S?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the GOF (Goodness of Fit) on F2 in the refinement of Rh-1S?",
+      "answer": "It measures the quality of the fit of the observed to the calculated data.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the crystal size important in the collection of X-ray diffraction data for Rh-2R?",
+      "answer": "Because it affects the quality and completeness of the collected data.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

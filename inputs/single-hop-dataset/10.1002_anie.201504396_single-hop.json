@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of the A-site mixed-ammonium solid solution perovskite series discussed?",
+      "answer": "[(NH2NH3)x(CH3NH3)1-x][Mn(HCOO)3] (x = 1.00 to 0.67)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does increasing CH3NH3+ concentration have on the phase transition temperatures?",
+      "answer": "It lowers the transition temperatures from x = 1.00 to 0.67.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 92 Hyz, 85 Hyz, 74 Hyz, and 67 Hyz are strong ferromagnets.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the TC value for 100 Hyz?",
+      "answer": "355 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the A-site in MOF-based perovskites?",
+      "answer": "The A-site ammonium species acts as the key component, similar to the role of the B-site metal ions in perovskite oxides.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound [CH3NH3][Mn(HCOO)3] (0 Hyz) exhibits a ferro- to paraelectric transition.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to confirm the phase purity of the bulk samples?",
+      "answer": "Elemental analysis, IR spectroscopy, and powder X-ray diffraction (PXRD) employing the Le Bail fitting method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the TC values as the Hyz % decreases from 100 Hyz to 67 Hyz?",
+      "answer": "The TC values decrease.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dielectric peak broadening of 67 Hyz is less significant compared to other compounds in the series.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main cause of the phase transition in the compounds from 67 Hyz to 100 Hyz?",
+      "answer": "The librational movement of the loosely H-bonded NH2/CH3 end of the NH2NH3+/CH3NH3+ ammonium pendulum in the cavities of the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 67 Hyz to 92 Hyz display long-range ordering of weak ferromagnetism around 8 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of introducing CH3NH3+ into [NH2NH3][Mn(HCOO)3]?",
+      "answer": "It decreases the framework distortion and the polarization of the LT phases, resulting in more diffuse phase transitions with decreased TC values.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study of A-site mixed-ammonium systems is anticipated to become a popular research area.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the primary compound types investigated in perovskite AMFFs?",
+      "answer": "[AH][M(HCOO)3] or ABX3 (where A = monoammonium AH+, B = metal ion M, and X = HCOO-)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compounds were thermally stable up to 400 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the A-site ammonium species in the perovskite AMFFs?",
+      "answer": "It acts as the key component, similar to the role of the B-site metal ions in perovskite oxides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 67 Hyz to 100 Hyz have the same symmetry in both LT and HT phases.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main structural difference between the LT and HT phases of the compounds?",
+      "answer": "During the phase transition, the compounds change from ferroelectric phases in the polar space group Pna21 to paraelectric phases in the nonpolar space group Pnma.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the dN value represent in the LT structures?",
+      "answer": "The separation of the positive (cation) and negative (anionic framework) charges in the polar LT structures, representing the polarization of the LT ferroelectric phases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The introduction of CH3NH3+ cation at the A-site of 100 Hyz increases the distortion of the framework and the polarization.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

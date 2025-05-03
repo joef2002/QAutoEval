@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the main applications of lanthanide MOFs (Ln-MOFs)?",
+      "answer": "Cationic or anionic pollutants in solutions, harmful organic vapor in air, and biomedicine.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are Eu3+ and Tb3+ ions extensively used in luminescent studies?",
+      "answer": "Because they can emit strong characteristic red or green light when excited by energy transfer from the ligand to the lanthanide ion via UV radiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of furan-2,5-dicarboxylic acid (H2FDA) in the synthesis of luminescent Ln-MOFs?",
+      "answer": "It acts as an excellent 'antenna' ligand for building luminescent Ln-MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the bimetallic Eu/Tb-MOFs sensor work?",
+      "answer": "By comparing the luminescence intensities of different lanthanide ions without requiring any external reference and observing the switching between red and green lights by modulating the 'antenna' ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence intensity of Ln-MOFs sensitive to external conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the emission wavelengths of mixed Ln-MOFs be fine-tuned by adjusting the Eu3+/Tb3+ ratios?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the triplet excited-state energy of the organic ligand in sensitizing both Eu3+ and Tb3+ emissions?",
+      "answer": "The triplet excited-state energy of the organic ligand must match the energy levels of Eu3+ and Tb3+ to simultaneously and efficiently sensitize both Eu3+ and Tb3+ emissions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the luminescence intensity ratio (IN) depend on the Ln-MOF content in a given mixed solvent?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in using Ln-MOFs for luminescent sensing?",
+      "answer": "Obtaining a well-defined correlation between the luminescence intensity and the concentration of the target species.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the synthesis of [Eu2(FDA)3] (Ln-MOF-2) demonstrate?",
+      "answer": "The bi-luminescent-center strategy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the energy transfer from Tb3+ to Eu3+ ions in [Eu0.5Tb1.5(FDA)3]?",
+      "answer": "It increases the intensity of the 5D0 → 7F2 transition of Eu3+ at 616 nm and decreases that of the 5D4 → 7F5 transition of Tb3+ at 546 nm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the solvent-dependent luminescence spectra reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a shorter 5D4 (Tb3+) lifetime than Tb-MOF 1 and a longer 5D0 (Eu3+) lifetime than Eu-MOF 2 imply?",
+      "answer": "The presence of a Tb3+-to-Eu3+ energy transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the luminescence colors of [Eu0.5Tb1.5(FDA)3] be directly observed by the naked eye?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of synthesizing Ln-MOF-3?",
+      "answer": "To obtain the triplet-state energy of the ligand.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the energy transfer efficiency of the Tb3+-to-Eu3+ transition in Eu x Tb1−x -MOFs significant?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the synthesis of bimetallic [Eu2xTb2(1−x)(FDA)3] demonstrate?",
+      "answer": "A well-defined correlation between the relative luminescence intensity and the solvent concentration in a large volume ratio.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the intersystem crossing process in the energy transfer mechanism?",
+      "answer": "It is effective when the energy gap between the singlet state (S1) and the triplet state (T1) of the ligand is larger than 5000 cm−1, indicating that the intersystem crossing process is very efficient.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of Ln-MOFs involve the use of N,N-Dimethyl Formamide (DMF)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using bimetallic Ln-MOFs as luminescent sensors?",
+      "answer": "They provide a self-calibrating mechanism by comparing the luminescence intensities of different lanthanide ions without requiring any external reference.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

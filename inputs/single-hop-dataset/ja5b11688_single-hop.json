@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework discussed?",
+      "answer": "[CH3NH3][Co(HCOO)3]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the Co-MOF exhibit magnetic ordering?",
+      "answer": "15.9 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the Co-MOF?",
+      "answer": "Orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Co-MOF stable in air?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to measure the low field magnetic properties of the Co-MOF?",
+      "answer": "SQUID magnetometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Co-MOF obey the Curie-Weiss law above 20 K?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of applying a magnetic field along [101] on the electric polarization of Co-MOF?",
+      "answer": "A sharp change in electric polarization occurs when the magnetic field reaches a critical value.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the direction of electric polarization in Co-MOF be switched?",
+      "answer": "Yes, depending on the history of the previous two magnetic-field pulses.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the final product of thermal decomposition of Co-MOF at 873 K?",
+      "answer": "A combination of CoO and Co",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the magnetization of Co-MOF along [010] independent of the field used to cool it?",
+      "answer": "Yes, between 10 and 1000 Oe.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of Co-MOF?",
+      "answer": "Pnma",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the electric polarization of Co-MOF exhibit a memory effect?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical magnetic field for a sharp decrease in electric polarization at 2.8 K?",
+      "answer": "Approximately 4 T",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What mechanism is proposed for multiferroic behavior in Co-MOF?",
+      "answer": "An inverse-DM mechanism",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Co-MOF compound a type II multiferroic material?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the MA cations in the structure of Co-MOF?",
+      "answer": "They occupy pseudo cubooctahedral cavities and are linked to formate ligands through hydrogen bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Co-MOF structure support a net electric polarization at room temperature?",
+      "answer": "No, the electric dipoles of different canted bonds cancel each other out.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of a magnetic-field-induced change in magnetic ordering on ferroelectricity in Co-MOF?",
+      "answer": "It alters ferroelectricity by changing spatial-inversion symmetry breaking.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effective magnetic moment of the Co2+ ion in Co-MOF?",
+      "answer": "Higher than the spin-only value due to a small unquenched orbital component.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic switching in Co-MOF likely due to traditional domain switching?",
+      "answer": "No, it is unlikely due to traditional domain switching.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

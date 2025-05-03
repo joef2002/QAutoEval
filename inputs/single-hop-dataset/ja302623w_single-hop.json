@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of NU-111?",
+      "answer": "C28H8Cu2O10",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the X-ray crystallography analyses of NU-111 conducted?",
+      "answer": "225 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of NU-111?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the activation of NU-111?",
+      "answer": "Supercritical CO2 drying",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the experimental BET surface area of NU-111 found to be?",
+      "answer": "5000 ± 80 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using helium in the calibration process for hydrogen adsorption measurements?",
+      "answer": "To calculate the sample skeletal volume and the empty volumes, which are necessary for accurate hydrogen adsorption determination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the Feynman-Hibbs correction used in the simulations of H2 adsorption at 77 K?",
+      "answer": "To account for quantum diffraction effects, which become important at low temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the space group of NU-111 Fm-3m?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the experimental BET surface area of NU-111 exceed 4900 m2/g?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the experimental pore volume of NU-111 less than 2.38 cm3/g?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the synthesis of NU-111 performed at a temperature of 100 °C?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the excess hydrogen uptake of NU-111 at 1 bar and 77 K greater than 20 mg/g?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NU-111 maintain its porosity after multiple cycles of high-pressure hydrogen adsorption at room temperature?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of NU-111 after synthesis?",
+      "answer": "75%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum delivery pressure of hydrogen storage systems targeted by the U.S. Department of Energy for the year 2017?",
+      "answer": "100 atm",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of triple-bond spacers in the design of NU-111?",
+      "answer": "To boost molecule-accessible gravimetric surface areas of MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was NU-111 synthesized using a solvothermal reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the linker used in the construction of NU-111 longer than the one used in NOTT-112?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the experimental BET surface area of NU-111 agree with the computationally simulated isotherm?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the experimental BET surface area of NU-111 compared to PCN-69/NOTT-119?",
+      "answer": "NU-111 has a higher experimental BET surface area than PCN-69/NOTT-119.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

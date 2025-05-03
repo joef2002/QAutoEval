@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "[{Mn(H2O)6}{MnGd(oda)3}2]·6 H2O",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "Water",
+            "amount": "2 mL for Gd(NO3)3·5 H2O solution",
+            "additional_amount": "10 mL for odaH2 solution",
+            "additional_amount_2": "2 mL for MnSO4·H2O solution"
+          }
+        ],
+        "equipment": "Not specified",
+        "chemicals_used": [
+          {
+            "name": "Gd(NO3)3·5 H2O",
+            "amount": "0.442 g, 1.02 mmol"
+          },
+          {
+            "name": "odaH2",
+            "amount": "0.404 g, 3.01 mmol"
+          },
+          {
+            "name": "MnSO4·H2O",
+            "amount": "0.252 g, 1.49 mmol"
+          },
+          {
+            "name": "Aqueous ammonia",
+            "purpose": "pH adjustment to 6.5–7.0"
+          }
+        ],
+        "time": "Evaporation over one day, crystals formed after two days",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "0.287 g, 19 %",
+        "pH": "6.5–7.0",
+        "additional_notes": "The solution was filtered before evaporation."
+      }
+    }
+  ]
+}

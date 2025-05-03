@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two types of air-stable sulfur-ligated dysprosium complexes discussed?",
+      "answer": "[HN(Et)3][Dy2NaL8] (1) and [DyNaL4(MeOH)x(H2O)2−x]n (2)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coordination environment of the Dy(III) ion in the complexes?",
+      "answer": "O4S4 coordination environment",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What geometry does the [DyL4]− unit in complex 1·4CH3OH have?",
+      "answer": "Triangular dodecahedron geometry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main difference in geometry between complex 1 and complex 2?",
+      "answer": "Complex 1 has a triangular dodecahedron geometry, while complex 2 has a biaugmented trigonal prism geometry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of magnetic relaxation process is observed for complex 2 at zero dc field?",
+      "answer": "Quantum tunneling process",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Under what condition do both complexes display the typical Raman process?",
+      "answer": "Under an optimal dc field",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the predicted energy barrier for magnetic relaxation in complex 1 according to ab initio calculations?",
+      "answer": "287 cm−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the relaxation time for the quantum tunneling process in complex 2 close to the experimental value?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of sulfur atoms in the equatorial plane reduce the magnetic anisotropy in Dy–SMMs?",
+      "answer": "No, sulfur atoms in the equatorial plane are used to weaken the spherical ligand field and not directly reduce magnetic anisotropy.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the subtle change from triangular dodecahedron to biaugmented trigonal prism geometry affect single-molecular magnetism?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the main magnetic axis of the ground Kramers doublet for Dy in complex 1 parallel to the shortest coordination bond?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does complex 1 exhibit a faster relaxation without a visible peak under zero dc field?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the complexes [HN(Et)3][Dy2NaL8] (1) and [DyNaL4(MeOH)x(H2O)2−x]n (2) based on the same ligand?",
+      "answer": "Yes, both are based on 2-pyridinethiol 1-oxide (HL).",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Orbach process compete with the Raman process in the magnetic relaxation of the complexes?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the predicted energy barrier for magnetic relaxation higher in complex 2 than in complex 1?",
+      "answer": "Yes, it is 303 cm−1 for complex 2 and 287 cm−1 for complex 1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hard donor atoms in the construction of air-stable superior S-ligated Dy–SMMs?",
+      "answer": "Hard donor atoms are chosen along the axial direction to enhance the axial magnetic anisotropy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of applying a dc field on the quantum tunneling process observed in complex 2?",
+      "answer": "Applying a dc field efficiently suppresses the quantum tunneling process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of controlling the local symmetry in the construction of Dy–SMMs?",
+      "answer": "Controlling the local symmetry is important to suppress the zero-field quantum tunneling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main magnetic axis orientation in the ground state doublets for the complexes according to ab initio calculations?",
+      "answer": "The main magnetic axis of ground states for both complexes is nearly parallel to the shortest coordination bond.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main strategy for constructing air-stable sulfur-ligated Dy–SMMs with high coordination numbers?",
+      "answer": "The strategy involves keeping soft donor sulfur atoms in the equatorial plane, choosing hard donor atoms along the axial direction, and controlling the local symmetry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are porous coordination polymers (PCPs) known for in terms of their structure?",
+      "answer": "PCPs are known for providing permanent and designable regular microporosity through flexible coordination bonds.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What potential applications do PCPs have?",
+      "answer": "PCPs have prospects for applications in gas storage, gas separation, and heterogeneous catalysis.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon is utilized in the study for chemoresponsive switching at ordinary temperatures?",
+      "answer": "The spin-crossover (SCO) phenomenon is utilized for chemoresponsive switching at ordinary temperatures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical temperature (Tc) for the first-order spin transition of {Fe(pz)[Pt(CN)4]} (1)?",
+      "answer": "The critical temperature (Tc) for the first-order spin transition of {Fe(pz)[Pt(CN)4]} (1) is approximately 309 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the guest molecule CS2 interact with the framework of {Fe(pz)[Pt(CN)4]}?",
+      "answer": "CS2 molecules lie in the middle of the channels, with no direct contact between the CS2 molecule and the Fe center, and interact with sites A and B.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does benzene adsorption have on the framework of {Fe(pz)[Pt(CN)4]}?",
+      "answer": "Benzene adsorption results in expansion (softening) of the framework and stabilizes the high-spin (HS) state.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of pyrazine bridges in the stabilization of the low-spin (LS) state?",
+      "answer": "The rotation of pyrazine bridges, along with changes in crystallographic symmetry and the p-acceptor character of the cyanide groups, are potential factors for stabilization of the LS state.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does CS2 uniquely stabilize the LS state in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "CS2 uniquely stabilizes the LS state due to its significant interaction with both sites A and B, as corroborated by theoretical calculations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the guest molecule classification affect the spin state of {Fe(pz)[Pt(CN)4]}?",
+      "answer": "The guest molecule classification affects the spin state by showing that class I molecules show no effect, class II molecules stabilize the HS state, and class III (CS2) stabilizes the LS state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the framework of {Fe(pz)[Pt(CN)4]} upon desorption of benzene?",
+      "answer": "Upon desorption of benzene under vacuum, the unclathrated framework retains the HS state and does not recover the initial LS state over a period of months.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of CO2 adsorption on the spin state of {Fe(pz)[Pt(CN)4]}?",
+      "answer": "CO2 is adsorbed at 298 K but shows no spin-state change in {Fe(pz)[Pt(CN)4]}.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size and shape of guest molecules affect the spin state transition in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "The size and shape of guest molecules determine the stabilization of the HS state by preventing further contraction of the framework, inhibiting the HS-to-LS transition.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the guest-responsive spin-state switching in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "The guest-responsive spin-state switching in {Fe(pz)[Pt(CN)4]} signifies an unprecedented bidirectional chemo-switching at room temperature, opening a route for evolving PCPs to environmentally responsive materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest molecule CS2 directly in contact with the Fe center in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "False, there is no direct contact between the CS2 molecule and the Fe center.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the guest molecule benzene induce a low-spin (LS) state in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "False, benzene induces a high-spin (HS) state, not a low-spin (LS) state.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the guest molecule CS2 replace benzene under a saturated benzene vapor atmosphere in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "True, injection of CS2 vapor onto {Fe(pz)[Pt(CN)4]} induces a gradual and complete replacement of benzene by CS2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do all guest molecules induce a spin-state change in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "False, class I molecules like N2, O2, and CO2 show no effect on the spin state.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the memory function in {Fe(pz)[Pt(CN)4]} permanent after releasing benzene?",
+      "answer": "True, the memory function retains information about the adsorption of guest molecules in the form of the spin state, which can be erased by desorption and cooling.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the guest molecule CO2 stabilize the high-spin (HS) state in {Fe(pz)[Pt(CN)4]}?",
+      "answer": "False, CO2 is adsorbed but shows no spin-state change.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the guest molecule classification irrelevant to the spin state of {Fe(pz)[Pt(CN)4]}?",
+      "answer": "False, the guest molecule classification is relevant and determines the effect on the spin state.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

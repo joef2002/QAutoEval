@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What are the metal ions used in the synthesis of M-THBQ MOFs?",
+      "answer": "Fe, Co, Mn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the M-THBQ MOFs?",
+      "answer": "Pm3¯",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property makes Fe-THBQ a candidate for n-type thermoelectric materials?",
+      "answer": "Its air-stable n-type Seebeck coefficient of -130 mV K-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the conductivity of Fe-THBQ at 300 K?",
+      "answer": "2.7 x 10-4 S cm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF has the highest conductivity among Fe-THBQ, Co-THBQ, and Mn-THBQ?",
+      "answer": "Fe-THBQ",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the band gap of Mn-THBQ?",
+      "answer": "1.69 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of mixed-valence metal clusters in MOFs?",
+      "answer": "They can improve the electrical conductivity of MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does Fe-THBQ exhibit higher electrical conductivity compared to Co-THBQ and Mn-THBQ?",
+      "answer": "Due to the presence of mixed-valent FeII/FeIII, which introduces mid-gap states that enhance charge density and mobility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of M-THBQ contribute to its potential as photoabsorbers?",
+      "answer": "The strong absorptions in the range of 220 to 1000 nm cover the whole region of visible light.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the existence of robust intramolecular antiferromagnetic exchanges in Fe-THBQ?",
+      "answer": "The negative Weiss constant of -219.37 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are M-THBQ MOFs all semiconductors?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the electrical conductivity of MOFs with 3D structures usually high?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Fe-THBQ have a positive Seebeck coefficient?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Weiss constant of Co-THBQ positive?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do Fe-THBQ, Co-THBQ, and Mn-THBQ have identical crystal structures?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the band gap of Fe-THBQ larger than that of Co-THBQ?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does increasing temperature decrease the conductivity of Fe-THBQ?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

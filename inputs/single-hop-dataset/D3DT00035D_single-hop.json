@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the general feature of 2-(alkylsulfonyl)pyridines in the synthesis of CuI-based coordination polymers?",
+      "answer": "2-(alkylsulfonyl)pyridines have a pronounced ability to assemble 1D coordination polymers made of one- or double-stranded (CuI)n chains or Cu2I2 units.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of the CuI-based coordination polymers depend on the ligands?",
+      "answer": "The structure of the CuI-based coordination polymers strongly depends on the nature of the substituents in the ligands, with even slight changes leading to different products.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of temperature on the metallophilic interactions in compound 3?",
+      "answer": "The metallophilic interactions in compound 3 are 'on-off' temperature-switchable, with a significant shortening of the Cu1⋯Cu1″ contact upon cooling.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What types of emission do the CuI-based coordination polymers exhibit at room temperature?",
+      "answer": "At room temperature, the CuI-based coordination polymers exhibit efficient TADF, phosphorescence, or dual emission in the deep-blue to red range.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between the PLQYs and the radiative rates (kr) of the CuI-based coordination polymers?",
+      "answer": "The PLQYs and the radiative rates (kr) of the CuI-based coordination polymers are directly related, with higher PLQYs corresponding to higher kr values.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is compound 3 stable under X-ray irradiation?",
+      "answer": "Yes, compound 3 turns out to be quite stable under X-ray irradiation in air.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do all CuI-based coordination polymers exhibit X-ray radioluminescence?",
+      "answer": "No, not all CuI-based coordination polymers exhibit X-ray radioluminescence; compounds 5, 6, 10, and 11 display no apparent RL.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relative quantum efficiency of compound 3's X-ray radioluminescence compared to BGO scintillator?",
+      "answer": "The relative quantum efficiency of compound 3's X-ray radioluminescence is up to an impressive 55% compared to the BGO scintillator.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the PL decay time of compound 4 indicate strong spin-orbit coupling (SOC) effect?",
+      "answer": "No, the relatively long PL decay time of compound 4 at 298 K compared to other compounds suggests a weaker SOC effect.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the PL behavior of compounds 7 and 8 at 298 K be attributed to TADF?",
+      "answer": "Yes, the PL behavior of compounds 7 and 8 at 298 K, including their kr values and emission profiles, suggests TADF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of metallophilic interactions in the photophysical properties of the CuI-based coordination polymers?",
+      "answer": "Metallophilic interactions play a vital role in enhancing the spin-orbit coupling effect, facilitating fast intersystem-crossing, and contributing to the photophysical properties of the CuI-based coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the RL spectra of the CuI-based coordination polymers identical to their PL spectra?",
+      "answer": "Yes, the RL spectra of the CuI-based coordination polymers are nearly identical to their PL spectra, indicating the same emitting states for both processes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dual emission observed in compound 3?",
+      "answer": "The dual emission observed in compound 3 is significant as it resembles the behavior of some CuI-thioether CPs with Cu⋯Cu contacts, suggesting the presence of both 3(M + X)CT and 3CC states.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of Cu⋯Cu interactions in compound 4 contribute to its phosphorescence?",
+      "answer": "No, compound 4 features no Cu⋯Cu interactions, and its phosphorescence is attributed to the excited state of 3(M + X)LCT nature.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission mechanism of compound 9 similar to that of compound 2?",
+      "answer": "Yes, both compound 9 and compound 2 exhibit TADF at room temperature, attributed to the 1(M + X)LCT excited state, as suggested by their temperature-dependent PL behavior and theoretical calculations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the CuI-based coordination polymers synthesized in this study stable in air?",
+      "answer": "Yes, the CuI-based coordination polymers synthesized in this study are air-stable colorless powders.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the CuI-based coordination polymers exhibit semiconducting character?",
+      "answer": "Yes, the CuI-based coordination polymers exhibit a semiconducting character, as evidenced by their optical band gaps of 2.9–3.1 eV.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the PL decay times of compound 3?",
+      "answer": "The PL decay times of compound 3 increase irregularly upon cooling, indicating the phosphorescent origin of both its high-energy and low-energy bands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the PL decay times of compounds 7 and 8 at 77 K be considered short for phosphorescence?",
+      "answer": "Yes, the PL decay times of compounds 7 and 8 at 77 K are remarkably short for phosphorescence, indicating a strong spin-orbit coupling effect.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study's findings for the design of efficient TADF- and phosphorescent materials?",
+      "answer": "The study's findings contribute significantly to the coordination chemistry of Cu(I) and open up new possibilities for designing efficient TADF- and phosphorescent materials with short PL lifetimes, suitable for modern optoelectronic applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

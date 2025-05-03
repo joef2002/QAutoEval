@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of 1,10-phenanthroline in the synthesis of STA-28?",
+      "answer": "1,10-phenanthroline acts as a framework-bound template that binds to Al3+ cations at a specific site in the zeotype framework, giving octahedral Al.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is Fe incorporated into the STA-28 framework?",
+      "answer": "Fe atoms are included selectively at a specific site in the framework by direct synthesis, using the framework-bound template of 1,10-phenanthroline.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the STA-28 framework upon calcination?",
+      "answer": "Calcination removes the organic molecules, leaving a large pore framework solid with BET surface areas up to 540 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can 1,10-phenanthroline and its methylated analogues act as templates for other phenanthrolines to template STA-28?",
+      "answer": "Yes, 1,10-phenanthroline and some of its methylated analogues can act as templates for STA-28, but not all phenanthrolines are successful due to steric or coordination issues.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Fe substitution in STA-28 selective for a specific site?",
+      "answer": "Yes, Fe substitution in STA-28 is selective for the 'Al(5)' site, which is coordinated to 1,10-phenanthroline.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of Fe in STA-28 affect the unit cell size?",
+      "answer": "Yes, the unit cell size of STA-28 increases with Fe loading.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Fe in STA-28 in the Fe2+ or Fe3+ oxidation state?",
+      "answer": "The Fe in STA-28 is mainly present as Fe3+ in an octahedral environment.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the removal of 1,10-phenanthroline template affect the porosity of STA-28?",
+      "answer": "Yes, the removal of 1,10-phenanthroline template by calcination results in some loss of porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the STA-28 framework retained upon calcination?",
+      "answer": "Yes, the STA-28 framework is retained upon calcination, although it relaxes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the STA-28 framework become more stable after removing the 1,10-phenanthroline template?",
+      "answer": "No, STA-28 is less stable than other AlPO4 structures of similar framework density after removing the 1,10-phenanthroline template.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 1,10-phenanthroline template is removed below 600°C during calcination.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All phenanthrolines can act as templates for STA-28 synthesis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Fe substitution in STA-28 does not affect the unit cell size.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Fe in STA-28 is mainly present as Fe2+.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The removal of the 1,10-phenanthroline template increases the stability of the STA-28 framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The STA-28 framework is completely destroyed upon calcination.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The pore volume of STA-28 increases after calcination.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Fe atoms in the STA-28 framework?",
+      "answer": "Fe atoms, when substituted into the STA-28 framework, can impart catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the STA-28 framework achieve three-dimensional pore connectivity?",
+      "answer": "The STA-28 framework achieves three-dimensional pore connectivity via 12-ring openings along all crystallographic directions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Fe/(Al + Fe) ratio in the synthesis of STA-28(Fe)?",
+      "answer": "The Fe/(Al + Fe) ratio controls the amount of Fe substitution in the STA-28 framework, affecting the unit cell size and the catalytic properties of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

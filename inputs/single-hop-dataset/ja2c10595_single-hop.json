@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of constructing nonaromatic metal-organic frameworks (MOFs) as described in the text?",
+      "answer": "The main goal is to realize the highly efficient separation of C8 aromatic isomers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of polycycloalkanes contributes to the construction of permanent pores in MOFs?",
+      "answer": "Polycycloalkanes maintain nonaromaticity but have significantly enhanced structural rigidity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZUL-C3 involves heating a DMF solution of Cu(NO3)2·3H2O, H2bpdc, and ted at 393 K for 2 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the nonaromatic low-polar pore environment in the separation of C8 aromatics?",
+      "answer": "It avoids strong convergent interactions between the framework and the common phenyl rings while amplifying the difference in host–guest/guest–guest interactions regarding the different methyl (ethyl) group positions of isomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZUL-C3 exhibits a monoclinic structure after desolvation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated Brunauer–Emmett–Teller (BET) surface area of ZUL-C3?",
+      "answer": "1200 m^2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the selectivity of ZUL-C3 towards OX/PX determined in liquid-phase batch adsorption experiments?",
+      "answer": "By immersing ZUL-C3 in an equimolar binary liquid-phase C8 aromatic isomer mixture, filtering, drying, destroying the structure with hydrochloric acid, extracting with CDCl3, and measuring the proportion of different C8 isomers adsorbed by 1H NMR spectra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption stability of ZUL-C3 is confirmed by its unchanged OX uptake capacity after 30 consecutive adsorption–desorption cycles at 333 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the dynamic selectivity of OX/PX in the quaternary breakthrough test at 303 K using ZUL-C3?",
+      "answer": "136.11",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The total dynamic adsorption capacity of the four components (OX, PX, MX, EB) at 423 K is 1.61 mmol/g.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to measure the adsorption heats of C8 isomers on ZUL-C3?",
+      "answer": "Differential scanning calorimetry (DSC) method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of ZUL-C3 remains tetragonal after adsorbing C8 at 423 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the nonaromatic confined pore environment in ZUL-C3 for C8 aromatic separation?",
+      "answer": "It enables the effective discrimination of C8 isomers in ZUL-C3, irrespective of the tetragonal or monoclinic lattice, by avoiding strong interactions with phenyl rings and focusing on specific alkyl groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of single crystal form of ZUL-C3 involves the use of copper(II) chloride dihydrate, H2bpdc, ted, and pyridine.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of PXRD in the characterization of ZUL-C3?",
+      "answer": "PXRD is used to verify the phase purity of bulk ZUL-C3 by comparing the simulated and experimental data, and to monitor structural changes in ZUL-C3 with various C8 loadings.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of OX on ZUL-C3 results in a higher static binding energy compared to PX, MX, and EB.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the structure of ZUL-C3 change with the adsorption of C8 isomers?",
+      "answer": "The structure of ZUL-C3 changes from a tetragonal lattice to an orthorhombic lattice as the adsorption capacity exceeds the 'adsorption step', and to a monoclinic system when the adsorption capacity exceeds one molecule per pore.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The total dynamic adsorption capacity of the four components at 303 K surpasses that of Cu(bdc)(ted)0.5.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiments conducted at 303 K and 423 K for ZUL-C3?",
+      "answer": "These experiments demonstrate ZUL-C3's excellent ability to selectively separate C8 aromatic compounds under different conditions, showcasing its potential for practical C8 aromatic separations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of C8 isomers on ZUL-C3 leads to different guest–guest interactions and structure distortions, contributing to its selectivity.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

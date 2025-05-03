@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of NU-2001?",
+      "answer": "C25H24O12V2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystallographic data for NU-2000 collected?",
+      "answer": "100.02(10) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of NU-2001-300˚C-activated?",
+      "answer": "Cmce",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the NU-2000 framework experience significant deformation at saturation loadings according to the study?",
+      "answer": "No, the study assumed that at the saturation loadings, NU-2000 does not experience much deformation in terms of the box shape and size.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to calculate the single-component and equimolar mixture isotherms for pX, mX, and oX at 298 K?",
+      "answer": "Monte Carlo simulations in the grand canonical ensemble (GCMC)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is NU-2000 para-selective according to the mixture simulation at 298 K and a total pressure of 6 mbar?",
+      "answer": "Yes, the simulation predicts that NU-2000 is para-selective.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal system of NU-2000 is orthorhombic.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The empirical formula of NU-2001-300˚C-activated is C12.5H12O6V.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study used the OPLS model for xylene molecules in the Monte Carlo simulations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that framework flexibility does not affect the selectivity of NU-2000 for xylene isomers.",
+      "answer": "False, the study showed that framework flexibility flips the selectivity from mX-selective to pX-selective.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the final R index for NU-2000 using all data?",
+      "answer": "R1 = 0.0720, wR2 = 0.1866",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of NU-2001 according to the crystallographic data?",
+      "answer": "6102.4(3) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the threshold R value used to determine convergence in the Monte Carlo simulations?",
+      "answer": "1.5",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study used Thermogravimetric Analyses (TGA) to perform on NU-2000 and NU-2001.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study concluded that NU-2000 and NU-2001 are not suitable materials for practical xylene separations applications.",
+      "answer": "False, the study indicates significant thermal stability, lack of framework breathing, and retention of permanent porosity under harsh conditions for both NU-2000 and NU-2001, establishing them as potentially suitable materials for practical xylene separations applications.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the selectivity of pX for NU-2000 in an equimolar mixture of pX, mX, and oX at 298 K and a total pressure of 6 mbar according to GCMC simulations?",
+      "answer": "10.5",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study used Scanning Electron Micrographs (SEM) images to analyze the samples.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula weight of NU-2001-300˚C-activated?",
+      "answer": "309.16",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study used a rigid framework for all Monte Carlo simulations.",
+      "answer": "False, the study conducted simulations using both a flexible framework and a rigid framework to compare the effects on selectivity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the largest difference peak/hole for NU-2001 according to the crystallographic data?",
+      "answer": "1.47/-1.35 e Å-3",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

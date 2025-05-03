@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of Cu2+ in the synthesis of coordination polymers?",
+      "answer": "Cu2+ mediates the dehydrogenative coupling and hydroxylation of an N-heterocyclic ligand.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of ligand is generated in situ during the synthesis?",
+      "answer": "A potentially tetratopic, coplanar ligand is generated in situ.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield range for the crystals of compounds 1-4?",
+      "answer": "The yield range for the crystals of compounds 1-4 is approximately 18-35%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structural feature of the chtpy ligands in compounds 1-4?",
+      "answer": "The chtpy ligands in compounds 1-4 adopt a chair conformation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How are the CuI atoms and tetradentate ligands represented in the network topology of compound 1?",
+      "answer": "The CuI atoms are represented as tetrahedral nodes and the tetradentate ligands as square-planar nodes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of the 3D network in compound 2?",
+      "answer": "The topology of the 3D network in compound 2 is the PtS topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unique structural feature of compound 4 compared to compound 3?",
+      "answer": "Compound 4 has a 3D coordination network, while compound 3 consists of 2D coordination polymer sheets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the molar ratio of starting materials affect the resulting CuI–chtpy nets?",
+      "answer": "The component diversification of the CuI–chtpy nets can be controlled by tuning the molar ratio of the starting materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the cyclohexane analogue generated in situ?",
+      "answer": "The cyclohexane analogue acts as an important organic intermediate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How are the nitrate anions involved in the structure of compound 1?",
+      "answer": "The nitrate anions link the three interpenetrating networks together through hydrogen-bonding interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of benzene in the synthesis of compound 2?",
+      "answer": "Benzene acts as a guest molecule located within the channels of compound 2's structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the free chtpy molecule obtained from compound 1?",
+      "answer": "The free chtpy molecule is obtained by treating compound 1 with Na2(H2edta).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the chtpy ligand a planar tetratopic ligand?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are compounds 1-4 soluble in water?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of compound 1 contain a single moganite network?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the hydroxylation of N-heterocyclic ligands a well-understood process?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the CuI atoms in compound 4 coordinated in a tetrahedral geometry?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of compound 4 higher than 35%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of compound 3 involve interpenetrating 3D networks?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the moganite topology found in the structure of compound 2?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

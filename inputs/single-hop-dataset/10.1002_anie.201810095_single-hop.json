@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in hydrothermal synthesis that the study aims to overcome?",
+      "answer": "The main challenge is the difficulty of manipulating reaction mixtures at high temperatures and pressures, which normally limits hydrothermal synthesis to single-step reactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study propose to achieve multi-step hydrothermal synthesis?",
+      "answer": "By using 3D printed reactionware with partitioned chambers to compartmentalize different reaction mixtures, preventing their mixing until defined points in the synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What new types of materials were prepared using the proposed method?",
+      "answer": "Polyoxometalate-containing metal–organic frameworks (MOFs) and a set of new MOFs that were unavailable by 'one-pot' methods.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's approach allows for the exploration of multi-step reactions under hydrothermal conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using 3D printed reactionware in hydrothermal synthesis?",
+      "answer": "It allows for the architectural control of the reactor, enabling the compartmentalization of reaction mixtures and the exploration of multi-step synthesis under hydrothermal conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Traditional 'one-pot' hydrothermal techniques can easily explore multi-step reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the partitioned chambers in the 3D printed reactor?",
+      "answer": "They allow for the separation of starting materials into different compositions, which can evolve separately until mixed at a new time, enabling the production of new compositions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's method can only produce polyoxometalate-containing MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the study's approach differ from conventional hydrothermal synthesis?",
+      "answer": "It introduces a modular approach using digitally defined reactionware for multi-step synthesis, unlike conventional methods that are limited to single-step, 'one-pot' reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's method requires expensive and complex equipment.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the benefits of controlling the mixing time of reaction components in the study's method?",
+      "answer": "It allows for time-dependent kinetic studies on 'trapped' reaction intermediates and the exploration of new materials by varying the mixing time points.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's method can only be applied to the synthesis of MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential impact of the study's method on material discovery?",
+      "answer": "It opens up new areas of the synthetic space by increasing the number of compositional and time parameters, potentially leading to the discovery of materials impossible to make using conventional methods.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's method simplifies the hydrothermal synthesis process.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study suggest about the future of hydrothermal synthesis?",
+      "answer": "It suggests that digital design and 3D printing can significantly enhance the control and exploration of hydrothermal synthesis, leading to more efficient and diverse material discovery.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's method allows for the in situ synthesis of polyoxometalate clusters.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the study's method improve collaboration and reproducibility in hydrothermal synthesis?",
+      "answer": "By coupling digital design of reactors with tagging of synthetic meta-data, it facilitates improved collaboration and reproducibility of results.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of cationic ligands in the new MOF structures described in the study?",
+      "answer": "They bring in flexibility due to their diversity of conformations and allow the encapsulation of functional anionic clusters within the frameworks of MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's method relies on high-throughput hydrothermal methods for material discovery.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study demonstrate about the use of 3D printing in chemical synthesis?",
+      "answer": "It demonstrates that 3D printing can be effectively used to create bespoke reactionware that enables multi-step hydrothermal synthesis and the discovery of new materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

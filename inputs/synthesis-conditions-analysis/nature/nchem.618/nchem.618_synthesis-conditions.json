@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "Na9[A-PW9O34]·7H2O",
+      "synthesis_conditions": {
+        "reference": "Ginsberg, A. P. Inorganic Synthesis (Wiley, New York) 27, 100 (1990)"
+      }
+    },
+    {
+      "name": "[{Ag2(trz)2][Ag24(trz)18]}[PW12O40]2",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Na9[A-PW9O34]·7H2O",
+            "amount": "0.338 g",
+            "molarity": "0.13 mmol"
+          },
+          {
+            "name": "CH3COOAg",
+            "amount": "0.108 g",
+            "molarity": "0.65 mmol"
+          },
+          {
+            "name": "1,2,4-triazole",
+            "amount": "0.121 g",
+            "molarity": "1.75 mmol"
+          }
+        ],
+        "solvent": "distilled water",
+        "solvent_amount": "10 ml",
+        "temperature": "160°C",
+        "pressure": "autogenous",
+        "equipment": "Teflon-lined autoclave",
+        "time": "4 days heating, 4 days cooling to room temperature",
+        "pH_adjustment": "adjusted to about 7.3 with 2.0 M NaOH",
+        "yield": "48% based on W",
+        "washing_method": "washed with distilled water",
+        "crystal_description": "high purity and slight green octahedral crystals"
+      }
+    }
+  ]
+}

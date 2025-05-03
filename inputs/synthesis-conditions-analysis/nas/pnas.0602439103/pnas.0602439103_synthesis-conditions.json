@@ -1,0 +1,172 @@
+{
+  "materials": [
+    {
+      "material": "ZIF-1",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "18 mL",
+        "equipment": "20-mL vial",
+        "chemicals_used": "zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.09 g, 3.44 × 10-4 mol), imidazole (H-IM) (0.15 g, 2.20 × 10-3 mol)",
+        "time": "24 h",
+        "washing_method": "washed with DMF (3 mL × 3)",
+        "drying_method": "dried in air for 10 min",
+        "yield": "0.014 g, 17% based on zinc nitrate tetrahydrate"
+      }
+    },
+    {
+      "material": "ZIF-2",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "0.265 mL imidazole stock solution (0.150 M, 3.98 × 10-5 mol) and 0.035 mL Zn(NO3)2·4H2O stock solution (0.075 M, 2.63 × 10-6 mol)",
+        "equipment": "96-well glass plate",
+        "chemicals_used": "imidazole, Zn(NO3)2·4H2O",
+        "time": "3 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "ZIF-3",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF, NMP",
+        "amount_of_solvent": "DMF (2 mL), NMP (1 mL)",
+        "equipment": "4-mL vial",
+        "chemicals_used": "zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.010 g, 3.82 × 10-5 mol), imidazole (H-IM) (0.030 g, 4.41 × 10-4 mol)",
+        "time": "4 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "ZIF-4",
+      "synthesis_conditions": {
+        "temperature": "130 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "equipment": "4-mL vial",
+        "chemicals_used": "zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.040 g, 1.53 × 10-4 mol), imidazole (H-IM) (0.030 g, 4.41 × 10-4 mol)",
+        "time": "48 h",
+        "washing_method": "washed with DMF (3 mL × 3)",
+        "drying_method": "dried in air for 10 min",
+        "yield": "0.021 g, 47% based on zinc nitrate tetrahydrate"
+      }
+    },
+    {
+      "material": "ZIF-5",
+      "synthesis_conditions": {
+        "temperature": "150 ºC",
+        "solvents": "DEF, n-butanol",
+        "amount_of_solvent": "DEF/n-butanol (4 mL/2 mL)",
+        "equipment": "Teflon-lined Parr stainless steel vessel (23 mL)",
+        "chemicals_used": "Indium nitrate pentahydrate In(NO3)3·5H2O (0.156 g, 4.0 × 10-4 mol), zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.026 g, 1.0 × 10-4 mmol), imidazole (H-IM) (0.136 g, 2 × 10-3 mol), tetraethylammonium hydroxide (0.05 mL, 35% aqueous solution)",
+        "time": "72 hours",
+        "washing_method": "washed with ethanol",
+        "drying_method": "dried in air",
+        "yield": "70%, based on zinc nitrate tetrahydrate"
+      }
+    },
+    {
+      "material": "ZIF-6",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "0.257 mL imidazole stock solution (0.150 M, 3.86 × 10-5 mol) and 0.043 mL Zn(NO3)2·4H2O stock solution (0.075 M, 3.23 × 10-6 mol)",
+        "equipment": "96-well glass plate",
+        "chemicals_used": "imidazole, Zn(NO3)2·4H2O",
+        "time": "3 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "ZIF-7",
+      "synthesis_conditions": {
+        "temperature": "130 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "equipment": "4-mL vial",
+        "chemicals_used": "zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.030 g, 1.15 × 10-4 mol), benzimidazole (H-PhIM) (0.010 g, 8.46 × 10-5 mol)",
+        "time": "48 h",
+        "washing_method": "washed with DMF (3 mL × 3)",
+        "drying_method": "dried in air for 10 min",
+        "yield": "0.015 g, 37% based on H-PhIM"
+      }
+    },
+    {
+      "material": "ZIF-8",
+      "synthesis_conditions": {
+        "temperature": "140 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "18 mL",
+        "equipment": "20-mL vial",
+        "chemicals_used": "zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.210 g, 8.03 × 10-4 mol), 2-methylimidazole (H-MeIM) (0.060 g, 7.31 × 10-4 mol)",
+        "time": "24 h",
+        "washing_method": "washed with DMF (10 mL × 3)",
+        "drying_method": "dried in air for 10 min",
+        "yield": "0.032 g, 25% based on H-MeIM"
+      }
+    },
+    {
+      "material": "ZIF-9",
+      "synthesis_conditions": {
+        "temperature": "130 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "18 mL",
+        "equipment": "20-mL vial",
+        "chemicals_used": "cobalt nitrate hexahydrate Co(NO3)2·6H2O (0.210 g, 7.21 × 10-4 mol), benzimidazole (H-PhIM) (0.060 g, 5.08 × 10-4 mol)",
+        "time": "48 h",
+        "washing_method": "washed with DMF (3 mL × 3)",
+        "drying_method": "dried in air for 10 min",
+        "yield": "0.030 g, 30% based on H-PhIM"
+      }
+    },
+    {
+      "material": "ZIF-10",
+      "synthesis_conditions": {
+        "temperature": "85 ºC",
+        "solvents": "DMF",
+        "amount_of_solvent": "3 mL",
+        "equipment": "4-mL vial",
+        "chemicals_used": "zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.010 g, 3.82 × 10-5 mol), imidazole (H-IM) (0.030 g, 4.41 × 10-4 mol)",
+        "time": "4 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "ZIF-11",
+      "synthesis_conditions": {
+        "temperature": "100 ºC",
+        "solvents": "DEF",
+        "amount_of_solvent": "360 mL",
+        "equipment": "500-mL wide-mouth glass jar",
+        "chemicals_used": "zinc nitrate tetrahydrate Zn(NO3)2·4H2O (0.60 g, 2.3 × 10-3 mol), benzimidazole (H-PhIM) (4.2 g, 3.5 × 10-2 mol)",
+        "time": "4 days",
+        "washing_method": "washed with DMF (200 mL × 2)",
+        "drying_method": "dried in air for 30 min",
+        "yield": "0.21 g, 23% based on Zn(NO3)2·4H2O"
+      }
+    },
+    {
+      "material": "ZIF-12",
+      "synthesis_conditions": {
+        "temperature": "130 ºC",
+        "solvents": "DEF",
+        "amount_of_solvent": "3 mL",
+        "equipment": "4-mL vial",
+        "chemicals_used": "cobalt nitrate hexahydrate Co(NO3)2·6H2O (0.010 g, 3.44 × 10-5 mol), benzimidazole (H-PhIM) (0.030 g, 2.54 × 10-4 mol)",
+        "time": "2 days",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

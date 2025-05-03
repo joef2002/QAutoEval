@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound synthesized in the synthesis of 1?",
+      "answer": "C23 H12 F6 Mn O7 P0.50",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature (in K) was used for the X-ray crystallography data collection for compound 2?",
+      "answer": "173.15",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the synthesized MOFs 1 and 2?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MOF 1?",
+      "answer": "P6122",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>2sigma(I)) for MOF 2 after refinement?",
+      "answer": "R1 = 0.0420, wR2 = 0.1112",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of MOF 3?",
+      "answer": "70%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ee value for the alkylation of N-methyl indole with β,γ-unsaturated α-keto esters using MOF 1?",
+      "answer": "96%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ee value for the Friedel-Crafts alkylations of pyrroles and nitrostyrene using MOF 1?",
+      "answer": "97%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the solvent used for the optimization of the reaction conditions in alkylation of indoles with β,γ-unsaturated α-keto esters?",
+      "answer": "CHCl3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ee value for the MOF 1-catalyzed synthesis of indolobutyric acid?",
+      "answer": "95%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of MOF 1 and MOF 2 the same?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the temperature for the X-ray crystallography data collection for compound 1 higher than for compound 2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of MOF 2 different from MOF 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the synthesis of MOF 3 yield a higher percentage than MOF 2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ee value for the alkylation of N-methyl indole with β,γ-unsaturated α-keto esters using MOF 1 less than 95%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was CHCl3 used as a solvent in the optimization of the reaction conditions for the Friedel-Crafts alkylations of pyrroles and nitrostyrene?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ee value for the MOF 1-catalyzed synthesis of indolobutyric acid less than 90%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ee value for the alkylation of N-methyl indole with β,γ-unsaturated α-keto esters using MOF 1 at 30°C?",
+      "answer": "97%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the ee value for the Friedel-Crafts alkylations of pyrroles and nitrostyrene using MOF 1 at 0°C?",
+      "answer": "97%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of MOF 1 when heated at 100°C?",
+      "answer": "88%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

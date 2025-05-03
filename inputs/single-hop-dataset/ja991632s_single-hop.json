@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "1999",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author for the paper?",
+      "answer": "Spencer Knapp, Joseph A. Potenza, and Harvey J. Schugar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja991632s",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "From which organism was methyl pyropheophorbide a (1) prepared?",
+      "answer": "Spirulina pacifica",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the molecular weight of the dimer formed in CHCl3 according to osmometric MW determination?",
+      "answer": "1235 Da",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the appearance of a new low-energy Q absorption at 14440 cm-1 in the spectra indicate?",
+      "answer": "The presence of the dimer 5",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of adding 2 equiv of 4-(N,N-dimethylamino)pyridine to the monomeric zinc(II) pyropheophorbide?",
+      "answer": "It forms monomeric 2·DMAP.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the O-methyloxime zinc(II) pyropheophorbide (4) not form a dimer in CDCl3 solution?",
+      "answer": "Due to increased steric hindrance to zinc coordination at nitrogen.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does rapid monomer−dimer exchange on the NMR time scale indicate about the ligating ability of oxime nitrogen toward zinc(II)?",
+      "answer": "It reflects the weak ligating ability of oxime nitrogen toward zinc(II).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural form does the zinc(II) pyropheophorbide derivative 2 take in the solid state?",
+      "answer": "A polymeric staircase structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the geometry of each zinc atom in the solid-state structure of 2·CHCl3?",
+      "answer": "Square-pyramidal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a second low-energy absorption at 13240 cm-1 in the most concentrated solution suggest?",
+      "answer": "The result of a higher aggregate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Qy absorption for the dimer 5 significantly changed by dilution?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the oxime nitrogen coordinate to zinc in the solid state of 2·CHCl3?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the zinc(II) pyropheophorbide derivative 2 found to form a dimer in CDCl3 solution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the chlorin subunits in the polymeric chains of 2·CHCl3 approximately parallel?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the oxime-to-ester hydrogen bond contribute to the stability of the solid-state structure of 2·CHCl3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the molecular weight determined by osmometric MW determination exactly the same as the calculated value for the dimer?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of 10 equiv of DMAP to dimer 5 result in the formation of monomers with four- and five-coordinate zinc(II)?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "UWDM-1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Cu(NO3)2.3H2O",
+            "amount": "16.5 mg"
+          },
+          {
+            "chemical": "MIM linker 6",
+            "amount": "25 mg"
+          },
+          {
+            "chemical": "DMF/EtOH/H2O",
+            "amount": "2.67 mL (3:3:2 v/v/v)"
+          },
+          {
+            "chemical": "HNO3",
+            "amount": "2 drops"
+          }
+        ],
+        "temperature": "65 °C",
+        "time": "48 h",
+        "equipment": "20 mL borosilicate scintillation vial, programmable heating oven",
+        "yield": "78%",
+        "activation_conditions": "heated in situ to 175 °C under N2 gas flow to dehydrate",
+        "drying_method": "high vacuum at 100 °C for several hours",
+        "washing_method": "washed with acetone several times"
+      }
+    },
+    {
+      "name": "UWDM-1(22C6)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Cu(NO3)2.3H2O",
+            "amount": "same as UWDM-1"
+          },
+          {
+            "chemical": "d2-MIM(22C6)",
+            "amount": "same as UWDM-1"
+          },
+          {
+            "chemical": "DMF/EtOH/H2O",
+            "amount": "same as UWDM-1"
+          },
+          {
+            "chemical": "HNO3",
+            "amount": "same as UWDM-1"
+          }
+        ],
+        "temperature": "same as UWDM-1",
+        "time": "same as UWDM-1",
+        "equipment": "same as UWDM-1",
+        "yield": "not specified",
+        "activation_conditions": "same as UWDM-1",
+        "drying_method": "same as UWDM-1",
+        "washing_method": "same as UWDM-1"
+      }
+    }
+  ]
+}

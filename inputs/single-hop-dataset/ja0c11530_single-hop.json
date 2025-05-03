@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus of the research article is on fluoroarene separations in metal–organic frameworks with two proximal Mg2+ coordination sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which metal-organic frameworks (MOFs) were evaluated for their ability to separate fluoroarene isomers?",
+      "answer": "MOFs such as Mg2(dobdc), Mg2(m-dobdc), Mg2(dobpdc), Co2(dobdc), Co2(m-dobdc), Ni2(dobdc), Ni2(m-dobdc), Zn2(dobdc), and Cu3(btc)2 were evaluated for their ability to separate fluoroarene isomers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the selectivity of MOFs for different fluoroarene isomers?",
+      "answer": "Liquid-phase multicomponent equilibrium adsorption experiments and density functional theory (DFT) calculations were used to determine the selectivity of MOFs for different fluoroarene isomers.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF showed the highest selectivity for separating p-difluorobenzene from o-difluorobenzene and m-difluorobenzene?",
+      "answer": "Mg2(dobdc) showed the highest selectivity for separating p-difluorobenzene from o-difluorobenzene and m-difluorobenzene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How were the MOFs activated before use in adsorption experiments?",
+      "answer": "The MOFs were activated under flowing N2 at elevated temperatures, followed by heating under high vacuum, before use in adsorption experiments.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of single-crystal X-ray diffraction in this study?",
+      "answer": "Single-crystal X-ray diffraction was used to determine the crystal structures of MOFs and to analyze the binding modes of fluoroarene molecules within the MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Mg2(m-dobdc) was found to be ineffective in separating fluoroarene isomers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using breakthrough experiments in this study?",
+      "answer": "Breakthrough experiments were significant for evaluating the dynamic separation performance of MOFs under conditions that mimic real-world applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Which computational method was employed to study the interaction of fluoroarenes with MOFs?",
+      "answer": "Density functional theory (DFT) calculations with van der Waals dispersion corrections were employed to study the interaction of fluoroarenes with MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrated that MOFs can be recycled and reused for fluoroarene separation without significant loss in performance.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

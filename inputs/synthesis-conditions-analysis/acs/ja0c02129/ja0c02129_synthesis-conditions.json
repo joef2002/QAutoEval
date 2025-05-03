@@ -1,0 +1,101 @@
+{
+  "materials": [
+    {
+      "name": "H4TBB",
+      "synthesis_conditions": {
+        "temperature": "133 °C",
+        "solvents": [
+          {
+            "name": "dichloromethane/acetone",
+            "ratio": "1:3 V/V"
+          },
+          {
+            "name": "1 M HCl",
+            "amount": "multiple washes"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H4TBP",
+            "amount": "0.90 g"
+          },
+          {
+            "name": "p-toluenesulfonyl hydrazide (TsNHNH2)",
+            "amount": "6.30 g"
+          },
+          {
+            "name": "LiOH·H2O",
+            "amount": "46 mg"
+          }
+        ],
+        "time": "24 hours",
+        "yield": "72%",
+        "drying_method": "vacuum",
+        "drying_time": "3 days",
+        "purity": "93%"
+      }
+    },
+    {
+      "name": "Zr-TBB nMOF",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "1.8 mg/mL solution in DMF"
+          },
+          {
+            "name": "H4TBB",
+            "amount": "2.4 mg/mL solution in DMF"
+          },
+          {
+            "name": "88% HCOOH",
+            "amount": "20 μL"
+          }
+        ],
+        "time": "60 hours",
+        "washing_method": [
+          "DMF",
+          "1% triethylamine in EtOH",
+          "EtOH"
+        ],
+        "yield": "34.7%",
+        "oxidation_percentage": "11%"
+      }
+    },
+    {
+      "name": "Hf-TBB single crystals",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "0.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "HfCl4",
+            "amount": "2.0 mg/mL solution in DMF"
+          },
+          {
+            "name": "H4TBB",
+            "amount": "2.4 mg/mL solution in DMF"
+          },
+          {
+            "name": "88% HCOOH",
+            "amount": "200 μL"
+          }
+        ],
+        "time": "5 days",
+        "yield": "5.8%"
+      }
+    }
+  ]
+}

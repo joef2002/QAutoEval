@@ -1,0 +1,146 @@
+{
+  "materials": [
+    {
+      "name": "[Fe(L1)(H2O)2]Cl2.4H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "temperature": "70 °C",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "50 mL"
+            },
+            {
+              "name": "water",
+              "amount": "15 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "FeCl2·4H2O",
+              "amount": "1.00 g, 5.03 mmol"
+            },
+            {
+              "name": "Na2S2O4",
+              "amount": "0.438 g, 2.52 mmol"
+            },
+            {
+              "name": "2,6-diacetyl pyridine",
+              "amount": "0.821 g, 5.03 mmol"
+            },
+            {
+              "name": "triethylene tetramine",
+              "amount": "0.736 g, 5.03 mmol"
+            }
+          ],
+          "time": "16 h",
+          "yield": "1.820 g (75%)",
+          "characterization_methods": [
+            "IR",
+            "Elemental analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "[{(H2O)Fe(L1)}{Nb(CN)8}{Fe(L1)}]n.4.5H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "10 mL"
+            },
+            {
+              "name": "1:1 mixture of H2O and ethanol",
+              "amount": "15 mL each"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K4[Nb(CN)8]·2H2O",
+              "amount": "25 mg, 0.05 mmol"
+            },
+            {
+              "name": "FeL1Cl2",
+              "amount": "40 mg, 0.10 mmol"
+            }
+          ],
+          "yield": "8 mg (15%)",
+          "characterization_methods": [
+            "IR",
+            "Elemental analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "[{(H2O)Fe(L1)}{Mo(CN)8}{Fe(L1)}]n.5H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "8 mL"
+            },
+            {
+              "name": "1:1 mixture of H2O and ethanol",
+              "amount": "8 mL each"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K4[Mo(CN)8]·2H2O",
+              "amount": "45 mg, 0.09 mmol"
+            },
+            {
+              "name": "FeL1Cl2",
+              "amount": "72 mg, 0.18 mmol"
+            }
+          ],
+          "yield": "48 mg (51%)",
+          "characterization_methods": [
+            "IR",
+            "Elemental analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "[{(H2O)Fe(L1)}{W(CN)8}{Fe(L1)}]n.3.5H2O",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "solvents": [
+            {
+              "name": "water",
+              "amount": "12 mL"
+            },
+            {
+              "name": "1:1 mixture of H2O and ethanol",
+              "amount": "15 mL each"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "K4[W(CN)8]·2H2O",
+              "amount": "58 mg, 0.10 mmol"
+            },
+            {
+              "name": "FeL1Cl2",
+              "amount": "80 mg, 0.20 mmol"
+            }
+          ],
+          "yield": "38 mg (34%)",
+          "characterization_methods": [
+            "IR",
+            "Elemental analysis"
+          ]
+        }
+      ]
+    }
+  ]
+}

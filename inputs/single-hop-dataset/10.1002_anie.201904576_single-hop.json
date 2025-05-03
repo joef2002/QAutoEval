@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Who are the authors of the paper on catalytic synthesis of Potassium Acyltrifluoroborates?",
+      "answer": "Dino Wu, Nicole A. Fohn, and Jeffrey W. Bode",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main functional group discussed in the synthesis method reported?",
+      "answer": "Potassium acyltrifluoroborates (KATs)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of cross-coupling reaction is utilized in the synthesis of KATs as described?",
+      "answer": "Pd0-catalyzed Migita–Kosugi–Stille cross-coupling reactions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the bifunctional iminium reagent in the synthesis process?",
+      "answer": "It bears both a tin nucleophile and a trifluoroborate, applied in chemoselective cross-coupling.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why were previous attempts using a Fukuyama-type coupling with an aryl zinc reagent unsuccessful?",
+      "answer": "Likely due to unsuccessful oxidative addition of the palladium into the carbon–sulfur bond.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of attempting cross-coupling without the presence of CuI and CsF?",
+      "answer": "Only traces of TIM 4 g were observed, along with good recovery of tin reagent 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coupling reagent 2 stable at room temperature?",
+      "answer": "No, it solidifies to a wax at 4 88C and is a bench-stable liquid.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis method allows for the incorporation of KATs onto complex structures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Aryl bromides were found to be highly reactive in the synthesis of KATs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was a significant finding regarding the reactivity of vinyl substrates?",
+      "answer": "Vinyl iodides displayed the highest reactivity, but vinyl triflates were almost equally reactive.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis method developed is limited to aryl KATs only.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of copper on the transmetallation step?",
+      "answer": "Copper decreases the barrier to transmetallation through in situ tin/copper transmetallation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The new synthesis method does not improve functional-group tolerance.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the first report year of the unique molecules discussed?",
+      "answer": "2010",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis method requires oxidizing agents for the preparation of KATs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was a key challenge in the synthesis of less substituted derivatives or those bearing electron-deficient aromatic groups?",
+      "answer": "They were prone to conjugate addition by water or amines.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis method allows for the preparation of amino acid derived KATs for the first time.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in the synthesis of KATs from aryl bromides?",
+      "answer": "Aryl bromides provided trace amounts of the corresponding KATs due to well-established reactivity trends.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of heating the coupling reagent at 60 88C in THF in the presence of H2O?",
+      "answer": "It did not lead to decomposition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis method developed is not applicable to the synthesis of a,b-unsaturated KATs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

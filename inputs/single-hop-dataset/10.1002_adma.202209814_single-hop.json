@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main purpose of the research conducted by Jinxia Liang and colleagues?",
+      "answer": "The main purpose of the research is to address the energy crisis and environmental problems by enabling high-selectivity photocatalytic reduction of CO2 to CO using dislocated bilayer MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structure does the bilayer MOF exhibit according to the research?",
+      "answer": "The bilayer MOF exhibits a low-dimensional structure with dislocated upper and lower layers bridged by halogen ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the bilayer MOF be recycled, and if so, how many times?",
+      "answer": "Yes, the bilayer MOF can be recycled at least three times.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity percentage of the bilayer MOF for reducing CO2 to CO?",
+      "answer": "The bilayer MOF exhibits 100% ultra-high selectivity for the reduction of CO2 to CO.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to explore the intrinsic mechanism of the photocatalytic CO2 reduction process?",
+      "answer": "The intrinsic mechanism was explored through experimental characterization and density functional theory (DFT) calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What factors are considered key in the construction of MOF photocatalysts according to the research?",
+      "answer": "Strong absorption in the visible light region, accessibility of catalytic sites, and efficient separation of photoinduced electron-hole pairs are key factors.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do porphyrins play in the construction of MOF photocatalysts?",
+      "answer": "Porphyrins act as light-harvesting ligands, showing broad absorption in the 200–800 nm range and providing atomically dispersed catalytic centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocatalytic CO2 reduction process thermodynamically feasible according to the research?",
+      "answer": "Yes, the band alignments of MOFs indicate that photocatalytic CO2 reduction is thermodynamically feasible.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the bilayer MOF require a cocatalyst or photosensitizer for photocatalytic CO2 reduction?",
+      "answer": "False, the bilayer MOF does not require any cocatalyst or photosensitizer for photocatalytic CO2 reduction.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the selectivity of CO over H2 and CH4 100% in the monolayer MOF?",
+      "answer": "False, the selectivity of CO over H2 and CH4 is not 100% in the monolayer MOF; it is 86.87%.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the bilayer MOF maintain high activity across multiple cycles?",
+      "answer": "True, the bilayer MOF exhibited high durability in cycling tests with negligible loss of catalytic activity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the research suggest that the bilayer MOF has potential for large-scale photocatalytic CO2 reduction?",
+      "answer": "True, the research suggests that the bilayer MOF, due to its high selectivity and durability, shows good promise for application in large-scale photocatalytic CO2 reduction.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the research, does the monolayer MOF exhibit a higher CO release rate than the bilayer MOF?",
+      "answer": "True, the monolayer MOF exhibited a higher CO release rate compared to the bilayer MOF.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic CO2 reduction efficiency of MOF nanosheets higher than their bulk counterparts?",
+      "answer": "True, MOF nanosheets exhibited higher photocatalytic CO2 reduction efficiency compared to their bulk counterparts.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do DFT calculations suggest that stronger CO2 adsorption energy and weaker H2O adsorption energy improve catalytic activity and selectivity?",
+      "answer": "True, DFT calculations suggest that stronger CO2 adsorption energy and weaker H2O adsorption energy jointly improve the photoreduction activity and selectivity of MOF photocatalysts.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the porphyrin ligand in the photocatalytic process according to the research?",
+      "answer": "The porphyrin ligand acts as a visible light harvesting unit, generating electron-hole pairs upon irradiation and facilitating the transfer of photogenerated electrons to the metal center for CO2 reduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of the bilayer MOF synthesis based on TPP?",
+      "answer": "The yield of the bilayer MOF synthesis based on TPP is 48%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the research indicate that the bilayer MOF has high acid-base stability?",
+      "answer": "True, the research indicates that the bilayer MOF has high acid-base stability, showing no phase transition or structural collapse during treatment.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of reaction temperature and solvent polarity on the synthesis of MOFs according to the research?",
+      "answer": "The reaction temperature and solvent polarity affect the coordination ability, mode, and conformation of the organic ligand, significantly impacting the crystal structure of the porous material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "According to the research, what is the significance of the dislocated structure of the bilayer MOF?",
+      "answer": "The dislocated structure of the bilayer MOF contributes to its unique low-dimensional MOF structure, enabling 100% selectivity for CO2 reduction to CO and enhancing its photocatalytic performance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

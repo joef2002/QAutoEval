@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the paper?",
+      "answer": "10.1002/anie.201807556",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature range indicates the thermally induced valence tautomeric transition in the compound?",
+      "answer": "236 K (cooling)/237 K (heating)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the compound described in the paper a single-chain magnet?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Cl2AnC3@ form in the compound?",
+      "answer": "It acts as a magnetic mediator for the construction of long-range magnetic ordering.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "At what temperature does the charge-ordered state suddenly change?",
+      "answer": "Around 232–242 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound exhibit slow relaxation of magnetization at low temperatures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to synthesize the compound?",
+      "answer": "Slow diffusion of a solution of H2Cl2An in acetone into an aqueous solution containing FeIICl2 and NPr4Br.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the temperature dependence of the infrared spectra support?",
+      "answer": "The change in the charge state of the Cl2Ann@ ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's magnetic behavior consistent with that of a single-chain magnet?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the FeIII HS ion's spin set?",
+      "answer": "It suggests that the system can be interpreted as a SCM system with moving finite-sized domains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of field hysteresis in the magnetization measurements indicate?",
+      "answer": "Magnetic behavior with field hysteresis at temperatures below 5 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was a Grant-in-Aid for Scientific Research supported the study?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Arrhenius plot provide in terms of the compound's magnetic behavior?",
+      "answer": "A parameter set that seems similar to that of a single-chain magnet.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the Cole–Cole plot indicate about the compound's magnetic behavior?",
+      "answer": "The presence of interchain antiferromagnetic interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's behavior indicative of significant structural anisotropy?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the compound's behavior at low applied fields suggest?",
+      "answer": "That the magnetization does not saturate at low applied fields of 0–3 T.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystallographic space group of compound 1?",
+      "answer": "P21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound exhibit a thermally driven tautomeric transition?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the diamagnetic Cl2An2@ ligand in the compound?",
+      "answer": "It links the magnetic chains in the network.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the study's support from the Ministry of Education, Culture, Sports, Science, and Technology, Japan, indicate?",
+      "answer": "The importance of the research in the field of molecular materials chemistry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

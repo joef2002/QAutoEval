@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": [
+        {
+          "temperature": "90°C",
+          "solvents": [
+            {
+              "name": "N,N-dimethylacetamide (DMA)",
+              "amount": "60 ml"
+            },
+            {
+              "name": "methanol",
+              "amount": "40 ml"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "MnCl2",
+              "amount": "0.1 mol l-1 in DMA, 20 ml"
+            },
+            {
+              "name": "3-(pyridin-4-yl)benzoic acid (Hpba)",
+              "amount": "0.80 g, 4.0 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "ca. 80%",
+          "washing_method": "washed by methanol",
+          "drying_method": "dried in air"
+        }
+      ]
+    },
+    {
+      "name": "1·DMF",
+      "synthesis_conditions": [
+        {
+          "note": "1·DMF is obtained by adsorbing DMF into the pores of 1. The synthesis conditions for 1 apply, followed by adsorption of DMF."
+        }
+      ]
+    },
+    {
+      "name": "1·DMA",
+      "synthesis_conditions": [
+        {
+          "note": "1·DMA is obtained by adsorbing DMA into the pores of 1. The synthesis conditions for 1 apply, followed by adsorption of DMA."
+        }
+      ]
+    }
+  ]
+}

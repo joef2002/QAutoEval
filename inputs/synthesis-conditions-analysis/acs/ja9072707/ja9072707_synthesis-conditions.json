@@ -1,0 +1,42 @@
+{
+  "materials": [
+    {
+      "name": "Be12(OH)12(1,3,5-benzenetribenzoate)4 (1)",
+      "synthesis_conditions": {
+        "temperature": "130 °C",
+        "solvents": [
+          {
+            "name": "DMSO",
+            "amount": "1.9 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "0.1 mL"
+          },
+          {
+            "name": "water",
+            "amount": "65 µL (35 wt % beryllium nitrate solution)"
+          }
+        ],
+        "equipment": "borosilicate tube (1.2 mm o.d., 20 cm length)",
+        "chemicals_used": [
+          {
+            "name": "1,3,5-benzenetribenzoic acid",
+            "amount": "18 mg",
+            "mmol": "0.041 mmol"
+          },
+          {
+            "name": "beryllium nitrate",
+            "form": "aqueous solution",
+            "amount": "65 µL"
+          }
+        ],
+        "time": "10 days",
+        "washing_method": "three times with DMF, followed by dichloromethane",
+        "drying_method": "soaked in anhydrous dichloromethane (5 mL) for 8 h, replenished four times over 2 days, dried under a gentle stream of nitrogen",
+        "yield": "17 mg (81%)",
+        "additional_notes": "Caution advised due to toxicity of beryllium compounds and DMSO decomposition liberating toxic SO2 gas."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the general formula for the three complexes mentioned?",
+      "answer": "Co(N3)2(bpg)·Sn (1, S = nothing; 2, S = DMSO, n = 1; 3, S = DMF, n = 4/3)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do crystallization solvent molecules play in the formation of the complexes?",
+      "answer": "Crystallization solvent molecules assist in the formation of the observed structure by interacting with the bridging ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The complexes were synthesized using a 2:1:1 molar ratio of NaN3, CoCl2, and bpg in different solvents.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the molar ratio used for the synthesis of the complexes?",
+      "answer": "2:1:1 molar ratio of NaN3, CoCl2, and bpg",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the coordination environment of Co2+ differ in complex 1 compared to complex 3?",
+      "answer": "In complex 1, Co2+ is octahedrally coordinated with six N atoms, four from EE azides and two from trans-bpg. In complex 3, there are two unique Co2+ centers each coordinated with six N atoms, two from trans-bpg ligands and four from azido ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The shortest interlayer Co-Co distance in complex 3 is significantly longer than that found in jarosite.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the shortest Co-Co distance between adjacent layers in complex 1?",
+      "answer": "13.6 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the possibility of complex 1 being a spin-canted weak ferromagnet?",
+      "answer": "Lack of an inversion center between the EE azido-bridged Co2+ ions due to distortion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All three complexes show apparent antiferromagnetic coupling.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Weiss constant θ for complex 2?",
+      "answer": "-26.6 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why might complex 3 be a better 2D magnetic system compared to jarosite?",
+      "answer": "Because even the shortest interlayer Co-Co distance is 13.5 Å, significantly longer than the corresponding value of 6.7 Å found in jarosite.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Curie constant for complex 3 is higher than that for complex 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What indicates strong frustration in complex 3?",
+      "answer": "The large |θ|/TN value (10) indicates strong frustration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 2 involves the use of DMSO as a solvent.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of complex 1?",
+      "answer": "70%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis method of complex 3 differ from that of complex 1?",
+      "answer": "Complex 3's synthesis involves using DMF as a solvent and keeping the filtration under 20ºC for about 2 days without evaporation, while complex 1 uses methanol and water as solvents with slow evaporation for one week.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 3 resulted in a yield of 20%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMSO molecules in complex 2?",
+      "answer": "DMSO molecules are hydrogen bonded to the bpg ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The intralayer Co-Co distances in complex 2 are 3.341 and 6.313 Å for EO- and EE-bridged pairs, respectively.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the function of bpg ligands in the complexes?",
+      "answer": "Bpg ligands bridge different 2D cobalt-azido layers to generate 3D coordination frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

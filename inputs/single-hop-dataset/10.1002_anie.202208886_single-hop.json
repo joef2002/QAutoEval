@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the 2D spin crossover complex discussed?",
+      "answer": "[FeII(dpa)][(pzTp)FeIII(CN)3]2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two states between which spin-crossover molecules can switch?",
+      "answer": "High-spin (HS) and low-spin (LS) states",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the rigid bridging ligands in the discussed 2D SCO complex?",
+      "answer": "They propagate local structural changes about the FeII ion to the whole crystal, leading to elastic interactions for the abrupt SCO and rotational movements of polar apical pyrazolyl rings.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the dielectric switch in the discussed material?",
+      "answer": "Remarkable structural variations such as displacements of atoms and/or rotations of polar groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the dielectric change (Δɛ’) upon the spin transition in the discussed 2D SCO complex?",
+      "answer": "Δɛ’ = 2.3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the entropy change (ΔS) in the phase transition of the discussed 2D SCO complex?",
+      "answer": "The entropy change is two times larger than the entropy gain expected from the spin multiplicity change, indicating non-electronic vibrations of the 2D layer significantly contribute to the entropy change for the phase transition.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of ZnII ions affect the cooperativity of SCO centers?",
+      "answer": "ZnII dilution can largely reduce the cooperativity of SCO centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the 2D SCO complex exhibit a significant dielectric response?",
+      "answer": "Because the local changes of the SCO centers perturb the rotational movements of apical pyrazolyl rings via through-space interactions, leading to remarkable dielectric transition.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of replacing dpa with a monodentate ligand on the spin transition?",
+      "answer": "It results in a complete spin transition but with a gradual spin transition over a wide temperature range, showing the importance of rigid bridges for abrupt transitions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the temperature-dependent UV/Vis absorption spectra change at 200 K for the discussed 2D SCO complex?",
+      "answer": "The absorption band ranging from 400 to 700 nm could be assigned to the d-d or MLCT transitions of the FeII ions and the broad absorption band centering at 1000 nm was characteristic for the MMCT.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the parameter Σ in the discussed 2D SCO complex?",
+      "answer": "The parameter Σ indicates the coordination geometry for the FeII site, helping to understand how much it changes upon the spin transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of thermal hysteresis in the discussed 2D SCO complex indicate?",
+      "answer": "It indicates a first-order phase transition, characterized by a difference in transition temperatures during cooling and heating.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dielectric change in the discussed 2D SCO complex larger than that reported for other SCO complexes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the discussed 2D SCO complex exhibit a gradual spin transition?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the rotational movements of the polar pyrazolyl ring responsible for the significant dielectric response in the discussed 2D SCO complex?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the introduction of a rotational polar group into the SCO system cause a multi-switchable property?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the entropy change for the phase transition solely due to the spin multiplicity change?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the 2D SCO complex discussed undergo an abrupt spin transition accompanied by large dielectric changes?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dielectric change in the 2D SCO complex independent of the spin transition?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the 2D SCO complex discussed show a significant change in dielectric constants without the spin transition?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

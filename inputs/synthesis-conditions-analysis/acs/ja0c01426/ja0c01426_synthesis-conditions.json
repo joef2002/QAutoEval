@@ -1,0 +1,83 @@
+{
+  "materials": [
+    {
+      "name": "MOF-1114(Yb)",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "3.00 mL of 0.10 M YbCl3·6H2O (DMF)",
+            "pre-treatment": "pre-dried over 4 Å molecular sieves"
+          },
+          {
+            "name": "H2O",
+            "amount": "0.250 mL"
+          },
+          {
+            "name": "DMF",
+            "amount": "1.5 mL of 0.05 M 2-aminoterephthalic acid (DMF)"
+          }
+        ],
+        "time": "16 hours",
+        "yield": "colorless cubic crystals",
+        "washing_method": "DMF",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "MOF-1140(Yb)",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "DMF/H2O",
+            "amount": "3.250 mL of 12:1 DMF/H2O",
+            "pre-treatment": "suspension sonicated for 10 minutes"
+          },
+          {
+            "name": "DMF",
+            "amount": "2.75 mL of 0.05 M 2-aminoterephthalic acid (DMF)",
+            "pre-treatment": "mixture sonicated for an additional 10 minutes"
+          }
+        ],
+        "time": "70 hours",
+        "yield": "colorless plate-shaped crystals",
+        "washing_method": "DMF",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "Modified MOF-1114(Yb) and MOF-1140(Yb)",
+      "synthesis_conditions": {
+        "temperature": [
+          "room temperature",
+          "75°C"
+        ],
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "250 µL"
+          },
+          {
+            "name": "methyl propiolate",
+            "amount": "1 mL"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "acetonitrile (5x)",
+        "drying_method": "reduced pressure"
+      }
+    },
+    {
+      "name": "Miniaturized MOF-1114(Yb)",
+      "synthesis_conditions": {
+        "miniaturization_method": "grinding with mortar and pestle followed by ultrasonication/probe sonication",
+        "post_synthetic_modification": "methyl propiolate following the procedure described in Section 3",
+        "solvent_for_modification": "water with 0.5% Tween-20",
+        "time_for_modification": "1 day",
+        "drying_method": "reduced pressure"
+      }
+    }
+  ]
+}

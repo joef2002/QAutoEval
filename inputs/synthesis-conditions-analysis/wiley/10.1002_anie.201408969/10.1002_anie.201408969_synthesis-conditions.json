@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "14-a",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "277 molar amount"
+          },
+          {
+            "name": "ethanol",
+            "amount": "17 molar amount"
+          },
+          {
+            "name": "hydrofluoric acid",
+            "amount": "2.3 molar amount"
+          }
+        ],
+        "equipment": "23 mL Teflon-lined acid digestion bomb",
+        "chemicals_used": [
+          "zinc lactate",
+          "tin oxalate",
+          "phosphorous acid",
+          "4,4’-trimethylenedipyridine (C13H14N2)"
+        ],
+        "chemicals_ratio": "0.5:0.5:3:2",
+        "yield": "60 % (based on Zn)",
+        "drying_method": "TG analysis",
+        "drying_temperature": "up to 250 8C"
+      }
+    },
+    {
+      "name": "14-b",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "deionized water",
+            "amount": "277 molar amount"
+          },
+          {
+            "name": "ethanol",
+            "amount": "17 molar amount"
+          },
+          {
+            "name": "hydrofluoric acid",
+            "amount": "2.3 molar amount"
+          },
+          {
+            "name": "mesitylene (1,3,5-trimethylbenzene)",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "23 mL Teflon-lined acid digestion bomb",
+        "chemicals_used": [
+          "zinc lactate",
+          "tin oxalate",
+          "phosphorous acid",
+          "4,4’-trimethylenedipyridine (C13H14N2)"
+        ],
+        "chemicals_ratio": "0.5:0.5:3:2",
+        "yield": "40 % (based on Zn)",
+        "drying_method": "TG analysis",
+        "drying_temperature": "up to 250 8C"
+      }
+    }
+  ]
+}

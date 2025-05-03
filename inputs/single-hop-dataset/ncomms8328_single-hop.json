@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the research conducted by Tong-Liang Hu and colleagues?",
+      "answer": "The main goal of the research was to develop a microporous metal–organic framework (MOF) that can efficiently remove acetylene from ethylene/acetylene mixtures containing 1% acetylene.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of removing acetylene from ethylene/acetylene mixtures in the petrochemical industry?",
+      "answer": "Removing acetylene from ethylene/acetylene mixtures is significant because acetylene can poison catalysts during ethylene polymerization and form explosive solid metal acetylides, affecting the quality of polyethylene and posing safety risks.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article reports the first microporous MOF for the separation of C2H2/C2H4.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What unique feature does UTSA-100 possess that contributes to its superior performance in acetylene removal?",
+      "answer": "UTSA-100 possesses suitable pore/cage spaces and functional amine groups on the pore/cage surfaces that preferentially interact with acetylene molecules, leading to superior separation performance.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the amino derivative of tetrazol-1,3-benzenedicarboxylic acid (H2ATBDC) prepared?",
+      "answer": "H2ATBDC was prepared based on alkaline decomposition of the tetrazole ring and heterocyclization of the resulting N-arylcyanamides on interaction with ammonium azide generated in situ.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to evaluate the porosity of UTSA-100a?",
+      "answer": "The porosity of UTSA-100a was evaluated by N2-gas sorption at 77 K.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: UTSA-100a has a higher selectivity for ethylene over acetylene.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the amino and tetrazole functionalized wall in UTSA-100?",
+      "answer": "The amino and tetrazole functionalized wall in UTSA-100 plays a role in reinforcing the selective binding of the framework with acetylene over ethylene, contributing to its high separation efficiency.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research demonstrates that UTSA-100a can be regenerated with low energy requirements due to its low isosteric heat of adsorption for acetylene.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to further understand the acetylene adsorption in UTSA-100a?",
+      "answer": "First-principles DFT-D (dispersion-corrected density-functional theory) calculations were performed to understand the acetylene adsorption in UTSA-100a.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the calculated static binding energy derived from DFT-D calculations for acetylene in UTSA-100a?",
+      "answer": "The calculated static binding energy indicates the strength of interaction between acetylene molecules and the framework of UTSA-100a, suggesting that the framework has specific sites that strongly bind acetylene, contributing to its selective adsorption properties.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article provides a detailed procedure for the synthesis of the organic linker H2ATBDC used in the preparation of UTSA-100.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to confirm the phase purity of the bulk material of UTSA-100?",
+      "answer": "The phase purity of the bulk material of UTSA-100 was independently confirmed by powder X-ray diffraction (PXRD).",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research article reports that UTSA-100a has the highest acetylene uptake among the examined MOFs at room temperature.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the –NH2 groups in UTSA-100a according to the research findings?",
+      "answer": "The –NH2 groups in UTSA-100a are speculated to play a role in enforcing the preferential binding of the framework with acetylene over ethylene through weak acid–base interactions, contributing to its selective adsorption properties.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research demonstrates that UTSA-100a can efficiently separate acetylene from ethylene in mixtures containing up to 50% acetylene.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiments conducted with UTSA-100a?",
+      "answer": "The breakthrough experiments conducted with UTSA-100a demonstrate its practical application and effectiveness in separating acetylene from ethylene/acetylene mixtures in a real-world scenario, highlighting its potential for industrial ethylene purification.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article suggests that incorporating stronger basic sites into porous MOFs could further improve their selectivity for acetylene over ethylene.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the pore size distribution analysis conducted on UTSA-100a?",
+      "answer": "The pore size distribution analysis of UTSA-100a provides insights into the pore structure, which is crucial for understanding how the MOF selectively adsorbs acetylene over ethylene, contributing to its high separation efficiency.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article provides evidence that UTSA-100a maintains its crystalline framework structure after desolvation.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    }
+  ]
+}

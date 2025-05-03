@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the symmetry of the tetracoordinated oxygen observed in the tetracopper cluster-based coordination polymer?",
+      "answer": "D4h",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the tetracopper cluster-based coordination polymer?",
+      "answer": "Hydrothermal treatment",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the dark-green crystals obtained from the synthesis?",
+      "answer": "45%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to investigate the stabilization factors of the square-planar tetracoordinated oxygen?",
+      "answer": "DFT calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the perchlorate anions in the coordination polymer's structure?",
+      "answer": "They fill the channels of the cationic framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What unusual property does the coordination polymer exhibit?",
+      "answer": "An unusual magnetic moment and ESR signal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a large magnetic moment in the coordination polymer indicate?",
+      "answer": "The possible presence of tetravalent copper",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the hydrothermal treatment method chosen for the synthesis of the coordination polymer?",
+      "answer": "It facilitates the formation of the tetracopper cluster-based coordination polymer under high temperature and pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the large g factor in the ESR spectrum suggest about the electronic configuration of copper in the polymer?",
+      "answer": "It suggests the presence of Cu(IV) ions with a 3d7 configuration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the σ-bonding interaction help stabilize the square-planar tetracoordinated oxygen?",
+      "answer": "By involving the p_x and p_y orbitals of the ptO with the surrounding copper ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the absence of a Cu(IV) signal in the XPS data suggest?",
+      "answer": "It suggests that Cu(II) ions often undergo reduction under X-ray irradiation in ultrahigh vacuum.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination polymer's structure based on a body-centered cubic framework?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer exhibit ferromagnetic coupling?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ptO in the coordination polymer stabilized solely by metal-metal interactions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all tetracoordinated oxygen compounds found to have square-planar geometry?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the coordination polymer synthesized at room temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer's structure include disordered perchlorate anions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic moment of the coordination polymer smaller than the spin-only value for eight Cu(II) atoms?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer's structure feature hexagonal symmetry?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ptO in the coordination polymer stabilized by cyclically delocalized σ bonds along the Cu−N−N−Cu perimeters?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

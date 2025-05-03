@@ -1,0 +1,124 @@
+{
+  "QAs": [
+    {
+      "question": "What is the empirical formula for MOF-180?",
+      "answer": "Zn4O(BTE)2·(DMF)14.8(NMP)15.6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to activate MOF-205 before gas adsorption measurements?",
+      "answer": "The sample was immersed in dichloromethane for 3 days, then evacuated at room temperature for 10 h and at 100 °C for 12 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MOF-210?",
+      "answer": "6240 m2 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest recorded total hydrogen uptake for MOF-210 at 77 K and 80 bar?",
+      "answer": "176 mg g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What force field was used to model the nitrogen molecule in GCMC simulations?",
+      "answer": "The TraPPE force field",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the BET theory be applied to the entire range of the N2 isotherm for MOF-200?",
+      "answer": "No, only the range below P/P0 = 0.14 satisfies the first consistency criterion for applying the BET theory.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the volumetric gas uptake directly influenced by the packing factor of the crystalline materials?",
+      "answer": "Yes, the volumetric gas uptake is influenced by the packing factor of the crystalline materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The DFT calculations were performed to derive partial charges of the MOF atoms for GCMC simulations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The BET surface area of MOF-205 is higher than that of MOF-200.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The total CO2 uptake for MOF-210 at 298 K and 50 bar is higher than that of MOF-200.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of MOF-205?",
+      "answer": "Cubic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the void volume percentage of MOF-200?",
+      "answer": "90%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The BET surface area is the only experimentally accessible quantity for gas storage at high temperatures and pressures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated empirical formula for MOF-210 based on 1H-NMR analysis?",
+      "answer": "Zn4O(BTE)4/3(BPDC)·(DMF)25.7(NMP)24.6",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The total methane uptake for MOF-210 at 298 K and 80 bar is estimated to be 476 mg g-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to activate MOF-200 and MOF-210 before gas adsorption measurements?",
+      "answer": "The samples were immersed in DEF and dichloromethane, respectively, for 3 days, then immersed in acetone and evacuated with supercritical CO2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The geometric surface area calculations for MOFs were performed by rolling a sphere probe over the framework atoms.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of MOF-200?",
+      "answer": "Trigonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Langmuir surface area of MOF-210 is higher than that of MOF-200.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Ewald sum technique in GCMC simulations?",
+      "answer": "The Ewald sum technique was used to compute the electrostatic interactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

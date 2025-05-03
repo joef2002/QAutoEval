@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main function of the novel metal-organic framework (MOF) discussed in the text?",
+      "answer": "The MOF facilitates direct reduction of nitric oxide (NO), producing nearly quantitative yields of nitrous oxide (N2O).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key features of the MOF's structure?",
+      "answer": "The MOF contains one-dimensional, Fe2+ chains bridged by dipyrazolate linkers and N,N-dimethylformamide (DMF) ligands, with accessible coordination sites on adjacent metal centers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the ferrous form of the MOF regenerated?",
+      "answer": "The ferrous form of the MOF can be regenerated via a synthetic cycle involving reduction with cobaltocene (CoCp2) followed by reaction with trimethylsilyl triflate (TMSOTf).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What makes the MOF's metal nodes unusual?",
+      "answer": "The unusual chain-type metal nodes feature accessible coordination sites on adjacent metal centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are MOFs considered promising platforms for the design of biomimetic materials?",
+      "answer": "MOFs are often assembled using linkers with weak-field donor groups similar to those found in the active sites of metalloenzymes, and they provide site-isolation while offering substrate access and a tunable micro-environment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Fe···Fe distance in the MOF's structure?",
+      "answer": "The Fe···Fe distance between adjacent metal sites is similar to that found in the diiron active site of FNORs, which is crucial for the MOF's biomimetic reactivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's reactivity towards NO is similar to that of flavodiiron nitric oxide reductases (FNORs).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF discussed can only reduce NO in the presence of a strong external reductant.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF loses its crystallinity and porosity upon activation at high temperatures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does DMF play in the MOF's structure?",
+      "answer": "DMF solvent molecules act as bridging ligands in the chain-type SBUs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's structure change upon exposure to air?",
+      "answer": "The MOF rapidly oxidizes upon exposure to air, indicated by a color change from orange to bright red, and gradually decomposes under ambient conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOF upon exposure to NO gas?",
+      "answer": "The MOF undergoes an immediate color change from orange to black upon exposure to NO gas, and the black solid gradually turns to red, indicating a reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's ability to reduce NO is inhibited by the presence of excess NO.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF can be regenerated and maintain its NO reduction activity after regeneration.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF's structure is completely different from that of its oxidized analogue, 2-OH.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the empirical formula of the MOF as determined by 1H NMR spectra?",
+      "answer": "The empirical formula is Fe(bppdi)(DMF)0.5(THF)3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the outcome of the MOF's reaction with NO in terms of product yield?",
+      "answer": "Nearly quantitative N2O yields (91–99%) were obtained when the reaction was heated at 60 8C for 1 h.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's reaction with NO involves a disproportionation mechanism.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cobaltocene (CoCp2) in the regeneration of the MOF?",
+      "answer": "Cobaltocene (CoCp2) is employed as a reductant in the regeneration process of the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's structure and reactivity towards NO are unrelated to its biomimetic design.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

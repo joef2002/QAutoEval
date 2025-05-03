@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Anion Control in the Ionothermal Synthesis of Coordination Polymers",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the paper?",
+      "answer": "Russell E. Morris",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of compounds were synthesized in the study?",
+      "answer": "Two anionic 3D coordination frameworks and one 2D layer compound",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which ionic liquid was used to synthesize compound 1?",
+      "answer": "EMIm-Br",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of anions in the ionothermal synthesis according to the text?",
+      "answer": "Anions play a significant role in solvent polarity/hydrophobicity, which in turn controls the structures of materials formed.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What changes in the coordination geometries of cobalt were observed when the solvent polarity was altered?",
+      "answer": "The coordination geometries of cobalt changed from octahedral in compound 1 to tetrahedral in compound 2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the solvent polarity have on the solubilization of starting materials?",
+      "answer": "Reducing the solvent polarity results in poor solubilization of the starting materials.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is EMIm-Br considered hygroscopic according to the text?",
+      "answer": "EMIm-Br is considered hygroscopic because it contains a significant amount of water even after a moderate drying process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of water in EMIm-Br affect the crystallization of coordination polymers?",
+      "answer": "The trace of water acts as a mineralizer and is essential for the crystallization of the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield of compound 1 when synthesized?",
+      "answer": "75%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural difference between compounds 1 and 2?",
+      "answer": "Compound 1 has a (3,6)-connected net structure, while compound 2 is built from dinuclear Co2 secondary building units arranged in a herringbone packing mode.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does 2,2'-bipyridine play in the synthesis of compound 4?",
+      "answer": "2,2'-bipyridine acts as a co-ligand to help solubilize the starting materials in the EMIm-Tf2N ionic liquid.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The anions of the ionic liquid are incorporated into the resultant materials.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Compound 3 was synthesized using a mixture of EMIm-Br and EMIm-Tf2N.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The use of mixed anion ionic liquids does not affect the product selectivity compared to single anion liquids.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The solvent used for the synthesis of compound 4 was EMIm-Tf2N.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ionic liquid anions are incorporated into the resultant materials.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of compound 2 requires a 1:1 molar ratio mixture of EMIm-Br and EMIm-Tf2N.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of water in the ionic liquid is detrimental to the crystallization of coordination polymers.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The cations of the ionic liquid are not incorporated into the resultant materials.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

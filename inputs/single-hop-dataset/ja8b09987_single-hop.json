@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the crystal system of as-synthesized kgmSMe (State I)?",
+      "answer": "Trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the exfoliation of layered MOFs?",
+      "answer": "Gentle stirring of a MeTHF (1 mg/mL) suspension of bilayer-expanded kgmSMe (State II) at 20 °C for 24 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of kgmSMe involve the use of pyridine?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of as-synthesized kgmOMe (State I)?",
+      "answer": "P –3 m 1 (#164)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature used during the single crystal X-ray diffractometry of as-synthesized kgmSMe (State I)?",
+      "answer": "93 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the interlayer distance of kgmSMe in the bilayer-expanded state (State II) longer than in the as-synthesized state (State I)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the density (calculated) of as-synthesized kgmSMe (State I)?",
+      "answer": "1.416 g cm–3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent was used for the synthesis of kgmSMe?",
+      "answer": "MeOH",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the exfoliation process of kgmSMe into nanosheets require the use of surfactants?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used to prepare samples for TEM analysis?",
+      "answer": "Dropping 10 µL of kgmSMe dispersions on a copper-supported ultrathin carbon film and drying in air.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of iodomethane in the synthesis of 5-methylthioisophthalic acid (SMe-H2ip)?",
+      "answer": "It is used in the methylation step.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the kgmSMe crystal structure reversible upon solvent removal?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference between kgmSMe and kgmOMe regarding their synthesis conditions?",
+      "answer": "The main difference is the use of 5-methylthioisophthalic acid (SMe-H2ip) for kgmSMe and 5-methoxyisophthalic acid (OMe-H2ip) for kgmOMe.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of THF vapor on kgmSMe?",
+      "answer": "It causes interlayer expansion of kgmSMe.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can kgmOMe undergo interlayer expansion in all solvents listed in the synthesis section?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the SQUEEZE command in the context of the crystallographic analysis?",
+      "answer": "It is used for the structure refinement to account for severely disordered guest solvent molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the observed color change of kgmSMe upon exposure to THF vapor?",
+      "answer": "From green to blue",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of 5-methylthioisophthalic acid (SMe-H2ip) a part of the kgmSMe synthesis process?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to obtain the diffuse reflectance spectra of as-synthesized kgmSMe and kgmOMe?",
+      "answer": "JASCO model V-670 UV/VIS/NIR spectrophotometer",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the Hansen solubility parameters in the context of solvent effects on kgmSMe expansion?",
+      "answer": "They were examined to correlate with the observed interlayer expansion profiles of kgmSMe.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

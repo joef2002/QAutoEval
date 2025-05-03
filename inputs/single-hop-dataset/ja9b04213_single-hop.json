@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the maximum absorption wavelength of H4TPBD in DMF solution?",
+      "answer": "372 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of [Zn2(TPBD)(DMAc)2]?",
+      "answer": "Monoclinic, P21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the excitonic coupling analysis in the study?",
+      "answer": "Dipole-dipole approximation",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the enhancement factor (ξ) for the TPA cross-sections of [Cd2(TPBD)(H2O)4] compared to [Zn2(TPBD)(DMAc)2]?",
+      "answer": "9.38",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of high frequency phenyl-ring stretching modes in the photoluminescence spectrum of H4TPBD?",
+      "answer": "They contribute to the vibronic coupling in the coordination polymer compounds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the thermal stability range of [Zn2(TPBD)(DMAc)2]?",
+      "answer": "Stable up to 450 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main feature observed in the Raman spectra of [Zn2(TPBD)(DMAc)2] and [Cd2(TPBD)(H2O)4]?",
+      "answer": "Phenyl ring stretching modes",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the calculated excitonic splitting energies in the study?",
+      "answer": "They help in understanding the redshift in the absorbance, reflectance, and PLE spectra compared to H4TPBD.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the external quantum yield (EQY) of [Cd2(TPBD)(H2O)4]?",
+      "answer": "52%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used for the quantum chemical calculations in the study?",
+      "answer": "Density Functional Theory (DFT) and Time-Dependent Density Functional Theory (TD-DFT)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the Squeeze routine of Platon in the study?",
+      "answer": "It was used to treat disordered solvent molecules as diffuse contributions without specific positions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the two-photon absorption properties analyzed in the study?",
+      "answer": "They provide insights into the structure-related enhancement of two-photon absorption of the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system and space group of [Cd2(TPBD)(H2O)4]?",
+      "answer": "Triclinic, P-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the excitonic coupling strength calculated in the study?",
+      "answer": "It helps in understanding the photophysical response of the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the cam-B3LYP functional in the computational analysis?",
+      "answer": "It was used for all quantum chemical calculations due to its compliance with the measured spectra.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the vibronic analysis conducted in the study?",
+      "answer": "It supports the coupling to high frequency vibronic modes in the coordination polymer compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the solid-state two-photon excited fluorescence method used in the study?",
+      "answer": "It enables the comparison of the two-photon absorption cross-section ratios of the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the atomic centered transition density matrix analysis?",
+      "answer": "It provides insights into the delocalized states and charge-transfer participation in the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photophysical response of the coordination polymers limited to classical dipole-dipole interactions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study provide absolute two-photon absorption cross-section values for the coordination polymers?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

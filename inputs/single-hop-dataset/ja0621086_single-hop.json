@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MIL-96?",
+      "answer": "Al12O(OH)18(H2O)3(Al2(OH)4)[btc]6·24H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize MIL-96?",
+      "answer": "Hydrothermal synthesis under autogenous pressure from a mixture of aluminum nitrate and 1,3,5-benzenetricarboxylic acid in water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of trimethyl 1,3,5-benzenetricarboxylate in the synthesis of MIL-96?",
+      "answer": "It is used as a starting reactant in an alternative synthesis route for growing well-defined single crystals of MIL-96.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structural feature does MIL-96 exhibit?",
+      "answer": "MIL-96 exhibits a three-dimensional framework containing isolated trinuclear µ3-oxo-bridged aluminum clusters.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated pore volume of the largest cage in MIL-96?",
+      "answer": "635 Å3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water affect the adsorption of gases in MIL-96?",
+      "answer": "The presence of water may limit the free volume for probe molecules and hinder the adsorption of gases like methane due to its dimension being very close to that of the pore apertures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the hydrogen storage capacity of MIL-96 at 77 K under 3 bar?",
+      "answer": "1.91 wt %",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption process of hydrogen in MIL-96 fast or slow?",
+      "answer": "Slow, as the thermodynamic equilibrium was reached only after 6 to 7 hours.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of carbon dioxide in MIL-96 occurs with an initial enthalpy of around 33 kJ·mol-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The structure of MIL-96 collapses upon water removal.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The µ3-oxo-centered trinuclear aluminum motif is a common feature in aluminum chemistry.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of HF and TEOS in the synthesis of MIL-96?",
+      "answer": "They are used for their mineralizing effect under hydrothermal conditions, inducing increased crystallinity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of methane in MIL-96 is not affected by the framework charge.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the adsorption of nitrogen in MIL-96?",
+      "answer": "Almost no uptake was observed for nitrogen adsorption at 77 K, likely due to temperature differences of the experiments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms for carbon dioxide and methane in MIL-96 show saturation at 10 bar.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the µ3-oxo-centered trinuclear aluminum motif in MIL-96?",
+      "answer": "It is the first time such a configuration is observed in aluminum chemistry, and it contributes to the unique structure of MIL-96.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of methane in MIL-96 is rapid and reaches equilibrium quickly.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the trimesate ligand in the structure of MIL-96?",
+      "answer": "The trimesate ligand interacts strongly with both the oxo-centered trimeric aluminum units and the 2D network of aluminum octahedra, ensuring the cohesion of the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of carbon dioxide in MIL-96 is enhanced by the electronegativity of the framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the small pore opening size on the adsorption process in MIL-96?",
+      "answer": "The small pore opening size slows down the diffusion kinetics of gases within the framework, affecting the adsorption process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the microporous metal−organic framework discussed?",
+      "answer": "[Zn2(oba)2(bpy)]·DMA",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the detection of high explosives as mentioned in the text?",
+      "answer": "Fluorescence quenching",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 4,4′-bipyridine in the structure of the microporous metal−organic framework?",
+      "answer": "It acts as a linker between the paddle-wheel units from two adjacent layers.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What effect do nitroaromatics have on the fluorescence of the framework?",
+      "answer": "They act as fluorescence quenchers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Which compound showed the most significant fluorescence enhancement among group B analytes?",
+      "answer": "Toluene",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of the microporous metal−organic framework stable upon removal of guest DMA molecules by heating at 160 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DMNB show a significant quenching effect in the framework?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the fluorescence quenching mechanism for the detection of explosives based on the donor−acceptor electron-transfer mechanism?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework demonstrate unique selectivity towards different groups of nitroaromatics and high explosives?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the framework be fully regenerated after each measurement by heating it at 150 °C for a few minutes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the smallest cross-section of the channels in the framework approximately 5.8 Å × 8.3 Å?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of electron-donating groups in analytes lead to fluorescence quenching?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the emission wavelength of the framework upon excitation at 280 nm?",
+      "answer": "420 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the solvent-accessible volume in the framework's structure?",
+      "answer": "It indicates the percentage of the framework volume accessible to solvent molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the electronic structure of the framework contribute to its sensing capabilities?",
+      "answer": "The electronic structure facilitates exciton migration and electrostatic interaction with analytes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the solvent DMA in the synthesis of the framework?",
+      "answer": "DMA acts as a solvent in the solvothermal reaction to form the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the framework's structure change upon exposure to nitroaromatic analytes?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of electron-withdrawing groups on the fluorescence of the framework?",
+      "answer": "They lead to fluorescence quenching.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Zn2(oba)4 paddle-wheel secondary building unit in the framework?",
+      "answer": "It is a structural component that helps form the porous 3D network.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of heating the framework at 150 °C on its fluorescence properties?",
+      "answer": "It regenerates the framework, restoring its fluorescence properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "materials": [
+    {
+      "name": "[La(BTB)H2O] · solvent (1⊃guest)",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "precursors": [
+          "H3BTB",
+          "La(NO3)3 · 6H2O"
+        ],
+        "solvents": [
+          {
+            "name": "N,N′-dimethylformamide/methanol/H2O",
+            "ratio": "3:3:0.5",
+            "amounts": "2 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "two days",
+        "yield": "63% (based on the ligand)",
+        "equipment": "glass container tightly capped with a Teflon vial",
+        "washing_method": "methanol exchange for three days, decanted every 8 hours",
+        "drying_method": "heating at 130 °C under dynamic high vacuum for 30 h",
+        "activation_method": "degassed under high vacuum at 130 °C for 30 h"
+      }
+    }
+  ]
+}

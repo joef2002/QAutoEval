@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of molecular sieving in separation processes?",
+      "answer": "Molecular sieving can lead to ultrahigh selectivity and low regeneration energy because it completely excludes all larger molecules via a size restriction mechanism.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in achieving molecular sieving?",
+      "answer": "The main challenge in achieving molecular sieving is the precise design and control of pore size.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of MOFs makes them advantageous for engineering pore sizes and shapes?",
+      "answer": "MOFs are advantageous for engineering pore sizes and shapes due to their designable framework/pore structures.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is framework flexibility considered a problem for achieving molecular sieving effect?",
+      "answer": "Framework flexibility is considered a problem for achieving molecular sieving effect because it is the main issue for the kinetic exclusion of oversized molecules.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the key for intermediate-sized molecular sieving (iSMS)?",
+      "answer": "Controlling/restricting flexibility is the key for intermediate-sized molecular sieving (iSMS).",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the high styrene selectivity in mixture adsorption experiments indicate about MAF-41?",
+      "answer": "The high styrene selectivity in mixture adsorption experiments indicates that MAF-41 can effectively separate styrene from its analogues, showcasing its exceptional sieving capability.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conventional molecular sieving mechanism applicable to molecules smaller than the pore apertures?",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the restricted flexibility of MOFs exclude smaller molecules whose adsorption energy is too low?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the adsorption selectivity for styrene over ethylbenzene in MAF-41 exceed previous records?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the superhydrophobicity of MAF-41 beneficial for its stability in water?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MAF-41 maintain its adsorption performance after exposure to humid air?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is MAF-41 capable of producing styrene with a purity of 99.9%+ in a single adsorption-desorption cycle?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the exclusion of smaller molecules like benzene and toluene from MAF-41 rely on a kinetic mechanism?",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the hinged-fence-type topology play in MAF-41?",
+      "answer": "The hinged-fence-type topology in MAF-41 allows the aperture shape and size to vary in a predictable and controllable manner, which is crucial for realizing the molecular sieving effect.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does MAF-41 achieve its molecular sieving effect for styrene?",
+      "answer": "MAF-41 achieves its molecular sieving effect for styrene through the adsorption of styrene but complete exclusion of larger analogues like ethylbenzene and smaller molecules like toluene/benzene due to size restriction and insufficient adsorption energy.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the superhydrophobic property of MAF-41?",
+      "answer": "The superhydrophobic property of MAF-41 is significant because it contributes to its high chemical stability and makes it an ideal adsorbent for working under humid conditions without requiring additional energy-consuming drying processes.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the thermal stability of MAF-41 indicate about its potential applications?",
+      "answer": "The thermal stability of MAF-41, withstanding temperatures above 500 °C, indicates its potential for applications in environments requiring high thermal resistance.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the design of MAF-41's pore system contribute to its selective adsorption capabilities?",
+      "answer": "The design of MAF-41's pore system, featuring intermediate-sized molecular sieving with restricted flexibility, contributes to its selective adsorption capabilities by combining kinetic and thermodynamic guest exclusion mechanisms.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of CO2 at 195 K higher than that of N2 at 77 K in MAF-41?",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of trifluoromethyl groups in MAF-41 contribute to its superhydrophobicity?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using pseudorotaxane-like Zn-based MOFs in the synthesis process?",
+      "answer": "To perform regioselective photodimerization of trans-4-styrylpyridine derivatives by confining pairs of coordinated 4-spy derivative ligands within hexagonal windows and then irradiating them with UV light.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the ether bond in the CH3O-spy-based MOF during the synthesis?",
+      "answer": "The ether bond is employed to protect the sensitive -OH group of HO-spy, and the methyl group of CH3O-spy is subsequently removed after the formation of the cyclobutane derivative.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does introducing substituents at the 2- or 3-position of the phenyl group of 4-spy affect the rate of the dimerization process?",
+      "answer": "No, it does not significantly affect the rate of the dimerization process except in the case of the strongly electron-withdrawing nitro group where the rate is significantly decreased.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it possible to achieve photodimerization reaction with two different substituted 4-spy ligands in a MOF material?",
+      "answer": "Yes, it is possible to achieve a photodimerization reaction where two different substituted 4-spy ligands are included in such a MOF material.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What is the outcome of the photodimerization reaction in the solid state according to Schmidt's criteria?",
+      "answer": "The photodimerization of olefins can proceed stereoselectively in the solid state when C=C bonds are parallel and the separation between the alkene groups is < 4.2 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of the photodimerization reaction for the ligand with an additional methyl group, (E)-4-(2-(2-methylnaphthalen-1-yl)vinyl)pyridine?",
+      "answer": "No photodimerization occurred for the ligand with an additional methyl group, probably because the additional methyl group hindered the necessary pedal motion process required for the alignment of the double bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the hexagonal window of the MOF accommodate large substrates for photodimerization?",
+      "answer": "No, in the case of even larger substituents, such as anthacyl in (E)-4-(2-(anthracen-9-yl)vinyl)pyridine, the formation of the corresponding complex was inaccessible, presumably because the hexagonal window is not large enough.",
+      "difficulty": "hard",
+      "type": "true or false"
+    },
+    {
+      "question": "What is the effect of the nitro group on the photodimerization reaction rate?",
+      "answer": "The presence of the strongly electron-withdrawing nitro group significantly decreases the rate of the photodimerization reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the formation of cyclobutane derivatives from the photodimerization reaction quantitative?",
+      "answer": "Yes, the intermolecular photodimerization of the pre-organized olefins generates head-to-tail rctt-cyclobutanes in almost quantitative yields and with unique stereo- and regio-selectivities.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What happens to the olefinic protons in the 1H NMR spectrum after photodimerization?",
+      "answer": "Signals associated with the olefinic protons are absent from the spectra after photodimerization.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the ether bond in the synthesis of cyclobutane derivatives?",
+      "answer": "The ether bond is used to protect the sensitive -OH group during the synthesis process.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of substituents at the 2- or 3-position always affect the photodimerization rate?",
+      "answer": "No, the presence of substituents at the 2- or 3-position does not always affect the photodimerization rate, except for the nitro group which significantly decreases the rate.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What is the significance of the hexagonal windows in the MOF structure?",
+      "answer": "The hexagonal windows in the MOF structure allow for the confinement and alignment of olefin pairs necessary for the photodimerization process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the formation of cyclobutane derivatives affected by the size of the substituents?",
+      "answer": "Yes, the formation of cyclobutane derivatives is affected by the size of the substituents, as larger substituents may hinder necessary molecular rearrangements for photodimerization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can cross-dimerization reactions be achieved with the MOF-based approach?",
+      "answer": "Yes, cross-dimerization reactions involving pairs of different ligands can be achieved using the MOF-based approach, leading to the formation of heterodimers.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What is the effect of the MOF-templation method on the formation of photodimers?",
+      "answer": "The MOF-templation method controls the exclusive formation of the hetero-photodimer by steric factors associated with the hexagonal window of the appropriate MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the oba2@ ligands during the photo-irradiation process?",
+      "answer": "The oba2@ ligands, which form the frames of the hexagonal windows, are unaffected by the photo-irradiation process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the formation of cyclobutane derivatives from S-spy ligands in the solid state always successful?",
+      "answer": "No, the formation of cyclobutane derivatives from S-spy ligands in the solid state is not always successful, as it depends on the alignment and separation of the C=C bonds.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What is the outcome of the photodimerization reaction for the ligand with two methyl groups bound to the phenyl ring?",
+      "answer": "The presence of two methyl groups bound to the phenyl ring prevents the necessary pedal motion rearrangement for the alignment of the double bonds, hindering photodimerization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the pseudorotaxane-like arrangement in the MOF structure?",
+      "answer": "The pseudorotaxane-like arrangement in the MOF structure facilitates the confinement and alignment of ligands for effective photodimerization reactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

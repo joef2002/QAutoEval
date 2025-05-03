@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the two novel alkaline earth metal-based MOFs discussed?",
+      "answer": "UoC-9(Ca) and UoC-9(Sr)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does the fluorinated derivative of the BTB-linker introduce to the MOFs' structure?",
+      "answer": "Increased interplanar angles between the inner phenyl and the outer benzoate rings",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is there a phase transition observed for UoC-9(Ca) and UoC-9(Sr) upon cooling?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to UoC-9(Ca) and UoC-9(Sr) upon heating in vacuum or activation with supercritical CO2?",
+      "answer": "They collapse and do not show significant N2 gas uptake",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can UoC-9(Ca) and UoC-9(Sr) regain crystallinity after losing DMF molecules?",
+      "answer": "Yes, when exposed to DMF again",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of fluorine atoms in the guest-host interactions within UoC-9 MOFs?",
+      "answer": "Fluorine atoms do not directly interact with DMF guest molecules but influence the π-systems",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do UoC-9(Ca) and UoC-9(Sr) exhibit permanent porosity?",
+      "answer": "No, they collapse upon heating in vacuum or activation with supercritical CO2",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of interaction is observed between DMF molecules and the 3F-BTB linkers in UoC-9 MOFs?",
+      "answer": "Amide-π-stacking interaction",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the amorphization of UoC-9(Ca) and UoC-9(Sr) reversible?",
+      "answer": "Yes, adding DMF to the amorphous material results in recrystallization",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What method failed to activate UoC-9(Ca) for significant N2 gas uptake?",
+      "answer": "Heating in vacuum, activation with supercritical CO2, and exchanging the embedded solvent",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the phase transition of UoC-9(Ca) and UoC-9(Sr) involve?",
+      "answer": "A transition from space group Ima2 to Pna21",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the pores of UoC-9(Ca) and UoC-9(Sr) be accessed for solvent exchange?",
+      "answer": "Yes, indicating they behave like crystal sponges",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of fluorination on the BTB-linker in terms of MOF structure?",
+      "answer": "It leads to a new topology due to increased interplanar angles",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are direct fluorine contacts to guest molecules significant in UoC-9 materials?",
+      "answer": "No, direct fluorine contacts to guest molecules play only a negligible role",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the amide-π-stacking interaction in UoC-9 MOFs?",
+      "answer": "It suggests a strong attractive guest-host interaction, possibly influencing the MOF formation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the structure of UoC-9(Ca) and UoC-9(Sr) upon solvent loss?",
+      "answer": "They amorphize but can regain crystallinity upon exposure to DMF",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the phase transition of UoC-9(Ca) and UoC-9(Sr) a 1st or 2nd order transition?",
+      "answer": "2nd order phase transition",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to confirm the recrystallization of UoC-9(Ca) after amorphization?",
+      "answer": "PXRD of the solid in sealed capillaries",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the analysis of Hirshfeld-isosurfaces in UoC-9(Ca/Sr) reveal about fluorine's role?",
+      "answer": "Fluorine's secondary effects, such as its inductive influence on π-systems, are more significant than direct R–F⋯guest contacts",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can UoC-9(Ca) and UoC-9(Sr) be considered as candidates for gas storage and separation?",
+      "answer": "Yes, despite their collapsibility upon heating, their unique interactions and reversible amorphization suggest potential",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

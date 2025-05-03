@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework GNU-1?",
+      "answer": "C26 H19 Cu3 N O15",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of GNU-1?",
+      "answer": "orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the gas adsorption measurements for GNU-1a performed?",
+      "answer": "298 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for Grand Canonical Monte Carlo simulations in the study?",
+      "answer": "Materials Studio (MS) 2020 package",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does GNU-1 exhibit good stability in acid-base and water environments?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is GNU-1's structure based on a hexacarboxylate ligand with C2 symmetry?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was GNU-1 synthesized using a ligand conformation preorganization strategy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does GNU-1 have a higher adsorption capacity for CH4 compared to C3H8 and C2H6?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of GNU-1?",
+      "answer": "Cmce",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum uptake of N2 by GNU-1a at 77 K?",
+      "answer": "348 cm3 g−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity of GNU-1a for C3H8/CH4 at 298 K and 1 bar?",
+      "answer": "330.1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir-Freundlich parameter bA for GNU-1a?",
+      "answer": "bA is temperature dependent and calculated using bA0exp(EA/RT)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is GNU-1 capable of completely separating ternary CH4/C2H6/C3H8 mixtures at ambient temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ligand H6bmipia in the structure of GNU-1?",
+      "answer": "It is used to construct MOFs for balancing the adsorption capacity and selectivity for NG upgrading.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does GNU-1 have a unique pore environment for recovering C3H8 and C2H6 from natural gas?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the synthesis yield of the ligand H6bmipia?",
+      "answer": "81.0%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystallographic density (ρcalc) of GNU-1?",
+      "answer": "1.109 g cm-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CCDC deposition number for GNU-1?",
+      "answer": "2233603",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the framework of GNU-1 considered rigid during Grand Canonical Monte Carlo simulations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of GNU-1a?",
+      "answer": "1297 m2 g−1",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

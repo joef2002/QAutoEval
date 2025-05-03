@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "High-Efficiency Lithium-Ion Transport in a Porous Coordination Chain-Based Hydrogen-Bonded Framework",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Zongsu Han, Runhao Zhang, Jialong Jiang, Zhonghang Chen, Youxuan Ni, Weiwei Xie, Jun Xu, Zhen Zhou, Jun Chen, Peng Cheng, and Wei Shi",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main component of the SSE mentioned in the article?",
+      "answer": "Li@NKU-1000",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Li+ conductivity of Li@NKU-1000 at 25 °C?",
+      "answer": "1.13 × 10−3 S cm−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the electrochemical window of the Li@NKU-1000-based SSE?",
+      "answer": "5.0 V",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Li+ transfer number of the Li@NKU-1000-based SSE?",
+      "answer": "0.87",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy for ionic conduction in Li@NKU-1000?",
+      "answer": "0.18 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical current density (CCD) of the Li@NKU-1000-based SSE?",
+      "answer": "3.0 mA cm−2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the capacity retention of the solid-state battery with Li@NKU-1000-based SSE after 500 cycles?",
+      "answer": "94.4%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Young's modulus of Li@NKU-1000?",
+      "answer": "Approximately 10.0 GPa",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Li@NKU-1000-based SSE flame retardant?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Li@NKU-1000-based SSE exhibit a higher ionic conductivity compared to the PVDF-HFP/LiTFSI solid electrolyte?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the electrochemical stability window of the Li@NKU-1000-based membrane lower than 5.0 V?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the Li@NKU-1000-based SSE operate over a wide temperature range?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Li@NKU-1000-based SSE suppress lithium dendrite growth?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Li@NKU-1000-based SSE based on a two-dimensional framework?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Li@NKU-1000-based SSE have a Li+ transfer number lower than 0.5?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Young's modulus of NKU-1000 higher than that of Li@NKU-1000?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Li@NKU-1000 in the solid-state electrolyte?",
+      "answer": "Li@NKU-1000 serves as the main component of the SSE, providing high Li+ conductivity, flame retardancy, and suppressing lithium dendrite growth.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Li@NKU-1000-based SSE achieve high ionic conductivity?",
+      "answer": "The high ionic conductivity is achieved through the porous coordination chain-based hydrogen-bonded framework of Li@NKU-1000, which contains arrayed electronegative sites for efficient Li+ transport.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

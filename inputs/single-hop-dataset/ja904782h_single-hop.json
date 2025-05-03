@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest acetylene storage material reported in the study?",
+      "answer": "HKUST-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF has the smallest adsorption enthalpies for C2H2?",
+      "answer": "ZIF-8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of open Cu2+ sites in HKUST-1 for acetylene storage?",
+      "answer": "They contribute significantly to acetylene storage by their strong preferred interactions with acetylene molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MOF-5 has larger pores compared to MIL-53.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to fit the acetylene adsorption isotherm data?",
+      "answer": "A virial type expression",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF exhibits hysteresis sorption behavior?",
+      "answer": "MOF-508",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Cu−C bonding distance in HKUST-1 when loaded with acetylene?",
+      "answer": "2.62 Å",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption enthalpies derived from the Clausius−Clapeyron equation are systematically higher than those from the virial method.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Langmuir surface area of MOF-5?",
+      "answer": "3610 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The acetylene uptake at 295 K and 1 atm for ZIF-8 is higher than for MOF-5.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pressure of acetylene at 295 K corresponding to the calculated density of adsorbed acetylene in bulk material for HKUST-1?",
+      "answer": "19.3 MPa",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of acetylene in HKUST-1 at room temperature is 201 cm3/g at 1 atm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of interaction is predominant at the cage-window site in HKUST-1 for C2H2 binding?",
+      "answer": "Typical van der Waals type",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The open Cu2+ sites within HKUST-1 and MOF-505 significantly enhance their interactions with acetylene molecules.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated static C2H2 binding energy for the open Cu2+ site in HKUST-1 using LDA?",
+      "answer": "44.8 kJ/mol",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorbed C2H2 molecule in HKUST-1 is slightly distorted with an induced dipole moment.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of immobilizing open metal sites in MOFs for acetylene storage?",
+      "answer": "To enhance their interactions with acetylene molecules for high acetylene storage at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The theoretical maximum amount of stored acetylene gas by open Cu2+ sites and the entrance window of a small cage in HKUST-1 corresponds to 1.67 C2H2 per Cu.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Clausius−Clapeyron equation in the study?",
+      "answer": "It was used to calculate the adsorption enthalpies of acetylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of acetylene in MOF-508 can be saturated at low pressure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

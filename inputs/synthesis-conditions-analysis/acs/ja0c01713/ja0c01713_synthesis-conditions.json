@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "M6HOTP2 (M = Y, La, Eu)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "N,N'-dimethylimidazolidinone (DMI)",
+            "amount": "0.8 mL"
+          },
+          {
+            "name": "deionized and deoxygenated water",
+            "amount": "7.2 mL"
+          }
+        ],
+        "temperature": "160 °C",
+        "time": "11 hours",
+        "equipment": "PTFE-lined stainless steel autoclave",
+        "chemicals_used": [
+          {
+            "name": "HHTP",
+            "amount": "0.12 mmol"
+          },
+          {
+            "name": "M(NO3)3∙nH2O",
+            "amount": "9.6 mmol"
+          }
+        ],
+        "washing_method": [
+          "5 soaks in deionized and deoxygenated water",
+          "5 soaks in methanol",
+          "5 soaks in acetonitrile"
+        ],
+        "drying_method": "in vacuo",
+        "yield": "not specified",
+        "additional_information": "For Eu6HOTP2, contaminated with small amounts of needle-shaped crystals of unwanted phases, removed by soaking the powder in hot (80 °C) 1% acetic acid twice in-between the first two water soaks."
+      }
+    },
+    {
+      "name": "Y6HOTP2",
+      "electrical_conductivity_measurements": {
+        "temperature": "302 K",
+        "method": "Two-contact probe measurements",
+        "results": [
+          {
+            "batch": "1",
+            "conductivity": "9(5) × 10−6 S/cm"
+          },
+          {
+            "batch": "2",
+            "conductivity": "5.1(21) × 10−5 S/cm"
+          },
+          {
+            "batch": "3",
+            "conductivity": "3.7(6) × 10−5 S/cm"
+          }
+        ],
+        "additional_information": "Measurements performed on activated materials. The materials retained crystallinity after the measurements."
+      }
+    },
+    {
+      "name": "Eu6HOTP2",
+      "electrical_conductivity_measurements": {
+        "temperature": "302 K",
+        "method": "Two-contact probe measurements",
+        "results": [
+          {
+            "batch": "1",
+            "conductivity": "1.48(15) × 10−6 S/cm"
+          }
+        ],
+        "additional_information": "Measurements performed on activated materials. The materials retained crystallinity after the measurements."
+      }
+    }
+  ]
+}

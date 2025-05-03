@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the full chemical name of the coordination polymer that undergoes topochemical transformation?",
+      "answer": "[{(CF3CO2)(m-O2CCH3)Zn}2(m-bpe)2]n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of photochemical reaction is involved in the transformation of the coordination polymer?",
+      "answer": "[2+2] photochemical cycloaddition",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the topochemical transformation?",
+      "answer": "Up to 100%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the resulting compound after the topochemical transformation?",
+      "answer": "[{(F3CCO2)(m-O2CCH3)Zn}2-(m-tpcb)2]n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of UV irradiation in the transformation process?",
+      "answer": "It triggers the [2+2] photochemical cycloaddition.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structural feature of compound 3 that facilitates the [2+2] cycloaddition?",
+      "answer": "The nonbonding distances between the double bonds of the two bpe ligands in the parallel chains are congenial for the [2+2] cycloaddition.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why was trifluoroacetate used in the synthesis of compound 4?",
+      "answer": "To eliminate the problem of disorder in bpe and facilitate SCSC transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What change occurs in the Zn···Zn distance after the transformation from compound 4 to 5?",
+      "answer": "The Zn···Zn distance increases from 3.747 Å in 4 to 4.162 Å in 5.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the SCSC transformation in the context of the study?",
+      "answer": "It demonstrates the ability to maintain the crystalline structure while undergoing chemical transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the molecular ladder structure of the coordination polymer contribute to its photochemical reactivity?",
+      "answer": "The structure aligns photoreactive double bonds in the solid state, facilitating the [2+2] cycloaddition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of metal complexes in the dimerization, oligomerization, and polymerization of olefins and acetylenes?",
+      "answer": "They are used to align the molecules for cycloaddition to take place in the solid state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the disappearance of signals for the olefinic protons in the 1H NMR spectrum indicate?",
+      "answer": "It indicates the completion of the [2+2] cycloaddition reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SCSC transformation always results in a change in the crystal morphology.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The quantitative photoreactivity of compound 3 is evident from the 1H and 13C NMR spectra of the irradiated product.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Zn···Zn distance in compound 3 is shorter than that in compound 1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The SCSC transformation can only occur in the presence of UV irradiation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The use of coordination polymers in topochemical photodimerization reactions is a well-established practice.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adjacent ladders in compound 4 are slip-stacked in a way that facilitates the [2+2] cycloaddition.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The SCSC transformation from compound 4 to 5 results in a decrease in the Zn···Zn distance.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The formation of new bonds across the vertical strands in compound 5 was unexpected.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

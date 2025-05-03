@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the Ti(IV)-based MOF reported?",
+      "answer": "NTU-9",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the bandgap value of NTU-9?",
+      "answer": "1.72 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is NTU-9 photoactive under visible light?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of semiconductor behavior does NTU-9 exhibit?",
+      "answer": "p-type semiconductor behavior",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can NTU-9 be used for energy conversion and environmental remediation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Ti(IV) in the photocatalytic activity of NTU-9?",
+      "answer": "Ti(IV) contributes to the conduction bands above Fermi energy, indicating its role in photocatalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated carrier density of NTU-9?",
+      "answer": "About 10^15 cm^-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does NTU-9 show good photocatalytic activity in the degradation of rhodamine B under visible light?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the absorption range of NTU-9?",
+      "answer": "From 400 nm to 750 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photocatalytic degradation of methylene blue by NTU-9 faster than that of rhodamine B?",
+      "answer": "Yes, methylene blue degrades in 20 min while rhodamine B takes 80 min.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the flat-band potential of NTU-9?",
+      "answer": "Around 0.76 V vs. the reversible hydrogen electrode (RHE)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does NTU-9 maintain its crystalline structure after removal of guest molecules?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of NTU-9?",
+      "answer": "Acetic acid is used as a solvent in the reaction mixture for the synthesis of NTU-9.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the bandgap being 1.72 eV for NTU-9?",
+      "answer": "It allows NTU-9 to absorb a broad range of visible light, enhancing its photocatalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is NTU-9 stable in water and common organic solvents?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination geometry of the Ti center in NTU-9?",
+      "answer": "The Ti atom is octahedrally coordinated with six oxygen atoms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the photocurrent response of NTU-9 under visible light indicate its semiconductor type?",
+      "answer": "The repeatable cathodic photocurrent suggests that NTU-9 is a p-type semiconductor.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of uncoordinated O atoms in NTU-9 contribute to its photocatalytic activity?",
+      "answer": "Yes, because they point to the 1-D channels, potentially facilitating the photocatalytic process.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the negative slope in the Mott–Schottky measurement of NTU-9?",
+      "answer": "It indicates the p-type behavior of NTU-9.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis method contribute to the photocatalytic efficiency of NTU-9?",
+      "answer": "The synthesis method, involving the reaction of titanium isopropoxide with H4DOBDC in acetic acid, results in a MOF with strong visible-light absorption and efficient photocatalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

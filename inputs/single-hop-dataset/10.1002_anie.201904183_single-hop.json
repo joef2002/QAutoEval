@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the paper?",
+      "answer": "10.1002/anie.201904183",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structure was synthesized using A1/A2-thiopyridyl pillar[5]arene L and silver(I) trifluoroacetate?",
+      "answer": "A two-dimensional (2D) poly-pseudo-rotaxane",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The C8 guest molecule only threads into the pillar[5]arene unit in the structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the C8 guest molecule in the structure?",
+      "answer": "The C8 guest molecule threads into the pillar[5]arene unit and also crosslinks the 1D coordinative polymeric arrays.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The formation of the 2D poly-pseudo-rotaxane is driven by an adaptive rearrangement that minimizes steric clashes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula for the 2D poly-pseudo-rotaxane synthesized?",
+      "answer": "{[(m4-Ag)2(C8@L)2(m-C8)](CF3CO2)2}n",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The 2D poly-pseudo-rotaxane structure is the first example of its kind.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the length of the dinitrile guest in the synthesis?",
+      "answer": "The length of the dinitrile guest influences the structures of the corresponding poly-pseudo-rotaxane products.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The pillar[5]arene unit in the 2D poly-pseudo-rotaxane is significantly tilted.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome when C3–C7 guests are used instead of C8?",
+      "answer": "No products were isolated when C3–C7 guests were used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The 1D coordination polymer 1 can directly transform into the 2D poly-pseudo-rotaxane 3.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the crystalline product 3?",
+      "answer": "50%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the configuration of the threading C8 guest differ from the crosslinking C8 guest?",
+      "answer": "The threading C8 guest shows a G-T-T-T-T-T-T arrangement, while the crosslinking C8 guest has a T-T-T-T-T-T-T configuration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CF3COO@ ions remain uncoordinated in the 2D poly-pseudo-rotaxane structure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of silver(I) trifluoroacetate in the synthesis?",
+      "answer": "Silver(I) trifluoroacetate is used to form the coordination network in the poly-pseudo-rotaxane structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 2D poly-pseudo-rotaxane structure can be exfoliated into multi-layered sheets.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What changes occur in the position of C8 during the formation of the 2D poly-pseudo-rotaxane?",
+      "answer": "A 'pulling up' of C8 of around 3 c and the bending of one terminus to give a hooklike shape.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination environment of the AgI atom in the 1D coordination polymer 1?",
+      "answer": "The AgI atom is five-coordinate, with AgI bound to two nitrogen donors from two different L ligands and one CF3COO@ ion in a bidentate manner.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The signals of the C8 guest in the NMR spectra for 3 show a remarkable broadening due to the highly restricted network structure.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed pathway for the formation of the 2D poly-pseudo-rotaxane?",
+      "answer": "The pathway involves initial threading of C8 into L to form a pseudo-rotaxane, followed by coordinative polymerization to form a 1D ladder-like poly-pseudo-rotaxane intermediate, and finally crosslinking by other C8 guests to form the 2D structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

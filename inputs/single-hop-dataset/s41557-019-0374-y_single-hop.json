@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for DMOF-TM?",
+      "answer": "Zn2(BDC-TM)2(DABCO)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of polycrystalline DMOF-TM samples?",
+      "answer": "Solvothermal synthesis procedure",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the DMOF-TM sample heated to remove residual methanol during in situ powder diffraction experiments?",
+      "answer": "250 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of adding hydrochloric acid in the synthesis of crystals suitable for SCXRD analysis?",
+      "answer": "To inhibit the immediate reaction of linker and zinc atoms",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What space group was found for all SCXRD structures of DMOF-TM?",
+      "answer": "P4/nbm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the lattice volume of DMOF-TM in regime 1 during water adsorption?",
+      "answer": "The lattice volume undergoes a contraction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the water-induced structural change in DMOF-TM reversible?",
+      "answer": "Yes, the structural changes are reversible",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analysis was used to visualize the preferred crystallographic sites for water in DMOF-TM?",
+      "answer": "Difference envelope density maps",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the experimental microstrain plot for the evacuated structure of DMOF-TM indicate?",
+      "answer": "Microstrain arises from non-uniform lattice distortions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the inverse correlation between experimental microstrain and calculated Young's modulus imply?",
+      "answer": "Refinement of powder diffraction data may be used to understand the Young's modulus of MOFs",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does DMOF-TM maintain its porosity and crystallinity after moisture exposure?",
+      "answer": "Yes, DMOF-TM maintains its porosity and crystallinity after moisture exposure",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of methyl groups in the terephthalate ligand of DMOF-TM?",
+      "answer": "Methyl groups play a critical role in improving the material's moisture stability",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was used to control the relative humidity of the sample environment during in situ powder diffraction experiments?",
+      "answer": "The ratio of mass flow rates of a humidified and dry helium stream",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What software was used for Pawley refinement of the in situ powder diffraction data?",
+      "answer": "GSAS-II software",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the Rietveld refinement agreement for DMOF-TM before moisture exposure?",
+      "answer": "The Rietveld refinement agreement was obtained using the single-crystal XRD model derived from experiments",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What did the molecular modelling studies suggest about the water-induced contraction behaviour observed in DMOF-TM?",
+      "answer": "The water-induced contraction behaviour was attributed to distinct effects other than strain-induced deformation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What did the in situ IR spectroscopy experiments indicate about the water-induced defects?",
+      "answer": "The water-induced defects are removed upon heating",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What did the theoretical calculations indicate about the orientation of the BDC-TM ligand in DMOF-TM?",
+      "answer": "The orientation of the BDC-TM ligand enables highly favourable water hydrogen bonding interactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What did the dynamic in situ SCXRD experiments investigate?",
+      "answer": "The structural response of DMOF-TM to varied relative humidity environments",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What did the analysis of the difference envelope density from powder diffraction data provide?",
+      "answer": "Insight into scenarios where unwanted water co-adsorption may occur",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of synthesizing phosphoryl-rich flame-retardant ions (FRIONs)?",
+      "answer": "The purpose is to impart flame-retardant properties for their use as potential flame-retardant ions (FRIONs), additives, or replacements for other lithium salts for safer lithium-ion batteries.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the names of the four lithium salts mentioned in the text?",
+      "answer": "Li[B(DPC)(oxalato)], Li[B(DPC)2], Li[B(DPC)F2], and Li[P(DPC)3].",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to fully characterize the new materials?",
+      "answer": "The new materials were fully characterized using single-crystal structures determination and thermogravimetric analysis.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the lithium ion in Li[B(DPC)(oxalato)] tetrahedrally coordinated?",
+      "answer": "Yes, the lithium ion in Li[B(DPC)(oxalato)] is tetrahedrally coordinated.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage of Li[B(DPC)2] when synthesized?",
+      "answer": "73%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of Li[P(DPC)3] involve the evolution of HCl gas?",
+      "answer": "Yes, the synthesis of Li[P(DPC)3] involves the evolution of HCl gas.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary component of lithium-ion batteries (LIBs) mentioned in the text?",
+      "answer": "The primary component of LIBs mentioned is the electrolyte.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the text, can FRIONs potentially replace conventional lithium salts without loss of LIB capacity?",
+      "answer": "Yes, FRIONs can potentially replace conventional lithium salts without jeopardizing the loss of LIB capacity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of adding flame-retardant compounds to the electrolyte solution?",
+      "answer": "The result is a reduction in the flammability of the electrolyte solution.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did FRION 1 have issues with low yields and limited solubility?",
+      "answer": "Yes, FRION 1 suffered from low yields and limited solubility.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of replacing the two phosphinato groups in FRION 1?",
+      "answer": "The purpose was to enhance the thermal stability of FRIONs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the thermal gravimetric analysis reveal about the new FRIONs?",
+      "answer": "It reveals that each material is stable up to around 200 8C, with Li[B(DPC)F2] showing additional stability up to 280 8C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the new FRIONs expected to have reduced flammability based on PCFC results?",
+      "answer": "Yes, the PCFC results show that these new ions have reduced flammability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of the two O = P(OMe)2 units do to the energy of the HOMO orbital?",
+      "answer": "It drives the energy of the HOMO orbital down by 0.83 eV.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is LiBOB considered the least flammable material tested based on the data?",
+      "answer": "Yes, LiBOB is considered the least flammable material tested based on the data.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of higher char yields on total heat release?",
+      "answer": "Higher char yields are responsible for lower total heat release as more of the structure is bound up as char.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the utility of anions in LIBs depend on their stability under a range of oxidation potentials?",
+      "answer": "Yes, the utility of anions in LIBs depends on their stability under a range of oxidation potentials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to predict the oxidative stability of catechol borate anions?",
+      "answer": "The computational method used was DFT B3LYP 6-311 ++ G(2df,2p) for structure minimization and HF 6-311 ++ G(3df,3dp) for a single point calculation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield percentage of Li[P(DPC)3] when synthesized?",
+      "answer": "96.4%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are electrochemical measurements underway to examine the behavior and performance of the new FRIONs in LIBs?",
+      "answer": "Yes, electrochemical measurements are now underway to examine the behavior and performance of the new FRIONs in LIBs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

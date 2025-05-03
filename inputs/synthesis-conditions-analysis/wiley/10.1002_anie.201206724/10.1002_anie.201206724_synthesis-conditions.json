@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Linear bichelating ligand L",
+      "synthesis_conditions": {
+        "temperature": "70 8C",
+        "solvents": ["EtOH", "MeOH"],
+        "amount_of_each_solvent": "100 mL (1:1 ratio)",
+        "equipment": null,
+        "chemicals_used": ["4,4’-ethylenedianiline (5 g, 0.0235 mol)", "2-pyridine carboxaldehyde (5.034 g, 0.047 mol)"],
+        "time": "3 h",
+        "washing_method": "washed with EtOH and MeOH",
+        "drying_method": "dried under vacuum",
+        "yield": "high yield",
+        "additional_notes": "The product is a light-yellow solid."
+      }
+    },
+    {
+      "name": "Compound 1a",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": ["CH2Cl2", "MeOH", "benzene"],
+        "amount_of_each_solvent": "CH2Cl2 (1 mL), MeOH (1 mL), benzene (1 mL)",
+        "equipment": "glass tube",
+        "chemicals_used": ["Zn(NO3)2 (29.74 mg)", "L (39 mg)"],
+        "time": "15 days",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": "approximately 60 %",
+        "additional_notes": "Rod-like yellow crystals suitable for X-ray studies were obtained."
+      }
+    },
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": null,
+        "amount_of_each_solvent": null,
+        "equipment": null,
+        "chemicals_used": null,
+        "time": "about 1.5 h",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_notes": "When parent crystals of compound 1a were taken out of the mother liquor and kept in open air, they changed to compound 1."
+      }
+    },
+    {
+      "name": "Anion-exchanged compounds",
+      "synthesis_conditions": {
+        "temperature": null,
+        "solvents": ["methanol"],
+        "amount_of_each_solvent": null,
+        "equipment": null,
+        "chemicals_used": ["NaN3", "KSCN", "NaClO4", "NaN(CN)2"],
+        "time": "5 days",
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null,
+        "additional_notes": "Crystals of compound 1 were immersed in separate methanolic solutions with an excess of the mentioned anions. Complete exchange of anions occurred within five days."
+      }
+    }
+  ]
+}

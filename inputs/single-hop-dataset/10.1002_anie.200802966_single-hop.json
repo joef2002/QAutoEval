@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the first dinuclear Dysprosium(III) Single-Molecule Magnet mentioned?",
+      "answer": "[Dy2(hmi)2(NO3)2(MeOH)2] (1)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent mixture was used to obtain [Dy2(hmi)2(NO3)2(MeOH)2]1·MeCN (2·MeCN)?",
+      "answer": "A 3:1 mixture of acetonitrile and methanol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the complex [Dy2(hmi)2(NO3)2(MeOH)2] (1)?",
+      "answer": "Monoclinic P21/c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What property of dysprosium-based materials has increased interest in the area of molecular magnetism?",
+      "answer": "Large intrinsic magnetic anisotropy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the H2hmi ligand in the synthesis of dinuclear dysprosium(III) SMMs?",
+      "answer": "It acts as a rigid chelate providing O,N,O,O-based multichelating sites favorable for lanthanide ion complex formation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the expected value of cT for two dysprosium(III) ions at room temperature?",
+      "answer": "28.34 cm3 K mol-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why are pure lanthanide SMMs relatively scarce?",
+      "answer": "Due to the difficulty in promoting magnetic interactions in these systems.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the ligand design contribute to the synthesis of high-energy-barrier SMMs?",
+      "answer": "By promoting ferromagnetic interaction between the dysprosium(III) ions and organizing the SMMs into networks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the slow relaxation of magnetization in dysprosium(III) cores?",
+      "answer": "An out-of-phase ac susceptibility signal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the cT product at low temperatures for complexes 1 and 2?",
+      "answer": "It increases sharply to a maximum value, suggesting the presence of intramolecular ferromagnetic interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the absence of the M vs. H hysteresis loop above 1.8 K indicate?",
+      "answer": "The presence of a relatively fast zero-field relaxation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What effect does an applied dc field have on the relaxation time of complexes 1 and 2?",
+      "answer": "It significantly increases the relaxation time under certain conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the H2hmi ligand used in the synthesis of dinuclear dysprosium(III) SMMs a linear ligand?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do complexes 1 and 2 have the same space group?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic anisotropy of dysprosium-based materials considered small?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the magnetic properties of 1 and 2 expected to be different due to their structural differences?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of intramolecular ferromagnetic interactions decrease at low temperatures?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the relaxation time for both compounds under a dc field unrelated to the zero-field measurements?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the application of a dc field always minimize quantum relaxation effects?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is complex 2 reported to have the largest energy barrier among lanthanide complexes?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

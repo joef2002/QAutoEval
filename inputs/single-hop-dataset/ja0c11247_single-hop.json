@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Pore Engineering for One-Step Ethylene Purification from a Three-Component Hydrocarbon Mixture",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Baoyong Zhu, Jian-Wei Cao, Soumya Mukherjee, Tony Pham, Tao Zhang, Teng Wang, Xue Jiang, Katherine A. Forrest, Michael J. Zaworotko, and Kai-Jie Chen",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on the synthesis of three new isostructural porous coordination networks (NPU-1, NPU-2, NPU-3) for selective adsorption of C2H2 and C2H6 over C2H4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the names of the three new isostructural porous coordination networks reported?",
+      "answer": "NPU-1, NPU-2, and NPU-3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the composition of the hexanuclear metal cluster used in the synthesis of NPU-1/2/3?",
+      "answer": "[Mn6(μ3-O)2(CH3COO)3]6+",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purity of ethylene produced by NPU-1 from a three-component gas mixture?",
+      "answer": ">99.9%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which NPU material demonstrated the ability to produce polymer-grade ethylene in a single separation step?",
+      "answer": "NPU-1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NPU-2 and NPU-3 have the same pore size.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the adsorption selectivity of C2H2/C2H4 and C2H6/C2H4?",
+      "answer": "Ideal Adsorbed Solution Theory (IAST)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption selectivity values for C2H2/C2H4 and C2H6/C2H4 were found to be higher for NPU-3 compared to NPU-1 and NPU-2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the hexanuclear Mn cluster in the structure of NPU-1/2/3?",
+      "answer": "It serves as a 9-connected node for the construction of the porous coordination networks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NPU-1/2/3 exhibit a dual cage structure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used for the structural determination of NPU-1/2/3?",
+      "answer": "X-ray crystallography",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption enthalpy for C2H2 is higher than for C2H4 in NPU-1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the pore size variation in NPU-1/2/3?",
+      "answer": "The variation in pore size allows for systematic fine-tuning of cage size to realize selective adsorption of C2H2 and C2H6 over C2H4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Molecular simulations were performed to understand the nature of the binding sites for C2H2, C2H4, and C2H6 in NPU-1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of NPU-1/2/3?",
+      "answer": "3,9-connected network with pacs topology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NPU-1 has the highest BET surface area among NPU-1/2/3.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using NPU-1 for ethylene purification?",
+      "answer": "NPU-1 enables the production of polymer-grade ethylene from a three-component gas mixture in a single separation step with high purity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis conditions for NPU-1/2/3 were identical except for the dicarboxylic acid ligand used.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

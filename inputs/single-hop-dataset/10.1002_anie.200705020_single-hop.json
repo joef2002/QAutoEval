@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application of porous crystals constructed from organic linking units and metal ions or clusters?",
+      "answer": "Applications include catalysis, gas storage, and separations.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does the synthesis of MOF-5 involve?",
+      "answer": "The synthesis of MOF-5 involves combining H2BDC with ZnII.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property does MOF-177 exhibit that makes it exceptional?",
+      "answer": "MOF-177 exhibits exceptional porosity and surface area, boasting the highest reported uptake of hydrogen gas in a physisorptive material.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of combining H2BDC with H3BTB in the presence of zinc nitrate?",
+      "answer": "Combining H2BDC with H3BTB in the presence of zinc nitrate results in a completely new type of structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the optimal mole ratio of H2BDC and H3BTB to produce UMCM-1?",
+      "answer": "The optimal mole ratio of H2BDC and H3BTB to produce UMCM-1 is between 3:2 and 1:1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the internal dimensions of the micropores in UMCM-1?",
+      "answer": "The internal dimensions of the micropores in UMCM-1 are approximately 1.4 nm by 1.7 nm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why are mesoporous coordination polymers more rare than microporous ones?",
+      "answer": "Mesoporous coordination polymers are more rare because as the size of the organic linker increases, the structural integrity of the resulting coordination polymer decreases, which can result in collapse of the pore structure and a loss of crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of UMCM-1 differ from the structures derived from pure linkers?",
+      "answer": "The structure of UMCM-1 dramatically differs from the structures derived from pure linkers, featuring one-dimensional hexagonal channels and a unique arrangement of Zn4O clusters linked by BDC and BTB linkers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the N2 sorption isotherm of UMCM-1 indicate about its porosity?",
+      "answer": "The N2 sorption isotherm of UMCM-1 indicates exceptionally high N2 uptake and a substantial microporous contribution to the sorption behavior, classifying it as type IV.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes UMCM-1 unique compared to other mesoporous materials?",
+      "answer": "UMCM-1 is unique because it possesses both ultra-high surface area typical of microporous coordination polymers and easily accessible mesopores characteristic of mesoporous silicate/aluminosilicates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the probabilistic analysis help in the synthesis of UMCM-1?",
+      "answer": "The probabilistic analysis helps by predicting the ratios of linkers required for discovering new phases, illuminating which combinations of linkers should be examined to reasonably sample phase space.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of using two different topologies of linkers in the production of new porous materials?",
+      "answer": "Using two different topologies of linkers in the production of new porous materials demonstrates a strategy for advancing the functionality of porous solids to new levels and lowering production costs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is UMCM-1 thermally stable?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does UMCM-1 exhibit a higher surface area than any other material reported to date?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the structure of UMCM-1 be obtained by adding precursors in a 1:1.33 ratio of BDC:BTB?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the formation of mesoporous coordination polymers limited by the size of the organic linker?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does UMCM-1's structure contain both micropores and mesopores?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of MOF-177 achieved under the same conditions as MOF-5?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of UMCM-1 require a specific mole ratio of H2BDC to H3BTB?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are mesoporous coordination polymers more common than microporous ones?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

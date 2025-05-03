@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "The CN7− Anion",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Thomas M. Klapötke and Jörg Stierstorfer",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on several salts containing the CN7− anion prepared by deprotonation of 5-azido-1H-tetrazole.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What methods were used for characterizing the compounds mentioned in the article?",
+      "answer": "The compounds were characterized by low temperature single X-ray diffraction, IR and Raman spectroscopy, multinuclear NMR spectroscopy, mass spectrometry, and differential scanning calorimetry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest nitrogen content reported for tetrazole salts in the article?",
+      "answer": "Compound 2 contains the highest nitrogen content (87.48%) of all known tetrazole salts.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the sensitivities of compounds 2, 3, 4, and 5 measured in the article?",
+      "answer": "The impact, friction, and electrical spark sensitivity of compounds 2, 3, 4, and 5 were measured, resulting in values which belong to primary explosives.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the CN7− anion in the development of 'green' energetic materials?",
+      "answer": "The CN7− anion represents a milestone in the development of nitrogen-rich 'green' energetic materials, which are used in high explosives or propellant formulations and exhibit desirable performance characteristics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the compounds containing the CN7− anion considered safe for practical applications according to the article?",
+      "answer": "No, compounds containing the CN7− anion are extremely sensitive and highly energetic, which should be assigned to the class of primary explosive and only be handled with appropriate precautions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bond network in the sensitivity of metal salts mentioned in the article?",
+      "answer": "The sensitivity of metal salts depends on the hydrogen bond network, with the metal salts containing no water molecules being highest in sensitivity and exploding even in concentrated aqueous solutions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method was used to determine the thermodynamic properties of the nitrogen-rich compounds mentioned in the article?",
+      "answer": "The thermodynamic properties of the nitrogen-rich compounds were determined using the complete basis set (CBS) method of Petersson and coworkers.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the CN7− anion described as a pseudohalide in the article?",
+      "answer": "False, the CN7− anion should not be described as a pseudohalide according to the article.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the potential applications of compounds 2, 3, and 4 as mentioned in the article?",
+      "answer": "Compounds 2, 3, and 4 have good detonation values and specific impulses when combusted with suitable oxidizers, making them promising for applications as energetic components in reduced-erosion gun propellants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What safety precautions are recommended when handling the compounds mentioned in the article?",
+      "answer": "Proper protective measures such as safety glasses, face shield, leather coat, earthened equipment and shoes, Kevlar gloves, and ear plugs should be used. All compounds should be stored in explosive cases since they can explode spontaneously.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the decomposition temperature range for compounds 2 to 5?",
+      "answer": "The decomposition temperatures lie in the range 135 to 160 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "2008",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of the CN7− anion on the environmental and strategic interests?",
+      "answer": "The CN7− anion contributes to smokeless combustion, which is of environmental interest and strategically beneficial since it makes detection of a gun, missile, or rocket more difficult.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the nitrogen content of compound 3?",
+      "answer": "Compound 3 contains a nitrogen content of 87.48%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the calculated specific impulses for compounds 2, 3, and 4?",
+      "answer": "The calculated specific impulses for compounds 2, 3, and 4 are not directly provided in the article.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of X-ray diffraction in the characterization of the compounds?",
+      "answer": "X-ray diffraction was used for determining the molecular and crystal structures of different salts containing the CN7− anion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the potential benefit of a 60:40 mixture of compound 2 with ADN according to the article?",
+      "answer": "A 60:40 mixture of compound 2 with ADN possesses a calculated specific impulse higher than that of a mixture of AP/Al commonly used in solid state boosters, indicating its potential as a promising energetic component.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

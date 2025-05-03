@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the electronic configuration of cobalt(III) complexes?",
+      "answer": "Low-spin d6 electronic configuration",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many pentacoordinate complexes of {CoIII(N)5(X)n} species are reported in the CSD?",
+      "answer": "18 pentacoordinate complexes",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of ligand produces stable CoII as well as five- and six-coordinate CoIII complexes?",
+      "answer": "Amine–pyridine-based chelate ligand",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the bispidine derivatives L1a and L2a on the coordination of CoIII complexes?",
+      "answer": "They only produce the usual six-coordinate CoIII complexes",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What unusual geometry was revealed in the crystal-structural analysis of [Cu(L2)]2+?",
+      "answer": "Elongation of the Nar1–Cu–Nar2 bonds and short metal–donor bonds to N3, N7, and Npy3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What stabilizes the intermediate-spin electronic state in CoIII complexes?",
+      "answer": "The decrease of the energy gap between the t2g and eg orbitals",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the bispidine ligands in CoIII coordination chemistry?",
+      "answer": "They enforce structure and properties by facilitating switching between coordination numbers and electronic structures",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why do CoIII complexes exhibit unusual reactivities?",
+      "answer": "Due to their interesting coordination geometries and electronic structures",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How can the relative stabilities of CoIII complexes be tuned?",
+      "answer": "Through simple ligand modifications, such as the substitution of the a-position of py3",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the repulsive interaction in the complexes of L1 and L2?",
+      "answer": "The interaction between ar1,2 and py3",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the open N7–M–Npy3 angle in CoIII and CuII complexes?",
+      "answer": "It creates a strong repulsive interaction leading to an elongation of the M–X bond",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How were the hypotheses regarding CoIII complexes confirmed?",
+      "answer": "Through MM and DFT calculations",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Hexaamine CoIII complexes have a high-spin d6 electronic configuration.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The bispidine ligands have no effect on the electronic structure of CoIII complexes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study of first-row transition-metal coordination chemistry revealed no interesting properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CoIII complexes of L1 and L2 are always pentacoordinate.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The DFT approach used in the study was confirmed by poor agreement between computed and experimental structures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The intermediate-spin pentacoordinate CoIII complex of L1 is always lower in energy than the low-spin hexacoordinate state.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The complexes of L1 and L2 with smaller chelate rings involving Npy3 exhibit unusual coordination geometries.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

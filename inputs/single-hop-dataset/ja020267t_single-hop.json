@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication type of the article?",
+      "answer": "Article",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author for the article?",
+      "answer": "Robert West",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja020267t",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize dipotassio-9-germafluorenyl dianion (3b)?",
+      "answer": "Reduction of 9,9-dichloro-9-germafluorene (4b) with sodium/potassium alloy in tetrahydrofuran.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the X-ray crystal structure of 3b indicate about its aromaticity?",
+      "answer": "It shows C−C bond length equalization in the five-membered metallole rings and C−C bond length alternation in the six-membered benzenoid rings, indicating aromatic delocalization of electrons into the germole ring of 3b.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dipotassio-9,9‘-digerma-9,9‘-bifluorenyl dianion (6) aromatic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What product is formed by the reaction of 3b with Me3SiCl?",
+      "answer": "9,9-bis(trimethylsilyl)-9-germafluorene (5)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the major product of the oxidation of 3b in THF solution?",
+      "answer": "Dipotassio-9,9‘-digerma-9,9‘-bifluorenyl dianion (6)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dipotassio-9,9‘-bifluorenyl dianion (9) aromatic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compound 3b?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 4?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight (fw) of compound 6?",
+      "answer": "888.23",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the reaction product of 6 with MeOH?",
+      "answer": "9,9‘-digerma-9,9‘-bifluorene (7)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of 9,9‘-dimethyl-9,9‘-bifluorene (10) showing the two fluorenyl rings cis to each other?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the torsional angle between the two fluorenyl rings in compound 10?",
+      "answer": "59°",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of compound 6 indicate C−C bond length alternation in the five-membered rings?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for the synthesis of 9,9-dichloro-9-germafluorene (4b)?",
+      "answer": "Reaction of 2,2‘-dibromobiphenyl with n-butyllithium and germanium tetrachloride.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dipotassio-9,9‘-disila-9,9‘-bifluorenyl dianion (8) nonaromatic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of 9,9-dichloro-9-germafluorene (4b) as reported in the article?",
+      "answer": "74%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of compound 10?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

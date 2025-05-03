@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "PTA–DMF",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["N,N'-dimethylformamide (DMF)", "ethanol"],
+        "amount_of_each_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["Zn(NO3)2·6 H2O", "[5,10,15,20-Tetrakis-(4-methoxycarbonylphenyl)porphyrinato]-PdII (PdTCPP)", "9,10-Bis(4-pyridyl)-anthracene (Bpa)"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Crystals of [Zn2(PdTCPP)(Bpa)]·DMF were formed."
+      }
+    },
+    {
+      "name": "PTA–MeOH",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["CH3OH"],
+        "amount_of_each_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["PTA–DMF"],
+        "time": "3 days",
+        "washing_method": "Immersing the as-synthesized sample in CH3OH",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "The guest molecules of DMF in PTA–DMF can be exchanged by CH3OH molecules."
+      }
+    },
+    {
+      "name": "PTA’ (outgassed PTA)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["PTA–MeOH"],
+        "time": "Several hours",
+        "washing_method": "Immersing the PTA–MeOH sample in DMF",
+        "drying_method": "Vacuuming or heating",
+        "yield": "Not specified",
+        "additional_information": "PTA’ can be converted back to PTA–DMF by simply immersing in DMF."
+      }
+    },
+    {
+      "name": "ZTA, TA, PTN",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "amount_of_each_solvent": "Not specified",
+        "equipment": "Not specified",
+        "chemicals_used": ["ZnTCPP", "TCPP", "PdTCPP", "Bpa", "1,4-bis(4-pyridyl)naphthalene (Bpn)"],
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "Not specified",
+        "additional_information": "Similar structural changes were observed in ZTA, TA, and PTN."
+      }
+    }
+  ]
+}

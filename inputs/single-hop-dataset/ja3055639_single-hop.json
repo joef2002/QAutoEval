@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the empirical formula of NU-109E?",
+      "answer": "C22H8CuO4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature were the single crystals of NU-109E and NU-110E mounted in oil on glass fibers and placed in the nitrogen cold stream?",
+      "answer": "225K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of NU-110E?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to correct all data for absorption in the X-ray crystallography analyses of MOFs NU-109E and NU-110E?",
+      "answer": "SADABS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the space group for NU-109E and NU-110E the same?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What force field was used for the bonded and the short range non-bonded interactions between the atoms in the molecular mechanics simulations for predicting NU-109SP and NU-110SP structures?",
+      "answer": "Universal Force Field (UFF)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the probe diameter used in the geometric surface area calculations of MOF series A, B, and C?",
+      "answer": "3.72 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the experimental N2 adsorption and desorption isotherms for NU-109E at 77 K show a step in the isotherm?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the highest possible accessible surface area estimated for MOF series C?",
+      "answer": "14615 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the cubic unit cell side length for each series of MOFs A, B, and C calculated based on the distance between the centers of the central and terminal phenyl groups of the linker?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What software was used for the grand canonical Monte Carlo (GCMC) simulations to estimate the adsorption isotherms of N2 in NU-109SE/109SP and NU-110SE/110SP?",
+      "answer": "Gaussian 09",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the method used for deriving partial atomic charges for the DFT calculations?",
+      "answer": "ChelpG",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the simulated N2 isotherms of NU-110SE used for calculating the BET surface areas show changes of slope in the low-pressure region due to successive filling of the different sized cavities?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield calculated from the evacuated sample for the synthesis of NU-110E based on LH6-2?",
+      "answer": "45%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the crystal system used for the prediction of NU-109SP and NU-110SP structures?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Was the activation of the sample for N2 gas adsorption measurements done via supercritical CO2 drying (SCD)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the final optimized cubic unit cell dimensions of NU-109SP?",
+      "answer": "a = b = c = 65.899 Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the probe diameter equal to in the geometric surface area calculations?",
+      "answer": "The van der Waals diameter of nitrogen, which is 3.72 Å",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the space group for both NU-109E and NU-110E Fm 3 m?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for sample activation before gas adsorption measurements?",
+      "answer": "Supercritical CO2 drying",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

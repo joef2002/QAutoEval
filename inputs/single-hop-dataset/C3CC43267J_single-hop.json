@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the coordination polymer discussed?",
+      "answer": "LaC23H7O7F18N3S2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for magnetic susceptibility measurements?",
+      "answer": "Quantum Design SQUID magnetometer MPMS-XL",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystallographic measurements conducted?",
+      "answer": "150 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum yield percentage of the La(hfac)3(boaDTDA) synthesis?",
+      "answer": "21%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the nature of the magnetic coupling observed in the coordination polymer?",
+      "answer": "Ferromagnetic coupling",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the La3+ ion in the magnetic properties of the coordination polymer?",
+      "answer": "It mediates the ferromagnetic coupling between the radicals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the wT product reaching a maximum of 0.55 cm3 K mol-1 at 1.8 K?",
+      "answer": "It indicates ferromagnetic coupling between boaDTDA radicals through the diamagnetic La3+ ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the crystal packing affect the magnetic interactions in the coordination polymer?",
+      "answer": "The polymeric 1D structures are well-isolated from one another, indicating that magnetic interactions are through the La3+ ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational results confirm the spin density distribution typical of DTDA radicals?",
+      "answer": "Results using uB3LYP/6-31G(d,p) as found in the Gaussian09 suite of programs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of the coordination polymer?",
+      "answer": "Orthorhombic",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the boaDTDA ligand in the structure of the coordination polymer?",
+      "answer": "It acts as a bridging radical ligand, forming a one-dimensional coordination polymer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the angle between the planes of neighbouring boaDTDA heterocycles?",
+      "answer": "It suggests the orientation of the boaDTDA ligands facilitates ferromagnetic coupling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination polymer soluble in non-coordinating organic solvents?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer exhibit antiferromagnetic coupling?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic coupling in the coordination polymer mediated solely through the empty 6s orbital of La3+?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the boaDTDA radicals in the coordination polymer well-isolated from one another in terms of possible magnetic interactions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer thermally unstable?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer form due to the large, flexible coordination sphere of La3+?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer's structure determined by X-ray diffraction at room temperature?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer exhibit a decrease in the wT product as the temperature is lowered to 50 K?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

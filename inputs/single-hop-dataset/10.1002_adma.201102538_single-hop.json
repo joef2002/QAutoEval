@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the potential applications of MOFs mentioned in the text?",
+      "answer": "Separation, gas storage, and catalysis technologies.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Gd III-based nanoscale MOFs?",
+      "answer": "They are used as magnetic resonance imaging (MRI) contrast agents.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the pore characteristics in drug delivery efficiency according to Morris and co-workers?",
+      "answer": "The efficiency of drug delivery to the physiological medium is related to the pore characteristics of the solid (volume and pore size), as well as the nature of the host–guest interactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What ligand was chosen to construct nanoporous MOFs and why?",
+      "answer": "The hexadentate ligand TATAT was chosen because it is more extended than other carboxylate ligands, offering the possibility to form larger pores, has multiple possible metal binding modes, and provides the probability of host–guest interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of the reaction between TATAT and Zn(NO3)2 · 5H2O?",
+      "answer": "The reaction gave colorless crystals of [(CH3)2NH2]2[Zn(TATAT)2/3] · 3DMF · H2O.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOFs described have a single porous system.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the total potential solvent volume of the MOFs?",
+      "answer": "27579.3 Å3, which corresponds to 60% empty volume.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOFs' framework structure is cationic.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used to evaluate the drug delivery capacity of the MOFs?",
+      "answer": "An anticancer drug, 5-fluorouracil (5-FU), was used as a model.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOFs can release 86.5% of the loaded 5-FU within a week.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the weight percentage of 5-FU adsorbed by the desolvated MOFs?",
+      "answer": "33.3 wt%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOFs prepared from zinc ions and TATAT ligands are interpenetrated.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the TATAT ligand in the structure of the MOFs?",
+      "answer": "TATAT ligands bridge Zn atoms, contributing to the formation of helical channels and nanoscale cages within the MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The drug release from the MOFs shows a 'burst effect'.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What factors influence the forces on drug molecules within the MOFs?",
+      "answer": "The forces on drug molecules are influenced by their proximity to the walls, with host–guest interactions from hydrogen bonds and π–π interactions between 5-FU and the organic part of the skeleton.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOFs have a uniform cage size.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical uptake of 5-FU by the desolvated MOFs?",
+      "answer": "About 0.47 g 5-FU g−1 of desolvated MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental and theoretical values for 5-FU uptake by the MOFs are identical.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the chiral nature of the MOFs?",
+      "answer": "The chiral nature of the MOFs, resulting from spontaneous resolution, contributes to their potential in drug delivery applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of the synthesis process for the MOFs?",
+      "answer": "60.5% yield based on TATAT.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

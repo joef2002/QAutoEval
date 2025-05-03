@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Crystal-to-Crystal Guest Exchange of Large Organic Molecules within a 3D Coordination Network",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Osamu Ohmori, Masaki Kawano, and Makoto Fujita",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja046478a",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of guest molecules were exchanged in the study?",
+      "answer": "Large organic molecules",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main finding of the study?",
+      "answer": "Efficient inclusion of large guest molecules in the large channel of a 3D coordination network via single-crystal-to-single-crystal guest exchange.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to analyze the guest exchange/inclusion processes?",
+      "answer": "Single-crystal-to-single-crystal fashion",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the effect of donor−acceptor interactions on the crystal color?",
+      "answer": "The crystal color changed significantly due to the formation of charge-transfer complexes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the inclusion of triphenylene (3a) cause a color change in the crystal?",
+      "answer": "Yes, the crystal color turned pale yellow.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was there a color change observed during the formation of the inclusion complex with triphenylphosphine oxide (3d)?",
+      "answer": "No, no color change was observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the crystallographic analysis reveal aromatic stacking between the nonplanar guest of 3d and the ligand of 1?",
+      "answer": "No, the analysis indicated the absence of aromatic stacking.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest exchange process reversible according to the UV−vis spectra?",
+      "answer": "False, the guest exchange process was irreversible.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the inclusion complexes (4a-d) retain their crystallinity after the guest exchange?",
+      "answer": "True, they retained their crystallinity without loss.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the inclusion complexes (4a-d) be obtained via one pot complexation of ZnI2 and 1 in the presence of 3a?",
+      "answer": "False, they were obtained only via guest exchange.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the 3D net of 2 change after the inclusion of large guests?",
+      "answer": "False, the 3D net remains unchanged.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the distance between 3a and 1 in positions B and C longer than the sum of van der Waals radii?",
+      "answer": "False, it is slightly shorter.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

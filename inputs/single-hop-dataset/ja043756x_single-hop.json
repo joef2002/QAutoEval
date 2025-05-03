@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the porous metal-organic framework discussed?",
+      "answer": "[Zn4O(NTB)2]·3DEF·EtOH",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of the framework?",
+      "answer": "1121 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework maintain single crystallinity at 400 °C and 10^-5 Torr?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the hydrogen adsorption capacity of the framework at 77 K and 1 atm?",
+      "answer": "1.9 wt %",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the luminescence of the framework dependent on the presence or absence of guest molecules?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of motion do the framework components undergo in response to removal and rebinding of the guest molecules?",
+      "answer": "Rotational motion",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the framework differentiate organic guests with varying formation constants?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the guest binding order for the framework?",
+      "answer": "MeOH > pyridine > benzene > dodecane",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework exhibit photoluminescence?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are suggested for the framework?",
+      "answer": "Hydrogen storage material and guest sensor",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework insoluble in water and common organic solvents?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability range of the framework?",
+      "answer": "up to 430 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework's luminescence wavelength change with different guest molecules?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore volume of the framework?",
+      "answer": "0.51 cm3/cm3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the framework's structure dependent on the reaction conditions?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of the framework?",
+      "answer": "cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the framework?",
+      "answer": "Ia-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework undergo a crystal-to-crystal transformation?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DEF in the synthesis of the framework?",
+      "answer": "Solvent",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the π−π interactions in the framework?",
+      "answer": "They contribute to the framework's stability and guest-dependent luminescence.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

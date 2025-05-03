@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "Fe-HAF-1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "temperature": "70 °C",
+          "solvents": [
+            {
+              "name": "DEF",
+              "amount": "1.85 mL"
+            },
+            {
+              "name": "1,4-dioxane",
+              "amount": "0.15 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "FeCl3",
+              "amount": "18.0 mg, 0.067 mmol"
+            },
+            {
+              "name": "H4BPTH",
+              "amount": "9.8 mg, 0.025 mmol"
+            }
+          ],
+          "time": "48 h",
+          "washing_method": "washed twice with 2 mL of fresh DEF and 2 mL of ethanol",
+          "drying_method": "air dried",
+          "yield": "not specified",
+          "additional_information": "Larger crystals suitable for single crystal X-ray diffraction studies were grown by slowly heating from 25 °C to 70 °C over 5 h, left at 70 °C for 48 h before slowly cooling back to 25 °C over 8 h."
+        },
+        {
+          "step": "Activation",
+          "temperature": "110 °C",
+          "time": "overnight",
+          "solvent_removal_method": "evacuated under vacuum",
+          "outcome": "N2 isotherm measurements showed the BET surface area was less than 10 m2 g-1. After evacuation of the volatile solvents, the samples were no longer crystalline."
+        }
+      ]
+    },
+    {
+      "name": "m-benzenedihydroxamic acid (m-H2bdh)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "Hydroxylamine hydrochloride",
+              "amount": "3.17 g, 45.6 mmol"
+            },
+            {
+              "name": "Sodium hydroxide",
+              "amount": "3.72 g, 93.0 mmol"
+            },
+            {
+              "name": "Dimethyl isophthalate",
+              "amount": "3.0 g, 15.5 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "140 mL"
+            },
+            {
+              "name": "H2O",
+              "amount": "50 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "washing_method": "acidified to pH 5.5 with 1 M HCl, filtered",
+          "drying_method": "dried in vacuo",
+          "yield": "2.53 g (83%)"
+        }
+      ]
+    },
+    {
+      "name": "biphenyl tetrahydroxamic acid (H4BPTH)",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": [
+            {
+              "name": "[1,1'-biphenyl]-3,3',5,5'-tetracarboxylic acid",
+              "amount": "1.85 g, 5.6 mmol"
+            },
+            {
+              "name": "HATU",
+              "amount": "9.37 g, 24.7 mmol"
+            },
+            {
+              "name": "DIPEA",
+              "amount": "11.7 mL, 67.2 mmol"
+            },
+            {
+              "name": "O-tritylhydroxylamine",
+              "amount": "7.4 g, 26.9 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "100 mL"
+            },
+            {
+              "name": "Dichloromethane",
+              "amount": "40 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "overnight",
+          "washing_method": "extracted into CHCl3, washed with H2O, acidified to pH 1 with concentrated HCl",
+          "drying_method": "dried in vacuo",
+          "yield": "1.15 g (53%)"
+        }
+      ]
+    }
+  ]
+}

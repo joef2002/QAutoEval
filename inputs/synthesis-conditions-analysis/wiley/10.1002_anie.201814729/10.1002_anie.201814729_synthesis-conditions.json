@@ -1,0 +1,41 @@
+{
+  "materials": [
+    {
+      "name": "AD-MOF-1",
+      "synthesis_conditions": {
+        "method": "solvo-thermal synthesis",
+        "solvents": ["DMF", "H2O"],
+        "amount_of_solvents": {
+          "DMF": "not specified",
+          "H2O": "not specified"
+        },
+        "chemicals_used": ["Co2(HAD)2(AD)2(BA)", "adenine (HAD)", "butanedioic acid (BA)"],
+        "temperature": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "equipment": "not specified",
+        "additional_information": "AD-MOF-1 is stable in acetonitrile solution."
+      }
+    },
+    {
+      "name": "AD-MOF-2",
+      "synthesis_conditions": {
+        "method": "solvo-thermal synthesis",
+        "solvents": ["DMF"],
+        "amount_of_solvents": {
+          "DMF": "not specified"
+        },
+        "chemicals_used": ["Co2(HAD)2(AD)2(IA)", "adenine (HAD)", "isobutyric acid (IA)"],
+        "temperature": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "equipment": "not specified",
+        "additional_information": "AD-MOF-2 remains unchanged in aqueous solution after several days."
+      }
+    }
+  ]
+}

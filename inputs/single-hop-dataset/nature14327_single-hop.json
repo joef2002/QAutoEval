@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for mmen-Mn2(dobpdc)?",
+      "answer": "C22H30N4O6Mn2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for high-resolution synchrotron X-ray powder diffraction data collection?",
+      "answer": "Beamline 11-BM at the Advanced Photon Source (APS), Argonne National Laboratory",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group assigned for mmen-Mn2(dobpdc) based on powder X-ray diffraction analysis?",
+      "answer": "P3221",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What functional was used in the periodic DFT calculations for the energetics of CO2 capture?",
+      "answer": "PBE and M06L functionals",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main feature of the N K-edge NEXAFS spectra indicating CO2 insertion into the metal–nitrogen bond?",
+      "answer": "The pre-edge peak at 402.3 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption of CO2 in mmen-Mg2(dobpdc) reversible?",
+      "answer": "Yes, desorption hysteresis was minimal indicating reversibility.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of water affect the CO2 adsorption isotherms for mmen-Mg2(dobpdc)?",
+      "answer": "No, no changes in the CO2 adsorption isotherms were apparent from exposure of the sample to water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing temperature on the adsorption of water in mmen-Mg2(dobpdc)?",
+      "answer": "The adsorption of water decreases with increasing temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of Mg2+ in the mechanism of CO2 adsorption in mmen-Mg2(dobpdc)?",
+      "answer": "Mg2+ is essential for the reactivity for CO2 fixation at very low CO2 concentrations, similar to its role in the Rubisco enzyme.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can mmen-Mg2(dobpdc) efficiently capture CO2 from gas mixtures containing water vapor?",
+      "answer": "Yes, mmen-Mg2(dobpdc) retains its affinity for CO2 under humid conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the regeneration energy for mmen-Mg2(dobpdc) compared to monoethanolamine?",
+      "answer": "The regeneration energy for mmen-Mg2(dobpdc) is lower than that for monoethanolamine.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the working capacity of mmen-Mg2(dobpdc) when cycled between 100 and 150 °C?",
+      "answer": "The working capacity of mmen-Mg2(dobpdc) is in excess of 13 wt%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the mmen-M2(dobpdc) series exhibit stepped adsorption isotherms for CO2?",
+      "answer": "Yes, except for mmen-Ni2(dobpdc) which shows Langmuir-type adsorption behaviour.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the metal ion on the position of the CO2 adsorption step in the mmen-M2(dobpdc) series?",
+      "answer": "The position of the CO2 adsorption step varies with the metal ion, in accordance with the metal-amine bond strength.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the cooperative insertion mechanism for CO2 adsorption in mmen-M2(dobpdc)?",
+      "answer": "It leads to the sudden uptake of a large amount of CO2 and a steep vertical step in the adsorption isotherm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 adsorption mechanism in mmen-M2(dobpdc) similar to any biological processes?",
+      "answer": "Yes, it is structurally similar to the CO2 fixation mechanism in the Rubisco enzyme.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the uncoordinated amine groups in mmen-M2(dobpdc) for CO2 adsorption?",
+      "answer": "The uncoordinated amine groups act as strong bases to remove the acidic proton from the metal-bound amine, facilitating CO2 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to determine the structural changes upon CO2 adsorption in mmen-Mn2(dobpdc)?",
+      "answer": "Powder X-ray diffraction analysis was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to simulate the N K-edge NEXAFS spectra for mmen-Mg2(dobpdc)?",
+      "answer": "Density Functional Theory (DFT) calculations were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption of CO2 in mmen-M2(dobpdc) a thermodynamically spontaneous process at low pressures?",
+      "answer": "No, the adsorption of CO2 is not thermodynamically spontaneous at low pressures due to the large decrease in entropy associated with the transition.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

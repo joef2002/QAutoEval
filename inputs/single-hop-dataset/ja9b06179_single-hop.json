@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for Zirconium-based metal-organic frameworks (Zr-MOFs)?",
+      "answer": "Zr-MOFs",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of NU-1600?",
+      "answer": "alb",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the activation of NU-1600?",
+      "answer": "Dynamic vacuum for 12 hours at 120 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of NU-1601?",
+      "answer": "3970 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the experimental pore volume of NU-1602?",
+      "answer": "2.36 cm3 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How is the NU-1600 series MOFs activated?",
+      "answer": "NU-1600 is activated under a dynamic vacuum, while NU-1601 and NU-1602 are activated using supercritical CO2 (ScCO2) procedure followed by dynamic vacuum.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the linker per Zr6 node in NU-1600 based on TGA data?",
+      "answer": "1.2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the half-life (t1/2) of DMNP hydrolysis with NU-1600 using N-ethylmorpholine?",
+      "answer": "0.7 minutes",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the BET area of NU-1601 greater than that of NU-1600?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NU-1602 have a higher experimental pore volume than NU-1601?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the linker per Zr6 node in NU-1600 less than 2 based on TGA data?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET area of NU-1600 less than 3000 m2 g-1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does NU-1601 use supercritical CO2 (ScCO2) procedure for activation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystallographic density of NU-1602 less than 0.5 g cm-3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can NU-1600 be activated using supercritical CO2 (ScCO2) procedure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing the catalyst loading from 1.5 mol% to 6 mol% on the half-life of DMNP hydrolysis with NU-1600?",
+      "answer": "Decreasing the half-life from 3.6 minutes to 0.7 minutes",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the linker per Zr6 node in NU-1601 compared to NU-1600 based on TGA data?",
+      "answer": "NU-1601 has a higher linker per Zr6 node compared to NU-1600",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the experimental BET surface area of NU-1602?",
+      "answer": "4500 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of NU-1601 and NU-1602?",
+      "answer": "Both have alb topology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the linker per Zr6 node in NU-1600 indicate missing linker defects?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

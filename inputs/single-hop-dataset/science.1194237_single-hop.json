@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research conducted by Andrew W. Howard and colleagues?",
+      "answer": "The main focus of the research is to measure the occurrence rate of close-in planets (with orbital periods less than 50 days) based on precise Doppler measurements of 166 Sun-like stars, to address questions of how planets form and how common Earth-like planets are.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the researchers measure the distribution of exoplanet masses and orbital periods?",
+      "answer": "The researchers measured the distribution of exoplanet masses and orbital periods based on precise Doppler measurements of 166 Sun-like stars.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What prediction does the extrapolation of the power-law mass distribution make regarding Earth-mass planets?",
+      "answer": "The extrapolation predicts that 23% of stars harbor a close-in Earth-mass planet (ranging from 0.5 to 2.0 Earth masses).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What do theoretical models of planet formation predict about the domain from 5 to 30 Earth masses with orbital periods less than 50 days?",
+      "answer": "Theoretical models of planet formation predict a deficit of planets in the domain from 5 to 30 Earth masses with orbital periods less than 50 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the region of parameter space from 5 to 30 Earth masses with orbital periods less than 50 days well populated according to the study's findings?",
+      "answer": "Yes, this region of parameter space is well populated, implying that theoretical models of planet formation need substantial revision.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study's analysis of close-in planet occurrence as a function of planet mass reveal?",
+      "answer": "The study's analysis reveals increasing planet occurrence with decreasing planet mass (M).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many planets were detected around the stars in the sample studied?",
+      "answer": "33 planets were detected around 22 stars in the sample studied.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What precision did the researchers achieve with their radial velocity measurements?",
+      "answer": "The researchers achieved 1 m s−1 precision with their radial velocity measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many candidate low-mass planets with periods less than 50 days were included in the analysis?",
+      "answer": "Five candidate low-mass planets with periods less than 50 days were included in the analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Do the findings suggest that theoretical models of planet formation accurately predict the distribution of close-in planets?",
+      "answer": "No, the findings suggest that theoretical models of planet formation do not accurately predict the distribution of close-in planets and need substantial revision.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What instrument was used to achieve the precise Doppler measurements?",
+      "answer": "The HIRES echelle spectrometer at Keck Observatory was used to achieve the precise Doppler measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What criteria were used to select the stars for the NASA–University of California Eta-Earth Survey?",
+      "answer": "Stars were selected based on brightness, distance, luminosity, low chromospheric activity, lack of stellar companions, and observability from Keck Observatory.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the power-law mass distribution, df/dlogM = 0.39 M−0.48, indicate about planet occurrence?",
+      "answer": "The power-law mass distribution indicates that planet occurrence increases as planet mass decreases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Were the stars in the sample selected based on their likelihood to harbor a planet?",
+      "answer": "No, the stars were neither included nor excluded based on their likelihood to harbor a planet.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of planets in the predicted 'planet desert' imply about current planet formation theories?",
+      "answer": "The presence of planets in the predicted 'planet desert' implies that current planet formation theories need substantial revision.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How many stars were included in the Eta-Earth Survey?",
+      "answer": "235 main-sequence G-, K-, and M-type dwarf stars were included in the Eta-Earth Survey.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the range of masses for the G- and K-type stars analyzed in the study?",
+      "answer": "The G- and K-type stars analyzed in the study had masses ranging from 0.54 to 1.28 solar masses.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many radial velocities were measured for each star?",
+      "answer": "At least 20 radial velocities were measured for each star.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the time span of the observations for each star?",
+      "answer": "The observations of each star were spread over 5 years.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the study's inclusion of candidate planets with false alarm probabilities of <5% indicate about their analysis?",
+      "answer": "The inclusion of candidate planets with false alarm probabilities of <5% indicates that the analysis considered both confirmed planets and high-confidence candidates to measure close-in planet occurrence.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

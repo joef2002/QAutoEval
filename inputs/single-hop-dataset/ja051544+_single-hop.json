@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the paper?",
+      "answer": "The main focus of the paper is on the role of cation−π interactions for the development of ferrocene-containing multiple-decker sandwich complexes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which alkali metal ions were studied in the context of cation−π interactions with ferrocene?",
+      "answer": "The alkali metal ions studied were Li+, Na+, K+, Rb+, and Cs+.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the theoretical study of cation−π interactions?",
+      "answer": "Density Functional Theory (DFT) calculations were used for the theoretical study.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of comparing the binding enthalpies of M+−η5(ferrocene) to M+−η6(benzene) complexes?",
+      "answer": "The binding enthalpies of M+−η5(ferrocene) complexes were found to be significantly larger for Li+ and Na+ than for the corresponding M+−η6(benzene) complexes, indicating ferrocene presents a more attractive π face to these ions than benzene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural motif is featured in the compounds 2M2·(DME)x?",
+      "answer": "The compounds feature a structural motif of alternating Fe(II)- and alkali metal cations sandwiched between cyclopentadienyl rings.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the ionic radius of alkali metal ions influence the solid-state structures of 2Li2·(DME)2, 2Na2·(DME)3, and 2K2·(DME)3?",
+      "answer": "The ionic radii of the alkali metal ions influence the solid-state structures by determining the distance between the cyclopentadienyl rings of the coordinating ferrocene fragments, with smaller ions allowing for closer distances.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to determine the crystal structures of the complexes?",
+      "answer": "X-ray crystallography was used to determine the crystal structures of the complexes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that cation−π interactions are stronger with ferrocene than with benzene for all alkali metal ions studied.",
+      "answer": "False. The study found that cation−π interactions are stronger with ferrocene than with benzene for Li+ and Na+, but not necessarily for the heavier alkali metal ions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of electrostatic potential surfaces (EPS) in the study?",
+      "answer": "Electrostatic potential surfaces were used to rationalize differences in the degree of cation−π binding among ferrocene and benzene by comparing the maximum electrostatic potential above the center of the aromatic.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study concludes that the interaction between alkali metal ions and ferrocene is mainly covalent.",
+      "answer": "False. The study suggests that the interaction between alkali metal ions and ferrocene is mainly electrostatic.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

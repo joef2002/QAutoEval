@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of the metal-organic framework (MOF) containing a dithienylethene moiety?",
+      "answer": "The main advantage is that the properties of the pore can be changed via an optical trigger without the potential risk of structural damage to the framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What potential applications are possible with the class of materials that include optically triggered conductivity, chemical storage and release, and sensing?",
+      "answer": "Optically triggered conductivity, chemical storage and release, and sensing are possible applications.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of azobenzene linkers in MOFs affect their separation selectivities?",
+      "answer": "Azobenzene-containing MOFs show different separation selectivities depending on linker conformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the solvent-assisted linker exchange (SALE) method in the synthesis of PSZ-1?",
+      "answer": "The SALE method facilitates the substitution of linkers in ZIF-70 with the imidazolate-based dithienylethene linker, H L1, to form PSZ-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photoisomerization of PSZ-1 to its closed form is irreversible.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What change is observed in PSZ-1 when it is exposed to UV-light?",
+      "answer": "Yellow crystals of PSZ-1-open convert to violet crystals of PSZ-1-closed upon exposure to UV-light.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: ZIF-70 shows changes in absorption upon exposure to UV-light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of photoisomerization on the BET surface area of PSZ-1?",
+      "answer": "The BET surface area decreases from 2000 m2/g for ZIF-70 to 1250 m2/g for PSZ-1, and does not change after 5 open-close cycles.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural integrity of PSZ-1 is compromised after multiple cycles of photoisomerization.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the pore characteristic change in PSZ-1 affect the retention of analytes in a filtration experiment?",
+      "answer": "When PSZ-1-closed is used as a filter, a large retention of analytes is observed, indicating that the switching has changed the pore characteristics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PSZ-1 involves the use of a UV-lamp for photo-isomerization.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the SALE method in the synthesis of PSZ-1?",
+      "answer": "The SALE method is used to substitute ZIF-70 linkers with the dithienylethene linker, H L1, to form PSZ-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 4,5-bis(2,5-dimethyl-3-thienyl)-1H-imidazole (HL1) yields a 38% yield.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of visible light exposure on PSZ-1-closed?",
+      "answer": "Visible light exposure converts PSZ-1-closed back to PSZ-1-open, demonstrating reversible behavior.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NMR analysis of PSZ-1 shows evidence of decay to a photobleached state after UV exposure.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area measurement in the study of PSZ-1?",
+      "answer": "The BET surface area measurement helps to understand the porosity and structural stability of PSZ-1 before and after photoisomerization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZIF-70 involves heating at 110 °C for 4 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect on the pore properties of PSZ-1 upon switching between open and closed conformations?",
+      "answer": "Switching between open and closed conformations alters the pore properties, affecting the retention of analytes in a filtration experiment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 1,2-Bis-(2,5-dimethyl-thiophen-3-yl)-ethanedione yields a 35% yield.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the incorporation of dithienylethene switches in MOFs contribute to their applications?",
+      "answer": "The incorporation of dithienylethene switches allows for the design of conducting porous materials with applications in optical memory switches and conducting materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

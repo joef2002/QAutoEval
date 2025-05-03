@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for MBDP_X materials?",
+      "answer": "Acetate salts were reacted with the organic linkers in boiling N,N′-dimethylformamide, in the absence of extra base, such as triethylamine, in the reaction system.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the thermal stability range for NiBDP_X materials?",
+      "answer": "The NiBDP_X materials decompose in air only at 400 °C or higher temperatures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of tags affect the adsorption selectivity of MBDP_X materials?",
+      "answer": "The introduction of tags results in an enhancement of the interaction with polar adsorbates, leading to an increase in the partition coefficients between apolar and polar gases. However, it does not significantly improve the adsorption selectivity between CO2/C2H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the structural flexibility of MBDP_X materials?",
+      "answer": "The MBDP_X materials exhibit a flexible nature, existing in open- or closed-pore forms in response to stimuli such as solvent content or temperature modification.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the decomposition temperature for ZnBDP_X materials?",
+      "answer": "The ZnBDP_X materials undergo decomposition at temperatures around 420 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are MBDP_X materials suitable for gas purification purposes?",
+      "answer": "Yes, MBDP_X materials are adequate for gas purification purposes, particularly for the removal of small impurities of polar gases and polar vapors from low polar ones.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the NiBDP_SO3H material thermally stable?",
+      "answer": "Yes, the NiBDP_SO3H material demonstrates high thermal stability, with a gradual weight loss consistent with the evolution of solvent molecules up to decomposition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Do MBDP_X materials retain porosity to N2 and CO2 gases?",
+      "answer": "Yes, all of the tagged MBDP_X materials retain porosity to both N2 and CO2 despite the presence of different functional groups on the linker.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of polar tags in MBDP_X materials for gas separation?",
+      "answer": "Polar tags in MBDP_X materials enhance the interaction with polar adsorbates, leading to improved adsorption selectivities for the resolution of mixtures of apolar and polar gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MBDP_X materials effectively separate CO2 from N2 in flue gas emissions?",
+      "answer": "Yes, MBDP_X materials, especially those tagged with NH2, show high interaction with CO2, making them suitable for separating CO2 from N2 in flue gas emissions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the decomposition temperature of NiBDP_NH2?",
+      "answer": "The NiBDP_NH2 material undergoes decomposition at 470 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the introduction of tags improve the resolution of CO2/C2H2 mixtures in MBDP_X materials?",
+      "answer": "False, the introduction of tags does not significantly improve the adsorption selectivity between CO2/C2H2 mixtures in MBDP_X materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are MBDP_X materials flexible in response to temperature changes?",
+      "answer": "True, MBDP_X materials exhibit flexibility, showing open- or closed-pore forms in response to temperature changes.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do MBDP_X materials decompose at temperatures below 400 °C?",
+      "answer": "False, MBDP_X materials demonstrate high thermal stability, decomposing only at 400 °C or higher temperatures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the NiBDP_SO3H material flexible in response to solvent content changes?",
+      "answer": "True, the NiBDP_SO3H material demonstrates flexibility, with its framework existing in different forms in response to solvent content changes.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can MBDP_X materials separate polar gases from non-polar gases?",
+      "answer": "True, MBDP_X materials are suitable for separating polar gases from non-polar gases, particularly due to the enhanced interaction with polar adsorbates.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do MBDP_X materials lose their porosity to N2 and CO2 upon functionalization?",
+      "answer": "False, MBDP_X materials retain their porosity to both N2 and CO2 despite functionalization.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the thermal stability of ZnBDP_X materials lower than that of NiBDP_X materials?",
+      "answer": "True, ZnBDP_X materials generally show a lower decomposition temperature compared to NiBDP_X materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are MBDP_X materials ineffective for gas purification purposes?",
+      "answer": "False, MBDP_X materials are effective for gas purification purposes, especially for removing small impurities of polar gases from low polar ones.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do MBDP_X materials show increased flexibility upon the introduction of tags?",
+      "answer": "True, the introduction of tags in MBDP_X materials is responsible for an increased flexibility of their frameworks.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

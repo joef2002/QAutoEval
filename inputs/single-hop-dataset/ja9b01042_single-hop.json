@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of different organic cations in the synthesis of pyridine dipyrrolate cages?",
+      "answer": "Different organic cations with various sizes and charges are used to tune the nature of the cage structures created from pyridine dipyrrolate and Zn­(acac)2, as well as the morphologies of various self-assembled constructs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do TBA+ and DMV2+ cations influence the structure of Cage-3 and Cage-5?",
+      "answer": "TBA+ and DMV2+ cations, being relatively bulky, lead to the formation of cage-like architectures, Cage-3 and Cage-5, where they sit outside of the central cage-like cavities.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of solvent molecules in the structure of Cage-3 and Cage-5?",
+      "answer": "Solvent molecules play an important role in stabilizing and shaping the dimeric cage architectures of Cage-3 and Cage-5, occupying the central cavities and being held in place through presumed hydrogen bonding interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the DMA+ cation in Cage-1 be replaced with other organic cations?",
+      "answer": "Yes, the DMA+ cation in Cage-1 can be replaced by other organic cations, providing a means of tuning not only the structures of the Zn­(II)-based cages but also how they interact with one another under conditions of self-assembly.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What leads to the formation of polymeric cages PC-1 and PC-2?",
+      "answer": "The formation of polymeric cages PC-1 and PC-2 is achieved when ligand 1 and Zn­(acac)2 are mixed in the presence of relatively small cations Cp2Co+ and TEA+, leading to one-dimensional abacus-like cage polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do the cations reside inside or outside the cavities of Cage-3, Cage-5, PC-1, and PC-2?",
+      "answer": "In Cage-3 and Cage-5, the TBA+ and DMV2+ cations lie outside the cavities, while in PC-1 and PC-2, the TEA+ and Cp2Co+ cations are involved in the structure with Cp2Co+ residing inside the cavities formed between two neighboring cage subunits.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The organic cations used in the study do not affect the further assembly of individual cages.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Cage-3 and Cage-5 form 1D assemblies stabilized by π–π interactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The size and charge of cations play key roles in determining the initial cage structure and the morphologies of the assembled superstructures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Solvent molecules inside Cage-5 are not bound to the zinc centers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used for the refinement of crystal structures in the study?",
+      "answer": "Full-matrix least-squares on F2 with anisotropic displacement parameters for the non-H atoms using SHELXL.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How are the hydrogen atoms treated in the crystal structure refinement process?",
+      "answer": "The hydrogen atoms are calculated in ideal positions with isotropic displacement parameters set to 1.2xUeq of the attached atom (1.5xUeq for methyl hydrogen atoms).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do solvent molecules play in the structure of Cage-3 and Cage-5 according to the supplementary figures?",
+      "answer": "Solvent molecules are present inside and outside of both Cage-3 and Cage-5, presumably playing an important role in stabilizing and shaping these dimeric cage architectures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The disorder in solvent molecules was successfully modeled in the crystal structures of Cage-3 and Cage-5.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study provides a new method for fine-tuning the multidimensional morphology of self-assembled inorganic materials.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the counter cations on the structural features of the synthesized cages?",
+      "answer": "The counter cations serve not only to balance charge but also to tune the structural features as a whole, influencing the formation of either dimeric or polymeric cage materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SEM analyses were conducted on samples prepared in a 1/4 (v/v) mixture of DMF and methanol.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study reports the use of different organic cations to control the structure and self-assembly of pyridine dipyrrolate cages without the involvement of solvent molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the dihedral angle and distance between zinc atoms in the crystal structures of Cage-3, Cage-5, PC-1, and PC-2?",
+      "answer": "These metric parameters, including the dihedral angle and distance between zinc atoms, indicate structural differences among the cages, reflecting how the presence of different cations and solvent molecules influence the overall architecture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that the addition of organic cations does not influence the color change observed in solutions containing ligand 1 and Zn(acac)2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

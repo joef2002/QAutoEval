@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for BPMTC?",
+      "answer": "C25H22N2S2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for X-ray crystal structure determination of BPMTC?",
+      "answer": "X-ray intensity data from a colorless plate crystal of BPMTC were collected using a Bruker SMART APEX diffractometer.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the fluorescence intensity of 1 restored to its original value after irradiation at 590 nm?",
+      "answer": "Yes, the fluorescence intensity was restored to the original value after irradiation at 590 nm.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated Förster critical radius (R0) for 1 with a 25 nm bathochromic shift?",
+      "answer": "33.5 Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the PXRD pattern of 1 change after several cycles of alternating irradiation at 365 nm and 590 nm?",
+      "answer": "No, the PXRD pattern of 1 does not significantly change after several cycles of alternating irradiation, indicating the preservation of MOF integrity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using a monoexponential function in the analysis of fluorescence decay?",
+      "answer": "The monoexponential function is used to fit the experimental data of fluorescence decay to calculate the rate constant for fluorescence decay.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can BPMTC retain its photochromic properties after coordinative immobilization in a MOF matrix?",
+      "answer": "Yes, BPMTC retains its photochromic properties after coordinative immobilization in a MOF matrix.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Förster analysis in the study?",
+      "answer": "The Förster analysis is used to estimate the energy transfer efficiency and critical radius for resonance energy transfer between the donor and acceptor.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of irradiation at 365 nm on the fluorescence intensity of 1?",
+      "answer": "Irradiation at 365 nm results in attenuation of the fluorescence intensity of 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence decay of 1 faster or slower compared to Zn2(ZnTCPP)?",
+      "answer": "The fluorescence decay of 1 is faster compared to Zn2(ZnTCPP).",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the interlayer expansion observed in the structure of 1?",
+      "answer": "The interlayer expansion observed in the structure of 1 is significant because it is consistent with the size of the BPMTC pillar, indicating successful incorporation of BPMTC into the MOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the preservation of MOF integrity after sample irradiation indicate?",
+      "answer": "The preservation of MOF integrity after sample irradiation indicates that MOF degradation is not a cause for changes in the fluorescence profile of 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the digestion procedure in the analysis of 1?",
+      "answer": "The digestion procedure is used to prepare the sample for 1H NMR spectroscopy and mass-spectrometry analysis by dissolving the crystals in appropriate solvents.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the change in color of BPMTC from white to blue upon irradiation at 365 nm indicate?",
+      "answer": "The change in color of BPMTC from white to blue upon irradiation at 365 nm indicates the conversion from the open form to the closed form.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission spectrum of Zn2(ZnTCPP)–BPMTC framework altered by the type of incident light?",
+      "answer": "Yes, the emission spectrum of the Zn2(ZnTCPP)–BPMTC framework can be altered as a function of incident light, resulting in quenching or enhancement of the MOF fluorescence.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Förster critical radius in the context of energy transfer in 1?",
+      "answer": "The Förster critical radius is significant as it provides an estimate of the distance at which energy transfer between the donor and acceptor is efficient, indicating the feasibility of resonance energy transfer in 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of peaks corresponding to H4TCPP and BPMTC in the 1H NMR spectrum of digested 1 indicate?",
+      "answer": "The presence of peaks corresponding to H4TCPP and BPMTC in the 1H NMR spectrum of digested 1 indicates the successful incorporation of both ligands into the MOF structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of 1 demonstrate a change in layer stacking compared to Zn2(ZnTCPP)?",
+      "answer": "Yes, the structure of 1 demonstrates a change in layer stacking from ABAB to ABBA compared to Zn2(ZnTCPP), while preserving a tetragonal crystal system.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using time-resolved photoluminescence measurements in the study?",
+      "answer": "Time-resolved photoluminescence measurements are used to monitor changes in the MOF photophysical behavior and provide estimates of the energy transfer rate and efficiency.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the fluorescence decay and enhancement of 1 observed to occur at the same rates?",
+      "answer": "No, the fluorescence decay and enhancement of 1 are observed to occur at different rates.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

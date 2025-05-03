@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the melting point of ZIF-62(Zn)-bim0.35?",
+      "answer": "441 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the melting temperature (Tm) in the study?",
+      "answer": "Tm was defined as the offset temperature of the endothermal melting peak in the TGA/DSC curves.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the glass transition temperature (Tg) of ZIF-62(Zn)-bim0.35?",
+      "answer": "320 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the specific surface area of the ZIF glasses determined?",
+      "answer": "The specific surface area was calculated from the CO2 adsorption isotherms collected at 273 K using the nonlocal density functional theory (NLDFT) model.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ratio of kinetic adsorption (kf) for propylene over propane in agZIF-62(Zn)-bim0.35 at 293 K for t90%?",
+      "answer": "3.03",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the IAST selectivity factor (SIAST) for a propylene/propane mixture with a molar ratio of 50:50 at 293 K in agZIF-62(Zn)-bim0.17?",
+      "answer": "1.83",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the decomposition temperature range for ZIF-62(Co)-bim0.30?",
+      "answer": "510-550 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main reason for the systematic deviation in melting temperatures determined by variable temperature XRPD experiments compared to TGA/DSC?",
+      "answer": "The deviation is ascribed to the different temperature-time profiles of the two experiments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the melting point of ZIF-62(Zn)-bim0.35 is lower than that of ZIF-62(Zn)-bim0.05.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study successfully fitted the kinetic adsorption data to a pseudo-first order kinetic model.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in fitting the kinetic adsorption data to a kinetic model according to the study?",
+      "answer": "The main challenge was strong diffusion limitations present in the glasses, resulting in a strong dependency of the diffusional time constants on the coverage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study indicates that the formation of a stable ZIF liquid that does not recrystallize to ZIF-zni is observed for very low bim– concentrations.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of ZIF glasses over their crystalline counterparts for gas separation applications as mentioned in the study?",
+      "answer": "The main advantage is their very high thermal decomposition temperatures and their liquid phase processability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that the lowest melting point achievable for ZIFs at atmospheric pressure is around 320-330 °C.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main hypothesis of the study regarding the melting of ZIFs containing the small im– linker?",
+      "answer": "The hypothesis is that a great number of other ZIFs may melt at lower temperatures as long as they are composed of im– linkers and at least one other bulkier imidazolate-type linker.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that ZIF glasses show a preference for the adsorption of propylene over propane.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the preference of ZIF glasses for the adsorption of propylene over propane according to the study?",
+      "answer": "The study suggests that the preference is due to the faster diffusion of propylene into the glasses compared to propane.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the melting point of ZIF-62(Zn)-bim0.35 is the lowest among all the ZIF-62(Zn)-bimx materials studied.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main conclusion of the study regarding the potential applications of ZIF glasses?",
+      "answer": "The study concludes that ZIF glasses are an interesting new class of materials for the separation of propylene from propane and have advantages in terms of processability and thermal stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study successfully applied a diffusional time constant based model to fit the kinetic adsorption data.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

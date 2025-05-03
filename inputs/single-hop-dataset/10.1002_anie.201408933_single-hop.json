@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study presented in the text?",
+      "answer": "The main focus of the study is on the extreme carbon dioxide sorption hysteresis in open-channel rigid metal–organic frameworks (MOFs).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How do the pore dimensions of the MOFs vary?",
+      "answer": "The pore dimensions of the MOFs vary according to the choice of 4,4’-bipyridyl linker.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes adsorption hysteresis in MOFs?",
+      "answer": "Adsorption hysteresis may result from intrinsic framework flexibility, a phase transition, capillary condensation, or gas trapping within the pore apertures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CO2 molecules in the channels of frameworks 1 b, 2 b, and 3 b resemble the arrangements observed in dry ice.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to study the molecular properties and noncovalent interactions between molecules?",
+      "answer": "The MEP (V(r)) method is used for studying molecular properties and noncovalent interactions between molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What influences the selectivity of MOFs for CO2 capture?",
+      "answer": "Selectivity is influenced by the molecular sieving effect, the thermodynamic effect, and the kinetic effect.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The thermal stability of CO2 in the frameworks is directly related to the size of the channel.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Why does framework 2 exhibit the most extreme hysteresis?",
+      "answer": "Framework 2 exhibits the most extreme hysteresis due to its intermediate channel dimensions and the electrostatic interactions that stabilize CO2 within the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CO2 molecules in framework 1 are mostly stabilized by dispersion interactions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of electrostatic potential maps (FEPs) in understanding MOFs?",
+      "answer": "FEPs provide insight into the nature of the electrostatic interactions between guest molecules and the host framework, helping to understand trends in host–guest binding stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The molecular electrostatic potential of an isolated CO2 molecule shows negative potentials on the oxygen atoms.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How are the CO2 molecules arranged in the channels of framework 2 b?",
+      "answer": "The CO2 molecules in 2 b are both pseudo-crossed along the channel and pseudo-slipped-parallel diagonally across the channel.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CO2 molecules of 3 b only adopt the pseudo-slipped-parallel arrangement diagonally across the channel.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the thermal stability of the frameworks indicate about CO2 evolution?",
+      "answer": "The thermal stability indicates that CO2 evolution follows a trend of decreasing steric stabilization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All three frameworks display type I CO2 sorption and desorption isotherms.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of extreme hysteresis in the isotherms suggest about the frameworks?",
+      "answer": "The presence of extreme hysteresis suggests that the frameworks are capable of trapping CO2 under supercritical conditions and sequestering CO2 at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The order of hysteresis experienced by frameworks 1 and 3 corresponds inversely to their relative channel dimensions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What factors contribute to the selectivity of MOFs for CO2 capture according to the text?",
+      "answer": "The size/shape exclusion principle, the thermodynamic effect due to preferential packing, surface interactions, suitable topology, and the kinetic effect contribute to the selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the frameworks 1, 2, and 3 differ in their interaction with CO2 molecules?",
+      "answer": "Framework 1 binds CO2 molecules mostly through dispersion interactions, while frameworks 2 and 3 adjust their positions to maximize electrostatic interactions with the CO2 molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study concludes that framework 2 provides the most favorable combination of factors for binding CO2 guest molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

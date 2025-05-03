@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the compound discussed?",
+      "answer": "[Cu(2,4,6-tmpa)2]2-",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of measurements are depicted in the graphs?",
+      "answer": "Magnetic susceptibility measurements",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the compound discussed a single molecule magnet?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the trend of magnetic susceptibility with temperature in graph a?",
+      "answer": "Decreases as temperature increases",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does graph b show a linear relationship between M/BM and H/T?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the unit of magnetic susceptibility used in the graphs?",
+      "answer": "cm3 mol-1 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is there a direct proportionality between lnτ and 1/T according to the data?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the graph in section b represent?",
+      "answer": "Variation of magnetic moment with applied magnetic field",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the magnetic properties of the compound be considered temperature independent?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the slope in graph b?",
+      "answer": "It indicates the magnetic moment of the compound",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic susceptibility constant across the temperature range in graph a?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the intercept in graph b likely represent?",
+      "answer": "The intrinsic magnetic moment of the compound",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound exhibit paramagnetic behavior?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What could be inferred about the compound's magnetic properties at very low temperatures?",
+      "answer": "They become more pronounced",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic susceptibility inversely proportional to temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What physical property is being directly measured in graph a?",
+      "answer": "Magnetic susceptibility",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the data suggest a quantum mechanical behavior of the compound?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What could be the reason for the shape of the curve in graph a?",
+      "answer": "The compound's magnetic interactions vary with temperature",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's magnetic moment constant across the applied magnetic field range?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the y-axis represent in graph b?",
+      "answer": "Magnetic moment in Bohr magnetons",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

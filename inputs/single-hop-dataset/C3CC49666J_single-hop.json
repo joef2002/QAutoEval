@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research described in the text?",
+      "answer": "The research focuses on the synthesis and characterization of novel photochromic diarylethene-based linkers for use in metal–organic frameworks (MOFs), including the analysis of crystal structure of reaction intermediates and the creation of a photoresponsive metal–organic framework, UBMOF-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does the linker TPDC exhibit when incorporated into UBMOF-1?",
+      "answer": "The linker TPDC exhibits fully reversible photochromism in solution, but the cycloreversion reaction is suppressed when incorporated into the crystalline framework of UBMOF-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using photochromic molecules in MOFs?",
+      "answer": "Photochromic molecules are ideal for sensors, switches, and optical data storage media due to their ability to change molecular and electronic structure upon application of light, offering photonic control over the physical properties of the crystalline host.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the pinacol rearrangement important in the synthesis described?",
+      "answer": "The pinacol rearrangement is important for transforming a thien-3-yl substituted phenanthrene diol into the desired diarylethene, which is a crucial step in synthesizing the photochromic linkers for MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is UBMOF-1 isostructural with IRMOF-10 and IRMOF-14?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the digestion of UV irradiated UBMOF-1 crystals in DMSO retain reversible photochromism?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenge does the synthesis of UBMOF-1 highlight in the development of photoresponsive MOFs?",
+      "answer": "The synthesis of UBMOF-1 highlights the challenge of suppressing the ligand ring-opening reaction in the MOF relative to solution, indicating the influence of the local chemical environment on photochemical reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to verify the chemical stability of the ligand during the synthesis of UBMOF-1?",
+      "answer": "The chemical stability of the ligand during the synthesis of UBMOF-1 was verified through digestion experiments followed by 1H-NMR spectroscopy analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the photochromic activity of diarylethene-based linkers be maintained after their incorporation into MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of zinc nitrate in the synthesis of UBMOF-1?",
+      "answer": "Zinc nitrate acts as a metal source that coordinates with the deprotonated diarylethene-based linker (TPDC) to form the metal–organic framework structure of UBMOF-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the solvothermal reaction of 7a with zinc nitrate yield large photochromic single crystals?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of incorporating carboxylic acid groups on the diarylethene linker for MOF synthesis?",
+      "answer": "Incorporating carboxylic acid groups on the diarylethene linker makes it suitable for MOF inclusion by allowing it to coordinate with metal centers, leading to the formation of photo-responsive MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What analytical technique was used to characterize the crystal structure of reaction intermediates in the study?",
+      "answer": "Single crystal X-ray diffraction (XRD) was used to characterize the crystal structure of reaction intermediates in the study.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photochromism of the ligand TPDC fully reversible when incorporated into UBMOF-1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are envisioned for photoresponsive MOFs like UBMOF-1?",
+      "answer": "Photoresponsive MOFs like UBMOF-1 are envisioned for applications in separation science, chemical sensing, gas storage, and drug delivery, where their structural reorganization upon external stimuli can be utilized.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the core structure of the multi-functional diarylethene linker used in the study?",
+      "answer": "The core structure of the multi-functional diarylethene linker used in the study consists of a bis-thien-3-yl substituted phenanthrene (BT3P).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of UBMOF-1 involve a solvothermal reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high site symmetry of the photochromic linker in UBMOF-1?",
+      "answer": "The high site symmetry of the photochromic linker in UBMOF-1 leads to strong crystallographic disorder of the low symmetry ligand, affecting the refinement of the dimethylthiophene groups and illustrating the complexity of accurately modeling such structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with the pinacol rearrangement in the synthesis of diarylethene-based linkers?",
+      "answer": "The challenges associated with the pinacol rearrangement in the synthesis of diarylethene-based linkers include the need for harsh conditions and the difficulty in achieving the rearrangement for certain substituted diols, necessitating alternative synthetic routes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of p-toluenesulfonic acid in the synthesis of the diarylethene-based linkers?",
+      "answer": "P-toluenesulfonic acid acts as a catalyst to promote the pinacol rearrangement and dehydration reactions in the synthesis of the diarylethene-based linkers, avoiding the oxidation of sensitive substrates.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

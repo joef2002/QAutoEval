@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in applying solid-state NMR spectroscopy to paramagnetic compounds?",
+      "answer": "Nuclear spin dynamics are profoundly affected by unpaired electrons, making direct application of methods used for non-paramagnetic compounds difficult.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the protocol proposed in the text address the structure determination of powdered microcrystalline paramagnetic solids?",
+      "answer": "It uses paramagnetic effects to define the conformation of a molecule in the lattice and the intermolecular packing in the solid phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The pseudo-contact shift (PCS) depends on the position of a nucleus with respect to the principal axes of the susceptibility tensor anchored on the metal center.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the nonzero effect in the NMR spectrum, known as the pseudo-contact shift, indicate?",
+      "answer": "It indicates a metal possesses an anisotropic magnetic susceptibility tensor.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How can the axial anisotropy of the chemical shift tensor be used in the context of paramagnetic compounds?",
+      "answer": "It can be used as a tool to disentangle the spatial dependence of the molecular geometry by relating to the electron-nucleus distance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Contributions from intercomplex hyperfine couplings are negligible for small molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using 1H nuclei in the study of paramagnetic molecules in solid-state NMR spectroscopy?",
+      "answer": "1H nuclei are 100% abundant, have negligible chemical shift anisotropy, are rarely directly bonded to the metal center, and are not affected by Curie broadening in solids.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The method described in the text allows for the determination of molecular conformation as well as positions and orientations of neighboring molecules in the solid phase.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the observation of PCSs in inorganic fragments and microcrystalline paramagnetic proteins suggest?",
+      "answer": "It opens the perspective of using PCSs in solid-state structure determination.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The strength of the electron-nucleus interaction cannot be tuned by using lanthanides with different effective moments.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenge does the article mention regarding the measurement of paramagnetic effects on 1H nuclei?",
+      "answer": "The difficulty in signal assignment and the limited sensitivity and resolution in paramagnetic systems at natural abundance.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The method described for structure determination of paramagnetic molecules in the solid phase relies on the reciprocal position of two nuclei.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the method exploit the particular potential of solid-state NMR spectroscopy?",
+      "answer": "By providing stronger structural restraints than in analogous solution-state approaches.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The method described cannot determine the absolute position of 1H atoms in a lattice.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the axial anisotropy Ds of the nuclear dipolar shift tensor in the context of paramagnetic compounds?",
+      "answer": "It is directly related to the electron-nucleus distance and may offer a tool to disentangle the spatial dependence of the molecular geometry.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of intermolecular paramagnets affect the NMR spectrum of a microcrystalline sample?",
+      "answer": "It results in shift tensors that notably deviate from axial symmetry, affecting the precision of intracomplex distances extracted from the shift anisotropies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The total hyperfine dipolar Hamiltonian cannot be easily obtained by summing the dipolar interactions describing each electron-nucleus spin pair over the lattice.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the method described in the text provide that is unique in the arrangement of paramagnetic molecules in the solid phase?",
+      "answer": "It determines molecular conformation as well as positions and orientations of neighboring molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the method described in the text differ from traditional approaches in determining the structure of paramagnetic molecules?",
+      "answer": "It does not rely on the reciprocal position of two nuclei but provides a tool to determine the absolute position of 1H atoms in a lattice.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The method described in the text represents a step forward in the field of 'NMR crystallography'.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

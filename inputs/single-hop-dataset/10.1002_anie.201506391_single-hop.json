@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the synthesis approach described in the text?",
+      "answer": "The main goal is to transform microporous MOFs into hierarchical micro- and mesoporous MOFs using a simple hydrolytic post-synthetic procedure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name of the new microporous MOF synthesized as a proof of concept?",
+      "answer": "POST-66(Y)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What range of mesopore sizes was achieved through the hydrolytic transformation?",
+      "answer": "3 to 20 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the degree of micro- and mesoporosity be controlled in the synthesis process?",
+      "answer": "Yes, by adjusting the time and temperature of hydrolysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the original microporous structure completely lost after transformation?",
+      "answer": "No, the original microporous structure is maintained, at least in part.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hierarchical porous MOF, POST-66(Y)-wt, cannot encapsulate nanometer-sized guests.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Most MOFs are unstable in water.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the surface area and total specific pore volume after water treatment?",
+      "answer": "The surface area decreases significantly, while the total specific pore volume increases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to calculate the pore-size distribution profile?",
+      "answer": "The Barrett–Joyner–Halenda (BJH) method.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The transformation process from microporous to mesoporous MOF is irreversible.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used as a dissolution agent to create additional mesopores?",
+      "answer": "Water",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the leaching of metal ions and ligand monitored?",
+      "answer": "By ICP-AES and UV/Vis spectroscopy, respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The hydrolytic transformation is only applicable to POST-66(Y).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What effect does increasing the temperature for water treatment have on the transformation process?",
+      "answer": "It proceeds more rapidly and generates larger mesopores.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hierarchical porous MOF can be used to immobilize large guest molecules such as proteins and enzymes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed effect of encapsulating an enzyme in the hierarchical MOF?",
+      "answer": "Enhanced enzyme stability and recyclability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The method described requires elaborate synthetic procedures to produce mesopores.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrolytic post-synthetic transformation in MOFs?",
+      "answer": "It generates larger pores by partial removal of constituents.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The mesoporous transformation of POST-66(Y) occurs in a single stage.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the work supported by the Institute for Basic Science (IBS)?",
+      "answer": "It presents a new approach to constructing hierarchical micro- and mesoporous MOFs from microporous MOFs through a hydrolytic process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

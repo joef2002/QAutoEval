@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the effect of solvent on the UV/vis absorption bands during the conversion of 6 into 5?",
+      "answer": "Upon addition of propionitrile, the decrease of the band at 369 nm and an increase of the bands at 489 and 693 nm could be observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the ground state of [iPrL2Cr]Li2O2(THF)4 (6) according to density functional calculations?",
+      "answer": "The ground state is a triplet state with two unpaired electrons at the Cr atom and a side-on coordination of the O2 unit, consistent with a peroxide description.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What changes occur in the energetical order of spin states when a propionitrile molecule is incorporated into the ground state structure of the peroxide (6)?",
+      "answer": "The energetical order changes, making the triplet state with two antiferromagnetically coupled spins and a structure indicative of a superoxide the ground state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of TEMPO-H in the reaction with the superoxo complex 5?",
+      "answer": "TEMPO-H reacts with the superoxo complex 5, likely forming a CrIIIOOH complex initially, which then undergoes O-O bond cleavage leading to a CrIV=O complex.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The resonance Raman measurements for [iPrL2Cr]Li2O2(MeCN)4 confirmed the presence of a superoxide ligand.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect of adding TEMPO-H to the peroxo complex 6?",
+      "answer": "TEMPO could be detected by EPR spectroscopy, indicating the reaction between TEMPO-H and the peroxo complex 6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The conversion of [iPrL2Cr]Li2O2(MeCN)4 into [iPrL2Cr]Li2O2(THF)4 can be achieved without removing MeCN under vacuum.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the isotopically sensitive band observed in resonance Raman measurements for [iPrL2Cr]Li2O2(MeCN)4?",
+      "answer": "The isotopically sensitive band indicates the presence of a superoxide ligand in the complex.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of [iPrL2Cr]Li2O2(THF)4 (6) involves the bubbling of dioxygen through a solution of compound 4 in THF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed reactivity difference between the superoxo complex 5 and the peroxo complex 6 with TEMPO-H?",
+      "answer": "The superoxo complex 5 is approximately 35 times more reactive than the peroxo complex 6 with TEMPO-H.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

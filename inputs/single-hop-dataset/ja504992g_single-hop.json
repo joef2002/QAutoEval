@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Gate-Opening Gas Adsorption and Host–Guest Interacting Gas Trapping Behavior of Porous Coordination Polymers under Applied AC Electric Fields",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the research article?",
+      "answer": "Hitoshi Miyasaka",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/ja504992g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of materials does the research focus on?",
+      "answer": "Porous coordination polymers (PCPs) or metal–organic frameworks (MOFs)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main method used for detecting gas adsorption in the study?",
+      "answer": "In situ ac electric field measurements",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gas showed a unique increase in electronic conductivity when introduced to compounds 1 and 3?",
+      "answer": "NO",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did compound 3 exhibit gate-opening behavior for gas adsorption?",
+      "answer": "No, compound 3 did not exhibit gate-opening behavior for any gases used in the study.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the electronic conductivity of compound 2 significantly lower than that of compounds 1 and 3?",
+      "answer": "Yes, the inherent electronic conductivity of compound 2 is much lower than that of compounds 1 and 3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the technique used in the study potentially enable the creation of novel molecular systems/sensors driven by chemical information?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the gate-opening adsorption behavior observed in the nonporous gate-inactive compound [Ru2(o-OMePhCO2)4(phz)] (3)?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study provide evidence for electronic host–guest interactions in conducting host frameworks derived from redox-active MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that inert gases like He, O2, and CO2 cause significant electronic perturbations in the frameworks of compounds 1 and 3?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the oxidation state of the [Ru2] unit in compound 3 [Ru2II,II]?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the adsorption behavior of NO by compound 1 selective?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study conclude that MOFs constructed from redox-active building blocks are not suitable for applications as chemically driven electronic devices?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of compound 3?",
+      "answer": "P−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CCDC number for compound 3?",
+      "answer": "1003673",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy for NO adsorption in compound 1?",
+      "answer": "The activation energy for NO adsorption in compound 1 is not directly provided in the text.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study use nuclear magnetic resonance (NMR) for analyzing materials or guest molecules in the adsorption process?",
+      "answer": "Yes, NMR for several probes such as 13C, 19F, 129Xe was mentioned as a technique available for getting information on materials or guest molecules in the adsorption process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption enthalpy for CO2 adsorption by compound 1 estimated to be −18.8 kJ mol−1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+    "data": [
+        {
+            "question": "What is the highest reported surface area for a disordered structure prior to this work?",
+            "answer": "The claim for the highest surface area of a disordered structure prior to this work is for carbon, at 2,030 m2 g\u922d?.",
+            "type": "factual"
+        },
+        {
+            "question": "What was the largest reported surface area of an ordered structure before the introduction of metal-organic frameworks?",
+            "answer": "Until recently, the largest surface area of an ordered structure was that of zeolite Y, recorded at 904 m2 g\u922d?.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the surface area of MOF-177 estimated to be in this work?",
+            "answer": "In this work, the surface area of the new metal-organic framework MOF-177 is estimated at 4,500 m2 g\u922d?.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the surface area of a single infinite graphene sheet when calculating both sides?",
+            "answer": "The surface area of a single infinite graphene sheet is 2,965 m2 g\u922d? when calculating both sides.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the surface area of units consisting of infinite chains of poly-p-linked six-membered rings extracted from a graphene sheet?",
+            "answer": "For units consisting of infinite chains of poly-p-linked six-membered rings extracted from a graphene sheet, the surface area is almost doubled to 5,683 m2 g\u922d? compared to the graphene sheet.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the upper limit value for the surface area when a graphene sheet is fully decomposed into isolated six-membered rings?",
+            "answer": "Exposing all latent edges by dividing a graphene sheet into isolated six-membered rings leads to an upper limit value of 7,745 m2 g\u922d? for the surface area.",
+            "type": "factual"
+        },
+        {
+            "question": "Why does linking fragments of a graphene sheet into a real material not lead to complete realization of the theoretically limiting surface area values?",
+            "answer": "Linking fragments of a graphene sheet into a real material does not lead to complete realization of the theoretically limiting surface area values because the analysis does not take into account the hydrogen atoms that would terminate the fragments in metal-organic frameworks, although that would result in even higher surface areas for those fragments.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What does the analysis of graphene fragments suggest in order to maximize the number of exposed ring faces and edges in a material?",
+            "answer": "The analysis of graphene fragments suggests that structures with condensed rings should be avoided in order to maximize the number of exposed ring faces and edges in a material.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What units were linked together using reticular chemistry reactions to produce MOF-177?",
+            "answer": "To produce MOF-177, a carboxylate derivative of a triangular BTB unit was linked with basic zinc(II) carboxylate clusters, which are octahedral units, using reticular chemistry reactions.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How many exposed edges and fused edges are there per formula unit in the structure of MOF-177?",
+            "answer": "In the structure of MOF-177, there are 84 exposed edges (60 C\u9225\u63c5, 12 C\u9225\u63d9, and 12 Zn\u9225\u63d9) and only four fused edges (Zn\u9225\u63d9) per formula unit.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the space occupied by guests alone as a percentage of the cell volume in as-prepared MOF-177?",
+            "answer": "In the as-prepared MOF-177 material, the space occupied by guests alone is 81% of the cell volume.",
+            "type": "factual"
+        },
+        {
+            "question": "What evidence initially indicated guest mobility and framework stability in MOF-177?",
+            "answer": "Evidence of guest mobility and framework stability in MOF-177 initially came from a thermal gravimetric analysis study, which showed two weight-loss steps corresponding to loss of guest molecules and decomposition of the framework, with no weight loss between those steps indicating thermal stability.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What further confirmed the architectural stability of the MOF-177 framework in the absence of guests?",
+            "answer": "Comparison of the X-ray powder diffraction patterns of as-synthesized MOF-177 with samples having completely evacuated pores showed that the framework periodicity and structure are still preserved, further confirming the architectural stability of the framework in the absence of guests.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What was the total weight uptake of N2 molecules at relatively low pressures in the gaseous N2 sorption isotherm of MOF-177?",
+            "answer": "The gaseous N2 sorption isotherm of MOF-177 showed the accessible void space is fully saturated with N2 molecules at relatively low pressures (P/P0 < 0.2) with a total weight uptake of 1,288 mg N2 per gram of the fully evacuated framework.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the pore volume of MOF-177 obtained using the Dubinin\u9225\u63dcaduskhvich equation?",
+            "answer": "Using the Dubinin\u9225\u63dcaduskhvich equation, a pore volume of 1.59 cm3 g\u922d? (0.69 cm3 cm\u922d?) was obtained for MOF-177.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the apparent Langmuir surface area of MOF-177 assuming a monolayer coverage of N2?",
+            "answer": "By assuming a monolayer coverage of N2 and applying the Langmuir model, the apparent Langmuir surface area of MOF-177 was found to be 4,500 m2 g\u922d?.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The pore volume and surface area of MOF-177 are comparable to the most porous crystalline zeolites and porous carbon.",
+            "answer": "False. The pore volume and surface area of MOF-177 are well beyond those observed for the most porous crystalline zeolites and porous carbon.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The structure of the net underlying MOF-177 helps determine pore size by preventing the formation of interpenetrating frameworks.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The net underlying MOF-177 is the same as the default pyr net found in MOF-150.",
+            "answer": "False. The net underlying MOF-177, termed qom, is related to but different from the default pyr net found in MOF-150.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The dual net of the qom net underlying MOF-177 has the same structure as qom.",
+            "answer": "False. The dual net of qom, although also (6,3)-coordinated, is very different in structure from qom itself.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: Two qom nets can interpenetrate efficiently.",
+            "answer": "False. As the qom net is very different from its dual, two qom nets cannot interpenetrate efficiently.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: MOF-177 crystals were able to adsorb C60 fullerene molecules, as evidenced by a color change and Raman spectroscopy.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: All three dyes tested, Astrazon Orange R, Nile Red and Reichardts dye, were uniformly distributed throughout MOF-177 crystals.",
+            "answer": "False. While Astrazon Orange R and Nile Red colored the MOF-177 crystal slices uniformly, indicating free movement into the crystals, the very large molecules of Reichardts dye penetrated only the outer part of the crystals.",
+            "type": "true_false"
+        }
+    ]
+}

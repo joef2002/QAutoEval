@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MOF1212?",
+      "answer": "C36H24Cu2.25N6O16Zr3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single-crystal X-ray diffraction intensity data collection for compound 1 and compound 1′?",
+      "answer": "Bruker D8 Venture diffractometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "Im3̅",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of BUT-30 synthesized?",
+      "answer": "88.3%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>=2σ(I)) for MOF1212?",
+      "answer": "R1 = 0.0457, wR2 = 0.1423",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the lattice type of compound 2′?",
+      "answer": "cubic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the occupancy of the O1 atom in compound 2?",
+      "answer": "1.00",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of BUT-30?",
+      "answer": "cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (V/Å3) of the unit cell for compound 1?",
+      "answer": "25321.0(16)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of compound 2 synthesized?",
+      "answer": "43%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the degradation rate of VX by POM30.9@compound 1′ after 15 minutes?",
+      "answer": "91.5%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of oxygen species on the VX degradation catalyzed by POM30.9@compound 1′?",
+      "answer": "The conversion of VX increased with more H2O2, indicating that the oxidation of the S center facilitates the subsequent hydrolysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of compound 1 cubic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the occupancy of the O1 atom in compound 2′ 1.00?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of compound 2′ I23?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of BUT-30 synthesized 95%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the final R index (I>=2σ(I)) for MOF1212 R1 = 0.0457, wR2 = 0.1423?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the lattice type of compound 2′ hexagonal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the occupancy of the O1 atom in compound 2 0.50?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of BUT-30 tetragonal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

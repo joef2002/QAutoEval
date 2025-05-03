@@ -1,0 +1,103 @@
+{
+  "materials": [
+    {
+      "name": "Gd-1",
+      "synthesis_conditions": {
+        "temperature": "358 K",
+        "solvents": [
+          {
+            "name": "DMF-H2O",
+            "volume_ratio": "3:1",
+            "amount": "2 mL"
+          },
+          {
+            "name": "HAc",
+            "amount": "120 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Gd(NO3)3·6H2O",
+            "amount": "10 mg, 0.02 mmol"
+          },
+          {
+            "name": "m-H2LRu",
+            "amount": "2.5 mg, 0.003 mmol"
+          },
+          {
+            "name": "H4SiW12O40·xH2O",
+            "amount": "28 mg, 0.01 mmol"
+          }
+        ],
+        "time": "12 days",
+        "yield": "5.8 mg (81%, based on m-H2LRu ligand)"
+      }
+    },
+    {
+      "name": "Dy-2",
+      "synthesis_conditions": {
+        "temperature": "358 K",
+        "solvents": [
+          {
+            "name": "DMF-H2O",
+            "volume_ratio": "3:1",
+            "amount": "2 mL"
+          },
+          {
+            "name": "HAc",
+            "amount": "140 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Dy(NO3)3·6H2O",
+            "amount": "10 mg, 0.02 mmol"
+          },
+          {
+            "name": "m-H2LRu",
+            "amount": "2.5 mg, 0.003 mmol"
+          },
+          {
+            "name": "H4SiW12O40·xH2O",
+            "amount": "28 mg, 0.01 mmol"
+          }
+        ],
+        "time": "12 days",
+        "yield": "5.2 mg (76%, based on m-H2LRu ligand)"
+      }
+    },
+    {
+      "name": "Er-3",
+      "synthesis_conditions": {
+        "temperature": "358 K",
+        "solvents": [
+          {
+            "name": "DMF-H2O",
+            "volume_ratio": "3:1",
+            "amount": "2 mL"
+          },
+          {
+            "name": "HAc",
+            "amount": "120 μL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Er(NO3)3·6H2O",
+            "amount": "10 mg, 0.02 mmol"
+          },
+          {
+            "name": "m-H2LRu",
+            "amount": "2.5 mg, 0.003 mmol"
+          },
+          {
+            "name": "H4SiW12O40·xH2O",
+            "amount": "28 mg, 0.01 mmol"
+          }
+        ],
+        "time": "12 days",
+        "yield": "6.4 mg (85%, based on m-H2LRu ligand)"
+      }
+    }
+  ]
+}

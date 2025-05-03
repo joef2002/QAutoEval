@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the study described in the text?",
+      "answer": "The main goal of the study is to address the trade-off between selectivity and adsorption capacity in gas separation technologies by conducting a systematic crystal engineering study of C2H2 removal from CO2 using a family of hybrid ultramicroporous materials (HUMs).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the space groups of the crystals?",
+      "answer": "Space groups were determined using XPREP as implemented in APEX3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was employed for gas sorption measurements?",
+      "answer": "Gas sorption measurements were performed using Micromeritics Tristar II 3030 and Micromeritics 3Flex surface area and pore size analyser 3500.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the crystals of SIFSIX-21-Ni obtained?",
+      "answer": "Crystals of SIFSIX-21-Ni were obtained by solvothermal reaction of pypz and NiSiF6.6H2O in MeOH at 85 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What functional was used in DFT calculations to study the binding sites in SIFSIX-21-Ni?",
+      "answer": "The BEEF-vdW functional was used in DFT calculations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of performing simulated annealing (SA) calculations?",
+      "answer": "Simulated annealing (SA) calculations were performed to identify the most favorable binding site for both C2H2 and CO2 in the material.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of the accelerated stability protocol?",
+      "answer": "The accelerated stability protocol involved exposing microcrystalline samples of each HUM to 313 K and 75% RH for 1, 7, and 14 days to detect signs of the sample being affected by humidity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the single-gas sorption cycling test?",
+      "answer": "Gravimetric uptakes were recorded under pure C2H2 gas, and desorption at 60 °C was performed under N2 flow, indicating the sorbent's ability to adsorb and desorb C2H2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the separation factor or selectivity indicate in the context of gas separation?",
+      "answer": "The separation factor or selectivity indicates the efficiency of the sorbent in separating one gas from a mixture relative to another, based on the difference in adsorption capacities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were solid-state NMR spectroscopy experiments conducted?",
+      "answer": "Solid-state NMR spectroscopy experiments were conducted to directly study the behavior of small gas molecules adsorbed in metal-organic frameworks, providing insights into molecular motion and adsorptive behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

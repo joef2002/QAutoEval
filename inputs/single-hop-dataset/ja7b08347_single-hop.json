@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest deliverable capacity of methane storage reported for ST-2?",
+      "answer": "289 cm3 STP/cm3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF among ST-1, ST-2, ST-3, and ST-4 has the highest surface area according to BET analysis?",
+      "answer": "ST-3",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the thermal stability of ST-1 higher than 390°C?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of ST-1?",
+      "answer": "hexagonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ST-4 have a higher degree of complexity in its pore structure compared to ST-2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the linker ratio of TATAB to BDC in ST-1 according to 1H NMR spectroscopy?",
+      "answer": "4:3",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the void fraction of ST-3 less than 85%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for the background correction of methane adsorption measurements?",
+      "answer": "iSorb software",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the GCMC simulation predict higher methane uptake at 250 bar for ST-2 compared to MOF-5?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main purpose of using Topological Data Analysis (TDA) in the study of MOFs?",
+      "answer": "To identify important sub-groups and discover meaningful structure in the data",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the density of ST-2 higher than that of ST-1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of ST-4?",
+      "answer": "cubic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ST-3 have a higher volumetric methane uptake at 80 bar compared to UMCM-1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the linker used in the synthesis of ST-2?",
+      "answer": "H2NDC",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the void fraction of ST-4 less than 86%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability of ST-2 according to TGA analysis?",
+      "answer": "360°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the GCMC simulation predict ST-2 to have a higher methane uptake at 250 bar compared to MOF-177?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using the Dreiding forcefield in GCMC simulations for MOFs?",
+      "answer": "It treats the MOF framework and the gas molecule as rigid, allowing for accurate simulation of adsorption",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the volumetric methane uptake of ST-2 at 200 bar higher than that of MIL-101 at 303 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the persistent homology analysis in the study of MOFs?",
+      "answer": "It helps in identifying important features of a MOF that persist over a range of spatial resolutions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

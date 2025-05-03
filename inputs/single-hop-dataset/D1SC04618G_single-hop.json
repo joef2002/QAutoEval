@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary adsorption site for D2 in ZIF-7?",
+      "answer": "The primary adsorption site for D2 in ZIF-7 is sandwiched between the imidazolate ring of one ligand and the benzene ring of an adjacent ligand in 6-membered ring 3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of ZIF-7 change upon activation?",
+      "answer": "Upon activation, the structure of ZIF-7 transitions to a lower symmetry phase with a higher density compared to the water-solvated phase, featuring distorted rings and ligands that can rotate about the Zn–N/N–Zn axes in a fan-like motion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of pelletization on the gas adsorption properties of ZIF-7?",
+      "answer": "Pelletization of ZIF-7 with polyvinylpyrrolidone binder under varying external pressures results in minimal reduction of the gas adsorption properties, indicating that ZIF-7's gas storage properties are robust to pelletization.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What mechanism underlies the hydrogen-induced phase change in ZIF-7?",
+      "answer": "The hydrogen-induced phase change in ZIF-7 is facilitated by ligands rotating about the Zn–N/N–Zn axes in a fan-like motion and some tolerance for out-of-plane ligand torsion, allowing the framework to adapt its structure to form energetically favorable sandwich-like adsorption sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase change in ZIF-7 reversible?",
+      "answer": "Yes, the phase change in ZIF-7 is reversible, as evidenced by the fully reversible, closed hysteresis loop observed in isothermal hydrogen adsorption-desorption measurements and the consistent structures obtained from PND measurements upon adsorption and desorption of D2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What synthetic modification is hypothesized to fine-tune the phase change conditions in ZIF-7?",
+      "answer": "Synthetic modification along the benzene ring in the benzimidazolate linkers is hypothesized to fine-tune the phase change conditions in ZIF-7 by affecting the strength of ligand–ligand interactions and the Lewis basicity of the arene ring.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of benzene rings in the benzimidazolate ligands of ZIF-7?",
+      "answer": "The benzene rings in the benzimidazolate ligands of ZIF-7 play a key role in stabilizing the dense activated phase and forming the primary sandwich-like adsorption sites for D2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of ZIF-7 compare to its Cd-based congener, CdIF-13?",
+      "answer": "The structure of activated ZIF-7 is similar to that of its Cd-based congener, CdIF-13, with both materials displaying lower symmetry and higher density in their activated phases compared to their water-solvated phases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of high applied pressures during pelletization on flexible MOFs?",
+      "answer": "High applied pressures during pelletization can induce phase transitions in flexible MOFs, modify their phase transition conditions, and potentially reduce their gas adsorption capacities.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZIF-7 achieve the Department of Energy's targets for hydrogen storage in light-duty vehicles?",
+      "answer": "While no materials currently meet the Department of Energy's ambitious targets for hydrogen storage at operationally relevant conditions, the study suggests that properly derivatized and pelletized ZIF-7 may be a commercially viable candidate for hydrogen storage, contributing towards meeting these targets.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the total gravimetric H2 uptake of FJI-H5 at 77 K and 90 bar?",
+      "answer": "11.35 wt%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of FJI-H5?",
+      "answer": "4255 m2 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the total CH4 uptake of FJI-H5 at 298 K and 35 bar?",
+      "answer": "305.07 cm3 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of FJI-H5?",
+      "answer": "tetragonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of FJI-H5?",
+      "answer": "P4/mmm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the empirical formula of FJI-H5?",
+      "answer": "C84 H54 Cu6 O33",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the Cu2 SBUs in FJI-H5?",
+      "answer": "They are used to construct the framework and contribute to the high H2 uptake due to the alignment of open copper sites.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does FJI-H5 have a high surface area?",
+      "answer": "Due to the design of the semi-rigid bent di-isophthalate ligand and the construction of the framework with Cu2 SBUs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the symmetry of ligands affect the construction of MOFs?",
+      "answer": "Reducing the symmetry of the ligands leads to the construction of diversified MOFs with uncommon topologies and high gas uptakes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the coexistence of cages and one-dimensional channels in FJI-H5?",
+      "answer": "It contributes to the high gas uptake and storage capabilities of the MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the extension of the arms of the bent ligands affect the MOF?",
+      "answer": "It results in a higher surface area and better performance for H2 and CH4 uptakes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the surface area of MOFs and H2 uptake at high pressure?",
+      "answer": "At high pressure, the H2 uptake at 77 K has a qualitative linear relationship with the surface area.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is FJI-H5 crystalline after activation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FJI-H5 have a higher H2 uptake than PCN-12?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the total pore volume of FJI-H5 among the highest values reported for MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the isosteric heat of H2 adsorption for FJI-H5 lower than 5 kJ mol-1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FJI-H5 have a lower BET surface area than PCN-12?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the solvent accessible volume in fully desolvated FJI-H5 less than 50%?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FJI-H5 use H4mdip ligands in its construction?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of FJI-H5 cubic?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

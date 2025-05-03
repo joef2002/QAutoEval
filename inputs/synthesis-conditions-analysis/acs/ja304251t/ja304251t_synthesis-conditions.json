@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "material": "K14ZnGe16",
+      "synthesis_conditions": {
+        "temperature_program": {
+          "heating_rate": "5 K min−1",
+          "holding_temperature": "650 °C",
+          "holding_time": "24 h",
+          "cooling_rate_to_450_C": "0.1 K min−1",
+          "holding_time_at_450_C": "3 d",
+          "cooling_rate_to_390_C": "0.1 K min−1",
+          "holding_time_at_390_C": "5 d",
+          "quenching_method": "quenched to room temperature"
+        },
+        "solvents": "liquid ammonia",
+        "solubility": "soluble",
+        "equipment": "tantalum ampules, silica tubes, vertical resistance tube furnaces",
+        "chemicals_used": {
+          "Ge_pieces": "99.999%, ChemPur",
+          "Rb": "as received",
+          "K": "purified by liquating",
+          "Zn_granula": "Merck, as received or purified by distillation"
+        },
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "Rb14ZnGe16",
+      "synthesis_conditions": {
+        "temperature_program": {
+          "heating_rate": "5 K min−1",
+          "holding_temperature": "650 °C",
+          "holding_time": "24 h",
+          "cooling_rate_to_450_C": "0.1 K min−1",
+          "holding_time_at_450_C": "3 d",
+          "cooling_rate_to_390_C": "0.1 K min−1",
+          "holding_time_at_390_C": "5 d",
+          "quenching_method": "quenched to room temperature"
+        },
+        "solvents": "liquid ammonia",
+        "solubility": "soluble",
+        "equipment": "tantalum ampules, silica tubes, vertical resistance tube furnaces",
+        "chemicals_used": {
+          "Ge_pieces": "99.999%, ChemPur",
+          "Rb": "as received",
+          "K": "purified by liquating",
+          "Zn_granula": "Merck, as received or purified by distillation"
+        },
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "[K([18]-crown-6)]2K2[(MesCu)2Ge4](NH3)7.5",
+      "synthesis_conditions": {
+        "temperature": "-78 °C",
+        "solvents": "liquid ammonia",
+        "solubility": "soluble",
+        "equipment": "Schlenk tube",
+        "chemicals_used": {
+          "K14ZnGe16": "0.133 g; 0.075 mmol",
+          "[18]-crown-6": "0.036 g; 0.135 mmol",
+          "MesCu": "0.014 g; 0.075 mmol"
+        },
+        "time": "3 months",
+        "yield": "not specified",
+        "crystal_shape": "red block-shaped"
+      }
+    }
+  ]
+}

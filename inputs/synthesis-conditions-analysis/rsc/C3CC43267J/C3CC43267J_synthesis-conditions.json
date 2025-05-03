@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "General Considerations",
+      "conditions": {
+        "atmosphere": "argon",
+        "techniques": ["Schlenk line", "glove box"],
+        "solvents_system": "LC-SPS solvent purification system",
+        "solvents_details": "using dry packed columns containing 3 Å molecular sieves",
+        "reagents_source": ["Aldrich", "Alfa Aesar", "Acros Organics", "MP Biomedicals"],
+        "equipment": ["Nicolet 510-FTIR spectrometer"],
+        "temperature": "ambient for IR spectra collection",
+        "elemental_analysis": "performed by MHW Laboratories, Phoenix, AZ, USA",
+        "sublimations_equipment": "multi-stage programmable temperature tube furnace"
+      }
+    },
+    {
+      "name": "La(hfac)3(boaDTDA)",
+      "conditions": {
+        "solvent": "Anhydrous CH2Cl2",
+        "solvent_amount": "20 mL",
+        "reactants": [
+          {
+            "name": "La(hfac)3(DME)",
+            "amount": "0.2300 g",
+            "mmol": "0.2705 mmol"
+          },
+          {
+            "name": "boaDTDA",
+            "amount": "0.0591g",
+            "mmol": "0.266 mmol"
+          }
+        ],
+        "atmosphere": "argon",
+        "stirring_time": "40 min",
+        "solvent_removal": "under reduced pressure",
+        "sublimation_temperature": "120 °C",
+        "sublimation_pressure": "10-2 Torr",
+        "yield": "0.0550 g (21%)",
+        "product_color": "green needles"
+      }
+    },
+    {
+      "name": "Magnetic Measurements",
+      "conditions": {
+        "equipment": "Quantum Design SQUID magnetometer MPMS-XL",
+        "temperature_range": "1.8 to 400 K",
+        "dc_applied_fields_range": "-7 to 7 T",
+        "sample_preparation": "polycrystalline sample of 12.2 mg in a sealed polyethylene bag under argon atmosphere",
+        "corrections_applied": ["sample holder", "small ferromagnetic impurity", "diamagnetic contributions"]
+      }
+    },
+    {
+      "name": "Crystallographic Measurements",
+      "conditions": {
+        "equipment": "SuperNova Agilent diffractometer",
+        "features": ["microfocus Mo Kα radiation source", "Atlas CCD detector"],
+        "temperature": "150 K",
+        "data_collection": "ω-scan to the resolution of 0.7 Å",
+        "software": ["CrysAlisPro for unit cell refinement and data reduction", "SHELXTL/PC V6.14 for structure solving"],
+        "absorption_correction_method": "multiscan method"
+      }
+    }
+  ]
+}

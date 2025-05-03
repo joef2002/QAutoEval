@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for Fe2Cl2(bbta)?",
+      "answer": "Fe2Cl2(bbta) is 1 (H2bbta = 1H,5H-benzo(1,2-d:4,5-d¢)bistriazole).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for the structure solution and Rietveld refinement of Fe2Cl2(bbta)?",
+      "answer": "Le Bail fitting implemented in TOPAS-Academic was used for the structure solution and Rietveld refinement of Fe2Cl2(bbta).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was observed in the CO-dosed Fe2Cl2(bbta) after a Rietveld refinement?",
+      "answer": "Excess electron density was observed above the Fe centers at a distance expected for adsorbed CO in the CO-dosed Fe2Cl2(bbta) after a Rietveld refinement.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of cycling Fe2Cl2(bbta) between temperatures 273 K and 353 K?",
+      "answer": "The purpose was to monitor the quantitative phase change between two crystal structures as a function of temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Fe2Cl2(btdd) structure was optimized using the Forcite module of Materials Studio.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the selectivity parameter (S) used for in the study?",
+      "answer": "The selectivity parameter (S) was used for comparing the amount adsorbed of each gas (CO, H2, and N2) at a given pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What equation was employed to describe both the pre-step and post-step CO adsorption?",
+      "answer": "A piecewise function (Eqn 2) was employed to describe both the pre-step and post-step CO adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The isosteric heats of adsorption (Qst) were calculated using the Clausius-Clapeyron equation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the saturation capacity for H2 and N2 constrained to be?",
+      "answer": "The saturation capacity for H2 and N2 was constrained to be 15 mmol/g.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the regeneration energy calculation based on?",
+      "answer": "The regeneration energy calculation was based on estimations of the latent and sensible heat contributions per kg of CO captured.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The working capacity measurements for Ni2(dobdc) and Fe2(dobdc) were derived using thermodynamic parameters calculated from CO adsorption isotherms.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the peak at 2157 cm–1 in the infrared spectroscopy data attributed to?",
+      "answer": "The peak at 2157 cm–1 was attributed to high-spin FeII–CO interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Mössbauer spectra for activated Fe2Cl2(bbta) showed two different iron sites.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the χMT value at 300 K for CO-dosed Fe2Cl2(bbta)?",
+      "answer": "The χMT value at 300 K for CO-dosed Fe2Cl2(bbta) was 1.2 emu·K/mol.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: All errors associated with fitting the collected data are reported as a standard error.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the space group for Fe2Cl2(bbta) and CO•Fe2Cl2(bbta)?",
+      "answer": "The space group for both Fe2Cl2(bbta) and CO•Fe2Cl2(bbta) was R–3m.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The thermal parameters for all atoms of the bbta2– ligand were constrained to be equivalent in the Rietveld Refinement of CO•Fe2Cl2(bbta).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the ADDSYM module of PLATON in the refinement of Fe2Cl2(btdd)?",
+      "answer": "The ADDSYM module of PLATON was used to convert the structural model to the correct space group of R-3m.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The calculated diffraction pattern for the final structural model of CO-dosed Fe2Cl2(btdd) is in excellent agreement with the experimental diffraction pattern.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the Langmuir surface area of Fe2Cl2(bbta) (1) and Fe2Cl2(btdd) (2)?",
+      "answer": "The Langmuir surface area of Fe2Cl2(bbta) (1) was 1342 m2/g and for Fe2Cl2(btdd) (2) it was 3541 m2/g.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

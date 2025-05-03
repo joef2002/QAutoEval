@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal for developing hydrogen storage systems?",
+      "answer": "To create a compact, safe, and efficient system for using hydrogen as a fuel.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why have MOFs attracted attention for hydrogen storage?",
+      "answer": "Because some MOFs can store a large amount of H2 at 77 K and high pressures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of magnesium in the hybrid hydrogen storage material?",
+      "answer": "Magnesium chemisorbs H2, contributing to the material's ability to store hydrogen through both physi- and chemisorption.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How were the magnesium nanocrystals synthesized within the MOF?",
+      "answer": "By the thermal decomposition of air-sensitive bis-cyclopentadienyl magnesium (MgCp2) vapor in a MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect do magnesium nanocrystals have on hydrogen storage at 298 K?",
+      "answer": "They provide a positive effect on H2 adsorption, increasing the uptake by 20% compared to pristine SNU-90'.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Mg NCs@MOF material reach the DOE target for hydrogen storage?",
+      "answer": "The text suggests ongoing efforts to meet the DOE target by further reducing the size of Mg NCs and adjusting the amount of loaded Mg.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of SNU-90' maintained after the formation of Mg NCs?",
+      "answer": "Yes, the PXRD patterns showed that the structure of SNU-90' was maintained even after the formation of Mg NCs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the Mg NCs occupy the surface and space of the pores in the MOF?",
+      "answer": "Yes, as the amount of Mg increased, the BET surface area, pore volume, and H2 uptake capacity at 77 K and 1 atm decreased.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the H2 chemisorption capacity of Mg@SNU-90'c increase with temperature?",
+      "answer": "Yes, the H2 chemisorption capacities increase as the temperature is raised.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the organic ligands of SNU-90' hydrogenated after H2 chemisorption?",
+      "answer": "No, the 1H NMR spectra indicated that the organic ligands of SNU-90' were not hydrogenated after H2 chemisorption.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of air exposure on Mg@SNU-90'?",
+      "answer": "Exposure to air changes the shape of Mg NCs to a star shape and leads to the formation of MgO.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the hexagonal-disk shape of magnesium nanocrystals?",
+      "answer": "The hexagonal-disk shape indicates that the Mg NCs were indeed embedded in the MOF, as confirmed by electron tomography.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of NH2 group in the ligand of SNU-90' significantly affect its hydrogen storage properties?",
+      "answer": "No, despite the presence of the NH2 group, the hydrogen storage properties of SNU-90' were similar to those of MOF-177.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the process of embedding Mg NCs in MOFs unprecedented?",
+      "answer": "Yes, the fabrication of Mg nanocrystals inside MOFs is unprecedented.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of heavy-metal catalysts in magnesium hydrogen storage?",
+      "answer": "They are used to reduce the H2 desorption temperature and improve kinetics, although they do not allow effective dehydrogenation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size of magnesium nanocrystals affect the MOF's structure?",
+      "answer": "Even though the Mg NCs were much larger than the channel size of the MOF, the structure of SNU-90' was maintained.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the method of synthesizing magnesium nanocrystals require harsh conditions?",
+      "answer": "Yes, some methods require long process times, extremely high temperatures, and harsh conditions, but the method described in the text does not.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of the hybrid hydrogen storage material described?",
+      "answer": "It stores H2 by both physical adsorption and chemisorption, exhibiting a synergistic effect to increase the isosteric heat of H2 physisorption and decrease the temperatures for chemisorption/desorption of H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of reducing the particle size of magnesium on H2 absorption and release temperatures?",
+      "answer": "The H2 absorption and release temperatures decrease as a result of destabilization of the metal hydride when the particle size of magnesium is reduced.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the Mg NCs formed by heating Mg(Cp)2@MOF at temperatures higher than 500°C?",
+      "answer": "No, the Mg NCs are formed by heating Mg(Cp)2@MOF at only 200°C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

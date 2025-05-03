@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the spin ground state of (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "S = 9/2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnet does (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] behave as?",
+      "answer": "Single-Molecule Magnet",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the dominant relaxation process of magnetization below 0.3 K for (NEt4)[Mn2(salmen)2(MeOH)2Fe(CN)6]?",
+      "answer": "Quantum tunneling of the magnetization",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the relaxation time temperature independent below 0.5 K for (NEt4)[Mn2(salmen)2(MeOH)2Fe(CN)6]?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated chain length for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] based on magnetic measurements?",
+      "answer": "About 60 nm",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] exhibit slow relaxation of magnetization?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the FeIII ion in the structure of (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "Acts as a trans-bridge between two [Mn2(5-MeOsalen)2]2+ dimer units",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the magnetic interaction between MnIII and FeIII in (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] ferromagnetic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated value of the anisotropy parameter DT for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "-0.94 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the blocking temperature in the context of (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]'s magnetic behavior?",
+      "answer": "It is the temperature below which the magnetization becomes frozen and coercivity appears",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the relaxation time for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] follow an Arrhenius law above 1.4 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated pre-exponential factor (τ0) for the relaxation time of (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "3.7 × 10^-10 s",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the crossover in relaxation behavior below 1.4 K for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "Finite-size effects become relevant when the correlation length becomes larger than the real chain length",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the distribution of relaxation times for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] very narrow as indicated by the α parameter?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of quantum tunneling in the relaxation process of (NEt4)[Mn2(salmen)2(MeOH)2Fe(CN)6]?",
+      "answer": "It becomes the dominant process of relaxation below 0.5 K",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the magnetic susceptibility (χT) saturate below 1.4 K for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated number of units in the chain for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] based on magnetic susceptibility saturation?",
+      "answer": "44",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the mean-field approximation on the simulation of magnetic susceptibility for (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "It allows for the consideration of intrachain intertrimer interactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic interaction between MnIII ions via a biphenolate bridge in (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6] ferromagnetic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated value of the exchange coupling between MnIII and FeIII ions in (NEt4)[Mn2(5-MeOsalen)2Fe(CN)6]?",
+      "answer": "+6.5 K",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

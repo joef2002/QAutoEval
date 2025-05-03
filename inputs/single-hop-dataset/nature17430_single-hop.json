@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main focus of the research conducted by Simon Krause and colleagues?",
+      "answer": "The main focus of the research conducted by Simon Krause and colleagues is on the adsorption-based phenomena in gas separations and the discovery of a Metal-Organic Framework (MOF), DUT-49, that exhibits negative gas adsorption transitions for methane and n-butane within a defined temperature and pressure range.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unusual property does DUT-49 exhibit according to the research findings?",
+      "answer": "DUT-49 exhibits an unusual property of negative gas adsorption, where spontaneous desorption of gas (methane and n-butane) occurs during pressure increase in a defined temperature and pressure range.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structural transformation in DUT-49 occur upon methane adsorption?",
+      "answer": "The structural transformation in DUT-49 upon methane adsorption occurs through a sudden hysteretic structural deformation and pore contraction, releasing guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What potential applications are suggested for frameworks capable of negative gas adsorption?",
+      "answer": "Frameworks capable of negative gas adsorption may enable technologies for pressure amplification in micro- and macroscopic system engineering.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phenomenon of negative gas adsorption in DUT-49 considered to occur at thermodynamic equilibrium?",
+      "answer": "False. The phenomenon of negative gas adsorption in DUT-49 cannot take place at thermodynamic equilibrium and necessarily involves a metastable phase.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Cu2(COO)4-paddle-wheel units during the structural transformations in DUT-49?",
+      "answer": "The Cu2(COO)4-paddle-wheel units remain unaltered during the structural transformations in DUT-49, indicating that the transformations are caused exclusively by distortion of the ligand molecule.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What specific structural change occurs in the ligand molecule during the DUT-49op to DUT-49cp transition?",
+      "answer": "During the DUT-49op to DUT-49cp transition, significant strain occurs in the ligand molecule, particularly through distortion (buckling) of the sp2 hybridized nitrogen atoms in the carbazole building block and carbon atoms of the connecting phenyl rings.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the wide hysteresis loop observed in DUT-49's adsorption-desorption isotherms?",
+      "answer": "The wide hysteresis loop observed in DUT-49's adsorption-desorption isotherms is significant because it indicates a large domain of metastability of the open pore phase, extending widely beyond the equilibrium transition, which is a key factor for the occurrence of Negative Gas Adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can DUT-49's negative gas adsorption property be considered common among MOFs?",
+      "answer": "False. Negative gas adsorption, as observed in DUT-49, is not common among MOFs and requires specific conditions such as a two-state (bistable) porous material where the empty open pore form is more stable at working temperature and a large domain of metastability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes DUT-49's negative gas adsorption from other known breathing MOFs?",
+      "answer": "What distinguishes DUT-49's negative gas adsorption from other known breathing MOFs is the extraordinary width of its hysteresis loop, reaching past the crossing point of the open-pore and contracted-pore isotherms, which is linked to the existence of a high free energy barrier between the op and cp states.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

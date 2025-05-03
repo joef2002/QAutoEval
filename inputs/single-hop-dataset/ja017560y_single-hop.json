@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for BOF-1 as prepared?",
+      "answer": "[Ni2(C26H52N10)]3[BTC]4·6C5H5N·36H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to BOF-1 when it is dried at 75 °C for 1.5 hours?",
+      "answer": "It transforms into [Ni2(C26H52N10)]3[BTC]4·4H2O while maintaining its single-crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is BOF-1 soluble in organic solvents?",
+      "answer": "False, BOF-1 is insoluble in any organic solvent but slightly soluble in water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the void volume percentage of the channels in BOF-1?",
+      "answer": "61%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of immersing BOF-1 in pyridine for 24 hours?",
+      "answer": "It results in [Ni2(C26H52N10)]3[BTC]4·20C5H5N·6H2O.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the immersion of BOF-1 in benzene lead to a crystal-to-crystal transformation?",
+      "answer": "True, immersing BOF-1 in benzene results in a crystal-to-crystal transformation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for the synthesis of the dinickel(II) bismacrocyclic complex [Ni2(C26H52N10)]Cl4•H2O?",
+      "answer": "It was synthesized by a one-pot metal-template condensation reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What structural change occurs in BOF-1 upon guest removal?",
+      "answer": "The interlayer spacing dramatically decreases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can BOF-1 differentiate various alcohols in toluene?",
+      "answer": "True, BOF-1 can differentiate various alcohols such as MeOH, EtOH, isopropyl alcohol, and benzyl alcohol in toluene.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of drying BOF-1 at 100 °C?",
+      "answer": "It does not diffract the X-ray beam, indicating a loss of crystallinity or significant structural change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the guest-exchange capability of BOF-1 with benzene?",
+      "answer": "BOF-1 can exchange some of its guest molecules with benzene to form [Ni2(C26H52N10)]3[BTC]4·14C6H6·19H2O.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the immersion of BOF-1 in pyridine and benzene result in dissolution and recrystallization?",
+      "answer": "False, the immersion results in guest-exchange without dissolution and recrystallization.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the presence of benzene in BOF-1?",
+      "answer": "300 MHz FT-NMR spectroscopy was used to confirm the presence of benzene inclusions in BOF-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of retaining single-crystallinity in BOF-1 after chemical reactions?",
+      "answer": "Retaining single-crystallinity is important for certain devices as it ensures the structural integrity and functionality of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of BOF-1 stable up to 275 °C?",
+      "answer": "True, thermogravimetric analysis indicates that BOF-1 is stable up to 275 °C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of p-xylyl groups in the structure of BOF-1?",
+      "answer": "The p-xylyl groups act as pillars to hold two layers together, generating 3D channels in the bilayered framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does BOF-1 respond to the removal of guest molecules?",
+      "answer": "BOF-1 shows sponge-like dynamic behavior, reducing the interlayer spacing in response to guest removal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can BOF-1 restore its structure upon exposure to water-pyridine vapor?",
+      "answer": "True, BOF-1 can restore its structure upon exposure to water-pyridine vapor, although the crystal may split into smaller pieces.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for gas sorption isotherm study in BOF-1?",
+      "answer": "The Quantachrome AUTOSORB-1 sorption instrument was used for the N2 gas sorption isotherm study.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of guest molecule exchange on the cell parameters of BOF-1?",
+      "answer": "The cell parameters in BOF-1 after guest molecule exchange with pyridine and benzene are almost the same as in the original BOF-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

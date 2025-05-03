@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main interest of chemists in porous coordination polymers?",
+      "answer": "Developing nanometer-sized pores with novel guest adsorption properties.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the characteristic adsorption features in porous coordination polymers?",
+      "answer": "The flexibility of the framework, where local bond lengths and angles shift or change during guest insertion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structure type of compound 1?",
+      "answer": "Jungle-gym-type structure.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of dabco molecules in compound 1?",
+      "answer": "Dabco molecules bridge dinuclear Zn2 units to extend the 2D layers into a 3D structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the threshold pressure (Pth) in the context of adsorption on porous coordination polymers?",
+      "answer": "Pth is recognized as the equilibrium pressure between the initial (closed form) and final (open form) states.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the hysteresis profile between the adsorption and desorption isotherms of compound 1?",
+      "answer": "The intermediate state represented by 1(cid:2)3 IPA between 1 and 1(cid:2)4.5 IPA.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does the desorption isotherm not retrace the adsorption one for compound 1?",
+      "answer": "Because of the hysteresis profile caused by the intermediate state.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adsorption of IPA on compound 1 demonstrate the flexibility of the framework?",
+      "answer": "The framework shows enough flexibility to produce three different crystalline forms, accommodating both gas molecules and solvents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the adsorption enthalpy values DHad,1 and DHad,2 for the adsorption process of IPA on compound 1?",
+      "answer": "They indicate the energy changes involved in the adsorption processes, with DHad,2 being larger due to the formation of two-hydrogen-bonded IPA pairs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the temperature affect the threshold pressures Pth,ad and Pth,de?",
+      "answer": "Lowering the measurement temperature causes a decrease of both threshold pressures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of different crystalline forms of compound 1 indicate about its structure?",
+      "answer": "It indicates that the structure of compound 1 can change in response to different adsorption conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Clausius–Clapeyron equation in understanding the adsorption process on compound 1?",
+      "answer": "It allows the evaluation of the adsorption enthalpy for the IPA adsorption process based on the temperature dependence of Pth.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of IPA on compound 1 a reversible process?",
+      "answer": "False, the adsorption and desorption isotherms do not retrace each other, indicating hysteresis.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 exhibit a single-step adsorption/desorption isotherm for propan-2-ol?",
+      "answer": "False, it exhibits a two-step adsorption/desorption isotherm.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the crystalline forms of compound 1 dependent on the type of guest molecules?",
+      "answer": "True, three kinds of crystal structures are reported depending on the guest molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption enthalpy for the first process of IPA adsorption on compound 1 larger than for the second process?",
+      "answer": "False, the adsorption enthalpy for the second process is larger.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of compound 1 remain unchanged during the adsorption of IPA?",
+      "answer": "False, the structure changes, as indicated by the formation of different crystalline forms.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of IPA on compound 1 an endothermic process?",
+      "answer": "True, as indicated by the positive values of adsorption enthalpy.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the adsorption of IPA on compound 1 occur without any structural changes to the framework?",
+      "answer": "False, the adsorption is accompanied by structural changes.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the intermediate state 1(cid:2)3 IPA responsible for the stepwise adsorption isotherm of compound 1?",
+      "answer": "True, the intermediate state causes the stepwise adsorption isotherm.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

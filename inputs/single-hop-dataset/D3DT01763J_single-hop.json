@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of AQNU-4?",
+      "answer": "C39H57O20Tb",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does AQNU-4 belong to?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of AQNU-4?",
+      "answer": "1018.78",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of AQNU-4?",
+      "answer": "P1ˉ",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest CO2 to CO conversion rate achieved by AQNU-4?",
+      "answer": "138.65 μmol g−1 h−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent shows the highest CO2 to CO conversion rate with AQNU-4?",
+      "answer": "Cyclohexanone",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the DTDA ligand in AQNU-4?",
+      "answer": "The DTDA ligand captures light under illumination to form photogenerated electron–hole pairs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does AQNU-4 show an obvious solvent dependence during the catalytic process?",
+      "answer": "Because the framework is responsive to different solvent stimuli, reflected in the catalysis results.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the photocatalytic CO2 reduction reaction (CO2RR) proceed in AQNU-4?",
+      "answer": "CO2 photoreduction over AQNU-4 proceeds through a COOH* intermediate, starting with the activation of CO2* at the Tb active center.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes AQNU-4 a good solvent-responsive MOF material?",
+      "answer": "Its ability to show different catalytic results when the reaction is conducted in different solvents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is AQNU-4 stable after multiple cycles of photocatalysis in cyclohexanone?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does AQNU-4 require noble metal promoters for photocatalysis?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can AQNU-4 absorb in the visible region according to its UV-vis absorption spectrum?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic activity of AQNU-4 significantly improved after activation under vacuum?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does AQNU-4 demonstrate a specific response to acetonitrile during the photocatalytic CO2RR?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the LUMO location of AQNU-4 more negative than the reduction potential of CO2/CO?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does AQNU-4 maintain relatively stable activity even after six cycles of photocatalysis?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of synthesizing a novel compound with a N-contents of 66.65%?",
+      "answer": "The main goal is to pursue ligands with higher energetic properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the frequency analysis and geometric optimization in the computational studies?",
+      "answer": "The Becke three parameter, Lee-Yan-Parr (B3LYP) functional with the 6-311++G** basis set was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the detonation performance parameters calculated for [Ag2(ATNT)2](NO3)2?",
+      "answer": "The detonation performance parameters are 0.91 kcal g-1 for Q, 7286 m s-1 for D, and 24.67 GPa for P.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of amino group to tetrazole ring affect the properties of the compound ATNT?",
+      "answer": "The introduction of amino group to tetrazole ring exerts a positive effect on both density and enthalpy, making ATNT exhibit higher heat of formation and better detonation performance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of hydrogen bonding interactions in the thermal stability of ATNT?",
+      "answer": "The higher hydrogen bonding interactions contribute to the better thermal stability of ATNT.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What equipment was used to control the input energy onto the composites in the laser detonation experiment?",
+      "answer": "Laster power supply (Beamech dawa-350) was employed to control the input energy onto the composites.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the mechanical sensitivities of [Ag2(ATNT)2](NO3)2?",
+      "answer": "The impact sensitivity (IS) is 5 J and the friction sensitivity (FS) is 60 N.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the low initiation delay times of both ECPs under 70 mJ initiation energy?",
+      "answer": "The low initiation delay times demonstrate that the ECPs possess excellent energetic performance for laser-induced ignition and have great application prospect as novel laser-initiating energetic materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the density of [Ag2(ATNT)4](ClO4)2 higher than that of its precursor?",
+      "answer": "Yes, the density of [Ag2(ATNT)4](ClO4)2 is higher than that of its precursor.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound ATNT exhibit higher or lower mechanical sensitivity compared to [Ag2(ATNT)2](NO3)2 and [Ag2(ATNT)4](ClO4)2?",
+      "answer": "The compound ATNT exhibits lower mechanical sensitivity compared to [Ag2(ATNT)2](NO3)2 and [Ag2(ATNT)4](ClO4)2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ClO4- in the structure of [Ag2(ATNT)4](ClO4)2?",
+      "answer": "ClO4- acts as an oxidizing acid radical ion that provides acceptor atoms to build hydrogen bonds with the ligand ATNT, contributing to the compact crystal arrangement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated heat of formation for the compound ATNT?",
+      "answer": "The calculated heat of formation for the compound ATNT is 524.2 kJ mol-1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Hirshfeld surfaces analysis for ATNT and the two ECPs?",
+      "answer": "The Hirshfeld surfaces analysis helps to better understand the intermolecular interactions, such as hydrogen bonds, which contribute to the thermal stability and compact crystal arrangement of the compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the wavelength used in the laser detonation experiment?",
+      "answer": "The wavelength used in the laser detonation experiment is 1064 nm.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound ATNT have a higher heat of formation compared to traditional energetic materials?",
+      "answer": "Yes, the compound ATNT has a higher heat of formation compared to traditional energetic materials.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the crystal density on the detonation performance of ECPs?",
+      "answer": "The crystal density directly impacts the detonation performance of ECPs, with higher density leading to superior detonation velocities and pressures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of silver ions in the structure of the two ECPs?",
+      "answer": "Silver ions act as coordination centers that link with the high-nitrogen ligand ATNT and oxidizing acid radical ions, contributing to the formation of the energetic coordination polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated detonation velocity for [Ag2(ATNT)4](ClO4)2?",
+      "answer": "The calculated detonation velocity for [Ag2(ATNT)4](ClO4)2 is 8085 m s-1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the introduction of amino group to tetrazole ring decrease the hygroscopicity of the compound ATNT?",
+      "answer": "Yes, the introduction of amino group to tetrazole ring eliminates acidic proton hydrogen in the molecule, which is helpful to reduce hygroscopicity and improve storage stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the pie chart in the Hirshfeld surfaces analysis?",
+      "answer": "The pie chart in the Hirshfeld surfaces analysis quantifies the percentages of different types of intermolecular interactions, such as hydrogen bonds, contributing to the understanding of the compound's stability and packing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

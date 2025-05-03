@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for MFM-133(Zr)?",
+      "answer": "C96H152N10O26Zr3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the high-pressure single-crystal X-ray diffraction experiments for MFM-133(Zr) conducted?",
+      "answer": "293 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does MFM-133(Hf) show higher or lower porosity compared to MFM-133(Zr)?",
+      "answer": "Lower",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the bulk modulus of MFM-133(Zr) higher than that of MFM-133(Hf)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the bulk modulus of MFM-133(Zr) within the pressure range of 0–2 GPa?",
+      "answer": "88.7 GPa",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area for MFM-133(Zr)?",
+      "answer": "2156 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of mechanism is involved in the NLC behavior of MFM-133?",
+      "answer": "Wine-rack mechanism",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the NLC property of MFM-133 fully reversible upon decompression?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the dihedral angle between the two central mesitylene rings in MFM-133(Zr) at ambient pressure?",
+      "answer": "81 degrees",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the dihedral angle between the two central mesitylene rings in MFM-133(Hf) decrease with increasing pressure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pressure range studied for MFM-133(Zr) in the high-pressure experiments?",
+      "answer": "0 to 4.47 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the empirical expression used to fit the unit cell lattice parameters at different pressures for MFM-133?",
+      "answer": "l = l0 + λ(p - pc)v",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the NLC behavior of MFM-133(Hf) similar to its Zr(IV) analogue?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum pressure studied for MFM-133(Hf) in the experiments?",
+      "answer": "4.94 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of increasing pressure on the lattice parameters a and c in MFM-133(Zr)?",
+      "answer": "a decreases and c increases",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the bulk modulus of MFM-133(Hf) comparable to that of MIL-53-Al?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the dihedral angle between the two central mesitylene rings in the flexibility of MFM-133?",
+      "answer": "It contributes to the overall structural flexibility",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the porosity of MFM-133(Hf) increase with increasing pressure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for absorption correction in the high-pressure crystallography of MFM-133(Zr)?",
+      "answer": "Multi-scan",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the NLC property of MFM-133 be effectively tuned by varying the inorganic component of the framework?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

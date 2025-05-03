@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on the super flexibility of a 2D Cu-based Porous Coordination Framework on gas adsorption in comparison with a 3D framework of identical composition, specifically looking at framework dimensionality-dependent gas adsorptivities.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What types of gases were studied for adsorption in the 2D and 3D PCPs?",
+      "answer": "The gases studied for adsorption in the 2D and 3D PCPs include N2, CO2, Ar, CH4, and water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the 2D PCP's flexibility compare to the 3D PCP according to the research?",
+      "answer": "According to the research, the 2D PCP shows higher flexibility than that of the 3D PCP.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What unique property does the 2D PCP exhibit in its gas adsorption isotherms?",
+      "answer": "The 2D PCP exhibits unique stepwise gas adsorption isotherms for various gases such as N2, CO2, Ar, CH4, and water, suggesting an explicit structure expansion of the 2D square-grid sheets on accommodation of guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 3D PCP shows type I adsorption isotherms without definite steps.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the framework flexibility on gas adsorptivities in 2D and 3D PCPs?",
+      "answer": "The difference in framework flexibility between 2D and 3D PCPs generates different gas adsorption isotherms. The 2D PCP, with higher flexibility, shows stepwise adsorption isotherms and can accommodate a larger amount of guest molecules than its inherent void volume through dynamic structural changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of methanol, ethanol, and 1-propanol at 303 K on the 2D PCP have definite folding points.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural changes occur in the 2D PCP upon gas adsorption?",
+      "answer": "Upon gas adsorption, the 2D PCP undergoes characteristic structure transformations depending on the nature of the adsorbing guests, including changes in interlayer distances and distortion of the 2D square-grid, which are different for each type of adsorbed gas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The high-pressure CO2 adsorption isotherm at 273 K on the 2D PCP shows a steep uptake at around 0.2 MPa.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the research suggest about the potential applications of flexible PCPs?",
+      "answer": "The research suggests that the concept of using expandable layered PCPs can improve functionalities such as molecular storage and separation, taking advantage of their unique framework flexibility and dynamic structural changes upon gas adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

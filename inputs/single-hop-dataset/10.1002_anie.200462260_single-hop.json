@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the volume of the large cages in the metal-organic framework described?",
+      "answer": "2.5 nm3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What ligand is considered the best candidate for constructing the metal-organic framework due to its four coordinating N atoms?",
+      "answer": "Hexamethylenetetramine (hmt) ligand",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of the novel metal-organic framework mentioned in the text?",
+      "answer": "Zeolite MTN topology",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What metal ion is chosen as the bridge in constructing the metal-organic tetrahedral building block?",
+      "answer": "Cadmium ion",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage based on cadmium for the synthesis of polymer 1?",
+      "answer": "67 %",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the solvent used for anion exchange in the coordination polymer?",
+      "answer": "DMF",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using triethylamine in the synthesis of polymer 1?",
+      "answer": "To adjust the pH value of the solution",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was cadmium chosen for the construction of the metal-organic framework?",
+      "answer": "Because of the equatorial-plane locations of its trigonal-bipyramidal coordination geometry, which are easily coordinated by water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination geometry of cadmium ions contribute to the structure of polymer 1?",
+      "answer": "Each cadmium ion is coordinated by two nitrogen atoms from two different hmt ligands and three coordinated water molecules, contributing to the 3D open framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the large cages in the metal-organic framework?",
+      "answer": "They are suitable for catalyzing reactions of large molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of polymer 1 compare to traditional zeolites?",
+      "answer": "It expands the original structure of MTN and possesses large cages, offering advantages like ion-exchange, adsorption, and catalytic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of hexamethylenetetramine in the synthesis of the metal-organic framework?",
+      "answer": "It acts as a ligand with four coordinating N atoms, similar to the SiO4 building block in zeolites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the novel metal-organic framework with the zeolite MTN topology synthesized from a tetrahedral building block?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the metal-organic framework described have a negatively charged framework?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is polymer 1 insoluble in water?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the large cages in the metal-organic framework smaller than those in MOF-101 and MIL-100?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of polymer 1 conducted under harsh conditions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of polymer 1 include two types of cages?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the framework of polymer 1 stable after anion exchange?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the cadmium ions in polymer 1 coordinated by four nitrogen atoms from four different hmt ligands?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Complex I?",
+      "answer": "C32H34Cl2MgN8O12",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to determine the water content in organic solvents?",
+      "answer": "Karl Fischer titrations",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the X-ray single-crystal diffraction data for Complex II collected?",
+      "answer": "100.15 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of Complex I?",
+      "answer": "triclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the water content affect the formation of MSP according to Figure S20?",
+      "answer": "When the water content was below 641 ppm, the final UV-Vis spectra were almost identical for different water contents, indicating no significant influence on the formation of the MSP. However, when the water content was higher than 1064 ppm, the MSP could not be detected.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using 1Tpy as a model compound in NMR experiments?",
+      "answer": "1Tpy was employed as a model compound to study the coordination with Mg2+ monitored by NMR because of the large size of MSP, making it difficult to monitor the polymerization and depolymerization process using the NMR technique.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of complex I instant when the water content is too high?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of intermediate complex II depend on the water content?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the lifetime of MSP be tuned by regulating the content of each component in the system?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the complex II observed with a relatively high content of H2O?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of water in the formation of MSP according to the study?",
+      "answer": "Water participated in the assembly process, affecting the assembly kinetics by regulating the assembly pathway, and was crucial in the construction of transient luminescent assemblies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the method used to prepare solvent with varied water content?",
+      "answer": "The method involved adding water to chloroform and allowing it to stand, then withdrawing the wet chloroform without disturbing the upper water layer. The water content was then determined by Karl Fischer titrations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was dynamic light scattering (DLS) used in the study?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study use UV-Vis spectroscopy to monitor the assembly processes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the complexation of the terpyridine-based ligand 3Tpy and Mg2+ affected by the presence of the imidazole-based ligand M2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system of Complex II?",
+      "answer": "orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of Mg(ClO4)2 in the formation of MSP?",
+      "answer": "Mg(ClO4)2 coordinated with 3Tpy to form metallo-supramolecular polymers (MSP), and its presence was crucial for the initial formation of MSP.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the formation of MSP transient in nature?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the impact of trace water on the evolution of assembled structures and their functionality?",
+      "answer": "Trace water in organic solvents played a decisive role in the regulation of the evolution of assembled structures and their functionality, affecting both the thermodynamics and kinetics of the system.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study demonstrate the ability to tune the luminescent color of the system over time?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

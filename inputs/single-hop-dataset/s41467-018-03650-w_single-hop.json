@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main objective of the study conducted by Peng et al.?",
+      "answer": "The main objective of the study was to design a series of metal-organic frameworks (MOFs) with precisely controlled pore sizes to selectively bind and release single-stranded DNA (ssDNA) into a wide range of cell types, including primary mouse and human immune cells, with high transfection efficiency.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the names of the MOFs developed in the study for ssDNA delivery?",
+      "answer": "The MOFs developed in the study are named Ni-IRMOF-74-II, Ni-IRMOF-74-III, Ni-IRMOF-74-IV, and Ni-IRMOF-74-V.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How were the MOFs designed to interact with ssDNA?",
+      "answer": "The MOFs were designed with progressively increasing pore sizes to precisely include ssDNA, offering optimal binding strength to allow precise release of ssDNA into various cell types.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the method used to visualize and quantify the uptake of ssDNA by the MOFs?",
+      "answer": "The uptake of ssDNA by the MOFs was visualized and quantified by labeling the ssDNA with 6-carboxyfluorescein (FAM), a fluorescent dye, and tracking the fluorescence quenching as ssDNA enters the MOF pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOFs showed the highest transfection efficiency in mammalian immune cells?",
+      "answer": "Ni-IRMOF-74-II and Ni-IRMOF-74-III showed the highest transfection efficiency in mammalian immune cells.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What types of interactions were investigated to understand the binding of ssDNA to the MOFs?",
+      "answer": "The types of interactions investigated included coordination, electrostatic forces, hydrogen bonds, π–π interactions, and van der Waals interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study find that hydrogen bonding was the main force holding ssDNA in the MOF pores?",
+      "answer": "False, the study found that hydrogen bonding was not the main force holding ssDNA in the MOF pores, suggesting van der Waals interactions were responsible.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the gene silencing experiment using DNAzyme delivered by Ni-IRMOF-74-II?",
+      "answer": "The gene silencing experiment using DNAzyme delivered by Ni-IRMOF-74-II showed nearly 76% inhibition efficiency of the EGR-1 gene expression in MCF-7 human breast cancer cells.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did Ni-IRMOF-74-II and Ni-IRMOF-74-III compare to commercial transfection agents in terms of transfection efficiency and cytotoxicity?",
+      "answer": "Ni-IRMOF-74-II and Ni-IRMOF-74-III demonstrated higher transfection efficiency and lower cytotoxicity compared to commercial transfection agents like Neofect and Lipo.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of using nanocrystals of Ni-IRMOF-74-II and Ni-IRMOF-74-III for intracellular delivery?",
+      "answer": "The use of nanocrystals of Ni-IRMOF-74-II and Ni-IRMOF-74-III was significant because it favored endocytosis into cells, leading to effective intracellular delivery of ssDNA with high transfection efficiency.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

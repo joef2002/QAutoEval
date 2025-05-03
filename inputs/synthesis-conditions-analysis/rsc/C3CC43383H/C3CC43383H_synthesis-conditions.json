@@ -1,0 +1,161 @@
+{
+  "materials": [
+    {
+      "name": "5-(bis(4-carboxybenzyl)amino)isophthalic acid (H4BCBAIP)",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "chemicals_used": [
+              "4-methylbenzoic acid",
+              "thionyl chloride",
+              "absolute ethanol"
+            ],
+            "solvents": "absolute ethanol",
+            "temperature": "reflux for 5 h",
+            "equipment": "round-bottom flask",
+            "time": "5 h",
+            "yield": "not specified"
+          },
+          {
+            "step": 2,
+            "chemicals_used": [
+              "ethyl 4-methylbenzoate",
+              "NBS",
+              "benzoyl peroxide",
+              "carbon tetrachloride"
+            ],
+            "solvents": "carbon tetrachloride",
+            "temperature": "reflux overnight",
+            "equipment": "round-bottom flask",
+            "time": "overnight",
+            "yield": "not specified"
+          },
+          {
+            "step": 3,
+            "chemicals_used": [
+              "ethyl 4-(bromomethyl)benzoate",
+              "KOH",
+              "5-aminoisophthalic acid",
+              "HCl aq (2M)"
+            ],
+            "solvents": "H2O",
+            "temperature": "80 oC",
+            "equipment": "3-necked flask",
+            "time": "30 h",
+            "yield": "not specified"
+          }
+        ]
+      }
+    },
+    {
+      "name": "5-(bis(3-carboxybenzyl)amino)isophthalic acid (H4BCBAIP')",
+      "synthesis_conditions": {
+        "steps": [
+          {
+            "step": 1,
+            "chemicals_used": [
+              "3-methylbenzoic acid",
+              "thionyl chloride",
+              "absolute ethanol"
+            ],
+            "solvents": "absolute ethanol",
+            "temperature": "reflux for 5 h",
+            "equipment": "round-bottom flask",
+            "time": "5 h",
+            "yield": "not specified"
+          },
+          {
+            "step": 2,
+            "chemicals_used": [
+              "ethyl 3-methylbenzoate",
+              "NBS",
+              "benzoyl peroxide",
+              "carbon tetrachloride"
+            ],
+            "solvents": "carbon tetrachloride",
+            "temperature": "reflux overnight",
+            "equipment": "round-bottom flask",
+            "time": "overnight",
+            "yield": "not specified"
+          },
+          {
+            "step": 3,
+            "chemicals_used": [
+              "ethyl 3-(bromomethyl)benzoate",
+              "KOH",
+              "5-aminoisophthalic acid",
+              "HCl aq (2M)"
+            ],
+            "solvents": "H2O",
+            "temperature": "80 oC",
+            "equipment": "3-necked flask",
+            "time": "30 h",
+            "yield": "not specified"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "H4BCBAIP",
+          "InCl3·4H2O",
+          "DEF",
+          "C2H5OH"
+        ],
+        "solvents": [
+          {
+            "name": "DEF",
+            "amount": "2 mL"
+          },
+          {
+            "name": "C2H5OH",
+            "amount": "0.5 mL"
+          }
+        ],
+        "temperature": "95 oC",
+        "equipment": "20 mL vial",
+        "time": "3 days",
+        "washing_method": "washed with C2H5OH",
+        "drying_method": "air-dried",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "Dye adsorption experiment",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Methylene Blue (MB)",
+          "Rhodamine B (RB)",
+          "Rhodamine 6G (R6G)",
+          "Coumarin 343 (C343)",
+          "Coumarin 6 (C6)"
+        ],
+        "solvents": "methanol",
+        "amount_of_solvent": "2 mL",
+        "amount_of_chemical": "0.05 mg of each dye",
+        "temperature": "room temperature",
+        "time": "6 h",
+        "equipment": "not specified"
+      }
+    },
+    {
+      "name": "Light-harvesting experiment",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Coumarin 6",
+          "Coumarin 343"
+        ],
+        "solvents": "methanol",
+        "amount_of_solvent": "2 mL",
+        "temperature": "room temperature",
+        "time": "24 h",
+        "washing_method": "washed with small amount of methanol",
+        "drying_method": "air-dried",
+        "yield": "evaluated by a standard curve method"
+      }
+    }
+  ]
+}

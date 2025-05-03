@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MIL-88 as synthesized?",
+      "answer": "Fe(III)3O(CH3OH)3{-O2C-C2H2-CO2-}3.{-O2C-CH3}.4.5CH3OH",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to MIL-88 when it undergoes drying at 423 K?",
+      "answer": "The extraframework species such as methanol molecules are evacuated.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the swelling of MIL-88 reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of MIL-88-H2O?",
+      "answer": "P-62c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the cell volume of MIL-88 change upon adsorption of H2O?",
+      "answer": "The cell volume increases by approximately 85% from the contracted to the open form of MIL-88-H2O.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the swelling of MIL-88 involve bond breaking?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of polar solvent molecules in the swelling of MIL-88?",
+      "answer": "Polar solvent molecules create hydrogen bonds with the organic framework, contributing to the swelling.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework topology of MIL-88 maintained during swelling?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to simulate the structural modifications of MIL-88?",
+      "answer": "The Cerius2 suite of software with the universal force field.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of drying MIL-88 at 423 K on its cell volume?",
+      "answer": "The cell volume decreases by approximately 25%.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MIL-88 adsorb a variety of polar solvents?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum cell volume reported for MIL-88 after adsorption?",
+      "answer": "2110 Å^3 for MIL-88-H2O.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the swelling of MIL-88 result in a change in its crystal system?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary cause of the swelling in MIL-88?",
+      "answer": "The adsorption of various solvents and the creation of hydrogen bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the swelling capacity of MIL-88 observed upon post-synthesis treatments?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of computational tools in the study of hybrid frameworks like MIL-88?",
+      "answer": "Computational tools are essential for atomic-scale understanding and the development of rational design.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the cell parameter 'a' change upon adsorption of C4H9OH in MIL-88?",
+      "answer": "It increases to 12.46 Å.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study suggest that MIL-88's swelling is a displacive transition?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated volume occupied by water molecules in MIL-88-H2O?",
+      "answer": "Approximately 880 Å^3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the study conclude about the flexibility of MIL-88's framework?",
+      "answer": "MIL-88 exhibits an unusually large swelling capacity, indicating a highly flexible framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

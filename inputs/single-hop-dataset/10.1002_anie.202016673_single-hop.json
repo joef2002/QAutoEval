@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge addressed in the synthesis of porous coordination polymers (PCPs) for gas separation?",
+      "answer": "The main challenge is to realize inverse selectivity, which reduces the adsorption of a high-affinity gas and increases the adsorption of a low-affinity gas.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is demonstrated to boost CO2/C2H2 selectivity in PCPs?",
+      "answer": "An 'opposite action' strategy is demonstrated, which involves a precise steric design of channel pores using an amino group as an additional interacting site to synergically increase CO2 adsorption while suppressing C2H2 adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the names of the two new ultramicroporous PCP physisorbents synthesized?",
+      "answer": "The two new ultramicroporous PCP physisorbents synthesized are [Co(NH2-bdc)(dpg)]n (PCP-NH2-bdc) and [Co(NH2-ipa)(dpg)]n (PCP-NH2-ipa).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the amino group in the 'opposite action' strategy for CO2/C2H2 selectivity?",
+      "answer": "The amino group acts as an additional interacting site that enhances CO2-framework interactions without changing the orientation of the gas molecules and suppresses C2H2 adsorption by changing the adsorption position.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CO2 uptake capacity and CO2/C2H2 uptake ratio of PCP-NH2-ipa and PCP-NH2-bdc are higher than those of the reported PCP physisorbents under similar conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the isosteric heat of adsorption (Qst) values for CO2 and C2H2 in evaluating the performance of PCPs?",
+      "answer": "The Qst values are used to evaluate the strength of interaction between the PCPs and CO2 or C2H2, indicating the desorption process's energy efficiency and the PCPs' affinity towards the gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 'opposite action' strategy can be broadly applicable to other gas systems and offers a promising design principle for porous materials with high performance for challenging recognition and separation systems.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to confirm the valency of Co in PCP-NH2-ipa and PCP-NH2-bdc?",
+      "answer": "X-ray photoelectron spectroscopy and magnetic studies were used to confirm the valency of Co in PCP-NH2-ipa and PCP-NH2-bdc.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystallinities of PCP-NH2-ipa and PCP-NH2-bdc were unaffected even after soaking them directly in water for 3 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the breakthrough test under room temperatures demonstrate about PCP-NH2-ipa and PCP-NH2-bdc?",
+      "answer": "The breakthrough test demonstrates remarkable one-step C2H2 purification performance with both PCP-NH2-ipa and PCP-NH2-bdc, showing their potential for practical C2H2/CO2 separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption structures of CO2 and C2H2 in PCP-NH2-bdc and PCP-bdc were obtained by classical Monte Carlo simulation followed by geometry optimization using periodic density functional theory calculation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of the -NH2 group in PCP-NH2-bdc affect its affinity towards CO2 compared to PCP-bdc?",
+      "answer": "The presence of the -NH2 group in PCP-NH2-bdc allows additional interaction with CO2, inducing stronger electrostatic interaction and resulting in a stronger affinity towards CO2 compared to PCP-bdc.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The orientation of C2H2 at site I changes in PCP-NH2-bdc due to hydrogen bonding interaction with the O atom and NH2 group of NH2-bdc, thereby suppressing the C2H2 adsorption at site II.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main purpose of the study aiming to design porous materials with inverse selectivity?",
+      "answer": "The main purpose is to achieve an effective one-step C2H2 purification method by designing porous materials with inverse selectivity that preferentially capture the weak-affinity gas and allow the high-affinity gas to pass through.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CO2 and C2H2 adsorption modes are promoted by anchoring -NH2 group into the channel surface.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the IAST selectivity of PCP-NH2-ipa and PCP-NH2-bdc for an equimolar mixture of CO2/C2H2 at 298 K and 1 bar indicate?",
+      "answer": "The IAST selectivity indicates the promising potential of both PCP-NH2-ipa and PCP-NH2-bdc for the separation of CO2/C2H2 binary mixture under dynamic conditions, with selectivities up to 6.4 and 4.4, respectively.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 'opposite action' strategy involves suppressing the adsorption of the low-affinity gas and increasing the adsorption of the high-affinity gas.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the crystallographic space groups of PCP-ipa and PCP-bdc?",
+      "answer": "PCP-ipa crystallizes in the orthorhombic Amm2 space group and PCP-bdc crystallizes in the triclinic P1¯ space group.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CO2 uptake and CO2/C2H2 uptake ratio of PCP-NH2-ipa and PCP-NH2-bdc are lower than those of the reported PCP physisorbents such as SIFSIX-3-Ni, NbOFFIVE-1-Ni, and AlFFIVE-1-Ni under similar conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of uncoordinated negatively charged O atoms in the 1D ultramicroporous channels of PCP-ipa and PCP-bdc indicate about their potential for gas adsorption?",
+      "answer": "The presence of uncoordinated negatively charged O atoms in the channels indicates potential sites for hydrogen bonding interactions with gas molecules, suggesting their capability for gas adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

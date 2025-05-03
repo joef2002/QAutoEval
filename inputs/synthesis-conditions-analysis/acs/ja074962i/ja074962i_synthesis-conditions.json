@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "[Co2(8-qoac)2(N3)2(H2O)2] (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "5 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "sodium azide",
+            "amount": "0.035 g, 0.5 mmol"
+          },
+          {
+            "name": "8-Hqoac",
+            "amount": "0.105 g, 0.5 mmol"
+          },
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.150 g, 0.5 mmol"
+          }
+        ],
+        "reaction_conditions": {
+          "temperature": "room temperature",
+          "time": "a few minutes"
+        },
+        "yield": "62%",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "41.14%",
+            "H": "3.14%",
+            "N": "17.45%"
+          },
+          "found": {
+            "C": "41.11%",
+            "H": "3.15%",
+            "N": "17.43%"
+          }
+        },
+        "IR_spectra": "3480(m), 2079(s), 1640(s), 1505(m), 1400(m), 1320(m), 1257(w), 1118(m), 828(w), 768(m)"
+      }
+    },
+    {
+      "name": "[Co2(8-qoac)2(N3)2]n (2)",
+      "synthesis_conditions": {
+        "previous_material": "[Co2(8-qoac)2(N3)2(H2O)2] (1)",
+        "temperature": "150 °C",
+        "equipment": "under vacuum",
+        "note": "2 cannot be directly transformed back to 1 by re-hydration in solid state."
+      }
+    }
+  ],
+  "caution": "Azido complexes are potentially explosive in the presence of organic compounds. Only a small amount of the materials should be prepared, and should be handled with care."
+}

@@ -1,0 +1,148 @@
+{
+  "materials": [
+    {
+      "name": "MFM-300(Al)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Biphenyl-3,3',5,5'-tetracarboxylic acid (H4L)",
+            "amount": "60 mg",
+            "mmol": "0.182 mmol"
+          },
+          {
+            "name": "Al(NO3)3.9H2O",
+            "amount": "340 mg",
+            "mmol": "0.906 mmol"
+          },
+          {
+            "name": "water",
+            "amount": "9 mL"
+          },
+          {
+            "name": "piperazine",
+            "amount": "3 mL"
+          },
+          {
+            "name": "2.8M HNO3",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "24 mL bomb",
+        "temperature": "483K",
+        "time": "3 days",
+        "washing_method": "washed with water and DMF",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "MFM-300(In)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Biphenyl-3,3',5,5'-tetracarboxylic acid (H4L)",
+            "amount": "330 mg",
+            "mmol": "1 mmol"
+          },
+          {
+            "name": "In(NO3)3.3H2O",
+            "amount": "585 mg",
+            "mmol": "1.65 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "MeCN",
+            "amount": "10 mL"
+          },
+          {
+            "name": "70% nitric acid",
+            "amount": "1 mL"
+          }
+        ],
+        "equipment": "pressure flask",
+        "temperature": "363K",
+        "time": "3 days",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "MFM-300(Sc)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Biphenyl-3,3',5,5'-tetracarboxylic acid (H4L)",
+            "amount": "300 mg",
+            "mmol": "0.91 mmol"
+          },
+          {
+            "name": "scandium triflate",
+            "amount": "900 mg",
+            "mmol": "1.83 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "105 mL"
+          },
+          {
+            "name": "water",
+            "amount": "15 mL"
+          },
+          {
+            "name": "HCl (36.5%)",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "round bottom pressure flask",
+        "temperature": "80oC",
+        "time": "72h",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "name": "MFM-300(Fe)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "Biphenyl-3,3',5,5'-tetracarboxylic acid",
+            "amount": "244 mg",
+            "mmol": "0.74 mmol"
+          },
+          {
+            "name": "FeCl3.6H2O",
+            "amount": "800 mg",
+            "mmol": "2.96 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "20 mL"
+          },
+          {
+            "name": "concentrated hydrochloric acid",
+            "amount": "0.75 mL"
+          }
+        ],
+        "equipment": "50 mL round-bottom flask",
+        "temperature": "120 °C",
+        "time": "72 h",
+        "washing_method": "washed with DMF and acetone",
+        "drying_method": "dried in air",
+        "yield": "310 mg (89%)"
+      }
+    },
+    {
+      "name": "Iodine Adsorption",
+      "synthesis": {
+        "preparation": "acetone-exchanged samples were heated under dynamic vacuum (10^-5 mbar) for 1 day at 150 °C",
+        "procedure": "activated sample was transferred into a vessel containing a small amount of solid I2 in an open vial and the vessel charged with dry N2 at atmospheric pressure. The vessel was then sealed and heated at 80 °C for 0.5–20 h under N2 to allow adsorption of I2 into the desolvated MOFs.",
+        "temperature": "80 °C",
+        "time": "0.5–20 h",
+        "atmosphere": "dry N2",
+        "pressure": "atmospheric pressure"
+      }
+    }
+  ]
+}

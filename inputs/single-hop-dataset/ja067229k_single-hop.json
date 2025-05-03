@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular structure of ZntBu2?",
+      "answer": "The molecular structure of ZntBu2 consists of discrete monomeric molecules with two-coordinate zinc atoms.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How were colorless crystals of ZntBu2 obtained?",
+      "answer": "Colorless crystals of ZntBu2 were obtained by sublimation at 30 °C under vacuum (5 × 10^-2 Torr).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 1,2-bis(4-pyridyl)ethane in the synthesis of compound 2?",
+      "answer": "1,2-bis(4-pyridyl)ethane acts as a bipyridine ligand and is used to form the Lewis acid−base adduct [ZntBu2(bpe)] (compound 2), leading to the formation of an unprecedented 2D fabric structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the molecular fabric structure of compound 2 sustained by organometallic nodes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the structure of compound 3 from compound 2?",
+      "answer": "Compound 3 forms 1D zigzag-like inorganic−organic hybrid polymeric chains without C−H···π interactions, unlike compound 2 which forms a 2D fabric structure with such interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of substituting 1,2-bis(4-pyridyl)ethane with 1,2-bis(4-pyridyl)ethylene in the synthesis of compound 3?",
+      "answer": "The substitution led to a decrease in the dimensionality of the supramolecular architecture, forming 1D zigzag-like chains instead of a 2D fabric structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of compound 2 involve the use of THF as a solvent?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of the crystal structure of ZntBu2?",
+      "answer": "The space group of the crystal structure of ZntBu2 is orthorhombic Pnma.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are the pyridine ligands in compound 3 involved in C−H···π interactions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the eclipsed conformation of the tert-butyl groups in ZntBu2?",
+      "answer": "The eclipsed conformation of the tert-butyl groups in ZntBu2, in contrast to the staggered conformation observed in other compounds, likely results from crystal packing forces and shows that steric repulsion between alkyl groups is absent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to solve the crystal structure of ZntBu2?",
+      "answer": "The crystal structure of ZntBu2 was solved by direct methods using the SHELXS97 program.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the molecular symmetry of ZntBu2 described as D3h?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of C−H···π interactions in the structure of compound 2?",
+      "answer": "C−H···π interactions are involved in assembling the hybrid chains into a 2D framework, leading to the formation of noncovalently bonded cages at the crossing points.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield of compound 2 when synthesized from ZntBu2 and 1,2-bis(4-pyridyl)ethane?",
+      "answer": "The yield of compound 2 was 93%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of compound 3 involve a tetrahedral zinc center?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the π-conjugation of the unsaturated bond system in 1,2-bis(4-pyridyl)ethylene on the structure of compound 3?",
+      "answer": "The π-conjugation of the unsaturated bond system in 1,2-bis(4-pyridyl)ethylene leads to a more rigid configuration and limits the participation of the ligand in self-assembly, resulting in 1D coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the aromatic rings in the bipyridine spacer of compound 2 coplanar with each other?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compound 2?",
+      "answer": "The crystal system of compound 2 is tetragonal.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the synthesis of ZntBu2 based on a literature procedure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the controlled self-assembly of metal−ligand complexes?",
+      "answer": "The controlled self-assembly of metal−ligand complexes is significant due to their wide potential applications as functional materials and the ability to create supramolecular compounds with intriguing structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of heating a mixture of Zn(NO3)2•6H2O, AzoPy, and 2HPor in DMF/EtOH?",
+      "answer": "The purpose is to synthesize PLCryst and LCryst by facilitating their crystallization at elevated temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is used to monitor the concentration changes of solutes in the reaction mixture?",
+      "answer": "Electronic absorption spectroscopy is used to monitor the concentration changes of solutes in the reaction mixture.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The growth kinetics of LCryst can be described by the Ostwald ripening equation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a growth spiral on the surface of LCryst indicate about its growth mechanism?",
+      "answer": "The presence of a growth spiral indicates that the growth of LCryst is driven by a screw dislocation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the geometric center of LCryst preferentially etched?",
+      "answer": "The geometric center of LCryst is preferentially etched by exposing it to trifluoroacetic acid (TFA) in DMF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The energy difference calculated for sliding ZnPor 2D layers is more energetically demanding than expanding ZnPor 2D layers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the analysis of the growth kinetics of LCryst reveal about the control mechanism?",
+      "answer": "The analysis reveals that the growth of LCryst is controlled by the attachment-detachment of Zn2+ and ZnPor at the crystal interface.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Arrhenius plot in the context of LCryst growth?",
+      "answer": "The Arrhenius plot is significant as it helps estimate the activation energy for LCryst growth by analyzing the temperature dependence of the growth kinetics.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The strain energy in LCryst is independent of the crystal size.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the SCC-DFTB method with third-order expansion enable in the context of LCryst and PLCryst?",
+      "answer": "The SCC-DFTB method with third-order expansion enables the optimization and investigation of the plausible motion of ZnPor 2D layers in LCryst and PLCryst.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The growth of PLCryst is dominated by a 2D nucleation and growth process.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the etching of LCryst with trifluoroacetic acid (TFA) suggest about the screw dislocation?",
+      "answer": "The etching suggests that the screw dislocation, located at the geometric center of LCryst, is the most active site for chemical reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The energy difference between sliding and expanding ZnPor 2D layers in LCryst is negligible.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the shear modulus play in the total energy of the screw dislocation in LCryst?",
+      "answer": "The shear modulus is a factor in calculating the total energy of the screw dislocation in LCryst, affecting the strain energy distribution around the dislocation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PLCryst and LCryst requires the presence of an external trigger.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the growth kinetics of LCryst?",
+      "answer": "The growth kinetics of LCryst are temperature-dependent, with higher temperatures potentially accelerating the growth process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The growth of LCryst is facilitated by the dynamic slippage of ZnPor 2D layers.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the strain energy in LCryst change with respect to the distance from the screw dislocation?",
+      "answer": "The strain energy in LCryst decreases with increasing distance from the screw dislocation, indicating a higher strain closer to the dislocation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of LCryst and PLCryst is achieved through a single-step crystallization process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the use of tapping mode AFM reveal about the surface of PLCryst?",
+      "answer": "Tapping mode AFM reveals the presence of 2D growth units and hoppers on the surface of PLCryst, indicating a 2D nucleation and growth mechanism.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

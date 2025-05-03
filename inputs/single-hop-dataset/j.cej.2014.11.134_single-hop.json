@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular structure of the adsorbent used in the study?",
+      "answer": "One-dimensional chain with dense adsorption sites.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the three divalent dyes tested in the adsorption study?",
+      "answer": "Congo red, Orange G, and Reactive Brilliant red X-3B.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which isotherm model describes the adsorption isotherm well?",
+      "answer": "The Langmuir isotherm model.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the adsorption capacity for Congo red using the adsorbent?",
+      "answer": "2429mg/g.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does the adsorbent have different adsorption capacities for the three dyes?",
+      "answer": "The difference in adsorption capacities can be attributed to the divalent character and the different structure of the dye's molecule.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What kinetic model fits the adsorption processes of the dyes?",
+      "answer": "Pseudo second-order kinetic model.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the adsorbent separate dyes with the same charges efficiently?",
+      "answer": "Yes, the adsorbent can separate dyes with the same charges quickly and efficiently.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption process of Congo red faster than that of X-3B?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the molecular structure of dyes affect their adsorption velocity?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Freundlich isotherm model used to describe the adsorption isotherm?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the adsorbent have a high surface area?",
+      "answer": "False.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption capacity for Orange G higher than that for Congo red?",
+      "answer": "False.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the adsorbent adsorb anionic dye through ion exchange?",
+      "answer": "True.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the molecular structure of dyes in their adsorption process?",
+      "answer": "The molecular structure of dyes affects their adsorption capacity and velocity due to differences in molecular size and the distance between sulfonic groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes kinetic separation of dyes possible?",
+      "answer": "The different kinetic rates of adsorption for the dyes make kinetic separation possible.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the theoretical adsorption capacity for Congo red based on the study?",
+      "answer": "2.2g/g.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What factor is crucial for the efficient adsorption of double sulfonic groups dyes?",
+      "answer": "The distance between two sulfonic groups on the dye molecule is crucial for efficient adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study propose a method for evaluating separation performance?",
+      "answer": "Yes, a separation coefficient was developed to evaluate the separation performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of Congo red completely achieved within 1 minute?",
+      "answer": "True.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study support the use of one-dimensional CSP without any porous structure for efficient dye separation?",
+      "answer": "True.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "160 88C",
+        "time": "6 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2"
+          }
+        ],
+        "equipment": "hot air oven"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "2"
+          }
+        ]
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "160 88C",
+        "time": "6 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "4"
+          }
+        ],
+        "equipment": "hot air oven"
+      }
+    },
+    {
+      "name": "4",
+      "synthesis_conditions": {
+        "irradiation": {
+          "source": "Xe-lamp",
+          "wavelength": "365 nm",
+          "duration": "2 h"
+        },
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "2.5"
+          }
+        ]
+      }
+    },
+    {
+      "name": "3 a",
+      "synthesis_conditions": {
+        "temperature": "250 88C",
+        "time": "3 h",
+        "equipment": "hot air oven",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "3"
+          }
+        ]
+      }
+    },
+    {
+      "name": "3 b",
+      "synthesis_conditions": {
+        "temperature": "160 88C",
+        "time": "6 h",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "4"
+          }
+        ],
+        "equipment": "hot air oven"
+      }
+    }
+  ]
+}

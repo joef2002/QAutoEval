@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for ZIF-4?",
+      "answer": "Zn(im)2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range does ZIF-4-CN0.04-solv start to amorphize/melt?",
+      "answer": "Between 197 °C and 251 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the mechanochemical synthesis of ZIF-4?",
+      "answer": "Ball milling",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ZIF-4-CN0.04-solv recrystallize to ZIF-zni upon heating?",
+      "answer": "Yes, it starts to recrystallize to ZIF-zni starting at about 309 °C",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of using DMSO-d6 and DCl/D2O in 1H NMR spectroscopy for ZIF samples?",
+      "answer": "To dissolve ZIF samples for analysis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the fragility index of aTZIF-4 according to the study?",
+      "answer": "30.6 ± 1.6",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystalline ZIF-4-dCN0.28 does not undergo recrystallization to ZIF-zni.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to determine the porosity of ZIF glasses?",
+      "answer": "CO2 gas sorption at 195 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of residual solvent molecules in ZIF-4 can significantly change the activation energy of viscosity and hence the fragility of the material.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the enthalpy change for framework collapse (∆Hcryst–LDL) indicate about the transition from the crystalline to the LDL phase in ZIFs?",
+      "answer": "It indicates the energy change associated with the transition, with a decrease in enthalpy suggesting an exothermic process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The mechanochemical synthesis of ZIF-4 involves the use of DMF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of heating and cooling rates in determining the fragility index of ZIF glasses?",
+      "answer": "The heating and cooling rates affect the fictive temperature, which is used to calculate the fragility index by analyzing the glass transition behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZIF-4-CN0.20 shows a higher CO2 adsorption capacity at 195 K compared to its glass phase.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a glass transition signal in the DSC upscan indicate about a ZIF material?",
+      "answer": "It indicates that the material has undergone a transition from a vitrified glass to a supercooled liquid state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The decomposition temperature of ZIF-4-CN0.29-solv is higher than that of ZIF-4.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the peak temperature of the crystalline to LDL transition (TLDL,peak) in the study of ZIF materials?",
+      "answer": "It marks the temperature at which the crystalline framework begins to collapse into a low-density liquid phase, indicating the onset of melting or amorphization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the fragility index of ZIF glasses is primarily dependent on the porosity of the glasses.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the shift in the CN stretching vibration frequency in FTIR spectra indicate about the state of ZIF materials?",
+      "answer": "A shift in the CN stretching vibration frequency indicates changes in the electronic environment around the CN groups, which can be related to changes in the material's phase or structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that ZIF-4 can be transformed into a glass phase without recrystallization to ZIF-zni.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of mechanochemical synthesis in the preparation of ZIF materials according to the study?",
+      "answer": "Mechanochemical synthesis is used to prepare ZIF materials that are difficult to synthesize solvothermally, offering a solvent-free and efficient method for ZIF formation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

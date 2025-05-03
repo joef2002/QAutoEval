@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the full chemical formula of the synthesized MX-ladder complex?",
+      "answer": "{[(dien)PtIVBr2-bpy-PtII(dien)]Br4⋅2H2O}∞",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to analyze the MX-ladder complex?",
+      "answer": "Single-crystal X-ray diffraction method, Raman, and diffuse reflectance spectra.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique electronic structure does the MX-ladder complex exhibit?",
+      "answer": "A pair of out-of-phase charge-density-waves state within each ladder.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the intersite Coulomb repulsion in the MX-ladder complex?",
+      "answer": "It makes the intervalence charge-transfer excitation energy significantly larger than in the MX-chain system.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MX-ladder complex differ from the MX-chain in terms of CDW ordering?",
+      "answer": "The MX-ladder complex exhibits a three-dimensionally ordered CDW state, unlike the MX-chain.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the PtII···Br and PtIV−Br distances in the MX-ladder complex?",
+      "answer": "They indicate the presence of a charge-density-wave state in each Pt−Br leg.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a long overtone progression of ν(Pt−Br) mode indicate?",
+      "answer": "It is evidence for the CDW state on the ladder.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the CT excitation energy higher in the MX-ladder than in the MX-chain?",
+      "answer": "Due to the intersite Coulomb repulsion along the rung in the MX-ladder.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the diffuse reflectance spectrum reveal about the MX-ladder complex?",
+      "answer": "It shows a peak at 2.1 eV attributable to the charge-transfer transition from PtII to adjacent PtIV sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the MX-ladder complex's synthesis involve bromine?",
+      "answer": "Bromine is added to a methanol solution of the starting material and then refluxed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the Raman spectrum of the MX-ladder complex show?",
+      "answer": "A strongly observed ν(Pt-Br) mode at 172 cm-1 with several of its overtones.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MX-ladder complex the first example of a three-dimensionally ordered CDW state observed for MX-chain complexes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MX-ladder complex exhibit a single-valence state of −PtIII−Br−PtIII−Br−?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MX-ladder lattice more rigid than the MX-chain one?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all bridging bromine atoms in the MX-ladder complex well ordered?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MX-ladder complex have a shorter distance between the two MX legs on the ladder compared to the first reported two-legged ladder complex?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the intervalence charge-transfer excitation energy in the MX-ladder complex lower than in the MX-chain?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MX-ladder complex's synthesis start with the reaction of PtII(dien)(NO3)2 and bpy in aqueous solution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MX-ladder complex's CT excitation energy deviation indicative of a different electronic state compared to the MX-chain?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MX-ladder complex's synthesis involve recrystallization from water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "reasoning"
+    }
+  ]
+}

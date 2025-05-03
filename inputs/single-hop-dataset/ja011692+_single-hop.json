@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the full name of the journal where the study was published?",
+      "answer": "Journal of the American Chemical Society",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of frameworks does MODF-1 belong to?",
+      "answer": "Metal−Organic Dendrimer Frameworks",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of MODF-1?",
+      "answer": "Zn4O(TTA)(DMA)2·(DMA)3(H2O)21",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the preparation of the carboxy-terminated dendrimer?",
+      "answer": "Palladium-catalyzed amination methodology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMA in the synthesis of MODF-1?",
+      "answer": "DMA acts as a solvent and ligand in the synthesis process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the percentage of void volume in MODF-1?",
+      "answer": "70%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why have branched connectors not been used to prepare MOFs before MODF-1?",
+      "answer": "Because their flexibility could impede crystallization and characterization by single-crystal X-ray diffraction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the deprotonation of carboxylic acid units in MODF-1?",
+      "answer": "The absence of υΟ-Η stretch and a shift of υCO stretch from 1690.4 cm-1 in the free carboxylic acid to 1599.0 cm-1 in MODF-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural feature of triarylamines is present in the linkers of MODF-1?",
+      "answer": "Triarylamines crystallize with propeller structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of MODF-1 contribute to its porosity?",
+      "answer": "The 3-D porous framework is created by linking the branched organic unit with Zn(II) ions at each of the six carboxylate termini.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the trigonal prismatic and octahedral building units in MODF-1?",
+      "answer": "They rationalize the NiAs topology found in MODF-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the gas sorption isotherm of MODF-1 indicate about its porosity?",
+      "answer": "It indicates that evacuated MODF-1 has permanent porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MODF-1 the first reported crystalline metal−organic dendrimer framework?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MODF-1 maintain its open structure in the presence of guests?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of MODF-1 conducted under an inert atmosphere?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the total mass loss of MODF-1 upon heating correspond exactly to the calculated value?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the isotherms of MODF-1 reversible and show no hysteresis upon desorption of sorbates from the pores?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the estimated surface area of MODF-1 less than 500 m2/g?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the preparation of the carboxy-terminated dendrimer involve the use of palladium-catalyzed amination methodology?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal structure of MODF-1 non-porous?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

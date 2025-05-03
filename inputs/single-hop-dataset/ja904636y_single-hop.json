@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the flexible open-framework material discussed?",
+      "answer": "NaLa[(PO3H)2CH−C6H4−CH(PO3H)2]·4H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What ions were successfully exchanged in NaLa(H4L)?",
+      "answer": "Monovalent ions were successfully exchanged.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does NaLa(H4L) show selectivity towards monovalent ions?",
+      "answer": "The framework adapts specifically to the size of the guest cation, and divalent ions could only occupy every second guest site, reducing the stability of the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dehydration process of NaLa(H4L) reversible?",
+      "answer": "Yes, the dehydration process is fully reversible.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the Na+ ions in NaLa(H4L) upon dehydration?",
+      "answer": "Upon dehydration, the Na+ ions compensate for the loss of coordinated water by forming new bonds with phosphonate oxygens, generating an −La−O−Na−O−La− chain.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the ionic guests in the structure of NaLa(H4L)?",
+      "answer": "The ionic guests play a crucial role in the chain-forming/breaking mechanism that determines the flexibility of the framework and contribute significantly to its stabilization and charge balance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can divalent ions be exchanged in NaLa(H4L)?",
+      "answer": "No, divalent ions are rejected and cannot be exchanged.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural change occurs in NaLa(H4L) upon dehydration?",
+      "answer": "The channels shrink and the cell volume decreases by 15%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the framework of NaLa(H4L) adapt to different monovalent ions?",
+      "answer": "The framework adapts to the size of the incorporated ion, with a volume change observed in going from the dehydrated contracted Na+ form to the expanded hydrated K+ form.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ion-exchange selectivity of NaLa(H4L) influenced by the framework's adaptation?",
+      "answer": "Yes, the framework's adaptation to the ionic guest is fundamental to its enhanced selectivity for monovalent cations.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water molecules in the structure of NaLa(H4L)?",
+      "answer": "Water molecules in the channels can be removed by heating, causing the channels to shrink, and play a role in the equilibrium between the expanded and contracted forms of the structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the Cs+ ions in the ion-exchange experiments with NaLa(H4L)?",
+      "answer": "Cs+ ions, due to their larger size, are not successfully exchanged and only a slight decrease in sodium content is observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of NaLa(H4L) remain intact during ion-exchange experiments?",
+      "answer": "Yes, the structure and morphology remain intact during the treatment, except when treated with too acidic solutions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the −La−O−Na−O−La− chain in NaLa(H4L)?",
+      "answer": "The formation of the −La−O−Na−O−La− chain is the driving force for the channel shrinkage and is key to understanding the flexibility of the framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the enthalpy of hydration of the guest cation affect NaLa(H4L)?",
+      "answer": "The enthalpy of hydration of the guest cation influences the equilibrium between the expanded and contracted forms of the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ion-exchange process in NaLa(H4L) size-selective?",
+      "answer": "Yes, the ion-exchange process is selective towards monovalent ions based on their size, with divalent ions being rejected.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical techniques were used to study NaLa(H4L)?",
+      "answer": "EDX and ICP-OES elemental analysis, X-ray diffraction, and thermogravimetric studies were used.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the guest cation's ionic radius on NaLa(H4L)?",
+      "answer": "The ionic radius of the guest cation affects the equilibrium between the expanded and contracted forms, with the framework adapting to the size of the cation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can NaLa(H4L) be used as a selective ion-exchanger?",
+      "answer": "Yes, NaLa(H4L) exhibits exceptional selectivity for monovalent metal cations, making it a potential selective ion-exchanger.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of dehydration on the coordination environment of Na+ in NaLa(H4L)?",
+      "answer": "Dehydration causes the Na+ ion to lose coordinated water molecules and form new bonds with phosphonate oxygens, changing its coordination environment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

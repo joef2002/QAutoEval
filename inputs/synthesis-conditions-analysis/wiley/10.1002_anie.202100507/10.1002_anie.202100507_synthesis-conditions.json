@@ -1,0 +1,33 @@
+{
+  "materials": [
+    {
+      "name": "[Dy(MeCOO)(PhCOO)2]n (1)",
+      "synthesis_conditions": {
+        "method": "microwave assisted synthesis",
+        "temperature": "40 88C",
+        "time": "1 week",
+        "solvent": "isopropanol",
+        "solvent_amount": "not specified",
+        "equipment": "sonication",
+        "exfoliation_temperature": "30 88C",
+        "exfoliation_time": "1 h",
+        "centrifugation_speed": "4500 rpm",
+        "centrifugation_time": "10 min"
+      }
+    },
+    {
+      "name": "[La0.83Dy0.17(MeCOO)(PhCOO)2] (1 d)",
+      "synthesis_conditions": {
+        "method": "isostructural magnetically diluted compound",
+        "temperature": "not specified",
+        "solvent": "isopropanol",
+        "solvent_amount": "not specified",
+        "equipment": "sonication",
+        "exfoliation_temperature": "30 88C",
+        "exfoliation_time": "1 h",
+        "centrifugation_speed": "4500 rpm",
+        "centrifugation_time": "10 min"
+      }
+    }
+  ]
+}

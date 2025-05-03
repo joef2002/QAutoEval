@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the luminescence sensor discussed?",
+      "answer": "C84 H187 N41 O56 Ru Zn6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of radiation was used for diffraction in the experiment?",
+      "answer": "Cu Kα",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group name for the crystal structure?",
+      "answer": "P 61 2 2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What software was used for structure refinement?",
+      "answer": "SHELXL97",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum theta angle used in the diffraction measurements?",
+      "answer": "68.25",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the method used for absorption correction?",
+      "answer": "multi-scan",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Flack parameter value obtained in the refinement?",
+      "answer": "0.35(3)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the total number of reflections used in the refinement?",
+      "answer": "8738",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the Friedel-pair reflections merged before the final refinement?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the molecular geometry of the luminescence sensor provided in the CIF file?",
+      "answer": "No",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of the luminescence sensor?",
+      "answer": "hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum value of the residual density found in the refinement?",
+      "answer": "3.21",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the structure solved using direct methods?",
+      "answer": "Yes, using SIR97.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the refinement process include the treatment of hydrogen atoms?",
+      "answer": "Yes, all hydrogen atoms were refined.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the U_iso or equivalent for the Ru atom?",
+      "answer": "0.0642(4)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal color described in the experiment?",
+      "answer": "colorless",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the melting point of the compound?",
+      "answer": "Not measured",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Was extinction correction applied during refinement?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the absolute configuration of the compound?",
+      "answer": "unknown",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the total number of atoms in the asymmetric unit?",
+      "answer": "The exact number is not provided, but it includes Ru, Zn, O, N, and C atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

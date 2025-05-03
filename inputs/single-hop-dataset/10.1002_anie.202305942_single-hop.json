@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the glass transition temperature of the MOF discussed in the paper?",
+      "answer": "505 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to achieve the glassy state of the MOF?",
+      "answer": "Sequential chemical and thermal perturbation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the super-cooled liquid state of the MOF be quenched into glass?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the MOF when heated to a temperature above 558 K?",
+      "answer": "It recrystallizes into the initial MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the fragility index of the super-cooled liquid state?",
+      "answer": "105",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the recrystallized MOF identical to the original crystalline MOF?",
+      "answer": "No, it has very similar but some different coordinative environment of metal ion and ligand conformation.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water adsorption in the MOF's structural transformation?",
+      "answer": "It perturbs the metal coordination sphere and partially breaks the metal-linker bond.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF retain its crystallinity after activation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the decomposition temperature of the MOF?",
+      "answer": "688 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF's backbone inherently flexible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary structural feature of the MOF?",
+      "answer": "Linear trinuclear metal node formed by pyridine and carboxylic acids.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF glass retain porosity?",
+      "answer": "Yes, it retains 45% porosity of the crystalline MOF.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the onset temperature of crystallization (Tx) for the MOF?",
+      "answer": "545 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What analysis confirmed the recrystallization process?",
+      "answer": "In situ powder X-ray diffraction (PXRD) analysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF's structure stable at high temperatures?",
+      "answer": "Yes, it indicates the thermodynamic stability of the crystalline phase.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the [Mn3(COO)6] node in the MOF?",
+      "answer": "It has a profound structural directing effect for coordinative assembly.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the MOF undergo crystal-amorphous-liquid-crystal transformations?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the MOF's multi-stage transformations?",
+      "answer": "It represents a rare example of high temperature coordinative recognition and self-assembly.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the theoretical pore volume from single crystal structure analysis?",
+      "answer": "0.089 cm3/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF's structure change upon dehydration?",
+      "answer": "Yes, it becomes largely amorphous after the perturbation process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

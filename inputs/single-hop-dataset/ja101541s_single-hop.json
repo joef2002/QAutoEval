@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication date of the article?",
+      "answer": "April 28, 2010",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the study?",
+      "answer": "Qiang Xu",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research conducted?",
+      "answer": "The study focuses on the synthesis of non-, micro-, and mesoporous MOF isomers and their applications in reversible transformation, fluorescence sensing, and large molecule separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the MOF isomers synthesized?",
+      "answer": "The MOF isomers were synthesized by controlling the amounts of solvent or/and reaction temperatures/time.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation between microporous and mesoporous MOFs reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential application does the desolvated microporous MOF have?",
+      "answer": "It could be a promising luminescent probe for detecting small molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the mesoporous MOF be used in high-performance liquid chromatography (HPLC)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the reversible transformation between the microporous and mesoporous MOFs?",
+      "answer": "The transformation is triggered by solvent or/and temperature perturbation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the mesoporous MOF effective for size-exclusion separation of large dye molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the bpy linker play in the structure of the MOFs?",
+      "answer": "The bpy linker acts as the pillar to connect Cd-L layers, resulting in a 3D open framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study report on MOFs with continuously tunable pore sizes based on the same ligands and metal centers?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Schläfli symbol in describing MOF structures?",
+      "answer": "The Schläfli symbol provides a way to describe the topology of the MOF structures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Are the MOF isomers based on different structural units?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the amino groups in the MOF isomers?",
+      "answer": "The amino groups make the MOF isomers good candidates for postsynthetic covalent modification for further applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the study published in the Journal of the American Chemical Society?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of compounds 1-3?",
+      "answer": "Solvothermal reactions were used for the synthesis of compounds 1-3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation from compound 3 to 2 spontaneous in air?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated pressure required for converting compound 2 to 3?",
+      "answer": "Approximately 265 kPa",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study provide computational details for the energy comparison of compounds 2 and 3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential application of compound 3 in chromatography?",
+      "answer": "Compound 3 could be used as a stationary phase for large molecule (dye) separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

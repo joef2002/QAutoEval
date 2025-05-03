@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of ZnBTCHx?",
+      "answer": "C22H12N8O12Zn4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature was used for the preparation of ZnBTCHx?",
+      "answer": "120 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the fluorescence intensity of ZnBTCHx′ suspension weaker or stronger than that of its solid state?",
+      "answer": "Weaker",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ZnBTCHx preferentially adsorb L-Trp or D-Trp?",
+      "answer": "L-Trp",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the crystal structure analysis of ZnBTCHx?",
+      "answer": "Single crystal X-ray diffraction (SCXRD)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of ZnBTCHx?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The fluorescence response of ZnBTCHx′ to D-Trp was almost identical to that of L-Trp under the same conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of heating ZnBTCHx solid samples at 200 °C under vacuum?",
+      "answer": "To achieve full activation of ZnBTCHx, giving rise to ZnBTCHx′.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns indicate that ZnBTCHx has good chemical and thermal stability.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the isothermal titration calorimetry (ITC) experiments?",
+      "answer": "ZnBTCHx could spontaneously capture L-/D-Trp through two different thermodynamic pathways: enthalpy-driven for L-Trp and entropy-driven for D-Trp.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of D-Trp by ZnBTCHx is driven by an increase in entropy.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used as a mobile phase in the chiral high-performance liquid chromatography experiments?",
+      "answer": "100% perchloric acid aqueous solution",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The binding energies calculated for L-Trp@ZnBTCHx′ were higher than those for D-Trp@ZnBTCHx′.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main computational method used to study the host-guest interactions in ZnBTCHx?",
+      "answer": "Density functional theory (DFT)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The IGMH surfaces analysis was used to visualize the supramolecular interactions between host and guest molecules.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main purpose of using molecular dynamics (MD) simulations in the study?",
+      "answer": "To simulate the diffusion progress and locate the guest positions and conformations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that ZnBTCHx has a selective adsorption mechanism mainly based on a thermodynamic mechanism.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion regarding the biomimetic properties of ZnBTCHx?",
+      "answer": "ZnBTCHx is an exemplary biomimetic MOF that can mimic DNA to specifically identify the tryptophan molecule.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrated that ZnBTCHx could be used as a bionic model to mimic the natural binding properties of DNA.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of using ZnBTCHx for the recognition of L-/D-Trp?",
+      "answer": "Its ability to selectively identify L-/D-Trp through unique recognition sites resembling DNA's major and minor grooves.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

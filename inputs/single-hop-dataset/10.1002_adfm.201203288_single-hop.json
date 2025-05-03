@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the porous coordination polymer synthesized in the study?",
+      "answer": "[La(BTB)H2O] · solvent (1⊃guest)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pH level does the synthesized polymer show stability?",
+      "answer": "It is stable at pH = 14 at 100 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using porous coordination polymers (PCPs) or metal organic frameworks (MOFs) for gas separation?",
+      "answer": "Their chemical tailorability results in high BET surface areas and specific recognition ability for components in the gas mixture.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is methane considered an important future energy source?",
+      "answer": "Because it has the highest heat of combustion per mass unit (55.7 kJ/g).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What challenge does the separation of C2 hydrocarbons from CH4 present?",
+      "answer": "The challenge is due to their similar physical and chemical properties, which lead to difficulty for adsorption-based separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized polymer capable of separating CH4 from CO2 and C2 hydrocarbons?",
+      "answer": "Yes, it exhibits high CH4 separation capability toward CO2 and C2 hydrocarbons.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the polymer maintain its CO2 adsorption capability after humidity treatment?",
+      "answer": "Yes, the total uptake amount is almost the same before and after humidity treatment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized polymer stable in acidic and basic environments?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the synthesized polymer be used for methane purification under both equilibrium and flow conditions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesized polymer's structure compromised when exposed to water?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the polymer prefer to capture CO2 over C2 hydrocarbons due to stronger electrostatic interactions?",
+      "answer": "False, it prefers to capture the C2 hydrocarbons.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area of the synthesized polymer close to the predicted theoretical value?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the polymer exhibit a type-I isotherm characteristic of microporous materials?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all carboxylate-bridged PCPs known to be stable in water for longer than 24 hours at room temperature?",
+      "answer": "False, only a few such as MIL-100 series and UiO-66 show structural stability in water, but for no longer than 24 hours at room temperature.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the La3+ ion in the synthesized polymer?",
+      "answer": "The La3+ ion, due to its high coordination number and large charge density, enhances the stability of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is used to predict multicomponent adsorption behaviors from experimental single-component gas isotherms?",
+      "answer": "Ideal adsorbed solution theory (IAST) is used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the in situ DRIFT spectra study conducted on the polymer?",
+      "answer": "It reveals the effective adsorption site for separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the polymer's structure include 1D hexagonal channels?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the polymer's adsorption of CO2 and C2 hydrocarbons at 273 K unfavorable compared to CH4?",
+      "answer": "False, it confirms the favorable adsorption of CO2 and C2 hydrocarbons relative to CH4.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the open metal site in the polymer for gas adsorption?",
+      "answer": "The open metal site acts as a positive site for CO2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

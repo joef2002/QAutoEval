@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the observed weight loss in TG analysis for 1a?",
+      "answer": "24.6 wt%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structure does 1c show according to PXRD patterns?",
+      "answer": "1c type structure",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the excitation wavelength used for quantum yield measurement of 1⊃⊃⊃⊃VOCs?",
+      "answer": "370 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the emission wavelength detected for 1⊃⊃⊃⊃anisole?",
+      "answer": "560 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the intensity average lifetime for toluene according to Supplementary Table S1?",
+      "answer": "14.8 ns",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the phosphorescence lifetime for 1⊃⊃⊃⊃iodobenzene?",
+      "answer": "139 µs",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the wide range of emission in the entangled porous framework?",
+      "answer": "The enhanced NDI–VOC interaction that generates either exciplex fluorescence with charge transfer characteristics or phosphorescence stabilized by the heavy atom effect.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the framework without VOCs not emit luminescence?",
+      "answer": "Because it shows a very weak fluorescence with a very low quantum yield and a short average lifetime, making it essentially a luminescence-off state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the entangled framework differentiate between aromatic VOCs?",
+      "answer": "By decoding the molecular information of the guest molecule into a corresponding visible light emission based on the nature of the aromatic guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the entangled framework in molecular decoding?",
+      "answer": "It demonstrates displacement of two chemically non-interconnected frameworks to provide space for trapping guest molecules with an optimized host–guest interaction, leading to enhanced luminescence.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence from the optimized host–guest interaction dependent on the nature of the aromatic guest molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the dried structure of 1 play a significant role in trapping the vapour of guest molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the cooperative structural transition induced by the adsorption of a guest molecule linear with respect to the concentration of the guest molecule?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the entangled framework require the presence of VOCs to emit luminescence?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the entangled framework differentiate between benzene and toluene based on their luminescence color?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the luminescence intensity for all VOCs the same in the entangled framework?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the entangled framework show a nonlinear sensor response to VOC vapour concentration?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for salicylaldimine-based Zr metal-organic framework mentioned?",
+      "answer": "Zr6O4(OH)4(sal-TPD)6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of sal-MOF?",
+      "answer": "3311 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many times can sal-Fe-MOF be reused for olefin hydrogenation without significant loss of activity?",
+      "answer": "More than 15 times",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the turnover number (TON) achieved by sal-Fe-MOF for the hydrogenation of 1-octene?",
+      "answer": "145000",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum TON observed for sal-Co-MOF with 1-octene as the substrate?",
+      "answer": "25000",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of mercury on the hydrogenation rate of 1-octene by sal-Fe-MOF?",
+      "answer": "The rate of hydrogenation was unchanged in the presence of mercury.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the unchanged hydrogenation rate in the presence of mercury suggest about the active species in sal-Fe-MOF catalysis?",
+      "answer": "It suggests that in situ generated Fe nanoparticles were not responsible for the observed catalysis and that Fe-hydride is the active species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic activity of sal-Fe-MOF for olefin hydrogenation homogeneous or heterogeneous?",
+      "answer": "Heterogeneous",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The catalytic activity of sal-Fe-MOF drops significantly after the 9th run of 1-octene hydrogenation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PXRD patterns of sal-Fe-MOF recovered from the first and fifth runs remained unchanged from that of pristine sal-Fe-MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The leached iron species is responsible for the catalytic activity of sal-Fe-MOF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The sal moiety remains intact within the MOFs upon metalation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The BET surface area of sal-Fe-MOF is higher than that of sal-Co-MOF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Fe and Co sites in sal-M-MOFs are inaccessible to alkenes during catalytic reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystallinity of sal-MOF is maintained upon metalation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NaBEt3H in the hydrogenation process catalyzed by sal-Fe-MOF?",
+      "answer": "NaBEt3H is used to activate sal-Fe-MOF, making it a highly active catalyst for hydrogenation of olefins.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the BET surface area in evaluating MOFs for catalysis?",
+      "answer": "The BET surface area indicates the porosity of the MOF, which is important for accessibility of reactants to the catalytic sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of open channels in the MOF suggest about the accessibility of Fe and Co sites?",
+      "answer": "It suggests that the Fe and Co sites are accessible to alkenes during catalytic reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the postsynthetic metalation affect the crystallinity of sal-MOF?",
+      "answer": "The crystallinity of sal-MOF is maintained upon metalation, as evidenced by similar PXRD patterns of sal-MOF and sal-M-MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of treating sal-MOF with t-BuOK before metalation with CoCl2?",
+      "answer": "The Co loading increases to 80% when the MOF is first treated with t-BuOK.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

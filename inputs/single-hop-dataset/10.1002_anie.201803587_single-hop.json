@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research conducted by Xiao-Li Wang and colleagues?",
+      "answer": "Exploring the performance improvement of the oxygen evolution reaction in a stable bimetal–organic framework system.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF among NNU-21–24 exhibits the best OER performance?",
+      "answer": "NNU-23 exhibits the best OER performance.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the second metal atom in bimetallic MOFs according to the research findings?",
+      "answer": "The introduction of the second metal atom can improve the activity of the original atom.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All examined bimetallic MOFs display improved OER activity compared with monometallic MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the overpotential of NNU-23 at 10 mA cm^2 in 0.1m KOH?",
+      "answer": "The overpotential of NNU-23 at 10 mA cm^2 in 0.1m KOH is 365 mV.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the electrochemical double-layer capacitance (Cdl) of bimetallic MOFs compare to that of monometallic MOFs?",
+      "answer": "The Cdl values of bimetallic MOFs are superior to that of monometallic MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The thermal stability of NNU-21–24 is evaluated under a nitrogen atmosphere.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 3,6-c net topology found in NNU-21–24?",
+      "answer": "The 3,6-c net topology indicates the structural arrangement and connectivity pattern within the MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The PXRD patterns of NNU-21–24 remain unchanged after immersion in 0.1m KOH for 24 hours.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Tafel slope analysis reveal about the kinetics of bimetallic electrocatalysts in OER?",
+      "answer": "The Tafel slope analysis reveals that bimetallic electrocatalysts have more effective kinetics in OER.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Fe2M clusters mimic the structure of bimetallic electrocatalysts.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of NNU-21–24?",
+      "answer": "Acetic acid serves as the competing reagent in the synthesis of NNU-21–24.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Fe/M stoichiometry in NNU-22–24 is confirmed to be 1:1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the second metal on the d-band center in bimetallic clusters according to DFT calculations?",
+      "answer": "The second metal results in the d-band center being closer to the Fermi level, which strengthens the binding interaction between the adsorbates and catalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NNU-23 has the highest turnover frequency (TOF) value among NNU-21–24.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Gibbs free energy (DG) diagrams in the study?",
+      "answer": "The DG diagrams help in determining the rate-determining step and overpotential of OER for the Fe3 cluster and its bimetallic variants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research was supported by the NSF of Jiangsu Province of China.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in developing novel bimetallic electrocatalysts as mentioned in the text?",
+      "answer": "The main challenge is the lack of defined structure and inter-metal interaction in many bimetallic electrocatalysts, which hinders performance improvement in OER.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research concludes that monometallic MOFs are more stable and active for OER than bimetallic MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of biphenyl-3,4’,5-tricarboxylic acid (BPTC) ligands in the synthesis of Fe2M-BPTC MOFs?",
+      "answer": "BPTC ligands connect three Fe2M clusters to construct the 3D frameworks of Fe2M-BPTC MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

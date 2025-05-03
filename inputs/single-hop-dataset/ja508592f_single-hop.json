@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of RSMOF-1?",
+      "answer": "[InC16H11N2O8]·1.5H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of RSMOF-1?",
+      "answer": "hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range do water molecules start to release from RSMOF-1 according to TGA analysis?",
+      "answer": "50 °C-173 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of RSMOF-1?",
+      "answer": "P6222",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the RSMOF-1 crystal structure upon heating to 150 °C?",
+      "answer": "The crystal structure of RSMOF-1 is well maintained.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of water molecules in the electronic transport of RSMOF-1?",
+      "answer": "Water molecules act as a control element to regulate the electronic transport of the solid RSMOF-1 framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the activation energy of charge carrier hopping change after ferroelectric switching in RSMOF-1?",
+      "answer": "The hopping activation energy decreases by approximately 0.16 eV after ferroelectric switching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the RSMOF-1 crystal ferroelectric in nature?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the removal of water molecules at elevated temperatures lead to the collapse of the RSMOF-1 crystal structure?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the ON/OFF resistance state of RSMOF-1 be controlled by temperature?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the resistive switching behavior of RSMOF-1 volatile?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the RSMOF-1 demonstrate symmetric and bipolar resistive switching behavior at room temperature?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ferroelectricity of RSMOF-1 correlated to the incorporation of guest water molecules in the nanochannels?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of amino groups in RSMOF-1 channels provide abundant sorption sites for water molecules?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the removal of water molecules from RSMOF-1 at elevated temperatures affect its ferroelectric properties?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of amino groups in the channels of RSMOF-1?",
+      "answer": "Amino groups in the channels provide abundant sorption sites for water molecules through hydrogen-bonding interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the ferroelectric properties of RSMOF-1?",
+      "answer": "Increasing the sample temperature leads to a decrease in both the threshold voltages and the ON/OFF ratio, eventually causing the resistive switching behavior to vanish.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the P6222 space group in the context of RSMOF-1's ferroelectricity?",
+      "answer": "The P6222 space group of the framework leads to a nonpolar compound, indicating that the ferroelectricity of RSMOF-1 might be correlated to the incorporation of guest water molecules in the nanochannels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the external electric field on the N···H–O···H–N bridge structure in RSMOF-1?",
+      "answer": "An external electric field may force the N···H–O···H–N bridge structure to flip and get aligned along the external field direction, resulting in an order–disorder-type ferroelectric polarization of RSMOF-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of the formation of hydrogen bonds between water molecules and the solid framework on the electronic structure of RSMOF-1?",
+      "answer": "The formation of hydrogen bonds between the water molecules and the solid framework can effectively tune the electronic structure of RSMOF-1, leading to a rigid band gap decrease.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the microporous metal-organic framework that exhibits induced-fit behavior for acetylene?",
+      "answer": "JNU-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the adsorption enthalpy of JNU-1 at approximately 2.0 mmol g@1 loading?",
+      "answer": "47.6 kJ mol@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The framework of JNU-1 is rigid and does not change upon C2H2 loading.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of open metal sites in JNU-1's structure?",
+      "answer": "They contribute to the cooperative binding of acetylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does JNU-1 compare to other MOFs in terms of C2H2/CO2 uptake ratio?",
+      "answer": "JNU-1 has one of the highest C2H2/CO2 uptake ratios, close to the best-performing [Cu2(pzdc)2(pyz)].",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption capacity of JNU-1 for C2H2 can be fully restored by activation at room temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the framework of JNU-1 upon C2H2 adsorption?",
+      "answer": "It undergoes a continuous and directional shrinkage to enhance host–guest interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: JNU-1's adsorption enthalpy for C2H2 decreases with increasing C2H2 loading.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated Brunauer–Emmett–Teller (BET) surface area of JNU-1?",
+      "answer": "818 m2 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does JNU-1's behavior upon C2H2 adsorption compare to typical flexible MOFs?",
+      "answer": "Unlike typical flexible MOFs that open up upon guest intrusion, JNU-1 adopts a more closed form upon C2H2 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The maximum Qst for JNU-1 is the highest among all reported MOFs with open ZnII sites.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of CO2 adsorption on JNU-1's framework compared to C2H2?",
+      "answer": "CO2 also causes a contraction along the b axis, but CO2 molecules are highly disordered, indicating a weaker interaction than with C2H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The C2H2 adsorption capacity of JNU-1 decreases after multiple activation/measurement cycles.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IAST adsorption selectivity of C2H2 over CO2 for JNU-1 at 298 K?",
+      "answer": "285.6 for C2H2/CO2 (1/1, v/v)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: JNU-1's induced-fit behavior for C2H2 has been previously reported in other MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does JNU-1's C2H2/CO2 separation performance in lab-scale fixed-bed breakthrough tests compare to its single-component adsorption capacity?",
+      "answer": "The breakthrough results demonstrate that JNU-1 is highly efficient for C2H2/CO2 separation, with an adsorption capacity close to the single-component C2H2 adsorption capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The binding affinity of JNU-1 towards C2H2 is enhanced by the cooperative action of two open ZnII sites on one C2H2 molecule.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability range of JNU-1 in a N2 atmosphere?",
+      "answer": "Up to 450 88C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the induced-fit behavior in JNU-1 for molecular recognition?",
+      "answer": "It allows for an unprecedented increase in adsorption enthalpy with C2H2 loading, enhancing the host–guest and guest–guest interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The phase purity of bulk JNU-1 is confirmed by matching its experimental powder X-ray Diffraction (PXRD) patterns with simulated ones.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

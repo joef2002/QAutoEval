@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What technique was used to investigate the structural changes in a flexible MOF upon alkane adsorption?",
+      "answer": "In situ single-crystal X-ray diffraction (SCXRD)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which alkanes were investigated for adsorption in the study?",
+      "answer": "Methane, ethane, propane, and butane",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main finding regarding methane adsorption in the flexible MOF?",
+      "answer": "The uptake of methane does not involve a structural transition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What mechanism facilitates the transport of alkanes through the MOF?",
+      "answer": "A turnstile mechanism",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What structural change occurs upon ethane adsorption in the MOF?",
+      "answer": "Lowering of the symmetry of the MOF and doubling of the unit cell volume.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the stepped type F isotherms observed for alkanes other than methane?",
+      "answer": "They imply that the uptake of these alkanes involves a gate-opening event.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the absence of a structural transition during methane adsorption suggest about its interaction with the MOF?",
+      "answer": "It suggests weak interactions between methane and the host framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does ethane adsorption result in a larger structural change compared to methane?",
+      "answer": "Due to its larger molecular size, ethane adsorption induces a breathing transformation involving subnetwork displacement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the MOF accommodate different sized alkane molecules?",
+      "answer": "The flexibility of the MOF allows for accommodation of C1-C4 alkane guest molecules through ligand rotation and structural transformations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the stepped sorption isotherm for propane and butane indicate about their adsorption process?",
+      "answer": "It indicates a gate-opening event possibly involving linker rotation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the MOF structure change upon butane adsorption?",
+      "answer": "It retains the same space group as the unoccupied MOF but with an approximately 130-degree rotation of the ndc2 ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does linker rotation play in alkane transport through the MOF?",
+      "answer": "Linker rotation temporarily fuses neighboring pockets to allow diffusion of alkane molecules through the nonporous system.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provided direct crystallographic evidence of alkane inclusion by the MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Methane adsorption in the MOF leads to a significant increase in guest-accessible volume.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The sorption isotherms for all alkanes studied showed a stepped type F isotherm.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF undergoes a structural transformation upon adsorption of every alkane studied.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The uptake of ethane does not involve a structural transition.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF's flexibility is unrelated to its ability to adsorb different alkanes.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study did not use computational methods to support the experimental findings.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Linker rotation does not contribute to the mechanism of alkane transport through the MOF.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

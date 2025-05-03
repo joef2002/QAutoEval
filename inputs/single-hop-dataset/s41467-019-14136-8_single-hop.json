@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the work presented in the article?",
+      "answer": "The main goal is to develop a chemical method to prepare 2D organic metal chalcogenides (OMCs) with widely tunable band gaps and homogeneous compositions and properties at the nanoscale.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is introduced for preparing 2D organic metal chalcogenides?",
+      "answer": "A metal-organic framework-directed organic modification and then exfoliation (M-E) strategy is introduced.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the band gap of OMCs change with the electronegativity of the metals?",
+      "answer": "The band gap becomes broader with increasing electronegativity of the metal ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the highest value of band gap modulation achieved in the reported chemical methods before this work?",
+      "answer": "0.42 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The conductivity of OMCs can be tuned over 9 orders of magnitude.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of electron-donating functional groups in OMCs?",
+      "answer": "They act similarly to a gating voltage in FETs, inducing additional holes from electrodes to inject into OMCs, thereby increasing conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The properties of OMCs are dependent on the number of layers.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the conductivity of Cu(SPh-OH) measured in a direction parallel to the inorganic layer?",
+      "answer": "1.2 S m−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The conductivity of OMCs decreases with a decrease of their optical band gaps.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What conduction mechanism is observed in Cu(SPh-OH) at temperatures below 110 K?",
+      "answer": "Mott variable-range-hopping conduction",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electronegativity values of coinage metal ions follow the sequence Cu+ < Ag+ < Au+.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of changing the electron-donating ability of organic functional groups on the band gap of OMCs?",
+      "answer": "The band gap becomes narrower with the enhancement of electron-donating ability of organic functional groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of OMCs involves a pre-synthetic ligand functionalization step.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest value of band gap modulation achieved by the M-E strategy?",
+      "answer": "0.83 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The conductivity of OMCs with the same ligand is in the sequence of Cu–OMCs > Ag–OMCs > Au–OMCs.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the unique structural feature of OMCs compared to previously reported 2D materials?",
+      "answer": "OMCs have an inorganic metal chalcogenides layer fully covered by periodically arranged organic functional groups.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The band gap and conductivity modulations achieved by the M-E strategy are the highest reported in chemical methods.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential application of the variable and long-range ordered organic functional groups on the surface of OMCs?",
+      "answer": "They make OMCs very appealing in applications in chemistry, physics, and biology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of OMCs does not involve the use of metal-organic frameworks (MOFs).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the M-E strategy in the design of 2D materials?",
+      "answer": "It shows great potential in the design of 2D materials with widely tunable band gaps.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

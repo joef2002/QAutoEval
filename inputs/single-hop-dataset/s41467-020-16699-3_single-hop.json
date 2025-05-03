@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main challenge in determining the exact chemical structure of non-crystallizing natural products?",
+      "answer": "The main challenge is that the absolute structural determination of a myriad of natural products with very sensitive chemical functionalities remains undone.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is traditionally used for verifying the absolute structural configuration of natural products?",
+      "answer": "The absolute structural configuration of natural products has been historically verified by total synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the metal-organic framework (MOF) play in the synthesis and structural resolution of natural products?",
+      "answer": "The MOF with alcohol-containing arms and adsorbed water enables selective hydrolysis of glycosyl bonds, supramolecular order with the so-formed chiral fragments, and absolute determination of the organic structure by single-crystal X-ray crystallography in a single operation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the formula of the MOF used in the study for catalysis and structural resolution?",
+      "answer": "{Cu6Ca[(S,S)-serimox]3(OH)2(H2O)}.39H2O",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF-driven methodology compare to traditional methods for determining the structure of natural products?",
+      "answer": "The MOF-driven methodology allows for the hydrolysis, capture, organization, and retention of very sensitive unknown organic species within their functional channels, enabling the absolute structural determination of natural products without the need for traditional synthesis or degradation methods.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What natural product was specifically mentioned as having its structure determined using the MOF-driven methodology?",
+      "answer": "Brutieridin",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF used in the study is capable of mimicking enzyme-like specificity for the hydrolysis of glycosyl bonds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of determining the absolute configuration of natural products like brutieridin?",
+      "answer": "Determining the absolute configuration is significant because it allows for the understanding of the natural product's chemical structure, which is crucial for its potential clinical applications and understanding its biological processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF-driven methodology requires the addition of formal protons for the hydrolysis of glycosyl bonds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to elucidate the mechanism of glycosyl hydrolysis within the MOF?",
+      "answer": "Quantum Mechanics/Molecular Mechanics-Our own N-layered Integrated molecular Orbitals and Molecular mechanics investigation (QM/MM–ONIOM)",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

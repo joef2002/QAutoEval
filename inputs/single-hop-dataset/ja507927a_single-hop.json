@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the research article?",
+      "answer": "The main goal is to design and synthesize a series of 1D-CuI(L) hybrid phosphors that are free of rare-earth elements and emit over the entire visible spectrum for general lighting applications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the synthesis of 1D-CuI(4-pc)?",
+      "answer": "A solution of ethanol and 4-pc was slowly added to a saturated KI solution containing CuI, forming needlelike colorless crystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound has the highest internal quantum yield according to the research?",
+      "answer": "1D-CuI(3-pc) has the highest internal quantum yield of approximately 37.2%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the band gap of 1D-CuI(L) hybrid structures modulated?",
+      "answer": "The band gap of 1D-CuI(L) hybrid structures is modulated by selecting organic ligands with different LUMO energies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of organic ligands in the properties of 1D-CuI(L) hybrid structures?",
+      "answer": "Organic ligands control the energy levels of the conduction band minimum (CBM) and consequently modulate the band gap and emission properties of the 1D-CuI(L) hybrid structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission wavelengths of the hybrid compounds can be tuned systematically by tailoring their band gaps.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the PXRD patterns shown in the supporting information?",
+      "answer": "The PXRD patterns confirm the phase purity of the synthesized 1D-CuI(L) compounds by comparing them to simulated patterns from single crystal data.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of doping pm into the 1D-CuI(py) structure?",
+      "answer": "Doping pm into the 1D-CuI(py) structure significantly alters its emission properties, resulting in a broader and more well-balanced white emission.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All synthesized 1D-CuI(L) compounds are stable up to 100-150 °C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the choice of ligand affect the quantum yields of 1D-CuI(L) compounds?",
+      "answer": "Compounds containing electron-withdrawing groups generally have lower quantum yields, while those with electron-donating groups tend to have higher quantum yields.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of thermogravimetric (TG) analysis in the study?",
+      "answer": "TG analysis is used to confirm the thermal stability of the 1D-CuI(L) compounds by measuring their weight loss up to certain temperatures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission quality and color of light from the new phosphors can be compared to that of conventional YAG:Ce3+ phosphors.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DFT calculations in the research?",
+      "answer": "DFT calculations are used to predict the electronic properties of ligands and their impact on the band structure and optical properties of the 1D-CuI(L) hybrid structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research successfully achieved white light emission without the use of rare-earth elements.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges do the researchers aim to overcome with the development of 1D-CuI(L) hybrid phosphors?",
+      "answer": "The researchers aim to overcome the challenges of rare-earth element dependency, high cost, and environmental concerns associated with conventional phosphors.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized 1D-CuI(L) compounds are solution processable and can be coated on various substrates.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the synthesis of 1D-CuI(3,5-dm-py) differ from that of 1D-CuI(4-pc)?",
+      "answer": "1D-CuI(3,5-dm-py) is synthesized using a diffusion growth technique with a middle layer of acetonitrile, while 1D-CuI(4-pc) is synthesized by adding a solution of ethanol and 4-pc to a saturated KI solution containing CuI.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission wavelengths of 1D-CuI(L) compounds span the entire visible region.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the estimated band gaps and emission energies listed in the research?",
+      "answer": "The estimated band gaps and emission energies demonstrate the tunability of the optical properties of 1D-CuI(L) compounds, which is crucial for their application in lighting.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research provides a solution to the potential supply risks of rare-earth elements in lighting technologies.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two 3D Copper Glutarate-Based MOFs discussed?",
+      "answer": "[Cu2(glu)2(bpa)] and [Cu2(glu)2(bpp)]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOFs upon solvent loss at room temperature?",
+      "answer": "They undergo spontaneous phase changes to new narrow-channel forms.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the solvent-accessible volume increased or decreased after the phase change?",
+      "answer": "Decreased",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does [Cu2(glu)2(bpa)] MOF display a stepped sorption isotherm for CO2 uptake?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the positions of CO2 molecules in the channels of the frameworks?",
+      "answer": "Single-crystal X-ray diffraction analysis (SCXRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of molecular modeling simulations in the study?",
+      "answer": "To elucidate the phase-change mechanism, including the energetic changes involved.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the structural limitations in both MOFs allow for direct gauche–gauche enantiomeric interconversion?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of supercritical CO2 on the MOFs?",
+      "answer": "It is used to isolate the gas-included structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the gate-opening event in [Cu2(glu)2(bpa)]'s CO2 adsorption indicate?",
+      "answer": "A transformation from the narrow-channel form to the wide-channel form under CO2 pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the flexible bipyridyl ligands crucial in accommodating the structural changes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for the conformational scan of a single glutaric acid?",
+      "answer": "Density Functional Theory (DFT)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the phase change occur via a direct gauche-to-gauche interconversion?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the inversion of the signs of the glu gauche torsion angles?",
+      "answer": "It indicates an enantiomeric conformational change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the stepped sorption isotherm for CO2 uptake suggest about the MOF's structure?",
+      "answer": "It suggests structural flexibility and a potential for phase change under certain conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the MOFs capable of undergoing phase changes without the presence of rigid bipyridyl linkers?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the decrease in solvent-accessible volume indicate about the MOF's porosity?",
+      "answer": "It indicates a reduction in porosity following the phase change.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of SC-CO2 in the study of MOFs?",
+      "answer": "To activate the MOFs and isolate gas-included structures for analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the gate-opening event associated with an increase in gas uptake?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the inversion of the glu gauche torsion angles contribute to the MOF's structure?",
+      "answer": "It contributes to the phase change from a wide-channel to a narrow-channel form.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are molecular modeling simulations essential for understanding the phase-change mechanism?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

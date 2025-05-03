@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the yield percentage of the compound [CuII3(trz)3(OH)3(H2O)4]·4.5 H2O when synthesized?",
+      "answer": "90%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of framework does the structure of 1·4.5 H2O consist of?",
+      "answer": "A 3D metal–organic framework",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the ligand trz in the construction of complex bimetallic oxides?",
+      "answer": "It acts as a tridentate bridging group facilitating the formation of triangular CuII clusters.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the compound 1·4.5 H2O upon dehydration and rehydration?",
+      "answer": "It reverts to blue upon exposure to moisture after the first dehydration step.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of using CuBr instead of CuSO4·5 H2O in the hydrothermal reaction?",
+      "answer": "It produces [CuII3(trz)3OH]-[CuI2Br4] (2) as black crystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the identity of the counterion influence the structures of the building blocks in the resulting network?",
+      "answer": "The identity of the counterion can dramatically influence the structures, leading to different arrangements such as framework, layer, and chain substructures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the {Cu3(m3-OH)(trz)3}2+ cluster in the synthesis under hydrothermal conditions?",
+      "answer": "It serves as a molecular building block for constructing a microporous metal–organic framework.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the polyaza heterocycle 1,2,4-triazole (Htrz) considered advantageous in the design of materials?",
+      "answer": "Because it can bridge metal ions to afford polynuclear complexes and has a superexchange capacity that contributes to unusual magnetic properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of the hydrothermal reaction using CuCl2·2 H2O as the Cu source?",
+      "answer": "It results in the formation of [CuI2(trz)Cl]Cl·3 H2O (3·3 H2O) with layer and chain substructures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of 2 differ from 1·4.5 H2O?",
+      "answer": "Structure 2 lacks the axial OH- and H2O ligands found in 1·4.5 H2O and contains a 3D anionic substructure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the temperature dependence of the magnetic susceptibility of 1·4.5 H2O?",
+      "answer": "It indicates the presence of both intra- and intercluster antiferromagnetic coupling.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the thermogravimetric profile of 1·4.5 H2O reveal?",
+      "answer": "It exhibits a 15% weight loss between room temperature and 150°C, corresponding to the loss of H2O molecules of crystallization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the {Cu3(m3-OH)(trz)3}2+ framework maintained upon the first dehydration of 1·4.5 H2O?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound 2 demonstrate microporous properties?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the effective magnetic moment of 1·4.5 H2O at 300 K lower than the theoretical value for three uncoupled S = 1/2 spins?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of 3·3 H2O contain triangular {Cu3(m3-OH)(trz)3}2+ building blocks?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination environment of the CuII sites in 1·4.5 H2O described as a '4+2' distorted octahedron?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of 2 contain both CuII and CuI sites?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the deprotonation of Htrz upon its coordination to metal ions uncommon?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of 1·4.5 H2O revert to green upon exposure to moisture after dehydration?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the compound synthesized from CuO and H2SiF6?",
+      "answer": "CuSiF6·4H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of MeOH in the synthesis of ZNU-3?",
+      "answer": "MeOH is used as a solvent to dissolve 3,5-pyridinedicarboxylic acid in the synthesis of ZNU-3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Cu[NO3]2·3H2O be replaced with other Cu(II) sources in the synthesis of ZNU-3?",
+      "answer": "Yes, Cu[NO3]2·3H2O can be replaced with Cu[BF4]2·H2O, CuSiF6·4H2O, or CuSO4·5H2O in the synthesis of ZNU-3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What model is used to fit the unary isotherms for C2H2, CO2, and C2H4 in ZNU-3?",
+      "answer": "The dual-site Langmuir-Freundlich model is used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the correlation coefficient (R2) for C2H2 in ZNU-3 at 298K?",
+      "answer": "0.997500",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of ZNU-3 synthesized from MeOH solvent?",
+      "answer": "Cu[HPdc]2·2.24MeOH",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of grinding on ZNU-3?",
+      "answer": "Grinding may cause localized high pressure and affect the stability of ZNU-3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZNU-3 stable in air after activation?",
+      "answer": "Yes, activated ZNU-3 is relatively stable in air for several hours.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis method affect the BET surface area of ZNU-3?",
+      "answer": "Yes, the BET surface area of ZNU-3 varies depending on the synthesis method and the solvent used.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main interaction trapping C2H2 in ZNU-3?",
+      "answer": "C2H2 is mainly trapped by two opposite carboxylic groups with additional small contribution from π···π packing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the uptake capacity of C2H2 higher than CO2 in ZNU-3?",
+      "answer": "Yes, the uptake capacity of C2H2 is significantly higher than that of CO2 in ZNU-3.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does ZNU-3 show selectivity towards C2H2 over other gases?",
+      "answer": "Yes, ZNU-3 shows high selectivity towards C2H2 over CO2, C2H4, C2H6, CH4, and N2.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the C2H2/CO2 uptake ratio of ZNU-3 the highest among all porous materials?",
+      "answer": "False, the C2H2/CO2 uptake ratio of ZNU-3 is only secondary to that of UTSA-300a.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can ZNU-3 be synthesized using EtOH as a solvent?",
+      "answer": "True, ZNU-3 can be synthesized using EtOH, resulting in the formula Cu[HPdc]2·1.56EtOH.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dual-site Langmuir-Freundlich model only applicable to ZNU-3 at 298K?",
+      "answer": "False, the dual-site Langmuir-Freundlich model is applied to ZNU-3 at multiple temperatures.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of CuSiF6·4H2O require heating above 105 ℃?",
+      "answer": "False, the mixture is heated at 105 ℃ for the synthesis of CuSiF6·4H2O.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area of ZNU-3 synthesized using Cu(NO3)2 in MeOH higher than when synthesized using CuSiF6 in MeOH?",
+      "answer": "True, the BET surface area varies depending on the Cu(II) source and solvent used in the synthesis.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is ZNU-3 unstable in air before activation?",
+      "answer": "True, the as-synthesized ZNU-3 with solvents inside the pores is not stable upon long time exposure to air.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZNU-3 have a higher C2H2 uptake capacity at 298K compared to 273K?",
+      "answer": "True, the C2H2 uptake capacity of ZNU-3 at 298K is higher than at 273K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the correlation coefficient (R2) for CO2 in ZNU-3 at 298K higher than 0.999?",
+      "answer": "False, the correlation coefficient (R2) for CO2 in ZNU-3 at 298K is 0.999994.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

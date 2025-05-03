@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application of metal-organic frameworks (MOFs) mentioned in the text?",
+      "answer": "Catalytic conversions",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of chiral silver(I) and copper(I) bisdentate imine complexes in the synthesis process?",
+      "answer": "They serve as homogeneous catalysts to afford cycloadducts in good yields and high enantioselectivities.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is homochiral crystallization of silver-based MOFs achieved according to the text?",
+      "answer": "By using cinchonine or cinchonidine as chiral templates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the distorted tetrahedral silver(I) centers within the framework?",
+      "answer": "They act as chiral nodes to connect ligands and serve as asymmetric catalytic sites for 1,3-dipolar cycloaddition reactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the outcome of incorporating three pyridine–imine bidentate chelators into a triphenylamine fragment?",
+      "answer": "The realization of homochiral crystallization of silver-based MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of 10 mol % of (+)-cinchonine or ((cid:2))-cinchonidine result in?",
+      "answer": "A chiral catalytic effect that leads to the growth of homochiral crystals.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of the 1,3-dipolar cycloaddition of azomethine ylides with electron-deficient olefins?",
+      "answer": "To form highly substituted chiral pyrrolidines, important for the synthesis of biologically active compounds and natural products.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is it desirable to incorporate chiral metal complexes into the nodes of frameworks?",
+      "answer": "To generate a metallodipole within the nodes, resulting in efficient catalytic activity with recyclable and reusable catalysts.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the ligand TPHA contribute to the formation of Ag-TPHA?",
+      "answer": "By reacting with AgBF4 in methanol, leading to the new compound Ag-TPHA.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the twist configurations of the three phenyl rings attached to one nitrogen atom?",
+      "answer": "It might exhibit atropisomeric chirality in the solid state, facilitating chiral transfer between the silver centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the addition of cinchonine or cinchonidine affect the crystallization process?",
+      "answer": "It results in the formation of homochiral crystals with controlled chirality.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What demonstrates the potential absorption ability of Ag-TPHA toward MBA?",
+      "answer": "Soaking crystalline Ag-TPHA in a solution of MBA in CHCl3, which showed characteristic peaks corresponding to the MBA molecule.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ligand TPHA prepared by reacting tris(4-acetylphenyl)amine with 2-hydrazinylpyridine in a molar ratio of 1:3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of cinchonine or cinchonidine have no effect on the growth of homochiral crystals?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the homochiral crystals formed through spontaneous resolution crystallization?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can Ag-TPHA activate an MBA molecule through an atropisomeric chiral silver(I) center?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic activity of the chiral solids with P configuration at the silver centers assessed by asymmetric 1,3-dipolar cycloaddition reactions involving MBA and NMM?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of silver salt alone or with co-existing ligands result in a reaction with high efficiency and high enantioselectivity?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the structural simplicity of the building blocks and the ability to control the assembly process through conformational chiral adducts promising for the development of a wide range of homochiral materials?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

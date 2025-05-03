@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the full title of the article?",
+      "answer": "Photoinduced Magnetization in a Two-Dimensional Cobalt Octacyanotungstate",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author for the article?",
+      "answer": "Shin-ichi Ohkoshi",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of compound was synthesized in the study?",
+      "answer": "A cyano-bridged Co−W bimetallic assembly",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the synthesized compound exhibit upon irradiating with light?",
+      "answer": "Photoinduced magnetization",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the magnetic phase transition temperature induced by light irradiation?",
+      "answer": "30 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for magnetic measurements of the compound?",
+      "answer": "Superconducting quantum interference device (SQUID) magnetometer",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of octacyanometalates in preparing photomagnetic materials?",
+      "answer": "Octacyanometalates can adopt various valence states and coordination geometries, making them useful for preparing photomagnetic materials.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the target compound prepared?",
+      "answer": "By adding an aqueous solution of CsI3[WV(CN)8] to a mixed aqueous solution of CoIICl2 and 3-cyanopyridine at room temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the photoinduced magnetization is not due to a photothermal reaction?",
+      "answer": "The quantum yield for green light was one-fifth of that for red light when the absorbed photon energy was equivalent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What changes occur in the compound upon thermal treatment after photoinduction?",
+      "answer": "The photoinduced magnetization relaxes to the initial value, indicating that magnetization can be repeatedly increased by irradiating with light and recovering with thermal treatment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the wide thermal hysteresis loop observed in the compound?",
+      "answer": "It indicates a temperature-induced phase transition with a large thermal hysteresis, which is significant for the compound's magnetic functionalities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the observed Ms value suggest about the interaction between CoII and WV ions?",
+      "answer": "The observed Ms value suggests that the magnetic spins on CoII and WV ions ferromagnetically interacted.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized compound a one-dimensional assembly?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized compound exhibit photodemagnetization?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photoinduced magnetization phenomenon due to a photochemical reaction?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound retain a small amount of HT phase even at 10 K?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination geometry of WV ions in the compound a pseudo-octahedron?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does irradiating the compound with light induce a magnetic phase transition temperature at 50 K?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's photoinduced magnetization persistent for at least 1 week after turning off the light at 5 K?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit a temperature-induced phase transition with a narrow thermal hysteresis?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

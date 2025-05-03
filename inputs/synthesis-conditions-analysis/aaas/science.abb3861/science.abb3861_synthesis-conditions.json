@@ -1,0 +1,114 @@
+{
+  "materials": [
+    {
+      "name": "CrCl2(pyz)2",
+      "synthesis_conditions": [
+        {
+          "step": "Postsynthetic chemical reduction",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Tetrahydrofuran (THF)",
+              "amount": "Not specified"
+            }
+          ],
+          "reagents": [
+            {
+              "name": "Lithium 1,2–dihydroacenaphthylenide",
+              "amount": "Two molar equivalents"
+            }
+          ],
+          "time": "Not specified",
+          "equipment": "Not specified",
+          "yield": "90%",
+          "washing_method": "THF",
+          "drying_method": "Static vacuum (10–1 bar) at room temperature",
+          "comments": [
+            "The duration of the reaction (4 days) is crucial for the isolation of the phase-pure compound.",
+            "The amount of THF in the final material decreases over time."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cr(OSO2CH3)2(pyz)2",
+      "synthesis_conditions": [
+        {
+          "step": "Postsynthetic chemical reduction",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Tetrahydrofuran (THF)",
+              "amount": "Not specified"
+            }
+          ],
+          "reagents": [
+            {
+              "name": "Lithium 1,2–dihydroacenaphthylenide",
+              "amount": "Two molar equivalents"
+            }
+          ],
+          "time": "4 days",
+          "equipment": "Not specified",
+          "yield": "Not specified",
+          "washing_method": "THF",
+          "drying_method": "Allowed to stand in a nitrogen atmosphere for 10 minutes",
+          "comments": [
+            "Cr(OSO2CH3)2(pyz)2, product 1 and Li[SO3CH3] are all insoluble in THF.",
+            "The color of product 1 (dark gray) contrasts notably with that of Cr(OSO2CH3)2(pyz)2 (light brown) suggesting the occurrence of a chemical modification during the course of the reaction."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Li0.7[Cr(pyz)2]Cl0.7·(THF)",
+      "synthesis_conditions": [
+        {
+          "step": "Chemical reduction of CrCl2(pyz)2",
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Tetrahydrofuran (THF)",
+              "amount": "Not specified"
+            }
+          ],
+          "reagents": [
+            {
+              "name": "Lithium 1,2–dihydroacenaphthylenide",
+              "amount": "Two molar equivalents"
+            }
+          ],
+          "time": "4 days",
+          "equipment": "Not specified",
+          "yield": "~90%",
+          "washing_method": "THF",
+          "drying_method": "Static vacuum (10–1 bar) at room temperature",
+          "comments": [
+            "The duration of the reaction (4 days) is crucial for the isolation of the phase-pure compound.",
+            "The amount of THF in the final material decreases over time."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Li0.7[Cr(pyz)2]Cl0.7·0.25(THF)",
+      "synthesis_conditions": [
+        {
+          "step": "Heating of Li0.7[Cr(pyz)2]Cl0.7·(THF)",
+          "temperature": "400 K for 18 hours or 500 K for 10 hours",
+          "solvents": [],
+          "reagents": [],
+          "time": "18 hours at 400 K or 10 hours at 500 K",
+          "equipment": "Capped but only partially sealed screw cap-vial",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Dynamic vacuum was unsuccessful as 2·0.25(THF) readily decomposed",
+          "comments": [
+            "The 'drying' of 2·(THF) was performed by heating the solvate in a capped but only partially sealed screw cap-vial at 400 K for 18 hours or at 500 K for 10 hours under dinitrogen or argon atmosphere.",
+            "Further drying of the material under dynamic vacuum was unsuccessful as 2·0.25(THF) readily decomposed."
+          ]
+        }
+      ]
+    }
+  ]
+}

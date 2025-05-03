@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "trans-1 hexakis-fullerene adduct 3",
+      "synthesis_conditions": {
+        "starting_materials": [
+          "tetrakis[di(ethoxycarbonyl)methano]-C60 (1)",
+          "4,4'-(4,4'-(diazomethylene)bis(4,1-phenylene))dipyridine (2)"
+        ],
+        "solvents": [
+          {
+            "name": "common organic solvents",
+            "examples": ["CH2Cl2", "DMF", "THF"]
+          }
+        ],
+        "temperature": "Not specified",
+        "equipment": "Photoirradiation equipment",
+        "wavelength": "365 nm",
+        "time": "30 minutes",
+        "atmosphere": "Atmospheric conditions",
+        "yield": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "additional_information": "The compound is pale-yellow, very stable under atmospheric conditions, and highly soluble in common organic solvents."
+      }
+    },
+    {
+      "name": "complex 4 [(3)2·Cd(NO3)2]1",
+      "synthesis_conditions": {
+        "starting_materials": [
+          "trans-1 hexakis-fullerene adduct 3",
+          "Cd(NO3)2·4 H2O"
+        ],
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "Not specified"
+          },
+          {
+            "name": "methanol",
+            "amount": "Layered over the solution after cooling to room temperature"
+          }
+        ],
+        "temperature": "100 °C",
+        "time": "Overnight",
+        "yield": "Yellow crystals obtained after several weeks",
+        "crystallization_method": "Cooling to room temperature followed by careful layering of methanol over the solution",
+        "additional_information": "Single-crystal X-ray diffraction analysis confirms it as a fullerene-linked MOF."
+      }
+    }
+  ]
+}

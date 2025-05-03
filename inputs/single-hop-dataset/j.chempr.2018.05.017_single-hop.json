@@ -1,0 +1,64 @@
+{
+  "QAs": [
+    {
+      "question": "What are the two metal-organic frameworks (MOFs) presented for capturing aromatic volatile organic compounds?",
+      "answer": "The two MOFs presented are [Zr6(μ3-O)4(μ3-OH)4(BDB)6] (BUT-66) and [Zr6(μ3-O)4(μ3-OH)4(NDB)6] (BUT-67).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the benzene uptake of BUT-66 at 0.12 kPa and 80°C?",
+      "answer": "The benzene uptake of BUT-66 at 0.12 kPa and 80°C is 1.65 mmol g−1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do BUT-66 and BUT-67 compare in terms of benzene adsorption capacity to other materials like MIL-101(Cr) and ZIF-8?",
+      "answer": "BUT-66 shows significantly higher benzene adsorption capacity than some benchmark materials such as MIL-101(Cr), ZIF-8, MCM-41, PAF-1, and Carboxen 1000 at low pressure and high temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the key features of BUT-66 that contribute to its high performance in capturing aromatic VOCs?",
+      "answer": "The key features of BUT-66 include small hydrophobic pores, mutually less-interfered hydrophobic and hydrophilic adsorption sites, and rigid overall framework with local rotatable phenyl rings.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of angular ligands in the construction of BUT-66 and BUT-67?",
+      "answer": "Angular ligands with a bridging angle of 120° are used to construct BUT-66 and BUT-67, leading to the formation of MOFs with small pores and two-fold interpenetrated pcu network structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the water uptake of BUT-66 at room temperature?",
+      "answer": "At room temperature, the water uptake of BUT-66 at P/P0 close to 0.9 is 5.7 mmol g−1 (10.3 wt %).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water vapor affect the benzene capture capacity of BUT-66?",
+      "answer": "The benzene capture capacity of BUT-66 is nearly uncompromised when the gas mixture is moisturized with RH ≈ 50%, suggesting that the adsorption of water molecules on hydrophilic sites does not significantly affect the adsorption of hydrocarbon molecules on hydrophobic sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the single-crystal structure analyses of guest-loaded phases of BUT-66?",
+      "answer": "The single-crystal structure analyses of guest-loaded phases of BUT-66 provide insight into the specific adsorption sites for BTEX molecules and water molecules, explaining the high adsorption performance of BUT-66 toward trace benzene in humid air.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: BUT-66 and BUT-67 are hydrophilic on both exterior crystal surface and interior pore surface.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The benzene capture capacity of BUT-66 decreases significantly in the presence of NO gas.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

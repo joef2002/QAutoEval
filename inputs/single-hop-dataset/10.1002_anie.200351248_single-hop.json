@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of the heterotrimetallic complex discussed?",
+      "answer": "CrIII-CuII-GdIII",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the structure of complex 1?",
+      "answer": "Single-crystal X-ray crystallography",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the oxamidato group in the complex?",
+      "answer": "To transmit efficiently magnetic coupling",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnetic interactions are present in the complex according to the cmT vs. T plot?",
+      "answer": "Global ferromagnetic interactions",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the heterotrimetallic complex synthesis?",
+      "answer": "40%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Weiss constant derived from the cmT vs. T plot?",
+      "answer": "It is consistent with the calculated value per GdCu4Cr, indicating ferromagnetic coupling",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of complex 1 contribute to its magnetic properties?",
+      "answer": "The structure allows for ferromagnetic CuII–CrIII and CuII–GdIII coupling",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are heterotrimetallic complexes with three different spins rare?",
+      "answer": "Because it's challenging to structurally characterize and synthesize complexes with three different spin carriers",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the absence of CrIII–CN–GdIII linkages indicate about the complex's magnetic properties?",
+      "answer": "It indicates the absence of antiferromagnetic interactions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of interstitial water molecules affect the complex?",
+      "answer": "They are situated between the layers, potentially affecting the structural stability",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What future work is suggested for the heterotrimetallic complex?",
+      "answer": "Designing extended species with CrIII–CN–GdIII linkages for magnetic ordering and new bifunctional behavior",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of cyanide-bridged transition metal complexes?",
+      "answer": "They are used as magnetic, magneto-optical, porous, or catalytic materials",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the heterotrimetallic complex ferromagnetic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the complex exhibit spontaneous magnetization at temperatures down to 1.8 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the CuII–CrIII magnetic couplings through the cyano bridges antiferromagnetic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is complex 1 a 3D polymer?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the complex contain three different paramagnetic metal ions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of complex 1 achieved without the use of water?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the complex's structure include antiferromagnetic CrIII–CN–GdIII linkages?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic saturation effect observed at temperatures below 3.2 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

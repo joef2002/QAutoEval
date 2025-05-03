@@ -1,0 +1,61 @@
+{
+  "materials": [
+    {
+      "name": "Squarate-Based Material",
+      "synthesis": {
+        "chemicals_used": {
+          "squaric_acid": {
+            "amount": "2.9 mmol",
+            "details": "0.33 g"
+          },
+          "CoCl2.6H2O": {
+            "amount": "1.9 mmol",
+            "details": "0.46 g"
+          },
+          "KOH": {
+            "amount": "7.7 mmol",
+            "details": "0.43 g"
+          },
+          "H2O": {
+            "amount": "7 mL"
+          }
+        },
+        "steps": [
+          {
+            "step": "Dissolving squaric acid and CoCl2.6H2O in H2O",
+            "details": "A mixture of squaric acid and CoCl2.6H2O was dissolved in 7 mL of H2O."
+          },
+          {
+            "step": "Adding KOH under stirring",
+            "details": "Under stirring, KOH was added to the mixture."
+          },
+          {
+            "step": "Transferring to Teflon-lined reactor",
+            "details": "The mixture was finally transferred to a 25 mL Teflon-lined reactor."
+          },
+          {
+            "step": "Heating",
+            "details": "The reactor was heated to 220 °C for 48 h."
+          },
+          {
+            "step": "Cooling",
+            "details": "After heating, the reactor was cooled to room temperature within several hours."
+          },
+          {
+            "step": "Filtration and washing",
+            "details": "The sample was filtrated and washed with deionized water several times."
+          },
+          {
+            "step": "Exchange with deionized water",
+            "details": "Then exchanged with deionized water for 3 days (2 times/day) prior to activation."
+          }
+        ],
+        "temperature": "220 °C",
+        "time": "48 h",
+        "washing_method": "Washed with deionized water several times",
+        "drying_method": "Exchanged with deionized water for 3 days",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the crystal system of SCU-UEu-2?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the X-ray single-crystal diffraction data determination?",
+      "answer": "Bruker D8-Venture diffractometer with a Turbo X-ray Source",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of SCU-UEu-2?",
+      "answer": "P21/c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of SCU-UEu-2?",
+      "answer": "2720.74",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (V) of the unit cell for SCU-UEu-2?",
+      "answer": "3294.2(12) Å3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated photoluminescence quantum yield (PLQY) of SCU-UEu-2?",
+      "answer": "92.68%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of SCU-UEu-2 determined at room temperature?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SCU-UEu-2 exhibit near-unity energy transfer efficiency from uranyl to europium?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the detection limit of SCU-UEu-2 for X-ray?",
+      "answer": "1.243 μGyair/s",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is SCU-UEu-2 more efficient than LYSO in X-ray detection?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using NaNO3 in the synthesis of SCU-UEu-2?",
+      "answer": "The text does not provide specific details on the purpose of using NaNO3 in the synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What hybrid functional was used in the DFT calculations for SCU-UEu-2?",
+      "answer": "PBE0",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 1,10-phenanthroline in the synthesis of SCU-UEu-2?",
+      "answer": "The text does not provide specific details on the role of 1,10-phenanthroline in the synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of SCU-UEu-2 involve a hydrothermal reaction?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of SCU-UEu-2 over other Eu-MOFs according to the study?",
+      "answer": "SCU-UEu-2 has a record-breaking photoluminescence quantum yield (PLQY) among all reported Eu-MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the absorption range of uranyl ion mentioned in the text?",
+      "answer": "350 to 500 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used for the energy transfer efficiency calculations?",
+      "answer": "Time-dependent density functional theory (TDDFT) and ab initio wave-function theory (WFT) calculations",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is SCU-UEu-2 stable under high humidity conditions?",
+      "answer": "Yes, SCU-UEu-2 retains more than 80% of its initial XEL output under high humidity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in the direct excitation of Ln3+ ions as mentioned in the text?",
+      "answer": "The direct excitation of Ln3+ is very inefficient unless high-power laser excitation is utilized due to their electric-dipole forbidden 4f–4f transitions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the 'antenna effect' in the context of lanthanide organic frameworks?",
+      "answer": "The 'antenna effect' utilizes organic linkers with strong absorption chromophores to sensitize Ln3+ emission, leading to a high photoluminescence quantum yield.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

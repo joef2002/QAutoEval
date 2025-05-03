@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge addressed in the study regarding hydrogen storage?",
+      "answer": "The main challenge addressed is the storage of H2 in a safe and compact form.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What materials have become competitors to zeolites and carbon materials for hydrogen storage?",
+      "answer": "Porous coordination frameworks have become competitors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the pore size in the coordination frameworks discussed in the study?",
+      "answer": "The pore size influences guest adsorption and is crucial for establishing a route to higher H2 storage capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study systematically investigated the influence of pore size and shape on guest adsorption.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of Biphenyl-3,3’,5,5’-tetracarboxylic acid (H4L1)?",
+      "answer": "It was synthesized by the oxidation of 3,3’,5,5’-tetramethylbiphenyl with KMnO4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the solvated framework compounds synthesized?",
+      "answer": "By solvothermal reaction of H4L1, H4L2, or H4L3 with Cu(NO3)2·2.5 H2O in a slightly acidified mixture of DMF/1,4-dioxane/H2O.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the desolvated samples of 1–3 when exposed to moisture?",
+      "answer": "Their color rapidly reverts to blue-green, and the samples lose crystallinity and porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The maximum H2 uptake is directly proportional to the surface area of the coordination frameworks.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the highest H2 adsorption recorded for compound 1 at 20 bar?",
+      "answer": "4.02 wt %",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Increasing the pore volume is the only factor to be considered in the design of H2-storage materials.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between pore size and H2 adsorption affinity in the frameworks discussed?",
+      "answer": "A smaller pore size leads to a higher affinity for H2 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The frameworks of 1–3, which contain binuclear Cu nodes, show lower H2 uptakes than related frameworks based on Zn or Fe nodes.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study suggest about the optimum pore size for H2 storage?",
+      "answer": "The study suggests that there is an optimum pore size for H2 storage, as increasing pore volume alone may not yield the best material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The desolvated samples of 1–3 are stable in a dry environment.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to confirm the phase purity of the bulk samples?",
+      "answer": "Powder X-ray diffraction (PXRD) was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The H2 sorption isotherms of desolvated 1–3 show poor reversibility and significant hysteresis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the volumetric H2 storage capacity of compound 2, and how does it compare to the 2010 U.S. DOE target?",
+      "answer": "43.6 g L-1, which is very close to the 2010 U.S. DOE target of 45 g L-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides evidence of adsorption of H2 on different types of sites within the frameworks.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analysis was applied to the sorption data to determine pore sizes?",
+      "answer": "A Dubinin–Astakhov analysis was applied.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study concludes that increasing the pore volume is the most effective strategy for enhancing H2 storage capacity.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for Fe-MOF?",
+      "answer": "C42H28Fe3O16",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of Fe-MOF?",
+      "answer": "Solvo-thermal method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Im-Fe-MOF?",
+      "answer": "R3̅c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proton conductivity of Im-Fe-MOF at 60 °C and 98% RH?",
+      "answer": "1.21×10-2 S cm-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the proton conductivity of Im-Fe-MOF compare to Nafion under similar conditions?",
+      "answer": "Im-Fe-MOF has a higher proton conductivity than Nafion under similar conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of imidazole in the synthesis of Im-Fe-MOF?",
+      "answer": "Imidazole acts as a ligand coordinating to the metal nodes of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of Im-Fe-MOF higher than that of Fe-MOF?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Fe-MOF structure contain water molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation energy for proton conduction in Im-Fe-MOF lower than in Fe-MOF?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was X-ray crystallography used to determine the structure of Fe-MOF and Im-Fe-MOF?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy (Ea) for proton conduction in Im-Fe-MOF?",
+      "answer": "0.436 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of Fe-MOF?",
+      "answer": "Trigonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of Im@Fe-MOF involve immersing Fe-MOF in a methanol solution of imidazole?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of acetic acid in the synthesis of Fe-MOF?",
+      "answer": "Acetic acid acts as a competing reagent in the solvo-thermal synthesis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of Im-Fe-MOF affected by relative humidity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference between Im@Fe-MOF and Im-Fe-MOF in terms of imidazole incorporation?",
+      "answer": "In Im@Fe-MOF, imidazole is physically adsorbed, while in Im-Fe-MOF, imidazole is chemically coordinated.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used to measure the proton conductivity of the MOFs?",
+      "answer": "Alternating Current Impedance Spectroscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of coordinated imidazole in Im-Fe-MOF enhance its proton conductivity compared to Fe-MOF?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the proton conductivity of Im-Fe-MOF?",
+      "answer": "The proton conductivity of Im-Fe-MOF increases with temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of Im-Fe-MOF stable after being washed with water?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

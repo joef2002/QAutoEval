@@ -1,0 +1,130 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-7",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "10 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2.8 g (28-30% aqueous NH3 solution)"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Zn(NO3)2·6H2O",
+            "amount": "0.900 g"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "0.72 g"
+          }
+        ],
+        "method": "Stirred at room temperature for 0.5 h, filtered, washed with ethanol, dried under vacuum at 230 °C for 48 h, immersed in ethanol for 72 h, activated at 100 °C under dynamic vacuum overnight.",
+        "yield": "Not specified"
+      },
+      "activation": {
+        "temperature": "100 °C",
+        "time": "16 h",
+        "vacuum": "Dynamic",
+        "solvent_washing": "Ethanol"
+      },
+      "characterization": {
+        "surface_area": {
+          "method": "77 K N2 adsorption",
+          "value": "Negligible"
+        },
+        "PXRD": "Confirmed desired structure and phase transition, absence of ZnO impurity",
+        "1H_NMR": "Confirmed absence of solvent upon activation"
+      }
+    },
+    {
+      "name": "ZIF-9",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide",
+            "amount": "18 mL"
+          },
+          {
+            "name": "chloroform",
+            "amount": "15 mL for separation"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount": "0.210 g"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "0.060 g"
+          }
+        ],
+        "method": "Heated to 130 °C for 48 h, cooled, filtered, washed with DMF and dichloromethane, dried under vacuum at 230 °C for 48 h.",
+        "yield": "Not specified"
+      },
+      "activation": {
+        "temperature": "230 °C",
+        "time": "48 h",
+        "vacuum": "Dynamic",
+        "solvent_washing": "Dichloromethane"
+      },
+      "characterization": {
+        "surface_area": {
+          "method": "77 K N2 adsorption",
+          "value": "Negligible"
+        },
+        "PXRD": "Confirmed desired structure and phase transition, absence of cobalt formate impurity",
+        "1H_NMR": "Confirmed absence of solvent upon activation"
+      }
+    },
+    {
+      "name": "CdIF-13",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide",
+            "amount": "10 mL"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "15 mL for solvent exchange"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Cd(ClO4)2·xH2O",
+            "amount": "0.304 g"
+          },
+          {
+            "name": "benzimidazole",
+            "amount": "0.300 g"
+          }
+        ],
+        "method": "Heated to 130 °C for 24 h, cooled, solvent exchanged with dichloromethane, activated under dynamic vacuum at 100 °C for 24 h.",
+        "yield": "36%"
+      },
+      "activation": {
+        "temperature": "100 °C",
+        "time": "24 h",
+        "vacuum": "Dynamic",
+        "solvent_washing": "Dichloromethane"
+      },
+      "characterization": {
+        "surface_area": {
+          "method": "77 K N2 adsorption",
+          "value": "615 m2/g"
+        },
+        "PXRD": "Confirmed desired structure and phase transition",
+        "1H_NMR": "Confirmed absence of residual solvent upon activation",
+        "FT-IR": "Provided",
+        "TGA": "Decomposition above 400 °C",
+        "DSC": "Provided"
+      }
+    }
+  ]
+}

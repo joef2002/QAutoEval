@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the Hofmann-type FeII-based SCO framework reported?",
+      "answer": "{Fe(bpt)[Pt(CN)4]} · 0.5anth",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the stimuli that can switch the spin states in SCO materials?",
+      "answer": "Various external stimuli, including light irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property changes are observed in the Hofmann-type FeII-based SCO framework upon light irradiation?",
+      "answer": "Switchable magnetic and dielectric properties.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the variation of local electric dipoles in the reported material?",
+      "answer": "Photo-induced deformation of FeII coordination sphere and relative movement of guest anthracene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reported Hofmann-type FeII-based SCO framework stable below 406 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reported material undergo a structural phase transition upon temperature change?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the dielectric constant of the reported material be switched by light irradiations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of anthracene in the reported Hofmann-type FeII-based SCO framework?",
+      "answer": "To modulate host–guest interactions and provide an appropriate ligand field strength for SCO-active FeII ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the transition temperatures observed for the multi-step spin transitions in the reported material?",
+      "answer": "189 K, 178 K, 136 K, and 112 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the reported material the first example to achieve magnetic and dielectric switching through the LIESST and RE-LIESST processes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the spin state interconversion in the reported material?",
+      "answer": "Light irradiation, known as the light-induced excited spin state trapping (LIESST) and its reverse process (RE-LIESST).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the multi-step transitions of dielectric constants in the reported material?",
+      "answer": "It confirms that the multi-step dielectric switching property is strongly associated with the SCO-coupled structural changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reported material show a thermal hysteresis in its magnetic susceptibility data?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What wavelengths of diode lasers were used to probe the photo-responsive properties of the reported material?",
+      "answer": "808-nm and 532-nm diode lasers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of 532-nm light irradiation on the dielectric constant of the reported material at 10 K?",
+      "answer": "It causes a sudden drop for the dielectric constant from 16.37 to 16.02.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reported material composed of diamagnetic components?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bidentate ligand bpt in the reported Hofmann-type FeII-based SCO framework?",
+      "answer": "To construct the Hofmann-type FeII SCO framework along with [Pt(CN)4]2- as building block.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reported material exhibit antiferromagnetic interactions between the HS FeII ions upon heating from 2 to 38 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the photo-induced structural changes on the dielectric property of the reported material?",
+      "answer": "The photo-induced structural changes lead to the switchable dielectric behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Hirshfeld surface analysis in understanding the reported material's properties?",
+      "answer": "It helps to visualize interatomic contacts such as the host–guest interactions, crucial for understanding the photo-induced dielectric switching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

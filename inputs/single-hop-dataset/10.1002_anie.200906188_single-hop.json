@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application of metal-organic frameworks (MOFs)?",
+      "answer": "MOFs are used in gas adsorption and separation, catalysis, ion exchange, sensors, photovoltaics, and drug release.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are zeolitic imidazole frameworks (ZIFs)?",
+      "answer": "ZIFs are a class of MOFs where tetrahedral coordinated metal atoms are linked through N atoms by ditopic imidazolate linkers to form neutral frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the imidazolate-4,5-dicarboxylate (IDC3) ligand in MOF construction?",
+      "answer": "IDC3 is beneficial for constructing anionic zeolite-like metal-organic frameworks (ZMOFs) due to its rigid planar structure and multiple coordination sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the new imidazolate chelate ligand synthesized in the study?",
+      "answer": "The new imidazolate chelate ligand is synthesized in situ by partial hydrolysis of 4,5-dicyano-2-methylimidazole under solvothermal conditions in the presence of Zn(NO3)2·4 H2O.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What properties does the imidazolate–amide–imidate linker impart to the IMOF?",
+      "answer": "The imidazolate–amide–imidate linker imparts excellent thermal and chemical stability to the IMOF, and its hydrogen bonds polarize the walls of the microporous channels.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the methyl group in the formation of channels in IMOF 3?",
+      "answer": "The methyl group of the ligand 2 has a structure-directing effect for the formation of the channels in the IMOF 3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does IMOF 3 have a high capacity for the uptake of H2 and CO2?",
+      "answer": "IMOF 3 has a high capacity for the uptake of H2 and CO2 due to its narrow channels with polar walls, which enhance interaction potential with these gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes the in situ ligand synthesis approach significant for the synthesis of coordination polymers?",
+      "answer": "The in situ ligand synthesis approach is significant because it allows for the direct formation of complex ligands within the reaction environment, enabling the creation of novel MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination environment of Zn2+ ion in IMOF 3 differ from other MOFs?",
+      "answer": "In IMOF 3, the Zn2+ ion is pentacoordinated by only one ligand type, which is a rare example among MOFs where typically multiple ligand types coordinate to the Zn2+ ion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the amide and imidate groups on the structure of IMOF 3?",
+      "answer": "The amide and imidate groups enable each ligand 2 to participate in the formation of two five-membered chelate rings, contributing to the stability and functionality of IMOF 3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is IMOF 3 considered a potential material for gas separation applications?",
+      "answer": "IMOF 3's narrow channels and polarized walls offer selective adsorption properties, making it suitable for separating commercially relevant gas mixtures like H2/CO and CO2/CO.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of solvent molecules affect the structure of IMOF 3?",
+      "answer": "The presence of solvent molecules within the channels of IMOF 3 is evidenced by residual electron density, but the framework structure remains stable upon their removal.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of the imidazolate-4-amide-5-imidate framework a novel approach?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the IMOF 3 structure contain large pores?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are ZIFs known for their high chemical and thermal stabilities?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the imidate group in IMOF 3 unstable and not coordinated to any metal ions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can IMOF 3 be used as a molecular sieve for the separation of H2/CO and CO2/CH4?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the thermal stability of IMOF 3 compromised upon the removal of solvent molecules?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the IMOF 3 framework collapse in boiling water or methanol?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the H2 capacity of IMOF 3 lower than that of ZIFs?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

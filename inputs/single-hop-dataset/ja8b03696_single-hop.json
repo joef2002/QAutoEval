@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the mixed-valence metal-organic framework discussed in the article?",
+      "answer": "Fe(1,2,3-triazolate)2(BF4)x",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of Fe(1,2,3-triazolate)2(BF4)0.22?",
+      "answer": "A purple solution of thianthrenium tetrafluoroborate in MeCN was added to Fe(tri)2 and stirred at 25 °C for 16 h.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield percentage for the synthesis of Fe(1,2,3-triazolate)2(BF4)0.09?",
+      "answer": "98%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to collect high-resolution X-ray powder diffraction data?",
+      "answer": "Data was collected at Beamline 17-BM-B at the Advanced Photon Source (APS) at Argonne National Laboratory.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a constant acceleration spectrometer in Mössbauer spectroscopy?",
+      "answer": "To record zero-field, Fe-57 Mössbauer spectra between room temperature and 5 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the electrical conductivity of the sample measured?",
+      "answer": "Through both I-V measurements and electrochemical impedance spectroscopy using a Bio-Logic VMP-3 multipotentiostat.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the room-temperature conductivity of Fe(tri)2(BF4)0.33?",
+      "answer": "0.3(1) S/cm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the Debye temperature obtained from the temperature dependence of the Mössbauer spectral parameters?",
+      "answer": "225(15) K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the method used to calculate the theoretical surface area of Fe(tri)2(BF4)0.33?",
+      "answer": "Using the open-source software Zeo++ version 0.36 accessible through Lawrence Berkeley Laboratory (LBNL).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main finding regarding the conductivity of Fe(tri)2(BF4)x as a function of x?",
+      "answer": "The room-temperature conductivity values of Fe(tri)2(BF4)x were fit to a model describing the doping dependence of conductivity for Mott insulators with polaronic hopping transport.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conductivity of Fe(tri)2(BF4)x dependent on the doping level x?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the oxidation of Fe(tri)2 saturated through the insertion of 0.33 BF4- anion?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the Fe2 site participate in the electron delocalization according to the Mössbauer spectral parameters?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the variable-temperature conductivity measurement performed using a Quantum Design MPMS2 SQUID magnetometer?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the observed conductivity of 0.3(1) S/cm for Fe(tri)2(BF4)0.33 among the highest for three-dimensionally conducting metal-organic frameworks?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article suggest that Fe(tri)2(BF4)x exhibits a high degree of charge delocalization between octahedral low-spin iron(II) and iron(III) centers?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the activation energy for charge hopping in Fe(tri)2(BF4)0.33 found to be constant across all temperatures?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the conductivity of Fe(tri)2(BF4)x increases with increasing x due to increasing carrier concentration?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study able to unequivocally determine the unitless constant c and the saturation level xsat simultaneously?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study conclude that special caution is imperative when handling and studying the conductivity of redox-active metal-organic frameworks?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

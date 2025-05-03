@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of IRMOF-76?",
+      "answer": "C69 H45 N6 O13 Zn4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the PXRD data for IRMOF-76 collected?",
+      "answer": "258(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does IRMOF-76 belong to?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of IRMOF-77?",
+      "answer": "R 3 c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction in the structure refinement of IRMOF-76?",
+      "answer": "None",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of IRMOF-77?",
+      "answer": "2748.51",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (R1) for IRMOF-77 after SQUEEZE?",
+      "answer": "0.0560",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of activated IRMOF-77 measured at 77 K?",
+      "answer": "1610 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore volume of activated IRMOF-77?",
+      "answer": "0.57 cm3 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature range for the TGA trace of as-synthesized IRMOF-77?",
+      "answer": "Up to 150 ºC corresponds to the loss of guest solvents, and from 300 to 400 ºC indicates the decomposition of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal density of IRMOF-77 higher or lower than 1 g cm-3?",
+      "answer": "Lower, it is 0.92 g cm-3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the TGA trace of activated IRMOF-77 show weight loss due to the loss of coordinated pyridine?",
+      "answer": "Yes, the weight loss around 180 ºC is attributed to the partial loss of coordinated pyridine.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the BET surface area of quinoline-exchanged IRMOF-77 measured at 77 K similar to that of IRMOF-77?",
+      "answer": "Yes, both have similar BET surface areas of around 1590 m2 g-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the pore size distribution for activated IRMOF-77 consistent with its cavity size?",
+      "answer": "Yes, the pore size distribution reveals the presence of two types of pores, whose diameters are around 14 and 19 Å, corresponding to the cavity size of IRMOF-77 (15 × 20 Å).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was an absorption correction performed for the structure refinement of IRMOF-77?",
+      "answer": "False, no absorption correction was performed.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of IRMOF-77 cubic?",
+      "answer": "False, IRMOF-77 belongs to the trigonal crystal system.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the TGA trace of IRMOF-77 indicate the presence of guest solvents?",
+      "answer": "True, the huge weight loss up to 150 ºC corresponds to the loss of guest solvents.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Langmuir surface area of activated IRMOF-77 less than 1000 m2 g-1?",
+      "answer": "False, the Langmuir surface area of activated IRMOF-77 is 1610 m2 g-1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the pore volume of activated IRMOF-77 exceed 1 cm3 g-1?",
+      "answer": "False, the pore volume of activated IRMOF-77 is 0.57 cm3 g-1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the density of IRMOF-77 after quinoline exchange higher than 1 g cm-3?",
+      "answer": "False, the density of quinoline-exchanged IRMOF-77 is 0.97 g cm-3.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

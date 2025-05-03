@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of using metal-organic frameworks (MOFs) in the separation of styrene and ethylbenzene?",
+      "answer": "The main purpose of using MOFs in the separation of styrene and ethylbenzene is to perform adsorptive separation without requiring elevated temperatures, thus avoiding side reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is MIL-53 considered more suitable for combined purification and separation compared to [Cu3(BTC)2]?",
+      "answer": "MIL-53 is considered more suitable because it can selectively remove o-xylene and toluene impurities from an EB/St feed, showing a strong preference for ortho-substituted alkylaromatics and effectively separating EB and St.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation factors for styrene over ethylbenzene are independent of temperature for MIL-47.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the separation factors for MIL-53?",
+      "answer": "The separation factors for MIL-53 vary with temperature.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption mechanism for styrene and ethylbenzene on MIL-47 is based on differences in entropy.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the preferential adsorption of styrene over ethylbenzene on MIL-53?",
+      "answer": "The preferential adsorption of styrene over ethylbenzene on MIL-53 is related to differences in enthalpy of adsorption, based on different degrees of framework relaxation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Both MIL-47 and MIL-53 display similar uptake capacities and separation factors for styrene and ethylbenzene.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of styrene affect the symmetry of MIL-47?",
+      "answer": "The presence of styrene guest molecules severely affects the symmetry of MIL-47, requiring the structure to be described by tripling the unit cell in the channel direction with a simultaneous lowering of the space group symmetry.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption enthalpies for styrene and ethylbenzene on MIL-47 are comparable.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What regeneration method is used for both MIL-47 and MIL-53 after adsorption experiments?",
+      "answer": "The regeneration method involves flushing the columns with 100 ml of pure aliphatic solvent, such as heptane, until the effluent is free of both styrene and/or ethylbenzene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption enthalpy of styrene is more negative than that of ethylbenzene on MIL-53.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural change occurs in MIL-53 when loaded with ethylbenzene?",
+      "answer": "When loaded with ethylbenzene, MIL-53 undergoes a distortion due to the out-of-plane rotation of the ethyl group, causing a dislocation of the hydroxyl group toward the pore center and a distortion of the octahedral environment of the Al ions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The separation factor for styrene over ethylbenzene on MIL-53 decreases with increasing temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How are the adsorption enthalpies for styrene and ethylbenzene on MIL-47 calculated?",
+      "answer": "The adsorption enthalpies are calculated based on the temperature dependence of the first moment of single-compound chromatographic response curves, using the van 't Hoff equation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of styrene on MIL-47 is not significantly influenced by the presence of ethylbenzene in the mixture.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of entropic effects in the selectivity mechanism of MIL-47 for styrene over ethylbenzene?",
+      "answer": "Entropic effects play a key role in the selectivity mechanism of MIL-47 for styrene over ethylbenzene, as styrene can be accommodated on all of its original positions in the pores, resulting in a higher entropy than for ethylbenzene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption mechanism for styrene and ethylbenzene on MIL-53 is based on differences in enthalpy.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of ethylbenzene affect the framework of MIL-53?",
+      "answer": "The presence of ethylbenzene causes a significant distortion of the MIL-53 framework due to the out-of-plane rotation of the ethyl group, resulting in a less negative total apparent enthalpy of adsorption for ethylbenzene compared to styrene.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The separation factors for styrene over ethylbenzene are independent of temperature for MIL-53.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to understand the adsorption mechanism of styrene and ethylbenzene on MIL-47 and MIL-53?",
+      "answer": "Rietveld refinement of X-ray diffraction patterns of samples saturated with either styrene or ethylbenzene is used to understand the adsorption mechanism on MIL-47 and MIL-53.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

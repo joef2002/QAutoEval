@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the coordination polymer discussed?",
+      "answer": "{[Fe(L)-(TPPE)0.5]·3 CH3OH}n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature is the SCO transition of the solvated crystals centered?",
+      "answer": "Approximately 215 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the fluorescence intensity at 460 nm during the SCO transition?",
+      "answer": "The fluorescence intensity at 460 nm is maximized at the SCO transition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of 2D or 3D luminescent SCO systems common according to the text?",
+      "answer": "No, the synthesis of 2D or 3D luminescent SCO systems is rarely explored due to the difficulty of the synthetic method.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of H-bonds in the structure of the coordination polymer?",
+      "answer": "H-bonds stabilize the framework-solvent molecules and play a critical role in the spin transition behavior of the framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the expected value for one HS FeII ion at 300 K according to the magnetic susceptibility data?",
+      "answer": "3.17 cm3 K mol@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the solvent in the SCO behavior of the coordination polymer?",
+      "answer": "The solvent's presence is crucial as its removal induces a crystal structural transformation and affects the SCO behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the spin state of FeII ions affect the luminescence of TPPE in the coordination polymer?",
+      "answer": "The luminescence of TPPE is modulated by the spin state through an energy transfer mechanism, with luminescence being enhanced during the spin reverse from LS state to HS state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the crystal structure upon desolvation of the coordination polymer?",
+      "answer": "Upon desolvation, the crystal structure undergoes a transformation, indicated by changes in the PXRD pattern.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the TPPE ligand in the coordination polymer?",
+      "answer": "The TPPE ligand acts as a strong luminescent connector, contributing to the synergetic SCO-fluorescent properties of the coordination polymer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination polymer's structure facilitate its properties?",
+      "answer": "The structure, featuring H-bonds and a square-grid coordination polymer, enables synergetic spin-crossover and luminescent properties through stabilization and energy transfer mechanisms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of temperature on the luminescence and SCO behavior?",
+      "answer": "Temperature affects both the SCO transition and luminescence intensity, with a notable increase in luminescence at the SCO transition temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "The coordination polymer exhibits a non-symmetrical hysteresis of 25 K wide. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The luminescence of the coordination polymer is unaffected by the spin state of FeII ions. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The coordination polymer's structure remains unchanged upon removal of the guest molecules. True or False?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The coordination polymer's SCO behavior is independent of the presence of solvent molecules. True or False?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The TPPE ligand's luminescence is significantly diminished when coordinated to FeII ions. True or False?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The coordination polymer is the first example of a 2D coordination polymer featuring synergetic luminescence-SCO property. True or False?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The coordination polymer's luminescence increases monotonously with temperature. True or False?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The coordination polymer's structure allows for large void areas between the squares. True or False?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

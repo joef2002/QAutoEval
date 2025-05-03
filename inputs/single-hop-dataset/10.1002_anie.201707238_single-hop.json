@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the two new polymorphic Co-MOFs reported?",
+      "answer": "CTGU-5 and CTGU-6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which surfactant type is used to selectively crystallize CTGU-5?",
+      "answer": "An anionic surfactant",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of acetylene black (AB) when integrated with CTGU-5?",
+      "answer": "It leads to a composite material with very efficient HER catalytic properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the coordination mode of water molecule differ between CTGU-5 and CTGU-6?",
+      "answer": "In CTGU-5, H2O is coordinated to the Co site, whereas in CTGU-6, H2O is a lattice molecule only hydrogen-bonded to the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the onset potential of AB&CTGU-5 (1:4) composite material?",
+      "answer": "18 mV",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: CTGU-5 has a 3D framework structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Tafel slope of AB&CTGU-5 (1:4)?",
+      "answer": "45 mV dec@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The HER activity of CTGU-5 is inferior to that of CTGU-6.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the exchange current density of AB&CTGU-5 (1:4)?",
+      "answer": "8.6 X 10@4 A cm@2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The composite material AB&CTGU-5 (1:4) shows long-term stability in HER performance.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using surfactants in the synthesis of MOF polymorphs?",
+      "answer": "Surfactants can selectively crystallize MOF polymorphs into their pure form.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The HER catalytic activity of MOFs cannot be improved by integrating with conducting materials.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of replacing acetylene black with graphene in the composite material?",
+      "answer": "The onset potentials decrease, showing improved HER activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Tafel slope is an indicator of the rate-limiting step of HER.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the exchange current density in evaluating HER catalyst performance?",
+      "answer": "It helps to evaluate the level of performance by indicating how large the current density can be at zero overpotential.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The composite material AB&CTGU-5 (1:4) has a polycrystalline nature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main structural difference between CTGU-5 and CTGU-6?",
+      "answer": "CTGU-5 has a layered structure, while CTGU-6 features a 3D framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of water molecules differ in the structures of CTGU-5 and CTGU-6?",
+      "answer": "In CTGU-5, water molecules are coordinated to the Co site, whereas in CTGU-6, they are lattice molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The HER performance of MOFs cannot be enhanced by modifying their crystal structures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of density functional theory (DFT) studies in understanding the HER process on CTGU-5 surfaces?",
+      "answer": "DFT studies help to understand the possible steps and energy profile of the HER process, indicating a very small overpotential.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "A Water-Stable Metal–Organic Framework with Highly Acidic Pores for Proton-Conducting Applications",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Jared M. Taylor, Karl W. Dawson, George K. H. Shimizu",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proton conductivity of PCMOF-5 at 60 °C and 98% relative humidity?",
+      "answer": "4 × 10–3 S/cm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is PCMOF-5 stable when boiled in water?",
+      "answer": "Yes, PCMOF-5 is stable when boiled in water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of free phosphonic acid groups in PCMOF-5?",
+      "answer": "They enable high proton conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PCMOF-5 show structural stability to high relative humidity and dilute acidic solutions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What synthetic condition was employed to give free acid groups in PCMOF-5?",
+      "answer": "Highly acidic conditions during synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy for total conduction observed in PCMOF-5?",
+      "answer": "0.16 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can PCMOF-5 regain its crystallinity after being heated to release all structural water?",
+      "answer": "Yes, by boiling in water without dissolution.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to PCMOF-5's conductivity below 50% RH?",
+      "answer": "Conductivity becomes negligible due to loss of the hydrogen bond pathway.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of PCMOF-5 having uncoordinated phosphonic acid groups?",
+      "answer": "It is the first coordination polymer with a 3D structure to have uncoordinated phosphonic acid groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the conductivity of PCMOF-5 change with humidity?",
+      "answer": "Conductivity increases with humidity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCMOF-5 resistant to swelling?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the lowest activation energy for total conduction observed in any proton-conducting MOF material?",
+      "answer": "0.16 eV in PCMOF-5",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does PCMOF-5 maintain its framework connectivity when exposed to water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of complete dehydration on PCMOF-5?",
+      "answer": "It leads to a reversible shift to a structure lacking significant long-range order.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of intra-pore water molecules in PCMOF-5?",
+      "answer": "They are integral to the proton transfer pathway.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCMOF-5 insoluble in water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of PCMOF-5 from its synthesis?",
+      "answer": "70%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does PCMOF-5's conductivity respond to dehydration and rehydration?",
+      "answer": "Conductivity can be recovered after dehydration by exposure to high RH.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

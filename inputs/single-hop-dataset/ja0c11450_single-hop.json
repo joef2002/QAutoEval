@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two stable copper(I)-based coordination polymer catalysts synthesized for CO2 to CH4 conversion?",
+      "answer": "NNU-32 and NNU-33(S)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity percentage of CH4 at -0.9 V vs RHE for NNU-33(H)?",
+      "answer": "82%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of cuprophilic interactions in the electrocatalytic CO2 reduction to CH4?",
+      "answer": "Cuprophilic interactions facilitate the conversion of CO2 to CH4 by enhancing the selectivity and efficiency of the process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The oxidation state of Cu(I) in NNU-33(H) changes during the CO2RR process.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to NNU-33(S) when it is soaked in 1 M KOH solution?",
+      "answer": "It undergoes a single-crystal-to-single-crystal transformation to NNU-33(H).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main product of CO2 electroreduction using NNU-32 at -1.0 V vs RHE?",
+      "answer": "CH4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of NNU-32 remains unchanged after the electrocatalytic CO2RR process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of substituting hydroxyl radicals for sulfate radicals in the electrocatalytic process?",
+      "answer": "It results in an in situ dynamic crystal structure transition from NNU-33(S) to NNU-33(H), which strengthens the cuprophilic interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The faradic efficiency of CH4 increases with the quantity and the shorter distance of cuprophilic interactions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using NNU-33(H) over NNU-32 for CO2 electroreduction to CH4?",
+      "answer": "NNU-33(H) shows a higher selectivity for CH4 production due to enhanced cuprophilic interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CO2 adsorption capacity of NNU-33(H) is higher than that of NNU-32 and NNU-33(S).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DFT calculations in the study of NNU-32 and NNU-33(H)?",
+      "answer": "DFT calculations were used to prove that cuprophilic interactions can effectively facilitate the electroreduction of CO2 to CH4 by decreasing the Gibbs free energy change of the potential determining step.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns of NNU-33(S) change significantly after the electrocatalytic CO2RR process.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to analyze the gas products of CO2 electroreduction?",
+      "answer": "Gas chromatography (GC) coupled with a flame ionization detector (FID) and a thermal conductivity detector (TCD).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electrocatalytic stability of NNU-33(H) under CO2RR conditions was evaluated using X-ray absorption spectroscopy (XAS), in situ Raman, X-ray photoelectron spectroscopy (XPS), and in situ Fourier transform infrared spectroscopy (FTIR).",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of isotope labeling experiments in the study?",
+      "answer": "Isotope labeling experiments were conducted to confirm that all the carbon products were converted from CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The formation of Cu clusters is thermodynamically unfavorable under the electroreduction conditions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to simulate the charged system and applied potentials in the study?",
+      "answer": "Periodic calculations were performed using the Vienna ab initio simulation package (VASP) with the generalized gradient approximation (PBE) functional.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CO2 adsorption capacity of NNU-33(H) decreases at lower temperatures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main liquid product detected in the electrocatalytic CO2 reduction process?",
+      "answer": "HCOO¯ (formate)",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

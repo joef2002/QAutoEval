@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the optimal temperature for synthesizing UiO-68 crystals?",
+      "answer": "100 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to estimate the optical band gap of UiO-68-TZDC materials?",
+      "answer": "Kubelka-Munk function",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does increasing the reaction time to 24 hours for UiO-68-TZDC10% synthesis affect the distribution of TZDC linkers?",
+      "answer": "Yes, longer reaction times favor the diffusion of TZDC across the crystal for a more homogeneous distribution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the BET surface area of UiO-68-TZDC50% higher than that of UiO-68?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of trimethylamine (Et3N) in the synthesis of UiO-68-TZDC%?",
+      "answer": "It is used to deprotonate H2TZDC and favor the linker exchange.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the UiO-68 framework maintain its structure after being soaked in water for 24 hours?",
+      "answer": "Yes, the structure of UiO-68 remains intact after being soaked in water for 24 hours.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of linker distribution on the photocatalytic activity of multivariate UiO-68-TZDC solids?",
+      "answer": "The distribution of photoactive TZDC and inactive TPDC linkers controls the photocatalytic activity, with certain distributions promoting more efficient reduction of methyl viologen and hydrogen evolution reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum loading of TZDC achieved in UiO-68 through solvent-assisted linker exchange?",
+      "answer": "50%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the incorporation of TZDC linkers into UiO-68 frameworks increase their BET surface area?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique is used to analyze the spatial arrangement of linkers in UiO-68-TZDC crystals?",
+      "answer": "Confocal microscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photocatalytic activity of UiO-68-TZDC10% higher than UiO-68-TZDC35% for hydrogen evolution reaction?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of using different solvents on the activation process of UiO-68 frameworks?",
+      "answer": "The choice of solvent affects the framework's stability and porosity, with some solvents leading to amorphization or collapse of the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main challenge in synthesizing single crystals of UiO-68 using H2TPDC linkers?",
+      "answer": "The poor solubility of elongated linkers in the organic solvents used in the synthesis is a major challenge.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of UiO-68-TZDC as polycrystalline solids result in smaller particle sizes compared to single crystals?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the shift in the carbonyl band observed in FT-IR spectra after synthesizing UiO-68-TZDC?",
+      "answer": "The shift in the carbonyl band indicates the coordination of the carboxylate groups to the Zr nodes, confirming the successful incorporation of the TZDC linker into the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the UiO-68 framework be synthesized as single crystals using direct synthesis methods?",
+      "answer": "Yes, but the synthesis of single crystals using H2TPDC linkers remains elusive due to solubility issues.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of high-throughput methodologies in optimizing the synthesis of UiO-68 crystals?",
+      "answer": "High-throughput methodologies allow for the systematic screening of reaction parameters to identify optimal conditions for crystal formation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the incorporation of TZDC linkers into UiO-68 frameworks lead to a decrease in thermal stability?",
+      "answer": "True, UiO-68-TZDC shows a gradual decomposition starting at lower temperatures compared to UiO-68.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of linker distribution on the electronic structure and optical properties of UiO-68-TZDC solids?",
+      "answer": "The asymmetric distribution of linkers controls the electronic structure and optical properties, with certain distributions leading to changes in the optical band gap and photocatalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocatalytic activity of UiO-68-TZDC solids for hydrogen evolution reaction dependent on the presence of Pt nanoparticles?",
+      "answer": "False, UiO-68-TZDC solids show photocatalytic activity for hydrogen evolution reaction without the need for Pt nanoparticles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

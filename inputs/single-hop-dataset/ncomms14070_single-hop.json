@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary synthetic strategy demonstrated in the article for creating various forms of MOM crystals?",
+      "answer": "Sequential self-assembly strategy for synthesizing various forms of MOM crystals, including double-shell hollow MOMs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the sequential steps involved in creating double-shell hollow MOF?",
+      "answer": "Single-crystal transformation from MOP to MOF through postsynthetic linker insertion, epitaxial growth of MOP on the MOF surface, linker insertion to form double to triple-matryoshka MOMs, and elimination of MOP by chemical etching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from UMOM-1 to UMOM-2 a single-crystal to single-crystal transformation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ideal Cu–Cu distance between two paddlewheel nodes for dabco insertion?",
+      "answer": "6.6–7.5 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the single-crystallinity of single-shell hollow MOFs?",
+      "answer": "X-ray single-crystal diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the porosity of UMOM-2 confirmed?",
+      "answer": "N2 sorption isotherm at 77 K with BET and Langmuir surface areas of 2,540 and 2,820 m2 g-1, respectively.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can UMOM-2 undergo a phase change after activation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum adsorbed amount of CO2 by UMOM-2 at 298 K?",
+      "answer": "3.4 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the shell thickness of UMOM-1-b0 controllable?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the structural similarity between fcc-packed cuo-MOPs and their corresponding linker-inserted MOFs with ubt topology?",
+      "answer": "It suggests a potential for structural transformation from fcc-packed cuo-MOP to ubt-MOF via postsynthetic insertion of dabco linkers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of methanol in the synthesis of single-shell hollow MOFs?",
+      "answer": "Methanol acts as a chemical etching solvent to dissolve only MOP in the core-shell system of UMOM-1-a, leaving MOF in the outer shell untouched.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the hollow MOFs presented in the article single crystalline?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability range of UMOM-2?",
+      "answer": "Up to approximately 250°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using dabco in the synthesis of UMOM-2?",
+      "answer": "Dabco is used for postsynthetic linker insertion to connect cofacial paddlewheel nodes, facilitating the transformation from MOP to MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of double-shell hollow MOF involve the use of a sacrificial template?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of UMOM-2?",
+      "answer": "2,540 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the porosity of UMOM-1-b0 maintained after its formation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the structural transformation from UMOM-1 to UMOM-2?",
+      "answer": "It demonstrates a single-crystal to single-crystal transformation, indicating a precise control over the structural evolution of MOMs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of epitaxial growth in the synthesis of double-shell hollow MOF?",
+      "answer": "Epitaxial growth of MOP on the crystal surface of core-shell UMOM-1-a is used to create double-matryoshka UMOM-1-b and subsequently double-shell hollow MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from UMOM-1 to UMOM-2 reversible?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

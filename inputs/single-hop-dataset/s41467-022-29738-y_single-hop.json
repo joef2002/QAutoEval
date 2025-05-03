@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research paper?",
+      "answer": "Controllable Photomechanical Bending of Metal-organic Rotaxane Crystals Facilitated by Regioselective Confined-Space Photodimerization",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research paper?",
+      "answer": "Jun-shan Geng, Lei Mei, Yuan-yuan Liang, Li-yong Yuan, Ji-pan Yu, Kong-qiu Hu, Li-hua Yuan, Wen Feng, Zhi-fang Chai, Wei-qun Shi",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research?",
+      "answer": "The research focuses on the synthesis of a photoresponsive metal-organic rotaxane framework (MORF) compound, U-CB[8]-MPyVB, that can undergo controllable macroscopic mechanical responses under light irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the macroscopic bending of U-CB[8]-MPyVB crystals?",
+      "answer": "The macroscopic bending of U-CB[8]-MPyVB crystals is triggered by UV light irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of cucurbit[8]uril (CB[8]) in the formation of U-CB[8]-MPyVB?",
+      "answer": "Cucurbit[8]uril (CB[8]) plays a crucial role in the formation of U-CB[8]-MPyVB by facilitating the regioselective solid-state [2 + 2] photodimerization through its confinement effect and participating in coordination with the photoactive MPyVB guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of U-CB[8]-MPyVB change under UV irradiation?",
+      "answer": "Under UV irradiation, U-CB[8]-MPyVB undergoes a single-crystal-to-single-crystal (SCSC) transformation through a regioselective solid-state [2 + 2] photodimerization reaction, leading to structural changes at the molecular level.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the bending rate of U-CB[8]-MPyVB crystals fast compared to other photoresponsive materials?",
+      "answer": "False. The bending rate of U-CB[8]-MPyVB crystals is significantly slower compared to other photoresponsive materials, providing an opportunity to precisely control bending motion in a controllable manner.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of CB[8] affect the efficiency of photodimerization in U-CB[8]-MPyVB?",
+      "answer": "True. The presence of CB[8] affects the efficiency of photodimerization in U-CB[8]-MPyVB by confining the photoactive ligands, which influences the light penetration efficiency and the absorption of light by the photoactive groups.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can U-CB[8]-MPyVB crystals maintain their bending morphology after the removal of the incident light source?",
+      "answer": "True. U-CB[8]-MPyVB crystals maintain their bending morphology even after the removal of the incident light source, indicating good stability in air.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the adaptive deformation of CB[8] in the formation of photoactive motif in U-CB[8]-MPyVB?",
+      "answer": "The adaptive deformation of CB[8] is significant in the formation of the photoactive motif in U-CB[8]-MPyVB as it allows CB[8] to participate in coordination with the metal center along with the axle molecule, bringing the photoactive ligands closer for efficient photodimerization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

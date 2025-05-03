@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework discussed in the text?",
+      "answer": "[Ca(C4O4)(H2O)]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in separating ethylene from ethane according to the text?",
+      "answer": "The main challenge is the very similar sizes and volatilities of these hydrocarbon molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is currently used for the purification of ethylene, as mentioned in the text?",
+      "answer": "Repeated distillation–compression cycling of the mixture under harsh conditions in a huge splitter column.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated energy savings of advanced non-thermal separation technologies over conventional splitters for ethylene production?",
+      "answer": "0.3–1.5 GJ per metric ton of ethylene.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the squarate linker in UTSA-280 according to the text?",
+      "answer": "The squarate linker in UTSA-280 is rotation-forbidden, contributing to the rigidity of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does UTSA-280 achieve molecular sieving of ethylene from ethane?",
+      "answer": "UTSA-280 features rigid one-dimensional channels with apertures of a similar size to ethylene molecules, acting as molecular sieves to prevent the transport of ethane.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the coordinated water molecule in the structure of UTSA-280?",
+      "answer": "The coordinated water molecule is essential for UTSA-280 to display permanent porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is UTSA-280 stable in water?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the text mention that UTSA-280 can be synthesized using an environmentally friendly method?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the text, does UTSA-280 have the potential for industrial implementation in ethylene/ethane separation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation of UTSA-280 performed under high vacuum for 24 hours at 100°C?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the text, does UTSA-280 exhibit a higher C2H4 uptake than benchmark zeolites?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the C2H4/C2H6 selectivity of UTSA-280 calculated to be infinite?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the text claim that UTSA-280 can completely recover adsorbed gas within ten minutes by a helium gas purge?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the text, is the synthesis of UTSA-280 scalable to kilogram quantities?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the squarate linker in the rigidity of UTSA-280's framework?",
+      "answer": "The squarate linker is rotation-forbidden, which contributes to the rigidity of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main advantage of UTSA-280 over MOFs with open metal sites for ethylene/ethane separation?",
+      "answer": "UTSA-280 is water-stable and does not suffer from the issues associated with active metal sites, such as high energy consumption for recovery and possible olefin polymerization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the theoretical capacity of UTSA-280 for C2H4 under ambient conditions?",
+      "answer": "2.05 mmol/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiments conducted with UTSA-280?",
+      "answer": "The breakthrough experiments validate the efficiency of UTSA-280 for the separation of ethylene/ethane mixtures by demonstrating high ethylene productivity under ambient conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the text mention that UTSA-280 can be easily synthesized at the kilogram scale?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

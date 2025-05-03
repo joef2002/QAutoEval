@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the general formula for the new MOFs synthesized in the study?",
+      "answer": "[InxGa1–x(O2C2H4)0.5(hfipbb)]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction did the synthesized MOFs catalyze?",
+      "answer": "The solvent-free, one-pot Strecker reaction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the names of the three isostructural MOFs reported in the study?",
+      "answer": "AlPF-1, GaPF-1, and InPF-11β",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main goal of the research?",
+      "answer": "To establish how solid solution MOFs exhibit tunable catalytic activity by virtue of the metal ions ratio",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of reaction mechanism was proposed for the Strecker reaction mediated by M+3PF?",
+      "answer": "A mechanism involving the activation of both the carbonyl and silyl groups to allow imine formation, followed by the cleavage of the cyano group and its attack to the imine carbon atom",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of using AlPF-1 as a catalyst in the Strecker reaction?",
+      "answer": "The reaction evolved to the quantitative formation of the α-aminonitrile",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why were solid solution MOFs with combinations of gallium and indium cations prepared?",
+      "answer": "To control the catalytic activity of the MOFs in a multicomponent reaction by using specifically selected metal ratios",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the combination of Ga and In catalysts efficiently activate the silyl groups and produce the imine groups?",
+      "answer": "Yes, when using equimolar amounts of InPF-11β and GaPF-1, the α-aminonitrile product was quantitatively formed",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the catalytic activity of MOFs in the Strecker reaction tunable by changing the metal ions ratio?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are AlPF-1, GaPF-1, and InPF-11β non-isostructural MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was InPF-11β synthesized under the same conditions as GaPF-1 and AlPF-1?",
+      "answer": "False, InPF-11β was synthesized using a solvent mixture of ethylene glycol and water",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the synthesized MOFs show significant gas uptake in N2 adsorption isotherms?",
+      "answer": "False, the N2 adsorption isotherms showed no significant gas uptake",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the synthesized MOFs be reused in the Strecker reaction without loss of activity?",
+      "answer": "True, all catalysts were reused for 10 cycles with consistent activity",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study demonstrate the first-time control of MOF catalytic activity in a multicomponent reaction by metal ratio?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the synthesized MOFs suitable for gas storage applications?",
+      "answer": "False, the N2 adsorption isotherms showed no significant gas uptake by the new materials",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of using GaPF-1 as a catalyst in the Strecker reaction?",
+      "answer": "GaPF-1 gave only the product of the aldehyde cyanosilylation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome when using InPF-11β as a catalyst in the Strecker reaction?",
+      "answer": "The formation of the imine was the main product, indicating that the Lewis basic site required to activate the silyl group and complete the addition of the cyano group is hindered",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of performing recyclability tests for the synthesized MOFs?",
+      "answer": "To assess the reusability and consistent activity of the MOFs as catalysts in the Strecker reaction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study find that ketones are more difficult to activate than aldehydes in the Strecker reaction?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the catalytic activity of the MOFs in the Strecker reaction using acetophenone as the carbonyl compound higher than with benzaldehyde?",
+      "answer": "False, the study did not explicitly compare the catalytic activity between using acetophenone and benzaldehyde",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the hydrated phase of the homometallic MOF discussed?",
+      "answer": "[Co3(OH)2(btca)2]·3.7 H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What magnetic behavior does the dehydrated phase of the MOF exhibit?",
+      "answer": "Field-induced metamagnetism",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of benzotriazole-5-carboxylates in the MOF structure?",
+      "answer": "They act as bridging ligands.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of the MOF involves a solvothermal treatment at 150 8C for 5 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage of the hydrated phase 1·3.7 H2O?",
+      "answer": "35%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of dehydration on the average Co-L (L = N, O) length in the MOF?",
+      "answer": "It is contracted by 0.003 E.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The hydrated phase 1·3.7 H2O exhibits ferrimagnetism and single-chain-magnet-like behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated Langmuir surface area of the MOF?",
+      "answer": "125 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "By what mechanism do the CoII ions in the MOF exhibit magnetic behavior?",
+      "answer": "Through superexchange via short bridges.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic behavior of the MOF can be explained solely by its porosity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary challenge in constructing homometallic porous MOFs with interesting magnetic behavior?",
+      "answer": "Magnetism and porosity are mutually inimical.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's magnetic behavior is unaffected by solvation and desolvation processes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of the hydrated phase 1·3.7 H2O?",
+      "answer": "sra net",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of solvent molecules affect the magnetic behavior of the MOF?",
+      "answer": "It suppresses interchain weak antiferromagnetic interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dehydrated phase 1 exhibits the same magnetic behavior as the hydrated phase 1·3.7 H2O.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cobalt hydroxide chains in the MOF?",
+      "answer": "They contain triangular subunits that contribute to the MOF's magnetic behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's magnetic properties are solely determined by the CoII ions' large anisotropy.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Co-O-Co angles in the MOF?",
+      "answer": "They indicate ferrimagnetic {Co3(OH)2} chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's structure is completely altered upon dehydration.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing the applied magnetic field on the MOF?",
+      "answer": "It suppresses interchain antiferromagnetic interactions, leading to a ferrimagnetic-like state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of CUST-736?",
+      "answer": "C72H132N14Ni3O58S2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and relative humidity does CUST-736a achieve its maximum proton conductivity?",
+      "answer": "80°C and 98% RH",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to measure the proton conductivity of the crystals?",
+      "answer": "AC impedance measurements",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How is CUST-736a obtained from CUST-736?",
+      "answer": "By removing the DMA molecules through solvent exchange and vacuum activation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of DMA molecules in the channels of CUST-736?",
+      "answer": "They are interconnected with the amide group of TPBTC and sulfonic acid group of 2-H2stp through hydrogen bonding",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The proton conductivity of CUST-736a is significantly higher than that of CUST-736.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy (Ea) of CUST-736?",
+      "answer": "1.18 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The decomposition of the CUST-736 framework begins above 390°C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proton conductivity of CUST-736 at 80°C and 98% RH?",
+      "answer": "1.97 × 10^-5 S cm^-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The morphology of CUST-736 changes significantly after the removal of DMA molecules to obtain CUST-736a.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the mechanism governing the proton diffusion in CUST-736 and CUST-736a?",
+      "answer": "The vehicle mechanism",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The proton conductivity of CUST-736a is similar to those of other reported MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum proton conductivity achieved by CUST-736a?",
+      "answer": "2.25 × 10^-3 S cm^-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The sulfonic acid groups of 2-H2stp are arranged in an ordered and linear manner in the channels of CUST-736.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water molecules in the proton conduction process of CUST-736 and CUST-736a?",
+      "answer": "Water molecules play a critical role in the proton conduction process",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The proton conductivity of CUST-736 decreases after the removal of DMA molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy (Ea) of CUST-736a?",
+      "answer": "1.89 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the removal of DMA molecules affect the proton conductivity of CUST-736?",
+      "answer": "It increases the proton conductivity significantly",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The proton conductivities of CUST-736 and CUST-736a are governed by the Grotthuss mechanism.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the guest water molecules in CUST-736a compared to the DMA molecules in CUST-736?",
+      "answer": "Guest water molecules are more conducive to proton transfer than guest DMA molecules",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

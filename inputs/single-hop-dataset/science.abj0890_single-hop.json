@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the empirical formula of MOF-303?",
+      "answer": "C5H3AlN2O5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the crystal structure of H2FDC analyzed?",
+      "answer": "100 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to estimate the differential enthalpy of adsorption (Dhads) for the multivariate MOF series?",
+      "answer": "Clausius-Clapeyron equation",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many water molecules per asymmetric unit were considered in the computational study of water adsorption sites in MOF-303?",
+      "answer": "Four water molecules per asymmetric unit",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the BET surface area of '4/4' as determined from nitrogen sorption analysis?",
+      "answer": "1346(2) m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The water vapor desorption isobars of '0/8' at a water vapor pressure of 0.85 kPa show a step in the isobar measurement.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the temperature range used for water vapor sorption isotherm measurements in the study?",
+      "answer": "15° to 45°C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What linker ratio was determined by 1H-NMR spectroscopy for the MOF '7/1'?",
+      "answer": "18.3(7)%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The differential heat of adsorption (Dhads) increases with water loading for the multivariate MOF series.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the primary method used to identify the first two adsorption sites in MOF-333?",
+      "answer": "DFT calculations",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The average water binding energy for MOF-303 is higher than for MOF-333.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in determining the water filling sequence in MOF-333 through crystallographic studies?",
+      "answer": "Many water molecules in MOF-333 desorb synchronously, making discerning of the filling sequence challenging.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The water adsorption isotherms of the multivariate MOF series show a significant shift in the position of the isotherm step with the change in linker ratio.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the Clausius-Clapeyron equation in the study?",
+      "answer": "To estimate the differential enthalpy of adsorption (Dhads) at each loading increment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area of the multivariate MOF series decreases as the content of FDC2– increases.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the computational study of water adsorption sites in MOF-303 and MOF-333?",
+      "answer": "The first and second water adsorption sites in MOF-303 exhibited stronger water interactions compared to MOF-333.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The water vapor desorption isobars of '8/0', '4/4', and '0/8' at different water vapor pressures show that '8/0' has the lowest desorption temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of linker substitution on the water sorption properties of the multivariate MOF series?",
+      "answer": "Linker substitution continuously shifted the water isotherm step toward higher vapor pressures and covered the entire range between the water sorption isotherms of MOF-303 and MOF-333.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The water vapor adsorption–desorption cycling test on '4/4' showed a significant loss in working capacity after 2000 cycles.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in identifying the water adsorption mechanism in MOF-303 through single-crystal x-ray diffraction analysis?",
+      "answer": "The H atoms of the water molecules could not be reliably located in the electron density map.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

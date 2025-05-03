@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of liquid organic hydrogen carriers (LOHCs) over other hydrogen storage methods?",
+      "answer": "LOHCs do not require cryogenic temperatures or high pressures for storage.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the most promising multicomponent metal–organic framework (MOF) mentioned for LOHC separations?",
+      "answer": "CUB-30",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the separation of benzene and cyclohexane challenging in the chemical industry?",
+      "answer": "Due to their similar molecular sizes and the small difference in their boiling points, making conventional distillation techniques practically impossible.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CUB-30 the first MOF to show selective adsorption of cyclohexane over benzene?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What unique feature does CUB-30 exhibit in terms of adsorptive behavior?",
+      "answer": "Selective adsorption for cyclohexane over benzene.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the cubane-1,4-dicarboxylate (cdc) ligand in the MOFs discussed?",
+      "answer": "It is used as an aliphatic linker for creating MOFs with contoured pore environments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of the cubane linker in CUB-30 contribute to its enhanced hydrocarbon separation properties?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the boiling points of benzene and cyclohexane being 80 88C and 81 88C, respectively?",
+      "answer": "It illustrates the challenge in separating these compounds using conventional distillation due to their close boiling points.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the synthesis of CUB-30 involve?",
+      "answer": "A solvothermal reaction of Zn(NO3)2·6 H2O with H3hmtt, H2bpdc, and H2cdc in DEF at 85 88C.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of CUB-30 more complex than that of its parent MOF, MUF-77?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenge is associated with the separation of toluene and methylcyclohexane?",
+      "answer": "The separation is expensive and difficult due to their similar properties, making it a critical issue in hydrogen transport systems.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the BET surface area of a MOF indicate?",
+      "answer": "The total surface area available for adsorption within the MOF.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can CUB-30 efficiently trap cyclohexane under dynamic conditions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the cubane linker on the pore environment of CUB-30?",
+      "answer": "It provides a contoured pore environment that increases the affinity for hydrocarbon molecules at low pressures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the breakthrough curves simulated for CUB-30?",
+      "answer": "They indicate that CUB-30 can efficiently separate cyclohexane and benzene under dynamic conditions, with cyclohexane being more efficiently adsorbed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does CUB-30 have a higher BET surface area than MUF-77?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'solvothermal reaction' refer to in the context of MOF synthesis?",
+      "answer": "A chemical reaction conducted in a solvent at high temperature and pressure to synthesize MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the separation of unreacted toluene from a liquid hydrogen feedstock considered too expensive to perform?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of multiple types of pore in a MOF indicate about its structure?",
+      "answer": "It suggests that the MOF has a complex structure with ordered pore environments, potentially leading to diverse adsorption properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are multicomponent MOFs like CUB-30 and MUF-77 typically more stable than their single-component counterparts?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

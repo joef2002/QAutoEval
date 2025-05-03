@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of designing a bifunctional Brønsted acid-base heterogeneous catalyst?",
+      "answer": "The purpose is to create a catalyst that possesses both acidic and basic sites for tandem or cascade reactions, offering advantages such as easy recovery from solution and simplifying procedures of multicomponent or multistep reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What material is used as the prototype for constructing the bifunctional MOF catalyst?",
+      "answer": "The prototype used for constructing the bifunctional MOF catalyst is PCN-700.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is employed to confirm the coexistence of acid and base sites in PCN-700-AB?",
+      "answer": "Single-crystal X-ray diffraction analysis (SCXRD) is employed to confirm the coexistence of acid and base sites in PCN-700-AB.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The FT-IR spectra confirmed the successful incorporation of Brønsted basic sites –NH2 and Brønsted acid sites –COOH in PCN-700-AB.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What reaction is used to test the catalytic activity of PCN-700-AB?",
+      "answer": "The catalytic activity of PCN-700-AB is tested using a one-pot deacetalization–Knoevenagel condensation reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of the catalytic conversion when using PCN-700-AB?",
+      "answer": "The yield of the catalytic conversion when using PCN-700-AB is not explicitly stated, but it is mentioned to have both high conversion and selectivity for the cascade reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-700-AB can be reused at least three times with negligible reduction in catalytic activity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of –COOH groups in PCN-700-AB during the catalytic reaction?",
+      "answer": "The –COOH groups, as Brønsted acid sites in PCN-700-AB, play a dominant role for the first deacetalization step of the catalytic reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PCN-700-AB involves a single-crystal-to-single-crystal transformation process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using a Brønsted acid-base bifunctional MOF catalyst like PCN-700-AB?",
+      "answer": "The significance lies in its ability to perform tandem or cascade reactions efficiently by possessing both Brønsted acid and base sites, which is challenging to achieve with traditional catalysts due to the difficulty in integrating hostile catalytic sites within one framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area analysis demonstrated that PCN-700-AB maintained a high BET surface area with large pore volumes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in fabricating catalysts with both acidic and basic sites for tandem acid–base reactions?",
+      "answer": "The main challenge is finding a facile route that prevents the neutralization of acid–base active sites during the synthesis process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PCN-700 prototype showed the lowest catalytic activity compared to its modified derivatives in the tandem reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of –NH2 groups in PCN-700-AB during the catalytic reaction?",
+      "answer": "The –NH2 groups, as Brønsted base sites, catalyze the Knoevenagel condensation step of the tandem reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The powder X-ray diffraction pattern of PCN-700-AB after three cycles of use was in full agreement with the as-synthesized one.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using MOFs like PCN-700-AB in heterogeneous catalysis?",
+      "answer": "The main advantage is their tailored pore size and diverse catalytic centers, which allow for efficient catalysis of tandem or cascade reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The installation of Brønsted acid and base functionalities in PCN-700-AB was achieved through a sequential, two-step installation of linkers.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the single-crystal-to-single-crystal transformation in the synthesis of PCN-700-AB?",
+      "answer": "The significance is that it allows for the precise characterization of the coexistence of acid and base sites in the MOF structure, which is crucial for its bifunctional catalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of both –NH2 and –COOH groups in PCN-700-AB is confirmed by FT-IR spectra.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in the application of Brønsted acid–base MOF catalysts for tandem or cascade reactions?",
+      "answer": "The main challenge is the difficulty in integrating hostile catalytic sites within one framework and ensuring the MOFs can withstand both acid and basic environments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

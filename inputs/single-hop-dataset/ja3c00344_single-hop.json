@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of the multivariate linker approach in the synthesis of flexible frameworks?",
+      "answer": "The multivariate linker approach is used to tune the phase change behavior of flexible frameworks, enabling efficient storage and delivery of weakly physisorbing species by reducing the adsorption threshold pressure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the observed unit cell contraction upon gas dosing in the study?",
+      "answer": "The unit cell contraction upon gas dosing indicates hydrogen adsorption and may suggest a minor cooperative effect between framework rearrangement and gas sorption to create energetically idealized adsorption interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does particle size affect the kinetic trapping of a structurally-locked form of a flexible MOF?",
+      "answer": "Particle size affects the kinetic trapping by influencing the structural transitions in flexible MOFs, potentially impacting the adsorption-desorption behavior and the efficiency of gas storage and release.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the intrinsic thermal management property of flexible frameworks play in gas storage?",
+      "answer": "The intrinsic thermal management property of flexible frameworks helps address local temperature changes upon adsorption-desorption, potentially improving the usable capacities and energetic efficiency of gas storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the observed effect of crystal downsizing on the flexibility of metal-organic frameworks?",
+      "answer": "Crystal downsizing can induce shape-memory nanopores in metal-organic frameworks, leading to reversible structural transitions with significant temperature hysteresis, affecting their gas storage and release properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that the multivariate approach can adapt known flexible frameworks for specific applications they were previously incompatible with.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that the adsorption threshold pressure for hydrogen in the multivariate framework is higher than in the parent framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study suggests that the presence of minor impurities in the framework structure has no impact on its gas adsorption properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study indicates that the phase transition from a closed to an open structure in the framework is instantaneous and without hysteresis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: According to the study, all flexible frameworks exhibit the same degree of structural transition upon gas adsorption.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary method used to analyze the structural changes in the flexible frameworks upon gas adsorption in the study?",
+      "answer": "The primary method used is in situ synchrotron powder X-ray diffraction measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational technique is employed to detect potential hydrogen adsorption sites in the framework?",
+      "answer": "Periodic Density Functional Theory (DFT) calculations were employed to detect potential hydrogen adsorption sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the observed effect of substituting one ligand in the framework with a fluorinated derivative?",
+      "answer": "Substituting one ligand with a fluorinated derivative is used to approximate the modified framework and explore its impact on hydrogen adsorption sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Grimme's D3 method in the computational analysis of the framework?",
+      "answer": "Grimme's D3 method is used to include dispersion effects and account for van der Waals interactions in the computational analysis of the framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study confirm the complete removal of solvents from the synthesized frameworks?",
+      "answer": "The complete removal of solvents from the synthesized frameworks is confirmed through powder X-ray diffraction patterns and 1H NMR spectroscopy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the observed relationship between the adsorption threshold pressure and the presence of a fluorinated ligand in the framework?",
+      "answer": "The presence of a fluorinated ligand in the framework is associated with a reduced adsorption threshold pressure for hydrogen.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental technique is used to measure high-pressure hydrogen adsorption in the study?",
+      "answer": "High-pressure hydrogen adsorption measurements were performed using a modified commercial Sieverts system integrated with a cryo-cooler.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

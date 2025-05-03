@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Reversible Single-Crystal-to-Single-Crystal Transformation from Achiral Antiferromagnetic Hexanuclears to a Chiral Ferrimagnetic Double Zigzag Chain",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the study?",
+      "answer": "Yan-Juan Zhang, Tao Liu, Shinji Kanegawa, Osamu Sato",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What institution did the authors belong to?",
+      "answer": "Institute for Materials Chemistry and Engineering, Kyushu University, Fukuoka, Japan",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the study?",
+      "answer": "The study focuses on a reversible single-crystal-to-single-crystal transformation involving a change in chirality and magnetic interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What materials were synthesized in the study?",
+      "answer": "[{FeIII(Tp)(CN)3}4{FeII(MeCN)(H2O)2}]·10H2O·2MeCN (1) and [FeIII(Tp)(CN)3]2FeII(H2O)2FeII (2)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of compound 1?",
+      "answer": "Compound 1 was synthesized by layering a solution of (Bu4N)[(Tp)Fe(CN)3] over an aqueous solution of Fe(ClO4)2·6H2O with CH3CN as a middle buffer layer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was compound 2 obtained from compound 1?",
+      "answer": "Compound 2 was obtained by slowly heating crystals of compound 1 to 150 °C under an N2 atmosphere.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from compound 1 to compound 2 reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What changes occur in the magnetic properties due to the transformation?",
+      "answer": "The transformation involves a change from antiferromagnetic interactions in hexanuclear clusters to ferrimagnetic interactions in chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What analytical techniques were used to characterize the synthesized compounds?",
+      "answer": "Infrared spectroscopy, thermogravimetric analyses, powder X-ray diffraction, single crystal X-ray diffraction, and magnetic measurements were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the crystal quality of the reabsorbed sample suitable for single crystal analysis?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the solid state reaction in the observed magnetic behavior?",
+      "answer": "The solid state reaction is key to observing the reversible interconversion between antiferromagnetic and ferrimagnetic states.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the variation of the FeII−N−C angle influence?",
+      "answer": "The variation of the FeII−N−C angle influences the nature of the exchange interaction between FeIII and FeII.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the dihedral angle in the magnetic interaction?",
+      "answer": "The dihedral angle influences the transition from antiferromagnetic to ferrimagnetic interaction, with accidental orthogonality playing a role.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study provide a novel method for preparing chiral magnets?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the orbital angular momentum on magnetization at room temperature?",
+      "answer": "The contribution of the orbital angular momentum to magnetization depends on the structure around FeII, affecting the magnetic properties at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the FeII−N−C linkages in compounds 1 and 2 linear?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of strong hydrogen bonds in the structure indicate?",
+      "answer": "The presence of strong hydrogen bonds indicates significant interactions between donor and acceptor atoms, affecting the structure's stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with locating hydrogen atoms in X-ray data?",
+      "answer": "Locating hydrogen atoms is challenging due to their low scattering power and larger librational amplitudes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation process dependent on the crystal packing and molecular orientation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

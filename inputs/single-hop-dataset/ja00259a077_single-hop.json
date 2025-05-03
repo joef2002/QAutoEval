@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "title": "Synthesis Conditions Q&A",
+      "paragraphs": [
+        {
+          "context": "Positional parameters for various compounds were provided in the text.",
+          "qas": [
+            {
+              "question": "What is the publication year of the article discussing sigma-assisted exchange interactions?",
+              "id": "1",
+              "answer": "1987",
+              "difficulty": "easy",
+              "type": "factual"
+            },
+            {
+              "question": "Is the document available for personal use without a subscription?",
+              "id": "2",
+              "answer": "True",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What type of interactions are discussed in the article titled '.sigma.-Assisted exchange interactions in linear adducts of nitroxides with dirhodium tetrakis(trifluoroacetate)'?",
+              "id": "3",
+              "answer": "Sigma-assisted exchange interactions",
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "Based on the positional parameters provided, how many compounds are detailed in the text?",
+              "id": "4",
+              "answer": "Multiple, as indicated by the various positional parameters for different compounds.",
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "Can users republish or redistribute the supporting information without permission from the American Chemical Society?",
+              "id": "5",
+              "answer": "False",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What is the DOI of the article discussing sigma-assisted exchange interactions?",
+              "id": "6",
+              "answer": "10.1021/ja00259a077",
+              "difficulty": "easy",
+              "type": "factual"
+            },
+            {
+              "question": "Is the supporting information for the article copyrighted by the American Chemical Society?",
+              "id": "7",
+              "answer": "True",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What is the primary focus of the article published in the Journal of the American Chemical Society in 1987?",
+              "id": "8",
+              "answer": "Sigma-assisted exchange interactions in linear adducts of nitroxides with dirhodium tetrakis(trifluoroacetate)",
+              "difficulty": "medium",
+              "type": "reasoning"
+            },
+            {
+              "question": "Do the positional parameters indicate the synthesis conditions of a single compound?",
+              "id": "9",
+              "answer": "False",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What is the journal ID type that identifies the Journal of the American Chemical Society?",
+              "id": "10",
+              "answer": "coden",
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "Based on the document, is there a supplementary material available for the article?",
+              "id": "11",
+              "answer": "True",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "How can one obtain permission to republish material from the article?",
+              "id": "12",
+              "answer": "By processing their own requests via the RightsLink permission system.",
+              "difficulty": "medium",
+              "type": "reasoning"
+            },
+            {
+              "question": "What is the coden for the Journal of the American Chemical Society?",
+              "id": "13",
+              "answer": "jacsat",
+              "difficulty": "easy",
+              "type": "factual"
+            },
+            {
+              "question": "Are the positional parameters provided in a machine-readable form?",
+              "id": "14",
+              "answer": "False",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What does the presence of multiple positional parameters suggest about the article's content?",
+              "id": "15",
+              "answer": "It suggests that the article discusses multiple compounds.",
+              "difficulty": "hard",
+              "type": "reasoning"
+            },
+            {
+              "question": "Is the article's publication format electronic?",
+              "id": "16",
+              "answer": "True",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What is the significance of the DOI 10.1021/ja00259a077?",
+              "id": "17",
+              "answer": "It uniquely identifies the article discussing sigma-assisted exchange interactions.",
+              "difficulty": "medium",
+              "type": "reasoning"
+            },
+            {
+              "question": "Can the supporting information files be sold without permission?",
+              "id": "18",
+              "answer": "False",
+              "difficulty": "easy",
+              "type": "True or False"
+            },
+            {
+              "question": "What is the publication format of the ISSN provided for the Journal of the American Chemical Society?",
+              "id": "19",
+              "answer": "print",
+              "difficulty": "medium",
+              "type": "factual"
+            },
+            {
+              "question": "What does the availability of supplementary material indicate about the article?",
+              "id": "20",
+              "answer": "It indicates that additional information or data supporting the article's findings is available.",
+              "difficulty": "hard",
+              "type": "reasoning"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MOF-808 before activation?",
+      "answer": "Zr6O37.12C23H15",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary method used to identify the strong Brønsted acid site in MOF-808-SO4?",
+      "answer": "A combination of spectroscopic, crystallographic, and computational characterization techniques",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The acidity of MOF-808-SO4 is lost upon dehydration.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water in the acidity of MOF-808-SO4?",
+      "answer": "Water is necessary for the strong acidity of the site, and its removal significantly reduces the catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What changes in the IR spectrum of MOF-808-SO4 indicate the loss of water?",
+      "answer": "The loss of two blue-side peaks at 3737 and 3767 cm-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Sulfated zirconia exhibits a 100% selectivity for C8 products in the dimerization of isobutene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of atmospheric moisture on MOF-808-SO4's acidity?",
+      "answer": "Exposure to atmospheric moisture results in the loss of acidity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the presence of strong acid sites in MOF-808-SeO4 suggested?",
+      "answer": "By the signal intensity in the region of 60-70 ppm in the 31P NMR spectrum",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The catalytic activity of MOF-808-SO4 is maintained at 80°C over long experiments.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for cluster geometry optimization in the study?",
+      "answer": "Density Functional Theory (DFT)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The conversion efficiency of sulfated zirconia drops by around 60% from its starting value during long experiments at 80°C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the peaks at 3737 and 3767 cm-1 in the IR spectrum of MOF-808-SO4?",
+      "answer": "They are characteristic of exposed hydroxyl groups not participating in hydrogen bonding and indicate the presence of adsorbed water.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of MOF-808-SO4 changes to exclusively chelating mode of sulfate upon activation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the loss of water in MOF-808-SO4 indicate about its structure?",
+      "answer": "The loss of water is associated with the loss of the strongest acid site, supporting the role of terminal water as the strongest Brønsted acid source.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of water in excess levels the acidity of MOF-808-SO4 to that of the hydronium ion.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of heating MOF-808-SO4 on its IR spectrum?",
+      "answer": "Heating the sample broadens the peaks as the local environment becomes more disordered due to thermal motion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The catalytic activity of MOF-808-SO4 is significantly reduced when dehydrated.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to quantify the amount of water lost in MOF-808-SO4 during TGA-MS analysis?",
+      "answer": "By comparing the area underneath the water signal plot to that of a known standard, copper sulfate pentahydrate.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of strong acid sites in MOF-808-SeO4 is indicated by a peak at 69 ppm in the 31P NMR spectrum.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of chelating sulfate in the acidity of MOF-808-SO4?",
+      "answer": "The chelating coordination mode of sulfate is a key contributor to its catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "triethanolamine": "3.0 g, 20 mmol",
+          "Na2WO4·2H2O": "1.6 g, 4.9 mmol",
+          "hydrochloric_acid_37%": "to adjust pH to 2.0",
+          "Na2S2O4": "0.11 g, 0.63 mmol"
+        },
+        "solvent": "water",
+        "solvent_amount": "25 mL",
+        "temperature": "sealed and stored at 4 °C",
+        "time": "1 month",
+        "yield": "ca. 10 % based on tungsten",
+        "drying_method": "slow evaporation",
+        "additional_information": "Potassium ion required for the synthesis is assumed to originate from the reagents used and the glassware."
+      }
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "chemicals_used": {
+          "triethanolamine": "5.0 g, 33.5 mmol",
+          "Na2WO4·2H2O": "3.3 g, 10 mmol",
+          "hydrochloric_acid_37%": "to adjust pH to 2.0",
+          "KCl": "0.66 g, 8.9 mmol"
+        },
+        "solvent": "water",
+        "solvent_amount": "30 mL",
+        "temperature": "reflux",
+        "time": "14 days",
+        "yield": "7%",
+        "drying_method": "cooling and slight evaporation"
+      }
+    },
+    {
+      "material_id": "3",
+      "synthesis_conditions": {
+        "description": "Byproduct to the synthesis of 1 and 2. The conditions are similar to those used for the synthesis of 1 and 2.",
+        "additional_information": "Formed during the syntheses of 1 and 2 as the main by-product."
+      }
+    }
+  ]
+}

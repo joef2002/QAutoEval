@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of the as synthesized Hf-2?",
+      "answer": "The molecular formula of the as synthesized Hf-2 is (Hf6(μ3-O)4(μ3-OH)4(benzoate)4(FeTCPCl)-4)2) (C124H72Cl2Fe2N8O32Hf6).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the as synthesized Hf-2?",
+      "answer": "The yield percentage of the as synthesized Hf-2 is approximately 49%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of Fe@Hf-2 after activation?",
+      "answer": "The BET surface area of Fe@Hf-2 after activation is 1600 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of FeCl3 in the post-metalation of Hf-2 to generate Fe@Hf-2?",
+      "answer": "FeCl3 is used to ensure complete metalation of the porphyrin functionality in Hf-2, leading to the generation of Fe@Hf-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main safety concern when handling Azidotrimethylsilane (TMS-N3) during the tandem reaction of styrene with O2?",
+      "answer": "The main safety concern when handling Azidotrimethylsilane (TMS-N3) is that it is incompatible with moisture, oxidizing agents, and acids, and can easily decompose to hydrolyzed to hydrazoic acid (hydrogen azide), which is extremely toxic and explosive.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Fe@Hf-2 MOF demonstrates catalytic activity with full consumption of the starting material in the desired tandem reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted Fe:Hf ratio in the as-synthesized MOF before and after exposure to FeCl3?",
+      "answer": "Before exposure to FeCl3, the Fe:Hf ratio in the as-synthesized MOF is 2:6. After exposure to FeCl3, the Fe:Hf ratio increases to 4:6.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Fe@Hf-2 MOF can be reused in the tandem oxidation reaction without significant loss of activity.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main product formed when 2-(4-vinylphenyl)oxirane reacts under the optimized reaction conditions with Fe@Hf-2 as the catalyst?",
+      "answer": "The main product formed is 1-(2′-azido-1′-trimethylsiloxy)-4-(1′-azido-2′-trimethylsiloxy)benzene.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The computational studies suggest that the bis-μ-oxo di-iron functionality on the Hf6 nodes of Fe@Hf-2 is responsible for the observed product in the tandem catalysis.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the journal title where the research article was published?",
+      "answer": "Journal of the American Chemical Society",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the research article?",
+      "answer": "Oleg V. Ozerov",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "A well-defined pincer-Rh catalyst for C–S cross-coupling reactions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the catalyst used for coupling of aryl chlorides and bromides with thiols?",
+      "answer": "(POCOP)Rh(H)(Cl)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of the coupling product when using p-BrC6H4CF3 with cyclohexanethiol under the described conditions?",
+      "answer": "97%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of excess aryl halide on the catalysis rate?",
+      "answer": "The presence of 10 equivalents of aryl halide does not significantly affect the yield compared to 1.1 equivalents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of Ar–H a side product in the catalytic reactions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the catalyst resting state involve the complex (POCOP)Rh(SPh2)?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NaOtBu in the reaction mechanism?",
+      "answer": "NaOtBu serves to dehydrochlorinate the precatalyst and produce the catalytically relevant three-coordinate (pincer)Rh intermediate.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of ortho-substitution on the rate of catalysis?",
+      "answer": "Ortho-substitution in the aryl halide significantly slows down both the reductive elimination and oxidative addition steps, potentially reducing the overall rate of catalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can (POCOP)Rh(SPh2) react directly with NaSPh to form (POCOP)Rh(NaSPh)?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the turnover number (TON) for the coupling of p-BrC6H4F with cyclohexanethiol using 0.1% catalyst loading?",
+      "answer": "2500",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does increasing the steric bulk of the thiolate ligand always slow down the rate of catalysis?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of adding excess thioether product to the catalytic reaction?",
+      "answer": "Adding excess thioether product inhibits the coupling of cyclohexanethiol with p-FC6H4Cl but not with p-FC6H4Br.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the publication year of the research article?",
+      "answer": "2014",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

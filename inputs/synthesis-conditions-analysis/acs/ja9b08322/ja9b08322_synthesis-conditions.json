@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "label": "1",
+      "temperature": "130 °C",
+      "time": "48 h",
+      "solvents": "N,N-dimethylformamide (DMF), ethylene glycol",
+      "amount_of_solvents": {
+        "DMF": "2.5 mL",
+        "ethylene glycol": "0.7 mL"
+      },
+      "chemicals_used": [
+        "Zn(NO3)2·6H2O",
+        "thiophene-2,5-dicarboxylic acid (H2tdc)",
+        "1,4-diazo[2.2.2]bicyclooctane (dabco)"
+      ],
+      "yield": "98%",
+      "washing_method": "DMF",
+      "drying_method": "vacuum",
+      "activation_method": "dynamic vacuum (10−8 bar) at 150 °C during 6 h"
+    },
+    {
+      "label": "2",
+      "temperature": "130 °C",
+      "time": "48 h",
+      "solvents": "N,N-dimethylformamide (DMF), 1,2-propanediol",
+      "amount_of_solvents": {
+        "DMF": "2.5 mL",
+        "1,2-propanediol": "0.7 mL"
+      },
+      "chemicals_used": [
+        "Zn(NO3)2·6H2O",
+        "thiophene-2,5-dicarboxylic acid (H2tdc)",
+        "1,4-diazo[2.2.2]bicyclooctane (dabco)",
+        "three ethylamine (9.3 μL)"
+      ],
+      "yield": "96%",
+      "washing_method": "DMF",
+      "drying_method": "vacuum",
+      "activation_method": "dynamic vacuum (10−8 bar) at 150 °C during 6 h"
+    },
+    {
+      "label": "3",
+      "temperature": "130 °C",
+      "time": "48 h",
+      "solvents": "N,N-dimethylformamide (DMF), 1,2-butanediol",
+      "amount_of_solvents": {
+        "DMF": "2.5 mL",
+        "1,2-butanediol": "0.7 mL"
+      },
+      "chemicals_used": [
+        "Zn(NO3)2·6H2O",
+        "thiophene-2,5-dicarboxylic acid (H2tdc)",
+        "1,4-diazo[2.2.2]bicyclooctane (dabco)"
+      ],
+      "yield": "99%",
+      "washing_method": "DMF",
+      "drying_method": "vacuum",
+      "activation_method": "dynamic vacuum (10−8 bar) at 150 °C during 6 h"
+    },
+    {
+      "label": "4",
+      "temperature": "130 °C",
+      "time": "48 h",
+      "solvents": "N,N-dimethylformamide (DMF), 1,2-pentanediol",
+      "amount_of_solvents": {
+        "DMF": "2.5 mL",
+        "1,2-pentanediol": "0.7 mL"
+      },
+      "chemicals_used": [
+        "Zn(NO3)2·6H2O",
+        "thiophene-2,5-dicarboxylic acid (H2tdc)",
+        "1,4-diazo[2.2.2]bicyclooctane (dabco)"
+      ],
+      "yield": "96%",
+      "washing_method": "DMF",
+      "drying_method": "vacuum",
+      "activation_method": "dynamic vacuum (10−8 bar) at 150 °C during 6 h"
+    },
+    {
+      "label": "5",
+      "temperature": "130 °C",
+      "time": "48 h",
+      "solvents": "N,N-dimethylformamide (DMF), glycerol",
+      "amount_of_solvents": {
+        "DMF": "2.5 mL",
+        "glycerol": "0.7 mL"
+      },
+      "chemicals_used": [
+        "Zn(NO3)2·6H2O",
+        "thiophene-2,5-dicarboxylic acid (H2tdc)",
+        "1,4-diazo[2.2.2]bicyclooctane (dabco)"
+      ],
+      "yield": "94%",
+      "washing_method": "DMF",
+      "drying_method": "vacuum",
+      "activation_method": "dynamic vacuum (10−8 bar) at 150 °C during 6 h"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the ideal reaction temperature range for the synthesis of MOF 1?",
+      "answer": "90-110 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMF in the structure of MOF 1?",
+      "answer": "DMF acts as a monodentate ligand and is coordinated to the Sr2+ ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF 1 framework collapses at temperatures above 500 °C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What substrates were used for the growth of MOF 1 thin films?",
+      "answer": "SrAl2O4, porous Al2O3, and Al foil.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the morphology of MOF 1 thin films depend on the substrate?",
+      "answer": "The morphology of MOF 1 thin films depends on the surface chemistry and structure of the substrate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dielectric properties of MOF 1 thin films were significantly different when grown on SrAl2O4 substrate compared to porous Al2O3.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main cause of ferroelectricity in MOF 1 according to the study?",
+      "answer": "The motions of the coordinated DMF molecules under an applied ac electric field.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The DMF molecules in MOF 1 exhibit disorder at 403 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to synthesize the SrAl2O4 substrate?",
+      "answer": "Gel-combustion method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The leakage current of MOF 1 is less than 10-7 A⋅cm-2 when the applied electric field is 2.0 kV⋅cm-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to measure the second-harmonic generation efficiency of MOF 1?",
+      "answer": "A pulsed Q-switched Nd:YAG laser with λ = 1064 nm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dielectric constant of MOF 1 remains constant in the low-temperature regime below 270 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Sr2+ ions in the structure of MOF 1?",
+      "answer": "Sr2+ ions are coordinated by eight oxygen atoms from five BDC2– ligands and one DMF molecule, forming a distorted bicapped coordination octahedron.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The thermal stability of DMF molecules in MOF 1 is increased due to the coordination interaction with Sr2+ ions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the noncentrosymmetric space group P31 in the properties of MOF 1?",
+      "answer": "It allows MOF 1 to exhibit second-order nonlinear optical behavior and ferroelectric and dielectric properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dielectric constant and dielectric loss of MOF 1 do not depend on the frequency of the ac electric field.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the Sr–O bond distances in MOF 1?",
+      "answer": "The Sr–O bond distances increase slightly as the temperature rises from 293 to 403 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The DMF dipole moment was calculated using density functional theory at the b3lyp/6-31+g(d,p) level.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated value of the characteristic ferroelectric parameters under an applied electric field of 1.98 kV cm–1 for MOF 1?",
+      "answer": "Saturation spontaneous polarization ≈ 0.83 μC cm–2; remanent polarization ≈ 0.48 μC cm–2; and coercive field ≈ 0.81 kV cm–1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The growth of MOF 1 thin films from the mixed solution of H2BDC and Sr(NO3)2 on suitably pretreated substrates is difficult.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

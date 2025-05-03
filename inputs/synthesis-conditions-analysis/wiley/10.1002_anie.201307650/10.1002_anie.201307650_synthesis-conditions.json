@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "name": "ABT·2ClO4",
+      "synthesis_conditions": {
+        "solvents": ["water", "acetonitrile"],
+        "chemicals_used": ["AgClO4", "btr (4,4’-bis(1,2,4-triazole))"],
+        "method": "slow evaporation",
+        "crystal_system": "cubic",
+        "space_group": "Fd3c",
+        "comments": "Colorless crystals obtained by slow evaporation of a solution of AgClO4 and btr in water and acetonitrile."
+      }
+    },
+    {
+      "name": "ABT·Cr2O7",
+      "synthesis_conditions": {
+        "initial_material": "ABT·2ClO4",
+        "solvent": "aqueous solution",
+        "chemicals_used": ["excess K2Cr2O7"],
+        "washing_method": "rinsed with deionized water",
+        "drying_method": "dried in air",
+        "morphology_change": "crystals showed no obvious change",
+        "comments": "Crystals were immersed in an aqueous solution containing excess K2Cr2O7, then collected by filtration, rinsed with deionized water, and dried in air."
+      }
+    }
+  ]
+}

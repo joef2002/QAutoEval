@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the compound synthesized by adding chiral 2,2'-(2,6-pyridinediyl)bis(4-isopropyl-2-oxazoline) to a CoII–WV magnetic system?",
+      "answer": "The chemical formula is {[CoII((S,S)-iPr-Pybox)(MeOH)]3[WV(CN)8]2·5.5MeOH·0.5H2O}n for 1-SS and {[CoII((R,R)-iPr-Pybox) (MeOH)]3[WV(CN)8]2·5.5MeOH·0.5H2O}n for 1-RR.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structural feature do the compounds 1-SS and 1-RR share?",
+      "answer": "Both compounds crystallize with a structure containing a unique crossed arrangement of one-dimensional chains that form a microporous supramolecular network with large channels.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the chiral rigid tridentate Pybox derivative in the synthesis of 1D bimetallic chains?",
+      "answer": "The chiral rigid tridentate Pybox derivative, along with internally anisotropic CoII centers and paramagnetic [WV(CN)8]3– ions, is used to ensure the desired dimensionality, good magnetic isolation of the chains, chirality, and microporous character.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What magnetic behavior is exhibited by 1-SS and 1-RR below 3 K?",
+      "answer": "Below 3 K, the frequency-dependent χM″(T) signal indicated slow magnetic relaxation characteristic of single-chain magnets.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compounds 1-SS and 1-RR exhibit optical chirality as confirmed by natural circular dichroism and UV–vis absorption spectra.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the crossed arrangement of molecular chains in 1-SS and 1-RR?",
+      "answer": "The crossed arrangement of molecular chains gives a chiral porous supramolecular network with vast channels, contributing to the unique properties of the compounds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 1-SS and 1-RR involves the use of a non-polar solvent to disturb the metastable equilibrium and allow crystallization.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect of cooling on the magnetic susceptibility–temperature product (χMT) for 1-SS and 1-RR?",
+      "answer": "Upon cooling, χMT slowly decreases, reaching a shallow minimum at ∼47 K; then sharply increases to a maximum at 3.2 K as a result of CoII–WV magnetic coupling; and finally decreases because of single-ion effects of CoII.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structures of 1-SS and 1-RR are identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of diisopropyl ether in the synthesis of 1-SS and 1-RR?",
+      "answer": "Diisopropyl ether is added to the synthetic solution to disturb the metastable equilibrium, which allows the crystallization of 1-SS and 1-RR.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 1-SS and 1-RR are stable in their mother liquid and diisopropyl ether solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to 1-SS and 1-RR when exposed to air?",
+      "answer": "When exposed to air, 1-SS and 1-RR undergo a phase transition to their hydrated forms, 1-SS-hyd and 1-RR-hyd, respectively.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic anisotropy in 1-SS is controlled by the single-ion anisotropy of the CoII ions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed behavior of the field-cooled (FC) and zero-field-cooled (ZFC) M versus T curves for 1-SS and 1-RR?",
+      "answer": "The FC and ZFC M versus T curves for 1-SS and 1-RR do not diverge, indicating the absence of long-range magnetic ordering and good isolation of the molecular chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 1-SS and 1-RR exhibit single-chain magnet behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of reversible guest exchange on microporous magnets?",
+      "answer": "Reversible guest exchange can significantly affect the magnetic character of microporous magnets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 1-SS and 1-RR employs anisotropic metal centers and appropriate organic ligands to achieve desired properties.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with the synthesis of 1D chains with microporous character?",
+      "answer": "The challenge is that 1D chains are typically arranged in parallel and solvent exchange causes their random reorientation, making it difficult to achieve microporous character.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 1-SS and 1-RR can be replaced by water without loss of crystallinity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the magnetic properties of 1-SS and 1-RR in the context of molecular magnets?",
+      "answer": "The magnetic properties of 1-SS and 1-RR, including slow magnetic relaxation and magnetic anisotropy, contribute to their potential as molecular magnets with unique functionalities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the new coordination group introduced in the study for MOF synthesis?",
+      "answer": "Phenylene-1,4-bis(methylphosphinic acid) (PBPA)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the elucidation of the new MOF material's structure?",
+      "answer": "Electron-diffraction tomography coupled with dynamic refinement of the EDT data",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using PBPA as a linker in MOF synthesis?",
+      "answer": "It leads to the formation of a hydrothermally stable and permanently porous MOF structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Carboxylate-based MOFs generally display high stability in aqueous media.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the hydrothermal stability comparison between ICR-2 and MIL-53?",
+      "answer": "ICR-2 has superior hydrothermal stability compared to MIL-53.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ICR-2 loses a significant amount of surface area after exposure to steam.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore-limiting diameter (PLD) of ICR-2?",
+      "answer": "9 c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of ICR-3 differ from ICR-1 and ICR-2?",
+      "answer": "ICR-3 is a layered structure consisting of bilayers held together by hydrophobic/van der Waals interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ICR-2's structure remains intact after 24 hours at reflux in toluene.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the surface area of H2O-treated ICR-2?",
+      "answer": "819 m2 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of ICR-2 is highly stable in boiling water.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the lowest stability observed for ICR-2 in terms of solvent treatment?",
+      "answer": "Boiling ethanol, where the surface area decreases to 36% of the original value.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ICR-2 displays significant weight loss due to the thermal release of adsorbed water molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential advantage of phosphinic acid based linkers over carboxylic acid based linkers?",
+      "answer": "Phosphinic acids can be modified by either alkyl or aryl groups at the phosphorus atom, offering more versatility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of ICR-4 is isoreticular with ICR-2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore-limiting diameter (PLD) of ICR-4?",
+      "answer": "3 c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: ICR-4's surface area is higher than ICR-2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the surface area of ICR-4?",
+      "answer": "165 m2 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of electron-diffraction tomography in MOF structure determination?",
+      "answer": "It is used for structure determination of MOFs, especially when crystal size and crystallinity do not permit full structure elucidation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main challenge in using EDT for MOF structure solution?",
+      "answer": "Poor sample crystallinity and/or fast degradation of crystals in the electron beam.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

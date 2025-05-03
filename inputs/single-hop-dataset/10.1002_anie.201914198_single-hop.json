@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework (MOF) JUK-8?",
+      "answer": "[Zn(oba)(pip)]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the guest molecules that JUK-8 shows distinct switchability in response to?",
+      "answer": "H2O and CO2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to provide detailed insights into the breathing mechanism of JUK-8?",
+      "answer": "Single-crystal X-ray diffraction (SC-XRD) combined with density functional theory (DFT) calculations and adsorption studies accompanied by grand canonical Monte Carlo (GCMC) simulations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the structure of JUK-8?",
+      "answer": "Hydrogen bonding plays a key role in achieving strong internetwork interactions, resulting in a concerted movement of sublattices in response to chemical or physical stimuli.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is JUK-8 stable in water and weakly acidic or basic aqueous solutions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does JUK-8 maintain its switchable behavior and maximal loading of CO2 after being soaked in acidic (pH 1) or basic (pH 11) solutions for 24 hours?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high degree of interpenetration in JUK-8?",
+      "answer": "It is significant because it is the MOF with the highest degree of interpenetration still exhibiting dynamic breathing characteristics.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the void volume percentage in the open-pore phase of JUK-8?",
+      "answer": "27.2%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does JUK-8 respond to temperature changes?",
+      "answer": "JUK-8 shows reversible guest-induced switching between large-pore and small-pore phases in response to temperature changes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is JUK-8 capable of undergoing stepwise structural transformations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum water uptake for JUK-8 at 298 K?",
+      "answer": "25 wt % (314 cm3 g-1)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does JUK-8 exhibit a metastable phase during its transformation from cp to op phase?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pip linker in the structure of JUK-8?",
+      "answer": "The pip linker serves as a component that allows for hydrogen bond formation as either donors or acceptors when interacting with water guests or other network components.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can JUK-8 withstand repeated adsorption and desorption stress without significant limitations?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the experimental specific pore volume (Vpe) for JUK-8 cp after CO2 adsorption at 0.08 bar?",
+      "answer": "0.035 cm3 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the adamantanoid cages in the structure of JUK-8?",
+      "answer": "The adamantanoid cages, with their edges allowing for high eightfold interpenetration of the network, contribute to the unique structural and functional properties of JUK-8.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is JUK-8 stable up to ca. 300 8C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does JUK-8 exhibit a two-step adsorption isotherm for CO2 at 195 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the oba linker in the structure of JUK-8?",
+      "answer": "The oba linker, along with the pip linker, contributes to the formation of the flexible diamondoid subnetworks and the strong internetwork hydrogen bonds in JUK-8.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximal CO2 loading for JUK-8 cp at p ≈ 0.99 bar?",
+      "answer": "144 cm3 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

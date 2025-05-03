@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of using the multitopic ion-pair receptor 2?",
+      "answer": "The main purpose of using the multitopic ion-pair receptor 2 is to recognize and extract cesium salts, specifically CsOH and Cs2CO3, from highly basic media to lower the pH of the media.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the formation of a 1:1 CsOH complex, 2·CsOH, confirmed?",
+      "answer": "The formation of a 1:1 CsOH complex, 2·CsOH, was confirmed by 1H NMR spectroscopic titrations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was observed when receptor 2 was employed as a carrier in U-tube experiments involving the transport of CsOH?",
+      "answer": "A sharp increase in the pH and cesium concentrations in the receiving phase was observed when receptor 2 was employed as a carrier in U-tube experiments involving the transport of CsOH.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the single crystal X-ray diffraction analysis for the precipitate formed with Cs2CO3?",
+      "answer": "The single crystal X-ray diffraction analysis confirmed that the precipitate is 2·Cs2CO3, showing that receptor 2 binds Cs2CO3 in a 1:2:1 receptor/cation/anion stoichiometry, indicating strong interaction and potential for purification of Cs2CO3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can receptor 2 extract CsOH and Cs2CO3 from concentrated aqueous source phases?",
+      "answer": "Yes, receptor 2 can extract CsOH and Cs2CO3 from concentrated aqueous source phases.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is receptor 2 more effective in extracting CsCl under liquid–liquid extraction compared to receptor 1?",
+      "answer": "True, receptor 2 was shown to be more effective than receptor 1 in extracting CsCl under liquid–liquid extraction.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does receptor 2 show selectivity for CsOH over other potentially competitive anions?",
+      "answer": "True, a remarkably high selectivity for CsOH relative to other potentially competitive anions was observed.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of receptor 2 on the pH of the receiving phase in U-tube transport experiments?",
+      "answer": "The pH of the receiving phase increased sharply when receptor 2 was present in the organic phase during U-tube transport experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of new sets of 1H NMR signals indicate when receptor 2 is exposed to saturated Cs2CO3 in D2O?",
+      "answer": "The presence of new sets of 1H NMR signals indicates that receptor 2 can extract cesium carbonate from the aqueous phase into chloroform.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the extraction efficiency of receptor 2 towards CsOH affected by the concentration of CsOH solution?",
+      "answer": "True, the extraction efficiency of receptor 2 was estimated to be circa 50% when exposed to a 6 m CsOH solution, indicating that concentration affects extraction efficiency.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does receptor 2 preferentially extract CsOH and Cs2CO3 over simple cesium halide salts?",
+      "answer": "True, receptor 2 preferentially extracts CsOH and Cs2CO3 over simple cesium halide salts like CsF, CsCl, and CsBr.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the hydration energies of the anions play in the selectivity of receptor 2?",
+      "answer": "The hydration energies of the anions play a role in the selectivity of receptor 2, with the interplay between ion-pair binding affinities and hydration energies favoring CsOH.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was a decrease in pH observed in the source phase during U-tube extraction experiments with a lower initial concentration of CsOH?",
+      "answer": "True, a pH decrease in the source phase was observed during U-tube extraction experiments with a lower initial concentration of CsOH.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the formation of a sparingly soluble complex, 2·Cs2CO3, indicate about receptor 2's interaction with Cs2CO3?",
+      "answer": "The formation of a sparingly soluble complex, 2·Cs2CO3, indicates a strong interaction between receptor 2 and Cs2CO3, suggesting a potential approach for purifying Cs2CO3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does receptor 2 function as an effective ion-pair receptor for lithium salts?",
+      "answer": "False, while receptor 2 was explored for its ability to act as an ion-pair receptor, its effectiveness was specifically demonstrated for cesium salts, not lithium salts.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of solid–liquid extraction tests of CsCl using receptor 2?",
+      "answer": "The result of solid–liquid extraction tests of CsCl using receptor 2 showed that receptor 2 can effectively extract CsCl, as indicated by shifts in 1H NMR spectroscopic signals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the increase in cesium concentrations in the receiving phase during U-tube experiments suggest?",
+      "answer": "The increase in cesium concentrations in the receiving phase during U-tube experiments suggests that receptor 2 successfully extracts and transports CsOH through the organic phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is receptor 2 capable of extracting CsOH and Cs2CO3 with equal efficiency?",
+      "answer": "False, while receptor 2 is capable of extracting both CsOH and Cs2CO3, the text does not explicitly state that it does so with equal efficiency for both compounds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using DFT calculations in the study?",
+      "answer": "The purpose of using DFT calculations was to gain insight into the feasibility of forming complexes like 2·CsOH and to estimate complexation energies, aiding in understanding the interactions at a molecular level.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the study suggest about the potential utility of receptor 2 for adjusting pH?",
+      "answer": "The study suggests that receptor 2 has potential utility for adjusting pH by removing anions like OH@ and CO3 2@ from highly basic media, rather than adding protons.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

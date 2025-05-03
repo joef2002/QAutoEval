@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the MOF presented in the study?",
+      "answer": "The chemical formula of the MOF is [Mg(H2dhtp)(H2O)2]·DMAc, denoted as AEMOF-1·DMAc.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does AEMOF-1' exhibit for water detection?",
+      "answer": "AEMOF-1' exhibits an unusual turn-on luminescence sensing mechanism for water detection.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does AEMOF-1' detect water in organic solvents?",
+      "answer": "AEMOF-1' detects water in organic solvents through a luminescence turn-on sensing mechanism, where trace water concentrations cause an overall enhancement of fluorescence intensity and a red-shift of the fluorescence maximum.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can AEMOF-1' be reused for water detection?",
+      "answer": "Yes, AEMOF-1' can be reused for water detection after treatment with MeOH, drying under vacuum, and immersion into DMAc to restore its fluorescence spectrum.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is AEMOF-1' more effective in detecting water compared to the free H4dhtp ligand?",
+      "answer": "Yes, AEMOF-1' is more effective in detecting water than the free H4dhtp ligand because it can selectively absorb water molecules, increasing their local concentration in its pores and inducing a stronger solvatochromic effect on the fluorescence of the bridging ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does AEMOF-1' show a preference for water over other solvents like THF, CH3CN, or EtOH?",
+      "answer": "Yes, AEMOF-1' shows selectivity for water over solvents like THF, CH3CN, or EtOH, as it can absorb about 6 H2O molecules per formula unit of the MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the ESIPT process in the luminescence properties of AEMOF-1?",
+      "answer": "The ESIPT process in AEMOF-1 leads to dual emission from closely spaced excited states, affecting the luminescence properties of its different forms, such as the as-prepared, guest-free, hydrated, and EtOH-containing MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: AEMOF-1·DMAc has a 2D structure.",
+      "answer": "False, AEMOF-1·DMAc has a 3D structure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence of AEMOF-1' is enhanced upon hydration.",
+      "answer": "True, the luminescence of AEMOF-1' is enhanced upon hydration.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: AEMOF-1' cannot detect water concentrations below 1% v/v.",
+      "answer": "False, AEMOF-1' can detect water concentrations as low as 0.05% v/v.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: AEMOF-1' absorbs THF more strongly than water.",
+      "answer": "False, AEMOF-1' has a much greater affinity for water than THF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence properties of AEMOF-1 are independent of its form.",
+      "answer": "False, the luminescence properties of AEMOF-1 are highly dependent upon its form.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: AEMOF-1' shows a significant breathing behavior and flexibility.",
+      "answer": "True, AEMOF-1' reveals significant breathing behavior and flexibility.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the synthesis temperature for AEMOF-1·DMAc?",
+      "answer": "AEMOF-1·DMAc is synthesized at 120°C.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of AEMOF-1'?",
+      "answer": "The BET surface area of AEMOF-1' is 11 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water affect the fluorescence spectrum of AEMOF-1' in THF?",
+      "answer": "The presence of water in THF leads to an overall enhancement of fluorescence intensity and a red-shift of the fluorescence maximum of AEMOF-1'.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the structure of AEMOF-1' upon removal of guest solvents?",
+      "answer": "Upon removal of guest solvents, the structure of AEMOF-1' contracts significantly.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: AEMOF-1' can only detect water in THF and not in other organic solvents.",
+      "answer": "False, AEMOF-1' can detect water in a variety of organic solvents.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMAc in the synthesis of AEMOF-1·DMAc?",
+      "answer": "DMAc acts as a solvent in the synthesis of AEMOF-1·DMAc and is also present as a guest molecule in the MOF structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescence turn-on sensing mechanism of AEMOF-1' for water detection is common among luminescent water sensors.",
+      "answer": "False, the luminescence turn-on sensing mechanism of AEMOF-1' for water detection is highly unusual and in marked contrast to common water sensing methods based on luminescence quenching.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

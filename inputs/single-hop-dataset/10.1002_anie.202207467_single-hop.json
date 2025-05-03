@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the four new ZIFs reported in the study?",
+      "answer": "ZIF-1001, ZIF-1002, ZIF-1003, ZIF-1004",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the three-membered rings (3-rings) in the design of ZIFs?",
+      "answer": "3-rings are an important structural motif in zeolite chemistry, and their formation is critical for designing zeolitic imidazolate frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates the ability of the new ZIF series to selectively capture CO2 from high-humidity flue gas.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does benzotriazolate (bTZ) play in the formation of the new ZIFs?",
+      "answer": "bTZ linker forms 3-rings due to its angle, which is critical for the construction of the new ZIFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were ZIF-1001 to ZIF-1004 synthesized?",
+      "answer": "They were synthesized solvothermally using a mixture of Zn(NO3)2 · 6 H2O, bTZ, and the respective RbIM derivative in DMF at 120 °C for 3 days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's findings provide a significant addition to the limited library of ZIF design principles.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystallographic space group for all members of the ZIF series reported?",
+      "answer": "Orthorhombic P212121 (No. 19)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of high humidity on the CO2 capture performance of the new ZIF series?",
+      "answer": "There was no loss in CO2 capture performance under high-humidity conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The new ZIF series has demonstrated the ability to efficiently separate C2H6 from CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability range of the new ZIF series?",
+      "answer": "Up to 500 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the incorporation of bTZ and bIM linkers affect the formation of ZIF-1001 to ZIF-1004?",
+      "answer": "The incorporation of bTZ and bIM linkers in specific ratios is crucial for achieving the desired ZIF structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The new ZIF series was tested for gas separation under simulated flue gas conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ff(T(cid:0) bTZ(cid:0) T) angle in the design of the new ZIFs?",
+      "answer": "The ff(T(cid:0) bTZ(cid:0) T) angle is critical for reducing the strain of 3-rings, which is essential for the formation of the new ZIFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The new ZIF series has a framework density comparable to those ZIFs whose structures adopt zeolite-type nets.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ff(Zn(cid:0) bTZ(cid:0) Zn) and ff(Zn(cid:0) bIM(cid:0) Zn) angles in ZIF-1001?",
+      "answer": "These angles are smaller than typical ff(T(cid:0) IM(cid:0) T) angles in ZIFs, serving to reduce the strain of 3-rings in the structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's ZIF series showed high chemical stability when immersed in boiling water and aqueous acid/base solutions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the general chemical formula for the members of the new ZIF series?",
+      "answer": "Zn3[(bTZ)2(RbIM)]1(cid:0) x[(bTZ)(RbIM)2]x(bTZ)3, where RbIM varies for each ZIF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of halogen functional groups affect the CO2/N2 selectivity in ZIF-1003 and ZIF-1004?",
+      "answer": "ZIF-1003 and ZIF-1004 with halogen functional groups exhibit higher CO2/N2 selectivities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The new ZIF series' CO2 capture performance was unaffected after 30 consecutive cycles under simulated flue gas conditions.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated BET surface area for ZIF-1001?",
+      "answer": "290 m2 g(cid:0) 1",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

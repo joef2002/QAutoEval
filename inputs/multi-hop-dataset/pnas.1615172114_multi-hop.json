@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the key property of molecular rotors in MOFs to their functionalization?",
+            "answer": "The dynamics of molecular rotors (e.g., phenyl rings) within MOF materials is a key property to their functionalization as they form part of the internal pore surface and are thus highly sensitive to the presence of guest molecules.",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to investigate the molecular dynamics of the rotation of aromatic rings in the series of MOFs?",
+            "answer": "Solid-state 2H NMR spectroscopy was applied to investigate the molecular dynamics of the rotation of aromatic rings in this series of MOFs.",
+            "type": "factual"
+        },
+        {
+            "question": "What were the three motional regimes observed for the phenyl groups in MFM-180a-d16 and MFM-181a-d16?",
+            "answer": "The three motional regimes observed were: (i) from low temperatures up to T1, the line shape evolves to a typical two-site exchange pattern; (ii) above T1, the line shape remains stable up to T2, and (iii) above T2 it evolves to yield a narrowed uniaxial Pake pattern, indicating that the phenyl fragments rotate homogeneously around the C2 axis.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the key difference between the rotational dynamics of the phenyl groups in MFM-180a-d16 versus MFM-181a-d16?",
+            "answer": "The key difference lies in the temperatures of transition from one motional mode to another, from two-site flipping to continuous rotation. For MFM-180a-d16, T1 is \u922d?10 K and T2 is \u922d?30 K, whereas in MFM-181a-d16, T1 is \u922d?00 K, and T2 remains at 330 K.",
+            "type": "factual"
+        },
+        {
+            "question": "What do the collision factors for the k1 and k2 rate constants indicate about the steric restrictions on phenyl rotation in these MOFs?",
+            "answer": "The collision factor for k1 is typical for flipping motion in MOFs at \u922d?011 Hz, but for k2 it is \u922d? orders of magnitude smaller at \u922d?08 Hz, which reflects the strong influence of the steric restrictions on the axial rotation of the phenyl groups in these linkers.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the significance of establishing a strong correlation between ligand design and rotational dynamics in these MOFs?",
+            "answer": "Establishing a strong correlation between the ligand design and the rotational dynamics paves the way to controlling and understanding the role of molecular rotors through design of organic linkers within porous MOF materials.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the advantage of using rigid, highly connected linkers in developing isoreticular porous materials?",
+            "answer": "The use of rigid, highly connected linkers (e.g., with 6\u9225? coordinating functions) affords potentially a more robust and stable platform for the development of isoreticular porous materials.",
+            "type": "factual"
+        },
+        {
+            "question": "How does the intrinsic trade-off between gravimetric and volumetric capacities change across the series of MOFs from MFM-180 to MFM-185?",
+            "answer": "The intrinsic trade-off between gravimetric and volumetric capacities is minimized in this series of MOFs owing to the high framework connectivity and thus relatively high crystal density in comparison with other highly porous MOFs.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Why do MFM-180a, 181a, 183a and 185a all show a selectivity for CO2 compared to CH4?",
+            "answer": "MFM-180a, 181a, 183a and 185a all show a selectivity for CO2 compared to CH4, consistent with these materials having open metal sites. In general, CO2 can interact with the MOF pore surface more strongly than CH4 and N2 due to its large quadrupole moment, leading to selective CO2 uptakes.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the range of CO2/CH4 selectivities calculated for the MOFs in this series?",
+            "answer": "The CO2/CH4 selectivities calculated (initial slopes of the isotherms) for all MOFs in this series are distributed around 4 (MFM-180a: 4.41; MFM-181a: 4.12; MFM-183a: 3.95; MFM-185a: 4.09).",
+            "type": "factual"
+        },
+        {
+            "question": "What is the significance of the high predictability of the linker/metal self-assembly combined with their pore shape in this series of MOFs?",
+            "answer": "The high predictability of the linker/metal self-assembly combined with their pore shape make this series of MOFs a unique platform for exploring further the tuning of porosity, decoration of pores, and development and control of new molecular rotors in functional MOFs.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The MOFs in this series show interpenetration due to the high ligand connectivity.",
+            "answer": "False. Owing to the high ligand connectivity, these MOFs do not show interpenetration, and are robust structures that have permanent porosity.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: MFM-185a shows the highest Brunauer\u9225\u63c8mmett\u9225\u63dfeller (BET) surface area among the octacarboxylate MOFs in this series.",
+            "answer": "True. Activated MFM-185a shows a high Brunauer\u9225\u63c8mmett\u9225\u63dfeller (BET) surface area of 4,734 m2 g\u922d?, the highest for an octacarboxylate MOF in this series.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The MOFs in this series show unremarkable CH4 and CO2 adsorption properties.",
+            "answer": "False. These MOFs show remarkable CH4 and CO2 adsorption properties, notably with simultaneously high gravimetric and volumetric deliverable CH4 capacities of 0.24 g g\u922d? and 163 vol/vol (298 K, 5\u9225?5 bar) recorded for MFM-185a due to selective elongation of tubular cages.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The dynamics of molecular rotors in deuterated MFM-180a-d16 and MFM-181a-d16 were investigated by variable-temperature 1H solid-state NMR spectroscopy.",
+            "answer": "False. The dynamics of molecular rotors in deuterated MFM-180a-d16 and MFM-181a-d16 were investigated by variable-temperature 2H (not 1H) solid-state NMR spectroscopy.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: Analysis of the flipping modes of the mobile phenyl groups, their rotational rates, and transition temperatures allows control and understanding of the role of molecular rotors through design of organic linkers within porous MOF materials.",
+            "answer": "True. Analysis of the flipping modes of the mobile phenyl groups, their rotational rates, and transition temperatures paves the way to controlling and understanding the role of molecular rotors through design of organic linkers within porous MOF materials.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: Increases in porosity of the MOFs in this series typically correlate to decreases in pore diameters.",
+            "answer": "False. Increases in porosity typically correlate to increases (not decreases) in pore diameters, which can be detrimental to the strength of host\u9225\u63fcuest interactions at low surface coverage.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: A powerful driver exists to find the ideal compromise between high porosity and strong host\u9225\u63fcuest interactions over a wide range of pressures in MOFs.",
+            "answer": "True. A powerful driver exists to find the ideal compromise between high porosity and strong host\u9225\u63fcuest interactions over a wide range of pressures in MOFs.",
+            "type": "true_false"
+        },
+        {
+            "question": "What strategy was used to modulate the porosity in this series of isoreticular octacarboxylate MOFs?",
+            "answer": "The strategy used was selective elongation of metal-organic cages by varying the length and nature of the heteropolyaromatic cores of the linkers from MFM-180 to MFM-185.",
+            "type": "factual"
+        },
+        {
+            "question": "How does the CH4 uptake at low pressure change with the extension of the linker across the MOF series?",
+            "answer": "Extension of the linker causes no uptake loss in the low-pressure region for CH4 adsorption, and both gravimetric and volumetric uptakes are simultaneously enhanced at high pressure.",
+            "type": "reasoning"
+        }
+    ]
+}

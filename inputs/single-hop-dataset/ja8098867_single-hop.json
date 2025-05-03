@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of synthesizing metal complexes of cinchonine?",
+      "answer": "The purpose is to use them as chiral building blocks for the construction of novel helical nanotubular architectures and chiral bimetallic coordination polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the two complexes formed by the reaction of cinchonine with aluminum derivatives?",
+      "answer": "(CN)2AlX where X = Cl (1a) and Me (1b).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of complex 1a involves the use of Me2AlCl.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of complex 1a when synthesized?",
+      "answer": "Approximately 82%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is complex 1b different from 1a in terms of synthesis?",
+      "answer": "Complex 1b is synthesized using Me3Al instead of Me2AlCl.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystallization solvent for 1a is toluene.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ZnCl2 in the synthesis of complex 2?",
+      "answer": "ZnCl2 is used to coordinate to the quinoline N centers of complex 1a, forming a helical 1D coordination polymer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The helical pitch of complex 2 is 13.86 Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of the solid product 1a' after toluene removal?",
+      "answer": "1.74 m2g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystallization of 1b from Me-THF does not affect the supramolecular architecture of the resulting framework.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the enantiomeric enrichment achieved after crystallization of 1b from Me-THF?",
+      "answer": "Approximately 7% ee.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The channels in the structures of 1a and 1b are filled with solvent molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using cinchonine-based metalloligands in the construction of chiral networks?",
+      "answer": "They offer a new level of tailorability in the design of chiral networks by implementing chiral metal−organic complexes as bridging ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The handedness of 1a-derived helices is an intrinsic property of chiral 1a.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the helical structure formed by 1a and ZnCl2?",
+      "answer": "It demonstrates the utility of cinchonine-based metalloligands in constructing chiral coordination polymers with potential applications in enantioselective separations and catalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 1b results in a yield of approximately 86%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystallization solvent for complex 1b?",
+      "answer": "THF.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The reaction of Ti(OiPr)4 with cinchonine resulted in a complex mixture that was difficult to separate.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of noncovalent interactions in the self-assembly of cinchonine-based metalloligands?",
+      "answer": "Noncovalent interactions drive the self-assembly of cinchonine-based metalloligands into novel helical nanotubular architectures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of complex 2 involves the slow addition of ZnCl2 to a solution of 1a in THF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

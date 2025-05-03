@@ -1,0 +1,174 @@
+{
+  "materials": [
+    {
+      "material": "5-azido-1H-tetrazole (1)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "cyanogen bromide",
+              "amount": "530 mg",
+              "molar_amount": "5 mmol"
+            },
+            {
+              "chemical": "sodium azide",
+              "amount": "650 mg",
+              "molar_amount": "10 mmol"
+            },
+            {
+              "chemical": "HCl",
+              "amount": "5 mL",
+              "molar_amount": "0.5 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "water",
+              "amount": "15 mL"
+            },
+            {
+              "solvent": "MeOH",
+              "amount": "5 mL"
+            }
+          ],
+          "temperature": "low temperatures",
+          "time": "2 h",
+          "equipment": "ice bath",
+          "yield": "not specified"
+        }
+      ]
+    },
+    {
+      "material": "hydrazinium 5-azidotetrazolate (2)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "5-azido-1H-tetrazole (1)",
+              "amount": "555 mg",
+              "molar_amount": "5 mmol"
+            },
+            {
+              "chemical": "hydrazine solution in THF",
+              "amount": "5.5 mL",
+              "molar_amount": "1 M"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "THF",
+              "amount": "20 mL"
+            },
+            {
+              "solvent": "methanol",
+              "amount": "dropwise until clear solution"
+            }
+          ],
+          "temperature": "45 °C",
+          "time": "until crystallization",
+          "equipment": "not specified",
+          "yield": "64 %",
+          "mp": "136 °C (dec.)",
+          "ir": "specified",
+          "raman": "specified",
+          "nmr_1h": "7.07 ppm",
+          "nmr_13c": "158.1 ppm",
+          "nmr_15n": "specified",
+          "ms": "m/z (FAB-): 110",
+          "ea": "not determinable",
+          "sensitivity_tests": {
+            "impact_sensitivity": "< 1 J",
+            "friction_sensitivity": "< 5 N",
+            "electrostatic_sensitivity": "5 mJ"
+          }
+        }
+      ]
+    },
+    {
+      "material": "ammonium 5-azidotetrazolate (3)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "5-azido-1H-tetrazole (1)",
+              "amount": "555 mg",
+              "molar_amount": "5 mmol"
+            },
+            {
+              "chemical": "ammonia solution",
+              "amount": "2 mL"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "water",
+              "amount": "10 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "until solvent removal",
+          "equipment": "reduced pressure",
+          "yield": "81 %",
+          "mp": "157 °C (dec.)",
+          "ir": "specified",
+          "raman": "specified",
+          "nmr_1h": "7.08 ppm",
+          "nmr_13c": "159.8 ppm",
+          "nmr_15n": "specified",
+          "ms": "m/z (FAB-): 110",
+          "ea": "not determinable",
+          "sensitivity_tests": {
+            "impact_sensitivity": "< 1 J",
+            "friction_sensitivity": "< 5 N",
+            "electrostatic_sensitivity": "50 mJ"
+          }
+        }
+      ]
+    },
+    {
+      "material": "aminoguanidinium 5-azidotetrazolate (4)",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "chemical": "aminoguanidinium bicarbonate",
+              "amount": "340 mg",
+              "molar_amount": "2.5 mmol"
+            },
+            {
+              "chemical": "5-azidotetrazole (1)",
+              "amount": "258 mg",
+              "molar_amount": "2.5 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "water",
+              "amount": "10 mL"
+            }
+          ],
+          "temperature": "45 °C",
+          "time": "until CO2 release stops",
+          "equipment": "not specified",
+          "yield": "95 %",
+          "mp": "100 °C, 159 °C (dec.)",
+          "ir": "specified",
+          "raman": "specified",
+          "nmr_1h": "specified",
+          "nmr_13c": "specified",
+          "nmr_15n": "specified",
+          "ea": "specified",
+          "sensitivity_tests": {
+            "impact_sensitivity": "< 1 J",
+            "friction_sensitivity": "7 N",
+            "electrostatic_sensitivity": "40 mJ"
+          }
+        }
+      ]
+    }
+  ]
+}

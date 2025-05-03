@@ -1,0 +1,230 @@
+{
+  "materials": [
+    {
+      "material": "tren(CAM)3",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "tris(2-aminoethyl)amine",
+            "amount": "0.5 equivalent"
+          },
+          {
+            "chemical": "Bn2CAM-thiaz",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "Bn-1,2-HOPO-thiaz",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "Bn-Me-3,2-HOPO-thiaz",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "Fe(acac)3",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "KOH",
+            "amount": "stoichiometric"
+          },
+          {
+            "chemical": "methanol",
+            "solvent": true
+          },
+          {
+            "chemical": "diethyl ether",
+            "solvent": true
+          }
+        ],
+        "equipment": [
+          "N2 atmosphere"
+        ],
+        "yield": "Good yields",
+        "time": "Overnight for some steps",
+        "washing_method": "Extracted with 1 M NaOH, dried over Na2SO4",
+        "drying_method": "Evaporated to dryness",
+        "recrystallization_solvents": [
+          "methanol",
+          "diethyl ether"
+        ]
+      }
+    },
+    {
+      "material": "tren(CAM)2(1,2-HOPO)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "Bn2-2,3-CAM-thiaz",
+            "amount": "2 equivalents"
+          },
+          {
+            "chemical": "tris(2-aminoethyl)amine",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "Bn-1,2-HOPO-thiaz",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "HCl:CH3COOH",
+            "solvent": true
+          },
+          {
+            "chemical": "Fe(acac)3",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "KOH",
+            "amount": "3 equivalents"
+          },
+          {
+            "chemical": "methanol",
+            "solvent": true
+          },
+          {
+            "chemical": "diethyl ether",
+            "solvent": true
+          }
+        ],
+        "equipment": [
+          "N2 atmosphere"
+        ],
+        "yield": "62% for protected ligand, 68% for deprotected ligand, 81% for iron complex",
+        "time": "Overnight for some steps",
+        "washing_method": "Extracted with 1 M NaOH, dried over Na2SO4",
+        "drying_method": "Evaporated to dryness",
+        "recrystallization_solvents": [
+          "methanol",
+          "diethyl ether"
+        ]
+      }
+    },
+    {
+      "material": "tren(CAM)(1,2-HOPO)2",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "Bn-tren(CAM)2(1,2-HOPO)",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "HCl:CH3COOH",
+            "solvent": true
+          },
+          {
+            "chemical": "Fe(acac)3",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "KOH",
+            "amount": "stoichiometric"
+          },
+          {
+            "chemical": "methanol",
+            "solvent": true
+          },
+          {
+            "chemical": "diethyl ether",
+            "solvent": true
+          }
+        ],
+        "equipment": [
+          "N2 atmosphere"
+        ],
+        "yield": "59% for protected ligand, 67% for deprotected ligand, 70% for iron complex",
+        "time": "Overnight for some steps",
+        "washing_method": "Extracted with 1 M NaOH, dried over Na2SO4",
+        "drying_method": "Evaporated to dryness",
+        "recrystallization_solvents": [
+          "methanol",
+          "diethyl ether"
+        ]
+      }
+    },
+    {
+      "material": "tren(CAM)2(Me-3,2-HOPO)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "Bn-tren(CAM)2(Me-3,2-HOPO)",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "HCl:CH3COOH",
+            "solvent": true
+          },
+          {
+            "chemical": "Fe(acac)3",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "KOH",
+            "amount": "stoichiometric"
+          },
+          {
+            "chemical": "methanol",
+            "solvent": true
+          },
+          {
+            "chemical": "diethyl ether",
+            "solvent": true
+          }
+        ],
+        "equipment": [
+          "N2 atmosphere"
+        ],
+        "yield": "77% for protected ligand, 73% for deprotected ligand, 80% for iron complex",
+        "time": "Overnight for some steps",
+        "washing_method": "Extracted with 1 M NaOH, dried over Na2SO4",
+        "drying_method": "Evaporated to dryness",
+        "recrystallization_solvents": [
+          "methanol",
+          "diethyl ether"
+        ]
+      }
+    },
+    {
+      "material": "tren(CAM)(Me-3,2-HOPO)2",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "chemical": "Bn-tren(CAM)(Me-3,2-HOPO)2",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "HCl:CH3COOH",
+            "solvent": true
+          },
+          {
+            "chemical": "Fe(acac)3",
+            "amount": "1 equivalent"
+          },
+          {
+            "chemical": "KOH",
+            "amount": "stoichiometric"
+          },
+          {
+            "chemical": "methanol",
+            "solvent": true
+          },
+          {
+            "chemical": "diethyl ether",
+            "solvent": true
+          }
+        ],
+        "equipment": [
+          "N2 atmosphere"
+        ],
+        "yield": "65% for protected ligand, 88% for deprotected ligand, 85% for iron complex",
+        "time": "Overnight for some steps",
+        "washing_method": "Extracted with 1 M NaOH, dried over Na2SO4",
+        "drying_method": "Evaporated to dryness",
+        "recrystallization_solvents": [
+          "methanol",
+          "diethyl ether"
+        ]
+      }
+    }
+  ]
+}

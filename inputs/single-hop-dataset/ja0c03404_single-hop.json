@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the net-clipping approach described in the text?",
+      "answer": "The main goal of the net-clipping approach is to deduce the topology of metal–organic frameworks (MOFs) assembled from organic ligands of low symmetry, specifically those containing zigzag ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the net-clipping approach work for predicting the topologies of MOFs?",
+      "answer": "The net-clipping approach works by rational deconstruction of edge-transitive nets comprising higher-connected molecular building blocks (MBBs), specifically by splitting 4-connected (4-c) nodes into two 3-connected (3-c) nodes and then clipping their two diagonally connecting groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The net-clipping approach can only be applied to MOFs with square-like 4-c MBBs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of applying net-clipping to the 17 edge-transitive nets containing square-like 4-c MBBs?",
+      "answer": "Applying net-clipping to the 17 edge-transitive nets containing square-like 4-c MBBs led to the generation of 10 nets with different underlying topologies.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many new MOFs were synthesized using the net-clipping approach, and what was unique about them?",
+      "answer": "Three new MOFs were synthesized using the net-clipping approach, each exhibiting the deduced topology unique to the approach.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the presence of a 6-cycle in the edge-transitive nets regarding net-clipping?",
+      "answer": "The presence of a 6-cycle in the edge-transitive nets signifies a structural feature that frustrates the net clipping in a fully zigzag fashion, making it challenging to apply the approach.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The net-clipping approach has been experimentally validated.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of 2-fluorobenzoic acid in the synthesis of Tb-fcu-3,3'-BPDC?",
+      "answer": "2-fluorobenzoic acid acted as a modulator in the synthesis of Tb-fcu-3,3'-BPDC, enabling the formation of the hexanuclear RE MBB in the MOF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: All derived nets from the net-clipping approach can be clipped into other nets.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of net-clipping the 'nbo' topology?",
+      "answer": "Net-clipping the 'nbo' topology resulted in the 'sql' topology.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The net-clipping approach can predict the formation of 2D nets from 3D nets.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system of the Cu-sql-3,3'-ABDC MOF?",
+      "answer": "The crystal system of the Cu-sql-3,3'-ABDC MOF was monoclinic.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the coordination environment in Tb-fcu-3,3'-BPDC compare to that in ftw-MOF-BPTC?",
+      "answer": "In Tb-fcu-3,3'-BPDC, the coordination environment of 4 carboxylates in the horizontal plane of the cluster is chelating a single atom, while in ftw-MOF-BPTC, it is bridging two metal atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The net-clipping approach is limited to predicting the topologies of MOFs with zigzag ligands only.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of DMF in the synthesis of Cu-sql-3,3'-ABDC?",
+      "answer": "DMF (N,N'-dimethylformamide) was used as a solvent in the solvothermal conditions for the synthesis of Cu-sql-3,3'-ABDC.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The net-clipping approach has contributed to the rational design of MOFs by providing insights into the assembly of less-symmetric ligands.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using single-crystal X-ray diffraction (SCXRD) in the study?",
+      "answer": "Single-crystal X-ray diffraction (SCXRD) was significant for determining the crystal structures of the synthesized MOFs, validating the predicted topologies from the net-clipping approach.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The net-clipping approach can predict the formation of MOFs with distorted structures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using 2-fluorobenzoic acid in the synthesis of Tb-fcu-3,3'-BPDC?",
+      "answer": "2-fluorobenzoic acid was used as a modulator to enable the formation of the hexanuclear RE MBB in Tb-fcu-3,3'-BPDC.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The net-clipping approach has limitations in predicting MOF structures due to the presence of 6-cycles in some edge-transitive nets.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

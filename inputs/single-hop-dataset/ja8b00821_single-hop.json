@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of the study described in the text?",
+      "answer": "The study aims to report experimental and theoretical evidence for a rare type I dyotropic rearrangement involving a [1,2]-alkene shift, leading to the regio- and stereospecific ring contraction of bromocycloheptenes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the enantiomeric ratios of the compounds?",
+      "answer": "Chiral GC analysis was used to determine the enantiomeric ratios of the compounds.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of silica in the rearrangement reaction of cycloheptenes to cyclohexenes?",
+      "answer": "Silica acted as a catalyst to accelerate the rearrangement reaction of cycloheptenes to cyclohexenes without changing the stereoselectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The rearrangement reaction to form cyclohexenes was observed to be faster in benzene-d6 compared to chloroform-d.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for the density functional theory (DFT) calculations?",
+      "answer": "The M06-2X functional with the 6-31G(d) basis set and the SMD solvation model for CHCl3 were used for the DFT calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the absolute configuration of the major enantiomer of compound 3d determined?",
+      "answer": "The absolute configuration of the major enantiomer of compound 3d was determined by X-ray crystallography using the crystalline sponge method.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the effect of adding a radical scavenger (BHT) to the rearrangement reaction?",
+      "answer": "Adding a radical scavenger (BHT) to the rearrangement reaction did not change the reaction profile, indicating that a radical pathway was not involved.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction with zinc(II) chloride produced a significant amount of a different diastereoisomer as a side product.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of performing DFT calculations on compound 2a?",
+      "answer": "DFT calculations on compound 2a were performed to investigate whether a concerted uncatalyzed dyotropic rearrangement is plausible and to understand the mechanism of the rearrangement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The use of Lewis acids led to poorer selectivity in the rearrangement reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the rearrangement reaction when performed with Brønsted acids?",
+      "answer": "The rearrangement reaction could also occur with Brønsted acids, such as acetic acid, although at a very slow rate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction proceeds through a nonclassical carbocation–anion pair.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of zinc(II) chloride in the rearrangement reaction?",
+      "answer": "Zinc(II) chloride acted as a Lewis acid catalyst, significantly accelerating the rearrangement reaction and affecting the selectivity by producing a side product.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction was enantiospecific when uncatalyzed.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the crystalline sponge method in this study?",
+      "answer": "The crystalline sponge method was significant for determining the absolute configuration of the major enantiomer of compound 3d using only a small amount of compound.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The reaction's selectivity was dependent on the solvent used.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of using catalytic amounts of Lewis acids in the rearrangement reaction?",
+      "answer": "Using catalytic amounts of Lewis acids in the rearrangement reaction reduced the rate of reaction but still allowed the reaction to proceed, albeit at a much reduced rate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction followed a stepwise mechanism under Lewis acid catalysis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the reaction when conducted in the presence of a radical scavenger?",
+      "answer": "When conducted in the presence of a radical scavenger, the reaction profile did not change, indicating that a radical pathway was not involved.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction was slower in benzene-d6 compared to chloroform-d.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of CAU-17?",
+      "answer": "[Bi9(C9H3O6)9(H2O)9]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of CAU-17?",
+      "answer": "trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many crystallographically independent channels are there in CAU-17?",
+      "answer": "five",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of CAU-17?",
+      "answer": "P3̅ (No. 147)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to confirm the unit cell parameters of CAU-17?",
+      "answer": "Rotation Electron Diffraction (RED)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the reason for the discrepancies in the cell parameters a and b as determined from the hk0 plane from RED data?",
+      "answer": "The apparent reflection condition of h - k = 3n for hk0 reflections, which is not a reflection condition of any known space group, except in rhombohedral lattice.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is there nonmerohedral twinning present in CAU-17?",
+      "answer": "No, nonmerohedral twinning was eliminated as a possibility, suggesting that merohedral twinning was the likely reason for complications in structure determination.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does CAU-17 contain disordered guest species in its pores?",
+      "answer": "Yes, methanol and water molecules are disordered in the pores of CAU-17.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was SQUEEZE applied on the diffraction data of CAU-17 to remove unaccounted electron density from disordered guest species?",
+      "answer": "No, due to the merohedral twinning present in all examined crystals, SQUEEZE could not be applied.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the synthesis of CAU-17 use methanol as a solvent?",
+      "answer": "Yes, methanol was used as a solvent in the synthesis of CAU-17.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the motivation behind the synthesis experiments of CAU-17?",
+      "answer": "The synthesis experiments were inspired by previous reports on bismuth carboxylates, particularly the presence of short-lived crystalline intermediate phases during hydrothermal synthesis and the formation of CAU-7 under short reaction times in methanol.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the temperature during the X-ray diffraction experiment of CAU-17?",
+      "answer": "150 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the observed formula weight of CAU-17?",
+      "answer": "434.11",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is CAU-17 sensitive to electron beams?",
+      "answer": "Yes, CAU-17 crystals are electron beam sensitive.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the structure of CAU-17 solved using direct methods from single crystal X-ray diffraction data?",
+      "answer": "Yes, the structure was solved by direct methods from single crystal X-ray diffraction data.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the reason for the high R-values in the refinement of CAU-17's crystal structure?",
+      "answer": "The high R-values were due to significant beam damage to the crystal throughout data acquisition and the presence of disordered guest species in the pores that were not accounted for in the crystal structure model.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed and calculated loss of water and methanol molecules per Bi3+ cation in CAU-17 according to thermogravimetric analysis?",
+      "answer": "The observed loss was 15.56%, while the calculated loss was 17.14%.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of CAU-17 aim to discover novel crystalline structures that form under short reaction times?",
+      "answer": "Yes, the synthesis aimed to discover novel crystalline structures that are often overlooked due to the narrow time span in which they form under solvothermal conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

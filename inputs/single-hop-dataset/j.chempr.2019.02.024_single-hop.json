@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using a Quantum Design 7 Tesla SQUID-VSM system?",
+      "answer": "For magnetic susceptibility measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the modulation amplitude in ESR spectra recording?",
+      "answer": "It is a parameter set during the recording of ESR spectra, specifically set to 0.4 G in this work.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why was DSC performed under N2 gas?",
+      "answer": "To prevent oxidation or other reactions that could occur if the sample were exposed to air during the thermal analysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic behavior of sample 3 more like superparamagnetism or ferromagnetism?",
+      "answer": "Superparamagnetism.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The total pore volume of sample 2 was calculated using the ASiQwin software.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the estimated critical temperature for the magnetic ordering of material 2?",
+      "answer": "465 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the high-temperature part fitting of the temperature-dependent 1/χM of sample 1?",
+      "answer": "Curie-Weiss law.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Brillouin function was used to fit M(H) curves at 2 K for samples 2 and 3.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of sealing the powder sample in a plastic capsule?",
+      "answer": "To prevent contamination and ensure accurate magnetic susceptibility measurements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic susceptibility was measured with an applied field of either 10 Oe or 1000 Oe.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the modulation frequency set for the ESR spectra recording?",
+      "answer": "100 kHz",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic saturation of the ferromagnetic component for sample 2 was fitted using the Brillouin function.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the microwave power setting for the ESR spectra recording?",
+      "answer": "1 mW",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why was the sample activated and outgassed at 120 ºC before gas sorption measurements?",
+      "answer": "To remove any adsorbed substances or moisture that could interfere with accurate measurement of gas sorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The X-ray intensity data of [CN6CP]K (1a) were measured using a four circles goniometer Kappa geometry.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using a Soxhlet extractor with acetonitrile for the samples?",
+      "answer": "To extract the samples thoroughly before activation and outgassing, ensuring they are clean for accurate gas sorption measurements.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The shortest distance between C of the cation [N(CH3)4]+ and N of the anion [CN6CP]·− in the crystal structure of [CN6CP][Me4N] is 3.56 Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the scan rate for the DSC performed on the samples?",
+      "answer": "5 K·min-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic susceptibility measurements were conducted over a temperature range of 2 to 380 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Why was the data corrected for diamagnetic contribution from sample holders and samples themselves?",
+      "answer": "To ensure accurate magnetic measurements by removing the influence of diamagnetic materials that do not contribute to the magnetic properties being studied.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

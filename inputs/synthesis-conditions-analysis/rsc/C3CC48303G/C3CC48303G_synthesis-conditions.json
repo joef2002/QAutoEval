@@ -1,0 +1,48 @@
+{
+  "materials": [
+    {
+      "name": "Clusters 1 and 2",
+      "synthesis_conditions": {
+        "solvents": "CH2Cl2",
+        "amount_of_solvent": "30 mL",
+        "chemicals_used": [
+          "[Et4N]2[SFe3(CO)9]",
+          "[Cu(MeCN)4][BF4]",
+          "dppm or dppe"
+        ],
+        "ratio": "1 : 2 : 1",
+        "temperature": "ice/water bath",
+        "time": "1 h for 1, 3 h for 2",
+        "washing_method": "deionized water",
+        "extraction_solvent": "CH2Cl2",
+        "recrystallization_solvent": "Hexanes/Et2O/CH2Cl2",
+        "yield": "53% for 1, 55% for 2"
+      }
+    },
+    {
+      "name": "Polymer 3",
+      "synthesis_conditions": {
+        "method_1": {
+          "starting_material": "2",
+          "solvents": "MeCN",
+          "amount_of_solvent": "5.0 mL",
+          "additional_solvents": "Hexanes/THF",
+          "yield": "83% based on 2"
+        },
+        "method_2_vapochemical_reaction": {
+          "starting_material": "2",
+          "exposure_to_vapor": "MeCN vapor for 1 day",
+          "color_change": "brownish-black to reddish-brown"
+        },
+        "method_3_mechanochemical_reaction": {
+          "starting_material": "2",
+          "procedure": "ground with one drop of MeCN"
+        },
+        "conversion_of_3_to_2": {
+          "starting_material": "3",
+          "solvents_for_grinding": ["CH2Cl2", "THF"]
+        }
+      }
+    }
+  ]
+}

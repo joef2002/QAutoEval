@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the lethal dose IDLH concentration of nitric oxide?",
+      "answer": "100 ppm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using MOFs for gas delivery in organic reactions?",
+      "answer": "MOFs can serve a dual role as a gas cargo vehicle and a catalyst, leading to product formation with yields similar to reactions employing pure gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystallinity of Mg2(DOBDC) preserved after CO exposure and utilization in aminocarbonylation reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO adsorption capacity of Co2(DOBDC) at 1.2 bar (298 K)?",
+      "answer": "5.95 mmol g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can Co2(DOBDC) be recycled without sacrificing product yield after being used as a CO delivery vessel?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What reaction was used as a proof-of-principle for the developed approach using MOFs for gas delivery?",
+      "answer": "Aminocarbonylation reaction to synthesize thalidomide",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the yield of thalidomide using CO@Mg2(DOBDC) practically identical to the one obtained with CO gas?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water in the aromatization reaction using NO@Co2(DOBDC)?",
+      "answer": "Water vapor can complete the release of coordinated NO molecules from the framework through water-to-nitric oxide exchange.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the structural integrity of Co2(DOBDC) preserved after nitric oxide exposure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of 2-amino-5-chlorobenzophenone using CO@Co2(DOBDC) in the carbonylative Suzuki–Miyaura coupling reaction?",
+      "answer": "45%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of both oxygen and water significantly affect the yield in the aromatization reaction using NO@Co2(DOBDC)?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO binding energy to the metal center in Mg2(DOBDC)?",
+      "answer": "40.3 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can CO@Pd-Co2(DOBDC) framework serve as both a catalyst and reagent carrier?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the product in the aromatization reaction using NO gas and air?",
+      "answer": "97%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the yield of 2-amino-5-chlorobenzophenone higher when using CO gas compared to CO@MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IDLH concentration of carbon monoxide?",
+      "answer": "1200 ppm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the addition of water to the aromatization reaction using NO@Co2(DOBDC) increase the yield?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of oxygen in the aromatization reaction using NO@Co2(DOBDC)?",
+      "answer": "Oxygen significantly accelerates the reaction and decreases the reaction time.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the crystallinity of Co2(DOBDC) preserved after being used as a NO delivery vessel in the aromatization reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of thalidomide using CO@Co2(DOBDC) in the aminocarbonylation reaction?",
+      "answer": "67%",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal in developing luminescent materials according to the text?",
+      "answer": "The main goal is to develop universal stimuli-responsive materials capable of emitting a broad spectrum of colors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What stimuli does NKU-128 respond to?",
+      "answer": "NKU-128 responds to thermo-, piezo-, and solvato-fluoro-chromism.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the flexible MOF skeleton in NKU-128?",
+      "answer": "The flexible MOF skeleton provides the driving force to stimulate and finetune the conformational change of the 3-TPPA chromophore and ensures the self-reversibility of the material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is NKU-128 capable of reversible color change under harsh stimuli conditions?",
+      "answer": "Yes, NKU-128 is capable of reversible color change under harsh stimuli conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the linear correlation of the emission maximum with stimulus in NKU-128?",
+      "answer": "The linear correlation signifies that NKU-128 demonstrates a quantitative dependence of its emission color on the applied stimulus, highlighting its potential as a fluorescent thermometer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the chromophore used in NKU-128?",
+      "answer": "The chromophore used in NKU-128 is tri(4-(pyridine-3-yl)phenyl)amine (3-TPPA).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does NKU-128 exhibit solvato-fluoro-chromism?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the emission color change range of NKU-128 under different stimuli?",
+      "answer": "The emission color change range of NKU-128 under different stimuli is from 430 to 585 nm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can NKU-128's emission color be tuned as a linear function of stimulus?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the 2D dynamic coordination space in NKU-128?",
+      "answer": "The 2D dynamic coordination space amplifies and regulates the luminescence response of the 3-TPPA chromophore to stimuli through coupled structural transformations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission color tunability of NKU-128 attributed solely to the 3-TPPA chromophore?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the photoluminescence quantum yield (ΦF) of NKU-128 at room temperature?",
+      "answer": "The photoluminescence quantum yield (ΦF) of NKU-128 at room temperature is 15.58%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does NKU-128's structure change under high pressure?",
+      "answer": "Under high pressure, NKU-128's structure undergoes smooth and fine-scale structural deformation, with the unit cell deforming anisotropically.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NKU-128's fluorescence response to pressure exhibit a linear relationship?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the absolute sensitivity in wavelength shift for NKU-128 under pressure?",
+      "answer": "The absolute sensitivity in wavelength shift for NKU-128 under pressure is 18.75 nm GPa^-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the solvato-fluoro-chromic behavior of NKU-128 nonlinear?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does solvent polarity affect NKU-128's solvato-fluoro-chromism?",
+      "answer": "Solvent polarity affects NKU-128's solvato-fluoro-chromism by strengthening host-guest interactions, leading to conformational changes in the 3-TPPA chromophore and resulting in a red shift.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the correlation coefficient between the maximum emission wavelengths and the empirical parameters of solvent polarity (ET(30)) values for NKU-128?",
+      "answer": "The correlation coefficient is 0.999.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can NKU-128 serve as a solid-state visual indicator of solvent polarity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes NKU-128's performance from that of the free 3-TPPA chromophore?",
+      "answer": "NKU-128 exhibits wide-range emission color tunability and a positive solvato-fluoro-chromism, unlike the free 3-TPPA chromophore which shows limited response and reversibility to stimuli.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

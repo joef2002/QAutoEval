@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the first organic-based magnet reported?",
+      "answer": "[Fe(C5Me5)2]C+[TCNE]C-",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ferrimagnetic ordering temperature of [V(TCNE)x]·z CH2Cl2?",
+      "answer": "Approximately 400 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Solvent-free thin films of [V(TCNE)x] exhibit different magnetic behavior compared to their amorphous form.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the structure of [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "Rietveld refinement of synchrotron powder diffraction data",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structures of [M(TCNE)2]·z CH2Cl2 (M = V, Mn, Fe) are well-known due to the availability of single crystals.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed Fe-N-C angle in the structure of [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "173(1) degrees",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the canting of octahedra in the structure of [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "It leads to undulation of the extended {FeII(TCNE)C-} plane, decreasing the deviation of the Fe-N-C angle from the preferred 180 degrees to the observed compromise value of 173 degrees.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [Fe(TCNE)2]·z CH2Cl2 structure contains only one form of reduced TCNE.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of spin coupling is dominant in the magnetic ordering of [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "Direct exchange between the S = 2 FeII and the S = 1/2 m4-[TCNE]C- ions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Heating paramagnetic [M{C4(CN)8}(NCMe)2]·z CH2Cl2 (M = Mn, Fe) does not affect its magnetic properties.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated magnitude of the pairwise spin coupling J in units of K for [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "17.7 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of room-temperature [V(TCNE)x]-based magnets likely involves VII ions bridged by m4-[TCNE]C- ligands within a layer.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of [C4(CN)8]2- affect the number of antiferromagnetically coupled [TCNE]C- species in [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "It decreases the number of antiferromagnetically coupled [TCNE]C- species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The observed M(H) value at 2 K and 9 T for [Fe(TCNE)2]·z CH2Cl2 is lower than expected for a spin-only S = 2 FeII center antiferromagnetically coupled to two S = 1/2 [TCNE]C- ions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed saturation magnetization of [Fe(TCNE)2]·z CH2Cl2 at 2 K and 9 T?",
+      "answer": "16 400 emu Oe mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of [FeII(TCNE)2]·z CH2Cl2 suggests that [V(TCNE)x] is amorphous with a local structural order prone to defects.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of m4-[C4(CN)8]2- ligands in the structure of [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "They interconnect the {FeII(TCNE)C-} layers and contribute to the canting of the FeN6 octahedra.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The IR spectrum of [Fe(TCNE)2]·z CH2Cl2 shows nCN absorptions only at 2221 cm-1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the preferred bonding angle of the sp-hybridized NC group to the Fe center in [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "180 degrees",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the observed canting of the octahedra affect the extended {FeII(TCNE)C-} plane in [Fe(TCNE)2]·z CH2Cl2?",
+      "answer": "It causes undulation of the plane, which decreases the deviation of the Fe-N-C angle from the preferred 180 degrees.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

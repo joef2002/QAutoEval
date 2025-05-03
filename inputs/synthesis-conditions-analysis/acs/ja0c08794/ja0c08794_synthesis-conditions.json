@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "name": "MFM-520",
+      "synthesis": {
+        "reagents": [
+          {
+            "name": "H4L (4,4′-bipyridine-2,6,2′,6′-tetracarboxylic acid)",
+            "source": "commercial suppliers",
+            "purity": "as received"
+          },
+          {
+            "name": "[Zn2(L)·4H2O]∞ (MFM-520·H2O)",
+            "source": "previously reported methods"
+          }
+        ],
+        "solvents": [],
+        "equipment": [],
+        "yield": "",
+        "time": "",
+        "temperature": "",
+        "pressure": "",
+        "washing_method": "",
+        "drying_method": "",
+        "characterization": []
+      },
+      "gas_adsorption_isotherms": {
+        "N2": {
+          "temperatures": ["273K", "283K", "298K", "318K"]
+        },
+        "CO2": {
+          "temperatures": ["273K", "283K", "298K", "303K", "308K", "318K"]
+        },
+        "SO2": {
+          "temperatures": ["273K", "283K", "288K", "293K", "298K", "303K", "308K", "313K", "318K"]
+        },
+        "water": {
+          "temperature": "298K"
+        }
+      },
+      "stability_tests": {
+        "boiling_water": {
+          "duration": ["24 hours", "1 week", "1 month"],
+          "result": "stable"
+        },
+        "sulfuric_acid": {
+          "pH": ["1", "2", "3", "4", "5"],
+          "result": "stable"
+        }
+      },
+      "thermal_analysis": {
+        "CO2_adsorption": {
+          "temperature": "298K",
+          "pressure": "1 bar"
+        },
+        "SO2_adsorption": {
+          "temperature": "298K",
+          "pressure": "1 bar"
+        }
+      },
+      "isosteric_heat_of_adsorption": {
+        "SO2": {
+          "range": "120.5 - 61.8 kJ/mol",
+          "temperature": "298K"
+        },
+        "CO2": {
+          "range": "37.1 - 48.8 kJ/mol",
+          "temperature": "298K"
+        }
+      },
+      "in_situ_infrared_spectroscopy": {
+        "CO2_adsorption": {
+          "temperature": "298K",
+          "pressure_range": "0.5% - 100%"
+        },
+        "SO2_adsorption": {
+          "temperature": "298K",
+          "pressure_range": "0.5% - 100%"
+        }
+      },
+      "inelastic_neutron_scattering_spectroscopy": {
+        "bare_MFM-520": {},
+        "D2O_loaded": {},
+        "CO2_loaded": {},
+        "SO2_loaded": {}
+      },
+      "iast_selectivity_analysis": {
+        "SO2_CO2": {
+          "temperatures": ["298K", "318K"],
+          "mixtures": ["1:1", "1:99"]
+        },
+        "SO2_N2": {
+          "temperatures": ["298K", "318K"],
+          "mixtures": ["1:1", "1:99"]
+        }
+      },
+      "conversion_of_captured_SO2": {
+        "product": "4-methoxy-N-morpholinobenzenesulfonamide",
+        "cycles_tested": 3,
+        "yield": "80%",
+        "reusability": "stable for three cycles"
+      }
+    }
+  ]
+}

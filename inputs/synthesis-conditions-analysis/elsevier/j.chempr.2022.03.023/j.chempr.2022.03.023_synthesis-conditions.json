@@ -1,0 +1,105 @@
+{
+  "materials": [
+    {
+      "material": "N,N'-bis(5-isophthalate)-1,4,5,8-naphthalenediimide (H4L)",
+      "synthesis_conditions": [
+        {
+          "step": "1",
+          "chemicals": [
+            {
+              "name": "naphthalene-1,4,5,8-tetracarboxylic acid dianhydride",
+              "amount": "2.6818 g",
+              "molarity": "10 mmol"
+            },
+            {
+              "name": "2-aminoterephthalic acid",
+              "amount": "3.6411 g",
+              "molarity": "20.1 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "60 mL"
+            }
+          ],
+          "procedure": "Naphthalene-1,4,5,8-tetracarboxylic acid dianhydride and 2-aminoterephthalic acid were added into a 100 mL round bottom flask and suspended in DMF. After stirring the mixture for 10 min, the solution was refluxed for 12 h. The resulting solution was cooled to room temperature slowly, and then added dropwise to a mixture of EtOH and water in an ice bath. The precipitate formed was collected by centrifugation, washed with fresh EtOH at least 9 times, and then dried under reduced pressure at 120 °C for 12 h.",
+          "temperature": "refluxed",
+          "time": "12 h",
+          "washing_method": "washed with fresh EtOH at least 9 times",
+          "drying_method": "dried under reduced pressure at 120 °C for 12 h"
+        }
+      ]
+    },
+    {
+      "material": "DGIST-4",
+      "synthesis_conditions": [
+        {
+          "step": "1",
+          "chemicals": [
+            {
+              "name": "Nd(NO3)3∙6H2O",
+              "amount": "13.15 mg",
+              "molarity": "0.03 mmol"
+            },
+            {
+              "name": "H4L",
+              "amount": "13.37 mg",
+              "molarity": "0.02 mmol"
+            },
+            {
+              "name": "imidazole",
+              "amount": "1.70 mg",
+              "molarity": "0.03 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "3 mL"
+            },
+            {
+              "name": "benzoic acid",
+              "amount": "200 mg",
+              "molarity": "1.64 mmol"
+            }
+          ],
+          "procedure": "Nd(NO3)3∙6H2O, H4L, and imidazole were dissolved in DMF respectively and sonicated for 30 min to obtain homogeneous solutions. Benzoic acid was added to the H4L solution. Then, all solutions were mixed in a 4 mL autoclavable vial and placed at 75, 85, 100, 120, and 150 °C for 3 days. The resulting crystals were washed with DMF (9 times) and THF (3 times), then dried under vacuum for a day.",
+          "temperature": "75, 85, 100, 120, and 150 °C",
+          "time": "3 days",
+          "washing_method": "washed with DMF (9 times) and THF (3 times)",
+          "drying_method": "dried under vacuum for a day"
+        }
+      ]
+    },
+    {
+      "material": "DGIST-5",
+      "synthesis_conditions": [
+        {
+          "step": "1",
+          "chemicals": [
+            {
+              "name": "Nd(NO3)3∙6H2O",
+              "amount": "13.15 mg",
+              "molarity": "0.03 mmol"
+            },
+            {
+              "name": "H4L",
+              "amount": "13.37 mg",
+              "molarity": "0.02 mmol"
+            },
+            {
+              "name": "DMF",
+              "amount": "3 mL"
+            },
+            {
+              "name": "formic acid",
+              "amount": "0.01 mL",
+              "molarity": "3.05 μmol"
+            }
+          ],
+          "procedure": "Nd(NO3)3∙6H2O and H4L were dissolved in DMF respectively and sonicated for 30 min to obtain homogeneous solutions. Then, the solutions were mixed in a 4 mL autoclavable vial. Formic acid was added dropwise to the mixture and the vial was placed at 85 °C for 3 days. The resulting crystals were washed with DMF (9 times) and THF (3 times). Due to the low stability of DGIST-5, solvent evacuated DGIST-5 was not obtained.",
+          "temperature": "85 °C",
+          "time": "3 days",
+          "washing_method": "washed with DMF (9 times) and THF (3 times)"
+        }
+      ]
+    }
+  ]
+}

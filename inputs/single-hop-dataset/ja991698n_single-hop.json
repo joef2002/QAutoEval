@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Assembly of a Three-Dimensional Polyknotted Coordination Polymer",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author for the article?",
+      "answer": "Neil R. Champness",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the publication date of the article?",
+      "answer": "May 3, 2000",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structure does the coordination polymer {[Cd2(4,4‘-pytz)3(μ-NO3)(NO3)3(MeOH)]}∞, 1, display?",
+      "answer": "A unique polyknotted structure",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How are the Cd(II) centers in the polymer described in the article connected?",
+      "answer": "Each Cd(II) center is coordinated by three pyridyl N-donors arranged in an approximate T-shaped geometry to form a ladder motif.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the MeOH solvent play in determining the structure of the polymer mentioned in the article?",
+      "answer": "The MeOH solvent is influential in determining the structure of the polymer.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon is exhibited by the coordination polymer described in the article?",
+      "answer": "Polycatenation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination polymer described in the article a polyrotaxane?",
+      "answer": "No, it is not a polyrotaxane because each ladder is not independent of the other interpenetrating ladders due to the linking NO3- bridges joining them together.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the difference between the complexes 1 and 3 mentioned in the article?",
+      "answer": "In complex 1, the ladders are connected through bridging NO3- anions, while in complex 3, the ladders are independent of each other and not connected through bridging NO3- anions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens when EtOH is used instead of MeOH in the synthesis of the polymer?",
+      "answer": "A simpler, noninterpenetrated, molecular ladder motif 2 is observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How are the ladders in the coordination polymer interconnected?",
+      "answer": "The ladders are interconnected perpendicularly by two other ladders.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the bridging NO3- anion in the structure of the coordination polymer?",
+      "answer": "The bridging NO3- anion links the Cd(II) centers at the intersections of one ladder to a Cd(II) center located at the corner of a square section of one of the perpendicularly interpenetrated ladders, linking all the ladders together.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination polymer described in the article the first example of its type of knotting in coordination polymers?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer described in the article exhibit polyrotaxanation?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the individual ladders in the coordination polymer independent of each other?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer described in the article a discrete molecular structure?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer form a three-dimensional polymeric network?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer described in the article constructed of multiple molecules?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer described in the article form a fused polyknotted array?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the phenomenon of polycatenation unique to the coordination polymer described in the article?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

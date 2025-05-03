@@ -1,0 +1,151 @@
+{
+  "materials": [
+    {
+      "name": "MOF-1004",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "8.0 mg"
+          },
+          {
+            "name": "H3BTE",
+            "amount": "10.0 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "60 µL"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "Washed with DMF three times per day for three days, then with anhydrous acetone three times per day for three days",
+        "drying_method": "Supercritical CO2 drying followed by evacuation for 10 h at 100 °C under 30 mTorr",
+        "yield": "Not specified",
+        "additional_information": "Needle shape single crystals were obtained as a second phase but couldn't be characterized due to poor diffraction."
+      }
+    },
+    {
+      "name": "MOF-1005",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "6.0 mg"
+          },
+          {
+            "name": "H3BBC",
+            "amount": "12.0 mg"
+          },
+          {
+            "name": "trifluoroacetic acid",
+            "amount": "60 µL"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "Washed with DMF three times per day for three days, then with anhydrous acetone three times per day for three days",
+        "drying_method": "Supercritical CO2 drying followed by evacuation for 10 h at 100 °C under 30 mTorr",
+        "yield": "74 wt % based on Zr"
+      }
+    },
+    {
+      "name": "MOF-177",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "Not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H3BTB",
+            "amount": "5.0 mg"
+          },
+          {
+            "name": "Zn(NO3)2·4H2O",
+            "amount": "20 mg"
+          }
+        ],
+        "time": "23 h",
+        "washing_method": "Washed with DMF three times per day for three days, then with chloroform three times per day for three days",
+        "drying_method": "Supercritical CO2 drying followed by evacuation for 10 h at 60 °C under 30 mTorr",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "UiO-66",
+      "synthesis_conditions": {
+        "temperature": "140 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "12.0 mg"
+          },
+          {
+            "name": "H2BDC",
+            "amount": "5.0 mg"
+          },
+          {
+            "name": "formic acid",
+            "amount": "3 mL"
+          }
+        ],
+        "time": "1 day",
+        "washing_method": "Washed with DMF three times per day for three days, then with acetone three times per day for three days",
+        "drying_method": "Evacuation for 10 h at 120 °C under 30 mTorr",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "UiO-67",
+      "synthesis_conditions": {
+        "temperature": "145 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "12.0 mg"
+          },
+          {
+            "name": "H2BPDC",
+            "amount": "7.0 mg"
+          },
+          {
+            "name": "formic acid",
+            "amount": "5 mL"
+          }
+        ],
+        "time": "1 day",
+        "washing_method": "Washed with DMF three times per day for three days, then with acetone three times per day for three days",
+        "drying_method": "Evacuation for 10 h at 100 °C under 30 mTorr",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

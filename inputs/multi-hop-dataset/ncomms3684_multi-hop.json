@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "question": "What are the two nitro-containing imidazolate ligands used to construct the NOF frameworks?",
+            "answer": "The two nitro-containing imidazolate ligands used are 2-nitroimidazole (2nIm) and 5-methyl-4-nitroimidazole (mnIm).",
+            "type": "factual"
+        },
+        {
+            "question": "How were the single crystals of NOF-1 prepared?",
+            "answer": "Single crystals of NOF-1 were prepared by dissolving 2-nIm and Zn(NO3)2\u8def6H2O in DMF and heating the solution to 100\u63b3C via microwave irradiation for 1 hour. The yield could be increased by further heating in a 100\u63b3C oven for 24 hours.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the key difference between the crystal structures of NOF-1 and NOF-2?",
+            "answer": "NOF-1 crystallizes in a cubic crystal system, creating a perfectly truncated octahedral sodalite cage, whereas NOF-2 crystallizes in a trigonal crystal system, exhibiting an elongated sodalite cage along the c axis.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Why did the cobalt analogue [Co(2nIm)2]n fail to release significant quantities of NO compared to the zinc-based NOF-1?",
+            "answer": "The cobalt center in [Co(2nIm)2]n has low-energy ligand field states that can deactivate the excited states localized on the nitro-functionalized ligands, disfavoring the photochemical NO release pathway. This highlights the importance of the choice of metal ion in constructing efficient photoactive frameworks.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the proposed advantage of assembling NO photodonors into porous coordination polymer structures compared to using them directly?",
+            "answer": "Assembling NO photodonors into porous coordination polymer structures provides spatial segregation between the donors, preventing aggregation-induced quenching of reactive excited states. This leads to a drastic increase in photoreactivity compared to using the photodonor ligands directly.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How were the NOF-1 microcrystals immobilized to create a cell stimulation platform?",
+            "answer": "The NOF-1 microcrystals were spin-cast onto a glass-bottomed culture dish and then embedded in a polydimethylsiloxane (PDMS) layer by spin-coating a pre-polymer/curing agent mixture. This created a biocompatible substrate with the crystals localized on the bottom part.",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to achieve precise and localized photoactivation of the NOF-1/PDMS substrates for NO delivery to cells?",
+            "answer": "Near-infrared two-photon laser scanning confocal microscopy was used to precisely photoactivate selected regions containing NOF-1 crystals. This allowed for localized NO delivery to the surrounding cells with high spatiotemporal resolution.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The NOF-1 microcrystals embedded in the PDMS substrate induced significant cytotoxicity in the cultured HEK293 cells compared to pristine PDMS.",
+            "answer": "False. Compared to pristine PDMS substrates, the presence of NOF-1 in the polymer layer did not induce any notable cytotoxicity in the HEK293 cells.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "True or False: The biological relevance of the NO released from photoactivated NOF-1 was demonstrated by observing an increase in intracellular calcium levels mediated by an NO-sensitive membrane protein.",
+            "answer": "True. The NO released from photoactivated NOF-1 reacted with the NO-sensitive TRPC5 ion channel in modified HEK293-TRPC5 cells, triggering its opening and leading to an influx of calcium ions and transient increase in intracellular calcium concentration.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "True or False: Irradiation of the control [Zn(MeIm)2]n crystals, which lack nitro groups, was able to induce an intracellular fluorescence increase in DAF-FM loaded cells.",
+            "answer": "False. Irradiation of the [Zn(MeIm)2]n crystals under identical photoactivation conditions did not induce any increase in intracellular DAF-FM fluorescence, confirming the role of the nitro groups in NO release.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "What is the chemical formula of NOF-1?",
+            "answer": "The chemical formula of NOF-1 is Zn(2nIm)2 or C6H4N6O4Zn.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the topology of the porous coordination frameworks formed by NOF-1 and NOF-2?",
+            "answer": "Both NOF-1 and NOF-2 form 3D porous coordination frameworks with sodalite (sod) topology.",
+            "type": "factual"
+        },
+        {
+            "question": "How many nitro functionalities are exposed in each sodalite cage of NOF-1 and NOF-2?",
+            "answer": "Twelve nitro functionalities are exposed in each sodalite cage of NOF-1 and NOF-2 without significant interaction with neighboring atoms.",
+            "type": "factual"
+        },
+        {
+            "question": "What percentage of nitro groups were converted to NO after 3 hours of light irradiation for NOF-1 and NOF-2?",
+            "answer": "After 3 hours of light irradiation, the conversion yield of nitro groups to NO was 50% for NOF-1 and 46% for NOF-2.",
+            "type": "factual"
+        },
+        {
+            "question": "Why does NOF-1 exhibit a moderately superior NO-releasing efficiency compared to NOF-2 under 300-600 nm light irradiation?",
+            "answer": "NOF-1 has better light absorption capacity in the 400-500 nm range compared to NOF-2 due to the nitro substitution position on the imidazole ring. This allows NOF-1 to more efficiently absorb light and release NO.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What gas analysis technique confirmed that NO was the only nitrogen oxide species released upon irradiation of NOF-1?",
+            "answer": "Gas chromatography-mass spectrometry (GC-MS) analysis confirmed that NO was the only nitrogen oxide species released after the irradiation of NOF-1, with no detection of NO2 or N2O4.",
+            "type": "factual"
+        },
+        {
+            "question": "How does the NO release from NOF-1 compare to the non-porous framework NOF-3 under the same irradiation conditions?",
+            "answer": "The amount of NO released from the non-porous NOF-3 (1.2 \u6e2dmol/mg after 3 hours) was significantly reduced compared to the porous NOF-1 under the same irradiation conditions. This supports the design strategy of achieving efficient NO release by constructing porous frameworks from NO photodonor building blocks.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The NO release from NOF powders can be instantly initiated by light irradiation and quickly terminated when the irradiation ceases.",
+            "answer": "True. NO is released instantly upon photoactivation of NOF powders and the production is immediately interrupted when the irradiation ceases, with NO concentration quickly dropping to trace levels.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "True or False: Heating NOF powders up to 200\u63b3C resulted in significant NO release.",
+            "answer": "False. Heating NOF powders up to 200\u63b3C did not result in significant NO release, confirming their thermal stability and that NO is produced exclusively through a photochemical process.",
+            "type": "true_or_false"
+        },
+        {
+            "question": "What fluorescent calcium indicator was used to monitor intracellular calcium concentration changes in the HEK293 and HEK293-TRPC5 cells?",
+            "answer": "Fluo-4 was used as the fluorescent calcium indicator to monitor intracellular calcium concentration changes in the HEK293 and HEK293-TRPC5 cells after photoactivation of NOF-1.",
+            "type": "factual"
+        },
+        {
+            "question": "What conformational change occurs in the TRPC5 ion channel upon reaction with the NO released from photoactivated NOF-1?",
+            "answer": "The NO released from photoactivated NOF-1 reacts with the TRPC5 ion channel, causing it to undergo a conformational change that opens the channel and allows an influx of extracellular calcium ions into the cell.",
+            "type": "reasoning"
+        }
+    ]
+}

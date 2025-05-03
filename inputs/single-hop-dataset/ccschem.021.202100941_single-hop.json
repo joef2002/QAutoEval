@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the hexagon-shaped A6L6 complex?",
+      "answer": "C360.67H456.67Cl2K12N64O144P4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for geometry optimizations in molecular modeling?",
+      "answer": "The dispersion-corrected semiempirical PM6-D3 method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the A6L6 hexagon and A4L4 square complexes interconvert?",
+      "answer": "Yes, interconversion between the A6L6 hexagon and A4L4 square complexes can be realized by solvent regulation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of [K([18]crown-6)]+ counterions in the structure of the A6L6 hexagon?",
+      "answer": "The [K([18]crown-6)]+ counterions form hydrogen bonds with the terminal nitro groups and the oxygen atoms of urea groups of the ligands.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to study the host-guest properties of the assemblies?",
+      "answer": "NMR, UV-vis, and fluorescence spectroscopy were utilized to study the host-guest properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the A4L4 square complex capable of selectively binding methylene blue from a mixture of guests?",
+      "answer": "Yes, the A4L4 square complex can selectively bind methylene blue from a mixture of guests.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main purpose of using the SQUEEZE function in PLATON?",
+      "answer": "The SQUEEZE function was employed to remove the contribution of electron density associated with disordered solvent and cations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How were the hydrogen bonds around the PO4^3- ions in the A6L6 hexagon characterized?",
+      "answer": "The hydrogen bonds around the PO4^3- ions in the A6L6 hexagon were characterized by distances and angles in the crystal structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the A6L6 hexagon complex show selectivity in encapsulating different guest molecules?",
+      "answer": "No, the A6L6 hexagon complex shows no selectivity in encapsulating different guest molecules.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of the A6L6 hexagon-shaped complex upon slow vapor diffusion of diethyl ether?",
+      "answer": "The yield of the A6L6 hexagon-shaped complex was more than 90% upon slow vapor diffusion of diethyl ether.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the A4L4 square complex?",
+      "answer": "The crystal system of the A4L4 square complex is triclinic.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Were the hydrogen atoms of water molecules included in the model for the A6L6 hexagon complex?",
+      "answer": "No, the hydrogen atoms of water molecules were not included in the model for the A6L6 hexagon complex.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in obtaining a reasonable model for the organic parts of the A6L6 hexagon complex?",
+      "answer": "The main challenge was the limited resolution of the data and substantial thermal motion, requiring extensive use of restraints.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was disorder in the 18-crown-6 moieties of the A4L4 square complex addressed?",
+      "answer": "Disorder in the 18-crown-6 moieties was addressed by modeling as disordered over two locations and applying thermal parameter restraints.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of the GRADE program in refining the structures of the complexes?",
+      "answer": "The GRADE program was used to generate a full set of bond distance and angle restraints for the organic ligands and 18-crown-6 moieties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the A6L6 hexagon and A4L4 square complexes exhibit crystallographic centrosymmetry?",
+      "answer": "Yes, both the A6L6 hexagon and A4L4 square complexes exhibited crystallographic centrosymmetry.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for data collection in X-ray crystallography?",
+      "answer": "Data collection was performed using a Bruker D8 Venture photon II diffractometer equipped with high-brilliance IμS Cu-Kα and MoKα sources.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the binding constants for guest molecules to the A6L6 hexagon complex determined?",
+      "answer": "The binding constants were determined by 1H NMR titrations using the Hill equation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the A6L6 hexagon complex able to encapsulate and release a desired guest by conversion from one host to another?",
+      "answer": "Yes, the A6L6 hexagon complex was able to encapsulate and release a desired guest by conversion from one host to another.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding regarding the solvent's role in the assembly of the complexes?",
+      "answer": "The main finding was that solvent plays an important role in directing the outcomes of anion-coordination-driven assembly processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

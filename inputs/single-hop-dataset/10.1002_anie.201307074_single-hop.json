@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular structure of carnosine used in the synthesis of ZnCar?",
+      "answer": "b-alanyl-l-histidine",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does the ZnCar framework exhibit compared to previous peptide-based MOFs?",
+      "answer": "The imidazole side chain of the histidine residue is deprotonated to afford Zn–imidazolate chains.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the surface area of ZnCar?",
+      "answer": "448 m2 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is ZnCar chemically stable in water?",
+      "answer": "Due to the Zn–imidazolate bonding similar to the ZIF family of porous materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the ZnCar framework upon removal of DMF?",
+      "answer": "It displays permanent porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the ZnCar framework adapt to MeOH and H2O guests?",
+      "answer": "Through the torsional flexibility of the main His-b-Ala chain while retaining rigidity conferred by the Zn–imidazolate chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of peptides in MOF synthesis?",
+      "answer": "Peptides act as connecting ligands with at least one amino and one carboxylic acid terminus that can coordinate metal ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is ZnCar·DMF stable in both organic solvents and water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZnCar lose its crystallinity upon desolvation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ZnCar framework rigid to guest loss?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZnCar exhibit a higher surface area after solvent removal?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can ZnCar adapt its structure in the presence of different guest molecules without breaking the 4:4 connectivity motif between Zn and carnosine?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the ZnCar framework exhibit a decrease in porosity after exposure to water?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of desolvated ZnCar?",
+      "answer": "448 m2 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What structural feature allows ZnCar to exhibit strong binding affinity for small molecules?",
+      "answer": "Its microporous structure with a specific surface area of 448 m2 g-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the ZnCar framework respond to the removal of DMF?",
+      "answer": "By displaying permanent porosity and a decrease in unit-cell volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ZnCar framework's adaptability to different guests due to the flexibility of the Zn–imidazolate chains?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the ZnCar framework to adapt its structure in the presence of MeOH and H2O?",
+      "answer": "The torsional flexibility of the main His-b-Ala chain and the rigidity of the Zn–imidazolate chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the ZnCar framework undergo a phase transition upon guest molecule removal?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption Qst value for CO2 in ZnCar at zero coverage?",
+      "answer": "49 kJ mol-1",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

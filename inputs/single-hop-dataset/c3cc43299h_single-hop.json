@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "CdC14H8SO7.44",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature was the sample of compound 1 heated to for the outgassing process?",
+      "answer": "473 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 1?",
+      "answer": "C 2/c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the X-ray diffraction reflections for compound 1 collected?",
+      "answer": "100 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of compound 1?",
+      "answer": "439.66",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum saturation capacity (Nmax1) for CO2 adsorption according to the DSLF model?",
+      "answer": "0.92 mmol/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the percentage yield of compound 1 after synthesis?",
+      "answer": "Approximately 60%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of compound 1 solved using direct methods?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 exhibit a moderate H2 uptake at 77 K and 1 atm?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the IAST selectivity of CO2/N2 for compound 1 higher at 298 K compared to 273 K?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the synthesis of compound 1 performed under solvothermal conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 have a BET surface area of exactly 100 m2/g?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the affinity coefficient (b1) for CO2 adsorption higher than that for N2 according to the DSLF model?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the heating rate used during the Thermogravimetric (TGA) data collection for compound 1?",
+      "answer": "10 °C/minute",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the first weight loss event during the TGA analysis of compound 1 attributed to?",
+      "answer": "Water removal",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of using a humidity generator during the XRD-DSC measurements?",
+      "answer": "To control the humidity of the atmosphere during the experiments",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Dual site Langmuir-Freundlich (DSLF) model in the study of compound 1?",
+      "answer": "To fit the single-component CO2 and N2 adsorption isotherms",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of water molecules in the pores of compound 1 affect its gas adsorption capacity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the isosteric heat of CO2 adsorption on compound 1 obtained from the virial equation?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the IAST predicted isotherms for a binary mixture of CO2 and N2?",
+      "answer": "To simulate the performance of compound 1 under a mixed component gas",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

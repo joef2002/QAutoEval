@@ -1,0 +1,44 @@
+{
+  "materials": [
+    {
+      "name": "NKU-111",
+      "synthesis_conditions": {
+        "temperature": "solvo-thermal reaction conditions not specified",
+        "solvents": [
+          "DMF",
+          "ethanol",
+          "water"
+        ],
+        "solvent_amounts": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": [
+          "Cd(NO3)2∙6H2O",
+          "PTA (p-phthalic acid)",
+          "tpt (2,4,6-tri(4-pyridinyl)-1,3,5-triazine)"
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "X-ray crystallographic analysis reveals crystallization in the space group P-3c1."
+      }
+    },
+    {
+      "name": "NKU-111⊃guest",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "solvent_amounts": "not specified",
+        "equipment": "not specified",
+        "chemicals_used": [
+          "electron-rich aromatics (naphthalene, phenanthrene, anthracene, pyrene, 9,10-benzophenanthrene, etc.)"
+        ],
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified",
+        "additional_information": "Electron-rich aromatic guests introduced during reactions with NKU-111. Guest-dependent colors obtained indicate successful encapsulation."
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the paper?",
+      "answer": "A Mixed Heavier Si=Ge Analogue of a Vinyl Anion",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the paper?",
+      "answer": "Paresh Kumar Majhi, Volker Huch, and David Scheschkewitz",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research in the paper?",
+      "answer": "The synthesis and isolation of a cyclic heteronuclear vinyl anion analogue with a Si=Ge bond, potassium silagermenide.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of potassium silagermenide?",
+      "answer": "KC8 reduction of germylene or digermene precursors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What were the products of the reactions with chlorosilane and chlorophospane?",
+      "answer": "The corresponding silyl- and phosphanyl-silagermenes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What did X-ray crystallographic analysis, UV/Vis spectroscopy, and DFT calculations reveal about the title compound?",
+      "answer": "A significant degree of p-conjugation between N=C and Si=Ge double bonds.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a low-coordinate silicon atom indicate in the 29Si NMR spectrum of 3·K(THF)?",
+      "answer": "It is strongly downfield shifted compared to germylene 1, indicating the presence of a low-coordinate silicon atom.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the potassium silagermenide 3·K(18-c-6) thermally stable even at 180°C?",
+      "answer": "The thermal stability is likely due to the nature of cation-anion interaction and the solvent effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the downfield signal at d = 142.9 in C6D6 indicate about the formation of the Si=Ge double bond?",
+      "answer": "It serves as an indication of the formation of the Si=Ge double bond due to its close proximity to the downfield resonance of the neutral NHC-stabilized silagermenylidene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the significant degree of p-conjugation between the N=C and Si=Ge double bonds in potassium silagermenide suggest?",
+      "answer": "It suggests that the silagermenide could also be regarded as a heavier analogue of a butadienide anion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of potassium silagermenide a result of KC8 reduction of germylene or digermene precursors?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the paper report the synthesis of a cyclic heteronuclear vinyl anion analogue without a Si=Ge bond?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the silyl- and phosphanyl-silagermenes products of reactions with chlorosilane and chlorophospane?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the potassium silagermenide 3·K(THF) synthesized by a method other than KC8 reduction?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the thermal stability of potassium silagermenide 3·K(18-c-6) at 180°C unexpected?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the downfield signal at d = 142.9 in C6D6 not indicate the formation of the Si=Ge double bond?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the significant degree of p-conjugation between the N=C and Si=Ge double bonds in potassium silagermenide not suggest it being a heavier analogue of a butadienide anion?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

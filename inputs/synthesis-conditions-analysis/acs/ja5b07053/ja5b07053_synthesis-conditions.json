@@ -1,0 +1,154 @@
+{
+  "materials": [
+    {
+      "name": "Al-soc-MOF-1",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "AlCl3·6H2O",
+              "amount": "29 mg",
+              "molar_amount": "0.015 mmol"
+            },
+            {
+              "name": "H4L1",
+              "amount": "7.1 mg",
+              "molar_amount": "0.01 mmol"
+            },
+            {
+              "solvents": [
+                {
+                  "name": "N,N-dimethylformamide (DMF)",
+                  "amount": "1 mL"
+                },
+                {
+                  "name": "acetonitrile (CH3CN)",
+                  "amount": "1 mL"
+                },
+                {
+                  "name": "nitric acid",
+                  "amount": "3.5 M, 0.5 mL"
+                }
+              ]
+            }
+          ],
+          "temperature": "130 °C",
+          "time": "12 h",
+          "equipment": "20 mL scintillation vial",
+          "atmosphere": "argon",
+          "yield": "Not specified",
+          "washing_method": "Washed with CH3CN",
+          "drying_method": "Air-dried",
+          "characterization_techniques": [
+            "FT-IR",
+            "PXRD",
+            "TGA",
+            "27Al NMR",
+            "XPS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al-soc-MOF-2",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "AlCl3·6H2O",
+              "amount": "29 mg",
+              "molar_amount": "0.015 mmol"
+            },
+            {
+              "name": "H4L2",
+              "amount": "7.6 mg",
+              "molar_amount": "0.01 mmol"
+            },
+            {
+              "solvents": [
+                {
+                  "name": "N,N-dimethylformamide (DMF)",
+                  "amount": "1 mL"
+                },
+                {
+                  "name": "acetonitrile (CH3CN)",
+                  "amount": "1 mL"
+                },
+                {
+                  "name": "nitric acid",
+                  "amount": "3.5 M, 0.5 mL"
+                }
+              ]
+            }
+          ],
+          "temperature": "130 °C",
+          "time": "12 h",
+          "equipment": "20 mL scintillation vial",
+          "atmosphere": "argon",
+          "yield": "Not specified",
+          "washing_method": "Washed with CH3CN",
+          "drying_method": "Air-dried",
+          "characterization_techniques": [
+            "FT-IR",
+            "PXRD",
+            "TGA",
+            "27Al NMR",
+            "XPS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Al-soc-MOF-3",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "chemicals_used": [
+            {
+              "name": "AlCl3·6H2O",
+              "amount": "29 mg",
+              "molar_amount": "0.015 mmol"
+            },
+            {
+              "name": "H4L3",
+              "amount": "8.1 mg",
+              "molar_amount": "0.01 mmol"
+            },
+            {
+              "solvents": [
+                {
+                  "name": "N,N-dimethylformamide (DMF)",
+                  "amount": "1 mL"
+                },
+                {
+                  "name": "acetonitrile (CH3CN)",
+                  "amount": "1 mL"
+                },
+                {
+                  "name": "nitric acid",
+                  "amount": "3.5 M, 0.3 mL"
+                }
+              ]
+            }
+          ],
+          "temperature": "130 °C",
+          "time": "12 h",
+          "equipment": "20 mL scintillation vial",
+          "atmosphere": "argon",
+          "yield": "Not specified",
+          "washing_method": "Washed with CH3CN",
+          "drying_method": "Air-dried",
+          "characterization_techniques": [
+            "FT-IR",
+            "PXRD",
+            "TGA",
+            "27Al NMR",
+            "XPS"
+          ]
+        }
+      ]
+    }
+  ]
+}

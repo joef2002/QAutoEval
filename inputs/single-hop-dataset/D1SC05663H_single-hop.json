@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary strategy used to design functional metal-organic frameworks (MOFs) with control over pore architecture?",
+      "answer": "Using metal-organic cages (MOCs) as preformed supermolecular building-blocks (SBBs).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is introducing chemical complexity into MOFs challenging with the 'one-pot' synthesis method?",
+      "answer": "Because it's difficult to predict the assembly outcome of multi-component mixtures which tend to crystallize as simple binary phases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MOFs from MOCs was first demonstrated using Rh24L24 octahedra.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the key feature of the MOCs used in the study based on their architecture?",
+      "answer": "They are based on a M4L4 lantern architecture.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to achieve the pairwise linking of Cu4L4 and Rh4L4 MOCs?",
+      "answer": "Preferential Rh-aniline coordination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis approach presented allows for the pre-programming of the positioning of multiple metal ions within a structurally well-defined porous material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of combining 1-Cu and 2-Rh in DMF?",
+      "answer": "A microcrystalline precipitate with a Cu:Rh ratio of 1:2 was isolated.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the stoichiometry of 1-Cu and 2-Rh affect the resulting MOF structure?",
+      "answer": "A change in MOC stoichiometry results in a change in network structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The porosity of the mixed-cage MOF material is lower compared to the discrete MOC solids.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the DFT calculation suggest about the preference for aniline-Rh(II) coordination?",
+      "answer": "It supports a thermodynamic argument in favor of preferential coordination of aniline to the Rh(II) paddlewheel complex.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of a mixed-cage solid from a 1:1 MOC mixture results in a 2-D MOF.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 1:2 Cu:Rh stoichiometry observed by EDX in the study?",
+      "answer": "It confirms the stoichiometry of the mixed-cage crystalline solid formed by the co-crystallization of 1-Cu and 2-Rh.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the activation of the MOF material affect its structure according to PXRD data?",
+      "answer": "Activation results in a reduction in long-range order.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates the first example where two preformed MOCs have been linked into a multivariate MOF material.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study conclude about the potential of linking MOCs for designing multifunctional materials?",
+      "answer": "It opens significant new possibilities to design bespoke multifunctional materials with atomistic control over chemical functionalities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's methodology allows for the introduction of defined chemical complexity into porous materials.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does stoichiometric control play in the synthesis of multivariate crystalline materials?",
+      "answer": "It dictates the connectivity and network structure of the resulting MOF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study address the challenge of synthesizing coordination polymers from kinetically inert Rh(II) metal ions?",
+      "answer": "By selectively coordinating a Cu(II) MOC to a Rh(II) MOC.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's approach to linking MOCs is limited to only one type of MOC as the building block.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study suggest about the future direction of designing multifunctional MOFs?",
+      "answer": "Efforts are underway to extend the method to a broad range of paddlewheel MOCs for accessing a wide range of multifunctional MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

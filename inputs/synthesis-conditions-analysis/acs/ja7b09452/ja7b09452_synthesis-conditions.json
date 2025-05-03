@@ -1,0 +1,156 @@
+{
+  "materials": [
+    {
+      "name": "pacifenol",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "hexane",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "NMR spectrometer",
+            "details": "Bruker AVANCE III HD 400 MHz or JEOL 500 MHz"
+          },
+          {
+            "type": "LC-MS",
+            "details": "Thermo ESI-Q-Exactive Orbitrap MS coupled to Thermo Ultimate 3000 UHPLC system or Thermo ESI-QQQ MS coupled to Thermo Ultimate 3000 UHPLC system"
+          },
+          {
+            "type": "GC-MS",
+            "details": "Agilent 7890B GC coupled to Agilent 5977A MSD"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "farnesyl diphosphate (FPP)",
+            "supplier": "Isoprenoids LC"
+          },
+          {
+            "name": "geranyl diphosphate (GPP)",
+            "supplier": "Echelon Biosciences"
+          },
+          {
+            "name": "geranylgeranyl diphosphate (GGPP)",
+            "supplier": "Cayman Chemical"
+          }
+        ],
+        "characterization_methods": [
+          "NMR",
+          "LC-MS",
+          "GC-MS"
+        ],
+        "yield": "70 mg"
+      }
+    },
+    {
+      "name": "laurinterol",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "hexane",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "NMR spectrometer",
+            "details": "Bruker AVANCE III HD 400 MHz or JEOL 500 MHz"
+          },
+          {
+            "type": "LC-MS",
+            "details": "Thermo ESI-Q-Exactive Orbitrap MS coupled to Thermo Ultimate 3000 UHPLC system or Thermo ESI-QQQ MS coupled to Thermo Ultimate 3000 UHPLC system"
+          },
+          {
+            "type": "GC-MS",
+            "details": "Agilent 7890B GC coupled to Agilent 5977A MSD"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "farnesyl diphosphate (FPP)",
+            "supplier": "Isoprenoids LC"
+          },
+          {
+            "name": "geranyl diphosphate (GPP)",
+            "supplier": "Echelon Biosciences"
+          },
+          {
+            "name": "geranylgeranyl diphosphate (GGPP)",
+            "supplier": "Cayman Chemical"
+          }
+        ],
+        "characterization_methods": [
+          "NMR",
+          "LC-MS",
+          "GC-MS"
+        ],
+        "yield": "8 mg"
+      }
+    },
+    {
+      "name": "prespatane",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "not specified"
+          },
+          {
+            "name": "hexane",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": [
+          {
+            "type": "NMR spectrometer",
+            "details": "Bruker AVANCE III HD 400 MHz or JEOL 500 MHz"
+          },
+          {
+            "type": "LC-MS",
+            "details": "Thermo ESI-Q-Exactive Orbitrap MS coupled to Thermo Ultimate 3000 UHPLC system or Thermo ESI-QQQ MS coupled to Thermo Ultimate 3000 UHPLC system"
+          },
+          {
+            "type": "GC-MS",
+            "details": "Agilent 7890B GC coupled to Agilent 5977A MSD"
+          },
+          {
+            "type": "X-ray diffractometer",
+            "details": "SuperNova by Rigaku Oxford Diffraction equipped with a fine-focused Cu Kα X-ray source (Nova) and a high-sensitivity CCD detector (Atlas S2 CCD detector)"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "farnesyl diphosphate (FPP)",
+            "supplier": "Isoprenoids LC"
+          },
+          {
+            "name": "geranyl diphosphate (GPP)",
+            "supplier": "Echelon Biosciences"
+          },
+          {
+            "name": "geranylgeranyl diphosphate (GGPP)",
+            "supplier": "Cayman Chemical"
+          }
+        ],
+        "characterization_methods": [
+          "NMR",
+          "LC-MS",
+          "GC-MS",
+          "X-ray diffraction"
+        ],
+        "yield": "0.8 mg"
+      }
+    }
+  ]
+}

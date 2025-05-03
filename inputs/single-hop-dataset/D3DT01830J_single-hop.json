@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using HNU-82 in water environment experiments?",
+      "answer": "HNU-82 was used for the experiment of fluorescence detection of antibiotics in water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the Ln–MOFs synthesized?",
+      "answer": "The Ln–MOFs were synthesized by assembling rare earth ions (Tb3+, Eu3+, La3+) and 4,4’,4’’-nitrilotribenzoic acid (H3TCA) ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What principle is used to prepare single-phase white light Ln–MOF?",
+      "answer": "The RGB principle is used to prepare single-phase white light Ln–MOF by adjusting the proportion of adding rare earth ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is HNU-82 capable of detecting both NZF and NFT in aqueous solutions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the detection limits of NZF and NFT by HNU-82?",
+      "answer": "The detection limits of NZF and NFT by HNU-82 are 6.60 × 10−7 mol L−1 and 4.62 × 10−7 mol L−1, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the fluorescence quenching effect of HNU-82 on NZF and NFT?",
+      "answer": "The fluorescence quenching effect of HNU-82 on NZF and NFT is caused by photoinduced electron transfer (PET) and competitive absorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can HNU-82 maintain its structure after detecting antibiotics?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CIE chromaticity coordinate of the synthesized Eu0.015Tb0.037La0.148-TCA?",
+      "answer": "The CIE chromaticity coordinate of the synthesized Eu0.015Tb0.037La0.148-TCA is (0.319, 0.344).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to measure the solid fluorescence spectra of HNU-82–84?",
+      "answer": "The solid fluorescence spectra of HNU-82–84 were determined by a Shimadzu RF-6000 spectrophotometer at room temperature.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of Eu0.015Tb0.037La0.148-TCA result in a pure phase material?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of H3TCA in the synthesis of Ln–MOFs?",
+      "answer": "H3TCA acts as a ligand that can sensitize rare-earth ions through the 'antenna benefit', facilitating the design of single-phase white light Ln–MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the quantum yield of Eu0.015Tb0.037La0.148-TCA?",
+      "answer": "The quantum yield of Eu0.015Tb0.037La0.148-TCA is 10.57%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are HNU-82–84 and Eu0.015Tb0.037La0.148-TCA used to prepare WLED devices?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in constructing high-quality single-phase white light materials for WLEDs?",
+      "answer": "The main challenge is to design and synthesize materials that can emit uniform white light efficiently.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the advantages of using WLEDs?",
+      "answer": "WLEDs are energy-saving, environment-friendly, have a longer service life, and higher efficiency.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of HNU-82–84 identical?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 'antenna effect' in Ln–MOFs?",
+      "answer": "The 'antenna effect' allows Ln3+ ions to be sensitized by ligands, leading to efficient energy transfer and characteristic emission.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of Tb3+, Eu3+, and La3+ in the emission of HNU-82–84?",
+      "answer": "Tb3+ and Eu3+ are sensitized by the H3TCA ligand to produce characteristic emission, while La3+ does not effectively transfer energy, resulting in ligand fluorescence.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can HNU-82 detect antibiotics other than NZF and NFT?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of HNU-82 in environmental monitoring?",
+      "answer": "HNU-82 serves as a fluorescent sensor for the detection of antibiotics like NZF and NFT in the aquatic environment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

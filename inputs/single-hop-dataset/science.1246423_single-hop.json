@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the publication discussed?",
+      "answer": "Self-Accelerating CO Sorption in a Soft Nanoporous Crystal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the corresponding authors of the publication?",
+      "answer": "Ryotaro Matsuda and Susumu Kitagawa",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the publication?",
+      "answer": "The publication focuses on a soft nanoporous crystalline material that selectively adsorbs CO with adaptable pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unique feature of the porous coordination polymer (PCP) discussed?",
+      "answer": "The PCP has specific but weak CO adsorption and recognition sites and a reversibly transformable framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the PCP achieve high selectivity for CO over N2?",
+      "answer": "The high selectivity is achieved by the synergetic effect of the local interaction between CO and accessible metal sites and a global transformation of the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural change observed in the PCP upon CO adsorption?",
+      "answer": "Upon CO adsorption, the PCP undergoes a global structural change that creates a suitable compartment for further accommodation of CO molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural transformation between PCP 1 and PCP 2 reversible?",
+      "answer": "Yes, the structural transformation between PCP 1 and PCP 2 is completely reversible upon water introduction and removal.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the PCP show the same isotherms for both CO and N2 adsorption?",
+      "answer": "No, the PCP shows distinct isotherms for CO and N2 adsorption, indicating different adsorption behaviors.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to evaluate the degree of cooperativity in CO adsorption?",
+      "answer": "Hill model analysis was used to evaluate the degree of cooperativity in CO adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the PCP separate CO from mixtures with N2 effectively?",
+      "answer": "Yes, the PCP can effectively separate CO from mixtures with N2, showing a high separation ability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What theoretical calculations were performed to understand CO selective adsorption?",
+      "answer": "Theoretical calculations with different approaches, including finite model approach and periodic approach, were performed to understand CO selective adsorption.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated isosteric heat of CO adsorption, qst, for PCP 2?",
+      "answer": "The isosteric heat of CO adsorption, qst, for PCP 2 was estimated to be -19 kJ mol−1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the PCP require high temperatures to release CO after adsorption?",
+      "answer": "No, the PCP does not require high temperatures to release CO after adsorption, indicating efficient trapping and releasing.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of accessible metal sites (AMSs) in the PCP's function?",
+      "answer": "Accessible metal sites (AMSs) play a crucial role in the PCP's function by providing specific recognition sites for CO adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the PCP's ability to separate CO from N2 mixtures dependent on CO concentration in the feed gas?",
+      "answer": "Yes, the PCP's ability to separate CO from N2 mixtures is effective over a wide range of CO concentrations in the feed gas.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to observe structural changes upon CO adsorption and desorption?",
+      "answer": "In situ x-ray powder diffraction (XRPD) and sorption coincident measurements were used to observe structural changes upon CO adsorption and desorption.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Hill coefficient in the context of CO adsorption on PCP 2?",
+      "answer": "The Hill coefficient indicates the degree of positive cooperativity in CO adsorption on PCP 2, with a high value suggesting that CO binding accelerates further accommodation of CO molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the PCP discussed have a rigid or flexible framework?",
+      "answer": "The PCP discussed has a flexible framework that is transformable in response to guest accommodation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the structural transformation in the PCP's selective adsorption of CO?",
+      "answer": "The structural transformation in the PCP plays a crucial role in its selective adsorption of CO by creating additional space for CO molecules and enhancing the selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the PCP's structural transformation be triggered by gases other than CO?",
+      "answer": "No, the PCP's structural transformation is specifically triggered by the coordination of CO molecules to Cu2+ ions, not by other gases.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

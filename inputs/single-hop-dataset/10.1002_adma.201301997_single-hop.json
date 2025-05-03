@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of molecule-based materials mentioned in the text?",
+      "answer": "Magnetic refrigerants for liquid-helium temperatures.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What effect describes the changes of magnetic entropy and adiabatic temperature following a change in the applied magnetic field?",
+      "answer": "The magnetocaloric effect (MCE).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is gadolinium often present in magnetic refrigerants?",
+      "answer": "Because its orbital angular momentum is zero and it has the largest entropy per single ion.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of light and short bridging ligands in the context of magnetic refrigeration?",
+      "answer": "They are advantageous for maximizing magnetic density by limiting the amount of non-magnetic elements.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How were single crystals of Gd(HCOO)3 grown?",
+      "answer": "By allowing a solution of Gd(NO3)3 · 5H2O, formic acid, and H2O to evaporate slowly over several days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of Gd(HCOO)3?",
+      "answer": "3.856 g cm−3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Debye temperature in the context of magnetic refrigeration?",
+      "answer": "A larger Debye temperature implies a correspondingly lower lattice entropy in the low-temperature region, ultimately favoring the magnetocaloric effect.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the magnetic entropy change derived from heat capacity measurements?",
+      "answer": "By integrating the magnetic contribution to the total heat capacity over temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does a negative Curie-Weiss temperature indicate about the magnetic interactions in Gd(HCOO)3?",
+      "answer": "It suggests that the Gd3+ moments are weakly antiferromagnetically correlated in the paramagnetic phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the formate ion in the structure of Gd(HCOO)3?",
+      "answer": "The formate ion acts as a lightweight bridging ligand, connecting Gd3+ ions and contributing to the high packing density of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of Gd(HCOO)3 contribute to its magnetic properties?",
+      "answer": "The dense hexagonal framework and the nine-coordinate tricapped trigonal prismatic environment of Gd3+ ions contribute to its magnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the lambda-like peak observed in the heat capacity data of Gd(HCOO)3?",
+      "answer": "It denotes the presence of a phase transition.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dimensionality of Gd-MOFs directly affects the magnetocaloric effect.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic ordering for B = 0 should be avoided in designing magnetic refrigerants.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Gd(HCOO)3 has been previously extensively studied for its magnetic properties before this research.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: An applied field of 1 T is sufficient for fully decoupling all spins in Gd(HCOO)3.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic entropy change for Gd(HCOO)3 is smaller than that of other molecule-based refrigerants.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of a weak antiferromagnetic interaction in Gd(HCOO)3 is confirmed by deviations in magnetization data.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MCE of Gd(HCOO)3 is exceptionally large due to its high mass density.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The relative cooling power (RCP) is irrelevant when comparing different magnetic refrigerants.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

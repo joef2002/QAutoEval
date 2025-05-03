@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "MIL-100(Fe)-S",
+      "synthesis_conditions": {
+        "solvent": "water",
+        "molar_ratio": "ferric chloride to water constant",
+        "coordination": "octahedral",
+        "iron_state": "3+",
+        "iron_coordination": {
+          "water_molecules": 4,
+          "chlorine_atoms": 2
+        },
+        "structure_comparison": "FeCl3·6 H2O crystal structure"
+      }
+    },
+    {
+      "name": "MIL-45(Fe)-S",
+      "synthesis_conditions": {
+        "solvent": "water and acetone mixture",
+        "molar_ratio": "ferric chloride to solvent constant",
+        "coordination": "tetrahedral or combination of tetrahedral and octahedral",
+        "iron_state": "3+",
+        "iron_coordination": {
+          "75_percent_iron_atoms": {
+            "coordination": "four-fold to Cl ions",
+            "complex": "[FeCl4]2-"
+          },
+          "25_percent_iron": {
+            "coordination": "octahedrally with six O atoms from water molecules"
+          }
+        }
+      }
+    },
+    {
+      "name": "MIL-100(Fe)-G",
+      "synthesis_conditions": {
+        "stage": "reaction gel before autoclave",
+        "iron_coordination": "octahedral",
+        "iron_state": "3+",
+        "coordination_atoms": {
+          "oxygen_atoms": 6,
+          "carbon_atoms": "approximately 3.0 Å"
+        },
+        "second_coordination_shell": {
+          "iron_atoms": 2
+        },
+        "precursors_structure": "trimeric complex or short chains"
+      }
+    },
+    {
+      "name": "MIL-45(Fe)-G",
+      "synthesis_conditions": {
+        "stage": "reaction gel before autoclave",
+        "iron_coordination": "octahedral",
+        "iron_state": "3+",
+        "coordination_atoms": {
+          "oxygen_atoms": 6,
+          "carbon_atoms": "approximately 3.0 Å"
+        },
+        "second_coordination_shell": {
+          "iron_atoms": 2
+        },
+        "precursors_structure": "trimeric complex or short chains"
+      }
+    },
+    {
+      "name": "MIL-45(Fe)-P",
+      "synthesis_conditions": {
+        "stage": "precipitate after 8h thermal treatment",
+        "iron_state": "3+",
+        "coordination_atoms": {
+          "oxygen_atoms": 3,
+          "carbon_atoms": 4
+        },
+        "second_coordination_shell": {
+          "iron_atoms": "less than 2 at approximately 3.38 Å"
+        },
+        "notes": "Proposed decomposition of iron complex in precipitate when iron is reduced to 2+."
+      }
+    },
+    {
+      "name": "MIL-45(Fe)-Su",
+      "synthesis_conditions": {
+        "stage": "supernatant after 8h thermal treatment",
+        "iron_state": "2+",
+        "coordination_atoms": {
+          "oxygen_atoms": 6
+        },
+        "notes": "No evidence of carbon atoms in second coordination sphere, indicating no coordination to BTC molecules at this stage."
+      }
+    }
+  ]
+}

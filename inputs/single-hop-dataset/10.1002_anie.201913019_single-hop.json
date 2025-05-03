@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main component used to create the single-chain magnet (SCM) discussed?",
+      "answer": "A terbium(III) building block and a nitronyl-nitroxide radical (NIT) functionalized with an aliphatic chain.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structural feature does the SCM exhibit due to the substitution of the NIT radical?",
+      "answer": "The SCM exhibits chains that are curled with almost 20 nm helical pitch.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The supramolecular tubes formed by the SCM have a 4.5 nm external diameter.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the porosity percentage of the chiral network formed by the SCM?",
+      "answer": "Almost 44%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the magnetic relaxation behavior of the SCM confirm its single-chain magnet properties?",
+      "answer": "Magnetic relaxation with both finite and infinite-size regimes is observed, confirming the validity of the Ising approximation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SCM's magnetic properties are unaffected by its supramolecular arrangement.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the aromatic group of the NIT radical derivative play in the SCM's structure?",
+      "answer": "It ensures the chain robustness through intra-chain pi-stacking interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of the TbNIT-Ph-O-Hexyl?",
+      "answer": "Hexagonal system, chiral P6122 space group.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The TbNIT-Ph-O-Hexyl chains form a regular and flat zig-zag chain.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the helicoidal chain formation in TbNIT-Ph-O-Hexyl?",
+      "answer": "The flexibility of the hexyl tail of the NIT-O-hexyl radical accommodates different structural conformations, leading to helicoidal chain formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The supramolecular nanotube formed by TbNIT-Ph-O-Hexyl chains has an external diameter of 6.8 nm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the internal diameter of the nanotube formed by TbNIT-Ph-O-Hexyl chains?",
+      "answer": "4.5 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the reaction solvent contribute to the formation of the SCM's nanotubes?",
+      "answer": "The affinity between the reaction solvent (heptane) and the aliphatic tail of the radical plays a key role in the thermodynamic stabilization of the nanotubes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SCM loses its crystallinity but not its crystal shape when taken out of the mother solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated porosity of the SCM?",
+      "answer": "44% of cell volume",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The SCM exhibits strong magnetic remanence and coercive field at 0.5 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coercive field (Hc) and magnetic remanence (MR) of the SCM at 0.5 K?",
+      "answer": "Hc = 2400 Oe, MR = 2.09 mB",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the chiral nature of the nanotubes potentially impact their applications?",
+      "answer": "The chiral nature of the nanotubes makes TbNIT-Ph-O-Hexyl a good candidate to observe electric field modulation of magnetic exchange or magneto-chiral dichroism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SCM's behavior is significantly different from that of mononuclear Ln-SMMs due to its zero-field opened hysteresis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the SCM's porosity for its potential applications?",
+      "answer": "The huge porosity (44% of cell volume) opens the way to solvent or gas responsive SCMs with tunable magnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

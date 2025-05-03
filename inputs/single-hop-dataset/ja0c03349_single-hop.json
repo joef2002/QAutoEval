@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "An S10-symmetric 5-fold Interlocked [2]Catenane",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Tanya K. Ronson, Yujia Wang, Kim Baldridge, Jay S. Siegel, and Jonathan R. Nitschke",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/jacs.0c03349",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of synthesis is discussed in the article?",
+      "answer": "The synthesis of an S10-symmetric 5-fold interlocked [2]catenane",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for X-ray crystallography data collection?",
+      "answer": "Synchrotron radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were used in the study?",
+      "answer": "Density Functional types including B3LYP, B3LYP-D3, and B97-D with the 6-31G(d,p) and TZVP basis sets",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the S10 symmetry in the synthesized [2]catenane?",
+      "answer": "The S10 symmetry indicates a specific structural symmetry within the interlocked [2]catenane, contributing to its unique chemical and physical properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of corannulene influence the structure of the synthesized catenane?",
+      "answer": "Corannulene contributes to the formation of bowl-in-bowl substructures within the catenane, affecting its overall geometry and potentially its binding properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the article focused on the development of new materials?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article provide a solution for large-scale industrial synthesis?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the SQUEEZE function of PLATON used in the study?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study involve the use of animal subjects?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesized [2]catenane potentially useful for nanotechnology applications?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study conducted at a single institution?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article report on the environmental impact of the synthesis process?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the GRADE program play in the study?",
+      "answer": "The GRADE program was used to generate a full set of bond distance and angle restraints for the organic ligand arms, facilitating realistic modeling.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE function of PLATON in the study?",
+      "answer": "The SQUEEZE function was employed to remove the contribution of electron density associated with highly disordered solvent, aiding in the refinement of crystal structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis of the S10-symmetric [2]catenane contribute to the field of supramolecular chemistry?",
+      "answer": "The synthesis demonstrates the ability to precisely control the assembly of complex molecular architectures, offering insights into the design of novel supramolecular systems.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the synthesis of the S10-symmetric [2]catenane achieved through a single-step process?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article detail the potential applications of the synthesized [2]catenane?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

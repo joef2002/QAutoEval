@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the journal title where the research article was published?",
+      "answer": "Journal of the American Chemical Society",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Hu Zhang, Bo Yao, Liang Zhao, De-Xian Wang, Bo-Qing Xu, Mei-Xiang Wang",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/ja412615h",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The synthesis of high-valent arylcopper(II–III) compounds and insight into the mechanism of arene C–H bond metalation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the synthesis of aryl-Cu(II) complexes?",
+      "answer": "Reaction of azacalix[1]arene[3]pyridines with Cu(ClO4)2 under mild conditions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Aryl-Cu(III) compounds were synthesized directly from azacalix[1]arene[3]pyridines and Cu(ClO4)2 under aerobic conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of collidine in the synthesis of aryl-Cu(II) compounds?",
+      "answer": "Collidine acted as a base in the reaction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of aryl-Cu(II) compounds was not affected by the presence of oxygen.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to characterize the aryl-Cu(II) and aryl-Cu(III) compounds?",
+      "answer": "X-ray diffraction analysis",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction mechanism for the formation of aryl-Cu(II) compounds involves a concerted metalation-deprotonation pathway.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the kinetic isotope effect (KIE) value obtained for the C–H bond activation reaction?",
+      "answer": "1.13",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Theoretical calculations supported a Friedel–Crafts type metalation pathway for the formation of arylcopper(II) compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of oxone in the synthesis of aryl-Cu(III) compounds?",
+      "answer": "Oxone acted as an oxidant to convert aryl-Cu(II) compounds to aryl-Cu(III) compounds",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Aryl-Cu(II) compounds can undergo self-disproportionation to form aryl-Cu(III) and aryl-Cu(I) compounds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion of the research article?",
+      "answer": "The study provided insight into the synthesis and mechanism of high-valent arylcopper compounds, expanding the understanding of organocopper chemistry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article was published in the year 2014.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the primary method used for the theoretical calculations in the study?",
+      "answer": "Density Functional Theory (DFT) calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research article provided experimental procedures and characterization data for all synthesized compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the Hammett plot in the study?",
+      "answer": "The Hammett plot was used to analyze the electronic effects of substituents on the reaction rate, indicating a positive charge was created during the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article was a collaborative effort between Tsinghua University and the Chinese Academy of Sciences.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

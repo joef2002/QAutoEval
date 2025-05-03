@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the yield percentage for compound 1?",
+      "answer": "67%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum wavelength (nm) observed for compound 2 in UV-VIS analysis?",
+      "answer": "500 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the empirical formula for compound 3?",
+      "answer": "C,,H,,,Mn,N,,S,I~e,.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group for compound 4?",
+      "answer": "monoclinic, space group C2/c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the transmission range for compound 3?",
+      "answer": "0.957-0.298",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal dimension for compound 4?",
+      "answer": "ca. 0.62 x 0.24 x 0.22 mm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, which compound has a higher yield, 1 or 2?",
+      "answer": "Compound 1 has a higher yield than compound 2.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Which compound has a higher molar mass, 3 or 4?",
+      "answer": "Compound 4 has a higher molar mass.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the space group for compound 3 triclinic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 4 have a higher density than compound 3?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the UV-VIS maximum wavelength for compound 1 higher than for compound 2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the empirical formula for compound 3 C,,H,,? ,Mn,N, ,Se,Te,?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 4 contain two symmetry-independent complex anions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the transmission range for compound 4 wider than for compound 3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Zr/P ratio in the mixed phosphate/phosphonate layered compound?",
+      "answer": "2:3",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group for the mixed phosphate/phosphonate layered compound?",
+      "answer": "P2/1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the mixed phosphate/phosphonate layered compound structurally related to Zr(HPO4)2 . H2O?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the mixed phosphate/phosphonate layered compound contain a metal-coordinating water molecule?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the carboxylate oxygens in the PMIDA group within the mixed phosphate/phosphonate layered compound?",
+      "answer": "They are not involved in metal binding but are positioned near the center of the metal phosphate layers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of the mixed phosphate/phosphonate layered compound a routine procedure?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on tailoring the magnetic anisotropy of first-row transition-metal complexes to produce mononuclear single-molecule magnets (SMMs).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to estimate the Zero-Field Splitting (ZFS) parameters for mononuclear transition-metal complexes?",
+      "answer": "The ZFS parameters are estimated using a procedure that involves first performing a CASSCF calculation, followed by mixing the energy of these CASSCF states within the SO-RASSI approach.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the D parameter in the context of single-molecule magnets?",
+      "answer": "The D parameter is related to the axial Zero-Field Splitting (ZFS) parameter, which is significant for quantifying the magnetic anisotropy of the system. It plays a crucial role in determining the magnetic behavior of single-molecule magnets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research successfully synthesized and characterized two previously reported Co(II) complexes to confirm their predicted SMM behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method is employed to qualitatively determine the energy splitting of the d orbitals in the studied complexes?",
+      "answer": "Extended-Hückel calculations are employed to qualitatively determine the energy splitting of the d orbitals in the studied complexes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Jahn-Teller effect influence the magnetic anisotropy in transition-metal complexes?",
+      "answer": "The Jahn-Teller effect causes distortions that break the orbital degeneracy, influencing the magnetic anisotropy by affecting the excitation energies and the contributions to the D parameter, depending on the symmetry of the distortion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of heavy elements with large spin-orbit contributions is necessary for the appearance of single-molecule magnet phenomena.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the spin-orbit coupling constant in determining the elements of the D tensor?",
+      "answer": "The spin-orbit coupling constant plays a crucial role in determining the elements of the D tensor by affecting the magnitude of the angular momentum integrals involved in the calculation of the ZFS parameters.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study proposes a qualitative model to predict the magnetic anisotropy for any mononuclear complex based on its coordination mode and electronic configuration.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique is used to measure the magnetic properties of the synthesized complexes?",
+      "answer": "SQUID magnetometry is used to measure the magnetic properties of the synthesized complexes.",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

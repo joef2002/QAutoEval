@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest value observed for hydrogen adsorption on a porous material?",
+      "answer": "12.3 kJ mol−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What model provides the most accurate description of the H2 and D2 isotherms for M′MOF 1?",
+      "answer": "Virial method 1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the enthalpy of adsorption for H2 on M′MOF 1 remain virtually unchanged in the range of 1.9−3.6 mmol g−1?",
+      "answer": "9.5 kJ mol−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of temperature on the kinetic parameters for H2 and D2 adsorption on M′MOF 1?",
+      "answer": "The kinetic parameters increase with increasing surface coverage, and the activation energies decrease with increasing amount adsorbed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the ratio of rate constants kD2/kH2 for the slow component at 77.3 K?",
+      "answer": "1.62 ± 0.07",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What quantum effect is observed for both types of pores in M′MOF 1?",
+      "answer": "Quantum isotope quantum molecular sieving for D2 and H2 occurs in M′MOF 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation energy for the slow component of H2 adsorption at zero surface coverage?",
+      "answer": "13.35 ± 0.59 kJ mol−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Langmuir-Freundlich model more accurate than the Virial method for predicting isotherm data?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the enthalpy of adsorption for D2 at zero surface coverage significantly differ from that of H2 on M′MOF 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the de Broglie wavelength in the context of H2 and D2 adsorption on M′MOF 1?",
+      "answer": "Quantum effects occur when the difference between the molecule and pore size is similar to the de Broglie wavelength.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the average deviation of the Virial method 1 from the experimental data for H2 and D2 adsorption on M′MOF 1?",
+      "answer": "0.629%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the change in gradient in the virial graphs at 87.3 K indicate?",
+      "answer": "It indicates specific interactions at an uptake of 2 H2 or D2 per Cu in the formula unit.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of quantum effects on the adsorption kinetics of H2 and D2 on M′MOF 1?",
+      "answer": "Quantum effects result in slower adsorption kinetics for H2 compared to D2 due to the higher zero-point energy of H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of open metal centers and confinement in pores on H2 adsorption on M′MOF 1?",
+      "answer": "They enhance H2−surface interactions, leading to a high enthalpy of adsorption over a wide range of surface coverage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum deviation of the Virial method 1 from the experimental data?",
+      "answer": "3.87%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the ratio of rate constants kD2/kH2 being higher for the slower rate constant?",
+      "answer": "It indicates that quantum effects are more pronounced for diffusion through the narrowest pores.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the enthalpy of adsorption for H2 on M′MOF 1 the highest reported so far for adsorption on a porous material?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the linear relationship between activation energies and isosteric enthalpies suggest about molecular transport in M′MOF 1?",
+      "answer": "It suggests that higher quantum molecular sieving is associated with a higher kinetic barrier and narrower selective porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the average error in the Langmuir-Freundlich method for predicting isotherm data?",
+      "answer": "2.67%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of metal centers significantly increase hydrogen uptakes on M′MOF 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

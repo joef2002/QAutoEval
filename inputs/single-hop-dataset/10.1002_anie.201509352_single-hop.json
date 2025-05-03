@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two UiO-topology Zr-MOFs studied for their mechanical properties?",
+      "answer": "UiO-67 and UiO-abdc",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to investigate the mechanical properties of UiO-67 and UiO-abdc?",
+      "answer": "Single-crystal nanoindentation, high-pressure X-ray diffraction, density functional theory calculations, and first-principles molecular dynamics",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: UiO-67 and UiO-abdc are compressible when filled with methanol molecules within a diamond anvil cell.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the stabilization of UiO-67 and UiO-abdc under high pressure?",
+      "answer": "Linker disorder",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of l-proline in the synthesis of Zr UiO-MOFs?",
+      "answer": "It acts as a highly efficient modulator",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The use of non-linear linkers in the synthesis of UiO-MOFs decreases the mechanical strength of the frameworks.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the azobenzene-based linker on the mechanical properties of UiO-abdc compared to UiO-67?",
+      "answer": "It makes UiO-abdc more resilient to direct compression and stabilizes it against direct compression",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The bulk modulus of UiO-67 is higher than that of UiO-abdc.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to determine the Young's moduli and hardness of UiO-67 and UiO-abdc?",
+      "answer": "Nanoindentation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: UiO-67 has a higher solvent accessible volume (SAV) than UiO-abdc.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the bowing angle in the study of UiO-67 and UiO-abdc?",
+      "answer": "It indicates the geometric frustration and significant bowing of the ligands, affecting the mechanical properties",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The mechanical stability of UiO-MOFs is unaffected by the inclusion of guest molecules.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of methanol on the compressibility of UiO-67 and UiO-abdc?",
+      "answer": "It causes initial expansion followed by a plateau in compressibility at higher pressures",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UiO-abdc displays a larger change in unit cell volume under pressure compared to UiO-67 when not solvated.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to simulate the mechanical behavior of UiO-67 and UiO-abdc?",
+      "answer": "Density functional theory (DFT) calculations and molecular dynamics (MD) simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of the azobenzene linker in UiO-abdc does not contribute to its mechanical properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the mechanical behavior of UiO-67 and UiO-abdc change under high pressure?",
+      "answer": "UiO-67 remains almost incompressible to 2.4 GPa, while UiO-abdc displays similar behavior to 4.8 GPa",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the diazo-linker in UiO-abdc?",
+      "answer": "It possesses local site disorder, which decreases the capacity of the framework to compress and stabilizes it against direct compression",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of embedding MOFs into polymer matrices or coating nanoparticles with silica?",
+      "answer": "It leads to substantial deterioration in guest sorption ability",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The mechanical properties of MOFs are solely determined by their chemical composition.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

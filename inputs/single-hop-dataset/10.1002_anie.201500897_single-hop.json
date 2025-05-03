@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the article on Single-Molecule Magnets?",
+      "answer": "10.1002/anie.201500897",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the study on Redox-Controlled Exchange Bias in a Supramolecular Chain of Fe4 Single-Molecule Magnets?",
+      "answer": "Andrea Nava, Luca Rigamonti, Ennio Zangrando, Roberta Sessoli, Wolfgang Wernsdorfer, and Andrea Cornia",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ground state spin value of the tetrairon(III) SMM [Fe4(pPy)2(dpm)6]?",
+      "answer": "S = 5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compounds [Fe4(pPy)2(dpm)6][Ru2(OAc)4](BF4)x with x = 0 and x = 1 have the same electron count on the paramagnetic diruthenium bridges.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What effect does the mixed-valent bridges (s = 3/2, seff = 1/2) in compound 2 b have on the remnant magnetization?",
+      "answer": "They introduce a significant exchange bias, with concomitant enhancement of the remnant magnetization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The s = 1 diruthenium(II,II) units in compound 2 a lead to significant intrachain communication.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the diruthenium(II,III) bridges in compound 2 b?",
+      "answer": "They act as effective magnetic couplers, making compound 2 b behave as a significantly better magnet in zero field than an array of non-interacting Fe4 centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 2 a and 2 b were synthesized under inert atmosphere using anhydrous solvents.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the large easy-plane anisotropy of the diruthenium(II,II) units in 2 a?",
+      "answer": "It results in a nonmagnetic m = 0 ground state and leads to negligible intrachain communication.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The diruthenium(II,III) bridges in compound 2 b have a half-integer spin and maintain a large easy-plane anisotropy.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using electron transfer in the study?",
+      "answer": "To tune intermolecular communication in redox-responsive arrays of SMMs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests the possibility to prepare redox-responsive arrays of SMMs where intrachain coupling and remnant magnetization are reversibly tuned by electron transfer.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the m = 0 singlet of RuIIRuII in compound 2 a?",
+      "answer": "It explains the absence of intrachain communication due to the integer spin and large positive zfs of the RuIIRuII complex.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The coercivity of compound 2 b is increased compared to 1·2EtOH.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect of the RuIIRuIII bridges on the magnetization dynamics of compound 2 b?",
+      "answer": "They enhance underbarrier relaxation over isolated Fe4 units, making 2 b significantly more magnetic than the other two compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds 2 a and 2 b display identical IR absorption bands and MALDI-TOF mass spectra.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the paddlewheel dimers in the synthesis of the supramolecular chains?",
+      "answer": "They react with the tetrairon(III) SMM to give supramolecular chains [Fe4(pPy)2(dpm)6][Ru2(OAc)4](BF4)x with x = 0 or 1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that the three compounds behave as SMMs through alternating current (ac) susceptibility measurements.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the large positive zfs of the RuIIRuIII complex in compound 2 b?",
+      "answer": "It stabilizes an m = (cid:156) 1/2 doublet, leading to a pronounced shift of the “zero-field” resonance and a large remnant magnetization in zero field.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a general strategy for the controlled association of SMMs into coordination networks.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

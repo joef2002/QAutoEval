@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the ligand used in the synthesis of ITQMOF-3-Eu?",
+      "answer": "1,10-phenanthroline-2,9-dicarboxylic acid",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pH range in which the ITQMOF-3-Eu sensor functions?",
+      "answer": "5–7.5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the synthesis of ITQMOF-3-Eu?",
+      "answer": "Hydrothermal synthesis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum emission quantum yield value of ITQMOF-3-Eu?",
+      "answer": "0.56",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the ITQMOF-3-Eu structure at pH values lower than 4?",
+      "answer": "Protonation of the carboxylic groups occurs followed by irreversible changes in the MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final product of ITQMOF-3 material decomposition at 873 K?",
+      "answer": "The corresponding lanthanide oxide",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is ITQMOF-3-Eu considered suitable for sensor miniaturization?",
+      "answer": "Because of its high emission quantum efficiency.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the ITQMOF-3-Eu sensor determine the pH of a solution?",
+      "answer": "By following the intensity ratio of the 5D0-7F0 emissions of the two Eu3+ types.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of hydrothermal synthesis in the preparation of ITQMOF-3-Eu?",
+      "answer": "It allows the use of chelating agents that are sparingly soluble in water at temperatures below 373 K, enhancing the lanthanide-coordinating ability of the ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the ITQMOF-3-Eu material to start decomposing at around 573 K?",
+      "answer": "The initial weight loss of 6.6 %, which corresponds to water molecules, followed by a major weight loss of 61.5 %.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the two different Eu3+ environments in ITQMOF-3-Eu?",
+      "answer": "They contribute to the unique photoluminescence features of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the ITQMOF-3-Eu sensor not require external calibration for pH measurement?",
+      "answer": "Because only one of the two Eu3+ emitting sites is affected by the pH variation in the range 5 to 7.5.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the 5D0!7F0 transition intensity of site Eu2 in ITQMOF-3-Eu?",
+      "answer": "The intensity increases with temperature, which is unexpected as temperature increase usually promotes nonradiative processes that quench the emission.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ITQMOF-3-Eu sensor can function outside the pH range of 5–7.5 without any structural changes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ITQMOF-3-Eu material exhibits strong red luminescence under visible light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ITQMOF-3-Eu material is stable at pH values above 8.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ITQMOF-3-Eu sensor requires multiple calibration steps for accurate pH measurement.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ITQMOF-3-Eu material has poor thermal stability.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ITQMOF-3-Eu material can be synthesized using conventional methods other than hydrothermal synthesis.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ITQMOF-3-Eu sensor's photoluminescence response is nonlinear in the biologically interesting pH range.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

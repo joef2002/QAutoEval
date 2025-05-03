@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the 3D zinc formate framework discussed?",
+      "answer": "C3H7ZnN3O6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to measure the Young's modulus (E) and hardness (H) of the framework?",
+      "answer": "Nanoindentation using a Berkovich tip",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what pressure did the crystals of the framework crack and transform to a monoclinic phase?",
+      "answer": "Approximately 1.35 GPa",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the indentation modulus obtained from nanoindentation of a single crystal represented as an 'indentation modulus'?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the nanoindentation experiment reveal that the framework is more compliant and deforms more along the b axis compared to the c axis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the computational study performed using the CP2K-QuickStep program at the GGA-DFT level?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using a Berkovich tip in the nanoindentation experiments?",
+      "answer": "To determine the Young's modulus (E) and hardness (H) of the framework",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the crystal polished off to get an artificial facet {010}?",
+      "answer": "Because the blocky crystal did not have any natural facet perpendicular to the major facet {002}",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of the ruby chip in the high-pressure experiments?",
+      "answer": "It was used as a pressure calibrant",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the high-pressure X-ray single-crystal diffraction data collection extend up to 1.35 GPa?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the indentation stress at an angle of 90 degrees with respect to two of the formate ligands while indenting along the b axis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the indentation modulus for isotropic materials expected to be the same as for anisotropic materials?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system of the framework at ambient pressure?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the crystal system of the framework after the phase transition at 1.35 GPa?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the pressure range in which the computational study was performed?",
+      "answer": "0-4 GPa",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why was paraffin used in the high-pressure experiments?",
+      "answer": "As a hydrostatic medium",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of the angle between the indentation stress and the formate ligands?",
+      "answer": "It influenced the mechanical anisotropy and deformation behavior of the framework",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the PBE functional used in the computational study corrected for dispersion interactions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the nanoindentation experiments reveal that the framework has intrinsic elastic anisotropy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal system of the framework always hexagonal throughout the experiments?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

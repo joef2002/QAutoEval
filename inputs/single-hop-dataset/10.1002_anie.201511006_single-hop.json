@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research reported in the paper?",
+      "answer": "The main focus is on developing a new porous coordination framework for methane storage with exceptional methane uptakes and adsorption enthalpies.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the pore size/shape in the new MOF described in the paper?",
+      "answer": "The pore size/shape is significant because it allows for strong binding and close packing of methane molecules, enhancing methane storage capacity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the new MOF reported in the paper free of open metal sites (OMSs)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to synthesize the colorless prismatic crystals of [Zn3(pypz)3(btc)]·guest?",
+      "answer": "Solvothermal reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the new MOF compare to HKUST-1 in terms of methane storage?",
+      "answer": "The volumetric methane uptakes of the new MOF at all measured pressures are similar to HKUST-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the new MOF's methane storage performance be directly measured?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the trigonal window connecting the small and large cages in the new MOF?",
+      "answer": "It serves as the primary adsorption site for methane with a high binding energy.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the new MOF exhibit framework flexibility?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the coverage-dependent CH4 adsorption enthalpy (Qst) for the new MOF?",
+      "answer": "It indicates the strength of methane binding, starting high at zero coverage and showing the MOF's efficiency in methane adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the new MOF stable up to 350 88C after activation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational simulations were used to study the methane adsorption mechanism of the new MOF?",
+      "answer": "GCMC simulations and periodic density functional theory (PDFT) optimizations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the new MOF's methane storage capacity benefit from methane–methane interactions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystallography density of the new MOF?",
+      "answer": "0.761 g cm³",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore volume of the new MOF compare to its theoretical value?",
+      "answer": "The pore volume measured from N2 adsorption isotherm is crucial for calculating the real gas-storage performance, indicating the importance of accurate pore volume measurement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the new MOF's methane storage performance solely dependent on its pore volume?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of colorless prismatic crystals obtained from the solvothermal reaction?",
+      "answer": "82% based on Zn.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the new MOF's performance in methane storage surpass all other MOFs at high pressures?",
+      "answer": "The volumetric working capacity of the new MOF is similar to HKUST-1, higher than most other MOFs, but only slightly lower than several MOFs with framework flexibility or very large pore volumes/surface areas.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the adsorption sites within the new MOF's structure uniform in terms of binding energy?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the secondary and ternary CH4 adsorption sites in the new MOF?",
+      "answer": "They interact with both the host framework and the CH4 molecules previously adsorbed at the primary site, contributing to the overall methane storage capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the new MOF's methane storage capacity enhanced by its hierarchical pore structure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

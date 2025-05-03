@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of zinc in the synthesis of multimetal MOFs?",
+      "answer": "Zinc acts as a structure-directing element, necessary to yield the desired MOF type.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the MOF topology be obtained in the absence of zinc?",
+      "answer": "Yes, but only with low yield and when cobalt and manganese are combined at appropriate ratios.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of incorporating multiple metal elements in MOFs?",
+      "answer": "Incorporating multiple metal elements in MOFs results in properties that differ from their single-metal counterparts.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using MOFs as precursors for other classes of solids?",
+      "answer": "MOFs are used as precursors to transfer some of the MOF structural features to the resulting materials, offering an alternative to traditional synthetic routes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of adjusting the initial molar codes in the synthesis of multimetal MOFs?",
+      "answer": "Adjusting the initial molar codes allows for the control over the disposition of metal cations, enabling the programming of new compositions in spinel-type oxides.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it possible to obtain pure spinel oxides as the only product of the calcination process?",
+      "answer": "Yes, by decreasing the amount of zinc in ternary multimetal MOFs, pure spinel-type oxides can be obtained as the only product.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of calcium in the spinel structure influence the overall activity?",
+      "answer": "The presence of calcium in the spinel structure influences the overall activity by enhancing O2 adsorption and inducing the inversion of the spinel structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of thermal gravimetric analysis in the study of MOFs?",
+      "answer": "Thermal gravimetric analysis is used to determine the decomposition temperature of MOFs, ensuring the organic linker is fully combusted during calcination.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can multimetal spinel oxides outperform commercial Pt/C catalysts in terms of stability?",
+      "answer": "Yes, multimetal spinel oxides demonstrate better stability than commercial Pt/C catalysts, showing a slight current attenuation of less than 8%.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Koutecky-Levich plots in the study of electrocatalysts?",
+      "answer": "Koutecky-Levich plots are significant for determining the number of transferred electrons and confirming that the current is primarily kinetically controlled.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the composition of multimetal spinel oxides affect their electrocatalytic performance?",
+      "answer": "The composition of multimetal spinel oxides strongly influences their electrocatalytic performance, with small modifications in metal ratios affecting the activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of performing cyclic voltammetry in the study of electrocatalysts?",
+      "answer": "Cyclic voltammetry is performed to investigate the electrochemical activity of materials towards the oxygen reduction reaction and to compare their performance.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is it possible to obtain multimetal oxides with novel compositions through MOF calcination?",
+      "answer": "Yes, it is possible to obtain multimetal oxides with novel compositions through MOF calcination by programming the metal ratios from the MOF synthesis step.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of metal ratios on the catalytic activity of multimetal oxides?",
+      "answer": "The metal ratios in multimetal oxides have a complex impact on their catalytic activity, with certain compositions demonstrating enhanced performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the advantages of using multimetal MOFs as precursors for spinel oxides?",
+      "answer": "Using multimetal MOFs as precursors allows for the precise control of metal cation distribution, leading to spinel oxides with desired compositions and enhanced properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the presence of calcium improve the performance of multimetal spinel oxides in ORR?",
+      "answer": "Yes, the presence of calcium can improve the performance of multimetal spinel oxides in ORR by influencing the structure and oxidation states of other metal cations.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of SEM-EDS and TEM-EDS analyses in the characterization of MOFs?",
+      "answer": "SEM-EDS and TEM-EDS analyses are crucial for determining the elemental composition and distribution of metals within the MOFs and their derived oxides.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the calcination temperature affect the resulting oxides from MOF precursors?",
+      "answer": "The calcination temperature ensures the complete combustion of the organic linker and influences the phase purity and composition of the resulting oxides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of adjusting the initial molar ratios in the synthesis of multimetal MOFs?",
+      "answer": "Adjusting the initial molar ratios is significant for controlling the distribution of metal cations within the MOF structure, affecting the properties of the resulting oxides.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the electrocatalytic activity of multimetal oxides be tuned by metal composition?",
+      "answer": "Yes, the electrocatalytic activity of multimetal oxides can be significantly tuned by adjusting the metal composition, affecting the ORR performance.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

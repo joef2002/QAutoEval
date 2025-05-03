@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "Aluminum Fumarate (A520)",
+      "synthesis_conditions": {
+        "method": "Gentle method to gradually increase the pH of the reaction mixture by replacing the direct mixing of fumaric acid and NaOH with a slow decomposition of urea in hot water",
+        "temperature": "Not specified",
+        "solvents": "Water",
+        "chemicals_used": [
+          "Fumaric acid",
+          "NaOH (replaced)",
+          "Urea"
+        ],
+        "time": "Not specified",
+        "yield": "Record space–time yield of 3,600 kg m-3 day-1",
+        "comments": "This method enables better control of crystallites growth, leading to a polycrystalline solid with much better crystallinity compared to the initial recipe."
+      }
+    },
+    {
+      "name": "MIL-53(Al)-FA",
+      "synthesis_conditions": {
+        "method": "Microwave-assisted synthesis",
+        "temperature": "Not specified",
+        "solvents": "Not specified",
+        "chemicals_used": [
+          "Urea (as a mild base)"
+        ],
+        "time": "Not specified",
+        "yield": "Space–time yield of 15,200 kg m-3 day-1 under microwave conditions",
+        "comments": "The use of urea prevents the precipitation of the Al precursor into the corresponding hydroxide, increasing the crystallinity and formation rate of the Al fumarate phase under microwave conditions."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MUV-11?",
+      "answer": "C24H18N6O12Ti2, 1.403(C3H7NO)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MUV-11?",
+      "answer": "P32",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the band gap energy of MUV-11 determined by ultraviolet-visible diffuse reflectance spectroscopy?",
+      "answer": "2.01±0.02 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MUV-11?",
+      "answer": "756.4774 ± 0.9088 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the thermal stability range of MUV-11 before decomposition starts?",
+      "answer": "Below 200 °C for solvent removal and above 400 °C for framework decomposition",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MUV-11 stable in water?",
+      "answer": "Yes, MUV-11 shows high chemical stability toward hydrolysis in acid media with minimal leaching.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does MUV-11 undergo photocorrosion under the tested conditions?",
+      "answer": "No, minimum leaching of titanium into the solution confirms that MUV-11 does not undergo photocorrosion under the tested conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MUV-11 be synthesized using different titanium (IV) precursors?",
+      "answer": "Yes, MUV-11 can be synthesized using different titanium (IV) precursors, proving the versatility of hydroxamic acids to produce crystalline Ti-MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocatalytic activity of MUV-11 improved by using different titanium (IV) precursors?",
+      "answer": "False, all materials display very low H2 photogeneration, and a slight influence of the crystallinity of the material over performance cannot be discarded.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of MUV-11 remain unchanged after photocatalytic experiments?",
+      "answer": "False, characterization of the sample after reaction by PXRD and FTIR show partial amorphization but no evidences of photocorrosion.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the linker in MUV-11 prone to hydrolysis under basic conditions?",
+      "answer": "True, a higher linker content is found in solution for MUV-11 under basic conditions compared to acidic and neutral pH, likely due to the susceptibility of the hydroxamate linker to undergo hydrolysis.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MUV-11 show optical activity?",
+      "answer": "False, circular dichroism measurements show negligible optical activity suggesting that it contains an equimolar mixture of both enantiomers.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic hydrogen production of MUV-11 dependent on the electron donor used?",
+      "answer": "True, the photocatalytic hydrogen production of MUV-11 is tested with different electron donors, showing very small H2 production in all cases.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MUV-11 undergo ligand-to-metal charge transfer (LMCT) upon illumination?",
+      "answer": "False, the poor photocatalytic performance of MUV-11 seems to be kinetic in origin, with poor efficiency of LMCT for short-lived excitons localized at the organic linker.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the formation of photogenerated Ti3+ species observed in MUV-11 after illumination?",
+      "answer": "False, EPR spectrum of MUV-11 after illumination does not show the occurrence of any paramagnetic signal that could account for the formation of photogenerated Ti3+ species.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the hydroxamate linker on the electronic structure of MUV-11?",
+      "answer": "The use of a hydroxamate linker in MUV-11 introduces drastic changes to the frontier crystalline orbitals that control charge transfer kinetics and thereby the photocatalytic activity of this material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of siderophore-type linkers in the synthesis of MUV-11?",
+      "answer": "Siderophore-type linkers, such as hydroxamates, are used in the synthesis of MUV-11 to produce metal–linker joints with hydrolytic stability, resulting in a crystalline, porous material with good chemical stability in acid conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MUV-11 be prepared by direct synthesis?",
+      "answer": "True, MUV-11 is reported as the first hydroxamate-based MOF prepared by de novo synthesis, combining photoactivity with a surface area close to 800 m2·g−1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic activity of MUV-11 enhanced by platinum photodeposition?",
+      "answer": "True, after co-deposition of 1 wt % of platinum as cocatalyst, Pt/MUV-11 displayed a linear production of H2, indicating that Pt acts as a cocatalyst to favor H2 production.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high-throughput approach in the synthesis of MUV-11?",
+      "answer": "The high-throughput approach was used to systematically study multiple variables in the synthesis of MUV-11, such as temperature, reaction time, solvent, concentration, and modulator, to define the best set of conditions for the synthesis of crystalline MUV-11 regardless of the precursor.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

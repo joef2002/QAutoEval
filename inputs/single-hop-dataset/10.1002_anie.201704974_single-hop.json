@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary goal of fine-tuning MOF-505 analogues?",
+      "answer": "The primary goal is to reduce low-pressure methane uptake and enhance methane working capacity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CH4 working capacity of NJU-Bai 43 at 298 K and 65 bar?",
+      "answer": "198 cm3 (STP) cm@3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NJU-Bai 43 has a lower CH4 working capacity than PCN-14 under the same conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What modification was made to create NJU-Bai 41 from PCN-14?",
+      "answer": "NJU-Bai 41 was obtained by substituting anthracene with naphthalene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of NJU-Bai 41 compare to the kinetic diameter of CH4?",
+      "answer": "The optimized diameters of about 8, 12, and 8 c in NJU-Bai 41 are close to multiples of the CH4 kinetic diameter (3.8 c).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The introduction of the slender oxamide group in NJU-Bai 42 resulted in a decrease in CH4-framework interactions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the volumetric CH4 storage working capacity of NJU-Bai 43?",
+      "answer": "The volumetric CH4 storage working capacity of NJU-Bai 43 increases from 198 cm3 (STP) cm@3 to 205 cm3 (STP) cm@3 when the temperature is decreased from 298 to 273 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NJU-Bai 43's gravimetric storage capacity surpasses that of HKUST-1, MAF-38, and MOF-519.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pyridyl moiety in NJU-Bai 43?",
+      "answer": "The pyridyl moiety was introduced to replace half of the oxamide, leading to NJU-Bai 43, which exhibits a larger shuttle-shaped cage.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The BET surface areas of NJU-Bai 41, NJU-Bai 42, and NJU-Bai 43 are all above 2000 m2 g@1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the zero-coverage CH4 adsorption enthalpies for NJU-Bai 41, NJU-Bai 42, and NJU-Bai 43?",
+      "answer": "The zero-coverage CH4 adsorption enthalpies indicate the CH4 affinity is decreased after sub cage elimination and pore polarization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The volumetric working capacity of NJU-Bai 43 is among the highest values reported for MOFs under ANG conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of replacing one amide moiety with a pyridine ring in NJU-Bai 43?",
+      "answer": "It prompted the expansion of NJU-Bai 42, resulting in NJU-Bai 43 with a higher gravimetric surface area and improved CH4 storage performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural integrity of NJU-Bai 41, NJU-Bai 42, and NJU-Bai 43 was not confirmed by PXRD data.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between pore size and CH4 uptake in NJU-Bai 41?",
+      "answer": "NJU-Bai 41 exhibits pore sizes suitable for two and three CH4 molecules to be closely packed, enhancing CH4 uptake.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The volumetric CH4 storage working capacity for NJU-Bai 41 increases when the temperature is decreased from 298 to 273 K.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the slender oxamide group in NJU-Bai 42?",
+      "answer": "It afforded NJU-Bai 42 with a partition-less shuttle-shaped cage, decreasing CH4-framework interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The volumetric working capacity of NJU-Bai 43 decreases when the temperature is decreased from 298 to 273 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area in the context of CH4 storage?",
+      "answer": "The BET surface area is significant as it relates to the adsorbent's ability to uptake CH4, with optimal values typically between 2500–3000 m2 g@1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The volumetric working capacity of NJU-Bai 43 is lower than that of UTSA-76 and Co(bdp) under the same conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

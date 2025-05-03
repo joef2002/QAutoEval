@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main achievement described in the manuscript regarding the determination of crystal structures?",
+      "answer": "The main achievement described in the manuscript is the first structure determination of a small molecule using serial femtosecond X-ray crystallography (SFX), demonstrating the feasibility of determining small-unit-cell materials by SFX.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the names of the three structures determined using serial femtosecond crystallography in the study?",
+      "answer": "The three structures determined using serial femtosecond crystallography in the study are mithrene, thiorene, and tethrene.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is serial femtosecond crystallography (SFX) considered a significant advancement for small molecule crystallography?",
+      "answer": "SFX is considered a significant advancement for small molecule crystallography because it can determine structures from microcrystalline samples, potentially revolutionizing the approach to small molecule crystallography and eliminating the need to grow larger crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges does small molecule SFX face compared to macromolecular SFX?",
+      "answer": "Small molecule SFX faces challenges such as the sparsity of individual diffraction patterns due to smaller unit cells, making indexation to obtain the unit cell difficult.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the manuscript address the comparison between SFX and 3D electron diffraction (3D ED) methods?",
+      "answer": "The manuscript addresses the comparison by highlighting that SFX and 3D ED are complementary methods, with SFX being particularly useful for analyzing microcrystals of very radiation-sensitive materials and those requiring near-standard temperature and pressure conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the expected resolution limit with 20 keV XFEL radiation according to the manuscript?",
+      "answer": "The expected resolution limit with 20 keV XFEL radiation according to the manuscript is less than 0.7 Å.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The manuscript claims to have solved the structure of mithrene for the first time using SFX.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The manuscript suggests that SFX is superior to all other methods for analyzing microcrystalline samples.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The manuscript indicates that SFX does not require cryocooling for analyzing microcrystalline samples.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: According to the manuscript, SFX can quickly analyze a very large number of crystals compared to 3D ED.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The manuscript claims that SFX requires less sample material than 3D electron diffraction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The manuscript states that SFX is expected to become a mail-in service due to improvements in instrumentation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential future application of SFX is mentioned in the manuscript but not explored in detail?",
+      "answer": "A potential future application of SFX mentioned in the manuscript but not explored in detail is its use for mechanistic studies in materials systems through its intrinsic time resolution.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How did the manuscript address the issue of absorption corrections for structures with heavy metals?",
+      "answer": "The manuscript addressed the issue of absorption corrections by noting that higher energy XFEL radiation will help reduce the size of the absorption problem, and that absorption was considered negligible for the studied structures due to their small crystal sizes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the response of the manuscript to the critique regarding the comparison with 3D electron diffraction methods?",
+      "answer": "The response of the manuscript to the critique regarding the comparison with 3D electron diffraction methods was to emphasize that smSFX is a complementary addition to existing advanced diffraction techniques and to clarify the advantages and limitations of both SFX and 3D ED.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The manuscript confirms that the structure of thiorene was previously incorrectly determined and corrects it using SFX.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The manuscript indicates that SFX data collection times are expected to reduce by at least 25 times in the next few years.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The manuscript suggests that SFX is the only method capable of solving structures of microcrystalline samples at near-ambient temperature and pressure.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main limitation of SFX compared to 3D electron diffraction as discussed in the manuscript?",
+      "answer": "The main limitation of SFX compared to 3D electron diffraction as discussed in the manuscript is the need for cryoconditions for beam-sensitive materials in 3D ED, whereas SFX can analyze materials at near-standard temperature and pressure without cryocooling.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The manuscript claims that SFX will replace all other methods for analyzing microcrystalline samples.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

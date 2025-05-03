@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Ultrafast Luminescent Light-Up Guest Detection Based on the Lock of the Host Molecular Vibration",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Chun-Yu Liu, Xu-Ran Chen, Hui-Xian Chen, Zheng Niu, Hajime Hirao, Pierre Braunstein, and Jian-Ping Lang",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/jacs.0c00368",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of material is discussed for luminescent light-up guest detection?",
+      "answer": "Metal–organic framework (MOF)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of the guest-lock-induced luminescence enhancement mechanism?",
+      "answer": "It allows for ultrafast light-up detection of target VOCs with high sensitivity and specificity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method was used for the study?",
+      "answer": "ONIOM-DFT calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the empirical formula of the synthesized MOF [Cu4I4(Py3P)2]n?",
+      "answer": "C30H24N6PCu4I4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF discussed in the article water stable?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the MOF sensor achieve real-time detection of chlorobenzene?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the response time of the MOF sensor to CH2Cl2 vapor?",
+      "answer": "Less than 1 second",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of chlorinated hydrocarbons in the MOF's mechanism?",
+      "answer": "They lock the molecular vibrations within the MOF, leading to luminescence enhancement.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the MOF sensor able to selectively detect chlorobenzene among other VOCs?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quantum yield (QY) of the MOF sensor when detecting CH2Cl2?",
+      "answer": "23.3%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the MOF sensor be recycled without performance loss?",
+      "answer": "Yes, it displayed excellent recyclability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ONIOM-DFT calculations in the study?",
+      "answer": "They provide insights into the binding mechanism and differences in luminescence when different guest molecules are used.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF sensor sensitive to moisture?",
+      "answer": "No, it shows remarkably stable fluorescence performance even under ambient conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main limitation of the current light-up sensors mentioned in the article?",
+      "answer": "Limited sensitivity for light-up detection and poor recycling performances.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of the synthesized MOF?",
+      "answer": "Trigonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study employ single-crystal X-ray diffraction (SCXRD) analysis?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential application of the MOF sensor discussed in the article?",
+      "answer": "Detection of toxic and environmentally hazardous VOCs like chloroalkanes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

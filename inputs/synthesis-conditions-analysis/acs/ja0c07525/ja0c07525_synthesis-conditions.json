@@ -1,0 +1,90 @@
+{
+  "materials": [
+    {
+      "name": "SU-101",
+      "synthesis": {
+        "chemicals_used": {
+          "reagent_grade_ellagic_acid": {
+            "source": "Acros Organics",
+            "purity": "97%",
+            "details": "isolated from chestnut tree bark"
+          },
+          "bismuth_acetate": {
+            "source": "Alfa Aesar",
+            "purity": "99%"
+          },
+          "glacial_acetic_acid": {
+            "source": "Merck",
+            "purity": "100%"
+          },
+          "supplemental_ellagic_acid": {
+            "source": "PureBulk Inc",
+            "purity": "90%",
+            "details": "isolated from pomegranate hulls"
+          },
+          "white_vinegar": {
+            "details": "‘Perstorp Ättika’, 24% acetic acid in water"
+          }
+        },
+        "solvents": {
+          "water": {},
+          "acetic_acid": {
+            "volume_percentage": "6%",
+            "details": "made from glacial acetic acid or store-bought white vinegar"
+          }
+        },
+        "conditions": {
+          "temperature": "room temperature",
+          "time": "48 h",
+          "atmosphere": "ambient"
+        },
+        "yield": [
+          {
+            "amount": "0.28 g",
+            "percentage": "76%",
+            "details": "after washing with water and ethanol, then drying overnight at 60 °C"
+          },
+          {
+            "amount": "5.6 g",
+            "percentage": "74%",
+            "details": "large-scale synthesis, after washing with water and ethanol, then drying overnight at 60 °C"
+          }
+        ],
+        "hydrothermal_conditions": {
+          "temperature": "120 °C",
+          "time": "16 h",
+          "solvent": "deionized water",
+          "details": "for larger crystals (> 2 µm) as a phase-mixture"
+        }
+      },
+      "characterization": {
+        "SEM": "JEOL JSM7401F SEM",
+        "TEM": "JEOL JEM 2100-LaB6 operating at 200 kV",
+        "3DED": {
+          "instrument": "JEOL JEM2100-LaB6 TEM",
+          "details": "with Timepix detector, continuously rotating the crystal at 0.45° s−1"
+        },
+        "PXRD": {
+          "high_resolution": "collected at 11BM at the APS, Argonne National Laboratory, USA",
+          "variable_temperature": "Panalytical X’pert Pro diffractometer (Cu Kα1,2)"
+        },
+        "TGA": "TA Instruments Discovery TGA, heated in air from 28 °C to 600 °C"
+      },
+      "stability_and_porosity": {
+        "VT-PXRD": "Anton Paar XRK 900 high-temperature chamber",
+        "sorption_properties": "Micromeritics ASAP2020 surface area and porosity analyzer",
+        "stability_in_solvents_and_solutions": "1 mL of each respective solvent or solution was added and stirred at room temperature or 80 °C for 24 h",
+        "stability_in_L-cysteine_and_L-cystine": "1 mg mL-1 of the material in water, stirred at 37 °C for 24 h",
+        "pH_dependent_stability": "20 mg of as-synthesized SU-101 was immersed in 3 mL of stock solution, prepared from either NaOH or concentrated HCl"
+      },
+      "biocompatibility": {
+        "cell_culture": "HL-60 cell lines cultured in RPMI 1640 medium",
+        "cytotoxicity_studies": "MTT assay, cells seeded 24h prior to the assay in 96-well plates at a density of 1 × 105 cells per well"
+      },
+      "SO2_and_H2S_capture": {
+        "SO2_capture": "Dynamic Gravimetric Gas/Vapour Sorption Analyser, DVS vacuum",
+        "H2S_breakthrough_experiments": "HP 5890 GC, lab-made system for dynamic breakthrough experiments"
+      }
+    }
+  ]
+}

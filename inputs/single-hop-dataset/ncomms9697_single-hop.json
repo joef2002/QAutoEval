@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for MAF-49?",
+      "answer": "C5H7N8O0.5Zn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of MAF-49?",
+      "answer": "Heating a mixture of Zn(OH)2, H2batz, aqueous ammonia, and water in a Teﬂon reactor at 160°C for 72 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest C2H4 purity achieved by MAF-49 using a 1:1 C2H4/C2H6 mixture?",
+      "answer": "99.986-99.984%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does MAF-49 compare to IRMOF-8 in terms of C2H4 productivity for a 15:1 C2H4/C2H6 mixture?",
+      "answer": "MAF-49 has a C2H4 productivity about 30 to 50 times higher than IRMOF-8.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the narrow channel neck in MAF-49 for gas separation?",
+      "answer": "The narrow channel neck, with its combination of electronegative nitrogen atoms and electropositive methylene groups, allows for multiple attractive interactions for C2H6 and enforces C2H4 to adopt a position that can only form fewer and weaker attractive interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MAF-49 stable in boiling water?",
+      "answer": "Yes, MAF-49 is stable in boiling water for at least 1 month.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MAF-49 exhibit selective adsorption of C2H6 over CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can MAF-49 directly produce high-purity C2H4 from C2H4/C2H6 mixtures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the C2H6/C2H4 selectivity of MAF-49 lower than that reported in the literature for other materials?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MAF-49 require multiple adsorption-desorption cycles to achieve high C2H4 purity?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the guest-free MAF-49 obtained by heating the as-synthesized sample under high vacuum at 150°C for 12 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MAF-49 have a higher C2H6 adsorption enthalpy compared to MAF-3, MAF-4, and IRMOF-8?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can MAF-49 separate a four-component CH4/C2H4/C2H6/CO2 mixture?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the C2H4 purity decrease when using a 15:1 C2H4/C2H6 mixture compared to a 1:1 mixture for MAF-49?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the C2H4 productivity of MAF-49 unaffected by the feeding ratio of C2H4 to C2H6?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of MAF-49 when synthesized?",
+      "answer": "Approximately 86%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of aqueous ammonia in the synthesis of MAF-49?",
+      "answer": "Aqueous ammonia acts as a solvent and a reactant in the synthesis process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MAF-49 be used for the extraction of C2H6 from natural gases?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the temperature used for activating MAF-49?",
+      "answer": "150°C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does MAF-49 exhibit a higher C2H6 uptake at low pressure compared to other MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

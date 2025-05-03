@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the diffusivity of TEA in MOF-1?",
+      "answer": "(1.1±0.2)×10^-13 m^2/s",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can DIPEA enter the MOF channels?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for geometry optimization of DIPEA and 4-MeOPhNPh2?",
+      "answer": "DFT method using B3LYP functional",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Stern-Volmer constant for TPA quenching in a homogeneous system?",
+      "answer": "The Stern-Volmer constant is not directly provided in the text.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the diffusivity of TBA in MOF-1 higher than that of DIPEA?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the basis set used for C and H in the DFT calculations?",
+      "answer": "6-31G*",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was solvation considered in the DFT calculations for DIPEA and 4-MeOPhNPh2?",
+      "answer": "Yes, solvation in cyclohexane was considered using CPCM model.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of β parameter in the diffusion model?",
+      "answer": "It represents the correction to equilibrium diffusant concentration in MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used to measure the diffusivity of amines in MOF-1?",
+      "answer": "Luminescence quenching experiments",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the size of 4-MeOPhNPh2 allow it to enter MOF channels?",
+      "answer": "Yes, despite its large size, 4-MeOPhNPh2 can enter the MOF channels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated error for the diffusivity calculation of TPA?",
+      "answer": "±1.2×10^-14 m^2/s",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the emission from surface quenching considered in the model?",
+      "answer": "Yes, emission from surface quenching was considered.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the A term in the diffusion model?",
+      "answer": "It is related to the pre-exponential factor and depends on specific crystal geometry and position.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the method used for the synthesis of H2L?",
+      "answer": "Direct reaction of cis-[Ru(bpy)2Cl2] with 2,2′-bipyridine-5,5′-dicarboxylate acid.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the diffusivity of TBA in MOF-1 on the order of 10^-14 m^2/s?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of MOF-1?",
+      "answer": "Orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the emission intensity normalized against the equilibrium intensity for the quenching experiments?",
+      "answer": "Yes, the time-dependent intensity was normalized against the equilibrium intensity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of MOF-1?",
+      "answer": "C2221",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the excitation wavelength used in the luminescence quenching experiments?",
+      "answer": "452 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the diffusivity of amines in MOF-1 be determined by confocal laser scanning microscopy?",
+      "answer": "False, the diffusivity was determined by modeling time-dependent luminescence quenching data, not by confocal laser scanning microscopy.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

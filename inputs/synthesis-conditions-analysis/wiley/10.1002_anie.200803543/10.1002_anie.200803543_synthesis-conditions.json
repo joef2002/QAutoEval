@@ -1,0 +1,67 @@
+{
+  "materials": [
+    {
+      "name": "Pt12Fe12 heterometallic open hexagonal box (1)",
+      "synthesis_conditions": {
+        "temperature": "50 8C",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "2 mL"
+          },
+          {
+            "name": "nitromethane",
+            "amount": "4 mL"
+          }
+        ],
+        "equipment": "10 mL round-bottom flask",
+        "chemicals_used": [
+          {
+            "name": "pseudo-C4-symmetric tetratopic donor L",
+            "solvent": "dichloromethane"
+          },
+          {
+            "name": "cis-[(dppf)Pt(OTf)2] (M)",
+            "solvent": "nitromethane",
+            "equivalents": "two equivalents"
+          }
+        ],
+        "time": "2 h",
+        "washing_method": "addition of diethyl ether",
+        "drying_method": "not specified",
+        "yield": "94 %",
+        "additional_steps": [
+          {
+            "description": "Stirring for 15 min before heating",
+            "time": "15 min",
+            "temperature": "room temperature"
+          }
+        ],
+        "color_change": "from violet blue to red brown",
+        "final_product_form": "red-brown solid"
+      }
+    },
+    {
+      "name": "ZnII-coordinated derivative of 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "purpose": "dissolving ZnII acetate"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZnII acetate",
+            "amount": "6 equivalents"
+          }
+        ],
+        "temperature": "room temperature",
+        "catalyst": "none required",
+        "color_change": "from red brown to dark green",
+        "final_product_form": "not specified",
+        "notes": "Basic structure of the box remained intact."
+      }
+    }
+  ]
+}

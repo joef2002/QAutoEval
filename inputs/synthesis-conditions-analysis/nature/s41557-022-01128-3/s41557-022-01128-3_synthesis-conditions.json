@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "1DMF",
+      "synthesis_conditions": {
+        "temperature": "393 K",
+        "solvents": "DMF",
+        "amount_of_solvent": "10 ml",
+        "chemicals_used": [
+          {
+            "name": "dpt",
+            "amount": "0.3 mmol (63.0 mg)"
+          },
+          {
+            "name": "1,3-bib",
+            "amount": "0.3 mmol (95.0 mg)"
+          },
+          {
+            "name": "cobalt nitrate hexahydrate",
+            "amount": "0.3 mmol (87.0 mg)"
+          }
+        ],
+        "equipment": "solvothermal",
+        "time": "2 days",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "1Hydrate",
+      "synthesis_conditions": {
+        "temperature": "423 K",
+        "drying_method": "exposed to air for a few minutes",
+        "description": "Activation of 1DMF induces a transformation to 1Hydrate."
+      }
+    },
+    {
+      "name": "1Apohost",
+      "synthesis_conditions": {
+        "temperature": "393 K",
+        "equipment": "environmental gas cell (EGC)",
+        "time": "overnight",
+        "description": "Evacuation of 1DMF in an EGC and heating."
+      }
+    },
+    {
+      "name": "1'CO2",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "pressure": "1 bar CO2",
+        "time": "3 h",
+        "description": "Exposure of 1Apohost to CO2 gas."
+      }
+    },
+    {
+      "name": "1''CO2",
+      "synthesis_conditions": {
+        "temperature": "298 K",
+        "pressure": "56 bar CO2",
+        "time": "3 h",
+        "description": "Exposure of 1Apohost to CO2 gas at higher pressure."
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "[(H2NMe2)2Cd3(C2O4)4]·MeOH·2 H2O (1)",
+      "synthesis_conditions": {
+        "temperature": "170 8C",
+        "solvents": [
+          {
+            "name": "dimethylformamide (DMF)",
+            "amount": "8 mL"
+          },
+          {
+            "name": "methanol (MeOH)",
+            "amount": "6 mL"
+          }
+        ],
+        "equipment": "25-mL teflon-lined stainless-steel vessel",
+        "chemicals_used": [
+          {
+            "name": "CdCO3",
+            "amount": "174 mg, 1.0 mmol"
+          },
+          {
+            "name": "H2C2O4",
+            "amount": "120 mg, 1.33 mmol"
+          }
+        ],
+        "time": "7 days",
+        "washing_method": "washed with distilled water and diethyl ether",
+        "drying_method": "dried in air",
+        "yield": "120 mg (42 % based on Cd)"
+      }
+    },
+    {
+      "name": "Ion-exchanged samples of 1",
+      "synthesis_conditions": {
+        "temperature": "60 8C",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "4 mL"
+          },
+          {
+            "name": "methanol",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": [
+          "10-mL capped vial",
+          "13-mL teflon-lined stainless-steel vessel"
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaCl",
+            "amount": "0.39 mmol, 23 mg"
+          }
+        ],
+        "time": "5 days",
+        "washing_method": "washed several times with water, acetone, and diethyl ether",
+        "formulations": [
+          {
+            "name": "[Na2Cd3(C2O4)4]·5 H2O",
+            "condition": "Na+-exchanged"
+          },
+          {
+            "name": "[(NH4)2Cd3(C2O4)4]·5 H2O",
+            "condition": "NH4+-exchanged"
+          },
+          {
+            "name": "[K2Cd3(C2O4)4]·4 H2O",
+            "condition": "K+-exchanged"
+          },
+          {
+            "name": "[(H2NMe2)2Cd3(C2O4)4]·3 H2O",
+            "condition": "H2NMe2+-re-exchanged from Na+-exchanged material"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the optimal pre-catalyst for transfer hydrogenation of imines to amines?",
+      "answer": "Cs(tBuDHP)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which solvent was found to increase yields and shorten reaction times for heavier alkali metal catalysts?",
+      "answer": "THF-d8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does Cs(tBuDHP) play in the catalytic reduction of imines?",
+      "answer": "It acts as either a base or as a surrogate hydride.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the source of hydrogen in the transfer hydrogenation process described?",
+      "answer": "1,4-cyclohexadiene",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What trend is observed in catalyst efficiency based on the alkali metal used?",
+      "answer": "Heavier alkali metal tBuDHPs outperform the lighter congeners.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome when using Cs[N(SiMe3)2] as a catalyst under the same conditions as Cs(tBuDHP)?",
+      "answer": "It reached 98% conversion after heating for 3 hours at 70 °C.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is Cs(tBuDHP) considered a superior catalyst compared to other alkali-metal secondary amides?",
+      "answer": "Because it may access both Base Mediated Initiation Pathway and Surrogate Hydride Initiation Pathway, unlike other alkali-metal secondary amides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the rate limiting step in the catalytic cycle for Cs catalysis?",
+      "answer": "The conversion of I5 to I3 and the product P, with a barrier of 21.4 kcal mol-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the catalytic performance of Li(tBuDHP) compare to Li[N(SiMe3)2]?",
+      "answer": "Li(tBuDHP) gave a five-fold higher yield than Li[N(SiMe3)2] under identical conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens when Cs(tBuDHP) reacts with pyridine?",
+      "answer": "Crystals of the pyridine solvate {[Cs(tBuDHP)]2 · py}∞ are formed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the study's findings on caesium organometallic complexes?",
+      "answer": "It highlights the promise of caesium organometallic complexes as effective catalysts for transfer hydrogenation in converting imines to amines.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the study suggest about treating alkali metals in catalytic reactions?",
+      "answer": "Alkali metals should be treated as separate individuals not as a collective class when considering alkali-metal-mediated reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Cs(tBuDHP) is the only catalyst that can achieve high yields in the transfer hydrogenation of imines.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that Li(tBuDHP) is a more effective catalyst than Cs(tBuDHP) for transfer hydrogenation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The reaction medium THF-d8 was found to decrease yields for heavier alkali metal catalysts.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study suggests that Cs(tBuDHP) acts exclusively as a surrogate hydride in the catalytic reduction of imines.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The rate limiting step in the catalytic cycle for Cs catalysis is the formation of the Cs-Meisenheimer complex.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study demonstrates that all alkali metal dihydropyridine complexes behave as surrogate hydrides.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study concludes that caesium homogeneous catalysis is fully developed and requires no further research.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that Cs[N(SiMe3)2] is a faster catalyst than Cs(tBuDHP) under identical conditions.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

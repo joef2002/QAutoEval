@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge that NKMOF-1-M materials aim to address?",
+      "answer": "NKMOF-1-M materials aim to address the challenge of highly selective separation and/or purification of acetylene from various gas mixtures.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What gases do NKMOF-1-M materials exhibit selectivity towards acetylene over?",
+      "answer": "NKMOF-1-M materials exhibit selectivity towards acetylene over CO2 and CH4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of acetylene in industrial applications?",
+      "answer": "Acetylene is significant in industrial applications for the production of plastics, acrylic derivatives, vinyl compounds, and a-ethynyl alcohols.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the separation of acetylene from CH4 and CO2 industrially relevant?",
+      "answer": "The separation of acetylene from CH4 and CO2 is industrially relevant because the production of C2H2 usually generates these gases, requiring efficient and energy-efficient purification methods.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes MOFs potentially superior to traditional porous materials for gas separation?",
+      "answer": "MOFs are potentially superior due to their crystallinity, ultra-high surface area, tuneable pore size, and the ability to design features that enhance C2H2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the key features of NKMOF-1-M that contribute to its high C2H2 binding affinity?",
+      "answer": "The key features include ultramicropores, open metal sites, and a 3D framework with 1D square channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NKMOF-1-M materials rely on the same mechanism as current benchmark physisorbents for their performance.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: NKMOF-1-M materials are stable in water for at least six months at room temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of NKMOF-1-Ni after activation?",
+      "answer": "NKMOF-1-Ni has a BET surface area of 382 m2 g@1 after activation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NKMOF-1-Ni has a higher BET surface area than NKMOF-1-Cu.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the adsorption selectivity of NKMOF-1-Ni for C2H2/CO2 (1/1, v/v) at 298 K?",
+      "answer": "The adsorption selectivity of NKMOF-1-Ni for C2H2/CO2 (1/1, v/v) at 298 K is 249.3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The selectivity of NKMOF-1-Ni towards C2H2/CH4 (1/1, v/v) is less than that of ZJU-198 a.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to study the crystal structure of NKMOF-1-Cu under C2H2?",
+      "answer": "Single-crystal X-ray diffraction (SCXRD) was used to study the crystal structure of NKMOF-1-Cu under C2H2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NKMOF-1-Ni can be recycled at least five times without loss of performance.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the breakthrough time for C2H2 in a C2H2/CH4 (1/1, v/v) mixture at 298 K using NKMOF-1-Ni?",
+      "answer": "The breakthrough time for C2H2 in a C2H2/CH4 (1/1, v/v) mixture at 298 K using NKMOF-1-Ni is 38.3 minutes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The performance of NKMOF-1-M materials in gas separation is attributed solely to their large specific surface areas.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What theoretical methods were used to understand the acetylene adsorption performance of NKMOF-1-M?",
+      "answer": "GCMC (grand canonical Monte Carlo) methods and first-principles DFT-D (dispersion-corrected density functional theory) calculations were used.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NKMOF-1-Ni exhibits the highest selectivities yet reported for C2H2/CO2 and C2H2/CH4.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of open metal sites in NKMOF-1-M materials?",
+      "answer": "Open metal sites in NKMOF-1-M materials contribute to strong interactions between C2H2 and pore walls, enhancing C2H2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption selectivity of NKMOF-1-Ni for C2H2 over C2H4 is lower than that of SIFSIX-14-Cu-i.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on the synthesis and characterization of a multifunctional ion-exchanged porous Metal-Organic Framework (MOF) for applications in gas adsorption, separation, and ionic conduction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of H6pptd?",
+      "answer": "H6pptd was synthesized through a Pd-catalyzed cross-coupling reaction under microwave irradiation, followed by acid hydrolysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What techniques were used for the characterization of the synthesized materials?",
+      "answer": "Techniques used for characterization include SEM/EDS elemental mapping, FT-IR spectroscopy, thermogravimetric analysis (TGA), powder X-ray diffraction (PXRD), solid-state NMR, and electrochemical impedance spectroscopy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of incorporating K+ cations into the MOF structure?",
+      "answer": "Incorporating K+ cations into the MOF structure significantly improved its properties, including gas adsorption capacity, selectivity for CO2 over other gases, and ionic conductivity, making it a promising material for applications in gas separation and as an electrolyte in fuel cells.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the gas separation performance of the MOFs evaluated?",
+      "answer": "The gas separation performance of the MOFs was evaluated using breakthrough experiments with binary and ternary gas mixtures, as well as pulse gas chromatography studies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were employed in the study?",
+      "answer": "Computational methods employed in the study include density functional theory (DFT) calculations and grand canonical Monte Carlo (GCMC) simulations for investigating the adsorption properties and optimizing the structures of the MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the potential applications of the synthesized MOFs?",
+      "answer": "The synthesized MOFs have potential applications in carbon capture and storage (CCS), selective gas separation, and as high-performance materials for proton conduction in fuel cells.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesized MOFs showed high thermal stability up to 800 ºC.",
+      "answer": "False. The synthesized MOFs showed high thermal stability up to approximately 400 ºC, after which decomposition of the organic components occurred.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of HCl in the synthesis of the MOFs?",
+      "answer": "The addition of HCl was crucial for growing larger single crystals of the MOFs, which facilitated structural analysis through X-ray diffraction studies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOFs were capable of selectively adsorbing CO2 over N2 in gas separation experiments.",
+      "answer": "True. The MOFs demonstrated the capability to selectively adsorb CO2 over N2 in gas separation experiments, highlighting their potential for CO2 capture applications.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

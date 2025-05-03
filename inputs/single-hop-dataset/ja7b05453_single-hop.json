@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary goal for the design of future storage media for methane?",
+      "answer": "Maximizing the storage capacity",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which material among MFM-112a, MFM-115a, and MFM-132a has the highest deliverable CH4 storage capacity?",
+      "answer": "MFM-115a",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to investigate the molecular dynamics of the rotating aromatic rings in the partially deuterated MFMs series?",
+      "answer": "Solid-state 2H NMR spectroscopy",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of CD4 adsorption on the ligand rotation in MFM-112a-d12?",
+      "answer": "It slightly affects the ligand rotation by reducing the rate of rotation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of CH4 affect the rotation of phenylene groups in MFM-115a-d12?",
+      "answer": "No, the effect of CH4 on the rotation of the phenylene groups in MFM-115a-d12 is negligible.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of the partially deuterated frameworks identical to their non-deuterated versions?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MFM-132a retain its framework rigidity at various temperatures?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the linker face in MFM-132a completely flat after activation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MFM-132a show permanent microporosity as revealed by the N2 adsorption at 77 K?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the activation barrier for the branched phenylene ring rotation in MFM-115a-d12 almost 5 times higher than that in MFM-112a-d12?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the anthracene ring in MFM-132a-d24 show very limited angular librations within its confinement?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the primary binding site for CD4 within MFM-132a located within the small pocket enclosed by the [(Cu2)3(isophthalate)3] window and three anthracene/phenyl panels?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the open Cu(II) sites provide the strongest binding site for adsorbed methane molecules in various MOFs?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the linker face in the activated form MFM-132a completely flat?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the linker rotation mechanism in MFM-112a-d12 remain unchanged after loading with CH4?",
+      "answer": "No, the actual rates are affected as the CH4 guest molecules partially block the linker rotation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of MFM-132a as determined by Rietveld refinements?",
+      "answer": "Fm-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of temperature on the adsorption properties of MFM-112a, MFM-115a, and MFM-132a?",
+      "answer": "The adsorption properties vary with temperature, affecting the deliverable CH4 capacity and the molecular dynamics of the frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the linker face in MFM-132 convex at low temperatures?",
+      "answer": "Yes, at 120 K, the linker face forms a more convex shape due to interactions with guest solvent molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the linker face in MFM-132 become flat at higher temperatures?",
+      "answer": "Yes, at 298 K, the linker face is almost flat with the linker arms being fully stretched.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the unit cell parameter of MFM-132a increase after activation?",
+      "answer": "Yes, MFM-132a shows a slightly enlarged unit cell parameter compared to the solvated form.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

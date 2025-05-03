@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of the study on refining pore size in robust MFM-300(M)?",
+      "answer": "The main goal of the study is to achieve precise discrimination and excellent chromatographic separation of three xylene isomers with exceptional separation factors at room temperature by refining the pore size at sub-angstrom resolution in robust MFM-300(M) (M = In, V, Fe, Al).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is currently used for the separation of xylene isomers in the industry?",
+      "answer": "The separation of xylene isomers in the industry is currently performed via either fractional crystallisation operating at ~220 K or adsorption in porous adsorbents, such as cation-exchanged FAU-type zeolites X and Y.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the observed elution order of xylene isomers in MFM-300 materials?",
+      "answer": "The observed elution order of xylene isomers in MFM-300 materials is p-xylene, o-xylene, and then m-xylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of MFM-300 materials compare to the diameter of xylene isomers?",
+      "answer": "MFM-300 materials exhibit well-defined pore sizes, i.e., 7.4, 7.0, 6.8, and 6.5 Å for MFM-300(M) (M = In, V, Fe, Al), respectively, providing an opportunity to probe a narrow pore size region between 6.5 and 7.4 Å relevant to molecular cross-section sizes of p-, o-, and m-xylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the 'roll-up' effect observed in the study?",
+      "answer": "The 'roll-up' effect observed in the study indicates that the xylene isomer molecules are competitively adsorbed in the pores and there is competition between the xylenes and n-pentane, highlighting the complex interactions and competitive adsorption dynamics within the pores of MFM-300 materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What techniques were used to investigate the origins of the observed xylene selectivity in MFM-300 materials?",
+      "answer": "A combination of crystallographic and spectroscopic techniques, including high-resolution synchrotron X-ray powder diffraction, terahertz spectroscopy, and molecular dynamic (MD) modelling, were used to investigate the origins of the observed xylene selectivity in MFM-300 materials.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MFM-300 materials show a unique elution sequence for xylene isomers that is distinct from previously reported MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The separation of xylene isomers in MFM-300 materials is primarily governed by thermodynamic factors.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the stretched exponential model in the study?",
+      "answer": "The stretched exponential model is used to analyse the differences in kinetic data for xylene uptake, helping to understand the adsorption kinetics and mechanisms for the three xylene isomers in MFM-300 materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that MFM-300 materials are unable to discriminate between p- and m-xylene.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

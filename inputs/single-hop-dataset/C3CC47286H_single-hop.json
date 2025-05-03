@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of tuning a layer to a pillared-layer metal–organic framework?",
+      "answer": "The purpose is for adsorption and separation of light hydrocarbons.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to record Powder X-ray diffraction (PXRD) analyses?",
+      "answer": "PXRD analyses were recorded on a Rigaku Dmax2500 diffractometer with Cu Kα radiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of [Zn3L2(DMPU)2] (FIR-6) based on H3L?",
+      "answer": "The yield of FIR-6 based on H3L is 70%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of FIR-7?",
+      "answer": "The Langmuir surface area of FIR-7 is 1894.1 m2 g-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum uptake capacity of C3H8 by FIR-7a-ht at 298 K?",
+      "answer": "The maximum uptake capacity of C3H8 by FIR-7a-ht at 298 K is 7.24 mmol g-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity of C3H8/CH4 for FIR-7a-ht?",
+      "answer": "The selectivity of C3H8/CH4 for FIR-7a-ht is 78.8.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the bpp ligands in the structure of FIR-7?",
+      "answer": "The bpp ligands occupy two axial coordination sites of the trinuclear [Zn3(COO)6] unit and link adjacent layers to form a pillared-layer framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of DMPU molecules affect the structure of FIR-6?",
+      "answer": "The DMPU molecule acts as a dangling ligand to bind one Zn center, controlling the dimensionality of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does FIR-7 exhibit high C3H8 uptake capacity?",
+      "answer": "FIR-7 exhibits high C3H8 uptake capacity due to its permanent porosity and large Langmuir surface area.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of removing guest molecules on the structure of FIR-7?",
+      "answer": "The removal of guest molecules results in a slight change in the peak positions in the PXRD pattern of FIR-7, indicating a slight change in the host framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the topology of FIR-7 contribute to its functionality in hydrocarbon separation?",
+      "answer": "The topology of FIR-7, being a (3,8)-connected network, contributes to its functionality by providing a pillared-layer framework with open channels for effective hydrocarbon separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the trinuclear [Zn3(COO)6] unit in FIR-7?",
+      "answer": "The trinuclear [Zn3(COO)6] unit in FIR-7 is significant for forming the double-layer structure and for being linked by bpp ligands to create the pillared-layer framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of FIR-6 and FIR-7 carried out under autogenous pressure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FIR-7 have a higher Langmuir surface area than FIR-6?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of FIR-7 higher than that of FIR-6?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FIR-7 exhibit type-I sorption behaviour for N2 at 77 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the C3H8/CH4 selectivity of FIR-7a-ht lower than 50?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the thermal stability studies of the materials carried out under a nitrogen atmosphere?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of FIR-6 involve heating the mixture at 120 °C for 48 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption capacity of FIR-7 for C3H8 lower at 273 K than at 298 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

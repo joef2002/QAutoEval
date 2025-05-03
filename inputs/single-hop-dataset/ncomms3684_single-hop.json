@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of NOF-1?",
+      "answer": "C6 H4 N6 O4 Zn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the crystal structure determination of NOF-1, NOF-2, and NOF-3?",
+      "answer": "Single-crystal X-ray diffraction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the NO flux controlled during the irradiation experiments?",
+      "answer": "By varying the intensity of the light source",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of NOF-1 in the PDMS layer induced notable cytotoxicity in HEK293 cells.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of using a near-infrared two-photon laser for NOF-1 photoactivation?",
+      "answer": "It reduced the risk of photodamaging the cells with harmful ultraviolet irradiation while effectively inducing NO release.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed effect of NO delivery on HEK293-TRPC5 cells?",
+      "answer": "A rapid increase in the intracellular calcium ion concentration",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NO-releasing properties of NOF-1 and NOF-2 were probed using the NO-selective ozone-chemiluminescence technique.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of sodium formate in the synthesis of microcrystalline NOF-1 and NOF-2 powders?",
+      "answer": "It induced faster nucleation by ligand deprotonation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NOF-1 and NOF-2 frameworks provided sufficient spatial segregation to prevent intermolecular ligand interactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of embedding NOF-1 microcrystals in a PDMS layer on NO release kinetics?",
+      "answer": "It moderately slowed the release kinetics, but the total quantity of NO released remained comparable.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The irradiation of [Zn(MeIm)2]n did not induce any increase in the intracellular DAF-FM fluorescence in surrounding cells.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using Matrigel in cell culture on an NOF-1/PDMS substrate?",
+      "answer": "To facilitate cell adhesion and growth",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NOF-1/PDMS substrates were sterilized using 70% ethanol before cell culture.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed effect of heating NOF powders up to 200°C?",
+      "answer": "Lack of significant NO release, confirming the thermal stability of NOF powders",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NOF-1 and NOF-2 are isostructural to previously reported ZIF compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of organizing nitro-containing imidazolate ligands into crystalline frameworks?",
+      "answer": "Increased photoreactivity and adjustable release using light irradiation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NOF-1 framework demonstrated significant absorption tailing in the range of 400–500 nm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of the cobalt analogue of NOF-1 on NO release?",
+      "answer": "It failed to release significant quantities of NO compared with NOF-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NOF-3 framework released a significantly reduced amount of NO compared to NOF-1 under similar illumination.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the PDMS layer in the NOF-1/PDMS substrate?",
+      "answer": "To completely embed the crystals in a biocompatible matrix allowing cellular adhesion",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

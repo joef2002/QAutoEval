@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "enantiopure chiral ferromagnet",
+      "synthesis_conditions": {
+        "techniques": [
+          "enantioselective self-assembly"
+        ],
+        "chemicals_used": [
+          "resolved chiral quaternary ammonium cation",
+          "chromium–manganese two-dimensional oxalate layers"
+        ],
+        "properties": {
+          "Curie_temperature": "7 K"
+        }
+      }
+    },
+    {
+      "name": "[N(CH3)(n-C3H7)2(s-C4H9)][MnCr(ox)3]",
+      "synthesis_conditions": {
+        "techniques": [
+          "gel technique",
+          "slow diffusion technique"
+        ],
+        "chemicals_used": [
+          "(NH4)3[Cr(ox)3]·3H2O",
+          "Mn(NO3)2·6H2O",
+          "Si(OCH3)4",
+          "[N(CH3)(n-C3H7)2((S)-s-C4H9)]I or [N(CH3)(n-C3H7)2((R)-s-C4H9)]I",
+          "acetone"
+        ],
+        "solvents": [
+          "water/methanol mixture",
+          "methanol"
+        ],
+        "amount_of_solvents": {
+          "water/methanol mixture": "3 ml",
+          "methanol": "0.5 ml"
+        },
+        "temperature": "room temperature",
+        "time": {
+          "gel technique": "a few days",
+          "slow diffusion technique": "24 h"
+        }
+      }
+    }
+  ],
+  "characterization_methods_excluded": [
+    "Single-crystal X-ray diffraction",
+    "Magnetic measurements",
+    "Magneto-chiral dichroism",
+    "Natural circular dichroism"
+  ]
+}

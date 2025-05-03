@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of CPM-4?",
+      "answer": "[NH2(CH3)2]2[In3(BTC)5][Co2(DMF)6]·solvent",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of CPM-4?",
+      "answer": "A mixture of In(NO3)3·xH2O, CoCl2·4H2O, and 1,3,5-benzenetricarboxylic acid (H3BTC) was stirred in N,N-dimethylformamide (DMF) for 1 hr, then transferred into a vial and kept at 100 oC for 5 days.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework of CPM-30 cationic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of isonicotinic acid in the synthesis of CPM-31?",
+      "answer": "Isonicotinic acid serves as an auxiliary ligand, with its pyridal ends anchored to the open metal sites of the In3O trimeric nodes, and its carboxyl ends stretching toward the centers of channels to capture metal ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can CPM-30 undergo ion exchange with methylene blue (MB+)?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum radius of pores in CPM-30 according to the pore size distribution data?",
+      "answer": "6.52 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of CPM-32 compare to CPM-30?",
+      "answer": "CPM-32 has smaller pore sizes compared to CPM-30 due to the insertion of secondary metal ions or clusters, which partition the large channel spaces into multiple smaller domains.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield percentage of CPM-4 based on H3BTC?",
+      "answer": "50.1%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the extended hook method allow for the capture of single metal ions or clusters in MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary difference between the BTC method and the extended hook method in MOF synthesis?",
+      "answer": "The BTC method relies on the cooperative action of hooks from multiple ligands for metal capture, while the extended hook method uses auxiliary ligands anchored at open metal sites for metal capture, independent of the framework organic ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can CPM-30 undergo ion exchange with acid orange 7 (AO7-) anions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of CPM-32?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What percentage of nitrate anions within CPM-30 can be exchanged by AO7- dye anions if the CPM-30/AO7- ratio is kept at 1:1?",
+      "answer": "About 21%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework of CPM-32 capable of undergoing ion exchange with MnO4- anions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of pyrazole in the synthesis of CPM-30?",
+      "answer": "Pyrazole was used in the synthesis mixture but its specific role is not detailed in the provided text.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the introduction of extended hooks in MOFs allow for the partitioning of pore space into multiple domains?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of CPM-31?",
+      "answer": "P-31c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the extended hook method be tailored to different MOFs by matching the length of the hook with the radius of cages or channels in MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage of CPM-32 based on H2BBDC?",
+      "answer": "2%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the charge of the framework affect the ion-exchange capability of CPM-30?",
+      "answer": "The cationic framework of CPM-30 does not allow for the exchange of cationic dyes like methylene blue (MB+), but it can undergo ion exchange with anionic dyes and anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the proton conductivity value of PCMOF10 at 70 °C and 95% RH?",
+      "answer": "3.55 × 10–2 S·cm–1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is PCMOF10 water stable?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the 2,5-dicarboxy-1,4-benzenediphosphonic acid (H6L) linker in PCMOF10?",
+      "answer": "It anchors a robust backbone and has hydrogen phosphonate groups that interact with the lattice water to form an efficient proton transfer pathway.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of PCMOF10 swell upon hydration?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy for proton transfer in PCMOF10?",
+      "answer": "0.4 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was PCMOF10 synthesized?",
+      "answer": "Solvothermally in a Teflon-lined autoclave by adding Mg(NO3)2·6H2O and H6L to a mixture of methanol and H2O and heating to 150 °C.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conductivity of PCMOF10 dependent on humidity?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the proton conductivity of PCMOF10 at 70% RH compared to 95% RH?",
+      "answer": "It drops significantly from 3.55 × 10–2 S cm–1 to 4.17 × 10–4 S cm–1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the water stability of PCMOF10?",
+      "answer": "The PXRD patterns of the as-synthesized and water-soaked samples were in good agreement.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PCMOF10 retain its structure and properties after immersion in water?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of PCMOF10?",
+      "answer": "Triclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of PCMOF10?",
+      "answer": "Mg2(H2O)4(H2L)·H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the shortest hydrogen bond distance observed in PCMOF10?",
+      "answer": "Between the lattice water molecule (Ow) and one of the coordinated water molecules (O10).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of PCMOF10 reproducible after consecutive heating and cooling cycles?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the extensive O–H···O hydrogen-bond network in PCMOF10?",
+      "answer": "It forms an efficient proton transfer pathway in the MOF pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PCMOF10 exhibit high proton conductivity under anhydrous conditions?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability of PCMOF10?",
+      "answer": "It shows a weight loss of 19.03% below 210 °C, attributable to the loss of lattice and coordinated water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the organic hydrogen atoms in PCMOF10 located in geometrically ideal positions?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of magnesium atoms in the structure of PCMOF10?",
+      "answer": "Each magnesium atom is octahedrally coordinated to two water molecules, a carboxylate oxygen, and three phosphonate oxygens.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the reproducibility of proton conductivity in PCMOF10?",
+      "answer": "The pre- and postimpedance PXRD patterns.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of CTH-17?",
+      "answer": "[La2(cpb)]·1.5dmf",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what temperature was the single-crystal data for CTH-17-300K obtained?",
+      "answer": "300 K",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the space group of CTH-17-90K?",
+      "answer": "P6122",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What method was used to synthesize CTH-17?",
+      "answer": "Solvothermal method in a steel autoclave or in a sealed glass tube",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the crystal system of [La(HCO2)3]?",
+      "answer": "Trigonal",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the ideal space group for CTH-17 according to the network topology analysis?",
+      "answer": "P6/mmm",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What phenomenon is attributed to the gating effect observed in CTH-17?",
+      "answer": "Concerted movement of the entire framework",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the average phenyl twist angle for cpb-MOFs according to the CSD analysis?",
+      "answer": "70.8°",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is CTH-17 stable in water for at least 1 hour?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Does the synthesis of CTH-17 result in the formation of La-formate as a byproduct?",
+      "answer": "Yes",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the crystal structure of CTH-17 enantiopure?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Does CTH-17 exhibit a gate-opening effect for CO2 loading?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is the chiral structure of CTH-17 confirmed as the energy minimum by DFT calculations?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Can the concerted movement in CTH-17 potentially increase the available space for CO2 by up to 40%?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Is the chemical stability of CTH-17 lowest in very basic (5 M NaOH) media?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the coordination sequence for node 1 in the network topology of CTH-17?",
+      "answer": "5 15 40 75 111 166 231 291 376 471",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the shortest non-bonded distance in the network topology analysis of [La(HCO2)3]?",
+      "answer": "0.99999",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the R1 value for the SCXRD model of CTH-17-90K?",
+      "answer": "0.0817",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the crystal system of CTH-17 according to the network topology analysis?",
+      "answer": "Hexagonal",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Does the synthesis of CTH-17 in a Teflon-lined steel autoclave result in a more crystalline product compared to the glass vial method?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    }
+  ]
+}

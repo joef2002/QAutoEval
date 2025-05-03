@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main industrial challenge addressed by the development of NKMOF-1-M?",
+      "answer": "The main industrial challenge addressed is the simultaneous removal of trace amounts of propyne and propadiene from propylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are NKMOF-1-Ni and NKMOF-1-Cu considered superior for gas separation?",
+      "answer": "They are considered superior due to their exceptional water stability, high uptakes for both propyne and propadiene at low pressures, and the highest reported selectivity for producing polymer-grade propylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Traditional porous materials like zeolites and activated carbon have been successful in separating ternary propyne/propadiene/propylene gas mixtures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What unique feature does NKMOF-1-M offer for gas capture or separation?",
+      "answer": "NKMOF-1-M offers two distinct binding sites for gas molecules, which could be beneficial for gas capture or separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does NKMOF-1-M achieve high selectivity in separating propyne and propadiene from propylene?",
+      "answer": "NKMOF-1-M achieves high selectivity through its strong binding affinity for propyne and propadiene over propylene, especially in the ultra-low-pressure region.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of NKMOF-1-Ni and -Cu for propyne and propadiene do not exhibit steep curves in the low-pressure region.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the isosteric enthalpy of adsorption (Qst) for NKMOF-1-M?",
+      "answer": "The dual-site Langmuir–Freundlich (DSLF) isotherm model was used to calculate the Qst.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the high Qst value indicate about NKMOF-1-M's affinity towards gases?",
+      "answer": "A high Qst value indicates that NKMOF-1-M possesses much stronger binding affinity for propyne and propadiene than propylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NKMOF-1-Ni and NKMOF-1-Cu have lower selectivity for propadiene/propylene and propyne/propylene compared to the benchmark material ZU-62.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How were the binding sites of gas molecules with the framework of NKMOF-1-M verified?",
+      "answer": "The binding sites were verified through single-crystal X-ray diffraction (SCXRD) by capturing propyne and propadiene molecules in the crystal structure of NKMOF-1-Cu.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role do hydrogen bonds play in the adsorption process of NKMOF-1-M?",
+      "answer": "Hydrogen bonds between the gas molecules and the framework of NKMOF-1-M enhance the binding affinity and selectivity for propyne and propadiene over propylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Propyne and propadiene molecules preferentially bind to the weaker binding site II in NKMOF-1-M.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to evaluate the adsorption sites and energies in NKMOF-1-M?",
+      "answer": "Periodic density functional theory (DFT) calculations were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is NKMOF-1-M considered a unique MOF platform for gas separation?",
+      "answer": "NKMOF-1-M is considered unique due to its strong binding affinity for both propyne and propadiene, high uptakes at ultralow pressure, and record selectivities for separating these gases from propylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The breakthrough experiments confirmed NKMOF-1-M's poor performance in propyne/propadiene/propylene separation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the cycling breakthrough experiments for NKMOF-1-Ni?",
+      "answer": "The cycling breakthrough experiments demonstrated excellent regenerability and stability of NKMOF-1-Ni.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does NKMOF-1-M's performance in propyne/propadiene/propylene separation compare to commercial zeolites?",
+      "answer": "NKMOF-1-M's performance is significantly better than commercial zeolites, offering longer retention times and higher propylene productivities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NKMOF-1-M's design strategy can be applied to the removal of other multicomponent gas mixtures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of NKMOF-1-M's high uptake for propyne and propadiene at ultralow pressure?",
+      "answer": "The high uptake signifies NKMOF-1-M's exceptional capability to selectively adsorb propyne and propadiene over propylene, making it highly effective for purifying propylene to polymer-grade quality.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What future implications does the study of NKMOF-1-M have for the design of adsorbent materials?",
+      "answer": "The study provides guidance on designing adsorbent materials with strong binding affinity for specific gases through tailoring pore aperture and introducing strong gas-sorbent interactions, paving a new avenue for the design of materials for the simultaneous removal of multicomponent gas mixtures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

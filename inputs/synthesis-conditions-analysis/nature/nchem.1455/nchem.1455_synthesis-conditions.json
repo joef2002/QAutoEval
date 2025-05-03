@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "material_name": "catena-[CoFe(CN)3(pabn)(tp)]BF4.MeOH.2H2O (1.MeOH.2H2O)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "(n-Bu4N)[Fe(III)(CN)3(tp)]",
+            "amount": "17 mg",
+            "molar_amount": "0.05 mmol"
+          },
+          {
+            "chemical": "Co(BF4)2.6H2O",
+            "amount": "23 mg",
+            "molar_amount": "0.05 mmol"
+          },
+          {
+            "chemical": "(R)-pabn",
+            "amount": "29.5 mg",
+            "molar_amount": "0.05 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "methanol",
+            "amount": "1.5 cm3"
+          }
+        ],
+        "temperature": "40 8C",
+        "time": "few days",
+        "yield": "38%",
+        "product": "dark-green needles of 1.MeOH.2H2O",
+        "washing_method": "washed with methanol",
+        "drying_method": "dried in air"
+      }
+    },
+    {
+      "material_name": "[CoII((S)-pabn)][FeIII(tp)(CN)3](BF4).2H2O (1S.2H2O)",
+      "synthesis_conditions": {
+        "note": "Synthesized using the same approach as 1.MeOH.2H2O but using (S)-pabn instead of (R)-pabn."
+      }
+    },
+    {
+      "material_name": "[Fe(III)4Co(III)4Co(II)(CN)12(tp)4((R)-pabn)2((S)-pabn)2](BF4)10.12H2O.40CH3OH",
+      "synthesis_conditions": {
+        "note": "Formed when a racemic mixture of (R)- and (S)-pabn ligands was used following the same synthetic approach as 1.MeOH.2H2O."
+      }
+    },
+    {
+      "material_name": "1.H2O",
+      "synthesis_conditions": {
+        "transformation_conditions": [
+          {
+            "method": "drying under N2",
+            "from_material": "1.MeOH.2H2O",
+            "result": "single-crystal to single-crystal transformation to 1.H2O confirmed by structural analyses"
+          },
+          {
+            "method": "drying in air",
+            "from_material": "1.MeOH.2H2O",
+            "result": "yields 1.3H2O as a powder, where methanol molecule was replaced by water from the air"
+          },
+          {
+            "method": "drying in an inert atmosphere",
+            "from_material": "1.3H2O",
+            "result": "leads to desolvation to 1.H2O, confirmed by thermogravimetry"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of the synthesis method reported in the manuscript?",
+      "answer": "The main goal of the synthesis method reported in the manuscript is to achieve sequence-controlled radical copolymerization using the regular structure of a porous coordination polymer (PCP) as a template, to produce copolymers with a predominant XYYY sequence.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of polymerization is focused on in the study?",
+      "answer": "The study focuses on radical copolymerization.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the porous coordination polymer (PCP) play in the synthesis method?",
+      "answer": "The porous coordination polymer (PCP) serves as a template for sequence-controlled radical copolymerization, allowing for the precise positioning of monomers in copolymer chains with high molecular weight.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of achieving sequence-controlled radical copolymerization?",
+      "answer": "Achieving sequence-controlled radical copolymerization is significant because it allows for the precise control of monomer sequences in polymer chains, which is crucial for creating polymers with specific properties and functions, similar to natural biopolymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study reports the use of small template molecules in solution copolymerizations without facing any undesired crosslinking reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical techniques were used to confirm the formation of the copolymer between acrylonitrile and styrene-3,5-dicarboxylic acid in the PCP?",
+      "answer": "Infrared, 1H NMR, and 13C NMR spectroscopies were used to confirm the formation of the copolymer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the A/S ratio in the resulting copolymer compare to the initial A/S feed ratio?",
+      "answer": "The A/S ratio in the resulting copolymer is significantly different from the initial A/S feed ratio, indicating a controlled sequence in the copolymerization process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The methodology reported in the manuscript allows for the scalability and recyclability of the polymerization process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational analysis was performed to clarify the mechanism of the copolymerization process?",
+      "answer": "Replica-exchange molecular dynamics (REMD) simulations and density functional theory (DFT) calculations were performed to clarify the mechanism of the copolymerization process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates the successful use of an artificial polymeric template for sequence-controlled radical copolymerization.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential impact of the study's findings on the field of polymer science?",
+      "answer": "The study's findings have the potential to significantly impact the field of polymer science by providing a new methodology for creating polymers with precise monomer sequences, opening up possibilities for the development of materials with tailored properties and functions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges in synthetic polymer science does the study address?",
+      "answer": "The study addresses the challenge of controlling monomer sequences in vinyl polymers via chain-growth mechanism, which is crucial for mimicking the precise monomer sequences found in natural biopolymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's methodology is limited to the synthesis of copolymers with a specific monomer sequence.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the study's methodology compare to traditional methods of copolymerization?",
+      "answer": "The study's methodology differs from traditional methods of copolymerization by utilizing the periodic structure of PCPs as templates to achieve sequence-controlled copolymerization, unlike traditional methods that often result in statistically random copolymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What future research directions does the study suggest?",
+      "answer": "The study suggests future research directions in exploring the use of different monomers and PCP templates to achieve a variety of periodic sequences for copolymers, as well as investigating the properties and applications of these sequence-controlled polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that the sequence of monomers in a copolymer does not affect the polymer's properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What advantages does the study's methodology offer over existing polymer synthesis techniques?",
+      "answer": "The study's methodology offers advantages such as the ability to precisely control monomer sequences in copolymers, scalability, recyclability of the polymerization process, and the potential to create polymers with tailored properties, which are challenging to achieve with existing polymer synthesis techniques.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings are applicable only to the synthesis of copolymers with acrylonitrile and styrene-3,5-dicarboxylic acid.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of computational analysis in the study?",
+      "answer": "Computational analysis, including REMD simulations and DFT calculations, plays a crucial role in the study by clarifying the mechanism of the copolymerization process and supporting the experimental findings regarding the sequence regulation in the resulting copolymers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study contribute to the understanding of polymer synthesis in confined spaces?",
+      "answer": "The study contributes to the understanding of polymer synthesis in confined spaces by demonstrating how the periodic structure of PCPs can be utilized as templates for sequence-controlled radical copolymerization, highlighting the potential of confined spaces in achieving precise control over polymer structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

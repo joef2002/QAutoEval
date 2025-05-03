@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in separating C8 alkylaromatics?",
+      "answer": "The main challenge in separating C8 alkylaromatics is due to the similar shapes, boiling points, and polarities of these molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two metal-organic frameworks evaluated for the separation of xylene isomers?",
+      "answer": "The two metal-organic frameworks evaluated for the separation of xylene isomers are Co2(dobdc) and Co2(m-dobdc).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which xylene isomer has the highest binding affinity in Co2(dobdc)?",
+      "answer": "o-xylene has the highest binding affinity in Co2(dobdc).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Co2(m-dobdc) distinguish between all four C8 isomers?",
+      "answer": "No, Co2(m-dobdc) cannot distinguish between all four C8 isomers due to its similar binding affinity for m-xylene and ethylbenzene.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the exposed cobalt(II) sites play in the adsorption of C8 alkylaromatics?",
+      "answer": "The exposed cobalt(II) sites in the frameworks bind specific gases preferentially, contributing to the separation of C8 alkylaromatics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of Co2(dobdc) undergo distortion upon binding with o-xylene or ethylbenzene?",
+      "answer": "Yes, Co2(dobdc) undergoes an unexpected structural distortion upon binding with either o-xylene or ethylbenzene.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the selectivity order of Co2(dobdc) for the C8 isomers?",
+      "answer": "The selectivity order of Co2(dobdc) for the C8 isomers is o-xylene > ethylbenzene > m-xylene > p-xylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does Co2(dobdc) maintain its selectivity over a wide range of concentrations?",
+      "answer": "Co2(dobdc) maintains its selectivity over a wide range of concentrations through multicomponent liquid-phase adsorption measurements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the structural distortion observed in Co2(dobdc)?",
+      "answer": "The structural distortion observed in Co2(dobdc) enables the accommodation of additional guest molecules, significantly increasing its adsorption capacity for o-xylene and ethylbenzene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural distortion of Co2(dobdc) temperature-dependent?",
+      "answer": "Yes, the structural distortion of Co2(dobdc) only occurs at temperatures well below those employed in evaluating C8 isomer separations.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential industrial application of Co2(dobdc) and Co2(m-dobdc) in separating C8 alkylaromatics?",
+      "answer": "Co2(dobdc) could facilitate the separation of all four C8 isomers in a single industrial adsorption process, while Co2(m-dobdc) could be applicable in current xylenes separation processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the interactions between C8 isomers and the cobalt(II) sites differ among the isomers?",
+      "answer": "The interactions differ in that o-xylene, ethylbenzene, and m-xylene can interact with two cobalt(II) centers, whereas p-xylene, due to its 1,4 substitution, can only interact with a single metal site.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to determine the unit cell dimensions of Co2(dobdc) powder samples?",
+      "answer": "The unit cell dimensions were determined by performing a structureless Le Bail refinement.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of differential enthalpy of adsorption calculations in this study?",
+      "answer": "Differential enthalpy of adsorption calculations were used to understand the energy changes associated with the adsorption process and to compare the strength of interactions between the frameworks and different C8 isomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of other isomers prevent the structural distortion of Co2(dobdc)?",
+      "answer": "Yes, diffraction experiments at 100 K on single crystals taken from the multicomponent liquid-phase batch adsorption measurements showed no evidence of the distortion, indicating that the presence of other isomers prevents the structural distortion of Co2(dobdc).",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the variable temperature powder X-ray diffraction patterns for Co2(dobdc) soaked in o-xylene?",
+      "answer": "The variable temperature powder X-ray diffraction patterns for Co2(dobdc) soaked in o-xylene show how the structural distortion is temperature-dependent, occurring only at temperatures lower than those used for separation experiments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the selectivity of Co2(dobdc) for C8 isomers compare to that of Co2(dobpdc)?",
+      "answer": "Co2(dobdc) shows higher selectivity for C8 isomers compared to Co2(dobpdc), as indicated by the comparison of single-component vapor-phase adsorption isotherms at 150 °C.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of the structural distortion on the adsorption properties of Co2(dobdc)?",
+      "answer": "The structural distortion impacts the adsorption properties of Co2(dobdc) by allowing the accommodation of additional guest molecules, which significantly increases its adsorption capacity for o-xylene and ethylbenzene.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to synthesize H4dobpdc and Co2(dobpdc)?",
+      "answer": "H4dobpdc was synthesized through a multi-step process involving reflux, extraction, and acidification, while Co2(dobpdc) was synthesized by reacting H4dobpdc with Co(NO3)2·6H2O and then desolvating the product.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the potential advantage of using metal-organic frameworks for C8 alkylaromatic separations?",
+      "answer": "The potential advantage of using metal-organic frameworks for C8 alkylaromatic separations lies in their ability to selectively adsorb specific isomers through interactions with exposed metal sites, offering a more energy-efficient separation process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

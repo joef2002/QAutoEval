@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are glycosyl sulfinates used for in the study?",
+      "answer": "Glycosyl sulfinates are used as radical precursors for generating glycosyl radicals under acidic conditions.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of generating glycosyl radicals under acidic conditions?",
+      "answer": "Generating glycosyl radicals under acidic conditions enables the installation of glycosyl units onto pyridine derivatives under Minisci-type conditions, expanding the scope of glycoconjugation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the glucopyranosyl group of 5 a sterically demanding?",
+      "answer": "Yes, the glucopyranosyl group of 5 a is among the most sterically demanding monosaccharide unit.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can glycosyl sulfinates be stored under ambient conditions?",
+      "answer": "Yes, glycosyl sulfinates are bench-stable and can be stored for months under ambient conditions.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Are glycosyl sulfinates susceptible to autooxidation?",
+      "answer": "It was unclear if glycosyl sulfinates are susceptible to autooxidation, but the study suggests they have remarkable stability toward acidic conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of an acetonide group affect the stereoselectivity of the reaction to form furanoside products?",
+      "answer": "Yes, the presence of an acetonide group helps to enhance the stereoselectivity of the reaction to form furanoside products.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the reaction to install glycosyl units onto pyridine derivatives compatible with water?",
+      "answer": "Yes, the reaction is compatible with water, although using dimethyl sulfoxide (DMSO) as the solvent gave the best result in terms of product yield.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can glycosyl sulfinates be used in the late-stage modification of complex drug molecules?",
+      "answer": "Yes, glycosyl sulfinates were successfully used in the late-stage modification of complex drug molecules, including the anticancer agent camptothecin.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction to generate glycosyl radicals from sulfinates under acidic conditions a stereoconvergent process?",
+      "answer": "Yes, both α- and β-configured sulfinate starting materials gave the product with essentially the same α/β ratio, suggesting the reaction occurs by a stereoconvergent process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction mechanism involve direct electron transfer from sulfinates to tert-butyl hydroperoxide (tBuOOH)?",
+      "answer": "No, the reaction mechanism does not involve direct electron transfer from sulfinates to tBuOOH under acidic conditions, as indicated by the coexistence of unreacted sugar donor and tBuOOH without noticeable change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Glycosyl sulfinates are unstable and cannot be stored for long periods.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study demonstrates that glycosyl radicals can only be generated under neutral conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of TFA is crucial for the reaction efficiency in generating glycosyl radicals.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Glycosyl sulfinates have a high susceptibility to autooxidation, limiting their utility.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The reaction to generate glycosyl radicals from sulfinates is not affected by the acidity of the reaction medium.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Glycosyl sulfinates can be used to generate glycosyl radicals under both acidic and basic conditions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that glycosyl sulfinates are not suitable reagents for generating glycosyl radicals under acidic conditions.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of tert-butoxyl radical in the proposed reaction mechanism?",
+      "answer": "The tert-butoxyl radical abstracts a hydrogen atom from sulfinic acid to afford sulfonyl radical, which then loses SO2 to generate glycosyl radicals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the study address the challenge of generating glycosyl radicals under acidic conditions?",
+      "answer": "The study introduces glycosyl sulfinates as radical precursors that are stable and effective for generating glycosyl radicals under acidic conditions, overcoming previous limitations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What impact does the development of glycosyl sulfinates have on the field of glycoconjugation?",
+      "answer": "The development of glycosyl sulfinates expands the toolbox for glycoconjugation by enabling the generation of glycosyl radicals under acidic conditions, facilitating the synthesis of glycoconjugates that were previously inaccessible.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

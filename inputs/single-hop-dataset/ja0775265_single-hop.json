@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the fluorous metal-organic framework mentioned in the text?",
+      "answer": "FMOF-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What gas shows a hysteretic adsorption/desorption behavior in FMOF-1?",
+      "answer": "H2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volumetric capacity of hydrogen within FMOF-1 at 77 K and 64 bar?",
+      "answer": "41 kg/m3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does FMOF-1 exhibit higher adsorptions for O2 and N2 at 77 K even at very low pressures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the volumetric gas uptake of FMOF-1 the highest yet reported for O2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the adsorption densities for O2 and N2 in FMOF-1 at very low pressure suggest that the gas is highly compressed within the pores?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected application of fluorous coordination polymers like FMOF-1?",
+      "answer": "Gas storage and separation, catalysis, sensors, switches, actuators, and n-type field-effect transistors.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural feature of FMOF-1 that contributes to its high gas adsorption capacity?",
+      "answer": "Extended 3D nanotubular open frameworks consisting of six-connected tetranuclear [Ag4Tz6] clusters linked by three-coordinate Ag(I) centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption isotherm of H2 within FMOF-1 reproducible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was FMOF-1 obtained by reacting Ag(I) with 3,5-bis(trifluoromethyl)-1,2,4-triazolate?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of the 3D framework of FMOF-1?",
+      "answer": "(42·6)(44·62·88·10)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the CF3 groups in the structure of FMOF-1?",
+      "answer": "They point into the channels, contributing to the hydrophobic internal cavities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does FMOF-1 maintain its crystallinity after evacuating the crystals by heating at 100 °C under vacuum overnight?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the unit cell volume percentage accounted for by the fluoro-lined channels in FMOF-1?",
+      "answer": "40.8%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the apparent surface area of FMOF-1 as determined by fitting the BET equation to the N2 isotherm?",
+      "answer": "810.5 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the volumetric capacity of hydrogen within FMOF-1 close to the DOE 2010 target?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hysteretic adsorption/desorption of H2 within FMOF-1?",
+      "answer": "It allows H2 to be adsorbed at high pressures but stored at lower pressures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation procedure for FMOF-1 prior to gas adsorption studies?",
+      "answer": "Heating at 60 °C under vacuum for 1 hr.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does FMOF-1 show a two-step filling profile for hydrogen-adsorption isotherm at low pressure?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of fluorination in the properties of FMOFs compared to their non-fluorous counterparts?",
+      "answer": "Expected to possess enhanced thermal stability, catalytic activity, higher gas affinity and selectivity, and higher stability to oxidation and light.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

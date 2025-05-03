@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in developing a catalyst model system for electrochemical CO2 reduction reaction (CO2RR)?",
+      "answer": "The main challenge is to develop a stable, well-defined catalyst model system that can examine the influence of the synergistic effect between adjacent catalytic active sites on the selective generation of C1 or C2 products.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What structural feature differentiates the four chain-like compounds (Cu-PzH, Cu-PzCl, Cu-PzBr, and Cu-PzI) synthesized for CO2RR?",
+      "answer": "The main structural difference of these four chains is the substituents of halogen atoms with different electronegativity on the Pz ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the variation in the coordination microenvironment of Cu1 atom affect the electrocatalytic CO2RR?",
+      "answer": "The variation in the coordination microenvironment leads to changes in the faradic efficiency (FECH4) due to different synergistic effects between bi-copper centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystalline single chains synthesized are stable in strongly alkaline solution for more than three days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest FEC2H4 achieved by Cu-PzH during electrochemical CO2RR, and at what current density?",
+      "answer": "The highest FEC2H4 achieved by Cu-PzH is 60% with a current density of @346.46 mA cm@2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Cu-PzI exhibits the highest FECH4 among the synthesized crystalline chains.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the variation in the coordination microenvironment induce in the chain structures?",
+      "answer": "The variation induces different synergistic effects, leading to changes in DCu-Cu and bCu-Cu between bi-Cu centers, which directly affects the regular ratio FECH4 changes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The selectivity of CH4 and C2H4 shows a regular change from 1:6.5, 1:2.3, 1:1.2 to 1:0.3 due to the variation of coordination microenvironment.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the coordination microenvironment in the selectivity of electrochemical CO2RR products?",
+      "answer": "The coordination microenvironment affects the selectivity of electrocatalytic products by influencing the synergistic effect between two adjacent catalytically active sites and ultimately leading to different product selectivities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The designed single-chain model systems can effectively inhibit HER.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the distance (DCu-Cu) and dihedral angle (bCu-Cu) variations in the crystalline chains?",
+      "answer": "These variations directly lead to the selectivity of CH4 and C2H4 showing a regular change, affecting the electrocatalytic reaction mechanism and selectivity of the specific hydrocarbon products.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption capacity of Cu-PzI is slightly stronger than the other synthesized chains.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the DFT calculation reveal about the relationship between the coordination microenvironment variation and performance differences in FECH4 and FEC2H4?",
+      "answer": "The DFT calculation reveals that the coordination microenvironment variation affects the charge density distribution and electronic structure of Cu, influencing the adsorption ability of the catalytically active center to key reaction intermediates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystalline chains synthesized for CO2RR are expected to be ideal catalyst models due to their clear crystal structures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main by-product formed by HER within the test voltage range (@0.6 to @1.1 V vs. RHE)?",
+      "answer": "The main by-product formed by HER within the test voltage range is H2 (FEH2 < 20%).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The selectivity ratio of CH4 and C2H4 gradually decreases from 1:6.5, 1:2.3, 1:1.2 to 1:0.3 at @1.0 V in flow cell.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the 13C isotope labeling experiment confirm about the reduction products?",
+      "answer": "The 13C isotope labeling experiment confirms that the carbon source of the reduction products indeed derives from the CO2 used.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electrochemical double-layer capacitance (Cdl) measurements indicate that Cu-PzI can afford much more accessible active sites than the other chains.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the d-band center in the selectivity of electrochemical CO2RR?",
+      "answer": "The d-band center influences the binding strength of the catalyst surface and the key reaction intermediate, affecting the selectivity of the reduction product.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystalline chains maintain their structure after the electrochemical stability test, proving the stability of the catalyst.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

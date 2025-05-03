@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of the Ni-(4-pyridylcarboxylate)2 MOF discussed in the article?",
+      "answer": "Hydrogen purification and precombustion CO2 capture",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the pore sizes of the ultra-microporous MOF mentioned in the text?",
+      "answer": "3.5 and 4.8 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2/H2 selectivity of Ni-(4-pyridylcarboxylate)2 for 20:80 mixtures at 10 bar, 40°C?",
+      "answer": "285",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the working capacity of the MOF for CO2 capture mentioned in the article?",
+      "answer": "3.95 mmol/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes ultra-microporous MOFs suitable for gas separation applications?",
+      "answer": "Their small pores facilitate strong framework-gas interactions and enhance cooperative effects between adsorbed species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are MOFs with open metal sites problematic for long-term hydrolytic stability?",
+      "answer": "Because they tend to readily interact with even trace quantities of water, leading to diminished adsorption properties or irreversible degradation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Ni-(4-pyridylcarboxylate)2 MOF hydrolytically stable?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Ni-(4-pyridylcarboxylate)2 MOF exhibit high CO2 uptake capacity at high pressure and high temperature?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the Ni-(4-pyridylcarboxylate)2 MOF be easily scaled up for production?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Ni-(4-pyridylcarboxylate)2 MOF retain its porosity after exposure to ambient air for over 6 months?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cooperative binding in the high CO2 uptake capacities observed in the Ni-(4-pyridylcarboxylate)2 MOF?",
+      "answer": "Cooperative binding allows for favorable CO2-CO2 interactions, contributing to the MOF's high CO2 uptake capacity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Ni-(4-pyridylcarboxylate)2 MOF's structure unchanged after being subjected to steam for 160 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Ni-(4-pyridylcarboxylate)2 MOF show any appreciable H2 uptake even at 35 bar?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 self-diffusivity of the Ni-(4-pyridylcarboxylate)2 MOF?",
+      "answer": "~3 × 10−9 m2/s",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are the CO2 adsorption properties of the Ni-(4-pyridylcarboxylate)2 MOF retained after exposure to humid CO2 for over 48 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of the Ni-(4-pyridylcarboxylate)2 MOF?",
+      "answer": "945 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2/H2 selectivity of Ni-(4-pyridylcarboxylate)2 for 40:60 mixtures at 10 bar, 40°C?",
+      "answer": "230",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Ni-(4-pyridylcarboxylate)2 MOF have a high density of binding sites for CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ultra-micropores in the Ni-(4-pyridylcarboxylate)2 MOF's gas separation performance?",
+      "answer": "Ultra-micropores ensure hydrolytic and hydrostatic stabilities, shelf life, and stability toward humid gas streams, contributing to the MOF's gas separation performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Ni-(4-pyridylcarboxylate)2 MOF's structure unchanged after being subjected to 70-bar pressure for 24 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of synthesizing 1-(nitromethyl)-5H-tetrazole (1-NMT, 2a) and 2-(nitromethyl)-5H-tetrazole (2-NMT, 2b)?",
+      "answer": "The main goal is to expand the series of N-methylene functionalized tetrazoles as ligands for energetic coordination compounds (ECCs), and to better understand the properties introduced by the N-nitromethyl moiety as well as apply the new compound as a ligand for ECCs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the crystallographic analysis of the compounds?",
+      "answer": "Low-temperature single crystal X-ray diffraction experiments were used for the crystallographic analysis.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What software package was used for computations in the study?",
+      "answer": "The Gaussian G09 program package was used for computations.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the impact sensitivity tests according to STANAG 4489?",
+      "answer": "The classification of the tested compounds results from the 'UN Recommendations on the Transport of Dangerous Goods'.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of performing initiation capability tests towards PETN?",
+      "answer": "The purpose was to test the applicability of the ECCs as a primary explosive by checking if they could initiate PETN.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was observed during the laser initiation experiments?",
+      "answer": "Compounds 5 and 6 were able to undergo deflagration to detonation transition (DDT) and were initiated by a single laser pulse at an energy of 51 mJ.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the PETN initiation tests?",
+      "answer": "The tests were negative, as compounds 4 and 5 were unable to initiate PETN, indicated by the intact witness plates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main conclusion of the study?",
+      "answer": "The study concluded that 1-NMT and 2-NMT represent a new class of N-nitromethyl azoles with potential for use in designing new insensitive or melt-castable high explosives, and some ECCs showed promise as laser ignitable high-energy materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of the Hirshfeld surface analysis?",
+      "answer": "The Hirshfeld surface analysis helped in understanding the differences in sensitivities of the compounds by analyzing stabilizing and destabilizing intermolecular interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of the CBS-4M method in the study?",
+      "answer": "The CBS-4M method was used for accurate energy calculations, which were essential for estimating the detonation velocities and other energetic properties of the compounds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

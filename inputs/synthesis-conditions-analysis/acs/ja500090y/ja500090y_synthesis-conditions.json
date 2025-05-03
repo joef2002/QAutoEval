@@ -1,0 +1,86 @@
+{
+  "materials": [
+    {
+      "name": "BINAP-MOF",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of H2L",
+          "temperature": "Room temperature to 75 °C",
+          "solvents": [
+            {"name": "acetone", "amount": "75 mL"},
+            {"name": "THF", "amount": "38 mL"},
+            {"name": "TEA", "amount": "38 mL"},
+            {"name": "m-xylene", "amount": "10 mL"},
+            {"name": "THF/EtOH", "amount": "40 mL total"}
+          ],
+          "chemicals_used": [
+            {"name": "4,4′-I2-BINAP", "amount": "1.14 g"},
+            {"name": "hydrogen peroxide", "amount": "8 mL"},
+            {"name": "methyl 4-ethynyl­benzoate", "amount": "318 mg"},
+            {"name": "Pd(PPh3)4", "amount": "91.9 mg"},
+            {"name": "CuI", "amount": "28.8 mg"},
+            {"name": "PPh3", "amount": "25.0 mg"},
+            {"name": "HSiCl3", "amount": "0.270 mL"},
+            {"name": "NaOH", "amount": "20 mL of 6 M solution"}
+          ],
+          "time": "Multiple steps over several days",
+          "yield": "41% overall yield for H2L"
+        },
+        {
+          "step": "Synthesis of BINAP-MOF (1)",
+          "temperature": "120 °C",
+          "solvents": [
+            {"name": "DMF", "amount": "1.8 mL"},
+            {"name": "trifluoroacetic acid", "amount": "12 µL"}
+          ],
+          "chemicals_used": [
+            {"name": "H2L", "amount": "12.0 mg"},
+            {"name": "ZrCl4", "amount": "3.0 mg"}
+          ],
+          "time": "3 days",
+          "yield": "44%",
+          "drying_method": "Centrifugation and washing with THF",
+          "additional_information": "Sealed tube under vacuum"
+        }
+      ]
+    },
+    {
+      "name": "1•Rh",
+      "synthesis_conditions": [
+        {
+          "step": "Post-synthetic metalation",
+          "solvents": [
+            {"name": "THF", "amount": "2.0 mL"}
+          ],
+          "chemicals_used": [
+            {"name": "BINAP-MOF (1)", "amount": "7.6 mg"},
+            {"name": "[Rh(nbd)2](BF4)", "amount": "100 μL of 0.025 M solution in CH2Cl2"}
+          ],
+          "time": "Overnight",
+          "washing_method": "Centrifugation and washing with THF"
+        }
+      ]
+    },
+    {
+      "name": "1•Ru",
+      "synthesis_conditions": [
+        {
+          "step": "Post-synthetic metalation",
+          "solvents": [
+            {"name": "Methanol", "amount": "Not specified"},
+            {"name": "CH2Cl2", "amount": "For washing"},
+            {"name": "MeOH", "amount": "For washing"}
+          ],
+          "chemicals_used": [
+            {"name": "BINAP-MOF (1)", "amount": "2.7 mg"},
+            {"name": "Ru(cod)(2-Me-allyl)2", "amount": "1.4 mg"},
+            {"name": "HBr", "amount": "151 μL of 0.29 M solution in MeOH"}
+          ],
+          "time": "16 h",
+          "washing_method": "Centrifugation and washing with CH2Cl2 and then MeOH",
+          "additional_information": "Degassed by repeated vacuum/N2 cycles before sealing and stirring under N2"
+        }
+      ]
+    }
+  ]
+}

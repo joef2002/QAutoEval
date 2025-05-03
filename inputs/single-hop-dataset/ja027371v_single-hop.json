@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the outer and inner diameters of the supramolecular hexagon 1?",
+      "answer": "The outer diameter is 3.1 nm and the inner diameter is 0.8 nm.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What components are used in the modular self-assembly of the hexagon 1?",
+      "answer": "Thirty molecular components: six 5-NO2-bdc moieties, six Cu(II) cations, and eighteen coordinated solvent molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the hexagon 1 exist in methanol according to electrospray mass spectroscopy?",
+      "answer": "It exists with 4-coordinated DMSO molecules and 14-coordinated MeOH molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effective diameter of the hourglass-shaped channels created by the stacking of sheets of hexagon 1?",
+      "answer": "The effective diameter is approximately 0.8 nm at the narrowest point.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the zigzag chain structure 2 charged or neutral?",
+      "answer": "The text does not explicitly state the charge of structure 2, but given its similarity to structure 1, which is neutral, it might also be neutral.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the structure of the hexagon 1?",
+      "answer": "Hydrogen bonding occurs between carbonyl oxygen atoms of the 5-NO2-bdc moieties in one sheet and coordinated water molecules in adjacent sheets.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of the hexagon 1 and its isomeric zigzag chain 2 require a high-temperature condition?",
+      "answer": "The text does not specify temperature conditions for the synthesis, suggesting that high temperature may not be a critical factor.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hexagon 1 and zigzag chain 2 have significant geometrical differences.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hexagon 1 is insoluble in MeOH.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The solvent-accessible voids in the crystal structure of hexagon 1 amount to approximately 57% of the total volume.",
+      "answer": "False, it would be increased to 57% upon replacing the coordinated DMSO and MeOH molecules with water molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hexagon 1 and zigzag chain 2 are synthesized from the same molecular components.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hexagon 1 is charged.",
+      "answer": "False, the hexagon is neutral.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The zigzag chain 2 packs efficiently and creates large open cavities.",
+      "answer": "False, it eschews open cavities.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of π−π stacking in the structure of the hexagon 1?",
+      "answer": "π−π stacking contributes to the interlayer separation consistent with the stacking arrangement.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis of hexagon 1 differ when using DMSO?",
+      "answer": "Heating a solution of the crude precipitate in DMSO for 24 hours and allowing it to sit for 3-4 weeks yields hexagon 1 exclusively.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the hexagon 1's solubility in MeOH?",
+      "answer": "Its solubility in MeOH indicates potential for application in solutions or as a component in supramolecular chemistry involving methanol.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the thermogravimetric analysis of hexagon 1 indicate?",
+      "answer": "It shows a weight loss consistent with the loss of guest and coordinated solvent, indicating the stability and composition of the hexagon.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hexagon 1 and its isomeric zigzag chain 2 are both examples of supramolecular polymers.",
+      "answer": "False, the hexagon 1 is a discrete structure, not a polymer.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of coordinated solvent molecules on the structure of hexagon 1?",
+      "answer": "Coordinated solvent molecules, including DMSO, MeOH, and water, contribute to the stability and internal cavity size of the hexagon.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the packing of molecules of hexagon 1 contribute to its structural properties?",
+      "answer": "The molecules pack into sheets with large voids and stack in an ABCABC fashion, creating hourglass-shaped channels, which affects its porosity and potential applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

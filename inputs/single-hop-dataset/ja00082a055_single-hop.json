@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of Compound 3?",
+      "answer": "C32 H24 Br4 N6 O6 Cdl",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does Compound 3 belong to?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group number for Compound 3?",
+      "answer": "# 15",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Z value of Compound 3?",
+      "answer": "4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of radiation was used in the diffractometer for Compound 3?",
+      "answer": "Cu K-alpha",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum positive peak in the final difference map for Compound 3?",
+      "answer": "2.42 e/A**3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis information, what is the likely purpose of using Cu K-alpha radiation in the analysis of Compound 3?",
+      "answer": "To perform X-ray diffraction analysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Given the monoclinic crystal system and space group #15, what can be inferred about the symmetry of Compound 3?",
+      "answer": "It has a low symmetry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Considering the Z value of 4 for Compound 3, how many formula units are present in the unit cell?",
+      "answer": "4 formula units",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the maximum negative peak in the final difference map indicate about the electron density for Compound 3?",
+      "answer": "There is a region of lower electron density.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of Compound 3 cubic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group number for Compound 3 #15?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Compound 3 have a Z value of 8?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was Mo K-alpha radiation used for the diffractometer in the analysis of Compound 3?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the maximum positive peak in the final difference map for Compound 3 greater than 2 e/A**3?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the use of Cu K-alpha radiation imply that Compound 3 was analyzed using X-ray diffraction?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of Compound 3 hexagonal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the function minimized in the structure determination of Compound 3?",
+      "answer": "sum[w(IFoI**2 - |Fc|**2)**2]",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the linear absorption coefficient for Compound 3?",
+      "answer": "102.82 /cm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Given the formula weight of Compound 3, what is its molecular mass?",
+      "answer": "940.6",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

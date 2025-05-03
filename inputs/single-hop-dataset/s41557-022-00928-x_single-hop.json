@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary challenge in storing acetylene gas safely?",
+      "answer": "The primary challenge is its explosive behavior when compressed over 200 kPa at room temperature.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do flexible metal–organic frameworks (MOFs) contribute to acetylene storage?",
+      "answer": "Flexible MOFs exhibit gated adsorption/desorption behavior, allowing for controlled uptake and release of acetylene, thus contributing to safer storage.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Pure acetylene gas has a wide compression pressure tolerance.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the usable capacity of acetylene storage at 298 K and under practical pressure range in the studied MOFs?",
+      "answer": "~90 v/v (77% of the overall amount)",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the introduction of different ratios of functionalized bdc–X linkers significant in MOFs?",
+      "answer": "It allows the optimization of the sigmoidal sorption for acetylene storage at arbitrary temperatures and pressures by controlling the deformation energy of the framework.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The deformation energy of the framework is unaffected by the ratio of functional groups in its ligands.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing NH2 functionalization on the gate-opening pressure in Zn-CAT-(NH2)n?",
+      "answer": "The gate-opening pressure increases exponentially with the amount of bdc–NH2 incorporated.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of –NO2 groups affect the gate-opening pressure in Zn-CAT-(NO2)n?",
+      "answer": "The gate-opening pressure shifts to a lower pressure with increasing –NO2 functionalization.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The total adsorbed capacity for acetylene gas at 273 K significantly changes for all Zn-CAT-(NH2)n compared to pristine Zn-CAT.",
+      "answer": "False",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of quantum chemical calculations in understanding MOF behavior for gas storage?",
+      "answer": "They help in understanding how the introduction of substituents into parent MOFs can tune the flexibility of MOFs and change the framework's deformation energy upon gas adsorption.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Zn-CAT-(NH2)100 allows the release of more than 66% of acetylene at 100 kPa.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What advantage does Zn-CAT-(NH2)100 have over other reported MOFs for acetylene storage?",
+      "answer": "It provides a usable storage capacity of ~90 v/v at 150 kPa and degassing at 100 kPa, both at 298 K, which is the highest among the reported MOFs.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of functional groups in MOFs affect their application for gas storage?",
+      "answer": "The introduction of functional groups allows for the tunable uptake/release pressures at a desired temperature for various gases, making MOFs versatile for gas storage applications.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The recyclability tests showed a change in the uptake or release capacity for the conventional zeolite-type adsorbents.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of in situ powder X-ray diffraction under various acetylene pressures?",
+      "answer": "It helps in investigating the effect of bdc substitution and phase transformations on the MOF structure under different acetylene pressures.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The gate-opening and gate-closing pressures are independent of the molar ratio of amino or nitro functional groups.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the flexibility of MOFs impact their gas storage capabilities?",
+      "answer": "The flexibility, influenced by the binding capacity and mobility of unit ligands and metal ions, allows MOFs to undergo structural transformations for higher usable storage capacity.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The deformation of the entire framework as a result of guest molecules in the pores is a factor in the flexibility of MOFs.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ligand functionalization in the study of flexible MOFs?",
+      "answer": "Ligand functionalization has been developed to investigate the behavior and properties of flexible MOFs, particularly in controlling gas storage and release pressures.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption/desorption behavior of flexible MOFs is not influenced by threshold pressures.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What sequence is the short peptide ligand containing that was used in the study?",
+      "answer": "Gly-Pro-Pro",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What metal was used for coordination in the folding and assembly process of the short peptide ligand?",
+      "answer": "Silver(I)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the diameter of the larger helical nanochannel mentioned in the study?",
+      "answer": "More than 2 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of molecules were effectively encapsulated by the peptide-folded porous crystal?",
+      "answer": "Anions, organic chiral molecules, and bio-oligomers",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the overall yield of the tripeptide ligand 1 synthesis?",
+      "answer": "29%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of the colorless block crystals obtained from the crystallization process?",
+      "answer": "38%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the BF4- counterions in the crystalline network upon soaking in a NaPF6 solution?",
+      "answer": "They are easily exchanged with PF6- anions in a single-crystal-to-single-crystal fashion.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was chiral recognition of 1,1'-bi-2-naphthol achieved?",
+      "answer": "By soaking the single crystals in an ethanol solution of the racemic compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the enantiomeric excess percentage for the R-form of 1,1'-bi-2-naphthol encapsulated in the crystal?",
+      "answer": "48%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was maltopentaose encapsulated within the large channel A?",
+      "answer": "By soaking the single crystals in a methanol solution of maltopentaose.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the ligand/guest ratio for maltopentaose encapsulation?",
+      "answer": "Approximately 10:1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the peptide-based crystalline material capable of molecular recognition of bio-oligomers?",
+      "answer": "Yes, it is capable of molecular recognition of bio-oligomers.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "The folding and assembly process was induced by copper(I) coordination.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The larger helical nanochannel has a diameter of exactly 2 nm.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The tripeptide ligand 1 showed conformational flexibility in solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The crystalline material is composed of in situ folded peptide helices.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The BF4- counterions in the crystalline network cannot be exchanged with other anions.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The crystalline material does not show chiral recognition for chiral molecules.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Maltopentaose encapsulation was successful in pure methanol but not in aqueous methanol.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The peptide-based crystalline material is not suitable for the structural elucidation of bio-oligomers.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

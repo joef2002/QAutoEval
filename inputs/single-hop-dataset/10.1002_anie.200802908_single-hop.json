@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary use of Metal-Organic Frameworks (MOFs)?",
+      "answer": "MOFs are used in applications such as gas storage, catalysis, separations, and drug delivery.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What modification does the post-synthetic modification strategy allow for in MOFs?",
+      "answer": "It allows the pores in a pre-formed MOF to be tailored for a specific purpose, enabling fine-tuning for selective adsorption and catalysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of the reaction between Zn(NO3)2·6 H2O and H2L1 in DMF at 100°C?",
+      "answer": "The reaction gives colorless crystals characterized as [Zn4O(L1)3-(OH2)2]·4 DMF (1).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the methoxy-modified dicarboxylic acid H2L3 undergo analogous reactions in a MOF as the aldehyde-tagged dicarboxylic acid H2L1?",
+      "answer": "No, H2L3 is unable to undergo analogous reactions in a MOF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the color of the crystals when 1 is treated with DPH?",
+      "answer": "The crystals adopt the color of the solution within 2 hours, turning orange-red.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it possible to prepare the fully transformed product [Zn4O(L2)3] by post-synthetic modification?",
+      "answer": "No, it is not possible to prepare the fully transformed product [Zn4O(L2)3] by post-synthetic modification.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the reaction of Zn(NO3)2·6 H2O with a 1:1 ratio of H2L1 and H2L3 yield?",
+      "answer": "It yields a material with the formula [Zn4O(L1)x(L3)3-x] (4).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 4 behave similarly to 1 and 3 when treated with DPH?",
+      "answer": "No, compound 4 behaves significantly differently from 1 and 3 when treated with DPH.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the ratio of H2L1 to H2L3 in compound 4 as determined by 1H NMR spectroscopy?",
+      "answer": "The ratio of H2L1 to H2L3 in compound 4 is 10:90.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural difference between the SBU in compounds 2 and 5?",
+      "answer": "In compound 5, the SBU contains two DMF ligands instead of two aqua ligands, but the distortion of the SBU is similar to that in 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the post-synthetic modification of MOFs a single-crystal-to-single-crystal transformation?",
+      "answer": "Yes, the conversion of 1 with DPH to form 2 involves a single-crystal-to-single-crystal transformation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of both [HL3]- and [HL2]- in the negative-ion mass spectra of several crystals of 5 indicate?",
+      "answer": "It demonstrates the presence of both ligands within each crystal, confirming that 5 is a mixed-ligand MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated pore window width for the framework in 2?",
+      "answer": "The estimated pore window width for the framework in 2 is 8.7 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the fully transformed product [Zn4O(L2)3] be formed directly by reaction between a metal salt and a ligand?",
+      "answer": "No, the reaction of Zn(NO3)2·6 H2O with H2L2 did not give an analogous product to 1 and 2, demonstrating that post-synthetic modification allows access to products that differ from those formed by direct reaction.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of doping tag groups into MOFs?",
+      "answer": "Doping provides a means of controlling the loading of a catalyst in a MOF and may allow the preparation of MOFs containing more than one type of modification in a controlled manner.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the network structure of MOFs dynamic?",
+      "answer": "Yes, the network structure of MOFs is dynamic and able to adjust the sizes of the pores and their associated windows to accommodate larger molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the conversion of the formyl group to a hydrazone in MOFs indicate?",
+      "answer": "It indicates that reactive tag groups can be incorporated into the pores of MOFs and undergo post-synthetic modification under mild conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the formula of the material obtained from the reaction of Zn(NO3)2·6 H2O and H2L3 in DMF at 100°C?",
+      "answer": "The material is characterized (without solvent) as [Zn4O(L3)3] (3).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of DPH molecules on the surfaces and/or within the pores of crystals of 3 confirm a reaction between DPH and the network?",
+      "answer": "No, the presence of DPH molecules on the surfaces and/or within the pores of crystals of 3 suggests that no reaction between DPH and the network had occurred.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the overall formula for compound 2 as determined by crystal analysis?",
+      "answer": "The overall formula for compound 2 is [Zn4O(L1)1.2(L2)1.8(OH2)2]·16 H2O.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

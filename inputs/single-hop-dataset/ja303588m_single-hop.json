@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the solid-solution type crystals synthesized using high-reactivity conditions?",
+      "answer": "{[Zn1‑xMnx(NO2-ip)(bpy)](0.5DMF·0.5MeOH)}n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal formation kinetics of ZnCID-5⊃G and MnCID-5⊃G are identical regardless of the precursors used.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the induction time (tind) in the synthesis process?",
+      "answer": "Visual inspection of the solution corresponding to the onset of turbidity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main difference in the synthesis of solid-solution type and phase-separated type PCPs?",
+      "answer": "Solid-solution type PCPs are synthesized using precursors of comparable chemical reactivity, while phase-separated type PCPs are synthesized using precursors of distinct chemical reactivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The phase-separated type frameworks exhibit a constant uptake of 2.5 molecules/unit cell at P = 16 kPa, regardless of the metal ratio.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'gate-opening type gas sorption phenomena' refer to in the context of PCP/MOFs?",
+      "answer": "It refers to the structural change of frameworks from a closed (nonporous) form to an open (porous) form on gas accommodation, leading to a sudden rise in gas adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of ternary phase-separated type crystals demonstrates the dependency of crystal formation kinetics on the metal ion used.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of employing precursors with different chemical reactivities in the synthesis of PCP/MOFs?",
+      "answer": "It allows for the control of the kinetics of the crystal formation process, enabling the synthesis of either homogeneous solid-solution type crystals or heterogeneous phase-separated type crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The solid-solution type Zn1‑xMnxCID-5 compounds have intermediate values for their total uptake and a value of Pgo between that of ZnCID-5 and MnCID-5.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the homogeneous distribution of Zn and Mn in the solid-solution type Zn1‑xMnxCID-5⊃G crystals?",
+      "answer": "Scanning transmission electron microscopy–energy dispersive X-ray (STEM-EDX) measurements.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The phase-separated type Zn/MnCID-5⊃G crystals were synthesized from a one-pot reaction without forming a solid-solution phase.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of Zn-rich crystals influence the crystal formation process of Mn components in phase-separated type Zn/MnCID-5⊃G?",
+      "answer": "The presence of Zn-rich crystals promotes the heterogeneous nucleation of Mn-rich crystals on the Zn-rich crystals, leading to the formation of phase-separated type frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of methanol for solid-solution and phase-separated type compounds with the same formula showed distinct gate-opening sorption behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the induction time (tind) indicate in the context of PCP/MOF synthesis?",
+      "answer": "It indicates the time required for powder formation from the reaction solution, corresponding to the onset of turbidity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The phase-separated type frameworks exhibited an anomalous gate-opening behavior with the value of Pgo increasing upon the increase of Mn ratio.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the reactivity-directed crystallization process in the synthesis of PCP/MOF crystals?",
+      "answer": "It enables the design of modular domain assembly by exploiting the kinetic aspects of PCP/MOF crystallization, allowing for the synthesis of binary solid-solution, binary phase-separated, and even ternary phase-separated type crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of solid-solution type Zn1‑xMnxCID-5⊃G crystals resulted in a homogeneous distribution of Zn and Mn throughout the crystals.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the gas sorption behavior of solid-solution and phase-separated type PCPs?",
+      "answer": "Solid-solution type PCPs exhibit intermediate values for total uptake and gate-opening pressure, while phase-separated type PCPs show anomalous sorption behaviors not explained by a simple overlap of the behavior of the pure parent compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The modular design of domain assembly in porous materials influences the porous properties through communication between mesoscale domains.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of controlling the bulk properties of solids through the mesoscale design of domain assembly?",
+      "answer": "It is crucial for imparting functionality to the solids, as interactive communication between mesoscale domains is essential in determining bulk properties such as magnetism, ion transport, and phase transitions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

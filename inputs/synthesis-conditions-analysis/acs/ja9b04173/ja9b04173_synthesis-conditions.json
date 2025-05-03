@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "TMU-60 [Zn­(OBA)­(L*)·DMF]",
+      "synthesis": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "15 mg"
+          }
+        ],
+        "equipment": "Teflon autoclave",
+        "chemicals_used": [
+          "Zn­(NO3)2·4H2O",
+          "4,4′-oxybis­(benzoic acid) (H2OBA)",
+          "N1,N2-bis­(pyridin-4-ylmethylene)­ethane-1,2-diamine (L)"
+        ],
+        "time": "72 h",
+        "washing_method": "washed with DMF and three times with ethanol",
+        "drying_method": "dried in air",
+        "yield": "∼20%",
+        "IR_data": "461.99, 656.61, 775.74, 837.65, 1016.40, 1075.05, 1145.28, 1225.62, 1375.15, 1494.46, 1575.20, 1606.10, 1674.15, 3245.75 cm−1",
+        "elemental_analysis": {
+          "calculated": {
+            "C": "59.96%",
+            "H": "3.56%",
+            "N": "6.66%"
+          },
+          "found": {
+            "C": "60.0%",
+            "H": "3.5%",
+            "N": "7.1%"
+          }
+        }
+      }
+    },
+    {
+      "name": "TMU-60-Cd",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "50 ppm of Cd­(NO3)2 aqueous solution",
+            "amount": "50 mL"
+          }
+        ],
+        "amount_of_sorbent": "15 mg",
+        "stirring_rate": "200 rpm",
+        "time": "10 min",
+        "separation_method": "centrifugation",
+        "washing_method": "washed with water",
+        "analysis": [
+          "IR",
+          "UV",
+          "ICP"
+        ],
+        "ICP_results": "Zn/Cd ratio about 1.5 to 1",
+        "sorption_capacity": "155 mg·g−1"
+      }
+    }
+  ],
+  "activation_method_for_TMU-60": {
+    "solvent_exchange": {
+      "solvent": "CH2Cl2",
+      "duration": "48 h",
+      "refresh_rate": "every 12 h"
+    },
+    "drying_conditions": [
+      {
+        "temperature": "120 °C",
+        "time": "24 h"
+      },
+      {
+        "temperature": "200 °C",
+        "time": "4 h",
+        "atmosphere": "under vacuum"
+      }
+    ]
+  },
+  "sorption_experiments": {
+    "general_procedure": {
+      "sorbent_mass": "15 mg",
+      "solution_volume": "50 mL",
+      "solution_concentration": "50 ppm M2+",
+      "shaking_speed": "400 rpm",
+      "pH_adjustment": "0.1 M NaOH and 0.1 M HCl",
+      "sampling_method": "centrifuged at 10000 rpm for 3 min",
+      "analysis_method": "ICP"
+    }
+  },
+  "fluorescence_measurements": {
+    "equipment": "PerkinElmer-LS55 Fluorescence Spectrometer",
+    "conditions": {
+      "solution_volume": "4 mL",
+      "MOF_mass": "1 mg",
+      "sonication_time": "15 min",
+      "temperature": "room temperature"
+    }
+  }
+}

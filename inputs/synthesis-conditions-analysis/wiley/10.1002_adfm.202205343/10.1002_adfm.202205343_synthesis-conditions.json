@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "[TPC4TP]Mn2(C2N3)6",
+      "synthesis_conditions": {
+        "precursors": [
+          "[TPC4TP]Br2",
+          "Mn(NO3)2·4H2O",
+          "Na(C2N3)"
+        ],
+        "solvents": "water/ethanol mixture",
+        "solvent_amounts": "not specified",
+        "method": "slow crystallization",
+        "time": "several days",
+        "yield": "not specified",
+        "crystal_system": "monoclinic",
+        "space_group": "noncentrosymmetric",
+        "thermal_properties": {
+          "thermal_expansion_coefficients": {
+            "αX1": "-72(3) MK−1",
+            "αX2": "113(7) MK−1",
+            "αX3": "130(2) MK−1"
+          },
+          "compressibilities": {
+            "χX1": "-12(1) TPa−1",
+            "χX2": "58(2) TPa−1",
+            "χX3": "69(3) TPa−1"
+          },
+          "bulk_moduli": "6.3(4) GPa"
+        }
+      }
+    },
+    {
+      "name": "[TPC5TP]Mn2(C2N3)6",
+      "synthesis_conditions": {
+        "precursors": [
+          "[TPC5TP]Br2",
+          "Mn(NO3)2·4H2O",
+          "Na(C2N3)"
+        ],
+        "solvents": "water/ethanol mixture",
+        "solvent_amounts": "not specified",
+        "method": "slow crystallization",
+        "time": "several days",
+        "yield": "not specified",
+        "crystal_system": "monoclinic",
+        "space_group": "not specified",
+        "thermal_properties": {
+          "thermal_expansion_coefficients": {
+            "αX1": "-26(2) MK−1",
+            "αX2": "69(2) MK−1",
+            "αX3": "90(2) MK−1"
+          },
+          "compressibilities": {
+            "χX1": "6(1) TPa−1",
+            "χX2": "30(2) TPa−1",
+            "χX3": "53(1) TPa−1"
+          },
+          "bulk_moduli": "9.0(6) GPa"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "materials": [
+    {
+      "name": "Co(L1)2, dia-4i-1",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "tert-butylformamide/tert-butyl alcohol",
+        "solvent_ratio": "2:1",
+        "solvent_amount_ml": "15 mL",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount_mmol": "0.10",
+            "amount_g": "0.029"
+          },
+          {
+            "name": "HL1",
+            "amount_mmol": "0.20",
+            "amount_g": "0.048"
+          }
+        ],
+        "time": "24 h",
+        "yield": "40%",
+        "yield_based_on": "Co(NO3)2",
+        "drying_method": "Supercritical CO2 drying"
+      }
+    },
+    {
+      "name": "Co(L1)2, dia-7i-1-Co",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMF/EtOH",
+        "solvent_ratio": "not specified",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount_mmol": "0.10",
+            "amount_g": "not specified"
+          },
+          {
+            "name": "HL1",
+            "amount_mmol": "0.20",
+            "amount_g": "not specified"
+          }
+        ],
+        "time": "24 h",
+        "yield": "62%",
+        "yield_based_on": "Co(NO3)2",
+        "drying_method": "Supercritical CO2 drying"
+      }
+    },
+    {
+      "name": "Zn(L1)2, dia-7i-1-Zn",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMF",
+        "solvent_ratio": "not specified",
+        "chemicals_used": [
+          {
+            "name": "Zn(ClO4)2·6H2O",
+            "amount_mmol": "0.05",
+            "amount_g": "0.018"
+          },
+          {
+            "name": "HL1",
+            "amount_mmol": "0.10",
+            "amount_g": "0.022"
+          }
+        ],
+        "time": "12 h",
+        "yield": "57%",
+        "yield_based_on": "Zn(ClO4)2·6H2O",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Co(L1)2, dia-8i-1",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMA/EtOH",
+        "solvent_ratio": "not specified",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount_mmol": "0.10",
+            "amount_g": "not specified"
+          },
+          {
+            "name": "HL1",
+            "amount_mmol": "0.20",
+            "amount_g": "not specified"
+          }
+        ],
+        "time": "24 h",
+        "yield": "54%",
+        "yield_based_on": "Co(NO3)2",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Co(L2)2, dia-4i-2",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMF",
+        "solvent_amount_ml": "15 mL",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount_mmol": "0.10",
+            "amount_g": "0.029"
+          },
+          {
+            "name": "HL2",
+            "amount_mmol": "0.20",
+            "amount_g": "0.040"
+          }
+        ],
+        "time": "24 h",
+        "yield": "65%",
+        "yield_based_on": "Co(NO3)2",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Co(L3)2, dia-4i-3-a",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMF",
+        "solvent_amount_ml": "15 mL",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount_mmol": "0.10",
+            "amount_g": "0.029"
+          },
+          {
+            "name": "HL3",
+            "amount_mmol": "0.20",
+            "amount_g": "0.040"
+          }
+        ],
+        "time": "24 h",
+        "yield": "60%",
+        "yield_based_on": "Co(NO3)2",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Co(L3)2, dia-4i-3-b",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "DMA",
+        "solvent_amount_ml": "not specified",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount_mmol": "0.10",
+            "amount_g": "not specified"
+          },
+          {
+            "name": "HL3",
+            "amount_mmol": "0.20",
+            "amount_g": "not specified"
+          }
+        ],
+        "time": "24 h",
+        "yield": "54%",
+        "yield_based_on": "Co(NO3)2",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "Co(L3)2, dia-5i-3",
+      "synthesis_conditions": {
+        "temperature": "105 °C",
+        "solvents": "EtOH",
+        "solvent_amount_ml": "not specified",
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2·6H2O",
+            "amount_mmol": "0.10",
+            "amount_g": "not specified"
+          },
+          {
+            "name": "HL3",
+            "amount_mmol": "0.20",
+            "amount_g": "not specified"
+          }
+        ],
+        "time": "24 h",
+        "yield": "48%",
+        "yield_based_on": "Co(NO3)2",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

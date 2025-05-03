@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "5-azidoisophthalic acid (H2N3-ipa)",
+      "synthesis_conditions": {
+        "temperature": "0 (cid:14)C for diazotization and azidation, room temperature for stirring",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "50 ml for sodium nitrite solution, 50 ml for sodium azide solution, 500 ml for 5-aminoisophthalic acid solution"
+          },
+          {
+            "name": "2 M HCl",
+            "amount": "500 ml"
+          }
+        ],
+        "chemicals_used": [
+          "sodium nitrite (2.0 g, 2.9 mmol)",
+          "5-aminoisophthalic acid (5.0 g, 2.8 mmol)",
+          "sodium azide (1.9 g, 2.9 mmol)"
+        ],
+        "time": "15 min for diazotization, 30 min at 0 (cid:14)C and 12 h at room temperature for azidation",
+        "yield": "5.4 g, 94%",
+        "drying_method": "filtration and washed with water"
+      }
+    },
+    {
+      "name": "5-nitrosoisophthalic acid (H2NO-ipa)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "dichloromethane",
+            "amount": "5 ml"
+          },
+          {
+            "name": "water",
+            "amount": "10 ml for Oxone solution"
+          }
+        ],
+        "chemicals_used": [
+          "5-aminoisophthalic acid (181 mg, 1 mmol)",
+          "Oxone (1.23 g, 2 mmol)"
+        ],
+        "time": "20 min",
+        "yield": "23 mg, 12%",
+        "drying_method": "evaporated to dryness, subjected to recycling preparative size-exclusion chromatography with tetrahydrofuran as an eluent"
+      }
+    },
+    {
+      "name": "CID-N3",
+      "synthesis_conditions": {
+        "temperature": "room temperature for crystallization, 120 (cid:14)C for drying",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 ml for Zn(NO3)2 solution"
+          },
+          {
+            "name": "MeOH",
+            "amount": "2 ml for H2N3-ipa and bpy solution"
+          }
+        ],
+        "chemicals_used": [
+          "Zn(NO3)2 (cid:1) 6H2O (11.9 mg, 0.04 mmol)",
+          "H2N3-ipa (8.3 mg, 0.04 mmol)",
+          "bpy (6.2 mg, 0.04 mmol)"
+        ],
+        "time": "a few days for crystallization, 6 h for drying",
+        "yield": "Not specified",
+        "drying_method": "heated under high vacuum (below 10(cid:0)2 Pa) at 120 (cid:14)C"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Porous Molecular Conductor: Electrochemical Fabrication of Through-Space Conduction Pathways among Linear Coordination Polymers",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author with an email address provided?",
+      "answer": "Hiroaki Iguchi",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research presented in the article?",
+      "answer": "The research focuses on the electrochemical synthesis of the first porous molecular conductor (PMC-1) that exhibits porosity, a through-space conduction pathway, and rich charge carriers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electrical conductivity of PMC-1 increases upon removal of solvent molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of PMC-1?",
+      "answer": "Electrocrystallization",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of PMC-1?",
+      "answer": "[Cd(NDI-py)(OH2)4](NO3)x·nDMA",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What structural change occurs in PMC-1 upon heating to produce PMC-1h?",
+      "answer": "The removal of DMA molecules from PMC-1 induces a structural change.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The conductivity of PMC-1 is measured using a two probe method.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NDI-py in the synthesis of PMC-1?",
+      "answer": "NDI-py acts as an organic linker capable of forming infinite π-stacked columnar architectures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PMC-1 exhibits semiconducting behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the space group P6222 for PMC-1?",
+      "answer": "The space group P6222 indicates the hexagonal crystal system of PMC-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The conductivity of PMC-1h is higher than that of PMC-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the absence of DMA in PMC-1h?",
+      "answer": "1H NMR spectroscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of PMC-1h is identical to PMC-1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated electrical conductivity (σ300K) range for PMC-1 measured in single crystals?",
+      "answer": "1.0 × 10−3 to 3.3 × 10−3 S cm−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of PMC-1 was determined using X-ray diffraction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Cd(NO3)2·4H2O in the synthesis of PMC-1?",
+      "answer": "Cd(NO3)2·4H2O provides the Cd2+ ions needed for the coordination polymer structure of PMC-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PMC-1 is reproducible under specific electrocrystallization conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of temperature on the PXRD pattern of PMC-1s?",
+      "answer": "The PXRD pattern of PMC-1s shows temperature-dependent broad peaks, indicating structural changes with temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electrical conductivity of PMC-1s is comparable to that of PMC-1h.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

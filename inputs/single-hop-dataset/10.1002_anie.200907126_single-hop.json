@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the inclusion compound discussed in the text?",
+      "answer": "[(h5-C5H5)2Co]0.5@MIL-47(V)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the V/Co ratio in the inclusion compound [(h5-C5H5)2Co]0.5@MIL-47(V)?",
+      "answer": "2:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main vibrational band of the FT-IR spectrum of [(h5-C5H5)2Co]0.5@MIL-47(V)?",
+      "answer": "860 cm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the absence of any vibrational band in the region 750–790 cm-1 indicate?",
+      "answer": "All of the incorporated cobaltocene molecules are oxidized.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Néel temperature of the inclusion compound [(h5-C5H5)2Co]0.5@MIL-47(V)?",
+      "answer": "100 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the experimental effective magnetic momentum for [(h5-C5H5)2Co]0.5@MIL-47(V)?",
+      "answer": "2.45 mB",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main reason for the significant contraction of the cell volume in [(h5-C5H5)2Co]0.5@MIL-47(V) compared to guest-free MIL-47(V)?",
+      "answer": "Unusually strong host–guest interactions due to electrostatic forces.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the MIL-47(V) framework considered very rigid?",
+      "answer": "It does not allow large changes of the cell volume like MIL-53(Al) does.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the ESR spectrum of [(h5-C5H5)2Co]0.5@MIL-47(V) reveal about the framework reduction?",
+      "answer": "The strong signal of the S = 1/2 spin system of MIL-47(V) is absent, indicating framework reduction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What configuration is thermodynamically most favorable for the MIL-47(VIV/VIII) structure according to DFT calculations?",
+      "answer": "The antiferromagnetic configuration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main reason for the preferred uptake of cobaltocene over ferrocene by MIL-47(V)?",
+      "answer": "Charge transfer between the host framework and the guest molecule.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MIL-47(V) framework redox-active?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the inclusion compound [(h5-C5H5)2Co]0.5@MIL-47(V) exhibit antiferromagnetic behavior?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the cobaltocenium cation diamagnetic?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MIL-47(V) framework more flexible than MIL-53(Al)?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can cobaltocene be desorbed from [(h5-C5H5)2Co]0.5@MIL-47(V) below its decomposition temperature?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MIL-53(Al) show a preference for ferrocene over cobaltocene?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the cobaltocenium guest easily released from [(h5-C5H5)2Co]0.5@MIL-47(V) by simple washing with water?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

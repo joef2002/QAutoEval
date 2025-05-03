@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "Cadmium sulfonyldibenzoate (CdSDB, compound 1)",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "equipment": "Teflon lined stainless steel Parr autoclaves",
+        "chemicals_used": [
+          {
+            "name": "cadmium nitrate tetrahydrate",
+            "formula": "Cd(NO3)2·4H2O",
+            "purity": "98%",
+            "source": "Aldrich",
+            "amount": "0.001 moles",
+            "mass": "0.310 g"
+          },
+          {
+            "name": "4,4'-sulfonyldibenzoic acid",
+            "formula": "4,4'-SDB",
+            "purity": "98%",
+            "source": "Sigma-Aldrich",
+            "amount": "0.001 moles",
+            "mass": "0.296 g"
+          },
+          {
+            "name": "ethanol",
+            "purity": "95%",
+            "source": "Fisher-Scientific",
+            "amount": "12 grams"
+          }
+        ],
+        "steps": [
+          {
+            "description": "Dissolve Cd(NO3)2·4H2O and 4,4'-SDB in ethanol",
+            "duration": "2 hours",
+            "action": "stirring"
+          },
+          {
+            "description": "Heat the solution",
+            "temperature": "180°C",
+            "duration": "4 days"
+          }
+        ],
+        "product_description": "Colorless needle shaped crystals",
+        "washing_method": "ethanol",
+        "yield": "~60%",
+        "yield_mass": "0.320g",
+        "notes": "Water in the pores comes from the 95% ethanol solvent and from Cd(NO3)2 reactant."
+      }
+    },
+    {
+      "name": "Activated CdSDB (compound 1')",
+      "synthesis_conditions": {
+        "method": "outgassing",
+        "equipment": "volumetric gas sorption analyzer (Autosorb-1-MP, Quantachrome Instruments)",
+        "temperature": "473 K",
+        "duration": "overnight",
+        "atmosphere": "vacuum",
+        "sample_amount": "around 100-110 mg",
+        "notes": "Outgassing samples were used for gas sorption measurements. The weight was recorded before and after outgassing to confirm the removal of guest molecules and to ensure the framework integrity. The outgassing procedure was repeated between experiments for about 2-3 hours."
+      }
+    }
+  ]
+}

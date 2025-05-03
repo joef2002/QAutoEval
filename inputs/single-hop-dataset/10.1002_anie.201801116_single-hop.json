@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main strategy used for creating homochiral metal–organic frameworks in the study?",
+      "answer": "A cooperative pillar–template strategy.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do aromatic molecules play in the synthesis of 3D homochiral frameworks?",
+      "answer": "Aromatic molecules, especially polycyclic aromatic hydrocarbons, are used as templates to modulate the inter-pillar interaction and separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can aromatic templates be post-synthetically extracted from the frameworks?",
+      "answer": "Yes, aromatic templates can be post-synthetically extracted to yield flexible porous homochiral materials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using TPT in the synthesis of homochiral MOFs?",
+      "answer": "TPT can use two of its three pyridyl groups for pillaring, leaving the third pyridyl group as a free donor group accessible within homochiral porous frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were CPM-323 and CPM-324 unable to form pillared 3D frameworks?",
+      "answer": "Because the p–p interaction between adjacent TPT ligands was too strong, preventing the coordination of metal–TPT bonds and resulting in a mismatch in the separation of metal sites and TPT ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the formula for the 3D compound obtained when using naphthalene as a guest molecule?",
+      "answer": "Co2(d-cam)2(TPT)1(G)0.5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the TPT/Guest ratio important in the formation of CPM-325 and CPM-326?",
+      "answer": "Yes, the TPT/Guest ratio is correlated with the strength of p–p interactions and influences the formation of CPM-325 and CPM-326.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the p–p interaction between TPT molecules when guest template molecules are introduced?",
+      "answer": "The introduction of guest template molecules partially or completely breaks down the p–p interaction between TPT molecules, leading to successful pillaring and 3D homochiral frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size of PAHs affect their ability to compete with TPT–TPT interactions?",
+      "answer": "Large PAHs with extended conjugated systems are highly competitive, outcompeting TPT–TPT interactions and leading to the formation of CPM-326, where all TPT molecules are separated by PAHs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of extracting PAHs from the framework on gas sorption?",
+      "answer": "Extracting PAHs generates porosity, leading to significant gas uptake and demonstrating gate-opening effects.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis strategy allow for the creation of non-chiral materials?",
+      "answer": "Yes, the synthetic strategy can be used as a general method for the synthesis of non-chiral materials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the synthesized homochiral porous materials flexible?",
+      "answer": "Yes, the synthesized homochiral porous materials are flexible.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the synthesized materials show potential for gas separation applications?",
+      "answer": "Yes, the synthesized materials show potential for gas separation applications.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the cobalt camphorate layer in the structure?",
+      "answer": "The cobalt camphorate layer acts as a part of the distorted 2D square net construction in the materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of the strength of pillar–template interactions on synthetic conditions?",
+      "answer": "The strength of pillar–template interactions impacts the synthetic conditions, influencing the concentration of aromatic hydrocarbons needed and the sensitivity to reaction conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the gas sorption behavior of the synthesized materials typical of flexible MOFs?",
+      "answer": "Yes, the gas sorption behavior of the synthesized materials is typical of flexible MOFs, showing sudden increases in adsorption under certain pressures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the inserted PAHs be removed through extraction?",
+      "answer": "Yes, the inserted PAHs can be removed through extraction to generate porosity.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the sudden increase in adsorption under certain pressures?",
+      "answer": "The sudden increase in adsorption under certain pressures indicates the flexible nature of the MOFs and their potential for gas separation and chiral separation applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the formula of the materials when larger PAHs are used?",
+      "answer": "Co2(d-cam)2(TPT)1(PAH)1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study provide a new approach in the development of crystalline porous materials?",
+      "answer": "Yes, the study provides a new approach by using aromatic molecules, especially hydrocarbons, as structure-directing agents.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

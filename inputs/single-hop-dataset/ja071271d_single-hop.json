@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of exciplex fluorescence in the study of coordination polymers?",
+      "answer": "Exciplex fluorescence is used as a diagnostic probe of structure in coordination polymers containing intercalated pyrene and enclathrated aromatic solvent guests.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the FT-IR spectra obtained for the compounds in the study?",
+      "answer": "The FT-IR spectra were obtained on a Nicolet Avatar 320 FT-IR with a resolution setting of 4 and 64 scans per sample.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the temperature ramp used in the Thermogravimetric Analysis (TGA)?",
+      "answer": "The temperature ramp used in the TGA was 50°C/min up to 1000°C.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of X-ray radiation was used in the Powder X-ray Diffraction (PXRD) measurements?",
+      "answer": "Cu Kα (λ = 1.5418 Å) radiation was used in the PXRD measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the exciplex emission be used to differentiate between 1-D ladder and 2-D square grid architectures in coordination polymers?",
+      "answer": "Yes, the exciplex emission can be used diagnostically to indicate the type of architecture obtained in these coordination polymers, with distinctive fluorescence maxima and lifetimes observed for 1-D ladder and 2-D square grid structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the exciplex emission from 1-D ladder structures more red-shifted compared to 2-D square grid structures?",
+      "answer": "Yes, the 1-D ladder structures have exciplex emission that is not as strongly red-shifted as the 2-D square grid structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of aromatic solvents influence the formation of coordination polymers?",
+      "answer": "Yes, the presence of aromatic solvents influences the formation of coordination polymers, as indicated by the different structures obtained with different solvents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the excitation spectrum of pyrene in coordination polymers red-shifted compared to pyrene in solution?",
+      "answer": "Yes, the excitation spectrum of pyrene in coordination polymers is red-shifted and relatively broad and featureless compared to pyrene in solution.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the TGA data indicate stability of the coordination polymers up to 1000°C?",
+      "answer": "False, the TGA data does not indicate stability of the coordination polymers up to 1000°C; it was used to analyze the thermal stability under a nitrogen atmosphere.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the FT-IR spectra of the coordination polymers identical?",
+      "answer": "False, the FT-IR spectra of the coordination polymers show variations, indicating differences in their chemical composition.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the PXRD patterns be used to confirm the crystal structure of the coordination polymers?",
+      "answer": "True, the PXRD patterns can be used to confirm the crystal structure of the coordination polymers.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the fluorescence lifetime of the 1-D ladder structures longer than that of the 2-D square grid structures?",
+      "answer": "True, the fluorescence lifetime of the 1-D ladder structures is longer than that of the 2-D square grid structures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of o-dichlorobenzene lead to the formation of a 1-D ladder architecture?",
+      "answer": "False, the presence of o-dichlorobenzene leads to the formation of a 2-D square grid architecture.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the exciplex emission from compound [5] with o-dichlorobenzene guest significantly blue-shifted compared to other compounds?",
+      "answer": "True, the exciplex emission from compound [5] with o-dichlorobenzene guest is significantly blue-shifted compared to other compounds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the excitation spectrum of pyrene in coordination polymers indicate the formation of a ground-state charge-transfer complex?",
+      "answer": "True, the excitation spectrum of pyrene in coordination polymers indicates the formation of a ground-state charge-transfer complex.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the FT-IR spectra used to identify the functional groups present in the coordination polymers?",
+      "answer": "Yes, the FT-IR spectra are used to identify the functional groups present in the coordination polymers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the TGA data provide information on the thermal decomposition of the coordination polymers?",
+      "answer": "Yes, the TGA data provides information on the thermal decomposition of the coordination polymers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the PXRD patterns be used to compare the experimental and simulated crystal structures?",
+      "answer": "Yes, the PXRD patterns can be used to compare the experimental and simulated crystal structures of the coordination polymers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the fluorescence spectroscopy technique critical for understanding the electronic structure of the coordination polymers?",
+      "answer": "Yes, the fluorescence spectroscopy technique is critical for understanding the electronic structure and diagnosing the architecture of the coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study demonstrate the influence of solvent molecules on the structural and fluorescence properties of coordination polymers?",
+      "answer": "Yes, the study demonstrates the influence of solvent molecules on the structural and fluorescence properties of coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

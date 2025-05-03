@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the metal-organic framework (MOF) mentioned in the study?",
+      "answer": "Sc2BDC3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what pressure was CO2 compressed to in the study?",
+      "answer": "2 kbar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phase transition occurs in Sc2BDC3 upon adsorption of CO2 at 1 bar and 235 K?",
+      "answer": "A phase transition from Fddd to C2/c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many adsorption sites were revealed for CO2 in Sc2BDC3 at 2 kbar?",
+      "answer": "Three adsorption sites",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum CO2 uptake capacity reported for Sc2BDC3?",
+      "answer": "6.5 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the previously unreported adsorption site for CO2 in Sc2BDC3?",
+      "answer": "Site 3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to load CH4 into Sc2BDC3?",
+      "answer": "Cryogenically cooling CH4 to liquefy into the sample chamber of a standard Merrill–Bassett DAC before sealing at 3 kbar",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the refined occupancy for CH4 at Site 1 and Site 2 at 3 kbar?",
+      "answer": "0.91(2) for Site 1 and 0.68(2) for Site 2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What phase transition occurs in Sc2BDC3 from 10 kbar to 13 kbar with CH4?",
+      "answer": "A phase transition from Fddd to Fdd2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the final phase of Sc2BDC3 at 25 kbar with CH4?",
+      "answer": "A phase with monoclinic symmetry, crystallizing in the space group P21/c",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of using liquefied gases as pressure transmitting media in the study?",
+      "answer": "It allows for 'hyper-filling' MOFs and locating all adsorption sites, including ones not previously visible with X-ray diffraction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the maximum CH4 uptake capacity achieved in the study?",
+      "answer": "10.7 mmol g-1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study used a diamond anvil cell for gas loading.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that CO2 and CH4 cannot induce phase transitions in Sc2BDC3.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study achieved a CO2 uptake capacity of 6.2 mmol g-1 at 2 kbar.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study reports the use of methanol as a pressure transmitting medium.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study observed a phase transition in Sc2BDC3 at 1 bar and 235 K upon adsorption of CH4.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that the framework of Sc2BDC3 does not retain its orthorhombic Fddd symmetry upon CH4 adsorption.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study observed a reduction in the percentage pore volume of Sc2BDC3 from 3 to 13 kbar.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study was able to refine the occupancy of CH4 molecules including hydrogen positions at high pressures.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

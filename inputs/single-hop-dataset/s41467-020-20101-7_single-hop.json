@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in developing ideal adsorbents for gas separation?",
+      "answer": "The main challenge is combining high adsorption capacity with high selectivity and stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What property of MOFs is utilized for capturing acetylene from ethylene?",
+      "answer": "The tunability of interlayer and intralayer space of two-dimensional fluorinated MOFs is utilized for capturing acetylene from ethylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: ZUL-100 and ZUL-200 materials exhibit benchmark capacity for acetylene/ethylene separation in the pressure range of 0.001–0.05 bar.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of linker atom oxidation state variation in the MOFs discussed?",
+      "answer": "It enables fine regulation of layer stacking pattern and linker conformation, which affords strong interlayer trapping of molecules along with cooperative intralayer binding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What feature allows 2D MOFs to exhibit greater flexibility compared to 3D MOFs?",
+      "answer": "Layered 2D MOFs often exhibit greater degree of flexibility owing to possible layer movement or cross-linking in addition to local bond length/angle change during guest removal or accommodation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The oxidation of sulfur changes the local electrostatic potential from negative to positive in the MOFs discussed.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the interlayer and intralayer channel structure affect the performance of ZUL-200 and ZUL-100 in gas separation?",
+      "answer": "The optimal interlayer and intralayer structures contribute to their high performance in gas separation by creating efficient binding sites for gas molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZUL-220 exhibits a clear multi-step isotherm with significant C2H2 uptake below 0.5 bar.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the surface electrostatic potential play in the stacking patterns of the MOFs?",
+      "answer": "The surface electrostatic potential affects the stacking patterns by influencing the attraction or repulsion between different components of the MOFs, thereby affecting the interlayer space.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of water significantly affects the separation performance of ZUL-100 in acetylene/ethylene separation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the C2H2@ZUL-200 structure in understanding gas adsorption?",
+      "answer": "The C2H2@ZUL-200 structure provides experimental verification of the DFT-D-computed binding sites, supporting the significance of interlayer space control in capturing trace C2H2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental and simulated breakthrough experiments for C2H2/C2H4 separation showed identical results for ZUL-100 and ZUL-200.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the oxidation of sulfur atom in the organic ligand affect the MOF's structure and gas adsorption performance?",
+      "answer": "The oxidation alters the local electrostatic potential and the conformation of pyridine rings, which changes the interlayer and intralayer space, enhancing the MOF's gas adsorption performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The C2H2 uptake of ZUL-100 at 0.01 bar is at least 1.6 times as large as the values of previous benchmarks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to determine the crystal structure of ZUL-200 under C2H2?",
+      "answer": "Single-crystal X-ray diffraction was used to determine the crystal structure of ZUL-200 under C2H2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The practical activated ZUL-220 model was found to be lower in energy than the hypothetical activated model, indicating high structural flexibility.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of water affect the recyclability of ZUL-100 for C2H2/C2H4 separation?",
+      "answer": "The presence of water has a negligible effect on the separation of C2H2 from C2H4, even after multiple cycles, confirming the good recyclability of ZUL-100.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZUL-100 involves a methanol solution of 4,4’-dipyridylsulfone and an aqueous solution of (NH4)2TiF6 and Cu(BF4)2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DFT-D calculation in understanding the adsorption behavior of the 2D fluorinated MOFs?",
+      "answer": "DFT-D calculation provides insight into the structure change, adsorption behavior, and energy favorable binding sites of the 2D fluorinated MOFs, aiding in understanding their high performance in gas separation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The experimental C2H2 uptake in breakthrough tests of UTSA-200a determined by two independent groups is notably smaller than the simulation value.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

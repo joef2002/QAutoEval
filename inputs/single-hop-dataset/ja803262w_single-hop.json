@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Turn-On Fluorescence Sensing of Nucleoside Polyphosphates Using a Xanthene-Based Zn(II) Complex Chemosensor",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Akio Ojida, Ippei Takashima, Takahiro Kohira, Hiroshi Nonaka, and Itaru Hamachi",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on a new fluorescent chemosensor for nucleoside polyphosphates such as ATP using metal−anion coordination chemistry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the binding affinity (Kapp) of the chemosensor 1−2Zn(II) for ATP?",
+      "answer": "Approximately 1 × 10^6 M^−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The chemosensor 1−2Zn(II) can detect nucleoside polyphosphates with a fluorescence enhancement (F/Fo > 15).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What mechanism is the 'turn-on' fluorescence of 1−2Zn(II) based on?",
+      "answer": "The 'turn-on' fluorescence of 1−2Zn(II) is based on a mechanism that involves the binding-induced recovery of the conjugated form of the xanthene ring from its nonfluorescent deconjugated state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The chemosensor 1−2Zn(II) shows a large fluorescence enhancement upon binding to ATP under neutral aqueous conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the fluorescence intensity increase ratio upon addition of 10 μM ATP to the chemosensor 1−2Zn(II)?",
+      "answer": "More than 30-fold",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The chemosensor 1−2Zn(II) has a strong binding affinity for monophosphorylated species such as AMP.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the two Zn(II)−Dpa sites in the binding mechanism of 1−2Zn(II) with nucleoside polyphosphates?",
+      "answer": "The two Zn(II)−Dpa sites interact with the β- and γ-phosphate groups of nucleoside polyphosphates, facilitating strong binding affinity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The chemosensor 1−2Zn(II) can selectively sense nucleoside polyphosphates with high selectivity and strong binding affinity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the fluorescence quantum yield of the binding complex of 1−2Zn(II) with ATP?",
+      "answer": "Φ = 0.61",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The chemosensor 1−2Zn(II) is applicable for fluorescence imaging of ATP particulate stores in living cells.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the synthetic precursor to the chemosensor 1−2Zn(II)?",
+      "answer": "Compound 5 was converted to 7 by radical bromination with NBS, followed by nucleophilic substitution with 2,2′-dipicolylamine (Dpa) at both methyl groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The chemosensor 1−2Zn(II) shows a weak fluorescence emission in neutral aqueous conditions before binding to ATP.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the μ-oxo−dizinc(II) core in the fluorescence mechanism of 1−2Zn(II)?",
+      "answer": "ATP binding to the two Zn(II)−Dpa sites induces the disruption of the μ-oxo−dizinc(II) core, resulting in the recovery of the conjugated xanthene structure showing strong fluorescence emission.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The fluorescence intensity of the ATP binding complex of 1−2Zn(II) is unaffected by pH changes in the range from pH 6 to 9.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What modification was made to the chemosensor 1−2Zn(II) to increase its lipophilicity for cell membrane penetration?",
+      "answer": "1−2Zn(II) was modified by acetylation at both hydroxyl groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The chemosensor 1−2Zn(II) can visualize ATP stores inside living cells without being affected by pH changes.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the turn-on fluorescence sensing mechanism of 1−2Zn(II) for ATP?",
+      "answer": "It demonstrates a new design principle for anion chemosensors and highlights the bioanalytical utility of 1−2Zn(II) as a molecular tool for fluorescence imaging of ATP stores in living cells.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

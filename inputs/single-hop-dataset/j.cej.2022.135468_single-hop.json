@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application idea proposed in the work?",
+      "answer": "The main application idea proposed is using rewritable radiochromic semiconductive materials to avoid the lack of digital processing ability and reusability of commercial radiographic/radiochromic films and the non-portability of commercial semiconductor detectors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy was used to synthesize the semiconductor discussed in the work?",
+      "answer": "A MOF (metal–organic framework)-based host–guest strategy using a photochromism-active viologen was used to synthesize the semiconductor.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique properties does the synthesized semiconductor exhibit upon X-ray irradiation?",
+      "answer": "The synthesized semiconductor exhibits rapid color change from colorless to blue and photocurrent response simultaneously upon irradiation with X-ray and can be easily bleached after thermal annealing for reuse.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the sensitivity of the single-crystal detector of the semiconductor under a bias voltage of 30 V?",
+      "answer": "The sensitivity of the single-crystal detector of the semiconductor under a bias voltage of 30 V is 3216 µCGy–1cm−2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the radiochromic process of the semiconductor reversible?",
+      "answer": "Yes, the radiochromic process of the semiconductor is reversible.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What application example was demonstrated using the semiconductor?",
+      "answer": "As an application example, the inner detail of a printed circuit board was successfully revealed through radiochromic imaging.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What future work is mentioned regarding the semiconductor?",
+      "answer": "The future work will focus on the improvement of X-ray absorption cross-section and evaluation of imaging capabilities using electric signals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the semiconductor exhibit a photocurrent response upon irradiation of the W X-ray?",
+      "answer": "Yes, the semiconductor exhibits a fast photocurrent response upon irradiation of the W X-ray.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the sensitivity value of 3216 µCGy–1cm−2 indicate about the semiconductor?",
+      "answer": "The sensitivity value of 3216 µCGy–1cm−2 indicates that the semiconductor has a higher sensitivity than those of all reported MOF-based detectors and commercial α-Se detectors.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the reversible radiochromic process of the semiconductor exclude?",
+      "answer": "The reversibility of the whole coloration–decoloration process excluded the possibility of oxygen-involved side reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the semiconductor's radiation imaging capability?",
+      "answer": "The radiation imaging capability of the semiconductor allows for the clear display of spacing patterns, such as those in a printed circuit board, when exposed to X-rays.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the semiconductor's electrical conductivity affected by X-ray-induced coloration?",
+      "answer": "Yes, the semiconductor's electrical conductivity is affected by X-ray-induced coloration, with an increase in conductivity observed after irradiation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the increase in conductivity after X-ray-induced coloration suggest about the semiconductor?",
+      "answer": "The increase in conductivity after X-ray-induced coloration suggests that the host–guest interaction between the included EV2+ cation and the ox ligand indeed motivates carrier transport in the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of thermal annealing in the semiconductor's use?",
+      "answer": "Thermal annealing is used to bleach the semiconductor after X-ray irradiation, allowing for the reversible radiochromic process and reuse of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the semiconductor's radiochromic behavior be cycled multiple times?",
+      "answer": "Yes, the semiconductor's radiochromic behavior can be cycled for at least 5 times.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the semiconductor's high sensitivity imply for its applications?",
+      "answer": "The high sensitivity of the semiconductor implies that it can generate a large electronic signal for image acquisition at a low dose rate, which is meaningful for harmless medical imaging applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the semiconductor's tunable electrical conductivity?",
+      "answer": "The tunable electrical conductivity of the semiconductor allows for the adjustment of its electrical properties, which is crucial for optimizing its performance in various applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the semiconductor maintain its sensitivity after X-ray-induced coloration?",
+      "answer": "Yes, the semiconductor still maintains a high sensitivity even after X-ray-induced coloration.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the attenuation of photocurrent gain after coloration indicate?",
+      "answer": "The attenuation of photocurrent gain after coloration indicates partial localization of photogenerated carriers by the viologen ions, especially those in the large channels without π-stacking interactions with the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What future improvements are mentioned for the semiconductor?",
+      "answer": "Future improvements for the semiconductor include enhancing the X-ray absorption cross-section and evaluating its imaging capabilities using electric signals.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

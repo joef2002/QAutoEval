@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study described in the text?",
+      "answer": "The main focus of the study is on activation-dependent breathing in a flexible metal–organic framework and the effects of repeated sorption/desorption cycling.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What methods were used to activate the metal–organic framework?",
+      "answer": "The methods used for activation include direct thermal evacuation, guest exchange with a volatile solvent, and supercritical CO2 drying.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Conventional thermal activation of the MOF results in a pure breathing phase with high sorption capacity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of employing a volatile solvent for exchange before vacuum activation?",
+      "answer": "It potentially lowers the activation temperature, thereby increasing the probability of obtaining high-quality single crystals of an activated phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that supercritical drying always produces phase pure instances of the MOF.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the molecular formula of the synthesized non-interpenetrated MOF?",
+      "answer": "The molecular formula is [Zn2(C20H12O4)2(C10H8N2)]n.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the prevention of interpenetration affect the potential free volume of the MOF compared to MOF-508?",
+      "answer": "The prevention of interpenetration increases the potential free volume from 28% for MOF-508 to 50.1%.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activated phase 1 B is an empty, collapsed version of 1 A in which the connectivity of the MOF is preserved.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the maximum uptake of CO2 under the conditions used in the study?",
+      "answer": "The maximum uptake of CO2 was 8.4 mmol g@1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The sorption isotherms for CO2 showed no hysteresis during the cycles.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the phase transformation to an open form during the gate-opening event indicate?",
+      "answer": "It indicates a transformation from 1 B to an open form that is a metastable frustrated variant of 1 C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that cycling effects may need to be investigated more routinely for MOFs earmarked for industrial applications.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was observed about the sorption capacity of the material after repeated CO2 sorption–desorption cycling?",
+      "answer": "There was a systematic decline in sorption capacity with extended cycling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Direct activation of 1 A preserves the framework integrity and yields a phase suitable for gas sorption.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study propose as a potential reason for the reduction in sorption capacity?",
+      "answer": "The study proposes that partial fracturing of crystallites and reduction in particle size may be responsible for the reduction in sorption capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Activation via solvent exchange yields a collapsed phase 1 B, which exhibits gated breathing with relatively high uptake of CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of treating 1 A with supercritical CO2 for 48 hours?",
+      "answer": "The framework structure of the resultant activated phase resembled that of the as-synthesized version, 1 A.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study describe the effect of crystal downsizing on structural transformations?",
+      "answer": "The study describes that reduction in the number of repeating units should be sufficient to regulate the cooperative nature of structural transformations and the effect of stress.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of repeated sorption/desorption cycles on the crystallinity of the MOF?",
+      "answer": "No appreciable loss of crystallinity was evident from PXRD analysis, but subtle peak broadening occurs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study provided direct structural evidence of the difference between phases 1 B and 1 C obtained by different activation methods.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

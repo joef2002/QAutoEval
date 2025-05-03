@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using insoluble polymers in the synthesis of MOFs?",
+      "answer": "The insoluble polymers are used to direct the formation of one phase over others at the time of nucleation by selectively stabilizing one mode of aggregation under otherwise identical conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are MOF-2 and MOF-5 based on?",
+      "answer": "MOF-2 and MOF-5 are based on the system of 1,4-benzenedicarboxylate (BDC) and Zn2+ ions.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The polymer-induced heteronucleation method can only produce charged MOF frameworks.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes PNMOF-1 from MOF-5?",
+      "answer": "PNMOF-1 is distinguished from MOF-5 by its plate-like morphology, Raman spectrum, and PXRD pattern.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural composition of PNMOF-2?",
+      "answer": "PNMOF-2 is monoclinic and has a different topology than PNMOF-1, built from zinc-oxo clusters and BrBDC linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: PNMOF-3 requires the presence of 4VP in the polymer heteronucleant for its formation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the polymer composition affect the formation of MOF phases?",
+      "answer": "The polymer composition affects the formation of MOF phases by altering polymer polarity and functionality, which allows optimized production of new phases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does DEF solvent play in the structure of PNMOF-1 and PNMOF-2?",
+      "answer": "DEF solvent molecules are bound to zinc atoms, which perhaps favors nucleation from relatively nonpolar surfaces.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MOFs in the presence of insoluble polymers always results in the formation of MOF-5.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using a bromine-substituted 1,4-benzenedicarboxylic acid in MOF synthesis?",
+      "answer": "Using a bromine-substituted 1,4-benzenedicarboxylic acid in MOF synthesis allows for the production of additional networks with the same topology as PNMOF-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PNMOF-3 has a cubic structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula of the framework for PNMOF-1?",
+      "answer": "The formula of the framework for PNMOF-1 is Zn3(BDC)3(DEF)2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of acidic or basic functionalities on the polymer substrate does not influence MOF phase selection.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of polymer-induced heteronucleation on the discovery of new MOF phases?",
+      "answer": "Polymer-induced heteronucleation is a simple way to increase the diversity of conditions during the crystallization of extended networks, leading to the discovery of new MOF phases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of PNMOF-3 is charged.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary goal of the research on polymer-induced heteronucleation for MOF synthesis?",
+      "answer": "The primary goal is to efficiently discover and select among different polymorphic forms of pharmaceuticals and MOFs by using heterogeneous nucleation from insoluble polymers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The polymer-induced heteronucleation method is limited to the synthesis of MOFs with nonpolar surfaces.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cross-linked polymers in MOF synthesis?",
+      "answer": "Cross-linked polymers serve as substrates for crystallization, influencing MOF phase selection by interacting with the reactants through hydrogen bonding or direct coordination to the metal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the composition of the polymer substrate used in the initial experiments for MOF phase selection?",
+      "answer": "The polymer substrate was composed of monomers methacrylic acid (MAA) and 4-vinylpyridine (4VP) individually cross-linked with divinylbenzene (DVB) in various ratios.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of MAA in the polymer heteronucleant affect the production of PNMOF-3?",
+      "answer": "The presence of MAA in the polymer heteronucleant is crucial for the selection of the PNMOF-3 framework, demonstrating the importance of acid functionality.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

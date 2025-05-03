@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of CUK-1 material?",
+      "answer": "Co3(OH)2 (C7H3NO4)2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does CUK-1 preferentially adsorb CO2 with high selectivity and capacity?",
+      "answer": "Less than 253 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to perform the IAST calculations?",
+      "answer": "The pyIAST package",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of guest-loaded Co-CUK-1?",
+      "answer": "C2/c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main reason for the clear sorption inversion of CO2 over C2H2 in CUK-1 materials?",
+      "answer": "The unique molecular arrangement or packing in the confined pore channels",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest-guest interaction the dominant factor in the inverse CO2 sorption behavior of CUK-1 materials?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does decreasing the temperature to 233 K increase the CO2 capacity in CUK-1 materials?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can high-purity C2H2 (99.995%) be directly obtained in a one-step process using CUK-1?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the μ3-OH group in the adsorption process within CUK-1?",
+      "answer": "It acts as a potential binding site to guest molecules through electrostatic interactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used to collect in-situ synchrotron X-ray powder diffraction data?",
+      "answer": "ESRF-ID22 and DLS-I11",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorptive separation using CO2-selective materials preferable in the industry for producing pure C2H2?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated isosteric heat of adsorption (ΔHads) of CO2 on Co-CUK-1?",
+      "answer": "20.8 kJ mol−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the formation of CO2 tetramers in CUK-1 at low temperatures contribute to its high CO2 capacity?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of varying the metal nodes in CUK-1 on the formation of guest clusters?",
+      "answer": "There is only a subtle difference in host-guest interactions, which does not influence the formation of guest clusters",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can CUK-1 materials be easily regenerated at room temperature by purging an inert gas?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge addressed by the authors in utilizing ultramicroporous MOFs for gas capture?",
+      "answer": "Enhancing selectivity through host-guest interactions tuning",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the guest-guest interactions within confined nanovoids of porous materials well explored?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Clausius-Clapeyron equation estimate in the context of gas adsorption?",
+      "answer": "The isosteric enthalpy of adsorption",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the modular nature and reticular structure of ultramicroporous MOFs beneficial for controlling host-guest interactions?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the temperature-dependent reversal of sorption behavior for CO2 and C2H2 in CUK-1?",
+      "answer": "It demonstrates the potential of CUK-1 for producing high-purity C2H2 by temperature-swing sorption",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

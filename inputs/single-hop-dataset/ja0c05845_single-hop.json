@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "Constructing asymmetrical Ni-centered {NiN2O4} octahedra in layered metal-organic structures for near-room-temperature single-phase magnetoelectricity.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to prepare the layered Ni(DPA)2 metal-organic structure?",
+      "answer": "A modified hydrothermal method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the observed morphology of Ni(DPA)2 microcrystals (MCs)?",
+      "answer": "Cube-like morphology with side lengths between 2 to 10 μm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the ferroelectricity and ferromagnetism occur in the layered metal-organic structure?",
+      "answer": "Near room temperature (283 K).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of applying a magnetic field on the ME polarization in the study?",
+      "answer": "The change in ME polarization with increasing applied magnetic field decreases linearly from 0.041 to 0.011 μC/cm2 at the strongest ME coupling temperature of 251 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method is used for the theoretical assessment in the study?",
+      "answer": "Density functional theory (DFT) in Perdew-Burke-Ernzerhof generalized gradient approximation (GGA).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated Curie transition temperature for the FM configuration of Ni(DPA)2 according to the study?",
+      "answer": "About 310 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that the FM domains in Ni(DPA)2 can be directly manipulated by an external electric field at near-room temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that the ME polarization disappears below 230 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study suggest about the relationship between electric and magnetic orders in the layered metal-organic structure?",
+      "answer": "The study suggests that there is a coupled relationship between electric and magnetic orders, enabling magnetoelectricity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study uses X-ray magnetic circular dichroism (XMCD) to determine the element-specific magnetic origin.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study conclude about the potential applications of the layered metal-organic structures?",
+      "answer": "The study concludes that further optimization of the layer structure enables the design of room-temperature ferroelectrics that can be switched between symmetry-equivalent states with a small magnetic field.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study indicates that the ME coupling effect can occur in the system and depends on the asymmetrical distortion of the octahedron.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of spin-charge-orbital coupling in the observed magnetoelectric effect according to the study?",
+      "answer": "Spin-charge-orbital coupling is crucial for the magnetoelectric effect, as it involves simultaneous changes in spin magnetic moments and electric polarization due to structural deformations or external fields.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's experiments were conducted solely at room temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study reveal about the temperature dependence of the total electric polarization in magnetic fields?",
+      "answer": "The study reveals that the total electric polarization decreases with increasing applied magnetic field, showing a strong magnetoelectric coupling effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides evidence for the existence of Ni(I) species as the main reason for the onset of magnetism.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study suggest about the mechanism of magnetoelectric coupling?",
+      "answer": "The study suggests that magnetoelectric coupling is related to the suppression of charge transfer accompanied by a decrease in individual polarization under an applied magnetic field.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings are limited to theoretical predictions without experimental validation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the observed phase transition in the study?",
+      "answer": "The observed phase transition signifies the transformation from a paraelectric to a multiferroic state, causing spontaneous polarization and enabling magnetoelectricity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

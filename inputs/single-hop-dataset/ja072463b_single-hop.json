@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Victor I. Ovcharenko, Elena V. Gorelik, Sergey V. Fokin, Galina V. Romanenko, Vladimir N. Ikorskii, Anna V. Krashilina, Vladimir K. Cherkasov, and Gleb A. Abakumov",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Ligand Effects on the Ferro- to Antiferromagnetic Exchange Ratio in Bis(o-Semiquinonato)copper(II)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of complexes were synthesized in the study?",
+      "answer": "Heterospin complexes [Cu(SQ)2Py]·C7H8, Cu(SQ)2DABCO, and [Cu(SQ)2NIT-mPy]·C6H6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does an extra ligand have on the magnetic properties of the complex?",
+      "answer": "An extra ligand coordinated to the metal atom produces a dramatic effect on the magnetic properties of the complex, changing the multiplicity of the ground state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the energy of the antiferromagnetic exchange interaction between the odd electrons of the SQ ligands in the Cu(SQ)2 bischelate sensitive to the nature of the extra ligand?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Cu(SQ)2 matrix act as according to the study?",
+      "answer": "The Cu(SQ)2 matrix acts as a polyfunctional molecular sensor for the first coordination sphere of the central atom.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What software package was used for all DFT calculations reported in the study?",
+      "answer": "Gaussian 98",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of DABCO in the coordination sphere have a dramatic effect on the odd-electron density redistribution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the axial displacement of the Cu atom from the plane of the CuO4 coordination unit?",
+      "answer": "The axial displacement of the Cu atom from the plane decreases the contribution of Cu 3dxz to magnetic orbitals, affecting the efficiency of the antiferromagnetic exchange coupling channel between ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Cu(SQ)2 matrix sensitive to the occurrence of an extra ligand in the coordination sphere of Cu(II)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study conclude about the Cu(SQ)2 matrix?",
+      "answer": "The study concludes that the Cu(SQ)2 matrix is an unusual type of molecular sensor operated by variation of the ferro- to antiferromagnetic exchange ratio.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Cu(II) in the complexes according to the study?",
+      "answer": "The Cu(II) incorporates an extra ligand in its coordination sphere and provides a specific combination of intramolecular ferro- and antiferromagnetic exchange with two SQ ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the structure of the complexes determined using X-ray analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the extra ligand's nature and orientation on the efficiency of the exchange channels?",
+      "answer": "The nature and orientation of the extra ligand significantly affect the efficiency of the exchange channels by causing odd-electron density redistribution in the antiferromagnetic exchange channel.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the study reveal about the interaction between magnetic orbital 2 of the Cu(SQ)2 complex and the orbitals of Py or DABCO?",
+      "answer": "The interaction leads to decreased splitting between magnetic orbitals 1 and 2, lowering the efficiency of the antiferromagnetic exchange interaction channel.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the study supported by the Russian Foundation for Basic Research (RFBR)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of elongation of the Cu−O distances in the coordination unit?",
+      "answer": "Elongation of the Cu−O distances leads to a significant decrease in the energy of the exchange interaction between the odd electrons of the SQ ligands, affecting the ferro- to antiferromagnetic exchange ratio.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the publication year of the research article?",
+      "answer": "2007",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study provide CIF files for all complexes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main conclusion of the study regarding the Cu(SQ)2 matrix?",
+      "answer": "The main conclusion is that the Cu(SQ)2 matrix is a unique molecular sensor that operates by varying the ratio of ferro- to antiferromagnetic exchange in response to the presence and nature of an extra ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

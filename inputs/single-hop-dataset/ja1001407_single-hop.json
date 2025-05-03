@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for NOTT-116?",
+      "answer": "[Cu3(C54H24O12)(H2O)3]•16DMF•26H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of H6L2?",
+      "answer": "A mixture of diethyl 5-iodoisophthalate and freshly distilled THF/iPr2NH was used, followed by a reaction with bis(triphenylphosphine)palladium dichloride and copper iodide, and then hydrolysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of NOTT-116?",
+      "answer": "4664 m2/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the H2 adsorption capacity of NOTT-116 compare to NOTT-112 at 77 K and 27 bar?",
+      "answer": "The maximum excess H2 capacity for NOTT-116 is lower than that for NOTT-112.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the thermal stability of NOTT-116 attributed to the specific arrangements of the stable cuboctahedral cages?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of exposed Cu(II) sites in NOTT-116's H2 adsorption?",
+      "answer": "They contribute to the high affinity of H2 molecules, leading to significant H2 uptake.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NOTT-116 have a higher H2 uptake at 1 bar at 77 K compared to other materials with BET surface areas of more than 4000 m2/g?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to confirm the permanent porosity of activated NOTT-116?",
+      "answer": "N2 and Ar adsorption isotherms",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption for H2 calculated for NOTT-116?",
+      "answer": "6.7 kJ mol−1 at zero coverage",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of cuboctahedral cages in NOTT-116 contribute to its low-pressure efficiency in H2 adsorption?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the neutron powder diffraction studies conducted on NOTT-112?",
+      "answer": "They confirmed the unique preferential binding of D2 within the smallest cuboctahedral cage, providing direct structural evidence of specific geometrical arrangement of exposed Cu(II) sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the maximum excess H2 uptake for NOTT-116 at 77 K and 27 bar?",
+      "answer": "6.4 wt %",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the high thermal stability of NOTT-116 due to its noninterpenetrated and highly porous structure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of narrow pores in enhancing H2 binding within metal−organic frameworks?",
+      "answer": "Narrow pores allow a single H2 molecule to interact with the overlapping potential from pore walls, enhancing H2 binding.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does NOTT-116 show higher H2 uptake at 1 bar at 77 K than NOTT-112?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system and space group for NOTT-116?",
+      "answer": "Cubic, Fm-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the cuboctahedral cages in NOTT-116?",
+      "answer": "They contain exposed Cu(II) sites which are the first and strongest binding sites for D2, leading to high H2 adsorption capacities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the maximum excess H2 uptake for NOTT-116 lower than that for NOTT-112 despite NOTT-116 having a higher BET surface area?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated total solvent-accessible volume for desolvated NOTT-116?",
+      "answer": "81%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of exposed metal sites in MOFs significantly increase H2 uptake?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

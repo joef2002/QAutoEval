@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of UTSA-400?",
+      "answer": "[Ni­(WO2F4)­(pyz)2] (pyz = pyrazine)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using oxyfluoride-based ultramicroporous metal–organic framework UTSA-400?",
+      "answer": "For sieving separation of propylene from propane with optimal binding affinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is UTSA-400 stable after being soaked in water for 2 weeks?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of UTSA-400?",
+      "answer": "Solvothermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the exposed oxide/fluoride pairs in UTSA-400?",
+      "answer": "They serve as strong functional sites for strengthened propylene–host interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can UTSA-400 be regenerated for repeated use in propylene/propane separation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of UTSA-400?",
+      "answer": "Tetragonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does UTSA-400 achieve high propylene adsorption capacity?",
+      "answer": "By optimizing the dynamic behavior of host framework and maximizing close contacts with the equatorial O/F sites and pyz ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of UTSA-400 stable after exposure to air for 1 month?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated BET surface area for UTSA-400 based on CO2 adsorption isotherm at 298 K?",
+      "answer": "226.3849 m²/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does UTSA-400 exhibit a higher propylene uptake compared to NbOFFIVE-1-Ni?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption (Qst) of C3H6 for UTSA-400?",
+      "answer": "60.5 kJ mol−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of UTSA-400 compare to NbOFFIVE-1-Ni?",
+      "answer": "UTSA-400 has a slightly smaller pore channel due to the distorted WO2F4 geometry and elongated W-Ftrans bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "materials": [
+    {
+      "material": "[Ru2(O2CMe)4]3[CrIII(CN)6] (1a)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[Ru2(O2CMe)4]Cl",
+              "amount": "100 mg",
+              "molar_amount": "0.211 mmol"
+            },
+            {
+              "chemical": "K3[Cr(CN)6]",
+              "amount": "22.0 mg",
+              "molar_amount": "0.0676 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "water",
+              "amount": "50 mL"
+            },
+            {
+              "solvent": "water",
+              "amount": "5 mL"
+            }
+          ],
+          "temperature": "room temperature",
+          "time": "1 h",
+          "yield": "102 mg, 99%",
+          "washing_method": "washed with water",
+          "drying_method": "dried in air"
+        }
+      ]
+    },
+    {
+      "material": "[Ru2(O2CMe)4]3[CrIII(CN)6]·1.8MeCN (1b)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[Ru2(O2CMe)4(THF)2][BF4]",
+              "amount": "50.7 mg",
+              "molar_amount": "0.076 mmol"
+            },
+            {
+              "chemical": "[(Ph3P)2N]3[Cr(CN)6]",
+              "amount": "48.8 mg",
+              "molar_amount": "0.026 mmol"
+            }
+          ],
+          "solvents": [
+            {
+              "solvent": "acetonitrile",
+              "amount": "10 mL"
+            },
+            {
+              "solvent": "acetonitrile",
+              "amount": "5 mL"
+            }
+          ],
+          "temperature": "-15 °C",
+          "time": "30 min",
+          "yield": "30.5 mg, 79%",
+          "washing_method": "isolated by centrifugation",
+          "drying_method": "not specified"
+        }
+      ]
+    },
+    {
+      "material": "[Ru2(O2CMe)4]3[FeIII(CN)6] (2)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "K3[Fe(CN)6]",
+              "note": "used instead of K3[Cr(CN)6]"
+            }
+          ],
+          "yield": "98 mg, 95%"
+        }
+      ]
+    },
+    {
+      "material": "[Ru2(O2CMe)4]3[CoIII(CN)6] (3)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "K3[Co(CN)6]",
+              "note": "used instead of K3[Cr(CN)6]"
+            }
+          ],
+          "yield": "99 mg, 96%"
+        }
+      ]
+    },
+    {
+      "material": "[Ru2(O2CMe)4]3[Mn(CN)6]·3.3MeCN (4)",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "chemicals_used": [
+            {
+              "chemical": "[(Ph3P)2N]3[Mn(CN)6]",
+              "note": "used instead of [(Ph3P)2N]3[Cr(CN)6]"
+            }
+          ],
+          "temperature": "room temperature",
+          "yield": "26.3 mg, 65%"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for ZUL-C1?",
+      "answer": "C28 H28 O20 Al4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of ZUL-C2 as measured by Ar adsorption at 87 K?",
+      "answer": "462 m2·g–1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ZUL-C1 have a higher Xe uptake capacity at 20 kPa compared to ZUL-C2?",
+      "answer": "False, ZUL-C2 has a higher Xe uptake capacity at 20 kPa compared to ZUL-C1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IAST selectivity of ZUL-C2 for C2H6/CH4 (10:85) mixture?",
+      "answer": "741",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the isosteric heat of adsorption (Qst) for C2H6 in ZUL-C2 higher at lower pressures?",
+      "answer": "True, the Qst for C2H6 in ZUL-C2 decreases as the pressure increases.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the structural refinement of activated ZUL-C1?",
+      "answer": "Rietveld refinement",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of as-synthesized ZUL-C1 according to the Rietveld-refinement?",
+      "answer": "Ima2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZUL-C2 maintain high selectivity and capacity in both CH4/C2H6/C3H8 and Xe/Kr separation after multiple breakthrough tests?",
+      "answer": "True, ZUL-C2 maintained high selectivity and capacity in both separations after multiple tests.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest recorded IAST selectivity for C3H8/CH4 (50:50) mixture among the materials listed?",
+      "answer": "1300, observed in ZUL-C2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the dual-site Langmuir-Freundlich (DSLF) equation in the study?",
+      "answer": "It was used for fitting the single-component adsorption isotherms of gases in ZUL-C1 and ZUL-C2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZUL-C2 more effective than ZUL-C1 for the separation of Xe from Kr in a column breakthrough experiment mimicking UNF reprocessing off-gas?",
+      "answer": "True, ZUL-C2 demonstrated a higher Xe capture capacity in the column breakthrough experiment.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated gas density of C3H8 in ZUL-C1?",
+      "answer": "0.27 g·mL–1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the thermal stability range of ZUL-C2 according to TGA analysis?",
+      "answer": "ZUL-C2 is thermally stable until 623 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ZUL-C1 exhibit a higher BET surface area than ZUL-C2?",
+      "answer": "False, ZUL-C2 exhibits a higher BET surface area than ZUL-C1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the quasi-three-dimensional pore refinement strategy mentioned in the study?",
+      "answer": "It enables the tunability of both the size and number of aliphatic rings in polycycloalkane-dicarboxylate ligands, resulting in improved gas separation performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Henry's selectivity of ZUL-C2 for Xe/Kr separation?",
+      "answer": "19.0",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZUL-C2 effectively separate C2H6 from CH4 at low pressures?",
+      "answer": "True, ZUL-C2 demonstrates a high C2H6 uptake at low pressures, indicating effective separation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Clausius-Clapeyron equation in the study?",
+      "answer": "It was used to calculate the isosteric heat of adsorption (Qst) for gases in ZUL-C1 and ZUL-C2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated gas occupancy of C2H6 in ZUL-C2?",
+      "answer": "2.64",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the IAST selectivity for C3H8/CH4 (5:85) mixture higher in ZUL-C2 compared to ZUL-C1?",
+      "answer": "True, ZUL-C2 exhibits a significantly higher IAST selectivity for the C3H8/CH4 mixture compared to ZUL-C1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

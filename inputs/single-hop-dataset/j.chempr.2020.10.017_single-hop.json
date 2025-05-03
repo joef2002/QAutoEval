@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of the Ti-IPA MOF (MIP-208) discussed in the text?",
+      "answer": "The main application of MIP-208 is for visible-light photocatalytic CO2 methanation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of MIP-208?",
+      "answer": "MIP-208 was synthesized using a solvothermal method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of RuOx nanoparticles in MIP-208@RuOx composite?",
+      "answer": "RuOx nanoparticles enhance the photocatalytic activity of MIP-208 for CO2 methanation under visible light.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used to determine the crystal structure of MIP-208?",
+      "answer": "The crystal structure of MIP-208 was determined using single-crystal X-ray diffraction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the stability of MIP-208 tested?",
+      "answer": "The stability of MIP-208 was tested through temperature-dependent PXRD measurements and thermogravimetric analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the 1D TiO chain in MIP-208?",
+      "answer": "The 1D TiO chain in MIP-208 is significant for its photo-responsive activity, which is crucial for photocatalytic applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of photocatalytic CO2 methanation using pure MIP-208?",
+      "answer": "Using pure MIP-208 as the catalyst resulted in the production of CH4 under UV-visible light irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the photocatalytic performance of MIP-208@RuOx evaluated?",
+      "answer": "The photocatalytic performance of MIP-208@RuOx was evaluated by measuring the temporal evolution of CH4 during CO2 reduction under different light conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was used as a reference for 15N chemical shifts in solid-state NMR?",
+      "answer": "The 15N chemical shifts in solid-state NMR were referenced to CH3NO2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is MIP-208 stable in water?",
+      "answer": "Yes, MIP-208 exhibits excellent hydrolytic stability, as shown by its performance before and after treatment in aqueous solutions with different pH values.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

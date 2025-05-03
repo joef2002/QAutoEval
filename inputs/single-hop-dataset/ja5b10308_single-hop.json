@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of LMOF-241?",
+      "answer": "C111H72N6O12Zn3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of LMOF-241?",
+      "answer": "monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of LMOF-241?",
+      "answer": "C2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the detection limit of Aflatoxin B1 using LMOF-241?",
+      "answer": "46 ppb",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of the tppe ligand?",
+      "answer": "Suzuki coupling reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of LMOF-241 after degassing?",
+      "answer": "1268 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Zn2+ ion in the luminescence of LMOFs?",
+      "answer": "Zn2+ ion contributes negligibly in the luminescence of the resulting LMOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is LMOF-241 considered an excellent candidate as fluorescence-based sensory material?",
+      "answer": "Because of its high internal quantum yield of 92.7%.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main mechanism of mycotoxin detection by LMOF-241?",
+      "answer": "Electron transfer mechanism",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the solvent exchange process in the preparation of LMOF-241 for mycotoxin detection?",
+      "answer": "It replaces residual solvent molecules in the pores of LMOF-241 with dichloromethane (DCM) to prepare the sample for mycotoxin detection.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of LMOF-241 facilitate its function as a mycotoxin sensor?",
+      "answer": "The structure of LMOF-241 allows for efficient electron transfer from the MOF to toxin molecules, facilitating fluorescence quenching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the tppe ligand in the luminescence properties of LMOF-241?",
+      "answer": "The tppe ligand is responsible for the strong emission in the final structure of LMOF-241.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of LMOF-241 triclinic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the detection limit of Aflatoxin B1 using LMOF-241 lower than the FDA's tolerant level for corn and peanut feeds for beef cattle?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does LMOF-241 have a BET surface area of less than 1000 m2/g after degassing?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Suzuki coupling reaction used for the synthesis of the bpdc ligand?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Zn2+ ion enhance the luminescence of LMOF-241 by participating in the emission process?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the internal quantum yield of LMOF-241 less than 50%?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the electron transfer mechanism the only detection mechanism for mycotoxins by LMOF-241?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the solvent exchange process involve replacing DCM with water in the pores of LMOF-241?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

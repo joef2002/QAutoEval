@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MOF 1?",
+      "answer": "C132H172Cd4Ni4N12O32",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does MOF 2 belong to?",
+      "answer": "monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal XRD data for compounds 1 and 2 collected?",
+      "answer": "123(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the shortest Co–Co distance of adjacent surfaces in a channel for MOF 2?",
+      "answer": "6.277(3) Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using Chiralcel OD-H column in the HPLC analysis of epoxides and diols?",
+      "answer": "To separate enantiomers of the epoxides and diols.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the cooperative bimetallic catalysis work in the hydrolytic kinetic resolution of epoxides?",
+      "answer": "Epoxide and H2O are activated simultaneously by two Co(salen) catalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF structure stable up to approximately 350 °C according to TGA analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF catalyst feature a high local density of cooperative bis[Co(salen)] motifs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the solid catalyst be easily recycled and reused without any apparent loss of catalytic activity and enantioselectivity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic activity of the MOF significantly lower than its homogeneous analogues at low C/S ratios?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF catalyst improve catalytic performance relative to the monomeric catalysts at high C/S ratios?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group for MOF 1 and MOF 2 the same?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of MOFs 1 and 2?",
+      "answer": "DMF acts as a solvent and participates in the coordination environment of the MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the chiral space group C2 in the structure of MOF 1?",
+      "answer": "It indicates that MOF 1 has a chiral structure, which is important for its catalytic activity in asymmetric reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to determine the enantiomeric excess (ee) values of the epoxides?",
+      "answer": "High performance liquid chromatography (HPLC) with a chiral column.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the function of the Co(salen) units in MOF 2?",
+      "answer": "They act as catalytic sites for the hydrolytic kinetic resolution of epoxides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conversion rate for the hydrolytic kinetic resolution of epoxides higher in the presence of MOF 2 compared to its homogeneous analogues?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the phase purity of the bulk samples of MOFs?",
+      "answer": "Powder X-ray diffraction (PXRD) patterns comparison.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of coordinatively unsaturated Ni2+ ions in MOF 1 contribute to its catalytic activity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of circular dichroism (CD) spectra in the characterization of MOFs 1 and 2?",
+      "answer": "To demonstrate the enantiomeric nature of the MOFs by showing mirror-image CD spectra for the R and S enantiomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

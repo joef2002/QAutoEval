@@ -1,0 +1,276 @@
+{
+  "materials": [
+    {
+      "material_id": "1",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Cp*Rh­(μ-H2O)3]­[(OTf)2]",
+              "amount": "1.0 equiv, 29.5 mg, 0.05 mmol"
+            },
+            {
+              "name": "sodium hydroxide",
+              "amount": "3.0 equiv, 6 mg, 0.15 mmol"
+            },
+            {
+              "name": "B",
+              "amount": "3.0 equiv, 159 mg, 0.15 mmol"
+            },
+            {
+              "name": "L1",
+              "amount": "3.0 equiv, 49.6 mg, 0.15 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "94%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    },
+    {
+      "material_id": "2",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "B",
+              "amount": "1.0 equiv, 53 mg, 0.05 mmol"
+            },
+            {
+              "name": "L1",
+              "amount": "1.0 equiv, 16.5 mg, 0.05 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "96%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    },
+    {
+      "material_id": "1'",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Cp*Ir­(H2O)3]­[(OTf)2]",
+              "amount": "1.0 equiv, 40 mg, 0.05 mmol"
+            },
+            {
+              "name": "sodium hydroxide",
+              "amount": "3.0 equiv, 6 mg, 0.15 mmol"
+            },
+            {
+              "name": "B'",
+              "amount": "3.0 equiv, 186 mg, 0.15 mmol"
+            },
+            {
+              "name": "L1",
+              "amount": "3.0 equiv, 49.6 mg, 0.15 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "91%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    },
+    {
+      "material_id": "2'",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "B'",
+              "amount": "1.0 equiv, 62 mg, 0.05 mmol"
+            },
+            {
+              "name": "L1",
+              "amount": "1.0 equiv, 16.5 mg, 0.05 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "90%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    },
+    {
+      "material_id": "4",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Cp*Rh­(H2O)3]­[(OTf)2]",
+              "amount": "1.0 equiv, 29.5 mg, 0.05 mmol"
+            },
+            {
+              "name": "sodium hydroxide",
+              "amount": "3.0 equiv, 6 mg, 0.15 mmol"
+            },
+            {
+              "name": "B",
+              "amount": "3.0 equiv, 159 mg, 0.15 mmol"
+            },
+            {
+              "name": "L2",
+              "amount": "3.0 equiv, 49.6 mg, 0.15 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "92%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    },
+    {
+      "material_id": "5",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "B",
+              "amount": "1.0 equiv, 53 mg, 0.05 mmol"
+            },
+            {
+              "name": "L2",
+              "amount": "1.0 equiv, 16.5 mg, 0.05 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "89%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    },
+    {
+      "material_id": "4'",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": null
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "[Cp*Ir­(H2O)3]­[(OTf)2]",
+              "amount": "1.0 equiv, 40 mg, 0.05 mmol"
+            },
+            {
+              "name": "sodium hydroxide",
+              "amount": "3.0 equiv, 6 mg, 0.15 mmol"
+            },
+            {
+              "name": "B'",
+              "amount": "3.0 equiv, 186 mg, 0.15 mmol"
+            },
+            {
+              "name": "L2",
+              "amount": "3.0 equiv, 49.6 mg, 0.15 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "90%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    },
+    {
+      "material_id": "5'",
+      "synthesis_conditions": [
+        {
+          "step": 1,
+          "temperature": "ambient conditions",
+          "solvents": [
+            {
+              "name": "methanol",
+              "amount": "10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "B'",
+              "amount": "3.0 equiv, 62 mg, 0.05 mmol"
+            },
+            {
+              "name": "L2",
+              "amount": "3.0 equiv, 16.5 mg, 0.05 mmol"
+            }
+          ],
+          "time": "24 h",
+          "yield": "93%",
+          "drying_method": null,
+          "washing_method": null,
+          "crystallization_method": "removing the solvent under vacuum and recrystallizing with diethyl ether"
+        }
+      ]
+    }
+  ]
+}

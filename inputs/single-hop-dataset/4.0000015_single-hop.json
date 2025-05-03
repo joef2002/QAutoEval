@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework studied for its dehydration pathway?",
+      "answer": "[Co(AIP)(bpy)0.5(H2O)]•2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to study the dehydration pathway of the flexible metal-organic framework?",
+      "answer": "Dynamic in situ X-ray diffraction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the initial flow rate of N2 gas during the rs-disX data collection?",
+      "answer": "2.5 mL/min",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many crystallographically independent water molecules are in the asymmetric unit of the structure?",
+      "answer": "Three",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the a-axis and beta angle during the transition from structure 1 to structure 2?",
+      "answer": "The a-axis decreases by 1.5 Å and beta decreases by approximately 5 degrees.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dehydration process of [Co(AIP)(bpy)0.5(H2O)]•2H2O can be fully understood using ex situ methods.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of guest water molecules in the structure of the framework lattice?",
+      "answer": "The guest water molecules play a significant role in shaping the structure of the framework lattice.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest water molecules leave the framework in a stepwise manner.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the guest water molecule at site A?",
+      "answer": "It is the first to be depleted due to relatively poor hydrogen bonding available.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structures determined during the dehydration process show a gradual reduction of the occupancy of both sites B and C.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What changes occur in the Co-AIP planes during the transition from structure 1 to structure 2?",
+      "answer": "The Co-AIP planes shear by approximately 0.80 Å along [001].",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The fully anhydrous phase of the metal-organic framework is obtained without any structural changes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the final R1 value for the crystal structure determination of [Structure_01]?",
+      "answer": "0.0317",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dehydration process of [Co(AIP)(bpy)0.5(H2O)]•2H2O results in several new chemical congeners.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the loss of guest water molecules on the host lattice?",
+      "answer": "The loss of guest water molecules leads to significant insights into the role of guest-host interactions on the flexibility of the MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest water molecules at sites B and C leave concurrently and equally.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of dynamic in situ SCXRD techniques in studying the MOF?",
+      "answer": "They elucidate the dehydration process in detail, revealing results impossible to obtain with ex situ or static techniques.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The flexibility of the metal center is the only factor contributing to the flexibility of the lattice.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the molecular weight of C13H15CoN2O7?",
+      "answer": "370.20 g/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dehydration process of [Co(AIP)(bpy)0.5(H2O)]•2H2O is simple and straightforward.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

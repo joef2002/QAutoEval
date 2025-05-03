@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge faced by solid sorbents for carbon dioxide capture?",
+      "answer": "The main challenge is merging efficient capture with economical regeneration in a durable, scalable material.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unique feature of CALF-20 in terms of CO2 capture?",
+      "answer": "CALF-20 physisorbs CO2 with high capacity and is also selective over water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to prepare CALF-20?",
+      "answer": "CALF-20 can be prepared in one step.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is CALF-20 durable to steam and wet acid gases?",
+      "answer": "Yes, CALF-20 shows durability to steam and wet acid gases.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can CALF-20 be formed as composite materials?",
+      "answer": "Yes, CALF-20 can be formed as composite materials.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of competitive separations in the functionality of CALF-20?",
+      "answer": "Competitive separations show preferential CO2 physisorption below 40% relative humidity and also suppression of water sorption by CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method corroborated the suppression of water sorption by CO2 in CALF-20?",
+      "answer": "Computational modeling corroborated the suppression of water sorption by CO2 in CALF-20.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of CALF-20 scalable to multikilogram batches?",
+      "answer": "Yes, the synthesis of CALF-20 is scalable to multikilogram batches.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the structural composition of CALF-20?",
+      "answer": "CALF-20 is composed of layers of 1,2,4-triazolate-bridged zinc(II) ions pillared by oxalate ions to form a three-dimensional lattice and pore structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does CALF-20 compare to other materials in terms of CO2 capacity and selectivity over N2?",
+      "answer": "While there are numerous other materials with noteworthy performance in CO2 capacity and selectivity over N2, CALF-20's unique features include its robustness and stability to steam, wet acid gases, and its scalable synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does CALF-20 retain its CO2 uptake capacity after exposure to real flue gas from natural gas combustion?",
+      "answer": "Yes, CALF-20 retains its CO2 capacity after exposure to real flue gas from natural gas combustion.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What makes CALF-20 suitable for industrial-scale gas separation?",
+      "answer": "Its scalable preparation, durability, and the ability to merge efficient CO2 capture with economical regeneration make CALF-20 suitable for industrial-scale gas separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can CALF-20 be used in processes with direct steam for regeneration?",
+      "answer": "Yes, CALF-20 can be used in processes with direct steam for regeneration.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of water on the CO2 capture performance of CALF-20?",
+      "answer": "The presence of CO2 actually suppresses water sorption in CALF-20, which is beneficial for its CO2 capture performance in wet conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CALF-20's synthesis process environmentally friendly?",
+      "answer": "Yes, CALF-20's synthesis process is environmentally friendly as it can be carried out in a water/methanol mixture, where the organic solvent represents less than 25 wt %.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of zinc in the structure of CALF-20?",
+      "answer": "Zinc ions are bridged by 1,2,4-triazolate and pillared by oxalate ions in the structure of CALF-20.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does CALF-20 have open coordination sites?",
+      "answer": "No, CALF-20 does not have open coordination sites.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the void volume percentage of CALF-20?",
+      "answer": "The void volume percentage of CALF-20 is approximately 38%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can CALF-20 capture CO2 in the presence of water vapor?",
+      "answer": "Yes, CALF-20 can capture CO2 in the presence of water vapor.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of CALF-20's low water affinity for CO2 capture?",
+      "answer": "CALF-20's low water affinity is significant because it allows for efficient CO2 capture in wet gas streams without significant coadsorption of water, which can reduce the energy required for regeneration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

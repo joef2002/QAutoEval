@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the parasitic energy of IISERP-MOF2 for postcombustion CO2 capture?",
+      "answer": "655 kJ/kg CO2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CO2/N2 selectivity of IISERP-MOF2 compare to Mg-MOF-74 and SIFSIX-3-Zn?",
+      "answer": "IISERP-MOF2 has a CO2/N2 selectivity of 1853, which is higher than both Mg-MOF-74 (232) and SIFSIX-3-Zn (629).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 adsorption capacity of IISERP-MOF2 higher under dry or humid conditions?",
+      "answer": "The CO2 adsorption capacity of IISERP-MOF2 is slightly higher under dry conditions compared to humid conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does IISERP-MOF2 retain its crystallinity after exposure to humid CO2?",
+      "answer": "Yes, IISERP-MOF2 retains its crystallinity after exposure to humid CO2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the heat of adsorption (HOA) for CO2 in IISERP-MOF2?",
+      "answer": "33.6 kJ/mol",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can IISERP-MOF2 be synthesized on a large scale while retaining its gas sorption characteristics?",
+      "answer": "Yes, IISERP-MOF2 can be synthesized on a large scale with comparable crystallinity and similar gas sorption characteristics.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 diffusion coefficient in IISERP-MOF2?",
+      "answer": "6.04 x 10^-9 m^2 s^-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does IISERP-MOF2 exhibit hydrolytic stability?",
+      "answer": "Yes, IISERP-MOF2 exhibits exceptional hydrolytic stability.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the working capacity of IISERP-MOF2 for CO2 capture?",
+      "answer": "0.69 mmol/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the CO2 adsorption capacity of IISERP-MOF2 decrease significantly after 6 months of exposure to the atmosphere?",
+      "answer": "No, IISERP-MOF2 retains complete porosity even after 6 months of exposure to the atmosphere.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 uptake capacity of IISERP-MOF2 under dynamic conditions?",
+      "answer": "3.97 mmol/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the CO2 adsorption isotherm of IISERP-MOF2 unchanged following steam treatment?",
+      "answer": "Yes, the CO2 adsorption isotherm of IISERP-MOF2 is unchanged following steam treatment.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2/N2 selectivity of IISERP-MOF2 at 1 bar and 313 K?",
+      "answer": "1853",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does IISERP-MOF2 have a higher CO2/N2 selectivity than SIFSIX-3-Cu?",
+      "answer": "False, SIFSIX-3-Cu has a higher CO2/N2 selectivity (5463) than IISERP-MOF2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of including the energy required to place the system under vacuum on the total parasitic energy of IISERP-MOF2?",
+      "answer": "Including the energy required to place the system under vacuum increases the difference in the parasitic energy to the next closest material from 39 to 86 kJ/kg CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does IISERP-MOF2 lose more than 10% of its CO2 adsorption capacity under humid conditions?",
+      "answer": "False, IISERP-MOF2 only loses about 7% of its maximum CO2 capacity under humid conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2 adsorption capacity of IISERP-MOF2 at 303 K and 0.15 bar?",
+      "answer": "1.6 mmol/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can IISERP-MOF2 withstand carbonic acid without losing its CO2 adsorption capacity?",
+      "answer": "Yes, the CO2 adsorption isotherm of IISERP-MOF2 remains unchanged following exposure to a flow of humid CO2 for 24 h.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the average CO2 self-diffusion coefficient of IISERP-MOF2?",
+      "answer": "6.04 x 10^-9 m^2 s^-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does IISERP-MOF2 maintain its performance after repeated adsorption cycles?",
+      "answer": "Yes, IISERP-MOF2 retains most of its performance after repeated adsorption cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

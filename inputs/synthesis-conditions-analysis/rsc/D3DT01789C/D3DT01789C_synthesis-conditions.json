@@ -1,0 +1,84 @@
+{
+  "materials": [
+    {
+      "name": "[(CH3)2NH2]2[Co4F4(SO4)3(C3N2H4)4]",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "110 °C",
+        "time": "48 hours",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "tris(2,4-pentanedionato)cobalt(III)",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "CoSO4·7H2O",
+            "amount": "0.5 mmol"
+          },
+          {
+            "name": "imidazole",
+            "amount": "1 mmol"
+          },
+          {
+            "name": "hydrofluoric acid",
+            "amount": "1 mmol (35 µL)"
+          }
+        ],
+        "washing_method": "washed thoroughly with DMF two times, several times with IPA",
+        "drying_method": "dried at 70 °C in a vacuum oven for 4 days"
+      }
+    },
+    {
+      "name": "CoSe2@ST",
+      "synthesis_conditions": {
+        "method": "sealed tube",
+        "temperature": "200 °C",
+        "time": "24 hours",
+        "solvents": "none",
+        "chemicals_used": [
+          {
+            "name": "Co-cubane",
+            "amount": "120.5 mg (≈0.125 mmol)"
+          },
+          {
+            "name": "selenium powder",
+            "amount": "99 mg (≈1.25 mmol)"
+          }
+        ],
+        "washing_method": "washed with 0.1 M HCl several times, followed by ethanol, centrifuged",
+        "drying_method": "dried in a vacuum oven at 60 °C"
+      }
+    },
+    {
+      "name": "CoSe2@HT",
+      "synthesis_conditions": {
+        "method": "hydrothermal",
+        "temperature": "180 °C",
+        "time": "24 hours",
+        "solvents": "12 mL of Millipore water",
+        "chemicals_used": [
+          {
+            "name": "Co-cubane",
+            "amount": "120.5 mg (≈0.125 mm)"
+          },
+          {
+            "name": "selenium powder",
+            "amount": "99 mg (≈1.25 mm)"
+          },
+          {
+            "name": "NaBH4",
+            "role": "reducing agent"
+          }
+        ],
+        "washing_method": "washed with 0.1 M HCl several times, followed by ethanol, centrifuged",
+        "drying_method": "dried in a vacuum oven at 60 °C"
+      }
+    }
+  ]
+}

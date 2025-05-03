@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Redox-Active 1D Coordination Polymers of Iron-Sulfur Clusters",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Noah E. Horwitz, Jiaze Xie, Alexander S. Filatov, Robert J. Papoular, William E. Shepard, David Z. Zee, Mia P. Grahn, Chloe Gilder, and John S. Anderson",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of compound 1 mentioned in the article?",
+      "answer": "C44H80Fe4N2S8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of compound 2 as mentioned in the article?",
+      "answer": "Tetragonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the Rietveld refinement of the structure of compound 1?",
+      "answer": "GSAS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group number for compound 1?",
+      "answer": "101",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the reduced χ2 value for the Rietveld refinement of compound 2?",
+      "answer": "4.055",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to analyze the small angle X-ray scattering data?",
+      "answer": "Beaucage's unified exponential/power law model",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relative area of site 1 in the Mössbauer spectra of the as-synthesized compound 1?",
+      "answer": "1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the wavelength used for the 11-BM/APS synchrotron X-ray powder diffraction data of compound 2?",
+      "answer": "0.4127 Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Fe4S4 cluster maintained in the polymer after chemical reduction according to the Mössbauer spectroscopy data?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the electrical conductivity of the materials increase upon chemical reduction?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of compound 1 tetragonal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of compound 2 P 42 c m?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article mention the use of SAXS for determining the structure of the coordination polymers?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the density of compound 2 higher than that of compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the Mössbauer spectroscopy used to analyze the electronic structure of the Fe4S4 clusters?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article provide information on the synthesis of the coordination polymers?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the preferred orientation texture index for compound 1 higher than 1.1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article discuss the application of these coordination polymers in hydrogen evolution reactions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

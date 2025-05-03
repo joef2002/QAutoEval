@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the general direction demonstrated for diversifying MOFs?",
+      "answer": "The synthesis of composite inorganic clusters between indium and s-, d-, and f-block elements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of creating composite inorganic building units for MOFs?",
+      "answer": "It increases the number of inorganic components available for MOF construction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is indium known to form 3D MOFs with Mg, Mn, Co, Cu, and lanthanide ions before this work?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenge is mentioned in synthesizing heterometallic MOFs?",
+      "answer": "Macroscopic phase separation of different metal ions into separate phases or molecular-level separation by organic ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is unique about the In-M clusters reported in this work?",
+      "answer": "They possess diverse configuration, nuclearity, metal-to-metal ratio, and charge, expanding the pool of inorganic building blocks for MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the overall charge of each cluster exactly twice its nuclearity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of CPM-18-Nd?",
+      "answer": "P21/3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structural correlation between CPM-18-Nd and CPM-19-Nd demonstrate charge reversal?",
+      "answer": "By incorporating additional Nd3+ cations, CPM-19-Nd adopts an overall cationic framework, contrasting with the anionic framework of CPM-18-Nd.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can other 3d metals form the same trans tetramer as cobalt in the MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of CPM-19-Nd?",
+      "answer": "272 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does CPM-20 exhibit higher CO2 uptake at 273 K and 1 atm compared to CPM-19-Nd?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2/N2 selectivity of CPM-20 at 273 K and 1 atm?",
+      "answer": "49:1 at 0.16 atm and 40:1 at 1 atm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of different ligands in the formation of heterometallic cluster structures?",
+      "answer": "Different sized or types of ligands can lead to the formation of different heterometallic cluster structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis method for CPM-23 similar to that of CPM-21-Co?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the solvent-accessible volume of CPM-23?",
+      "answer": "74.7%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the intrinsic relationship among the In-M clusters?",
+      "answer": "It indicates a pattern where the overall charge of each cluster is exactly twice its nuclearity, suggesting a systematic approach to cluster charge.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of CPM-18-Nd involve heating at 110°C for 5 days?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the SQUEEZE method in PLATON?",
+      "answer": "It eliminates the contribution of disordered solvent molecules to the overall intensity data of structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the combination of indium with different metals from the periodic table affect MOF structures?",
+      "answer": "It leads to the formation of different heterometallic cluster structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest-accessible volume of CPM-19-Nd larger than that of CPM-18-Nd?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

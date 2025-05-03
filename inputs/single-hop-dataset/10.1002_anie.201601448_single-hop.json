@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of astellifadiene?",
+      "answer": "C25H40",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the absolute structure of astellifadiene?",
+      "answer": "The crystalline sponge method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What organism was genome mined to produce astellifadiene?",
+      "answer": "Emericella variecolor NBRC 32302",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using [1-13C]sodium acetate in the study?",
+      "answer": "To investigate the cyclization mechanism leading to astellifadiene",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many degrees of unsaturation does astellifadiene have?",
+      "answer": "Six",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of Aspergillus oryzae in the study?",
+      "answer": "It was used for the heterologous expression of the terpene synthase gene to produce astellifadiene",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of four olefinic carbon atoms in the 13C NMR spectrum of astellifadiene suggest?",
+      "answer": "It suggests a tetracyclic backbone for astellifadiene",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the crystalline sponge method chosen for determining the absolute structure of astellifadiene?",
+      "answer": "Because astellifadiene is an oil and not suitable for common diffraction studies, and the crystalline sponge method can directly determine the absolute configuration without crystallization",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the incorporation of one atom of deuterium into astellifadiene in 2H2O indicate?",
+      "answer": "It proves the existence of the second round of cyclization initiated by the protonation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of incorporating either [1-13C, 2H3]sodium acetate or [2-13C, 2H3]sodium acetate into astellifadiene?",
+      "answer": "The resultant labeling patterns were consistent with the proposed cyclization mechanism",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the labeling pattern of astellifadiene not following the isoprene rule indicate?",
+      "answer": "It indicates the occurrence of C-C bond migration(s) during the biogenesis of astellifadiene",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of performing in vitro assays with recombinant EvAS expressed in Escherichia coli?",
+      "answer": "To further investigate the cyclization mechanism to synthesize astellifadiene",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is astellifadiene a sesterterpene hydrocarbon?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystalline sponge method used for the first time to determine the absolute structure of a chiral hydrocarbon?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystalline sponge method require crystallization of the compound for structure determination?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the absolute configuration of astellifadiene determined by NMR spectroscopy alone?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was [1-13C]sodium acetate used to investigate the planar structure of astellifadiene?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the molecular formula C25H40 indicate that astellifadiene is a pentacyclic compound?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystalline sponge method destructive to the sample?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystalline sponge method applied to determine the relative stereochemistry of astellifadiene?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

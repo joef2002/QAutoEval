@@ -1,0 +1,124 @@
+{
+  "QAs": [
+    {
+      "question": "What is the empirical formula of the compound studied?",
+      "answer": "C93.04 H80.98 I12 N24 O0.65 Si0.65 Zn6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the absolute configuration determination of small molecules?",
+      "answer": "Crystalline sponge method (CS-XRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the crystalline sponge used for the inclusion of compound 4b?",
+      "answer": "C2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the temperature used for the HPLC analysis of the inclusion crystal extract?",
+      "answer": "298 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What level of theory was used for the DFT calculations?",
+      "answer": "wB97XD-CPCM(Toluene)/6-311+G(d,p)//B3LYP-D3/6-31G(d)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the crystalline sponge method in this study?",
+      "answer": "To determine the absolute configuration of the compound despite difficulties in crystallization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystalline sponge method can discern between enantiomerically pure analytes and a racemic mixture.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the Flack parameter for the racemic mixture experiment using the crystalline sponge method?",
+      "answer": "0.483(7)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent was used for the soaking experiments with the crystalline sponge?",
+      "answer": "Cyclohexane",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystalline sponge method failed to confirm the presence of compound 4b as an inclusion guest.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge addressed by the crystalline sponge method in this study?",
+      "answer": "The difficulty in crystallizing the compound for X-ray analysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystalline sponge method can only be used for compounds that easily crystallize.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the HPLC analysis after dissolving the crystalline sponge with inclusions of 4b?",
+      "answer": "The retention times confirmed the presence of 4b, supporting the findings of the single crystal X-ray structure determination.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main computational method used to gain insights into the high enantioselectivities observed?",
+      "answer": "DFT calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystalline sponge method provided a reliable way to determine the absolute structure of the compound studied.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the DFT calculation regarding the enantioselectivity?",
+      "answer": "The steric parameters on both the nucleophile and electrophile seem to play important roles in the observed enantioselectivity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of the bulky nucleophile according to the DFT calculation?",
+      "answer": "It restricted the conformation of the silylium group, influencing the approach to the Si center to avoid steric repulsion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The energy difference between the transition states leading to each enantiomer was slightly underestimated according to the DFT calculations.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main limitation of the method discussed in the study?",
+      "answer": "The difficulty in crystallizing the compound for X-ray analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystalline sponge method is limited to determining the absolute configuration of large molecular systems only.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "materials": [
+    {
+      "name": "Ho-UiO-66",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N’-Dimethyl acetamide (DMAc)",
+            "amount": "11 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2.5 mL"
+          }
+        ],
+        "equipment": "20 mL vial",
+        "chemicals_used": [
+          {
+            "name": "Holmium (III) nitrate pentahydrate",
+            "amount": "92.0 mg"
+          },
+          {
+            "name": "2-fluorobenzoic acid",
+            "amount": "243.5 mg"
+          },
+          {
+            "name": "terephthalic acid",
+            "amount": "16.0 mg"
+          },
+          {
+            "name": "nitric acid",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "80 µL"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "washed twice with dried DMAC",
+        "drying_method": "dried overnight in an 80 °C oven",
+        "yield": "20.6 %"
+      }
+    },
+    {
+      "name": "Ho-4,4’-BPDC",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N’-dimethyl formamide (DMF)",
+            "amount": "11.0 mL"
+          },
+          {
+            "name": "water",
+            "amount": "2.5 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Holmium (III) nitrate pentahydrate",
+            "amount": "92.3 mg"
+          },
+          {
+            "name": "2,2’-bipyridine-4,4’-dicarboxylic acid",
+            "amount": "22.8 mg"
+          },
+          {
+            "name": "2-fluorobenzoic acid",
+            "amount": "243.5 mg"
+          },
+          {
+            "name": "concentrated nitric acid",
+            "amount": "0.2 mL"
+          }
+        ],
+        "time": "24 hours",
+        "washing_method": "washed twice with DMF",
+        "drying_method": "dried in an 80 °C oven overnight",
+        "yield": "22.8 %"
+      }
+    },
+    {
+      "name": "HoF3",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "11 mL"
+          }
+        ],
+        "equipment": "20 mL scintillation vial",
+        "chemicals_used": [
+          {
+            "name": "Holmium (III) nitrate pentahydrate",
+            "amount": "92.0 mg"
+          },
+          {
+            "name": "2-fluorobenzoic acid",
+            "amount": "243.5 mg"
+          }
+        ],
+        "time": "1 day",
+        "washing_method": "washed twice with DMF",
+        "drying_method": "dried in an 80 °C oven overnight"
+      }
+    }
+  ]
+}

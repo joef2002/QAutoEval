@@ -1,0 +1,99 @@
+{
+  "materials": [
+    {
+      "name": "K4W(CN)8·2H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Na2WO4·2H2O",
+            "amount": "5 g, 15 mmol"
+          },
+          {
+            "chemical": "KCN",
+            "amount": "20 g, 300 mmol"
+          },
+          {
+            "chemical": "KBH4",
+            "amount": "1.8 g, 33 mmol"
+          },
+          {
+            "chemical": "acetic acid",
+            "amount": "14 ml"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "water",
+            "amount": "30 ml"
+          },
+          {
+            "solvent": "ethanol",
+            "amount": "50 ml"
+          }
+        ],
+        "temperature": "40 °C for 20 min",
+        "yield": "6.6 g, 74%"
+      }
+    },
+    {
+      "name": "(Bu4N)3W(CN)8·2H2O",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "K4W(CN)8·2H2O",
+            "amount": "5.8 g, 10 mmol"
+          },
+          {
+            "chemical": "concentrated nitric acid (68%)",
+            "amount": "26 ml"
+          },
+          {
+            "chemical": "tetrabutylammonium bromide",
+            "amount": "9.7 g, 30 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "water",
+            "amount": "60 ml"
+          }
+        ],
+        "yield": "10.2 g, 86%"
+      }
+    },
+    {
+      "name": "complex 1",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Fe(ClO4)2·6H2O",
+            "amount": "0.05 mmol"
+          },
+          {
+            "chemical": "(Bu4N)3W(CN)8·2H2O",
+            "amount": "0.05 mmol"
+          },
+          {
+            "chemical": "bib ligand",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "water",
+            "amount": "1.0 ml"
+          },
+          {
+            "solvent": "methanol and water (1:1, v/v)",
+            "amount": "3 ml"
+          },
+          {
+            "solvent": "methanol",
+            "amount": "1.0 ml"
+          }
+        ],
+        "yield": "63%"
+      }
+    }
+  ]
+}

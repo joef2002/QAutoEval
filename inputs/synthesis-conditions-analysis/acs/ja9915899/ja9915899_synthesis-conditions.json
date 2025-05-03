@@ -1,0 +1,134 @@
+{
+  "materials": [
+    {
+      "material": "B18C6",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Only very small deviation of the extraction selectivity for alkali metal picrates from that for iodides observed."
+      }
+    },
+    {
+      "material": "DB18C6",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Extraction selectivity for K+ over other alkali metal cations decreases when the aqueous phase anion is changed from I- to Pic-."
+      }
+    },
+    {
+      "material": "unsym-DB18C6",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Enhancement of the K+ selectivity over other alkali metal cations when the aqueous phase anion is changed from I- to Pic-."
+      }
+    },
+    {
+      "material": "TB18C6",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Dramatic change of the separation ability from slight preference of Rb+ and Cs+ over K+ with I- as the anion to appreciable K+/Rb+ and K+/Cs+ selectivity with Pic-."
+      }
+    },
+    {
+      "material": "DC18C6",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Separation factors were essentially invariant for this change of anion."
+      }
+    },
+    {
+      "material": "B21C7",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Extraction selectivities of these benzo group-containing CEs decrease when the aqueous phase anion is changed from I- to Pic-."
+      }
+    },
+    {
+      "material": "DB21C7",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Extraction selectivities of these benzo group-containing CEs decrease when the aqueous phase anion is changed from I- to Pic-."
+      }
+    },
+    {
+      "material": "TB21C7",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Extraction selectivities of these benzo group-containing CEs decrease when the aqueous phase anion is changed from I- to Pic-."
+      }
+    },
+    {
+      "material": "B24C8",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "No significant deviation of the extraction selectivities with the anion variation are evident."
+      }
+    },
+    {
+      "material": "DB24C8",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "No significant deviation of the extraction selectivities with the anion variation are evident."
+      }
+    },
+    {
+      "material": "TB24C8-1",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "The “picrate effect” on the separation ability of the ligands for alkali metal cations becomes obvious."
+      }
+    },
+    {
+      "material": "TB24C8-2",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "The “picrate effect” on the separation ability of the ligands for alkali metal cations becomes obvious."
+      }
+    },
+    {
+      "material": "TetB24C8",
+      "conditions": {
+        "solvent": "CHCl3",
+        "concentration": "1.0 mM",
+        "counterion": "Pic-",
+        "counterion_alternative": "I-",
+        "comments": "Use of Pic- instead of I- as the aqueous phase anion significantly decreased the selectivity of Cs+ separation from the mixture of alkali metal cations."
+      }
+    }
+  ]
+}

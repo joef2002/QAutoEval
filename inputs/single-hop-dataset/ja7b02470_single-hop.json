@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MOF-L?",
+      "answer": "Hf6O29C68",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Förster distance (R0) used to represent the donor-to-acceptor energy transfer rate?",
+      "answer": "R0 is used to represent the donor-to-acceptor energy transfer rate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the 3D-MOF structure undergo structural distortion upon solvent removal?",
+      "answer": "Yes, the 3D-MOF structure undergoes slight structural distortion upon solvent removal.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quantum yield (QY) of H3BTE?",
+      "answer": "The quantum yield (QY) of H3BTE is 14%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the exciton occupation probability independent of the distance from the exciton to the quencher in the case of infinite diffusivity?",
+      "answer": "Yes, the exciton occupation probability is independent of the distance from the exciton to the quencher in the case of infinite diffusivity.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the diffusivity formula in 3D with long-distance jumping considered?",
+      "answer": "D = (6 * R0 / τ0) / (16 * r0^4)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of higher order correction in the diffusion equation for Förster-type energy transfer in 3D?",
+      "answer": "The higher order correction in the diffusion equation for Förster-type energy transfer in 3D leads to a more accurate representation of the diffusion process, including long-range jumping.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Förster-type energy transfer in 2D consider long-distance jumping?",
+      "answer": "Yes, the Förster-type energy transfer in 2D partially considers long-distance jumping.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the general formulation for exciton dynamics of amplified quenching with mobile excitons in 3D?",
+      "answer": "The general formulation for exciton dynamics of amplified quenching with mobile excitons in 3D is given by the equation: ρ(t) = exp(-t/τ0 - K(t/τ0)^β).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Inokuti-Hirayama function applicable for describing the time-resolved quenching curve of one exciton in the presence of a particular quencher?",
+      "answer": "Yes, the Inokuti-Hirayama function is applicable for describing the time-resolved quenching curve of one exciton in the presence of a particular quencher.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

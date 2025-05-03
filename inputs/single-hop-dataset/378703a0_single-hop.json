@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the saturation magnetization value of compound 1 at T=10 K?",
+      "answer": "0.15 Bohr magneton",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coercive field value for the hysteresis loop at T=10 K?",
+      "answer": "He= 25 G",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the experimental saturation magnetization of compound 1 compare well with the computed value?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the remanent magnetization value for the hysteresis loop at T=10 K?",
+      "answer": "Mr = 457 emu G mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is there a ferromagnetic interaction between electrons in orthogonal orbitals in compound 1?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the high Tc in the context of compound 1?",
+      "answer": "The number of magnetic neighbours and the strong antiferromagnetic interaction between non-compensated spins",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interest in molecule-based magnets currently more scientific than practical?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What properties are sought after in molecule-based magnets?",
+      "answer": "Insulating character, magneto-optical properties, and tunable Curie temperatures",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was a temperature-sensitive magnetic switch designed using the room-temperature Curie point?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the basic building block used in the synthesis of a metal-organic framework for selective binding of aromatic guest molecules?",
+      "answer": "1,3,5-benzenetricarboxylate (BTC)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the crystal lattice of the metal-organic framework remain stable up to 350 °C after removal of included guest molecules?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the inclusions in the metal-organic framework be selectively readsorbed?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of mountains in the mid-latitude atmospheric response to El Niño events?",
+      "answer": "Mountains contribute significantly to the observed flow patterns by reducing the net vorticity of air columns encountering them.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the primary region where vortex compression occurs due to El Niño-related tropical heating?",
+      "answer": "The Himalayan-Tibetan region",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Do mountains play a significant role in determining the structure of the extratropical response to El Niño?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the dominant source of vorticity in the upper troposphere?",
+      "answer": "The conversion of the Earth's vorticity to flow vorticity by divergent motions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it reasonable to diagnose global flow anomalies by modelling the vertical component of vorticity?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of El Niño on weather patterns around the globe?",
+      "answer": "El Niño influences weather patterns by generating wave-like disturbances of vorticity in the upper troposphere.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the barotropic vorticity equation consider the generation of vorticity by vertical advection, pressure-density solenoids, and tilting?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used to simulate the 200-hPa streamfunction differences between the 1987/88 El Niño and 1988/89 La Niña winters?",
+      "answer": "A spectral divergent steady-state barotropic model",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Supramolecular Isomerism, Framework Flexibility, Unsaturated Metal Center, and Porous Property of Ag(I)/Cu(I) 3,3',5,5'-Tetrametyl-4,4'-Bipyrazolate",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Jie-Peng Zhang and Susumu Kitagawa",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of metal bipyrazolates are discussed in the research?",
+      "answer": "Ag(I) and Cu(I) bipyrazolates",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The research focuses on the supramolecular isomerism, framework flexibility, unsaturated metal centers, and porous properties of Ag(I)/Cu(I) 3,3',5,5'-Tetrametyl-4,4'-Bipyrazolate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key properties of the metal bipyrazolates discussed in the article?",
+      "answer": "The metal bipyrazolates discussed in the article have high thermal stability, chemical stability, and exhibit framework flexibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How do the metal bipyrazolates interact with unsaturated hydrocarbons?",
+      "answer": "The metal bipyrazolates facilitate the accommodation of unsaturated hydrocarbons such as benzene, toluene, mesitylene, and acetylene via weak metal···π interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article discusses the synthesis conditions of more than one material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The metal bipyrazolates are unstable and sensitive to light, heat, moisture, and air.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used for the synthesis of α-[Ag2(bpz)] (1-Ag)?",
+      "answer": "The synthesis involves dissolving Ag2O in aqueous ammonia, adding a solution of H2bpz dissolved in MeOH, and then solvent exchanging with MeOH until all mesitylene is removed.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of mesitylene in the crystallization process of 1-Ag?",
+      "answer": "Mesitylene acts as a template in the crystallization process of 1-Ag, allowing [M2(bpz)] to be selectively crystallized as 1-Ag·mesitylene in both slow-diffusion and rapid-mixing reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformation of the host framework and the location of the guest molecule can be monitored by X-ray diffraction.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The [M2(bpz)] isomers are not thermally stable.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of coordinatively unsaturated metal centers (UMCs) in the study?",
+      "answer": "UMCs represent a strategy for pore surface modification, as transition metal ions can strongly interact with guest species, facilitating guest sensing, hydrogen storage, and catalytic action.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [M2(bpz)] isomers exhibit framework flexibility.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest inclusion on the structure of 1-Ag?",
+      "answer": "Guest inclusion induces a structural transformation in 1-Ag, changing its symmetry and complexity, and demonstrating the framework's flexibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [M2(bpz)] isomers can adsorb gas molecules larger than their pore apertures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of arene templates in the crystallization of [M2(bpz)] isomers?",
+      "answer": "Arene templates stabilize the four-fold interpenetrated (10,3)-a network phase 1, influencing the crystallization behavior and the formation of supramolecular isomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article provides a solution to the instability of Ag(I)/Cu(I) species in porous coordination polymers.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of kinetic factors on the crystallization of [M2(bpz)] isomers?",
+      "answer": "Kinetic factors play a crucial role in the crystallization of [M2(bpz)] isomers, affecting the reproducibility of reactions and the formation of different structural types.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The [M2(bpz)] isomers are only suitable for the accommodation of small gas molecules.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

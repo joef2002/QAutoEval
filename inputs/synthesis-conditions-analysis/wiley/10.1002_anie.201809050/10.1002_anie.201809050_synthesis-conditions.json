@@ -1,0 +1,54 @@
+{
+  "materials": [
+    {
+      "name": "CdPCP·DMA ([Cd-(bpeb)(obc)]·2 DMA)",
+      "synthesis_conditions": {
+        "temperature": "Not specified",
+        "solvents": ["dimethylacetamide (DMA)", "water", "dimethyl sulfoxide (DMSO)"],
+        "amount_of_each_solvent": "3:1:1 volume ratio",
+        "equipment": "Not specified",
+        "chemicals_used": ["Cd(NO3)2·4 H2O", "H2obc", "bpeb"],
+        "molar_ratio": "11=2:1:1",
+        "time": "Not specified",
+        "washing_method": "Not specified",
+        "drying_method": "Not specified",
+        "yield": "69 %"
+      }
+    },
+    {
+      "name": "CdPCP·DMF",
+      "synthesis_conditions": {
+        "solvent_exchange": "from DMA to DMF",
+        "solvents": ["dimethylformamide (DMF)"],
+        "additional_information": "The two DMA molecules in the ASU are replaced by two DMF molecules and one H2O molecule."
+      }
+    },
+    {
+      "name": "Isomer 1",
+      "synthesis_conditions": {
+        "irradiation_source": "365 nm UV-LED",
+        "temperature": "298 K",
+        "irradiation_time": "Limited to maintain single crystal integrity",
+        "yield": "60 % (as observed in SCXRD analysis), near 100 % conversion suggested by NMR analysis"
+      }
+    },
+    {
+      "name": "Isomer 2",
+      "synthesis_conditions": {
+        "irradiation_source": "365 nm UV-LED",
+        "temperature": "298 K",
+        "irradiation_time": "Shorter for CdPCP·DMF than for CdPCP·DMA",
+        "yield": "Near-quantitative conversion to the cyclized form as confirmed by SCXRD analysis"
+      }
+    },
+    {
+      "name": "CdPCP·x (where x = solvent)",
+      "synthesis_conditions": {
+        "solvent_exchange": "Performed with THF, 1,4-dioxane, benzene, toluene, chloroform, and carbon tetrachloride",
+        "solvents": ["THF", "1,4-dioxane", "benzene", "toluene", "chloroform", "carbon tetrachloride"],
+        "irradiation_source": "UV",
+        "observations": "Cyclization observed for THF and 1,4-dioxane solvates between the 2D layers. Toluene solvate showed cyclization in both positions. No cycloaddition observed for CCl4 solvate despite repeated attempts."
+      }
+    }
+  ]
+}

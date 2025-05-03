@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the goal that many chemists are pursuing in the context of product synthesis?",
+      "answer": "To obtain a pure product without the isomer byproducts",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy has been proposed to realize the precise stereochemical control of isomeric cyclic compounds?",
+      "answer": "A coordination interaction-based oriented synthesis strategy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of coordination polymers (CPs) in the synthesis strategy?",
+      "answer": "CPs provide a platform to realize the rational synthesis strategy through anchoring the arrangements of C=C groups of the starting compounds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of direct photocycloaddition of diene compounds without using CPs?",
+      "answer": "It gives a complex mixture of products.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How can the conformation and relative location of C=C groups be controlled?",
+      "answer": "By adjusting the coordination conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocycloaddition reaction of 1,3-bpeb without CPs produces pure isomers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome of employing CPs in the synthesis of diene dimer compounds?",
+      "answer": "The target diene dimer isomers can be directly synthesized without an additional purification process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis strategy allows for the construction of different target isomers of diene dimer compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the wavelength of the light source in photocycloaddition reactions?",
+      "answer": "The wavelength of the light source influences the nature of the product by providing the energy to initiate the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocycloaddition reactions can proceed in a stepwise manner using different wavelengths of light.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the challenge in stereochemical control of photocycloadditions?",
+      "answer": "Stereochemical control of photocycloadditions still faces a significant challenge.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The construction of isomer 1 is based on the face-to-face arrangement of an opposite 1,3-bpeb pair.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of CP1 in the synthesis of isomer 1?",
+      "answer": "CP1 is synthesized by employing the trimesic acid since its three carboxyl groups are all coordinated, which is feasible to give the mononuclear Cd unit.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Isomer 2 and isomer 3α are based on the off-set arrangement of an opposite 1,3-bpeb pair.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How are isomer 2 and isomer 3α synthesized?",
+      "answer": "By using a monocarboxylic acid ligand to prepare CP2 and then synthesize isomer 2 and isomer 3α.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The construction of isomer 3β requires the Type I configuration of 1,3-bpeb pair as the precursor.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the precursor configuration required for the construction of isomer 3β?",
+      "answer": "The Type II configuration of 1,3-bpeb pair.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of isomer 3γ was more challenging because it requires adjustment to each of the two C=C bonds in 1,3-bpeb pair (Type III).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study in terms of photocycloaddition reactions?",
+      "answer": "The study demonstrates that the rational synthesis of very similar cyclobutane isomers can be achieved by adjusting the molecular-level thermodynamic equilibrium.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a new route to obtain complex ring compounds and expands the application of photocycloaddition reactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

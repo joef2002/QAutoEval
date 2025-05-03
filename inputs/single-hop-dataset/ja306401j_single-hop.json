@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the novel porous coordination polymer synthesized?",
+      "answer": "CuII(mtpm)Cl2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique adsorption behavior does the compound exhibit for methanol?",
+      "answer": "Gate-open behavior",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the compound selectively separate methanol and water from a mixture containing ethanol?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the SQUEEZE routine in the structure refinement process?",
+      "answer": "To remove the contribution of the electron density in disordered solvent molecules",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does ethanol show the least adsorption on the compound?",
+      "answer": "Because ethanol requires a larger rearrangement energy and is not adsorbed until the saturated vapor pressure is reached",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound stable up to 200°C?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound adsorb water at low humidity?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main peak observed in the XAFS measurements attributed to?",
+      "answer": "Copper fourfold-coordinated by nitrogen atoms",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the gate-open adsorption behavior for methanol?",
+      "answer": "A structural rearrangement of the compound with uptake of water and methanol, and the adsorption energy for methanol compensating for the rearrangement of the framework",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound not adsorb ethanol?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated void volume of the compound?",
+      "answer": "62.8%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of the anion exchange experiments?",
+      "answer": "To obtain a blue powder (Cu(mtpm)Cl(tosyl)·nH2O) by mixing the compound with solutions dissolving the anion source",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the local structure around the copper atoms in the compound similar to that determined by SCXRD?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the thermogravimetric analysis for the compound?",
+      "answer": "It shows the compound is stable up to ca. 200°C and that the guest molecules in the pores desorb easily",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the powder XRD pattern of the compound after the ion-exchange experiment indicate?",
+      "answer": "That the topology of the framework is maintained during the adsorption and desorption of guests",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound have the capacity to separate both methanol and water from bioethanol?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the PLATON software in the analysis of the compound?",
+      "answer": "To estimate the void volume and use the SQUEEZE routine for structure refinement",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the compound?",
+      "answer": "Tetragonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption energy for methanol smaller than that for water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using porous coordination polymers (PCPs) for separation processes?",
+      "answer": "Their pore sizes and surface environments can easily be tuned by variation of the metal ions and organic ligands",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

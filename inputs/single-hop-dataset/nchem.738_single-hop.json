@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the formula for the framework of the mesoporous chiral metal-organic frameworks discussed?",
+      "answer": "[LCu2(solvent)2]",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What method was used for the postsynthesis functionalization of the chiral metal-organic frameworks?",
+      "answer": "Postsynthesis functionalization was done with Ti(OiPr)4.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the role of Ti(OiPr)4 in the functionalized metal-organic frameworks?",
+      "answer": "Ti(OiPr)4 generates chiral Lewis acid catalysts within the frameworks.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How can the enantioselectivities of the reactions catalyzed by the functionalized metal-organic frameworks be modified?",
+      "answer": "The enantioselectivities can be modified by tuning the size of the channels, which alters the diffusion rates of the organic substrates.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the main challenge in synthesizing MOFs with mesoporosity?",
+      "answer": "The main challenge is their tendency to reduce or eliminate porosity through interpenetration or other void-filling means.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The structure of CMOF-1a adopts a 4,4-connected network topology.",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the significance of using a dye-uptake experiment in the characterization of mesoporous MOFs?",
+      "answer": "The dye-uptake experiment demonstrates the accessibility of the potential active catalyst sites to the organic substrates through the open channels and provides indirect evidence for the retention of the framework structure in solution.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "True or False: The CMOF series exhibits high porosity with BET surface areas ranging from 2,418 to 4,514 m2 g-1 as determined by nitrogen-adsorption measurements.",
+      "answer": "False",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the role of the orthogonal chiral dihydroxy secondary functionalities in ligands L1b to L4b?",
+      "answer": "They are periodically decorated and can be postsynthetically functionalized to generate asymmetric catalytic sites accessible to the organic substrates through the open channels or cavities.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "True or False: The framework density for the CMOFs ranges from 0.730 to 0.177 g cm-3.",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    }
+  ]
+}

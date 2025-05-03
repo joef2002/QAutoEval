@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the compound obtained by treating trans-RuCl2(dmso-S)4 with 4'-cis-DPyP?",
+      "answer": "[trans,cis,cis-RuCl2(dmso-S)2(4'-cis-DPyP)]2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the symmetry of the molecular square formed by the reaction of trans-RuCl2(dmso-S)4 with 4'-cis-DPyP?",
+      "answer": "D2h",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound [trans,cis,cis-RuCl2(CO)(dmso-S)(4'-cis-DPyP)]2 exist as a single isomer?",
+      "answer": "No, it exists as an equimolar mixture of isomers 6a and 6b.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main difference in the 1H NMR spectrum between compound 5 and compound 5Zn?",
+      "answer": "The absence of the -NH signal in compound 5Zn.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of axial coordination of 4,4'-bipy on the Soret band of 5Zn?",
+      "answer": "A bathochromic shift of about 7 nm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the solid-state structure of [(5Zn)(μ-4,4'-bipy)]∞ the same as its structure in solution?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound [(5Zn)2(μ-4,4'-bipy)2] form a discrete sandwich structure in solution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the geometry of the Zn ions in the compound [(5Zn)2(μ-4'-trans-DPyP)2]?",
+      "answer": "Square pyramidal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the approximate distance between the two bridging porphyrins in [(5Zn)2(μ-4'-trans-DPyP)2]?",
+      "answer": "11.448 Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the addition of excess bridging ligand to solutions of [(5Zn)2(μ-L)2] induce a progressive broadening of the NMR signals of L?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of metalation of the porphyrins in compound 5 on its ability to form supramolecular adducts?",
+      "answer": "It introduces new acceptor centers for further reactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Ru-pyridyl bond in the molecular squares 4-6?",
+      "answer": "It provides kinetic stability to the molecular squares.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main goal of constructing discrete 3D supramolecular assemblies of porphyrins?",
+      "answer": "To create cavities of well-defined shape and size.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the discrete sandwich structure of [(5Zn)2(μ-4,4'-bipy)2] stable in the concentration range investigated?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected outcome when using six-coordinate metal ions in the assembly process described?",
+      "answer": "The stacking of multiple layers of metallacycles, leading to polymeric nanotubes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the difference in the solid-state architecture of compound 7 compared to its structure in solution?",
+      "answer": "It consists of an infinite wire of 5Zn squares bridged by 4,4'-bipy ligands.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the mutual ring current effect on the shielding of the bridging porphyrins in compounds 8 and 9?",
+      "answer": "It causes extra shielding compared to the reference compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the molecular sandwich [(5Zn)2(μ-4'-trans-DPyP)2] a common structure for cofacial bisporphyrins?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the additional coordinated 'spectator' ligands in the octahedral complexes at each corner of the metallacyclic species 4-6?",
+      "answer": "They might be useful for further functionalization of the assemblies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main advantage of using neutral metallacycles made of porphyrins and ruthenium coordination compounds?",
+      "answer": "They provide greater solubility in organic solvents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

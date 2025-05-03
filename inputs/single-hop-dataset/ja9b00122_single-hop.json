@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Topology Exploration in Highly Connected Rare-Earth Metal–Organic Frameworks via Continuous Hindrance Control",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the corresponding authors of the article?",
+      "answer": "Daofeng Sun and Hong-Cai Zhou",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The research focuses on the exploration of topology in highly connected rare-earth metal-organic frameworks (RE-MOFs) through continuous hindrance control.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the synthesis of H3L-R linkers?",
+      "answer": "The synthesis of H3L-R linkers involves multiple steps including the use of CrO3, iodine, and various solvents and reagents depending on the specific substituent R.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using tritopic linkers with multiple substituents in constructing RE-MOFs?",
+      "answer": "Using tritopic linkers with multiple substituents allows for systematic tuning of steric hindrance, generating various linker rotamers with tunable configurations and symmetries, leading to the discovery of new topologies in RE-MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the introduction of functional groups affect the IR spectrum of PCN-909(Eu)-Cl and PCN-909(Eu)-CH3?",
+      "answer": "The introduction of the -Cl functional group leads to a new peak at 592 cm-1, while the -CH3 group leads to a shift to 615 cm-1 in the IR spectrum, indicating changes in sp2 C-H vibration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the article published in the Journal of the American Chemical Society?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the research involve the use of Zr-MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the thermal stability tests of the MOFs conducted up to 900 °C?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article provide a phase diagram for mixed-linker PCN-9XX series?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 2-fluorobenzoic acid in the synthesis of PCN-909 and PCN-918?",
+      "answer": "2-fluorobenzoic acid acts as a modulator in the solvothermal reactions, facilitating the formation of hexanuclear RE clusters for the construction of extended frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of mixed-linker strategies on the topology of RE-MOFs?",
+      "answer": "Mixed-linker strategies, involving linkers with both more and less sterically hindered substituents, allow for continuous tunability of steric hindrances, leading to the discovery of unique structures and topologies in RE-MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the gas sorption studies conducted at room temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of H3L-R linkers a single-step process?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article claim to have synthesized the first known example of a process in RE-MOFs?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of PCN-918?",
+      "answer": "Orthorhombic",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method is used to study the relationship between linker sterics and resulting topology?",
+      "answer": "Density Functional Theory (DFT) calculations using the DMol3 module of Material Studio program package.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main outcome of employing a multivariate strategy in the synthesis of RE-MOFs?",
+      "answer": "The multivariate strategy enables the creation of energy states associated with tunable steric hindrances, facilitating the formation of RE-MOFs with unique structures and topologies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article discuss the use of single-crystal X-ray diffraction for structural analysis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all MOFs discussed in the article synthesized using the same metal clusters?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

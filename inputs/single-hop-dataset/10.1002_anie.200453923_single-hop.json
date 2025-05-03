@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main interest in the design and construction of coordination polymers?",
+      "answer": "The main interest lies in their intriguing new structural topologies and potential application as functional materials.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why are microporous frameworks of coordination polymers relevant for storage applications?",
+      "answer": "Because they have a large surface area, which is relevant for storage of large quantities of natural gas or hydrogen.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique dynamic behavior do coordination polymer frameworks display?",
+      "answer": "They display crystal-to-crystal or crystal-to-amorphous transformations, characteristic of selective-sorption metal–organic motifs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the 'pillared-layer' motif contribute to the construction of porous frameworks?",
+      "answer": "The 'pillared-layer' motif allows for controlled channel dimensions through simple modification of the pillars, controlling not only the channel size but also chemical functionality.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the difference in adsorption/desorption behavior between {[Cd(pzdc)(azpy)]·2 H2O}n and {[Cd(pzdc)(bpee)]·1.5 H2O}n?",
+      "answer": "Despite the slight difference in the spacer groups (-N=N-/-CH=CH-) found between azpy and bpee, the observed adsorption/desorption behavior of the two structures were distinct.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structures of {[Cd(pzdc)(azpy)]·2 H2O}n and {[Cd(pzdc)(bpee)]·1.5 H2O}n are identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the porous frameworks of 1 and 2 upon heating?",
+      "answer": "Upon heating, the TG curve of 1 and 2 indicates the release of guest water molecules up to a certain temperature to give their dehydrated forms, 1a and 2a, respectively.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption properties of 2a show selectivity towards H2O and MeOH due to the large aperture of the channels.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of dehydration on the crystal structure of 1 and 2?",
+      "answer": "Dehydration leads to a significant increase in the cell volume for 1a compared to 1, and a more closely packed structure for 2a compared to 2, due to the removal of water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms for N2 at 77 K for both 1a and 2a reveal only surface adsorption, indicating N2 molecules cannot diffuse into the channel at low temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the structure of 1 and 2?",
+      "answer": "In the structure of 1 and 2, hydrogen bonding interactions with water molecules and between water molecules themselves are crucial for accommodating water in the pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the adsorption selectivity of 2a arise?",
+      "answer": "The adsorption selectivity of 2a arises from the size of the channel windows being smaller than the adsorbates, allowing selective adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of H2O, MeOH, EtOH, THF, and Me2CO at 298 K can diffuse into the micropores of 1a, irrespective of their size.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the expansion and shrinking behavior of the coordination polymers?",
+      "answer": "This behavior demonstrates that the coordination polymer is much softer than generally believed, and it has implications for practical applications like molecular separation techniques.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The original framework of both 1a and 2a completely reforms when exposed to water vapor for several hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the pendant oxygen atom of the carboxylate and nitrogen atom of the azo group on the structure of 1a?",
+      "answer": "The lone pair–lone pair electronic repulsion from the pendant oxygen atom of the carboxylate and nitrogen atom of the azo group contributes to the expansion of 1a relative to 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 1 and 2 involves layering aqueous solutions of metal salts with solutions of pillar ligands and Na2pzdc in MeOH/H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of 1?",
+      "answer": "80%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal data for 1, 1a, and 2 were determined using a Rigaku mercury CCD diffractometer with graphite monochromated MoKa radiation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the adsorption capacity of 2a for different molecules compare?",
+      "answer": "2a adsorbs selectively; H2O and MeOH are adsorbed in higher amounts compared to EtOH, THF, and Me2CO, which are adsorbed in significantly lower amounts or not at all.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

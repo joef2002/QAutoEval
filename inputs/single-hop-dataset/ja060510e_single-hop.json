@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the Curie temperature of the synthesized compound?",
+      "answer": "40 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coercive field of the photoinduced magnetization?",
+      "answer": "12,000 G",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to prepare a single crystal for X-ray structural analysis?",
+      "answer": "A diffusion method in an H-shaped tube",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of the synthesized compound?",
+      "answer": "[{CoII(pyrimidine)(H2O)}2{CoII(H2O)2}{WV(CN)8}2](pyrimidine)2·2H2O",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of irradiating with light in the photomagnetic effect?",
+      "answer": "It causes a valence state change from the CoIIIls(S = 0)−WIV(S = 0) state to the CoIIls(S = 1/2)−WV(S = 1/2) state, leading to spontaneous magnetization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How long does the photoinduced magnetization persist after turning off the light?",
+      "answer": "At least 1 day",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the magnetization after a thermal treatment up to 150 K?",
+      "answer": "The photoinduced magnetization relaxes to the initial value",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the observed magnetization value indicative of ferromagnetic interaction between CoII and WV?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit a thermal hysteresis loop?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Curie temperature of the synthesized compound below 20 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the compound prepared by a solvothermal method?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit a charge-transfer-induced spin transition?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic hysteresis loop observed at room temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does irradiating with light decrease the IR peaks due to the LT phase?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal hysteresis value of the compound?",
+      "answer": "90 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of pyrimidine in the compound's structure?",
+      "answer": "It bridges Co1 and Co2 and is also present as noncoordinated molecules between the Co1−W grid layers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What change occurs in the electronic state during the temperature-induced phase transition?",
+      "answer": "From CoIIhs(S = 3/2)−WV(S = 1/2) to CoIIIls(S = 0)−WIV(S = 0)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the wavelength range of the intervalence-transfer (IT) band?",
+      "answer": "600−1100 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum wavelength (λmax) of the IT band?",
+      "answer": "770 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound's structure include zeolitic waters?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

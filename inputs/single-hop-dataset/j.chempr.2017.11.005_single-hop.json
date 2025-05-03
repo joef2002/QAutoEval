@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Fe-soc-MOF-1?",
+      "answer": "C69H43ClFe3O15",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of Cr-soc-MOF-1?",
+      "answer": "Cubic, Pm-3n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the water sorption experiments carried out?",
+      "answer": "298 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum water uptake capacity of Cr-soc-MOF-1 compared to Cr-MIL-101?",
+      "answer": "Cr-soc-MOF-1 has a water uptake capacity of 1.95 g/g, which is higher than Cr-MIL-101's 1.29 g/g.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Cr-soc-MOF-1 stable after being exposed to water?",
+      "answer": "Yes, Cr-soc-MOF-1 is stable after being exposed to water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for absorption correction in the crystal structure analysis of Fe-soc-MOF-1?",
+      "answer": "Multi-scan",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the oxidation state of chromium in Cr-soc-MOF-1 as verified by XPS studies?",
+      "answer": "The oxidation state of chromium in Cr-soc-MOF-1 is +III.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many water adsorption-desorption cycles were performed to test the durability of Cr-soc-MOF-1?",
+      "answer": "100 water adsorption-desorption cycles were performed.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore volume of Cr-soc-MOF-1?",
+      "answer": "2.1 cm3/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the water adsorption capacity of Cr-soc-MOF-1 remain unchanged after 100 cycles?",
+      "answer": "Yes, the water uptake remained unaltered throughout 100 adsorption-desorption cycles.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the coordination polymer grown from a mixed methanol/water solution?",
+      "answer": "CuC10H8N2O3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to determine the metal contents in the samples?",
+      "answer": "Inductively Coupled Plasma-Mass Spectrometry (ICP-MS)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the recovery rate of the H2L ligand after electrolysis?",
+      "answer": "Greater than 90%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Cu-L complex responsible for the catalytic activity observed in the solution?",
+      "answer": "Yes, the catalytic currents were well above the background level when the solution contained no catalyst, showing that the CuL complex is responsible for the catalytic activity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the overpotential for water oxidation in the Cu-L complex depend on the choice of Cu(II) salts?",
+      "answer": "No, the CVs and water oxidation catalytic currents observed for the Cu–L system did not depend on the choices of Cu(II) salts.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the estimated turnover number (TON) for a three-hour electrolysis of the Cu-L complex?",
+      "answer": "400",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the UV-Vis spectra of the catalyst solution change significantly before and after electrolysis?",
+      "answer": "No, little to no depletion of UV–vis signal was observed after 3 hours of electrolysis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main reason for the lower Faradaic efficiency observed with a large-area glassy carbon electrode?",
+      "answer": "The lower Faradaic efficiency is due to oxidation of the carbon electrode.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of the 6,6′-dihydroxyl groups on the bipy moiety in the water oxidation catalytic cycle?",
+      "answer": "The 6,6′-dihydroxyl groups on the bipy moiety allow the L ligand to be intimately involved in the water oxidation catalytic cycle via ligand oxidation and significantly lower the water oxidation overpotential.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the Cu-L complex found to be more effective at water oxidation than the parent Cu-bipy complex?",
+      "answer": "Yes, the Cu-L complex was found to be more effective at water oxidation than the parent Cu-bipy complex.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in characterizing the intermediates in electrocatalysis?",
+      "answer": "The difficulty in characterizing the intermediates in electrocatalysis was due to the inability to experimentally prove or disprove the intramolecular PCET process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational software was used for quantum chemical calculations?",
+      "answer": "Gaussian 09 software suite",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a gastight fritted cell in bulk electrolysis experiments?",
+      "answer": "The gastight fritted cell was used to separate the cathode and the anode during bulk electrolysis experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the presence of polynuclear copper species in the catalyst solution indicate an equilibrium between monomer and oligomer/polymer species?",
+      "answer": "Yes, the presence of polynuclear copper species in the catalyst solution indicated an equilibrium between monomer and oligomer/polymer species.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the ligand oxidation involved in the catalytic cycle for water oxidation?",
+      "answer": "Yes, ligand oxidation was involved in the catalytic cycle for water oxidation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of substituents at 4,4′ positions on the water oxidation peak in the Cu-L system?",
+      "answer": "The water oxidation peak was only slightly affected by substituents at 4,4′ positions in the Cu-L system.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main finding regarding the biomimetic strategy toward ligand design for preparing highly efficient WOCs?",
+      "answer": "The main finding was that introducing 6,6′-dihydroxyl groups on the bipy moiety allows the L ligand to be involved in the water oxidation catalytic cycle, significantly lowering the water oxidation overpotential.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the Cu-L complex found to be stable after electrolysis?",
+      "answer": "Yes, the Cu-L complex was found to be stable after electrolysis, with little to no depletion of UV–vis signal observed.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the redox active L2- ligand in the Cu-L complex?",
+      "answer": "The redox active L2- ligand in the Cu-L complex served as an electron transfer mediator in the catalytic cycle and was responsible for the low overpotential observed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study successfully mimic the key features of the water oxidation process in natural photosynthesis?",
+      "answer": "Yes, the study successfully mimicked the key features of the water oxidation process in natural photosynthesis by using a ligand containing suitable pendant groups.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

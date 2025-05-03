@@ -1,0 +1,52 @@
+{
+  "materials": [
+    {
+      "name": "Polymer 1",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          "DMF",
+          "ethanol",
+          "H2O"
+        ],
+        "solvent_amounts": {
+          "DMF": "5 mL",
+          "ethanol": "3 mL",
+          "H2O": "3 mL"
+        },
+        "chemicals_used": [
+          "CdCl2·2.5 H2O",
+          "hmt",
+          "HCl",
+          "triethylamine"
+        ],
+        "chemical_amounts": {
+          "CdCl2·2.5 H2O": "0.228 g (0.1 mmol)",
+          "hmt": "0.014 g (0.01 mmol)",
+          "HCl": "0.1 mL (2 m solution)",
+          "triethylamine": "0.1 mL in DMF (8 mL)"
+        },
+        "time": "1 month",
+        "yield": "67 % based on cadmium",
+        "washing_method": "washed with pure DMF",
+        "drying_method": "dried in air",
+        "equipment": "25-mL vial",
+        "additional_steps": [
+          {
+            "step_description": "Anion exchange",
+            "conditions": {
+              "temperature": "room temperature",
+              "solvent": "DMF",
+              "solvent_amount": "5 mL",
+              "chemicals_used": "KSCN",
+              "chemical_amounts": "3 m KSCN",
+              "time": "20 min",
+              "washing_method": "washed with pure DMF",
+              "drying_method": "dried in air"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

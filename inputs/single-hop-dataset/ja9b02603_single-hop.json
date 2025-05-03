@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Hf-NU-1200?",
+      "answer": "C40H28Hf3O16",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of V-Zr-NU-1200?",
+      "answer": "cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) was the crystallographic data of V-Hf-NU-1200 collected?",
+      "answer": "250",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Hf-NU-1200?",
+      "answer": "Pm-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (Å3) of the unit cell for V-Zr-NU-1200?",
+      "answer": "22579.8(10)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were collected for V-Hf-NU-1200?",
+      "answer": "2350",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (all data) for V-Zr-NU-1200?",
+      "answer": "R1 = 0.1608, wR2 = 0.5590",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the framework of M-NU-1200 intact after metal deposition and catalysis?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the valence of Zr change after vanadium deposition and catalysis in V-Zr-NU-1200?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the oxidation state of vanadium mainly +5 after catalysis in V-M-NU-1200?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the electronegativity of the metals on the nodes and the catalytic performance of the MOF-supported catalysts?",
+      "answer": "A better catalytic performance is correlated with a higher electronegativity of the metal ions on the node.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the decrease in substrate conversion from run to run during the stability test indicate?",
+      "answer": "The decrease can be attributed to sample loss during washes between cycles rather than catalyst deactivation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of a strong electron-withdrawing ability on the bonds in the V-M-NU-1200 catalysts?",
+      "answer": "It makes the M-O bond strong, the O-V bond weak, and the V=O bond strong, facilitating the initiation of the reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the base in the catalytic performance of V-Zr-NU-1200?",
+      "answer": "The base can promote the catalytic performance, as shown by a lower conversion in its absence.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystallinity of M-NU-1200 retained after the vanadium deposition?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of V3+ appear in the mechanism of alcohol oxidation catalyzed by V-M-NU-1200?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the oxidation state of Ce in V-Ce-NU-1200 reduced after vanadium deposition?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the V4+ content in V-Zr-NU-1200 increase after catalysis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the pore size distribution of M-NU-1200 and V-M-NU-1200 maintained after catalysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the oxidation state of vanadium in V-M-NU-1200 remain mainly +5 after catalysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

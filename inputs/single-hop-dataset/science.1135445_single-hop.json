@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the synthetic material reported?",
+      "answer": "[Co2(bipy)3(SO4)2(H2O)2](bipy)(CH3OH)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction defines the pore geometry of the open-framework structure?",
+      "answer": "A reversible substitution reaction involving the introduction of bipyridine and methanol molecules at the reactive sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of the material involves a single-crystal x-ray diffraction analysis at 298 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the two distinct metal-organic structural units in the material?",
+      "answer": "A Co(bipy)2 square grid and a 1D Co(bipy) chain.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the material sorb small molecules?",
+      "answer": "The structure sorbs small molecules in a manner controlled by the topology of the substitution reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The material's reaction to heat involves a change in color from pink to purple without loss of crystallinity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the extra-framework bipyridine ligands in the structure?",
+      "answer": "They form a hydrogen-bonded layer within the 3D framework and place the bipyridine molecule in the secondary coordination sphere of the metal cations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the material when it is heated to 368 K?",
+      "answer": "The two guest molecules are incorporated into the extended framework itself, resulting in a framework composition of [Co2(bipy)4(SO4)2(CH3OH)].",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The substitution reaction at the metal centers in the chain component is driven by cooperativity between the incoming groups.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural change occurs in the chain from the substitution reaction?",
+      "answer": "The chain transitions from having a single metal site to having alternating metal sites.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The substitution reaction is reversible when the material is exposed to atmospheric water.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the substitution reaction on the pore structure?",
+      "answer": "It forms a porous material whose 1D channel structure is directly determined by the guest species that have vacated the extra-framework space.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The material's reactivity depends on the preorganization of reacting molecules at the metal center.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the material's modular structure?",
+      "answer": "It allows for substitution at every constituent metal center in the chains, while the grids form a robust scaffold that retains the structural integrity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The targeted synthesis of materials with features similar to the reported material will be necessary to generalize the observed reactivity.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the extra-framework volume in the material?",
+      "answer": "It contributes to the material's porosity and functional response to guest sorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The material demonstrates a type I microporous isotherm for CO2 sorption at 198 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the steric demand of the entering bipyridine ligand?",
+      "answer": "It produces an elongation of the bond lengths at the Co site to which it coordinates and changes the S–O–Co angle to the linking sulfate.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of the extra-framework bipyridyl in the material is a prerequisite for its trapping behavior.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the material's structure accommodate the substitution reaction?",
+      "answer": "Structural relaxation at both the reactive chain and the structural grid components is required to accommodate the substitution reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

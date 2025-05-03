@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical stability of Co0.24Ni0.76-bpa-200 in KOH solution?",
+      "answer": "Co0.24Ni0.76-bpa-200 remains highly stable in KOH solution, retaining its skeleton structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the conductivity of Co-bpa compare to Co-bpy?",
+      "answer": "The conductivity of Co-bpa is over 5 orders of magnitude higher than Co-bpy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does Ni2+ doping have on the conductivity of MOFs?",
+      "answer": "Ni2+ doping significantly improves the conductivity of MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the specific capacitance of Co0.24Ni0.76-bpa-200 higher than that of Co-bpy?",
+      "answer": "Yes, the specific capacitance of Co0.24Ni0.76-bpa-200 is much higher than that of Co-bpy.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the specific capacitance of Co0.24Ni0.76-bpa-200 at 1 A g@1?",
+      "answer": "1927.14 F g@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the introduction of Ni2+ cause disruption to the original crystalline structure of MOFs?",
+      "answer": "No, the introduction of Ni2+ causes no disruption to the original crystalline structure of MOFs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the energy density of the ASC device at a power density of 500 W kg@1?",
+      "answer": "76 Wh kg@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the ASC device power electronic devices after being charged?",
+      "answer": "Yes, the ASC device can power various electronic devices after being charged.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the capacitance retention of Co0.24Ni0.76-bpa-200 after 10,000 cycles?",
+      "answer": "86.5 %",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the nanoscale size of Co0.24Ni0.76-bpa-200 contribute to its enhanced electrochemical performance?",
+      "answer": "Yes, the nanoscale size of Co0.24Ni0.76-bpa-200 contributes to its enhanced electrochemical performance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the specific capacitance of Co0.24Ni0.76-bpa-200 among the top three of reported MOF-based electrodes?",
+      "answer": "Yes, the specific capacitance of Co0.24Ni0.76-bpa-200 ranks top three among reported MOF-based electrodes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of N-rGO loading on the specific capacitance of Co0.24Ni0.76-bpa-200?",
+      "answer": "N-rGO loading increases the specific capacitance of Co0.24Ni0.76-bpa-200.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does Co0.24Ni0.76-bpa-200@N-rGO show improved electrochemical performance compared to Co0.24Ni0.76-bpa-200?",
+      "answer": "Yes, Co0.24Ni0.76-bpa-200@N-rGO shows improved electrochemical performance compared to Co0.24Ni0.76-bpa-200.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrophobic polymethyl groups in the stability of Co0.24Ni0.76-bpa-200?",
+      "answer": "Hydrophobic polymethyl groups create a local hydrophobic environment to reduce the attack of water on the active centers, enhancing stability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the ASC device using Co0.24Ni0.76-bpa-200 as the positive electrode have a potential voltage window of 0–1.5 V?",
+      "answer": "No, the maximum working potential of the ASC device is determined to be 1.4 V.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the nano size modification on the electrochemical performance of Co0.24Ni0.76-bpa-200?",
+      "answer": "Nano size modification enhances the electrochemical performance of Co0.24Ni0.76-bpa-200 by reducing equivalent serial resistance and increasing active surface area.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the specific capacitance of Co0.24Ni0.76-bpa-200@N-rGO higher than Co0.24Ni0.76-bpa-200?",
+      "answer": "Yes, the specific capacitance of Co0.24Ni0.76-bpa-200@N-rGO is higher than Co0.24Ni0.76-bpa-200.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of N-rGO in the nanocomposite Co0.24Ni0.76-bpa-200@N-rGO?",
+      "answer": "N-rGO provides lower resistance electronic pathways, enhances mechanical/chemical stability, and increases active sites or areas for ion adsorption/desorption.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the introduction of bimetallic nodes with a unique metal proportion contribute to the conductivity of MOFs?",
+      "answer": "Yes, the introduction of bimetallic nodes with a unique metal proportion contributes to the improved conductivity of MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the ASC device using Co0.24Ni0.76-bpa-200 as the positive electrode power a mini light-emitting diode traffic light?",
+      "answer": "Yes, the ASC device can robustly light up a mini light-emitting diode traffic light after being charged.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

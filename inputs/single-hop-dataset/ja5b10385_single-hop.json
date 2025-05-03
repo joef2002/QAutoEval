@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound studied in the research?",
+      "answer": "C50H78Fe2N2O12",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single crystal X-ray diffraction analyses performed?",
+      "answer": "100 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction in the study?",
+      "answer": "Semi-empirical from equivalents",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of adding solid eicosane to the samples for magnetic measurements?",
+      "answer": "To prevent crystallite torqueing and provide good thermal contact between the sample and the cryostat.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the synthesis of Na3.2(NBu4)1.8Fe2(dhbq)3 considered successful despite the lack of successful C, H, and N elemental analysis?",
+      "answer": "The crystallinity and lack of unit cell change indicated no significant increase in cation exchange had taken place, supporting the chemical formula assignment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Mössbauer spectrum for Na3.2(NBu4)1.8Fe2(dhbq)3 at 100 K showed parameters consistent with two different high-spin FeIII centers.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main reason for the low magnetic ordering temperature of compound 1?",
+      "answer": "A competition of ferromagnetic and antiferromagnetic interactions that prevents true three-dimensional order.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The variable-temperature conductivity data for compounds 1 and 2 displayed Ohmic response between +1 and -1 V.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the Kubelka-Munk conversion in the NIR-UV-Visible Spectroscopy?",
+      "answer": "To convert the raw diffuse reflectance spectrum into a form that indicates the intensity of absorption features.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Na3.2(NBu4)1.8Fe2(dhbq)3 resulted in 3.0 electrons introduced per mole of framework 1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system identified for the compound (NBu4)2FeIII2(dhbq)3?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The saturation magnetization values of both compounds 1 and 2 at low temperature were attributed to antiferromagnetic interactions between the two sublattices that comprise the framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the Mössbauer spectroscopy analysis of Na3.2(NBu4)1.8Fe2(dhbq)3?",
+      "answer": "The spectrum showed parameters consistent with two different high-spin FeIII centers, indicating that the chemical reduction of compound 1 appears to be ligand-based.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The variable-temperature ac magnetic susceptibility data for compounds 1 and 2 showed a clear transition indicating magnetic ordering.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the broad UV-Vis-NIR absorbance extending across the range 4500–14,000 cm-1 for compounds 1 and 2?",
+      "answer": "These intense absorption features are attributed to ligand-based intervalence charge transfer, indicating strong electronic correlation within these materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Na3.2(NBu4)1.8Fe2(dhbq)3 used a stoichiometric amount of sodium naphthalenide in THF for chemical reduction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using a Praying Mantis air-free diffuse reflectance cell in the NIR-UV-Visible Spectroscopy?",
+      "answer": "To hold the samples in an air-free environment for accurate measurement of the diffuse reflectance spectra.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure analysis provided evidence that electron transfer had taken place during the synthesis of compound 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in refining the crystal structure of compound 1?",
+      "answer": "The tetrabutylammonium countercation required distance and extended rigid bond restraints due to its severe disorder.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Na3.2(NBu4)1.8Fe2(dhbq)3 resulted in a material with identical elemental and ICP analyses to compound 2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

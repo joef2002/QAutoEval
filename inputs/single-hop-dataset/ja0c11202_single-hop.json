@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the desolvated metal-organic framework material MFM-160a?",
+      "answer": "[Cu3(L)­(H2O)3] [H6L = 1,3,5-triazine-2,4,6-tris­(aminophenyl-4-isophthalic acid)]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the high-pressure uptake of CO2 in MFM-160a at 20 bar and 298 K?",
+      "answer": "110 wt%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity of MFM-160a for C2H2:CH4 at 1 bar pressure and 298 K?",
+      "answer": "79:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon is attributed to the increase in rotation rate of phenyl groups in desolvated MFM-160a upon introduction of CO2 or C2H2?",
+      "answer": "Weakening of an intramolecular hydrogen bond in the triazine-containing linker upon gas binding",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the activation barrier for rotation of the phenyl group in activated MFM-160-d12?",
+      "answer": "∼2 kJ mol−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MFM-160a shows a selectivity of 16:1 for C2H2:CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated Brunauer–Emmett–Teller (BET) surface area of MFM-160a?",
+      "answer": "3847 m2 g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the triazine functionality in MFM-160a according to DFT calculations?",
+      "answer": "It is not responsible for the selectivity for C2H2 over CO2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The rotation rate of phenyl groups in MFM-160-d12 increases with higher loading of CO2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of MFM-160?",
+      "answer": "Tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of gas loading on the phenyl rotation dynamics in MFM-160-d12?",
+      "answer": "Increased loading of CO2 increases the rate of phenyl rotation, a unique phenomenon not previously observed in a solid-state material",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MFM-160a has a higher uptake for CO2 compared to CH4 at 20 bar and 298 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main interaction governing the binding of CO2 to the linker fragment in MFM-160a?",
+      "answer": "A strong electrostatic interaction between the carbon of CO2 and the N-center of the central ring",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The binding energy interactions between CH4 and the linker in MFM-160a are the weakest of all gases studied.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted selectivity for C2H2 over CH4 in MFM-160a at 273 K using IAST?",
+      "answer": "104:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The rotation barrier for methyl groups in aromatic systems is comparable to the rotation barrier for phenyl groups in MFM-160-d12.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of C2H2 loading on the phenyl rotation dynamics in MFM-160-d12?",
+      "answer": "At higher C2H2 concentrations, the collision factor increases, suggesting C2H2 coordinates predominantly to the Cu(II) paddlewheel sites",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The selectivity for C2H2 over CO2 in MFM-160a is attributed to greater van der Waals interactions between C2H2 and the framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the disordered solvent molecules in the crystal structure of MFM-160?",
+      "answer": "They were not sensibly modelled but treated with PLATON SQUEEZE, indicating their presence but not directly contributing to the framework's stability",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The potential accessible volume of desolvated MFM-160a is 77%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

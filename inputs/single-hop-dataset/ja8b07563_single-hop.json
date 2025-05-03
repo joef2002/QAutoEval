@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the research article?",
+      "answer": "The main goal is to boost the separation of ethane from ethylene using isoreticular ultramicroporous metal-organic frameworks (MOFs) with weakly polar pore surface for strengthened binding affinity toward ethane over ethylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the names of the two isoreticular ultramicroporous MOF materials discussed?",
+      "answer": "The two materials are [Cu(ina)2] and [Cu(Qc)2].",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF material exhibits a smaller pore aperture size, [Cu(ina)2] or [Cu(Qc)2]?",
+      "answer": "[Cu(Qc)2] exhibits a smaller pore aperture size of about 3.3 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is [Cu(Qc)2] considered a superior ethane-selective adsorbent?",
+      "answer": "[Cu(Qc)2] is considered superior because it has a higher C2H6/C2H4 uptake ratio of 237% and selectivity of 3.4, indicating stronger binding affinity for ethane over ethylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to determine the binding conformations of gas molecules in [Cu(Qc)2]?",
+      "answer": "High-resolution neutron powder diffraction (NPD) measurements were used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The introduction of large substituted organic moieties always increases the gas uptake capacity of MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the self-adaptive pore structure in [Cu(Qc)2]?",
+      "answer": "The self-adaptive pore structure in [Cu(Qc)2] maximizes the quantity and contact area of adsorbate-adsorbent interactions, resulting in larger binding affinity for ethane over ethylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The C2H6/C2H4 selectivity of [Cu(Qc)2] is lower than that of [Cu(ina)2].",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the selective sorption performance of different MOFs?",
+      "answer": "The ideal adsorbed solution theory (IAST) was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The density of encapsulated C2H6 in the pore channels of [Cu(Qc)2] at 298 K is close to the liquid C2H6 density.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiment conducted at 298 K?",
+      "answer": "The breakthrough experiment demonstrated that complete separation of C2H6 from a C2H6/C2H4 mixture can be realized at ambient conditions using activated [Cu(Qc)2], with C2H4 showing a desirable purity of over 99.9%.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption enthalpy for C2H6 is higher than that for C2H4 in [Cu(Qc)2].",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'isoreticular' refer to in the context of the MOF materials discussed?",
+      "answer": "Isoreticular refers to MOF materials that have the same framework topology but different pore sizes or functionalities.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The PXRD patterns of activated [Cu(Qc)2] remain unchanged after moisture exposure upon 98% relative humidity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using adsorptive separation for ethane/ethylene separation over traditional methods?",
+      "answer": "Adsorptive separation is more energy efficient than traditional heat-driven cryogenic distillation, as it can directly produce high-purity ethylene in a single operation with potentially lower energy consumption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms for [Cu(Qc)2] indicate that it has a higher uptake capacity for C2H4 than for C2H6.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to support the experimental findings regarding the binding affinity of [Cu(Qc)2]?",
+      "answer": "Density-Functional Theory (DFT) calculations were used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Langmuir-Freundlich model was used to fit all the single-component adsorption isotherms for the MOFs discussed.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in separating ethane from ethylene according to the article?",
+      "answer": "The main challenge is the very similar molecular size and volatility of ethane and ethylene, making their separation energy-intensive and challenging.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article suggests that all MOFs have high moisture stability.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

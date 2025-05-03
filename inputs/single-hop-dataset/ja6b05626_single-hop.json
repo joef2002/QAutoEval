@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of UNLPF-13?",
+      "answer": "C100H52ClIn2MnN4O16",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of UNLPF-14?",
+      "answer": "Orthorhombic, Pnnm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) was the crystal data for UNLPF-15 collected?",
+      "answer": "296(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (Å3) of the unit cell for UNLPF-16?",
+      "answer": "17636.8(17) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the reaction mixture of the [2+1] cycloisomerization of enynes catalyzed by UNLPF-14-MnIII show any catalyst leaching according to ICP-MS?",
+      "answer": "0.05 mol% catalyst leaching was determined by ICP-MS",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage of the [3+2] cycloaddition of aziridines and alkenes catalyzed by UNLPF-14-MnIII for entry 2?",
+      "answer": "95%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the cis/trans ratio for the product 9a in the [3+2] cycloaddition of aziridines and alkenes?",
+      "answer": "5:4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the [4+2] hetero-Diels-Alder cycloaddition of aldehydes with dienes catalyzed by UNLPF-16-FeIII heterogeneous?",
+      "answer": "No, 0.05 mol% catalyst leaching indicates the reaction is mostly heterogeneous.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the [4+2] hetero-Diels-Alder cycloaddition of aldehydes with dienes for entry 1 using UNLPF-15-FeIIICl as the catalyst?",
+      "answer": "No reaction (n.r.)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R indices (I>2sigma(I)) for the crystal structure refinement of compound 9f?",
+      "answer": "R1 = 0.0613, wR2 = 0.1814",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the powder X-ray diffraction pattern of UNLPF-16 change after the [4+2] hetero-Diels-Alder reaction of 10a and 11?",
+      "answer": "Yes, the diffraction pattern changes indicating the structure of UNLPF-16 may be affected by the reaction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed mechanism for the [3+2] cycloaddition of aziridines and alkenes?",
+      "answer": "The proposed mechanism involves the coordination of the Lewis acid to the β-C of the alkyne with respect to the nitrogen tether.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield percentage for the [4+2] hetero-Diels-Alder cycloaddition of aldehydes with dienes using UNLPF-16-FeIII as the catalyst for entry 2?",
+      "answer": "Greater than 99% (96% isolated yield)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the product molecules of the [3+2] cycloaddition of aziridines and alkenes freely diffuse out of the MOF UNLPF-14-MnIII?",
+      "answer": "Yes, for products 9a-h, the dimensions allow for efficient diffusion out of the MOF, but not for product 9i.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the cis/trans ratio for the product 9i in the [3+2] cycloaddition of aziridines and alkenes?",
+      "answer": "5:3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the [4+2] hetero-Diels-Alder cycloaddition of aldehydes with dienes catalyzed by UNLPF-16-FeIII for entry 14 after the 3rd catalyst recycle?",
+      "answer": "97%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the [3+2] cycloaddition of aziridines and alkenes catalyzed by UNLPF-14-MnIII a heterogeneous reaction?",
+      "answer": "Yes, the heterogeneity test indicates the reaction is mostly heterogeneous.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed mechanism for the [4+2] hetero-Diels-Alder reaction?",
+      "answer": "The proposed mechanism involves the coordination of the aldehyde to the cationic metal center of the MOF, activating the substrate for the cycloaddition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield percentage for the [3+2] cycloaddition of aziridines and alkenes catalyzed by UNLPF-14-MnIII for entry 10?",
+      "answer": "88%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage for the [4+2] hetero-Diels-Alder cycloaddition of aldehydes with dienes catalyzed by UNLPF-16-FeIII for entry 7?",
+      "answer": "97% (94% isolated yield)",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

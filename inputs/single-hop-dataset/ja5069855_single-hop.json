@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the lanthanide metal-organic framework discussed?",
+      "answer": "[Eu2(CO3)­(ox)2(H2O)2]·4H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the maximum proton conductivity of 2.08 × 10−3 S cm−1 achieved?",
+      "answer": "150 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conduction in the discussed MOF humidity-dependent?",
+      "answer": "No, it is humidity-independent.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What mediates the high proton conduction in the lanthanide MOF?",
+      "answer": "Ordered one-dimensional hydrogen-bonding arrays within the channels of the framework structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOF's structure upon reaching 160 °C?",
+      "answer": "The aqua ligands are thermally removed, resulting in the disintegration of the hydrogen-bonded pathway for proton transport.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the original structure and high proton-conduction ability of the MOF be restored after dehydration?",
+      "answer": "Yes, upon rehydration, the original structure with the hydrogen-bonded arrays is restored, along with its high proton-conduction ability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of aqua ligands in the MOF's proton conduction?",
+      "answer": "The aqua ligands, when thermally activated, facilitate the transport of protons between aqua and adjacent oxalate ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conduction in the MOF anisotropic?",
+      "answer": "Yes, the proton conduction is anisotropic, being facilitated along the crystallographic a-axis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What mechanism is suggested for proton conduction in the MOF?",
+      "answer": "The Grotthuss mechanism is suggested for proton conduction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF's proton conductivity decrease with the loss of crystallization water molecules?",
+      "answer": "No, the conductivity increases with temperature up to 150 °C despite the loss of crystallization water molecules.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy for proton conduction between 100 and 150 °C?",
+      "answer": "0.26 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOF's structure at temperatures above 350 °C?",
+      "answer": "The overall framework structure is maintained up to 350 °C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does temperature affect the proton conductivity of the MOF?",
+      "answer": "Proton conductivity increases with temperature from room temperature to about 150 °C.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of deuterium substitution on the MOF's proton conductivity?",
+      "answer": "The deuterated sample produces a lower conductivity, consistent with proton being the charge carrier.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of the MOF stable over multiple cooling/heating cycles?",
+      "answer": "Yes, the conduction performance is stabilized after five cooling/heating cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of the MOF's crystal structure?",
+      "answer": "P-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF exhibit photoluminescence properties?",
+      "answer": "Yes, temperature-dependent photoluminescence properties were studied.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature in the MOF's photoluminescence properties?",
+      "answer": "The characteristic red emission of Eu(III) intensifies with increasing temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the hydration number of Eu(III) in the MOF at 150 °C?",
+      "answer": "0.76",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF's structure change significantly after five cooling/heating cycles?",
+      "answer": "No, the PXRD pattern of the sample retrieved after five cycles is minimally altered compared to the as-prepared sample.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

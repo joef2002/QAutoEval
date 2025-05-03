@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the 1:1 adduct between α-CD and KAu(CN)2?",
+      "answer": "C38H74AuKN2O37",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to obtain the crystal superstructure of KAu(CN)2 ⊂ α-CD?",
+      "answer": "Single crystal X-ray crystallography",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the 1:1 adduct between α-CD and KAu(CN)2?",
+      "answer": "P212121",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to analyze the binding energies in the study?",
+      "answer": "Density functional theory (DFT) calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the binding constant (Ka) determined by 1H NMR titration for α-CD with KAu(CN)2 in D2O at 25 ˚C?",
+      "answer": "The Ka value was determined using Thordarson's equations but the exact value is not provided in the text.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of α-cyclodextrin in the molecular recognition process described?",
+      "answer": "α-cyclodextrin acts as a molecular receptor for Au(CN)2–, facilitating its extraction from solution.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that α-CD can selectively strip gold over silver from activated carbon.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational program was used for the visualization of noncovalent interactions?",
+      "answer": "Multiwfn 3.6 program",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The binding affinity of α-CD for Au(CN)2– is significantly higher than for Ag(CN)2–.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to quantify gold and silver concentrations after stripping experiments?",
+      "answer": "Inductively coupled plasma mass spectrometry (ICP-MS)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using isothermal titration calorimetry (ITC) in the study?",
+      "answer": "To measure the thermodynamics of the binding interaction between α-CD and metal cyanides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a green technology approach for gold recovery from electronic waste.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding regarding the interaction between α-CD and metal cyanides?",
+      "answer": "α-CD has a high affinity for binding Au(CN)2–, which can be utilized for gold recovery processes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the gold loading on activated carbon determined?",
+      "answer": "By adsorbing gold from an aqueous solution of KAu(CN)2 onto activated carbon and analyzing the remaining gold in the filtrate using ICP-MS.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings could potentially reduce the environmental impact of gold mining.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using a water continuum in the DFT calculations?",
+      "answer": "To simulate the solvent environment and obtain more accurate binding energies for the interactions in aqueous solution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the term 'second-sphere coordination' refer to in the context of this study?",
+      "answer": "It refers to the interaction between α-CD and metal cyanides where α-CD acts as a host molecule, encapsulating the metal cyanide guest.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates the feasibility of using α-CD for the selective recovery of gold from mixtures containing both gold and silver.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of heat in dissolving α-CD for the stripping experiments?",
+      "answer": "Heat was applied to dissolve α-CD when its concentration was greater than 2% w/v, indicating its limited solubility in water at higher concentrations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's approach to gold recovery can be easily integrated into existing gold-mining protocols.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

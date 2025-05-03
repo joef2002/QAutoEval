@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of acetylene mentioned in the text?",
+      "answer": "Acetylene is a major raw feedstock for the production of various essential polymers and chemicals.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the challenges in separating C2H2/CO2 using adsorption-based gas separation?",
+      "answer": "The challenges include the identical molecular shapes and kinetic diameters of C2H2 and CO2, making it difficult to develop high-performance adsorbents for their separation through physisorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the IAST selectivity of SIFSIX-dps-Cu for C2H2/CO2 separation at 298K?",
+      "answer": "The IAST selectivity of SIFSIX-dps-Cu for C2H2/CO2 separation at 298K is 1786.6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size adjustment in MOFs affect the separation of C2H2 from CO2?",
+      "answer": "The pore size adjustment in MOFs affects the separation of C2H2 from CO2 by integrating suitable pore size and specific functional sites, which can exhibit both excellent C2H2 uptake and C2H2/CO2 selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the working capacity of SIFSIX-dps-Cu for C2H2 in the breakthrough experiment?",
+      "answer": "The working capacity of SIFSIX-dps-Cu for C2H2 in the breakthrough experiment is 2.48 mmol g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption kinetics in SIFSIX-dps-Cu showed significant CO2 uptake under a sufficiently long period of time.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DFT-D calculations in understanding the adsorption behavior of MOFs?",
+      "answer": "DFT-D calculations provide insight into the adsorption behaviors by identifying the adsorption sites and calculating the static binding energy, which helps understand the outstanding C2H2 uptake and selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that precise pore engineering in MOFs can be applied to many other MOFs for molecular recognition.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the IAST selectivity value in gas separation?",
+      "answer": "The IAST selectivity value is significant in gas separation as it quantitatively estimates the selectivity of an adsorbent towards a specific gas in a mixture, indicating its efficiency in separating the gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that altering the anionic linkers in MOFs does not impact the C2H2 adsorption behavior.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

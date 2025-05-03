@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "Pyridyl-appended ditopic peptide ligand 2",
+      "synthesis_conditions": {
+        "method": "conventional peptide synthesis",
+        "details": "See the Supporting Information (SI) for details."
+      }
+    },
+    {
+      "name": "Complex 3",
+      "synthesis_conditions": {
+        "temperature": "30 8C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "150 mL"
+          },
+          {
+            "name": "water",
+            "amount": "150 mL",
+            "ratio": "ethanol/water = 1:1 v/v"
+          }
+        ],
+        "equipment": "microtube",
+        "chemicals_used": [
+          {
+            "name": "AgBF4",
+            "amount": "12 mmol"
+          },
+          {
+            "name": "AgPF6",
+            "amount": "17 mol %"
+          },
+          {
+            "name": "ligand 2",
+            "amount": "12 mmol"
+          }
+        ],
+        "time": "5 months",
+        "technique": "triple layering technique",
+        "acceleration_method": "micro-seeding technique",
+        "acceleration_time": "1 week"
+      }
+    },
+    {
+      "name": "Crystal 3’",
+      "synthesis_conditions": {
+        "washing_method": "washed with and stored in ethanol",
+        "stability": "stable for several months",
+        "guest_inclusion": [
+          {
+            "guest": "(S)-1,2-propanediol ((S)-4)",
+            "temperature": "room temperature",
+            "time": "4 days",
+            "observation": "Single crystal X-ray analysis"
+          },
+          {
+            "guest": "1,4-Anhydroerythritol (5)",
+            "observation": "crystallographic analysis"
+          },
+          {
+            "guest": "methyl acetoacetate (6)",
+            "observation": "crystallographically observed near Ag+(2)"
+          },
+          {
+            "guest": "1,2-diketone 7",
+            "product": "hemiacetal 8",
+            "observation": "crystallographic analysis"
+          }
+        ]
+      }
+    }
+  ]
+}

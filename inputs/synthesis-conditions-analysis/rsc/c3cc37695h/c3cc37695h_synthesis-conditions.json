@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "TIFSIX-1-Cu",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "3 mL"
+          },
+          {
+            "name": "ethylene glycol",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "0.15 mmol (23.4 mg)"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.076 mmol (17.7 mg)"
+          },
+          {
+            "name": "(NH4)2TiF6",
+            "amount": "0.076 mmol (15.0 mg)"
+          }
+        ],
+        "yield": "90.2%",
+        "time": "2 weeks",
+        "drying_method": "degassed under high vacuum at room temperature for 16 hours",
+        "washing_method": "exchanged with methanol 3 times daily for 2 days"
+      }
+    },
+    {
+      "name": "SNIFSIX-1-Cu",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "3 mL"
+          },
+          {
+            "name": "ethylene glycol",
+            "amount": "3 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4'-bipyridine",
+            "amount": "0.11 mmol (17.2 mg)"
+          },
+          {
+            "name": "Cu(NO3)2·2.5H2O",
+            "amount": "0.056 mmol (13.0 mg)"
+          },
+          {
+            "name": "(NH4)2SnF6",
+            "amount": "0.056 mmol (15.1 mg)"
+          }
+        ],
+        "yield": "93.8%",
+        "time": "2 weeks",
+        "drying_method": "degassed under high vacuum at room temperature for 16 hours",
+        "washing_method": "exchanged with methanol 3 times daily for 2 days"
+      }
+    }
+  ]
+}

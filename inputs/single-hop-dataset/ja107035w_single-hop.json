@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of PCMOF-3?",
+      "answer": "Zn3(L)(H2O)2·2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to obtain single crystals of PCMOF-3?",
+      "answer": "Diffusion of acetone into a solution of Zn(ClO4)·6H2O and H6L in water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range was the TGA-DSC data for PCMOF-3 recorded?",
+      "answer": "25 - 450°C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proton conductivity of PCMOF-3 at 25 °C and 98% relative humidity?",
+      "answer": "3.5 × 10−5 S cm−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the low activation energy of 0.17 eV for proton transfer in PCMOF-3 indicate?",
+      "answer": "It indicates that the ordered water molecules observed crystallographically function to transport protons via a Grotthuss hopping mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of PCMOF-3 stable up to 450°C according to TGA data?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does PCMOF-3 require secondary sulfonic acid sites for its proton conductivity?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Zn-ligated water molecules in PCMOF-3?",
+      "answer": "They serve to anchor free water molecules into ordered chains for proton conduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the proton conductivity of PCMOF-3 measured in a deuterated sample?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to study protonic motion in PCMOF-3?",
+      "answer": "Variable-temperature 2H SSNMR",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the proton conductivity of PCMOF-3 decrease at lower humidity levels?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of two distinct P sites in 31P NMR spectra of PCMOF-3 indicate?",
+      "answer": "It indicates two distinct phosphorus environments consistent with the crystal structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton transfer mechanism in PCMOF-3 based on Grotthuss hopping?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using Pt–C gas diffusion electrodes in impedance analyses of PCMOF-3?",
+      "answer": "To observe the loss of the capacitive tail at low frequencies, confirming proton migration.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the crystal structure of PCMOF-3 solved at both 173 K and 293 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the ordered arrangement of water molecules in PCMOF-3 suggest about its proton conduction mechanism?",
+      "answer": "It suggests that PCMOF-3 is well-organized to enable Grotthuss proton transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of PCMOF-3 involve refluxing water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of Zn3L(H2O)2·2.5H2O synthesized?",
+      "answer": "99.7%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does the activation energy of 0.17 eV for proton transfer in PCMOF-3 compare to?",
+      "answer": "It is among the lowest observed, similar to highly acidic, hydrated metal oxide proton conductors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of PCMOF-3 independent of humidity levels?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

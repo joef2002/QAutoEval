@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the article on Magnetic Sponges?",
+      "answer": "10.1002/anie.201902301",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound undergoes drastic charge-ordered state variations via three distinct states?",
+      "answer": "[{Ru2(m-FPhCO2)4}2TCNQ-(OMe)2]·nDCE",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the three distinct states that the compound [{Ru2(m-FPhCO2)4}2TCNQ-(OMe)2]·nDCE can adopt?",
+      "answer": "A two-electron-transferred state (2e-I), a charge-disproportionated state (1.5e-I), and a one-electron-transferred state (1e-I)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The stabilization of the 1e-I state of 1-DCE is due to the absence of host–guest hydrogen bonding.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the solvation-dependent magnetic switch in the system discussed?",
+      "answer": "Framework–solvent hydrogen bonding interactions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic phase and critical temperatures (Tc) are not affected by the charge-ordered states of the compound.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical temperature (Tc) for the ferrimagnetic state in 1.5e-Id?",
+      "answer": "30 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compound 1-4DCE exhibits paramagnetic behavior in the 2e-I state.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of resolvation of 1 on its magnetic states?",
+      "answer": "It allows 1-DCE to switch between 1.5e-I and 1e-I states and to become ferrimagnetic.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The desolvation/solvation cycles between 1 and 1-DCE are irreversible.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of hydrogen bonding motif is found between the DCE molecule and the carboxylate-oxygen of the [Ru(2)2] unit?",
+      "answer": "A CH···O-type hydrogen bonding motif",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of DCE molecules has no effect on the stabilization of the 1e-I state in 1-nDCE.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the stabilization of the 1e-I state in 1-reDCE according to DFT calculations?",
+      "answer": "The hydrogen bonding in DCE···[Ru2]",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The theoretical study suggests that the stabilization of the 1e-I state in 1-reDCE is similar to mechanisms found in biological systems.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of host–guest interactions in the control of the electronic state of the framework material?",
+      "answer": "They are useful to control the electronic state of the framework material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article suggests that the modulation of the intrinsic spin state in a correlated lattice is an inefficient strategy for changing magnetism.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the DOI for the German Edition of the article on Magnetic Sponges?",
+      "answer": "10.1002/ange.201902301",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical temperature (Tc) for the ferrimagnetic state in 1e-I?",
+      "answer": "88 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the CH···O hydrogen bonding motif on the electronic state of the compound?",
+      "answer": "It stabilizes the intermediate 1e-I state by tuning the electron-donating ability of the donor units.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article provides evidence that molecular magnets lack flexibility in their structures and electronic/spin states.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

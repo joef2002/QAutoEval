@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "question": "What is the phenomenon discovered in this work that reverses the universal thermodynamics of void space?",
+            "answer": "This work discovered the phenomenon of charged point-point repulsion (CPPR) that reverses the universal thermodynamics of void space and enables the thermodynamic synthesis of highly porous materials.",
+            "type": "factual"
+        },
+        {
+            "question": "In what metal-organic framework was spontaneous de-interpenetration driven by CPPR first demonstrated?",
+            "answer": "Spontaneous de-interpenetration driven by CPPR was first demonstrated in NU-1303-6, a 6-fold interpenetrated uranium-based metal-organic framework with closely positioned, charged uranyl nodes.",
+            "type": "factual"
+        },
+        {
+            "question": "What techniques were used to confirm the de-interpenetration of NU-1303-6 to NU-1303-1?",
+            "answer": "Crystallography, gas physisorption, and DFT calculations were used to confirm the de-interpenetration of NU-1303-6 to its non-interpenetrated counterpart NU-1303-1.",
+            "type": "factual"
+        },
+        {
+            "question": "What are the pore sizes and void fractions of NU-1303-6 compared to NU-1303-1?",
+            "answer": "NU-1303-6 has 14.2 and 19.8 \u811c pores, while NU-1303-1 has a much larger 40.7 \u811c pore. NU-1303-1 possesses a record-high 96.6% void fraction compared to NU-1303-6.",
+            "type": "factual"
+        },
+        {
+            "question": "What two competing interactions influence the de-interpenetration process in NU-1303-6?",
+            "answer": "CPPR between anionic uranium nodes favors de-interpenetration, while water molecules that hydrogen bond nearby networks together favor interpenetration. These two competing interactions influence the de-interpenetration process.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the bulkier linker in NU-1304 impact its de-interpenetration behavior compared to NU-1303-6?",
+            "answer": "The bulkier TMBP linker in NU-1304 increases the U-U distance between networks compared to NU-1303-6. This results in less effective CPPR and makes the interpenetrated structure of NU-1304 more stable, preventing de-interpenetration under the same conditions as NU-1303-6.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the significance of the discovery of CPPR-driven de-interpenetration?",
+            "answer": "The discovery of CPPR-driven de-interpenetration reverses the universal thermodynamics of porous structures, enabling the thermodynamic synthesis of highly porous materials. It simplifies the design of non-interpenetrated structures and has potential for wide-reaching applications that require high porosity.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: NU-1303-6 has a higher calculated pore volume than NU-1303-1.",
+            "answer": "False. NU-1303-1 has a much higher calculated pore volume of 9.2 cm3g-1 compared to 1.2 cm3g-1 for NU-1303-6.",
+            "type": "True or False"
+        },
+        {
+            "question": "True or False: The discovery of CPPR is expected to only be applicable to uranium-based MOFs.",
+            "answer": "False. The authors expect that the energetic understanding of CPPR developed here could be widely generalized for the production of non-interpenetrated structures in any type of framework where charged interactions can drive de-interpenetration.",
+            "type": "True or False"
+        },
+        {
+            "question": "True or False: NU-1303-6 fully de-interpenetrated to NU-1303-1 after soaking in DMF for 4 days under anhydrous conditions.",
+            "answer": "True. Under anhydrous conditions, NU-1303-6 fully de-interpenetrated to NU-1303-1 in just 4 days, which is 36 times faster than the 144 days required under hydrous conditions.",
+            "type": "True or False"
+        },
+        {
+            "question": "True or False: The bulkier linker in NU-1304 prevents any de-interpenetration from occurring, even after soaking in DMF for over 1000 days.",
+            "answer": "True. Even after soaking in DMF for 1057 days and under anhydrous conditions, nitrogen isotherms showed that NU-1304 remains interpenetrated due to the increased U-U distance from the bulkier TMBP linker reducing CPPR.",
+            "type": "True or False"
+        },
+        {
+            "question": "What experimental techniques were used to identify the charge-balancing cation in NU-1303-6 and NU-1304?",
+            "answer": "ICP-OES and 1H NMR analysis were used to identify the charge-balancing cations in NU-1303-6 and NU-1304 as 0.1 K+ and 0.9 H+ or H3O+ per anionic node.",
+            "type": "factual"
+        },
+        {
+            "question": "What solvent was used to soak NU-1303-6 and NU-1304 to study their de-interpenetration behavior?",
+            "answer": "N,N-dimethylformamide (DMF) was used to soak NU-1303-6 and NU-1304 to study their de-interpenetration behavior over time.",
+            "type": "factual"
+        },
+        {
+            "question": "What activation methods were used to prepare NU-1303 and NU-1304 samples for gas adsorption studies?",
+            "answer": "Supercritical CO2 activation followed by thermal activation under ultrahigh vacuum was used to prepare NU-1303 and NU-1304 samples for nitrogen gas adsorption studies.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The hydrogen-bonding interaction between water and the uranium nodes was directly observed experimentally in NU-1303-6 via single crystal X-ray diffraction.",
+            "answer": "True. A water molecule was detected via single crystal X-ray diffraction to be hydrogen-bonded between the equatorial oxygen atoms of the two nodes in the M2 motif of NU-1303-6.",
+            "type": "True or False"
+        },
+        {
+            "question": "What DFT functional was used to calculate the interaction energies between uranium nodes at varying U-U distances in NU-1303-6?",
+            "answer": "The M06-2X density functional was used to calculate the interaction energies between uranium nodes at varying U-U distances in the M1 and M2 motifs of NU-1303-6.",
+            "type": "factual"
+        },
+        {
+            "question": "What solvent models were used in the DFT free energy calculations to study the effect of water vs DMF on the de-interpenetration process?",
+            "answer": "Implicit solvent models for DMF and water were used in the DFT free energy calculations to study how water stabilizes the interpenetrated structure relative to DMF, impeding the de-interpenetration process.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The DFT calculations showed that including H+, H3O+ or K+ cations completely prevented de-interpenetration in NU-1303-6.",
+            "answer": "False. While H3O+ and K+ cations slightly shielded de-interpenetration in the M2b motif, the negative free energy values showed they did not completely prevent de-interpenetration from being thermodynamically favored.",
+            "type": "True or False"
+        },
+        {
+            "question": "What experimental evidence showed that de-interpenetrated material was present in the DMF soaking solution over time?",
+            "answer": "ICP-MS analysis revealed an increase in uranium concentration and UV-Vis experiments showed an increase in uranyl signal intensity in the DMF soaking solution over time, indicating the presence of de-interpenetrated material.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The single crystal structure of the fully de-interpenetrated NU-1303-1 was obtained after soaking NU-1303-6 in DMF for over 2.5 years.",
+            "answer": "True. Single crystals of NU-1303-1 were preserved and the uranium positions were obtained via single crystal X-ray diffraction after soaking NU-1303-6 in DMF for 946 days (over 2.5 years).",
+            "type": "True or False"
+        },
+        {
+            "question": "How does the discovery of CPPR-driven de-interpenetration fundamentally change our understanding of the thermodynamics of porous materials?",
+            "answer": "The discovery of CPPR-driven de-interpenetration compels a re-evaluation of the thermodynamics of porosity. It shows that open structures with more void space can actually be thermodynamically favored over denser, interpenetrated structures under certain conditions, reversing the conventional wisdom.",
+            "type": "reasoning"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound that was synthesized using a metal-organic framework as a reaction vessel?",
+      "answer": "N-methyl 4-hex-5'-ynl-1',4'-dione-1,2,3-triazole",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary method used to characterize the structure of the synthesized compounds?",
+      "answer": "Single-crystal X-ray crystallography",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used to study the MOF and its reaction products?",
+      "answer": "Density functional theory (DFT) calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of sodium azide in the synthesis process described in the text?",
+      "answer": "Sodium azide is used for anion-exchange reactions to introduce azide moieties into the MOF pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the 'click' chemistry mentioned in the text?",
+      "answer": "The 'click' chemistry refers to the [3+2] cycloaddition reaction between azide and alkyne groups to form a triazole ring, which is facilitated by the MOF's structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of using MeBr in the final step of the synthesis process?",
+      "answer": "MeBr is used for N-alkylation to release the 'click' product from the MOF and regenerate the starting MOF material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF used in the synthesis acts as a catalyst.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF environment stabilizes the N(1)-bound isomer of the 'click' product.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The reaction cycle can be performed multiple times using the same MOF material.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis described in the text produces a mixture of mono- and bis-triazole products.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using MOFs in the described synthesis process?",
+      "answer": "The main advantage is the MOF's ability to facilitate site-selective and chemoselective transformations due to its structured pores and reactive sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the term 'site-selective' refer to in the context of the synthesis process?",
+      "answer": "Site-selective refers to the ability to selectively react with one functional group in the presence of potentially reactive alternatives, guided by the spatial arrangement within the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of powder X-ray diffraction (PXRD) in the study?",
+      "answer": "PXRD is used to confirm the crystallinity and phase purity of the MOF material before and after the synthesis cycles.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesized triazole products are released from the MOF in their final form.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the energy barrier calculations mentioned in the computational study?",
+      "answer": "The energy barrier calculations help understand the stability of different isomers within the MOF and the likelihood of their interconversion, explaining the selectivity observed experimentally.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates the use of MOFs for the direct synthesis of alkyne-functionalized triazoles.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the term 'chemoselective' imply in the context of the reactions carried out within the MOF?",
+      "answer": "Chemoselective implies that the reaction selectively occurs at a specific type of chemical bond or functional group among several present, influenced by the MOF's structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides a new method for protecting-group-free synthesis of complex molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges does the study address in the field of synthetic chemistry?",
+      "answer": "The study addresses challenges related to achieving site-selectivity and chemoselectivity in organic synthesis without the need for protecting groups, using MOFs as a novel solution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the study contribute to the development of green chemistry?",
+      "answer": "The study contributes by demonstrating a method that potentially reduces the need for additional reagents and steps associated with protecting groups, aligning with the principles of green chemistry by minimizing waste and simplifying synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the work regarding ZnPC-2 and its iso-reticular structures?",
+      "answer": "The main focus is on exploring the precise Lewis acidic site on Zn3-SBU by using the cycloaddition of CO2 and epoxides as a probe reaction, and how the tetrahedral coordinated Zn(II) in Zn3-SBU serves as the Lewis acidic site for the catalytic CO2 cycloaddition reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does TBAB play in the cycloaddition reaction of CO2 with epichlorohydrin?",
+      "answer": "TBAB serves as a co-catalyst that is crucial for the nucleophilic attacking, significantly increasing the yield of the cycloaddition reaction when present.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of Hpyr@ZnPC-2 affect the catalytic efficiency compared to ZnPC-2?",
+      "answer": "Hpyr@ZnPC-2 shows similar catalytic efficiency to ZnPC-2 when TBAB is present as a co-catalyst, indicating that the occupation of Hpyr inside the channel doesn’t block the active Lewis acidic site.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the apical Zn(II) in Zn3-SBU for the catalytic reaction?",
+      "answer": "The apical Zn(II) in Zn3-SBU is identified as the dominant catalytic Lewis acidic site in CO2 cycloaddition reaction, and its ability to dynamically transform from tetrahedron to high coordination geometry plays a crucial role in the catalysis process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental and theoretical methods were used to investigate the catalytic mechanism of ZnPC-2?",
+      "answer": "DFT calculations and experimental studies including CO2 adsorption experiments and catalytic CO2 cycloaddition reactions were used to investigate the catalytic mechanism of ZnPC-2.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the reaction of CO2 cycloaddition with epoxides over ZnPC-2 size-selective?",
+      "answer": "Yes, the reaction is size-selective, as demonstrated by the varying yields of corresponding cyclic carbonates when different epoxides are used as substrates.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can Hpyr@ZnPC-2 be reused in the cycloaddition reaction of CO2 with epoxides?",
+      "answer": "Yes, Hpyr@ZnPC-2 can be easily separated by centrifugation and reused for at least four successive runs with the yield maintained above 90%.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination geometry of the apical Zn(II) in Zn3-SBU remain unchanged during the catalytic process?",
+      "answer": "No, the coordination geometry of the apical Zn(II) in Zn3-SBU undergoes a dynamical and reversible transformation during the catalytic process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of substituting other metal ions for Zn in Zn3-SBU on the catalytic activity?",
+      "answer": "Substituting other metal ions for Zn in Zn3-SBU results in moderate catalytic yields, suggesting the crucial role of the apical Zn(II) in catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What conclusion can be drawn about the role of reticular chemistry in the design of CO2 reduction catalysts?",
+      "answer": "Reticular chemistry plays a crucial role in designing CO2 reduction catalysts by enabling the construction of iso-reticular frameworks and precise regulation of catalytic sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "materials": [
+    {
+      "name": "H2Me2-(S,S)-Mecysmox",
+      "synthesis_conditions": {
+        "temperature": "room temperature, then refluxed for 6 hours",
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "150 mL, then 3x150 mL for distillation"
+          },
+          {
+            "name": "acetone",
+            "amount": "150 mL"
+          },
+          {
+            "name": "diethyl ether",
+            "amount": "100 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "thionyl chloride",
+            "amount": "13.10 mL, 180 mmol"
+          },
+          {
+            "name": "(S)-methyl-(L)-cysteine amino acid",
+            "amount": "8.11 g, 60 mmol"
+          },
+          {
+            "name": "oxalyl chloride",
+            "amount": "2.54 mL, 30.0 mmol"
+          },
+          {
+            "name": "triethylamine",
+            "amount": "8.4 mL, 60 mmol"
+          }
+        ],
+        "equipment": "N2 atmosphere setup",
+        "time": "6 hours, then 2 hours",
+        "yield": "9.62 g, 91%",
+        "washing_method": "washed with acetone and diethyl ether",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "(Me4N)2{Cu2[(S,S)-Mecysmox](OH)2} . 5H2O",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "60 mL"
+          },
+          {
+            "name": "25% methanolic solution of Me4NOH",
+            "amount": "36 mL, 125 mmol"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "CuCl2",
+            "amount": "8.07 g, 60 mmol"
+          }
+        ],
+        "equipment": "N2 atmosphere setup",
+        "time": "until complete dissolution",
+        "yield": "14.77 g, 68%",
+        "washing_method": "gently washed with acetone",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "{Cu6Sr[(S,S)-Mecysmox]3(OH)2(H2O)} . 15H2O (3)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "50 mL for dissolving, then additional 10 mL for Sr(NO3)2 solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "(Me4N)2{Cu2[(S,S)-Mecysmox](OH)2} . 4H2O",
+            "amount": "4.32 g, 6.0 mmol"
+          },
+          {
+            "name": "Sr(NO3)2",
+            "amount": "0.42 g, 2.0 mmol"
+          }
+        ],
+        "time": "10 hours",
+        "yield": "2.91 g, 83%",
+        "washing_method": "washed with ethanol, acetone and diethyl ether",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "[Pd2(H2O)(NH3)6]0.5Cl2@{SrIICuII6[(S,S)–Mecysmox]3(OH)2(CH3OH)} . 12H2O (4)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "H2O/CH3OH",
+            "amount": "1:1 solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Pd(NH3)4]Cl2",
+            "amount": "0.015 mmol, repeated 5 times for maximum loading"
+          }
+        ],
+        "time": "6 hours, repeated 5 times",
+        "yield": "not specified",
+        "washing_method": "washed with H2O/CH3OH solution several times",
+        "drying_method": "air-dried"
+      }
+    },
+    {
+      "name": "(Pd0)0.5([PdII(H2O)(NH3)3]Cl2)0.5@{SrIICuII6[(S,S)-Mecysmox]3(OH)2(CH3OH)} . 13H2O (5)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "H2O/CH3CH2OH",
+            "amount": "1:1 solution"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "NaBH4",
+            "amount": "divided in 15 fractions, 0.4 mmol of NaBH4 per mmol of MOF each"
+          }
+        ],
+        "time": "72 hours, each fraction allowed to react for 1.5 hour",
+        "yield": "not specified",
+        "washing_method": "gently washed with H2O/CH3OH solution",
+        "drying_method": "filtered on paper"
+      }
+    }
+  ]
+}

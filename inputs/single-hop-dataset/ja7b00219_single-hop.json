@@ -1,0 +1,124 @@
+{
+  "QAs": [
+    {
+      "question": "What is the empirical formula of Y-shp-MOF-1?",
+      "answer": "C154H150N17O47Y9",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was Y-shp-MOF-1 activated before gas adsorption measurements?",
+      "answer": "180°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction in the single crystal X-ray diffraction data collection?",
+      "answer": "Multi-scan",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of Y-shp-MOF-1 retain its crystallinity up to 400°C according to VT-PXRD analysis?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of Y-shp-MOF-1 measured at 87K?",
+      "answer": "2200 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of Y-alb-MOF-1?",
+      "answer": "Monoclinic, P2/m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated absolute CO2 adsorption uptake at 25 bar for Y-shp-MOF-1 (Zn)?",
+      "answer": "307 cm3 (STP)·cm-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the organic ligand in Y-shp-MOF-1 metalated after MOF synthesis according to solid-state UV/Vis and IR spectra?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the underlying net topology of RE-shp-MOF-1?",
+      "answer": "(4,12)-connected shp net",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the working storage uptake (5-80 bar) of Y-shp-MOF-1 (Zn) for methane at 298K?",
+      "answer": "199 cm3 (STP)·cm-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the high-pressure CO2 adsorption experiment conducted on Y-alb-MOF-1 at 298K?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystallographic density of MOF-519?",
+      "answer": "0.953 g.cm-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of In-alb-MOF-1 derived from the alb net?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the transitivity of the alb net?",
+      "answer": "2134",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the method used for determining the gas-phase density in high-pressure gas adsorption measurements?",
+      "answer": "Using a volume-calibrated titanium cylinder",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Y-alb-MOF-1 exhibit flexibility upon exposure to various gases according to gas sorption studies?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the RCSR symbol for the alb net?",
+      "answer": "alb",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated absolute methane adsorption uptake at 35 bar for Al-soc-MOF-1 at 298K?",
+      "answer": "128 cm3 (STP)·cm-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the organic ligand in In-alb-MOF-1 disordered over two positions?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination sequence for the 12-connected node in RE-alb-MOF-1?",
+      "answer": "12 20 108 74 312 164 624 290 1044 452",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

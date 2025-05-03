@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the study on metal-organic materials (MOMs)?",
+      "answer": "The study focuses on the assembly of MOMs from metal-based or organic molecular building blocks and organic linkers for applications like gas purification and storage, catalysis, small molecule separations, and chemical sensing.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why are MOMs considered attractive compared to their purely inorganic analogues like zeolites?",
+      "answer": "MOMs are considered attractive due to their modularity, extra-large surface area, and the amenability to fine tuning of composition which affords an exceptional level of control over physicochemical properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the asc topology assigned a unique three-letter code in the RCSR database?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the two-step crystal engineering strategy mentioned in the text?",
+      "answer": "The two-step crystal engineering strategy is significant for generating the first trinodal MOM platform, addressing the difficulties associated with controlling the stoichiometry and order of self-assembly of three or more different MBBs in a one-pot reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the building blocks used in the synthesis of tp-PMBB-1-asc-1?",
+      "answer": "The building blocks used are trigonal-prismatic [Cr3(m3-O)(CO2)6] clusters decorated with six coordinating ligands for tp-PMBB-1, tetrahedral (Zn2+, Cd2+), and three triangular MBBs (1,3,5-benzenetricarboxylic acid, H3btc; 1,3,5-tris(4-carboxyphenyl) benzene, H3btb; 4,4’,4’’-[1,3,5-benzenetriyltris(carbonylimino)] trisbenzoic acid, H3btctb).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the tetrahedral Zn-node in tp-PMBB-1-asc-1 be replaced by another divalent metal cation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the free volume percentage of the framework-accessible space in tp-PMBB-1-asc-1?",
+      "answer": "The framework-accessible free volume was calculated to be 64.8%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the angle between the pyridine moieties at the Zn2+ centers in tp-PMBB-1-asc-2 and tp-PMBB-1-asc-3 compare to tp-PMBB-1-asc-1?",
+      "answer": "The angle is more acute in tp-PMBB-1-asc-2 and tp-PMBB-1-asc-3 due to bidentate coordination by the carboxylate moieties, resulting in a slightly shorter c dimension compared to tp-PMBB-1-asc-1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does tp-PMBB-1-asc-1 exhibit a type I isotherm characteristic of microporous materials?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of tp-PMBB-1-asc-1?",
+      "answer": "The BET surface area of tp-PMBB-1-asc-1 is 1671 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the hydrogen uptake of tp-PMBB-1-asc-1 considered high in the context of MOMs without open metal sites?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to activate tp-PMBB-1-asc-1 for gas adsorption studies?",
+      "answer": "tp-PMBB-1-asc-1 was activated by soaking in hot DMF overnight, followed by immersion in hot acetonitrile before degassing at room temperature for 16 h under dynamic vacuum.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the water stability test on tp-PMBB-1-asc-1 result in any loss of surface area?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of tp-PMBB-1-asc-1 based on Cr?",
+      "answer": "The yield of tp-PMBB-1-asc-1 is approximately 47% based on Cr.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the chemical stability test of tp-PMBB-1-asc-1 involve treatment with hot pyridine?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome of treating tp-PMBB-1-asc-1 with hot pyridine?",
+      "answer": "The treatment of tp-PMBB-1-asc-1 with hot pyridine resulted in the replacement of terminal water ligands at Cr3+ by pyridine in a single-crystal to single-crystal process with retention of structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the primary goal of the two-step synthetic process described for the trinodal MOM platform?",
+      "answer": "The primary goal is to facilitate control over the underlying network of the trinodal system and offer many potential variations of nodes, making the asc topology a fine-tunable platform suited for targeting specific properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the prototype tp-PMBB-1-asc-1 described as exhibiting relatively high uptake of carbon dioxide and hydrogen?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the tetrahedral Zn(CO2)2(py)2 MBBs in the structure of tp-PMBB-1-asc-1?",
+      "answer": "The tetrahedral Zn(CO2)2(py)2 MBBs play a role in sustaining hydrogen-bonded and diamondoid networks, contributing to the formation of the MOM with asc topology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption (Qst) for CO2 in tp-PMBB-1-asc-1?",
+      "answer": "The isosteric heat of adsorption (Qst) for CO2 in tp-PMBB-1-asc-1 was calculated to be about 26 kJ mol-1 at low loading.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

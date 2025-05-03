@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "name": "DTDA",
+      "synthesis_conditions": {
+        "temperature": "75 °C",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "40 mL"
+          },
+          {
+            "name": "glacial acetic acid",
+            "amount": "20 mL"
+          },
+          {
+            "name": "1,4-dioxane/H2O",
+            "amount": "150 mL",
+            "ratio": "V:V = 3:2"
+          }
+        ],
+        "chemicals_used": [
+          "KOH",
+          "hydroquinone",
+          "ethyl bromide",
+          "2,5-dibromophenediethyl ether",
+          "4-(methoxycarbonyl)phenylboronic acid",
+          "K2CO3",
+          "Pd (PPh3)4"
+        ],
+        "time": [
+          "12 hours",
+          "10 hours",
+          "reaction tracked via thin-layer chromatography"
+        ],
+        "yield": "52%",
+        "drying_method": "vacuum concentration"
+      }
+    },
+    {
+      "name": "AQNU-4",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": [
+          {
+            "name": "DMF/CH3OH/H2O",
+            "amount": "6.0 mL",
+            "ratio": "1/2/3"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel autoclave",
+        "chemicals_used": [
+          "DTDA",
+          "TbCl3·6H2O"
+        ],
+        "time": "3 days",
+        "washing_method": "washed with mother liquid",
+        "drying_method": "dried under ambient conditions",
+        "yield": "about 65% based on DTDA"
+      }
+    },
+    {
+      "name": "AQNU-4 activated sample",
+      "synthesis_conditions": {
+        "temperature": "300 °C",
+        "equipment": "vacuum tube furnace",
+        "atmosphere": "argon",
+        "time": "2 hours"
+      }
+    },
+    {
+      "name": "Photocatalytic CO2 reduction",
+      "synthesis_conditions": {
+        "catalyst": "AQNU-4 activated sample",
+        "solvents": [
+          "acetonitrile",
+          "cyclohexanone",
+          "dimethylacetamide (DMA)",
+          "dimethylformamide (DMF)"
+        ],
+        "solvent_amount": "20 mL",
+        "additional_components": "5 mL of triethylamine",
+        "light_source": "xenon lamp with a 400 nm filter",
+        "atmosphere": "high-purity CO2",
+        "products_detected": [
+          "CO",
+          "CH4"
+        ],
+        "detection_methods": [
+          "gas chromatography",
+          "mass spectrometer"
+        ]
+      }
+    }
+  ]
+}

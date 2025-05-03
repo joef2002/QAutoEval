@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of the compound synthesized?",
+      "answer": "C9H9AgN6O3.5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the crystal structure refinement of the synthesized compound?",
+      "answer": "The crystal was solved by direct methods and refined using full-matrix least-squares on F2 (SHELX97).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the synthesized compound's crystal structure?",
+      "answer": "Orthorhombic, space group Fdd2 (No. 43)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the synthesized compound after metalation?",
+      "answer": "94%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the emission maxima wavelength of the synthesized compound when excited at 350 nm?",
+      "answer": "421 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to study the aggregative propensity of the synthesized compound on the graphite surface?",
+      "answer": "Noncontact mode atomic force microscopy (AFM)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using silver nitrate in the synthesis of the compound?",
+      "answer": "Silver nitrate is used for the metalation of 9-AA to form the silver-tethered macrocyclic tetraplex.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of silver affect the fluorescence of the synthesized compound?",
+      "answer": "The presence of silver enhances the fluorescence of the compound, as indicated by the emission observed when excited at 350 nm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the porous central part of the macrocycle in the synthesized compound?",
+      "answer": "The porous central part may have implications for applications such as gas/H2 storage due to its ability to occupy a significant volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the AFM micrograph reveal about the self-aggregation of the synthesized compound?",
+      "answer": "The AFM micrograph reveals a structured deposition and a repetitive zigzag assembly, indicating the compound's propensity to self-assemble.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized compound luminescent?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized compound exhibit significant intrinsic fluorescence without silver?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the solvent molecule in the crystal structure of the synthesized compound refined isotropically?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of the synthesized compound after metalation below 90%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are hydrogen atoms in the crystal structure of the synthesized compound placed at geometrically idealized positions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized compound crystallize in a cubic space group?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the solvent accessible area calculated without fixing the solvent molecule?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis process?",
+      "answer": "DMF is used as a solvent for the synthesis and was distilled, degassed, and bubbled with nitrogen before taking fluorescence measurements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the purity of 9-allyladenine confirmed?",
+      "answer": "The purity of 9-allyladenine was confirmed by spectroscopic analysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the distance analysis from the AFM micrograph indicate about the structure of the synthesized compound?",
+      "answer": "The distance analysis indicates the size and arrangement of the synthesized compound's structure, showing a repetitive pattern that confirms its self-assembling nature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

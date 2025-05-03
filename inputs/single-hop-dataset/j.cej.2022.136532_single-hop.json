@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using flexible ligands in the synthesis of MOFs?",
+      "answer": "The purpose of using flexible ligands in the synthesis of MOFs is to expand the pore size for MOFs and to realize antenna effect simultaneously.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the chemical formula of the flexible ligand used in the study?",
+      "answer": "1,3,5-tris(5-methoxy-1,3-benzene dicarboxylic acid)benzene (L1)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore size of L1-Eu MOF?",
+      "answer": "The pore size of L1-Eu MOF is approximately 18 Å.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density of L1-Eu MOF?",
+      "answer": "The density of L1-Eu MOF is 1.2 g/mL.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the limit of detection (LOD) for PO43- using L1-Eu MOF?",
+      "answer": "The limit of detection (LOD) for PO43- using L1-Eu MOF is 0.183 μM.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the limit of detection (LOD) for ATP using L1-Eu MOF?",
+      "answer": "The limit of detection (LOD) for ATP using L1-Eu MOF is 0.147 μM.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: L1-Eu MOF shows dual-emission under single excitation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the –CH2-O- group in L1-Eu MOF?",
+      "answer": "The –CH2-O- group tunes the energy transfer for dual-emission at 360 and 623 nm from L1-Eu MOF under single excitation of 290 nm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The pore size of MOFs does not affect the response speed and range for target detection.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using L1-Eu MOF for the detection of PO43- and ATP?",
+      "answer": "The main advantage of using L1-Eu MOF for the detection of PO43- and ATP is its ability to provide ratiometric sensing and visible detection due to its dual-emission.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

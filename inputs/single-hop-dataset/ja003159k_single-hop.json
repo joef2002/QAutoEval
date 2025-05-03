@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the material synthesized in the study?",
+      "answer": "Cu2(ATC)·6H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of MOF-11 when synthesized?",
+      "answer": "54%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary design strategy for creating open metal sites in porous materials?",
+      "answer": "Copolymerizing an organic adamantane tetrahedral cluster with an inorganic square cluster.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the geometry of the metal centers in the paddle-wheel cluster motif?",
+      "answer": "Square pyramidal geometry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the expected structure topology resulting from the assembly of squares and tetrahedra?",
+      "answer": "PtS structure topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the thermal stability range of the anhydrous framework of MOF-11?",
+      "answer": "120−260 °C.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using a tetrahedral linker in the design of MOF-11?",
+      "answer": "To efficiently space apart four neighbors, preventing self-aggregation of SBUs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the paddle-wheel cluster motif considered an ideal secondary building unit (SBU)?",
+      "answer": "Because its metal centers are held rigidly, allowing for the creation of accessible open metal sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the removal of axial ligands affect the metal sites in the paddle-wheel cluster motif?",
+      "answer": "It leads to the binding of the metal sites to a Lewis base atom on a neighboring unit, forming cluster dimers or extended chain structures without open metal sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the permanent porosity of anhydrous MOF-11?",
+      "answer": "Fully reversible Type I behavior observed for N2(g) and Ar(g) gas sorption isotherms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the shortest Cu−Cu distance known for Cu(II)−carboxylate compounds found in MOF-11?",
+      "answer": "It indicates a strong antiferromagnetic coupling due to the shortening of the Cu−O distance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural property makes MOF-11 unique compared to other porous materials?",
+      "answer": "It combines a rigid architecture supporting permanent porosity with well-defined periodic arrays of covalently held open metal sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of MOF-11 based on a rigid or flexible framework?",
+      "answer": "Rigid framework.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of MOF-11 involve heating in a basic aqueous solution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the water ligands and guests in MOF-11 occupying more than 50% of the crystal volume?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the anhydrous form of MOF-11 nonporous?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the liberation of water from MOF-11 result in a decrease in its thermal stability?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Cu−Cu distance in the dehydrated form of MOF-11 longer than in its hydrated form?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MOF-11 exhibit antiferromagnetic coupling in both its as-synthesized and anhydrous forms?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

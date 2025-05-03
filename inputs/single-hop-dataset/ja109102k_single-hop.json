@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the tetracationic macrocycle discussed in the text?",
+      "answer": "C54H42N10O24",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of non-covalent interactions are exploited to create complex molecular architectures according to the introduction?",
+      "answer": "Anionic precursors",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What environmental stimuli can 'turn-off' the formation of pseudorotaxane complexes?",
+      "answer": "pH and temperature",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to characterize the interpenetrated constructs described in the article?",
+      "answer": "NMR spectroscopy, mass spectrometry (ESI-MS), and single-crystal X-ray diffraction",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the formation of pseudorotaxane complexes reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Ag(I) in the formation of metal-linked polyrotaxane structures?",
+      "answer": "Ag(I) acts as a metal-linker to lock the pseudorotaxane structures into place, forming an ordered metal-linked polyrotaxane.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the molecular box 14+ adapt its conformation to accommodate different guest species?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CCDC number for the single-crystal X-ray structure of 14+·(10)2·10 H2O?",
+      "answer": "775820",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the addition of triethylamine (TEA) to a solution of 14+ and diacid 5 lead to pseudorotaxane formation?",
+      "answer": "Yes, by converting the guest species to its dianionic form, which leads to pseudorotaxane formation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the pseudorotaxane complexes formed with mono-anionic guest species stable at higher solution concentrations?",
+      "answer": "No, only the complex with mono-terephthalate anion (3) showed evidence of high-order oligomer formation at higher concentrations.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the association constant (Ka) for the complex formed between 14+·4PF6- and the mono-2,6-naphthalenedicarboxylate anion (9)?",
+      "answer": "(2.1 ± 0.1) × 10^3 M^-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of [14+·(10)3·Ag2·16 H2O] represent a metal-linked polyrotaxane?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What conformation does the macrocycle 14+ adopt in the pseudorotaxane complex with the di-2,6-naphthalenedicarboxylate anion (10)?",
+      "answer": "Regular box conformation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formation of pseudorotaxane complexes sensitive to changes in temperature?",
+      "answer": "Yes, as the temperature increases, the extent of complexation is reduced, leading to dethreading of the pseudorotaxane complexes.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of deuterium trifluoroacetic acid (CF3COOD) in the study of pseudorotaxane formation?",
+      "answer": "CF3COOD is used to acidify the solution, leading to dethreading of the pseudorotaxane complexes by neutralizing the dianionic guest species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the threading and dethreading process of pseudorotaxane complexes be repeated multiple times?",
+      "answer": "Yes, but a dampening effect is observed with each cycle due to the buffering capabilities of the solution.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence supports the existence of host/guest interactions in the gas phase?",
+      "answer": "Electrospray mass spectrometry (ESI-MS) experiments showed ions identified as host/guest complexes, confirming that some interactions may exist in the gas phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the primary stabilizing interaction in the pseudorotaxane complex formed with the di-4,4’-biphenyldicarboxylate anion (7)?",
+      "answer": "Anion…π interactions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the molecular box 14+ exhibit flexibility in accommodating anionic guests of different shapes and sizes?",
+      "answer": "Yes, the macrocycle 14+ demonstrates dynamic receptor properties by altering its shape and size to accommodate different guest species.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 'DAD' interactions observed in the extended structures of pseudorotaxane complexes?",
+      "answer": "The 'DAD' (donor-acceptor-donor) interactions are significant as they contribute to the stabilization of the extended structures, leading to the formation of ordered arrays.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

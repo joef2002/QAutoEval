@@ -1,0 +1,158 @@
+{
+  "NOF-1": {
+    "synthesis_method": "Solvo-thermal",
+    "temperature": "100°C",
+    "solvents": [
+      {
+        "name": "DMF",
+        "amount": "5 ml"
+      }
+    ],
+    "equipment": "Sealed microwave vial",
+    "chemicals_used": [
+      {
+        "name": "2-nIm",
+        "amount": "113 mg, 1.0 mmol"
+      },
+      {
+        "name": "Zn(NO3)2 * 6H2O",
+        "amount": "149 mg, 0.5 mmol"
+      }
+    ],
+    "time": "1 hour",
+    "yield": "Not specified",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "NOF-2": {
+    "synthesis_method": "Solvo-thermal",
+    "temperature": "100°C",
+    "solvents": [
+      {
+        "name": "DMF",
+        "amount": "3 ml"
+      }
+    ],
+    "equipment": "Glass tube",
+    "chemicals_used": [
+      {
+        "name": "mnIm",
+        "amount": "25 mg, 0.20 mmol"
+      },
+      {
+        "name": "Zn(NO3)2 * 6H2O",
+        "amount": "21 mg, 0.07 mmol"
+      }
+    ],
+    "time": "48 hours",
+    "yield": "Not specified",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "NOF-3": {
+    "synthesis_method": "Solvo-thermal",
+    "temperature": "100°C",
+    "solvents": [
+      {
+        "name": "DMF-H2O mixture",
+        "amount": "1 ml",
+        "ratio": "v/v 1/1"
+      }
+    ],
+    "equipment": "Glass tube",
+    "chemicals_used": [
+      {
+        "name": "2-Nitroimidazole",
+        "amount": "23 mg, 0.20 mmol"
+      },
+      {
+        "name": "Zn(NO3)2 * 6H2O",
+        "amount": "30 mg, 0.10 mmol"
+      }
+    ],
+    "time": "36 hours",
+    "yield": "Not specified",
+    "washing_method": "Not specified",
+    "drying_method": "Not specified"
+  },
+  "Microcrystalline NOF-1 and NOF-2 powders": {
+    "synthesis_method": "Room temperature reaction",
+    "temperature": "Room temperature",
+    "solvents": [
+      {
+        "name": "DMF/H2O",
+        "amount": "5 ml",
+        "ratio": "v/v, 10/1"
+      }
+    ],
+    "equipment": "Not specified",
+    "chemicals_used": [
+      {
+        "name": "2-nIm or mnIm",
+        "amount": "113 mg, 1.0 mmol or 127 mg, 1.0 mmol"
+      },
+      {
+        "name": "sodium formate",
+        "amount": "136 mg, 2.0 mmol"
+      },
+      {
+        "name": "Zn(NO3)2 * 6H2O",
+        "amount": "149 mg, 0.5 mmol"
+      }
+    ],
+    "time": "18 hours",
+    "yield": "NOF-1: 68 mg, 27%; NOF-2: 35 mg, 13%",
+    "washing_method": "Water (2x15 ml) and DMF (3x15 ml)",
+    "drying_method": "Solvent-exchange with methanol (4x15 ml over 48 h), heated under reduced pressure (80°C, 10 mbar) for 18 h"
+  },
+  "Microcrystalline NOF-3 powder": {
+    "synthesis_method": "Solvo-thermal",
+    "temperature": "100°C",
+    "solvents": [
+      {
+        "name": "DMF",
+        "amount": "10 ml"
+      }
+    ],
+    "equipment": "Microwave irradiation",
+    "chemicals_used": [
+      {
+        "name": "2-Nitroimidazole",
+        "amount": "113 mg, 1.00 mmol"
+      },
+      {
+        "name": "Zn(NO3)2 * 6H2O",
+        "amount": "297 mg, 1.00 mmol"
+      }
+    ],
+    "time": "6 hours",
+    "yield": "200 mg, 90%",
+    "washing_method": "DMF (3x)",
+    "drying_method": "Not specified"
+  },
+  "[Co(2nIm)2]n (ZIF-65)": {
+    "synthesis_method": "Solvo-thermal",
+    "temperature": "120°C",
+    "solvents": [
+      {
+        "name": "DMF",
+        "amount": "4 ml"
+      }
+    ],
+    "equipment": "Glass vial",
+    "chemicals_used": [
+      {
+        "name": "2-Nitroimidazole",
+        "amount": "90 mg, 0.80 mmol"
+      },
+      {
+        "name": "Co(NO3)2 * 6H2O",
+        "amount": "120 mg, 0.40 mmol"
+      }
+    ],
+    "time": "6 hours + cooling to room temperature within 12 hours",
+    "yield": "Not specified",
+    "washing_method": "DMF (3x)",
+    "drying_method": "Not specified"
+  }
+}

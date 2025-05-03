@@ -1,0 +1,98 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "145℃",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "4 mL"
+          },
+          {
+            "name": "anhydrous alcohol",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2BPDC",
+            "amount": "0.0488 g, 0.15 mmol"
+          },
+          {
+            "name": "CuCl2·6H2O",
+            "amount": "0.0123 g, 0.05 mmol"
+          },
+          {
+            "name": "DyCl3·6H2O",
+            "amount": "0.0377 g, 0.1 mmol"
+          }
+        ],
+        "equipment": "Teflon-lined stainless vessel (25 mL)",
+        "yield": "62% (based on DyCl3.6H2O)",
+        "elemental_analysis": {
+          "C": {
+            "calculated": "35.44%",
+            "found": "35.26%"
+          },
+          "H": {
+            "calculated": "2.42%",
+            "found": "2.19%"
+          },
+          "N": {
+            "calculated": "6.89%",
+            "found": "6.54%"
+          }
+        }
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "145℃",
+        "time": "72 h",
+        "solvents": [
+          {
+            "name": "distilled water",
+            "amount": "4 mL"
+          },
+          {
+            "name": "anhydrous alcohol",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "H2BPDC",
+            "amount": "0.0366 g, 0.15 mmol"
+          },
+          {
+            "name": "Cu(NO3)2·6H2O",
+            "amount": "0.0148 g, 0.05 mmol"
+          },
+          {
+            "name": "Dy(NO3)3·6H2O",
+            "amount": "0.0456 g, 0.1 mmol"
+          }
+        ],
+        "equipment": "Teflon-lined stainless vessel (25 mL)",
+        "yield": "45% (based on Dy(NO3)3.6H2O)",
+        "elemental_analysis": {
+          "C": {
+            "calculated": "29.00%",
+            "found": "28.79%"
+          },
+          "H": {
+            "calculated": "3.11%",
+            "found": "3.40%"
+          },
+          "N": {
+            "calculated": "7.51%",
+            "found": "7.65%"
+          }
+        }
+      }
+    }
+  ]
+}

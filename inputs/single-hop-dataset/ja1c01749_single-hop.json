@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MFM-303(Al)?",
+      "answer": "C16H8AlO9·2.75(H2O)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) were the single crystal X-ray diffraction data of MFM-303(Al) collected?",
+      "answer": "120 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum interatomic force after relaxation in the DFT calculations?",
+      "answer": "below 0.001 eV/Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the enthalpy of adsorption for NH3 in MFM-303(Al) determined?",
+      "answer": "By integrating the area under the normalised heat flow curve in Differential Scanning Calorimetry (DSC).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MFM-303(Al) stable after NH3 sorption?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the dynamic NH3 capacity of MFM-303(Al) under dry conditions?",
+      "answer": "2.9 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to simulate the INS spectra for NH3-loaded MFM-303(Al)?",
+      "answer": "Density Functional Theory (DFT) calculations followed by conversion of the phonon results to simulated INS spectra using OClimax software.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield of the synthesis of MFM-303(Al)?",
+      "answer": "59.1 mg (79.6% based on ligand)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of MFM-303(Al) contain defects?",
+      "answer": "There is little evidence for defects based on 1H NMR and TGA analysis.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the enthalpy of adsorption for NH3 in MFM-303(Al) as determined by DSC?",
+      "answer": "61.5 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the dynamic NH3 capacity of MFM-303(Al) under wet conditions?",
+      "answer": "2.4 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the reduction in adsorption capacity of MFM-303(Al) when moving from dry to wet conditions?",
+      "answer": "17%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the surface area of MFM-303(Al) based upon the CO2 isotherm?",
+      "answer": "723 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the NH3 desorption from MFM-303(Al) observed in the TPD experiments?",
+      "answer": "Yes, an uptake of ∼2.4 mmol g-1 was released at ∼150–200 °C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore volume of MFM-303(Al) as determined by DFT/Monte-Carlo fitting?",
+      "answer": "0.150 cm3 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of as-synthesised MFM-303(Al)?",
+      "answer": "Monoclinic, C2/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the free carboxylic and available hydroxyl groups in MFM-303(Al)?",
+      "answer": "They act as binding sites for NH3 to yield a high packing density.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the NH3 uptake in MFM-303(Al) reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal size of MFM-303(Al)?",
+      "answer": "0.05 × 0.05 × 0.02 mm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of defects in the high density of NH3 in MFM-303(Al)?",
+      "answer": "There is little evidence for defects affecting NH3 density based on the analysis provided.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

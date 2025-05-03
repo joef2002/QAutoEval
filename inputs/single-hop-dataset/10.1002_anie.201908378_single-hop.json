@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main strategy introduced for creating hierarchical bi-porous features in MOFs?",
+      "answer": "Ultramicroporous building unit (UBU) strategy.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore size of the octahedral cages used as UBUs in SNNU-45?",
+      "answer": "4.5 c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the C2H2 uptake capacity of SNNU-45 at 1 atm and 273 K?",
+      "answer": "193.0 cm3 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the C2H2/CO2 selectivity of SNNU-45 at 298 K?",
+      "answer": "8.5",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main reason for the ultrahigh C2H2/CO2 selectivity in SNNU-45 according to the text?",
+      "answer": "UBU ultramicropores.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the C2H2 uptake capacity of SNNU-45 at 298 K?",
+      "answer": "134.0 cm3 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main contribution of the packing pores in SNNU-45?",
+      "answer": "Promoting C2H2 uptake capacity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the UBU strategy affect the gas separation performance of SNNU-45?",
+      "answer": "It enhances both the gas uptake capacity and separation performance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does SNNU-45 have a high C2H2 uptake capacity?",
+      "answer": "Due to the alignment of open Co sites in the UBU space and uncoordinated carboxylate O donor sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do the Lewis basic sites play in SNNU-45's performance?",
+      "answer": "They provide strong binding affinity toward C2H2 through hydrogen bonding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is SNNU-45 considered a good candidate for C2H2 storage?",
+      "answer": "Because of its remarkably high uptake capacity at 273 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size of the UBU pores in SNNU-45 contribute to its selectivity for C2H2 over CO2?",
+      "answer": "The UBU pores are perfectly sized to capture C2H2 molecules but too short for CO2 molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What demonstrates the recyclability of SNNU-45 for C2H2 adsorption?",
+      "answer": "No loss of C2H2 adsorption capacity even after five cycles.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the C2H2 uptake capacity of SNNU-45 at 298 K higher than most renowned MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SNNU-45 exhibit a higher C2H2/CO2 selectivity at 298 K compared to benchmark materials like HOF-3a?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the C2H2 adsorption capacity of SNNU-45 at 273 K lower than NJU-Bai17 and ZJU-5?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can SNNU-45 achieve high C2H2 uptake as well as top-level separation efficiency between C2H2 and CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the breakthrough time of SNNU-45 for C2H2/CO2 mixtures at room temperature and 1 atm among the top-performing MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the UBU strategy only improve the C2H2 storage capacity without affecting the separation performance?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the packing pores in SNNU-45 responsible for its high C2H2/CO2 selectivity?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

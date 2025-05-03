@@ -1,0 +1,72 @@
+{
+  "materials": [
+    {
+      "name": "PEO8:NaAsF6",
+      "synthesis_conditions": {
+        "solvent": "acetonitrile",
+        "solvent_amount": "stoichiometric quantities with PEO",
+        "evaporation": "slow",
+        "temperature": [
+          "90°C for 4 hours",
+          "annealed at 50°C for three days"
+        ],
+        "equipment": [
+          "high-integrity argon-filled MBraun glove box",
+          "liquid N2 temperature for grinding"
+        ],
+        "chemicals_used": [
+          "NaAsF6 (Alfa Aesar, 99%)",
+          "PEO (methoxy end-capped, average Mn = 1,000)"
+        ],
+        "drying_method": "dried before use",
+        "yield": "formation of single crystals"
+      }
+    },
+    {
+      "name": "PEO8:NaPF6",
+      "synthesis_conditions": {
+        "solvent": "acetonitrile",
+        "solvent_amount": "stoichiometric quantities with PEO",
+        "evaporation": "slow",
+        "temperature": [
+          "90°C for 4 hours",
+          "annealed at 50°C for three days"
+        ],
+        "equipment": [
+          "high-integrity argon-filled MBraun glove box",
+          "liquid N2 temperature for grinding"
+        ],
+        "chemicals_used": [
+          "NaPF6 (Alfa Aesar, 99%)",
+          "PEO (methoxy end-capped, average Mn = 1,000)"
+        ],
+        "drying_method": "dried before use",
+        "yield": "formation of single crystals"
+      }
+    },
+    {
+      "name": "PEO8:KAsF6",
+      "synthesis_conditions": {
+        "method": "solvent-casting",
+        "solvent": "not specified",
+        "chemicals_used": [
+          "KAsF6 (ABCR, 99.5%)",
+          "PEO (methoxy end-capped, average Mn = 1,000)"
+        ],
+        "drying_method": "dried before use"
+      }
+    },
+    {
+      "name": "PEO8:RbAsF6",
+      "synthesis_conditions": {
+        "method": "solvent-casting",
+        "solvent": "not specified",
+        "chemicals_used": [
+          "RbAsF6 (ABCR, 98%)",
+          "PEO (methoxy end-capped, average Mn = 1,000)"
+        ],
+        "drying_method": "dried before use"
+      }
+    }
+  ]
+}

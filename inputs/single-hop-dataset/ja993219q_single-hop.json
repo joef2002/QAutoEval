@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "2000",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the study?",
+      "answer": "Makoto Fujita",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main goal of using panel-like ligand 1 in the study?",
+      "answer": "To give polytube structures with no possibility of interpenetration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Ligand 1 assembles into a molecular tube structure in solution with a (en)Pd2+ building block.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the guest-occupied volume percentage in the polytube structure of complex 2?",
+      "answer": "32%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The polytube structures of complexes 3 and 4 have the same guest-occupied volume percentage.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the approximate diameter of the tubes in complex 2?",
+      "answer": "8 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of aniline affect the formation of polytube structures?",
+      "answer": "It fails to induce a 3D-polytube and results in the single crystals of 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu2I2 unit is noncoplanar in complex 2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What temperature does the guest liberate from complex 4?",
+      "answer": "145 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The network of complex 4 maintains its integrity up to 300 °C.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pitch length of the 1D-helical network in complexes 3 and 4?",
+      "answer": "14 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The coordination environment of the basic building blocks of 2 and 3 or 4 is different.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of C−H···N hydrogen bonds in the structure of complex 4?",
+      "answer": "They form a dimer via hydrogen bonds which is crucial for inducing the 3D-network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Cu−Cu and Cu−I distances are the same in complexes 2, 3, and 4.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of different organic guests on the polytube structures?",
+      "answer": "They template the polytube structures, resulting in different connectivities and guest-occupied volumes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The formation of dimers by guest molecules is not a crucial factor for inducing the 3D-network in complex 4.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the I−Cu−I−Cu torsion angle in the 3D-network of complex 4?",
+      "answer": "0°",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How are the binding sites of ligand 1 distributed in the 3D-network of complex 4?",
+      "answer": "Evenly distributed, six on each side, on both sides of Cu2N4 plane.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of CH3CN prevents the formation of a 3D-network in the complexes.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

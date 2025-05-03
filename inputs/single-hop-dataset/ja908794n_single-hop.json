@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the role of the porous coordination network in the experiment?",
+      "answer": "The porous coordination network acts as a heterogeneous catalyst for the trans−cis isomerization of retinal.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent mixture was used to crystallize the coordination network [(ZnI2)3(TPT)2·x(G)]n?",
+      "answer": "A 4:1 nitrobenzene/methanol solvent mixture was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the color of the crystals when retinal diffuses into them?",
+      "answer": "The pale-yellow crystals immediately turn orange.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How was the all-trans/13-cis ratio of retinal determined after the isomerization reaction?",
+      "answer": "The ratio was determined by 1H NMR spectroscopy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the turnover number estimated for the all-trans to 13-cis isomerization?",
+      "answer": "The turnover number was estimated to be approximately 90 per (ZnI2)3(TPT)2 unit.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What indicates the presence of retinal in the network pores according to X-ray crystallographic analysis?",
+      "answer": "Two crystallographically independent retinal molecules (A and B) were observed in single crystals of the network.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome when a similar complex with no absorption property for retinal was tested?",
+      "answer": "The similar complex did not show any catalytic activity for the retinal isomerization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was the experiment carried out under an Ar atmosphere and in the dark?",
+      "answer": "Because retinal is easily photoisomerized, the experiment was conducted under conditions to prevent this.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of changing the solvent to t-BuOH on the guest exchange rate?",
+      "answer": "Changing the solvent to t-BuOH reduced the guest exchange rate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of immersing the tiny block-shaped crystals in an orange cyclohexane solution of all-trans retinal?",
+      "answer": "The purpose was to observe the rapid diffusion of retinal into the crystal pores and its isomerization catalyzed by the porous network.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of the leaching test?",
+      "answer": "The leaching test indicated the heterogeneous catalysis of the crystals: the all-trans to 13-cis isomerization was hampered when the catalyst crystals were removed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the composition of the crystals after treatment with retinal?",
+      "answer": "The composition was {[(ZnI2)3(TPT)2]·(retinal)1.1·(cyclohexane)}n.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The isomerization reaction occurred on the surface of the crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The isomerization of retinal was catalyzed by only a trace amount of crystals of a porous network.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The pores of the network initially contained cyclohexane.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The isomerization did not occur in the absence of crystalline network 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The all-trans/13-cis ratio of retinal was the same before and after the isomerization reaction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The related ZnI2−TPT complex with smaller pores showed catalytic activity for the retinal isomerization.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ESR analysis showed the presence of radical species in the retinal-containing crystals.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

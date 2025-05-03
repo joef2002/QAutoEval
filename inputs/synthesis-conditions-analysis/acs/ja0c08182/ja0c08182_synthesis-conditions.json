@@ -1,0 +1,195 @@
+{
+  "materials": [
+    {
+      "name": "M2biQ",
+      "synthesis_conditions": {
+        "temperature": "reflux for one day",
+        "solvents": [
+          {
+            "name": "absolute ethanol",
+            "amount": "25 mL"
+          },
+          {
+            "name": "TFA",
+            "amount": "25 mL"
+          }
+        ],
+        "equipment": "50 mL round-bottomed flask equipped with a condenser and nitrogen inlet",
+        "chemicals_used": [
+          {
+            "name": "potassium hydroxide",
+            "amount": "0.12 g, 2.1 mmol"
+          },
+          {
+            "name": "1,2-cyclohexanedione",
+            "amount": "0.74 g, 6.6 mmol"
+          },
+          {
+            "name": "2-amino-3-methoxybenzaldehyde",
+            "amount": "1.97 g, 13 mmol"
+          }
+        ],
+        "time": "one day",
+        "washing_method": "ether",
+        "drying_method": "vacuum for one day",
+        "yield": "2.17 g of a TFA salt of the ligand M2biQ",
+        "characterization": {
+          "1H_NMR": [
+            {
+              "solvent": "DMSO",
+              "frequency": "800 MHz",
+              "shifts": [
+                "8.34 (s, 2H, H5)",
+                "7.57 (t, J = 7.9 Hz, J’ = 7.7 Hz,  2H, H3)",
+                "7.54 (d, J = 8.0 Hz, 2H, H4)",
+                "7.19 (d, J = 7.4 Hz, 2H H2)",
+                "3.97 (s, 6H, 2xOCH3)",
+                "3.19 (s, 4H, 2xArCH2)"
+              ]
+            },
+            {
+              "solvent": "CDCl3",
+              "frequency": "600 MHz",
+              "shifts": [
+                "7.99 (s, 2H, H5)",
+                "7.45 (t, J = 7.9 Hz, 2H, H3)",
+                "7.33 (d, J = 8.1 Hz, 2H, H4)",
+                "7.00 (d, J = 7.7 Hz, 2H, H2)",
+                "4.11 (s, 6H, 2xOCH3)",
+                "3.24 (s, 4H, 2xArCH2)"
+              ]
+            }
+          ],
+          "13C_NMR": {
+            "solvent": "CDCl3",
+            "frequency": "150 MHz",
+            "shifts": [
+              "156.4 (C)",
+              "151.4 (C)",
+              "140.4 (C)",
+              "134.5 (CH)",
+              "133.4 (C)",
+              "129.6 (C)",
+              "127.6 (CH)",
+              "118.7 (CH)",
+              "107.2 (CH)",
+              "77.2 (CHCl3)",
+              "55.8 (OCH3)",
+              "28.8 (ArCH2)"
+            ]
+          },
+          "IR": {
+            "medium": "KBr",
+            "frequencies": [
+              "2942 (s)",
+              "2840 (s)",
+              "1630 (s)",
+              "1556 (s)",
+              "1491 (s)",
+              "1466.4 (s)",
+              "1382 (s)",
+              "1354 (s)",
+              "1266 (s)",
+              "1174 (s)",
+              "1155 (s)",
+              "1093 (s)",
+              "1024 (s)",
+              "918 (m)",
+              "765.0 (s)",
+              "739 (s)",
+              "715 (s)"
+            ]
+          },
+          "HRMS": {
+            "mode": "M+Na+",
+            "calculated": "365.1266",
+            "measured": "365.1255"
+          },
+          "Elemental_analysis": {
+            "calculated": "C 77.17%, H 5.30 %, N 8.18 %",
+            "found": "C 76.76 %, H 6.04 %, N 8.36 %"
+          }
+        }
+      }
+    },
+    {
+      "name": "M2biQ·Ca2+",
+      "synthesis_conditions": {
+        "solvents": "MeCN",
+        "chemicals_used": [
+          {
+            "name": "calcium perchlorate hydrate",
+            "amount": "0.534 g, 2.08 mmol"
+          },
+          {
+            "name": "M2biQ",
+            "amount": "0.232 g, 0.68 mmol"
+          }
+        ],
+        "method": "A solution of M2biQ in hot MeCN was added to a warm solution of calcium perchlorate hydrate in MeCN."
+      }
+    },
+    {
+      "name": "M2biQ·Zn2+",
+      "synthesis_conditions": {
+        "solvents": "MeCN",
+        "chemicals_used": [
+          {
+            "name": "zinc perchlorate dihydrate",
+            "amount": "0.096 g, 0.44 mmol"
+          },
+          {
+            "name": "creatinine",
+            "amount": "0.051 g, 0.45 mmol"
+          },
+          {
+            "name": "M2biQ",
+            "amount": "0.14 g, 0.41 mmol"
+          }
+        ],
+        "method": "A solution of zinc perchlorate dihydrate and creatinine in MeCN and water was heated and added to a hot solution of M2biQ in MeCN."
+      }
+    },
+    {
+      "name": "(M2biQ)2·Zn2+",
+      "synthesis_conditions": {
+        "solvents": [
+          "CHCl3",
+          "MeCN",
+          "MeOH"
+        ],
+        "chemicals_used": [
+          {
+            "name": "zinc perchlorate hexahydrate",
+            "amount": "0.046 g, 0.17 mmol"
+          },
+          {
+            "name": "M2biQ",
+            "amount": "0.054 g, 0.16 mmol"
+          }
+        ],
+        "method": "A solution of M2biQ in CHCl3 was added to a solution of zinc perchlorate hexahydrate in MeCN. The mixture was heated, dissolved by adding MeOH, and allowed to cool down slowly."
+      }
+    },
+    {
+      "name": "M2biQ·H+",
+      "synthesis_conditions": {
+        "solvents": [
+          "CD3CN",
+          "D2O"
+        ],
+        "chemicals_used": [
+          {
+            "name": "aluminum chloride monohydrate",
+            "amount": "0.13 g, 2.6x10-4 mol"
+          },
+          {
+            "name": "M2biQ",
+            "amount": "0.017 g, 5.0x10-5 mol"
+          }
+        ],
+        "method": "A solution of M2biQ in CD3CN was added to a solution of aluminum chloride monohydrate in D2O. The mixture was allowed to stand for several weeks to form crystals."
+      }
+    }
+  ]
+}

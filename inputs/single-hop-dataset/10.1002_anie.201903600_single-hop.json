@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the novel 3D metal-organic framework discussed?",
+      "answer": "BSF-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the main components used in the synthesis of BSF-1?",
+      "answer": "CuB12H12 and 1,2-bis(4-pyridyl)acetylene",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to study the permanent microporous structure of BSF-1?",
+      "answer": "X-ray crystallography",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gases showed excellent separation selectivities when using BSF-1?",
+      "answer": "C3H8/CH4, C2H6/CH4, and C2H2/CH4",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the [B12H12]2- dianion in the structure of BSF-1?",
+      "answer": "It serves as a counterion and maintains the 3D framework as a spherical pillar.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of BSF-1?",
+      "answer": "535 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the discovery of BSF-1 for gas separation applications?",
+      "answer": "BSF-1 exhibits excellent separation selectivities for certain gas mixtures, making it suitable for real industrial applications.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does BSF-1 compare to other materials for the separation of light alkanes?",
+      "answer": "BSF-1 exhibits quite different sorption behavior for CH4, C2H6, and C3H8, indicating a good separation performance for C3H8/CH4 and C2H6/CH4.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is BSF-1 considered a unique SOF?",
+      "answer": "Because it is interconnected by nonclassical hydrogen interactions such as B@H···M interactions and B@Hd@···Hd+@C interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes BSF-1 suitable for real industrial applications?",
+      "answer": "Its good cyclability and high water/thermal stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was BSF-1 prepared?",
+      "answer": "By stirring a mixture of Na2[B12H12], CuNO3·3 H2O, and bpa in MeOH/H2O for 24 h at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the pcu network in BSF-1?",
+      "answer": "It features rhombohedral cavities that enable twofold interpenetration, contributing to the material's porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is BSF-1's structure maintained after activation and evacuation under vacuum?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does BSF-1 have a higher affinity for C2H2 compared to CO2 and C2H4?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is BSF-1's gas separation performance for C3H8/CH4 and C2H6/CH4 confirmed by dynamic breakthrough experiments?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does BSF-1 lose its porous structure after soaking in water?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is BSF-1's thermal stability confirmed up to 800 88C?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does BSF-1 exhibit a BET surface area of over 1000 m2 g-1?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is BSF-1 considered the fifth family of HUMs?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can BSF-1 be used as a carbon precursor for carbonization?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

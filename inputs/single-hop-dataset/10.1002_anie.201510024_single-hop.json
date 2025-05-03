@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound that undergoes a phase transition at 357 K?",
+      "answer": "[CH3CH2NH3][Cu(HCOO)3]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does [CH3CH2NH3][Cu(HCOO)3] transition from a perovskite to a diamond structure?",
+      "answer": "357 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the backward transition from diamond to perovskite structure in [CH3CH2NH3][Cu(HCOO)3] be driven by cooling under ambient pressure?",
+      "answer": "No, it cannot be driven by cooling under ambient or lower pressure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What drives the backward phase transition in [CH3CH2NH3][Cu(HCOO)3] from diamond to perovskite structure?",
+      "answer": "Pressure at room temperature",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the phase transition from perovskite to diamond in [CH3CH2NH3][Cu(HCOO)3] reversible?",
+      "answer": "No, the transition is irreversible by heating but can be reversed by applying pressure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural changes occur in [CH3CH2NH3][Cu(HCOO)3] during the phase transition?",
+      "answer": "Rearrangement of one long copper–formate bond, switch of bridging-chelating mode of the formate, alternation of N¢H···O H-bonds, and flipping of ethylammonium.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What locks the metastable diamond phase of [CH3CH2NH3][Cu(HCOO)3] below the transition temperature?",
+      "answer": "The strong N¢H···O H-bonding",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do the two phases of [CH3CH2NH3][Cu(HCOO)3] display different magnetic and electric orderings?",
+      "answer": "Yes, the two phases display magnetic and electric orderings of different characters.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of pressure in the phase transition of [CH3CH2NH3][Cu(HCOO)3]?",
+      "answer": "Pressure at room temperature can drive the backward transition from diamond to perovskite structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the HTLD phase of [CH3CH2NH3][Cu(HCOO)3] stable at room temperature?",
+      "answer": "Yes, the HTLD phase is stable at room temperature for a long time.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the HTLD samples of [CH3CH2NH3][Cu(HCOO)3] when pressed?",
+      "answer": "The P-driven backward transition to LTHD occurs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the cavity volume change from LTHD to HTLD phase in [CH3CH2NH3][Cu(HCOO)3]?",
+      "answer": "The cavity space for one cation in HTLD is 80 Ł3, 18 Ł3 larger than that in LTHD.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the dielectric constant of LTHD and HTLD phases?",
+      "answer": "The dielectric constant increases with temperature for both phases, with a more significant rise observed for LTHD around the phase transition temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase transition in [CH3CH2NH3][Cu(HCOO)3] considered a first-order transition?",
+      "answer": "Yes, the prominent DH and DS values indicate a probable first-order transition.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What confirms the spin-canted antiferromagnetic orderings in both phases of [CH3CH2NH3][Cu(HCOO)3]?",
+      "answer": "The zero-field-cooling and field-cooling runs, isothermal magnetizations, and ac susceptibilities.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Nƒel temperature (TN) differ between the LTHD and HTLD phases?",
+      "answer": "The Nƒel temperatures are 3.7 K for LTHD and 2.1 K for HTLD.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the transition from LTHD to HTLD phase involve a change in the framework topology?",
+      "answer": "Yes, the framework changes from LTHD perovskite to HTLD diamond by a bond rearrangement.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of N¢H···O H-bonds in the phase transition of [CH3CH2NH3][Cu(HCOO)3]?",
+      "answer": "They probably relate to the apparent T-irreversibility of the transition by prohibiting Cu¢O bond rearrangement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the dielectric responses of both phases on cooling from 300 K?",
+      "answer": "Both phases showed low and featureless dielectric responses on cooling from 300 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the HTLD phase of [CH3CH2NH3][Cu(HCOO)3] considered non-polar or antiferroelectric?",
+      "answer": "Yes, the HTLD phase is considered non-polar or antiferroelectric.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

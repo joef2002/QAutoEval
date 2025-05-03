@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the manuscript?",
+      "answer": "The main focus of the manuscript is describing the breathing behavior of a TTF containing MOF as a function of redox.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the linker in the MOF upon oxidation with I2?",
+      "answer": "Upon oxidation with I2, the linker changes from bent to linear on going from TTF to TTF+.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What compounds are reported to exhibit breathing as a function of N2 uptake?",
+      "answer": "Compounds 1 and 2 are reported to exhibit breathing as a function of N2 uptake.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the breathing behavior of compound 2 reversible?",
+      "answer": "Yes, the breathing behavior of compound 2 is fully reversible for at least three adsorption-desorption cycles.",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the breathing behavior in the reported MOFs?",
+      "answer": "The breathing behavior in the reported MOFs is triggered by the adsorption or desorption of guest molecules.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does oxidation affect the flexibility of the linker in compound 2?",
+      "answer": "Oxidation turns off the flexibility of the linker in compound 2 by forming a fully conjugated aromatic system, which results in the loss of breathing behavior.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of counterions in the breathing behavior of compound 2?",
+      "answer": "The counterions play an important role in the breathing behavior of compound 2 by potentially influencing the framework's ability to undergo structural changes upon guest adsorption.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the breathing behavior of MOFs be controlled by redox chemistry?",
+      "answer": "Yes, the breathing behavior of MOFs can be controlled by redox chemistry.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the electrical conductivity of compounds 1 and 2 upon oxidation?",
+      "answer": "The electrical conductivity of compounds 1 and 2 significantly improves upon oxidation.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the oxidation of TTF moieties in compounds 1 and 2 reversible?",
+      "answer": "Yes, the oxidation of TTF moieties in compounds 1 and 2 is reversible.",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What effect does cation exchange have on the breathing behavior of compound 2?",
+      "answer": "Cation exchange has a significant effect on the breathing behavior of compound 2, as different counterions can influence the framework's flexibility and porosity.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural changes occur in compound 2 upon oxidation with I2?",
+      "answer": "Upon oxidation with I2, compound 2 undergoes dramatic structural changes, including a change in crystal system and space group, along with the rigidification of the TTFTB linker.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the manuscript describe any applications for the redox-switchable breathing MOFs?",
+      "answer": "Yes, the manuscript suggests that redox-switchable breathing MOFs could lead to new adsorbents and facilitate applications in gas storage, separation, molecular sensing, and switchable catalysis.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the breathing behaviors of compounds 1 and 2 triggered by the same mechanism?",
+      "answer": "No, the breathing behaviors of compounds 1 and 2 are triggered by different mechanisms.",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the TTF moiety in the MOFs discussed in the manuscript?",
+      "answer": "The TTF moiety is significant because it acts as a redox-active trigger that can control the flexibility of the MOF's framework, thereby influencing its breathing behavior.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the manuscript contribute to the field of MOF research?",
+      "answer": "The manuscript contributes to the field of MOF research by demonstrating a novel approach to controlling the breathing behavior of MOFs through redox chemistry, potentially opening up new applications for these materials.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques are used to study the redox behavior of the MOFs?",
+      "answer": "Experimental techniques used to study the redox behavior of the MOFs include cyclic voltammetry, solid state UV-Vis-NIR spectroscopy, EPR studies, and magnetic susceptibility measurements.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the manuscript's focus on redox-switchable breathing behavior in MOFs a novel area of study?",
+      "answer": "Yes, the manuscript's focus on redox-switchable breathing behavior in MOFs represents a novel area of study.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges does the manuscript identify in controlling the breathing behavior of MOFs?",
+      "answer": "The manuscript identifies challenges in precisely controlling the breathing behavior of MOFs, including the need to understand the role of counterions and the reversible nature of redox-induced structural changes.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the manuscript provide a comprehensive study of the MOFs' properties and behaviors?",
+      "answer": "Yes, the manuscript provides a comprehensive and detailed study of the MOFs' properties and behaviors, including their breathing mechanisms, redox behavior, and the effects of counterions.",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    }
+  ]
+}

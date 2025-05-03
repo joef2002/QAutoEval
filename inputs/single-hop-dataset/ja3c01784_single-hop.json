@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the research presented in the article?",
+      "answer": "The main goal is to develop adsorbents with multiple merits in capacity, selectivity, mass transfer, and stability for C2H2/CO2 separation to produce high-purity C2H2 for advanced polymers and the electronic industry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the names of the two new hydrolytically stable MOFs prepared in the study?",
+      "answer": "ZUL-330 and ZUL-430.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the adsorption kinetics tests?",
+      "answer": "The adsorption kinetics curves were measured by the Vacuum Vapor/Gas Sorption Analyzer (BDS-VVS, Beishide Instrument Technology (Beijing) Co., Ltd).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the highest IAST selectivity achieved by ZUL-330 for C2H2/CO2 separation?",
+      "answer": "10086 for C2H2/CO2 (50/50, v/v) separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study achieved the highest selectivities and extraordinary dynamic C2H2 capacities for C2H2/CO2 mixtures with different proportions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for powder X-ray diffraction structure analysis?",
+      "answer": "PXRD data were collected on a SHIMADZU XRD-6000 diffractometer with an operating power of 40 kV, 30 mA.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the vertex strategy in the development of MOFs for gas separation?",
+      "answer": "The vertex strategy involves rationally designing the vertex groups of a wavy-shaped 2D framework to create the optimal inter- and intralayer space, realizing simultaneous improvement of adsorption thermodynamics and kinetics.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZUL-330 and ZUL-430 showed good hydrothermal stability.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the dynamic C2H2 capacity of ZUL-330 for C2H2/CO2 (50/50, v/v) mixture?",
+      "answer": "5.67 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the contributions of disordered solvent molecules treated in the single-crystal X-ray diffraction analysis?",
+      "answer": "The contribution of disordered solvent molecules was treated as diffuse using the Squeeze routine implemented in Platon.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's strategy and methods can only be applied to C2H2/CO2 separation and not to other challenging gas mixtures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of ZUL-330 when synthesized?",
+      "answer": "82% yield based on Cu.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main challenge in C2H2/CO2 separation addressed by the study?",
+      "answer": "The main challenge was developing adsorbents that combine high adsorption capacity with high selectivity, quick mass transfer, and good stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The separation performance of the MOFs was hardly affected by moisture in the breakthrough experiments.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main computational method used for exploring the thermodynamics and kinetics of guest molecules in MOFs?",
+      "answer": "First-principles dispersion-corrected density functional theory (DFT-D) was adopted.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study achieved polymer-grade and electronic-grade C2H2 with productivities of up to ∼6 mmol cm-3.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of layered 2D MOFs over traditional porous materials according to the study?",
+      "answer": "Layered 2D MOFs can possess superior water stability owing to the higher degree of structural freedom and offer more possibilities for fine regulation of the pore structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings are limited to laboratory-scale experiments and have not been tested for industrial applications.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main experimental technique used for gas adsorption measurements in the study?",
+      "answer": "Gas adsorption measurements were conducted on a Micromeritics 3Flex surface area analyzer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the study address the issue of solvent molecules in the MOF structures?",
+      "answer": "The study used methanol exchange and activation processes to remove solvent molecules from the MOF structures before gas adsorption measurements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

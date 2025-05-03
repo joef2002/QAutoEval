@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the anionic MOF discussed in the text?",
+      "answer": "NH4[Cu3(m3-OH)(m3-4-carboxypyrazolato)3]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of NH4@1 allows for the selective separation of gases and vapors?",
+      "answer": "The fully accessible porous structure and the easy tuning of the shape, size, and chemical nature of its pores.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NH4@1 remains unaltered in boiling organic solvents and aqueous solutions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum temperature at which the NH4@1 framework remains stable in air?",
+      "answer": "553 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the ion-exchange process affect the adsorption capacity of NH4@1?",
+      "answer": "The ion-exchange process leads to profound changes in the textural properties, reducing the adsorption capacity and pore surface.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NH4@1 material can efficiently separate CO2/C2H2 mixtures at any temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of exchanging NH4+ with Et3NH+ on the BET surface area of NH4@1?",
+      "answer": "The BET surface area diminishes from 680 m2 g-1 for NH4@1 to 505 and 510 m2 g-1 for Me3NH@1 and Et3NH@1, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NH4@1 shows catalytic activity in the oxidation of cyclohexene and cyclohexane.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of cyclohexanone from the reaction of cyclohexane with tBuOOH in the presence of NH4@1?",
+      "answer": "4%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the temperature affect the separation efficiency of CO2 and C2H2 using NH4@1?",
+      "answer": "At low temperatures, acetylene is more tightly retained than carbon dioxide, but at higher temperatures, the reverse is true.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NH4@1 framework undergoes significant stress during heating.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to NH4@1 when exposed to a benzene/cyclohexane mixture?",
+      "answer": "It shows significant enrichment of the adsorbate phase in the benzene component.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ion-exchange process with Et3NH+ increases the size-exclusion selectivity of NH4@1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the breakthrough time for CO2 in a CO2/CH4 mixture using NH4@1 at 273 K?",
+      "answer": "Approximately 150 seconds",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NH4@1 material can be recovered intact after the catalytic run.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the adsorption of CO2 and C2H2 on NH4@1?",
+      "answer": "The adsorption temperature significantly influences the efficiency of CO2/C2H2 separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NH4@1 framework is anionic.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of ion exchange on the separation selectivity towards benzene/cyclohexane mixtures?",
+      "answer": "Ion exchange increases the selectivity towards benzene, enriching the adsorbate phase in the benzene component.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the composition of the adsorbed benzene/cyclohexane phase on NH4@1?",
+      "answer": "A 5:1 ratio of benzene to cyclohexane.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NH4@1 material shows no copper leaching after the catalytic test.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

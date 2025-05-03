@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the clusters found in DUT-9?",
+      "answer": "{Ni5(m3-O)2(O2C)6}",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is essential for obtaining DUT-9 in a solvent-free manner?",
+      "answer": "Supercritical drying (SCD) using CO2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the specific pore volume of DUT-9-SCD calculated from the nitrogen adsorption isotherm?",
+      "answer": "1.77 cm3 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum hydrogen excess uptake of DUT-9-SCD at 45 bar?",
+      "answer": "4.99 wt %",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum methane excess uptake of DUT-9-SCD at 100 bar and 25°C?",
+      "answer": "188 mg g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximal volumetric methane storage capacity of DUT-9-SCD?",
+      "answer": "124 cm3 cm-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using supercritical drying (SCD) in the synthesis of DUT-9?",
+      "answer": "To remove the solvent without collapse of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why can't the framework of DUT-9 be restored by resolvation with DEF after partial collapse?",
+      "answer": "Because the framework partially collapses during the conventional removal procedure of heating in vacuum, affecting its stability and porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the additional activation of DUT-9-SCD by heating in vacuum affect its nitrogen uptake?",
+      "answer": "It leads to a partial removal of coordinated solvent molecules, thus giving rise to a significantly increased nitrogen uptake.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is DUT-9 considered a novelty in MOF chemistry?",
+      "answer": "Because it has a high concentration of open metal sites per cluster and a very high porosity that is unknown for nickel-containing MOFs to date.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes DUT-9 a promising material for gas storage?",
+      "answer": "Its remarkable pore volume and the presence of open metal sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the pore size distribution of DUT-9-SCD correlate with the crystal structure of DUT-9?",
+      "answer": "The pore size distribution based on low-pressure nitrogen adsorption isotherms reveals two maxima that are in good agreement with the pore diameters estimated from the crystal structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is DUT-9 stable at temperatures up to 200°C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the framework of DUT-9 be restored by resolvation with DEF after it partially collapses?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DUT-9 have the highest specific surface area among all MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the pore volume of DUT-9-SCD among the highest values reported for MOFs to date?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DUT-9-SCD have a higher methane storage capacity than CPO-27-Ni?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the volumetric methane storage capacity of DUT-9-SCD higher than that of PCN-14?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DUT-9-SCD store more n-butane than HKUST-1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is DUT-9 synthesized without the use of supercritical drying (SCD)?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

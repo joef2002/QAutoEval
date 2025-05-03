@@ -1,0 +1,106 @@
+{
+  "materials": [
+    {
+      "name": "NCU-100 or UTSA-300-Cu",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "5.0 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "5.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dps",
+            "amount": "0.054 g, 0.286 mmol"
+          },
+          {
+            "name": "Cu (BF4)2·xH2O",
+            "amount": "0.066 g, 0.26 mmol"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount": "0.046 g, 0.26 mmol"
+          }
+        ],
+        "time": "48 h",
+        "temperature": "room temperature",
+        "washing_method": "methanol",
+        "drying_method": "high vacuum at room temperature for 24 h"
+      }
+    },
+    {
+      "name": "NCU-100",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "1.0 mL"
+          },
+          {
+            "name": "aqueous solution",
+            "amount": "1.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "dps",
+            "amount": "0.011 g, 0.057 mmol"
+          },
+          {
+            "name": "Cu(BF4)2·xH2O",
+            "amount": "0.013 g, 0.052 mmol"
+          },
+          {
+            "name": "(NH4)2SiF6",
+            "amount": "0.009 g, 0.052 mmol"
+          }
+        ],
+        "time": "4 days",
+        "temperature": "room temperature",
+        "method_details": "slow diffusion of methanol solution into aqueous solution in a watch glass without stirring"
+      }
+    },
+    {
+      "name": "NCU-100a",
+      "activation": {
+        "method": "evacuated under high vacuum",
+        "time": "72 h",
+        "temperature": "room temperature (298 K)"
+      },
+      "gas_adsorption_measurements": {
+        "equipment": "Micromeritics ASAP 2460 adsorption apparatus",
+        "temperature": [
+          "77 K",
+          "195 K"
+        ],
+        "gases_used": [
+          "helium (99.999%)",
+          "acetylene (>99%)",
+          "ethylene (99.99%)",
+          "nitrogen (99.999%)"
+        ]
+      }
+    },
+    {
+      "name": "NCU-100a",
+      "breakthrough_experiments": {
+        "gas_mixture": [
+          "1/99 (v/v) C2H2/C2H4",
+          "50/50 (v/v) C2H2/C2H4"
+        ],
+        "flow_rate": "2.0 mL min–1",
+        "temperature": "298 K",
+        "pressure": "1.01 bar",
+        "sample_amount": "0.8988 g",
+        "column_dimensions": "Φ 6.3 × 140 mm",
+        "carrier_gas": "helium (≥ 99.999%)",
+        "regeneration_method": "He flow of 15 mL min–1 at 298 K"
+      }
+    }
+  ]
+}

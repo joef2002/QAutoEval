@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the synthesized porous coordination polymer?",
+      "answer": "[Fe2(1,4-BDC)2(dabco)]·4DMF, denoted as 1DMF",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What atmosphere is required for the synthesis of 1DMF?",
+      "answer": "An Ar atmosphere is required for the synthesis of 1DMF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of 1DMF based on FeCl2?",
+      "answer": "The yield of 1DMF is 80% based on FeCl2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the single crystal X-ray diffraction measurement performed?",
+      "answer": "The single crystal X-ray diffraction measurement was performed at 223 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of 1DMF?",
+      "answer": "The space group of 1DMF is I4/mcm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using 57Fe Mössbauer spectroscopy in the study?",
+      "answer": "The purpose of using 57Fe Mössbauer spectroscopy is to determine the oxidation state of the Fe ions in the compound.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area calculated from the N2 adsorption isotherm?",
+      "answer": "The BET surface area calculated from the N2 adsorption isotherm is 1600 m2 g-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the diiron paddlewheel unit considered challenging to use in constructing PCPs?",
+      "answer": "The diiron paddlewheel unit is challenging to use in constructing PCPs due to its tendency to form polynuclear iron species during synthesis and its reactivity with O2 and H2O.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What changes occur to 1DMF upon heating at 393 K under dynamic vacuum for 4 hours?",
+      "answer": "Upon heating at 393 K under dynamic vacuum for 4 hours, guest DMF molecules are effectively removed from 1DMF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Fe-Fe distance in the diiron paddlewheel unit?",
+      "answer": "The Fe-Fe distance is significant because it falls into the typical range of Fe-Fe interatomic distances observed in other diiron paddlewheel structures, indicating the formation of a diiron paddlewheel unit.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the synthesis environment affect the purity of the product?",
+      "answer": "The synthesis environment, specifically the strict control of the anaerobic environment and the excess amount of the dabco ligand, is necessary to obtain the pure phase of the product.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of dabco in the structure of 1DMF?",
+      "answer": "Dabco acts as a pillar ligand, connecting two-dimensional layers into the three-dimensional porous structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of 1DMF retained upon guest removal?",
+      "answer": "True, the crystal structure of 1DMF is retained upon guest removal.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the diiron paddlewheel unit react with O2 and H2O during the synthesis of 1DMF?",
+      "answer": "True, the diiron paddlewheel unit reacts with O2 and H2O during the synthesis, making it challenging to maintain the porous structure.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of 1DMF performed under a nitrogen atmosphere?",
+      "answer": "False, the synthesis of 1DMF is performed under an Ar atmosphere.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of 1DMF 100% based on FeCl2?",
+      "answer": "False, the yield of 1DMF is 80% based on FeCl2.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the removal of guest DMF molecules result in the collapse of the framework of 1DMF?",
+      "answer": "False, the removal of guest DMF molecules does not result in the collapse of the framework.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area of 1DMF less than 1000 m2 g-1?",
+      "answer": "False, the BET surface area of 1DMF is 1600 m2 g-1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can 1DMF adsorb gases after the removal of guest molecules?",
+      "answer": "True, 1DMF can adsorb gases after the removal of guest molecules, demonstrating permanent porosity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the diiron paddlewheel unit a common secondary building unit in the construction of PCPs?",
+      "answer": "False, despite being a well-known SBU in divalent coordination frameworks, the diiron paddlewheel unit has been rarely employed in PCPs due to its reactivity and synthesis challenges.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

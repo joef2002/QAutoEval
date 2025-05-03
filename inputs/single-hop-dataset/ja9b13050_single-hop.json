@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two iron-semiquinoid framework materials discussed?",
+      "answer": "(H2NMe2)2Fe2(Cl2dhbq)3 (1) and (H2NMe2)4Fe3(Cl2dhbq)3(SO4)2 (2-SO4)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the peak specific energy reported for material 1 when used as a cathode in lithium-ion devices?",
+      "answer": "533 Wh/kg",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why do devices using 2-SO4 as a cathode show rapidly diminishing capacities over several cycles?",
+      "answer": "Due to the low electronic conductivity of the material",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the redox activity in 1 and 2-SO4 frameworks ligand-centered, metal-centered, or a combination of both?",
+      "answer": "A combination of metal- and ligand-centered redox processes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of energy alignment between metal and ligand orbitals in achieving high capacities in these materials?",
+      "answer": "It is crucial for achieving high capacities at high potentials",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Similar capacities are observed in isostructural frameworks containing redox-inactive metal ions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The capacities of lithium-ion devices using 1 as a cathode demonstrate reasonable capacity retention over 50 cycles.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What synthetic method is used to obtain the crystalline black solid of material 1?",
+      "answer": "Starting from Fe(NO3)3 and using in situ-generated dimethylammonium formate as the ligand reductant",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What spectroscopic methods were employed to demonstrate the redox processes in these materials?",
+      "answer": "A variety of spectroscopic methods including UV-vis-NIR and Mӧssbauer spectroscopy",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electronic conductivity in 2-SO4 is facilitated by long-range charge hopping.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of substituting redox-inactive metal ions in the framework structure?",
+      "answer": "It results in not observing similar capacities as those with redox-active metal ions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The redox activity in these frameworks is unique among structurally similar frameworks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to understand the electronic structure of these frameworks?",
+      "answer": "Density Functional Theory (DFT) calculations using the PBE+U method",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The intervalence charge transfer absorption bands observed for 1 and 2-SO4 suggest long-range electronic transition.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the intervalence charge transfer absorption bands in these materials?",
+      "answer": "They suggest that the excitation is a localized electronic transition between two linkers with different oxidation states",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The capacities of devices using 1 as a cathode do not diminish over several cycles.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of covalency in the anionic redox chemistry of these frameworks?",
+      "answer": "Covalency, or matching between metal and ligand reduction potentials, may give rise to ligand-centered reduction with a substantial contribution from iron-based orbitals",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electronic structure calculations perfectly match the experimental results for the reduced states of these materials.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are identified for the commercialization of cathode materials based on anionic redox processes?",
+      "answer": "Challenges include large potential polarizations, sluggish kinetics, and substantial voltage fade after repeated cycling",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates the feasibility and versatility of metal–organic frameworks as energy storage materials for a wide range of battery chemistries.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

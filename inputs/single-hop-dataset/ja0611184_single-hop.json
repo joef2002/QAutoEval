@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the large protonated water cluster trapped in the 3D metal-organic framework?",
+      "answer": "H+(H2O)27",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which metal and ligand form the 3D metal-organic framework?",
+      "answer": "Cobalt(II) and 4,4‘-bipyridine-N,N‘-dioxide",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the [PW12O40]3- anion in the synthesis of the compound?",
+      "answer": "It acts as a template for the formation of the 3D metal-organic framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many water molecules form the shell of the protonated water cluster?",
+      "answer": "26",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the symmetry of the (H2O)26 shell?",
+      "answer": "Oh symmetry",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What model is suggested for the monowater core within the center of the protonated water cluster?",
+      "answer": "Eigen model of a hydronium ion",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using water clusters for studying protonated water?",
+      "answer": "They allow obtaining precise structural data of hydrogen-bonded simulations in diverse environments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are crystallographic structural studies preferred over spectroscopic investigations for large proton hydrate clusters?",
+      "answer": "Because they provide much more detailed information characterizing the clusters.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What stabilizes the water clusters in the framework?",
+      "answer": "Twelve acetonitrile molecules acting as pillars through hydrogen bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of acetonitrile molecules in the structure?",
+      "answer": "They link the water molecules with the heavy 'building stones' [PW12O40]3- anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton in the water cluster located on the interior or the surfaces of the water shell?",
+      "answer": "It is not clear from the X-ray structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the conformation calculation suggest about the position of the excess proton?",
+      "answer": "It suggests that the excess proton resides inside the clathrate structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The protonated water cluster H+(H2O)27 is stabilized outside the cavities of the 3D metal-organic framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The cubic cavities of the framework are solely occupied by [PW12O40]3- anions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The water cluster within the framework is composed of a (H2O)26 shell and a monowater core.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The protonation of the surfaces of a Keggin structure [PW12O40]3- anion is possible under the crystallization conditions described.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All cavities in the framework are filled by the anions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The excess proton in the water cluster is positioned on the surface of the water shell.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Eigen model suggests the excess proton is positioned in the center of the water cluster.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

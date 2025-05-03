@@ -1,0 +1,71 @@
+{
+  "materials": [
+    {
+      "name": "[Zn4O(bpz)2(abdc)]·guest (1·g, MAF-X11)",
+      "synthesis_conditions": {
+        "temperature": "120 8C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide",
+            "amount": "30 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "20 mL"
+          }
+        ],
+        "equipment": "Teflon-lined stainless steel vessel (100 mL)",
+        "chemicals_used": [
+          {
+            "name": "H2abdc",
+            "amount": "0.068 g, 0.375 mmol"
+          },
+          {
+            "name": "H2bpz",
+            "amount": "0.143 g, 0.75 mmol"
+          },
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "0.446 g, 1.5 mmol"
+          }
+        ],
+        "time": "72 h",
+        "cooling_rate": "0.1 8C min-1",
+        "yield": "203 mg, 45 %",
+        "washing_method": "treated with ethanol",
+        "drying_method": "dried under vacuum"
+      }
+    },
+    {
+      "name": "Single crystals for X-ray single-crystal diffraction",
+      "synthesis_conditions": {
+        "temperature": "130 8C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide and EtOH",
+            "ratio": "v/v = 2/1",
+            "amount": "3 mL"
+          }
+        ],
+        "equipment": "sealed glass tube (1.0 cm o.d. x 10 cm length)",
+        "chemicals_used": [
+          {
+            "name": "H2abdc",
+            "amount": "0.009 g, 0.025 mmol"
+          },
+          {
+            "name": "H2bpz",
+            "amount": "0.010 g, 0.05 mmol"
+          },
+          {
+            "name": "Zn(NO3)2·6 H2O",
+            "amount": "0.030 g, 0.10 mmol"
+          }
+        ],
+        "time": "72 h",
+        "cooling_rate": "0.1 8C min-1",
+        "yield": "25 mg, 84 %"
+      }
+    }
+  ]
+}

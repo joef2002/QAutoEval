@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the purpose of using large Stokes shift emitters?",
+      "answer": "Large Stokes shift emitters are used to minimize or completely avoid the overlap between absorption and emission bands, thus preventing the reabsorption of emitted light. This feature is highly desirable for applications such as fluorescence imaging, solar-light managing, and sensitive scintillating detectors for medical imaging and high-energy physics experiments.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the hetero-ligand MOF nanocrystals synthesized?",
+      "answer": "The hetero-ligand MOF nanocrystals were synthesized by co-assembling two ligands of equal molecular length and connectivity but with complementary electronic properties, along with zirconium oxy-hydroxy clusters. This generated crystalline hetero-ligand metal-organic framework nanocrystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Stokes shift value of 750 meV (~6000 cm−1) achieved in the study?",
+      "answer": "A Stokes shift value of 750 meV (~6000 cm−1) is significant because it indicates a large energy difference between the absorption and emission maxima, which helps in suppressing emission reabsorption even in bulk devices. This large Stokes shift is beneficial for applications requiring efficient light emission without loss due to reabsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the Förster resonance energy transfer (FRET) play in the activation of low energy emission in the MOF nanocrystals?",
+      "answer": "Förster resonance energy transfer (FRET) plays a crucial role in the activation of low energy emission in the MOF nanocrystals by enabling the efficient transfer of energy from the excited DPA ligands to the incorporated DPT co-ligands. This process leads to the emission of photons with a large Stokes shift, enhancing the fluorescence quantum efficiency.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photoluminescence quantum efficiency of the hybrid nanocrystals is approximately 60%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of doping semiconductor nanocrystals with electronic impurities on the Stokes shift?",
+      "answer": "Doping semiconductor nanocrystals with electronic impurities can tune the Stokes shift by introducing intragap states, resulting in red-shifted luminescence and achieving notable Stokes shift values. However, this often comes with the drawback of slow luminescence kinetics, limiting their use for fast timing applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Traditional wavelength shifters exploiting radiative energy transfer can be employed in photonic devices where fast timing is foreseen.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using MOFs in light-emitting devices?",
+      "answer": "The main advantage of using MOFs in light-emitting devices is their structural diversity and tunable emission, which allow for the design of their framework composition and structure to control both optical and energy-transport properties. This makes MOFs excellent candidates for managing site-specific photoreactions or multi-excitonic processes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photophysical properties of MOF nanocrystals are investigated using photoluminescence spectroscopy.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the incorporation of DPT ligands affect the structural properties of the parent homo-ligand nanocrystals?",
+      "answer": "The incorporation of DPT ligands, even at low loading, enables to preserve the structural features of the parent homo-ligand nanocrystals while providing significant fluorescence efficiency and negligible reabsorption. This strategic incorporation allows for the engineering of the system's emission properties and energy down-conversion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

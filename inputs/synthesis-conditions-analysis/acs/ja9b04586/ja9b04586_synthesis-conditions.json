@@ -1,0 +1,162 @@
+{
+  "materials": [
+    {
+      "name": "dimethyl naphthalene-1,4-dicarboxylate (3)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "50 mL"
+          },
+          {
+            "name": "ethyl acetate",
+            "amount": "50 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "1,4-naphthalene dicarboxylic acid",
+            "amount": "4.999 g"
+          },
+          {
+            "name": "concentrated sulfuric acid",
+            "amount": "2.5 mL"
+          }
+        ],
+        "temperature": "reflux overnight",
+        "yield": "81.6%"
+      }
+    },
+    {
+      "name": "naphthalene-1,4-diyldimethanol (4)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "tetrahydrofuran",
+            "amount": "40 mL and 70 mL"
+          },
+          {
+            "name": "ethyl acetate",
+            "amount": "40 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "dimethyl naphthalene-1,4-dicarboxylate (3)",
+            "amount": "1.0016 g"
+          },
+          {
+            "name": "Lithium aluminum hydride (LAH)",
+            "amount": "1.7216 g"
+          },
+          {
+            "name": "10% sodium hydroxide (w/v)",
+            "amount": "approximately 7 mL"
+          },
+          {
+            "name": "water",
+            "amount": "7 mL"
+          }
+        ],
+        "temperature": "0 °C to room temperature overnight",
+        "yield": "96.7%"
+      }
+    },
+    {
+      "name": "1,4-bis(bromomethyl)naphthalene (1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "methylene chloride",
+            "amount": "50 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "naphthalene-1,4-diyldimethanol (4)",
+            "amount": "2.237 g"
+          },
+          {
+            "name": "Potassium tribromide",
+            "amount": "9.65 g"
+          }
+        ],
+        "temperature": "0 °C to room temperature for 4 hours",
+        "yield": "82.4%"
+      }
+    },
+    {
+      "name": "4,4'-(naphthalene-1,4-diylbis(methylene))bis(1-(2-cyanoethyl)-4H-1,2,4-triazol-1-ium) bromide (2)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "1,4-bis(bromomethyl)naphthalene (1)",
+            "amount": "0.0792 g"
+          },
+          {
+            "name": "3-(1H-1,2,4-triazol-1-yl)propanenitrile (5)",
+            "amount": "0.0642 g"
+          }
+        ],
+        "temperature": "reflux for 3 days",
+        "yield": "97.5%"
+      }
+    },
+    {
+      "name": "1,4-bis((4H-1,2,4-triazol-4-yl)methyl)naphthalene (L1)",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "15 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "4,4'-(naphthalene-1,4-diylbis(methylene))bis(1-(2-cyanoethyl)-4H-1,2,4-triazol-1-ium) bromide (2)",
+            "amount": "0.3500 g"
+          },
+          {
+            "name": "potassium hydroxide",
+            "amount": "0.0986 g"
+          }
+        ],
+        "temperature": "reflux overnight",
+        "yield": "78.0%"
+      }
+    },
+    {
+      "name": "[(L1)Cu2Br2]",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DI water",
+            "amount": "1 mL"
+          },
+          {
+            "name": "DEF",
+            "amount": "2 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Copper(II) bromide dihydrate",
+            "amount": "0.0037 g"
+          },
+          {
+            "name": "1,4-bis((4H-1,2,4-triazol-4-yl)methyl)naphthalene (L1)",
+            "amount": "0.0049 g"
+          }
+        ],
+        "temperature": "85 °C for 5 days",
+        "yield": "33.7%"
+      }
+    }
+  ]
+}

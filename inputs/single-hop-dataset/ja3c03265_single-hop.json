@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the research article?",
+      "answer": "The main goal of the research article is to explore CO2-selective MOF materials for superior separation strategy to advance C2H2 production by immobilizing a methyl group into the prototype MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of Zn-ox-mtz?",
+      "answer": "Zn-ox-mtz was synthesized by a solvothermal method involving the reaction of ZnCO3, oxalic acid, 3-methyl-1H-1,2,4-triazole, H2O, and BuOH at 180 °C for 3 days.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was employed to collect the single crystal X-ray diffraction data of Zn-ox-mtz?",
+      "answer": "The single crystal X-ray diffraction data of Zn-ox-mtz were collected using a Rigaku XtaLAB Pro MM007HF DW diffractometer with Cu-Ka radiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Grand Canonical Monte Carlo (GCMC) simulations in the study?",
+      "answer": "GCMC simulations were carried out to investigate the host–guest interactions between the framework and the adsorbed gas molecules for the adsorption of C2H2 and CO2 in Zn-MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the adsorption energy defined in the Density-functional theory (DFT) calculations?",
+      "answer": "The adsorption energy was defined as Eads = E(MOF/M) - E(MOF) - E(M), where E(MOF/M) is the total energy of MOF with the adsorbate, E(MOF) is the optimized MOF structure, and E(M) is the isolated gas molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of performing breakthrough experiments in the study?",
+      "answer": "Breakthrough experiments were performed to assess the practical CO2/C2H2 separation capacity of Zn-ox-mtz and Zn-ox-trz using a dynamic separation device with an equimolar CO2/C2H2 gas mixture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Zn-ox-mtz thermally stable?",
+      "answer": "Yes, Zn-ox-mtz is thermally stable until 600 K as indicated by thermogravimetric analysis (TGA) and in situ variable-temperature powder X-ray diffraction (VT-PXRD) results.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Zn-ox-mtz exhibit higher CO2/C2H2 inverse selectivity compared to Zn-ox-trz?",
+      "answer": "Yes, Zn-ox-mtz exhibits higher CO2/C2H2 inverse selectivity compared to Zn-ox-trz.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the separation factor for CO2/C2H2 mixture achieved by Zn-ox-mtz?",
+      "answer": "The separation factor for CO2/C2H2 mixture achieved by Zn-ox-mtz was 1064.9.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Zn-ox-mtz be considered a promising candidate for CO2/C2H2 separation process?",
+      "answer": "Yes, Zn-ox-mtz can be considered a promising candidate for CO2/C2H2 separation process due to its high CO2 uptake, excellent CO2/C2H2 selectivity, and high C2H2 productivity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

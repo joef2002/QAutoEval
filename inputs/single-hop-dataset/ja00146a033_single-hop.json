@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the color of the single-crystal sample used for data collection?",
+      "answer": "Orange",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the shape of the crystal used in the study?",
+      "answer": "Rectangular parallelepiped",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the compound?",
+      "answer": "Orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structure solution?",
+      "answer": "Direct Methods",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of the compound?",
+      "answer": "1.581 g*cm^-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were collected?",
+      "answer": "2230",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the molecular weight of the compound?",
+      "answer": "382.35 amu",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was an absorption correction applied during data reduction?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of corrections were applied during data reduction?",
+      "answer": "Lorentz and Polarization Corrections",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Were hydrogen atom positions located after refinement?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the final scale factor after structure refinement?",
+      "answer": "1.570(5)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was an extinction parameter refined during structure refinement?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of the compound monoclinic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was a numerical absorption correction applied?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the crystal orientation involve its shortest edge nearly parallel to the phi axis of the diffractometer?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Were variable occupancies refined for all atoms?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of the compound P2_1/c?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the radiation type used MoKa?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal mounted using a thin glass fiber?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the crystal have indices of faces?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

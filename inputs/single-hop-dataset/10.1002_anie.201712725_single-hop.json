@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the transformation discussed in the text?",
+      "answer": "The transformation of C@H bonds into more reactive C@M bonds.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What process is mentioned as being of industrial relevance?",
+      "answer": "The SOHIO process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of the double CH activation of bismuth-bound diphenyl amide?",
+      "answer": "The organometallic products of the first and second CH activation steps were isolated in high yields.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the transformation of neutral bismuth compounds into their cationic analogues facilitate?",
+      "answer": "CH activation reactions.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the unexpected product when Bi(NPh2)3 was treated with one equivalent of the Brønsted acid HOTf in THF?",
+      "answer": "[Bi2-(NC6H4Ph)2(thf)3(OTf)2] (2) was isolated instead of the originally targeted compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the stability of compound 2 at elevated temperatures in THF indicate?",
+      "answer": "Compound 2 is stable in THF at reflux for more than 20 hours.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CH activation product detected when the neutral bismuth amide Bi(NPh2)3 is kept in solution without addition of an acid?",
+      "answer": "False, the CH activation product was not detected under these conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reaction of HNPh2 with nBuLi in a 3:7 stoichiometry afford a cluster containing two ortho-metalated diphenylamide groups?",
+      "answer": "True, it affords the cluster [(Ph2NLi)[Ph(C6H4Li)NLi]2(nBuLi)2(Et2O)4].",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dinuclear species 2 favored over the corresponding mononuclear compound according to DFT calculations?",
+      "answer": "True, DFT calculations suggest that the dinuclear species 2 is favored.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reaction of AlMe3 or GaMe3 with HNPh2 lead to one ortho metalation per two metal centers?",
+      "answer": "True, but forcing reaction conditions were necessary.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination sphere of bismuth in compound 2 saturated by two terminal thf ligands per Bi atom?",
+      "answer": "False, it is saturated by one terminal thf ligand per Bi atom and by one weakly bound thf ligand bridging the two Bi centers.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does heating compound 2 in pyridine lead to the formation of compound 3?",
+      "answer": "True, heating in pyridine led to the formation of compound 3 in quantitative spectroscopic yield.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the reaction of compound 2 with electrophiles in one-pot procedures mentioned as a way to exploit the CH activation?",
+      "answer": "True, these compounds were reacted with electrophiles in simple one-pot procedures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of compound 2 when crystallized directly from the reaction mixture?",
+      "answer": "91% overall yield.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main driving force for the reaction that leads to the formation of compound 3?",
+      "answer": "The release of ring strain.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of NH···OTf contacts in compound 3 suggest?",
+      "answer": "It suggests the presence of hydrogen bonds in the solid state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination geometry around bismuth in compound 2?",
+      "answer": "A highly irregular coordination geometry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the formation of a monodentate oxy-aryl dianion in the coordination sphere of bismuth indicate?",
+      "answer": "It indicates intriguing reactivity patterns.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Bi@N bond in compound 2 longer than the Bi@N bonds in neutral Bi(NPh2)3?",
+      "answer": "True, the Bi@N bond in compound 2 is significantly longer.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reaction of compound 3 with electrophiles allow for the selective synthesis of functionalized diarylamines?",
+      "answer": "True, reactions of 3 with electrophiles gave functionalized diarylamines in moderate to quantitative yields.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

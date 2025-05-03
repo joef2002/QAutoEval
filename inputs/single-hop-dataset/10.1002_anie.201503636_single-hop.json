@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of isonicotinic acid N-oxide (HINO) in the formation of the metal–organic framework?",
+      "answer": "Isonicotinic acid N-oxide (HINO) serves as the linker.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does guest solvent exchange have on the magnetic properties of Dy2 single-molecule magnets?",
+      "answer": "Guest solvent exchange induces a reversible single-crystal to single-crystal transformation, thereby switching the effective magnetic relaxation barrier.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic relaxation barrier for Dy2-DMF negligible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the magnetic relaxation barrier value for Dy2-CH3CN?",
+      "answer": "76 cm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the difference in magnetic relaxation barrier between Dy2-DMF and Dy2-CH3CN arise from a change in the intrinsic relaxation barrier of the Dy2 nodes?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main factor that governs the intrinsic relaxation barrier for lanthanide-based SMMs?",
+      "answer": "Symmetry-related single-ion anisotropy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the hyperfine couplings be tuned by utilizing isotopically pure or enriched lanthanide sources?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the porous nature of the MOF structure in the context of guest molecule exchange?",
+      "answer": "The porous nature allows for the exchange of guest molecules through a single-crystal to single-crystal transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the magnetic exchange interactions between binuclear units significant in the MOF structure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the increase in cM T value at very low temperature suggest about the magnetic behavior of the materials?",
+      "answer": "It suggests that ferromagnetic coupling starts to dominate the magnetic behavior for the ground state of each material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the relaxation behavior observed in Dy2-DMF and Dy2-CH3CN similar?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What parameter is used to distinguish between glassiness and superparamagnetism?",
+      "answer": "The parameter f.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of different guest molecules within the pores of the MOF influence the magnetization dynamics?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated energy barrier for magnetization reversal for Dy2-CH3CN?",
+      "answer": "76 cm-1 (110 K).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are the differences in magnetization relaxation dynamics between Dy2-DMF and Dy2-CH3CN attributed to ab initio calculations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the continuous symmetry measure (CSM) method evaluate?",
+      "answer": "The deviation from an ideal monocapped square antiprismatic coordination geometry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Do the guest molecules adjust the dipole–dipole interactions in the MOF?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of exchanging guest molecules within the pores of the MOF on the magnetization relaxation dynamics?",
+      "answer": "It imparts major changes in the magnetization relaxation dynamics.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the single-crystal to single-crystal transformation between Dy2-DMF and Dy2-CH3CN reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the work illustrate about combining SMMs and MOFs in molecule-based materials?",
+      "answer": "It illustrates a chemical means of combining SMMs and MOFs and provides a platform for tuning SMM behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

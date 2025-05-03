@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of ALP-MOF-1-AS?",
+      "answer": "C21H28N6O9Zn2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does ALP-MOF-1-A belong to?",
+      "answer": "Hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range were the Thermogravimetric analyses (TGA) performed?",
+      "answer": "~20 °C to 800 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density (calculated) of ALP-MOF-2-3H2O?",
+      "answer": "1.020 Mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many independent reflections were collected for ALP-MOF-1-14H2O?",
+      "answer": "5830",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of the unit cell for ALP-MOF-1-acetone?",
+      "answer": "13884.5(10) Å3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the ALP-MOF-1-A adsorb water from air?",
+      "answer": "Yes, ALP-MOF-2-A readily adsorbs water from air, indicating strong water binding.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Co(II) in ALP-MOF-2 predicted to have a stronger interaction with water molecules compared to Zn(II) in ALP-MOF-1?",
+      "answer": "Yes, Co(II) is predicted to have a stronger interaction with water than Zn(II).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the water adsorption capacity of ALP-MOF-2-A decrease after a second water adsorption experiment?",
+      "answer": "Yes, the water adsorption capacity of ALP-MOF-2-A decreases after a second water adsorption experiment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the calculated density of ALP-MOF-1-A less than 1.0 gcm-3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ALP-MOF-1-AS contain solvent accessible voids?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the H atoms in guest solvents of ALP-MOFs refined isotropically?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of ALP-MOF-2 R-3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the ALP-MOF-1-14H2O structure contain disordered guest molecules?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area of ALP-MOF-2 higher than that of ALP-MOF-1?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the identity of the metal sites in MOFs significantly affect the water uptake profile at low RH?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Co/Zn ratio in ALP-MOFs determined using SEM-EDS?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

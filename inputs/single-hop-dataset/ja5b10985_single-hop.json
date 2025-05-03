@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the oxidation state of copper in complex 1a?",
+      "answer": "+3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to record EPR spectra?",
+      "answer": "CW X-band EPR spectrometer",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the basis set used for light atoms in DFT calculations?",
+      "answer": "6-31G(d)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What functional was used for geometry optimization of copper(II)-hydroxides?",
+      "answer": "BP86 functional",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main difference observed in the EPR spectra of compound 9 in anhydrous THF compared to water saturated THF?",
+      "answer": "Distinctly different axial signals",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What solvent was used for cyclic voltammetry experiments?",
+      "answer": "1,2-difluorobenzene",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of NaOMe in the synthesis of NO2LCu(MeCN)?",
+      "answer": "It is used to react with Cu(OTf)2 and NO2LH2 to form the complex",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used for the determination of O–H BDEs?",
+      "answer": "UV-vis spectroscopy",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the parameter A in eq. SI.2 for computing temperature-dependent second-order reaction rate constants?",
+      "answer": "It corrects for systematic errors in the modeling protocol with respect to prediction of the solvated energy of the TS structure relative to the separated reactants",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study includes the use of continuum solvation model for THF solvation effects in geometry optimizations and single-point calculations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the empirical value used for the parameter A in eq. SI.2?",
+      "answer": "64 kJ mol–1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main challenge in modeling H-atom abstraction in these systems using electronic structure theory?",
+      "answer": "Sensitivity of the transition-state structures to choice of functional due to the change from closed-shell singlets to open-shell doublets",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the predicted pKa value for 1 using M06-L/6-311+G(d,p)|SDD//M06-L/6-31G(d)|SDD level?",
+      "answer": "10.6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that tight ion pairs in THF are important for accurate modeling of reduction potentials.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion regarding the compensation between E1/2 and pKa in the studied systems?",
+      "answer": "There is only partial compensation of these parameters, leading to a trend in the corresponding O–H BDE values",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

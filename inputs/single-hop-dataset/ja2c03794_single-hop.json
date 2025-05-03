@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of [Cu(BTDAT)(MeOH)]?",
+      "answer": "C13H4CuN8OS2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) was the crystal structure of [Cu(BTDAT)(MeOH)] determined?",
+      "answer": "100 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of [Cu(BTDAT)(MeOH)]?",
+      "answer": "C 2/c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density (g cm−3) of [Cu(BTDAT)(MeOH)]?",
+      "answer": "1.957",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for absorption correction in the X-ray diffraction analysis of [Cu(BTDAT)(MeOH)]?",
+      "answer": "multi-scan",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R(F) index for [Cu(BTDAT)(MeOH)]?",
+      "answer": "0.0602",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy (Ea) obtained from the variable-temperature pressed pellet conductivity data of [Cu(BTDAT)(MeOH)]?",
+      "answer": "66 meV",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conductivity of [Cu(BTDAT)(MeOH)] isotropic or anisotropic according to the single crystal conductivity measurement?",
+      "answer": "Isotropic",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the charge model used for partial atomic charges analysis in DFT calculations of BTDAT ligand?",
+      "answer": "Charge Model 5 (CM5)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does [Cu(BTDAT)(MeOH)] exhibit metallic or insulating behavior according to DFT band structure calculations?",
+      "answer": "Metallic",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is [Cu(BTDAT)(MeOH)] more likely to be a Mott insulator or a band insulator based on the discussion?",
+      "answer": "Mott insulator",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of NEt4+ in the structure of [Cu(BTDAT)(MeOH)]?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The conductivity of [Cu(BTDAT)(MeOH)] decreases as the temperature is lowered.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The compound [Cu(BTDAT)(MeOH)] can undergo a color change upon redox modulation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The compound [Cu(BTDAT)(MeOH)] has a monoclinic crystal system.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The compound [Cu(BTDAT)(MeOH)] was synthesized under an atmosphere of nitrogen.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The compound [Cu(BTDAT)(MeOH)] has a higher conductivity in pressed pellet form than in single crystal form.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The compound [Cu(BTDAT)(MeOH)] exhibits a phase transition at low temperatures.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

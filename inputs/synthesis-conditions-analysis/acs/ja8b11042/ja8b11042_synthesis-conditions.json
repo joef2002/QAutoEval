@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "PCN-136",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis of pbz-MOF-1",
+          "temperature": "120 °C",
+          "time": "36 h",
+          "solvents": [
+            {
+              "name": "DMF/acetic acid",
+              "amount": "3 mL:1 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "ZrCl4",
+              "amount": "9 mg"
+            },
+            {
+              "name": "HCBB",
+              "amount": "7 mg"
+            }
+          ],
+          "equipment": "glass scintillation vial (20 mL)",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        },
+        {
+          "step": "Synthesis of PCN-136",
+          "temperature": "Room temperature",
+          "time": "1 h",
+          "solvents": [
+            {
+              "name": "CH3NO2",
+              "amount": "10 mL"
+            },
+            {
+              "name": "anhydrous CH2Cl2",
+              "amount": "200 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "FeCl3",
+              "amount": "1.44 g"
+            },
+            {
+              "name": "pbz-MOF-1",
+              "amount": "1 g"
+            }
+          ],
+          "equipment": "Not specified",
+          "yield": "Not specified",
+          "washing_method": "Washed with methanol three times",
+          "drying_method": "Not specified"
+        }
+      ]
+    }
+  ]
+}

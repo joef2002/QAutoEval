@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main limitation of most MOFs mentioned in the text?",
+      "answer": "The main limitation of most MOFs is their low chemical stability.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy was used to synthesize PCN-426-Fe(III) and PCN-426-Cr(III)?",
+      "answer": "A strategy of post-synthetic metathesis and oxidation (PSMO) of the metal nodes step by step was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why were Fe2+ and Cr2+ used first in the synthesis process of PCN-426-Fe(III) and PCN-426-Cr(III)?",
+      "answer": "Fe2+ and Cr2+ were used first because they have relatively higher exchange rates, which helps to form the intermediate Fe(II) and Cr(II)-MOFs before air oxidation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of direct metal metathesis of PCN-426-Mg with anhydrous FeCl3?",
+      "answer": "The crystal changed from colorless to red and became opaque.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What problem was encountered during the direct metal metathesis with M3+ species?",
+      "answer": "The problem encountered was incomplete metal exchange and framework decomposition due to the kinetic inertness of M3+ species and their higher hydrolysis equilibrium constants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the successful PSMO procedure in the synthesis of PCN-426-Fe(III)?",
+      "answer": "The successful PSMO procedure was confirmed by single crystal X-ray diffraction, X-ray photoelectron spectroscopy, and an EDS spectrum.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What advantage does PCN-426-Cr(III) have over PCN-426-Fe(III) in terms of gas adsorption?",
+      "answer": "PCN-426-Cr(III) has a higher N2 uptake than PCN-426-Fe(III), likely due to the higher exchange rate of Cr ion and its higher stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCN-426-Mg stable in water?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the PSMO strategy involve oxidation before metathesis?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are PCN-426-Fe(III) and PCN-426-Cr(III) isostructural with the Mg-MOF template?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the direct metal metathesis with CrCl3 result in a significant color change of PCN-426-Mg?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the stability of PCN-426-Cr(III) lower than that of PCN-426-Fe(III)?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the PSMO strategy successful in maintaining the single crystal form of the MOFs throughout the synthesis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the use of Fe(NO3)3·6H2O and Cr(NO3)3·6H2O in metal metathesis reactions prevent framework decomposition?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the PXRD pattern used to confirm the framework stability of PCN-426-Fe(III) and PCN-426-Cr(III) in various pH conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the [M3(μ3-O)] cluster in the structure of PCN-426-Mg?",
+      "answer": "The [M3(μ3-O)] cluster allows easy access for incoming metal ions during metal-ion exchange and stabilizes the overall framework throughout the metathesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main challenge in synthesizing robust MOFs with high-valence metal ions?",
+      "answer": "The main challenge was the difficulty in crystallizing MOFs based on high-valence metal ions due to the kinetic inertness of the metal-ligand bonds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of using Fe2+ and Cr2+ ions in the PSMO strategy?",
+      "answer": "The use of Fe2+ and Cr2+ ions in the PSMO strategy resulted in a faster and more complete metal metathesis, leading to the successful synthesis of PCN-426-Fe(III) and PCN-426-Cr(III).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of air oxidation in the PSMO strategy?",
+      "answer": "Air oxidation in the PSMO strategy resulted in the conversion of Fe2+ and Cr2+ to Fe3+ and Cr3+, respectively, completing the synthesis of PCN-426-Fe(III) and PCN-426-Cr(III).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the significance of the PXRD patterns in assessing the stability of PCN-426-Fe(III) and PCN-426-Cr(III)?",
+      "answer": "The PXRD patterns were significant in confirming that the frameworks of PCN-426-Fe(III) and PCN-426-Cr(III) remained stable in aqueous solutions with varying pH values, indicating their improved stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

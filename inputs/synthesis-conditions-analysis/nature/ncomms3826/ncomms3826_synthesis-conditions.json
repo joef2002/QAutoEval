@@ -1,0 +1,51 @@
+{
+  "materials": [
+    {
+      "name": "{[FeIII(Tp*)(CN)3]2FeII(bpmh)}·2H2O",
+      "synthesis_conditions": [
+        {
+          "temperature": "Room temperature",
+          "solvents": [
+            {
+              "name": "Water",
+              "amount": "1.0 ml"
+            },
+            {
+              "name": "Methanol",
+              "amount": "2.0 ml"
+            }
+          ],
+          "equipment": "Test tube",
+          "chemicals_used": [
+            {
+              "name": "Fe(ClO4)2·6H2O",
+              "amount": "0.05 mmol"
+            },
+            {
+              "name": "[Bu4N][Fe(Tp*)(CN)3]",
+              "amount": "0.1 mmol"
+            },
+            {
+              "name": "bpmh",
+              "amount": "0.1 mmol"
+            }
+          ],
+          "time": "Several weeks",
+          "yield": "65%",
+          "drying_method": "Not specified",
+          "washing_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "name": "Dehydrated {[FeIII(Tp*)(CN)3]2FeII(bpmh)}·2H2O",
+      "synthesis_conditions": [
+        {
+          "temperature": "400 K",
+          "equipment": "SQUID (MPMS-XL-7) magnetometer",
+          "method": "Purging at 400 K to avoid the adsorption of water during the measurement"
+        }
+      ]
+    }
+  ]
+}

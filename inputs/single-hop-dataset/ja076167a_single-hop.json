@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C4H12B10O4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the adsorption measurements?",
+      "answer": "Autosorb 1-MP from Quantachrome Instruments",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the weight percentage of H2 uptake by compound 4 at 77 K and 1 atm?",
+      "answer": "2.1%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the pore size of compound 4 larger than that of compound 3?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the removal of coordinated solvent molecules increase the H2 uptake in compound 4 compared to compound 3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compound 1?",
+      "answer": "orthorhombic",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of compound 4?",
+      "answer": "152 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DEF in the synthesis of compound 2?",
+      "answer": "DEF acts as a solvent and is coordinated to zinc ions in the structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of compound 4 obtained through single-crystal X-ray diffraction?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of compound 2 involve heating at 80 °C for 24 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compound 2?",
+      "answer": "triclinic",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the method used for the preparation of compound 4?",
+      "answer": "Heating crystals of compound 2 at 300 °C for 24 hours.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the hydrogen uptake of compound 4 at 77 K higher than at 87 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of n-BuLi in the preparation of compound 1?",
+      "answer": "It is added to deprotonate 1,12-dicarba-closododecaborane for further reaction with carbon dioxide.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the removal of DEF from compound 2 result in a decrease in crystallinity?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the FTIR spectra of compounds 2 and 4?",
+      "answer": "In compound 4, the ν(CO) peaks become sharper compared to compound 2, indicating the complete coordination of the ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is compound 4 more effective in H2 storage than compound 3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of carbon dioxide in the synthesis of compound 1?",
+      "answer": "Carbon dioxide reacts with the deprotonated form of 1,12-dicarba-closododecaborane to form the dicarboxylic acid.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of compound 2 require the use of diethylformamide (DEF)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area measurements for compounds 3 and 4?",
+      "answer": "They are used to determine the N2-accessible surface areas, which are important for evaluating the materials' porosity and gas adsorption capabilities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

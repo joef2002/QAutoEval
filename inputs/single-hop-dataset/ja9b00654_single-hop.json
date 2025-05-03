@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the microporous framework discussed in the article?",
+      "answer": "Cu[Ni(pdt)2]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of Na2[Ni(pdt)2]?",
+      "answer": "According to the literature procedure",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What instrument was used for gas adsorption measurements?",
+      "answer": "Micromeritics 3-Flex instrument",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the Langmuir surface area of Cu[Ni(pdt)2]?",
+      "answer": "426 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the conductivity of Cu[Ni(pdt)2] higher in the desolvated or solvated state?",
+      "answer": "The conductivity in the desolvated state is 200-fold greater than in the solvated state",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What gases were selectively adsorbed by Cu[Ni(pdt)2] at ambient temperature?",
+      "answer": "Ethane, ethylene, acetylene, propane, propylene, and cis-2-butene",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What equation form closely follows the change in conductivity with adsorbate pressure?",
+      "answer": "Langmuir–Freundlich equation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The relative sensitivity of the framework to each adsorbate is correlated with binding strength.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What effect does gas adsorption have on the conductivity of Cu[Ni(pdt)2]?",
+      "answer": "Gas adsorption causes a chemiresistive response, changing the conductivity",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The chemiresistive response of Cu[Ni(pdt)2] to adsorbates is independent of the gas phase specific heat capacity of the adsorbate.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for electronic structure calculations of Cu[Ni(pdt)2]?",
+      "answer": "CRYSTAL17 suite of programs",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of adsorbates significantly changes the electronic properties of Cu[Ni(pdt)2].",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the theoretical band gap of Cu[Ni(pdt)2] found to be?",
+      "answer": "2.1 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of ethylene and acetylene in Cu[Ni(pdt)2] results in a significant change in the framework's structure.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the primary mechanism suggested for charge transport in Cu[Ni(pdt)2]?",
+      "answer": "Nearest neighbor charge hopping via small polarons localized on individual [Ni(pdt)2]2– units",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The conductivity of Cu[Ni(pdt)2] is most sensitive to the quantity of acetylene adsorbed.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the sensitivity, S, of conductivity in Cu[Ni(pdt)2] to ethane?",
+      "answer": "0.311",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The chemiresistive response of Cu[Ni(pdt)2] equilibrates on a shorter time scale than gas adsorption.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the primary limitation in conduction through Cu[Ni(pdt)2] according to the article?",
+      "answer": "Interparticle contacts limit conduction through the bulk material",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that nanostructuring could optimize sensor performance of Cu[Ni(pdt)2].",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

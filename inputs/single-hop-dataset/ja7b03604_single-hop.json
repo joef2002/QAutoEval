@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Ligand and Metal Based Multielectron Redox Chemistry of Cobalt Supported by Tetradentate Schiff Bases",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Marinella Mazzanti",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research conducted in the article?",
+      "answer": "Investigating the influence of bound cations on the reduction of cobalt complexes of redox active ligands and exploring the reactivity of reduced species with CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of complexes were formed upon one electron reduction of [Co(II)(Rsalophen)] with alkali metals?",
+      "answer": "Either ligand-centered or metal-centered reduction complexes were formed, depending on the alkali ion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The two electron reduction of [Co(II)(OMesalophen)] results in a Co(I)–Co(II)–Co(I) complex.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the reaction of complex 6 with ambient CO2?",
+      "answer": "Multiple CO2 reduction products were formed, including the product of CO2 addition to the OMeSalophen ligand and CO32– formation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electrons stored in the reversible C–C bonds cannot be used for the transformation of carbon dioxide.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do bound alkali cations play in the redox processes of the complexes studied?",
+      "answer": "Bound alkali cations have a key role in such processes, affecting the structure of the reduced species and the distribution of electrons.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The addition of cryptand to a solution of complex 6 in THF leads to the formation of a dinuclear complex.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of CO32– formation when complex 6 reacted with excess 13CO2?",
+      "answer": "53%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The reaction of complex 3 with CO2 resulted in the reversible coordination of CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the EPR spectrum of complex 7 suggest about its structure?",
+      "answer": "The EPR spectrum suggests the presence of a Co(I) bound to a radical anionic ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of the trimer is maintained in solution for complex 6.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of removing the bound Na cation from the neutral complex [Co3(tris-OMesalophen)Na6(THF)6]?",
+      "answer": "It led to the cleavage of the C–C bonds and isolation of a new species where the formal oxidation state of the cobalt is (0).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The molecular weights of the species can be estimated using the values of the measured coefficient diffusion.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of performing variable temperature NMR analysis in the study?",
+      "answer": "To determine the ratio of monomer/dimer and thus their respective concentration for calculating thermodynamic parameters.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The equilibrium constant Keq(T) can be calculated at several temperatures to determine the ratio of monomer/dimer.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Van’t Hoff analysis allow researchers to extract?",
+      "answer": "Values of ΔH° and ΔS° from the slope and the y-intercept of the plot of Ln(Keq) as a function of 1/T.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of a Co(0) species in complex 7 can be ruled out by the absence of any sizable hyperfine coupling with the 59Co I = 7/2 nuclear spin.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the reaction of complex 3 with CO2 in terms of solubility?",
+      "answer": "The reaction resulted in the formation of a completely insoluble product.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

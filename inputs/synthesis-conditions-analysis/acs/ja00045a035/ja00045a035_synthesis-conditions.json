@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "material": "Na8[calix[6]arene sulfonate]-20.5 H2O",
+      "synthesis_conditions": {
+        "crystal_growth_method": "Crystals grow as flat plates from aqueous solution.",
+        "decomposition_behavior": "The colorless compound quickly decomposes via loss of H2O.",
+        "mounting_method": "Crystals were mounted in thin-walled capillaries with a drop of the mother liquor.",
+        "structure_solution_software": "SHELX-86",
+        "thermal_parameters": "All atoms were treated with anisotropic thermal parameters.",
+        "hydrogen_atoms_treatment": "Hydrogen atoms on the calixarene -CH2- groups were placed in calculated positions and were not refined.",
+        "phenolic_hydrogen_atoms": "The two independent hydrogen atoms on the phenolic oxygen atoms were located on a difference Fourier map and were not refined.",
+        "water_occupancy": {
+          "W1-W9": "Fully occupied",
+          "W10-W11": "Assigned occupancy factors of 0.50",
+          "W12": "Assigned occupancy factor of 0.25"
+        },
+        "anion_residence": "Since the anion resides on a center of inversion, there are 20.5 H2O per anion."
+      }
+    },
+    {
+      "material": "[Calix[6]arene sulfonic acid]-23 H2O",
+      "synthesis_conditions": {
+        "crystal_growth_method": "Crystals of the acid grow as thin, flat plates, and were treated as above.",
+        "isostructural_comparison": "It is apparent from a comparison of lattice parameters and fractional coordinates that the two compounds are isostructural.",
+        "structure_solution_software": "SHELX-86",
+        "thermal_parameters": {
+          "sulfur_atoms": "Only the sulfur atoms were treated with anisotropic temperature factors.",
+          "hydrogen_atoms": "The hydrogen atoms were not located."
+        },
+        "water_occupancy": {
+          "W1-W7": "Judged to be fully occupied based on an analysis of isotropic thermal parameters.",
+          "W8-W16": "Assigned occupancy factors of 0.50."
+        },
+        "water_per_acid_molecule": "There are 23 H2O per acid molecule."
+      }
+    }
+  ]
+}

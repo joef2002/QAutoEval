@@ -1,0 +1,108 @@
+{
+  "materials": [
+    {
+      "name": "non-interpenetrated MOF 1",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "temperature": "100 88C",
+          "time": "24 h",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "not specified"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "2,5-diphenylbenzene-1,4-dicarboxylic acid (DPT)",
+              "amount": "not specified"
+            },
+            {
+              "name": "4,4’-bipyridine",
+              "amount": "not specified"
+            },
+            {
+              "name": "zinc nitrate tetrahydrate",
+              "amount": "not specified"
+            }
+          ],
+          "equipment": "not specified",
+          "yield": "not specified"
+        },
+        {
+          "step": "Activation",
+          "temperature": "423 K",
+          "time": "12 h",
+          "method": "dynamic vacuum",
+          "result": "loss of single-crystal character, mixture of unknown phases and some amorphous content"
+        },
+        {
+          "step": "Solvent exchange with diethyl ether",
+          "solvents": [
+            {
+              "name": "diethyl ether",
+              "amount": "replaced once a day for three days"
+            }
+          ],
+          "temperature": "ambient",
+          "time": "3 days",
+          "method": "dynamic vacuum",
+          "result": "minimal signs of cracking or damage, maintained single-crystal character"
+        },
+        {
+          "step": "Solvent exchange with ethyl acetate",
+          "solvents": [
+            {
+              "name": "ethyl acetate",
+              "amount": "not specified"
+            }
+          ],
+          "temperature": "353 K",
+          "method": "dynamic vacuum",
+          "result": "transformation to activated phase 1 B"
+        },
+        {
+          "step": "Supercritical CO2 drying",
+          "temperature": "not specified",
+          "time": "48 h",
+          "method": "supercritical CO2",
+          "result": "activated phase resembles as-synthesized version, 1 A"
+        }
+      ]
+    },
+    {
+      "name": "Phase 1 B",
+      "synthesis_conditions": [
+        {
+          "step": "Activation via diethyl ether exchange",
+          "method": "dynamic vacuum at ambient temperature",
+          "result": "empty, collapsed version of 1 A"
+        },
+        {
+          "step": "Exposure to supercritical CO2",
+          "time": "36 h",
+          "result": "partial conversion to 1 C"
+        }
+      ]
+    },
+    {
+      "name": "Phase 1 C",
+      "synthesis_conditions": [
+        {
+          "step": "Supercritical CO2 drying",
+          "time": "48 h",
+          "method": "supercritical CO2",
+          "result": "open framework free of guest molecules"
+        },
+        {
+          "step": "Evacuation",
+          "temperature": "room temperature",
+          "time": "12 h",
+          "pressure": "& 2 X 10@3 mbar",
+          "result": "structure resembles that of guest-free 1 A"
+        }
+      ]
+    }
+  ]
+}

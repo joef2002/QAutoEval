@@ -1,0 +1,73 @@
+{
+  "materials": [
+    {
+      "material": "phosphaethynselenolate (PCSe@, 1)",
+      "synthesis_conditions": {
+        "solvent": "dimethoxyethane (DME)",
+        "reactants": [
+          "sodium phosphanide (NaPH2)",
+          "diethylselenonocarbonate"
+        ],
+        "temperature": "unspecified",
+        "time": "24 hours",
+        "purification": [
+          "reduced to dryness under dynamic vacuum",
+          "extraction with THF in presence of 18-crown-6",
+          "filtration",
+          "precipitation with hexane"
+        ],
+        "yield": "30-40%",
+        "additional_information": "Off-white to pale yellow crystals obtained by slow diffusion of hexane into THF solutions of the reaction products."
+      }
+    },
+    {
+      "material": "arsaethynthiolate (AsCS@, 2)",
+      "synthesis_conditions": {
+        "solvent": "dimethoxyethane (DME)",
+        "reactants": [
+          "sodium arsanide (NaAsH2)",
+          "diethylthionocarbonate"
+        ],
+        "temperature": "unspecified",
+        "time": "24 hours",
+        "purification": [
+          "reduced to dryness under dynamic vacuum",
+          "extraction with THF in presence of 18-crown-6",
+          "filtration",
+          "precipitation with hexane"
+        ],
+        "yield": "30-40%",
+        "additional_information": "Off-white to pale yellow crystals obtained by slow diffusion of hexane into THF solutions of the reaction products."
+      }
+    },
+    {
+      "material": "arsaethynselenolate (AsCSe@, 3)",
+      "synthesis_conditions": {
+        "solvent": "dimethoxyethane (DME)",
+        "reactants": [
+          "sodium arsanide (NaAsH2)",
+          "diethylselenonocarbonate"
+        ],
+        "temperature": "unspecified",
+        "time": "24 hours",
+        "purification": [
+          "reduced to dryness under dynamic vacuum",
+          "extraction with THF in presence of 18-crown-6",
+          "filtration",
+          "precipitation with hexane"
+        ],
+        "yield": "30-40%",
+        "additional_information": "Off-white to pale yellow crystals obtained by slow diffusion of hexane into THF solutions of the reaction products."
+      }
+    },
+    {
+      "material": "additional salts and solvates",
+      "synthesis_conditions": {
+        "solvents": [
+          "dioxane"
+        ],
+        "additional_information": "Variation of conditions allows for the synthesis of several additional salts and solvates such as [Na(18-crown-6)(dioxane)]-[AsCS]·dioxane or [Na(dioxane)3][AsCS]. See Supporting Information for details."
+      }
+    }
+  ]
+}

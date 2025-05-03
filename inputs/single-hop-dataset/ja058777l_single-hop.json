@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the novel MOF synthesized?",
+      "answer": "Cu3(TATB)2(H2O)3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What strategies are used to increase hydrogen uptake in MOFs?",
+      "answer": "Increasing the binding energy of H2 to the network and increasing the internal surface area and/or pore volume.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is there a direct linear correlation between surface area and hydrogen storage uptake in MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the s-triazine ring in TATB play in the MOF structure?",
+      "answer": "It allows the peripheral benzene rings to be coplanar with the central ring, ensuring nearly complete delocalization of π electrons and strong inter-ligand π−π interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of the solvothermal reaction producing the MOF Cu3(TATB)2(H2O)3?",
+      "answer": "68%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the interweaving of two identical nets affect the MOF's porosity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Langmuir surface area of the MOF after activation at 150 °C?",
+      "answer": "3800 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does increasing the activation temperature always result in higher hydrogen uptake?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of coordinatively unsaturated metal centers in MOFs?",
+      "answer": "They increase the hydrogen affinity of the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the hydrogen uptake of the MOF at 760 Torr and 77 K?",
+      "answer": "1.9 wt %",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF structure noninterpenetrating?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of catenation on pore size in MOFs?",
+      "answer": "It divides large pores into smaller ones, increasing both the surface area to pore volume ratio and the overall stability of the network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the paddlewheel dicopper SBU in the MOF?",
+      "answer": "It becomes coordinatively unsaturated upon axial ligand removal, contributing to the MOF's structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF contain solvent-accessible volume after activation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the symmetry of the overall structure of the MOF?",
+      "answer": "R3̄m",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF's hydrogen uptake capacity attributed solely to its surface area?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the TATB ligand in the MOF's structure?",
+      "answer": "It leads to the formation of the paddlewheel dicopper SBU and contributes to the interweaving MOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of smaller pore size on hydrogen binding in MOFs?",
+      "answer": "It increases hydrogen binding, allowing a single H2 molecule to interact with multiple aromatic rings.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF exhibit permanent porosity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of thermal activation on the MOF's surface area?",
+      "answer": "Activation at higher temperature results in a decrease in measured surface area.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

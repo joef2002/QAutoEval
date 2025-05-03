@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title compound mentioned in the supplementary data file?",
+      "answer": "SCU-8",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI number of the article?",
+      "answer": "10.1038/s41467-017-01208-w",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of pollutants does SCU-8 rapidly trap?",
+      "answer": "Anionic persistent organic pollutants",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the inner diameter of the channels in SCU-8?",
+      "answer": "2.2 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of SCU-8?",
+      "answer": "1360 m2 g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to react metal cations with neutral N-donor ligands to afford [ML]+ frameworks?",
+      "answer": "One method is to react metal cations with neutral N-donor ligands",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is SCU-8 thermally stable up to 350 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SCU-8 exhibit anion-exchange properties?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can SCU-8 remove MB2− anions without hydrolytic degradation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is SCU-8 capable of removing perfluorooctane sulfonate (PFOS) from water?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SCU-8 have a higher sorption capacity for PFOS compared to other materials mentioned?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the sorption of PFOS by SCU-8 reversible?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study provide evidence of thorium leaching during the anion-exchange process with SCU-8?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to probe the underlying sorption mechanism of PFOS in SCU-8?",
+      "answer": "Quantum mechanical and molecular dynamics simulations",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum sorption capacity of SCU-8 for PFOS, according to the Langmuir model?",
+      "answer": "162.03 mmol mol−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coordination geometry of Th4+ in SCU-8?",
+      "answer": "A capped triangular cupola geometry",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can SCU-8 selectively remove PFOS in the presence of large excess of multiple competing anions?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrophobic interactions in the adsorption of PFOS into SCU-8?",
+      "answer": "Hydrophobic interactions are one of the key driving forces behind the anion-exchange process",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of SCU-8?",
+      "answer": "P63/m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of the smallest unrepeatable unit used in DFT computational model for SCU-8?",
+      "answer": "O2-(Th4+)3(C12H9COO-)6(C6H5COO-)3(H2O)3",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

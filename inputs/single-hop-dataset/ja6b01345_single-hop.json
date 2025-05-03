@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of truMOF-1?",
+      "answer": "Zn10O28C240",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single crystal X-ray diffraction data collection?",
+      "answer": "Bruker APEX II CCD-based detector at ChemMatCARS, APS, Argonne National Laboratory",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Förster distance of ligand-to-ligand energy transfer in the isotropic homogeneous network model?",
+      "answer": "R = 0.211(κ2n−4QDJ(λ))1/6",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main finding regarding energy transport in truMOFs?",
+      "answer": "Exciton jumping beyond nearest neighbors accounted for up to 67% of the energy transfer rates in truMOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the step-by-step random hopping model adequate for quantifying energy transport in truMOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quantum yield of the ligand in truMOFs?",
+      "answer": "43.2%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the dye loading percentage quantified in the study?",
+      "answer": "By combined fluorescence and UV–vis measurements of digested DMF solution of dye@MOF hybrids.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the Förster energy transfer distance indicate?",
+      "answer": "It indicates the distance at which 50% of the donor energy will be transferred to the acceptor.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study find that energy transfer efficiency is affected by both ligand-to-dye and ligand-to-ligand energy transfer rates?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE subroutine in the PLATON software suite?",
+      "answer": "To remove the scattering from the highly disordered guest molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the crystal system of truMOF-2?",
+      "answer": "Cubic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the exciton migration distance change when considering jumps beyond nearest neighbors?",
+      "answer": "It increases the migration distance by 115% in truMOF-1 and 92% in truMOF-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the orientation factor (κ2) for randomly distributed molecules equal to 2/3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the diffusivity of excitons in truMOF-1?",
+      "answer": "1.8 × 10−2 cm2/s",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the model of isotropic homogeneous network aim to capture?",
+      "answer": "Both the local structure and long distance migration of excitons.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the point-dipole approximation used in the study's simulation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of the thermogravimetric analysis in the study?",
+      "answer": "To determine the amount of ligand and solvent molecules in truMOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the Förster energy transfer rate described in the study?",
+      "answer": "By the Förster energy transfer theory but beyond the point-dipole approximation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study use a machine-generated random number to load dye molecules in the model?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the Adsorber Locater module in Materials Studio software suite?",
+      "answer": "To predict the adsorption positions and distributions of dye molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

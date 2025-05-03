@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular size of acetylene?",
+      "answer": "3.32 × 3.34 × 5.7 Å3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the boiling point of CO2?",
+      "answer": "194.7 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary function of UTSA-300?",
+      "answer": "Selective separation of acetylene from carbon dioxide and ethylene",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the pore size of UTSA-300?",
+      "answer": "About 3.3 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to UTSA-300 after activation?",
+      "answer": "It transforms to its closed-pore phase, UTSA-300a",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What interactions are found in closed-pore UTSA-300a?",
+      "answer": "C–H···F and π–π stacking interactions",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does UTSA-300a differentiate between C2H2, CO2, and C2H4?",
+      "answer": "By utilizing size-matched pores and specific binding sites for C2H2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of CO2 and C2H4 by UTSA-300a significant at ambient conditions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does UTSA-300a exhibit a higher adsorption capacity for C2H2 compared to CO2 and C2H4?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can UTSA-300a maintain its structure in air?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the pore opening of UTSA-300a triggered by CO2 adsorption?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does UTSA-300a have a higher selectivity for C2H2 over CO2 and C2H4?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hexafluorosilicate F atoms in UTSA-300a?",
+      "answer": "They primarily bind to C2H2 molecules in a head-on orientation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the structural transformation of UTSA-300 to UTSA-300a?",
+      "answer": "The removal of guest water molecules",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of C2H2 adsorption on the structure of UTSA-300a?",
+      "answer": "It leads to the expansion of the framework to an open-pore structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does UTSA-300a show complete exclusion of CO2 and C2H4 from C2H2 under ambient conditions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the experimental method used to confirm the adsorption sites of C2D2 in UTSA-300?",
+      "answer": "Neutron powder diffraction",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary binding site for C2H2 in UTSA-300a according to DFT-D calculations?",
+      "answer": "Site I, where C2H2 is symmetrically bound to two terminal F atoms of different SiF6 units",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated static binding energy for C2H2 at the primary binding site in UTSA-300a?",
+      "answer": "Approximately 56.8 kJ mol−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does UTSA-300a exhibit flexibility in its structure upon gas adsorption?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

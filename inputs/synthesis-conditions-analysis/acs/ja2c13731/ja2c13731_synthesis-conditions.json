@@ -1,0 +1,89 @@
+{
+  "materials": [
+    {
+      "name": "c-(4,12)­MTBC-Zr6",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "details": {
+            "precursors": ["ZrCl4", "MTBC"],
+            "solvent": "diethylformamide (DEF)",
+            "modulator": "benzoic acid",
+            "temperature": "120 °C",
+            "time": "24 h",
+            "equipment": ["Al-block", "oven"],
+            "washing_method": ["DEF", "acetone"],
+            "drying_method": "supercritical CO2 drying"
+          }
+        },
+        {
+          "step": "Optimization for crystal size",
+          "details": {
+            "method": "reaction without stirring",
+            "crystal_morphology": "truncated octahedra",
+            "crystal_size": "up to 200 μm"
+          }
+        }
+      ]
+    },
+    {
+      "name": "c-(4,12)­MTBC-Hf6",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "details": {
+            "precursors": ["HfCl4", "MTBC"],
+            "solvent": "diethylformamide (DEF)",
+            "modulator": "benzoic acid",
+            "temperature": "120 °C",
+            "time": "48 h or 7 d",
+            "equipment": ["oven"],
+            "washing_method": ["DEF", "acetone"],
+            "drying_method": "supercritical CO2 drying",
+            "crystal_morphology": "truncated octahedra",
+            "crystal_size": "up to 200 μm"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tr-(4,12)­MTBC-Zr6",
+      "synthesis_conditions": [
+        {
+          "step": "Optimized synthesis for phase purity",
+          "details": {
+            "precursors": ["ZrCl4"],
+            "solvent": "dimethylacetamide (DMA)",
+            "modulator": "benzoic acid",
+            "water_addition": "4 μL",
+            "temperature": "120 °C",
+            "time": "1 to 2 days",
+            "equipment": ["oven"],
+            "washing_method": ["DEF", "acetone"],
+            "drying_method": "supercritical CO2 drying",
+            "crystal_morphology": "hexagonal particles"
+          }
+        }
+      ]
+    },
+    {
+      "name": "tr-(4,12)­MTBC-Hf6",
+      "synthesis_conditions": [
+        {
+          "step": "Solvothermal synthesis",
+          "details": {
+            "precursors": ["HfCl4", "MTBC"],
+            "solvent": "diethylformamide (DEF)",
+            "modulator": "benzoic acid",
+            "temperature": "120 °C",
+            "time": "48 h or 7 d",
+            "equipment": ["oven"],
+            "washing_method": ["DEF", "acetone"],
+            "drying_method": "supercritical CO2 drying",
+            "crystal_morphology": "hexagonal platelets"
+          }
+        }
+      ]
+    }
+  ]
+}

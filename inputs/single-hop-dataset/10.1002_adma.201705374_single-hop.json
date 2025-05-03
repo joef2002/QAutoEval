@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in separating propyne from propylene?",
+      "answer": "The main challenge in separating propyne from propylene is their high structural similarity and similar molecular size, along with the ultralow concentration of propyne in the mixture.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do anion-pillared ultramicroporous materials play in gas separation?",
+      "answer": "Anion-pillared ultramicroporous materials serve as highly selective traps for propyne, enabling the efficient removal of trace amounts of propyne from propylene due to their ability to match the shape and interacting sites of the propyne molecule.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pyrazine-based ultramicroporous material function in propyne capture?",
+      "answer": "The pyrazine-based ultramicroporous material functions as a single-molecule trap for propyne, enabling extremely high propyne uptake under ultralow concentration and record selectivity over propylene by varying its pore shape and functional site disposition to match the propyne molecule.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the pore structure in SIFSIX-3-Ni for propyne capture?",
+      "answer": "The pore structure of SIFSIX-3-Ni, with its pyrazine linker, has a unique advantage for trace propyne capture due to its ability to precisely match the size, shape, and interaction sites of the propyne molecule, leading to strong gas-physisorbent interactions and high selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: SIFSIX-3-Ni and NbOFFIVE-1-Ni have the same adsorption capacity for propyne.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of changing the metal node from Ni to Zn in pyrazine-based ultramicroporous materials on propyne uptake?",
+      "answer": "Changing the metal node from Ni to Zn in pyrazine-based ultramicroporous materials drastically decreases the propyne uptake capacity at 3000 ppm from 2.65 mmol g−1 on SIFSIX-3-Ni to 1.82 mmol g−1 on SIFSIX-3-Zn.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of C3H4 and C3H6 on SIFSIX-3-Ni at different temperatures are almost identical in the range of 298–313 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the breakthrough experiment demonstrate about SIFSIX-3-Ni's efficiency in propyne capture?",
+      "answer": "The breakthrough experiment demonstrates that SIFSIX-3-Ni sets new benchmarks for the removal of ultralow concentration propyne from propylene, confirming its efficiency in propyne capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: SIFSIX-3-Ni has a lower selectivity for propyne over propylene compared to NbOFFIVE-1-Ni.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the anion pillar substitution from SiF62− to NbOF52− in ultramicroporous materials?",
+      "answer": "The substitution of the anion pillar from SiF62− to NbOF52− in ultramicroporous materials leads to a reduction of the maximal pore aperture, generating obvious diffusion resistance for propylene and affecting the adsorption capacity for propyne.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of propyne on SIFSIX-3-Ni is reversible.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the adsorption behavior of propyne and propylene differ on SIFSIX-3-Ni?",
+      "answer": "On SIFSIX-3-Ni, propyne exhibits a much higher uptake capacity compared to propylene under extremely low partial pressure, indicating that SIFSIX-3-Ni is promising for the selective separation of trace propyne from propylene.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms of C3H4 on SIFSIX-3-Ni at 298 K and 393 K show hysteresis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pyrazine linker in the adsorption process of SIFSIX-3-Ni?",
+      "answer": "The pyrazine linker in SIFSIX-3-Ni plays a crucial role in the adsorption process by contributing to the precise matching of the pore size and functional sites to the size, shape, and interaction sites of the propyne molecule, facilitating strong interactions and high selectivity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: SIFSIX-3-Ni and SIFSIX-2-Cu-i have the same performance for the adsorption of moderate and high concentration propyne.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the adsorption capacity of SIFSIX-3-Ni for propyne at ultralow pressure?",
+      "answer": "SIFSIX-3-Ni's adsorption capacity for propyne at ultralow pressure is distinguished by its extremely high uptake (2.65 mmol g−1 at 3000 ppm) and record selectivity over propylene, enabled by its unique pore structure and strong gas-physisorbent interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of propyne on SIFSIX-3-Ni is influenced by the temperature range of 298–313 K.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the adsorption isotherms of propyne on SIFSIX-3-Ni?",
+      "answer": "The effect of temperature on the adsorption isotherms of propyne on SIFSIX-3-Ni is minimal, as the saturated propyne uptake and the profile of the adsorption isotherms are almost identical in the temperature range of 298–313 K, indicating strong interactions between propyne and SIFSIX-3-Ni.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption capacity of SIFSIX-3-Ni for propyne drastically decreases when the metal node is changed from Ni to Zn.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the selectivity of SIFSIX-3-Ni for propyne over propylene compare to other materials?",
+      "answer": "The selectivity of SIFSIX-3-Ni for propyne over propylene is significantly higher than that of other materials, with a record selectivity over 250 at 298 K, indicating its superior performance in selectively capturing propyne from propylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the flexible porous metal azolate framework discussed?",
+      "answer": "[Cu2(μ-OH)2(bdim)]·5.4H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary method used for CO2 capture in the discussed framework?",
+      "answer": "Physical adsorption",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the concentration of Cu(II) ions in the discussed framework?",
+      "answer": "8.6 mol L-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 uptake of the framework at 298 K and 1 atm?",
+      "answer": "19.6 wt%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of cluster is key to increasing the concentration of the open Cu(II) sites in the framework?",
+      "answer": "Planar [Cu2(μ-OH)2]2+ cluster",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2–N2 selectivity of the framework at 298 K?",
+      "answer": "37",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CO2 adsorption enthalpy change with coverage in the framework?",
+      "answer": "It decreases rapidly to 29.0 kJ mol-1 at 1 mmol g-1 and then increases slowly at higher coverages.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What triggers the transformation from the guest-free or saturated phase to the narrow pore phase in the framework?",
+      "answer": "Low-pressure CO2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the simulated CO2 uptake and binding energy at 1 atm according to GCMC simulation?",
+      "answer": "95 cm3 g-1 and 37.2 kJ mol-1, respectively",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the weight change observed over repeated CO2 capture cycles at 30 1C?",
+      "answer": "5.1 wt%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the discussed framework capable of quick CO2 adsorption and desorption?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework show better CO2 capture performance under practical conditions compared to other PCPs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the concentration of open Cu(II) sites in the framework lower than those of literature-reported PCPs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework's CO2 adsorption capacity decrease significantly over repeated cycles?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2–N2 selectivity of the framework lower at 273 K compared to 298 K?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework use chemical absorption for CO2 capture?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2 adsorption enthalpy constant across all coverages in the framework?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the framework's structure transform in response to CO2 pressure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

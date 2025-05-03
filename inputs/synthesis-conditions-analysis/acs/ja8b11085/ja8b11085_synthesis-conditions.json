@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "time": "48 h",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "108 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "TpmC*",
+            "amount": "540 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "19.9 g"
+          },
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "1.01 g"
+          },
+          {
+            "name": "CuI",
+            "amount": "956 mg"
+          }
+        ],
+        "yield": "Not specified",
+        "washing_method": "DMF, acetonitrile, acetone",
+        "drying_method": "Air drying",
+        "equipment": "250 mL bottle, oven"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "time": "18 h",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "500 mL"
+          },
+          {
+            "name": "4M HCl",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1",
+            "amount": "1.22 g"
+          }
+        ],
+        "yield": "54% versus TpmC*",
+        "washing_method": "DMF",
+        "drying_method": "Dynamic vacuum at 110 °C for 16 hours",
+        "equipment": "1 L bottle, oven"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "temperature": "95 °C",
+        "time": "4 days for soaking, overnight for activation",
+        "solvents": [
+          {
+            "name": "acetonitrile",
+            "amount": "100 mL for soaking, additional for washing"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2",
+            "amount": "200 mg"
+          },
+          {
+            "name": "[Cu(CH3CN)4]BF4",
+            "amount": "86 mg"
+          }
+        ],
+        "yield": "85%",
+        "washing_method": "Fresh acetonitrile",
+        "drying_method": "Dynamic vacuum at 95 °C overnight",
+        "equipment": "250 mL bottle"
+      }
+    }
+  ]
+}

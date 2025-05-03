@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of reticular chemistry?",
+      "answer": "Reticular chemistry is concerned with linking building blocks known as secondary building units (SBUs) into predetermined structures using strong bonds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are MOPs and MOFs?",
+      "answer": "MOPs are metal-organic polyhedra and MOFs are metal-organic frameworks, both prepared by linking square units M2(CO2)4 (M = Cu and Zn) with various organic linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the linker shape control the dimensionality in MOPs and MOFs synthesis?",
+      "answer": "The shape of the linker controls the dimensionality (periodicity) and topology of the resulting structures by determining how the square units are connected.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the twist angle in the synthesis of MOFs?",
+      "answer": "The twist angle in the linker determines the dimensionality and topology of the MOF structure by affecting how the square units are oriented and connected.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it possible to achieve permanent porosity in interpenetrated MOF structures?",
+      "answer": "Yes, permanent porosity can be achieved even in interpenetrated MOF structures, as demonstrated by the gas adsorption data for MOF-601 to -603.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the surface of MOPs be functionalized without altering their topology?",
+      "answer": "Yes, the surfaces of MOPs can be easily functionalized without changing their underlying topology or the link geometry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The gas uptake capacity of a MOF is solely determined by its surface area.",
+      "answer": "False, the gas uptake capacity of a MOF is not solely determined by its surface area but also by the geometry of pore systems and interactions with the gas molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Interpenetration in MOFs always leads to a reduction in gas storage capacity.",
+      "answer": "False, interpenetration does not always reduce gas storage capacity and can help reinforce framework stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do functional groups play in the adsorption properties of MOFs?",
+      "answer": "Functional groups in MOFs can influence adsorption properties by interacting with guest molecules, affecting the strength of adsorption and selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MOFs with specific topologies can be controlled by the angle between carboxylates in the organic linkers.",
+      "answer": "True, the angle between carboxylates in the organic linkers is crucial for controlling the topology of MOFs by determining the orientation and connection of square units.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of linker flexibility on MOF structures?",
+      "answer": "Linker flexibility can allow for adjustments in the twist angle and accommodate different geometries, enabling the formation of desired MOF structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All MOFs exhibit the same type of gas adsorption isotherms.",
+      "answer": "False, MOFs can exhibit different types of gas adsorption isotherms depending on their pore structure and interactions with the adsorbate.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of heavy atoms in MOFs affect their structure?",
+      "answer": "The presence of heavy atoms in MOFs can influence the framework's stability and pore geometry, potentially affecting the material's adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The quadrupole moment of functional groups in MOFs has no effect on CO2 adsorption.",
+      "answer": "False, the quadrupole moment of functional groups in MOFs can affect CO2 adsorption due to quadrupole-quadrupole interactions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What determines the gas uptake steps observed in the isotherms of MOF-601 and MOF-602?",
+      "answer": "The gas uptake steps observed in the isotherms of MOF-601 and MOF-602 are attributed to micropore filling, influenced by the geometry of the pores and interactions with the gas molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of MOFs with specific topologies requires long organic linkers.",
+      "answer": "False, the synthesis of MOFs with specific topologies does not necessarily require long organic linkers but rather linkers with suitable geometry and flexibility.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of solvent exchange in the activation of MOFs?",
+      "answer": "Solvent exchange in the activation of MOFs is crucial for removing guest molecules from the pores, which can enhance the material's porosity and adsorption properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of MOFs cannot be determined when solvent molecules are not fully resolved.",
+      "answer": "False, the crystal structure of MOFs can still be determined even when solvent molecules are not fully resolved, using techniques like SQUEEZE to treat diffuse electron density.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does crystal twinning affect the structure determination of MOFs?",
+      "answer": "Crystal twinning can complicate the structure determination of MOFs by affecting the symmetry and quality of diffraction data, requiring adjustments in the refinement process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All MOFs synthesized in the study exhibited the same crystal symmetry.",
+      "answer": "False, the MOFs synthesized in the study exhibited different crystal symmetries, depending on their specific structures and the arrangement of their components.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

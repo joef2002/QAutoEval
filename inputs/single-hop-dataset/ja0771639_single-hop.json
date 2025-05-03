@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the metal-organic framework discussed in the article?",
+      "answer": "PCN-14",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of PCN-14 as mentioned in the article?",
+      "answer": "2176 m^2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOE target for methane storage mentioned in the article?",
+      "answer": "180 v(STP)/v",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does PCN-14 meet the DOE target for methane storage?",
+      "answer": "Yes, PCN-14 exhibits an absolute methane-adsorption capacity of 230 v/v, which is 28% higher than the DOE target.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of aromatic rings in MOFs according to the article?",
+      "answer": "Aromatic rings in MOFs can improve the methane-binding energy, enhancing both the uptake and the heat of methane-adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-13 exhibits selective adsorption of hydrogen and oxygen over nitrogen and carbon monoxide.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of PCN-14 involves a solvothermal reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal structure space group of PCN-14?",
+      "answer": "R-3c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated pore volume of PCN-14?",
+      "answer": "0.87 cm^3/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest methane uptake capacity of PCN-14 at 290 K and 35 bar?",
+      "answer": "230 v(STP)/v",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of H4adip involves heating a mixture under nitrogen atmosphere for 40 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of H4adip in the synthesis of PCN-14?",
+      "answer": "H4adip reacts with Cu(NO3)2 under solvothermal conditions to form PCN-14.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area of PCN-14 is higher than that of MOF-505.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the isosteric heats of adsorption (Qst) for PCN-14?",
+      "answer": "The high Qst of PCN-14 indicates strong interactions between methane and the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-14 has a lower Langmuir surface area compared to some other MOFs using isophthalate derivatives.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of PCN-14 for methane storage as mentioned in the article?",
+      "answer": "PCN-14 has nanoscopic cages suitable for methane uptake and exhibits high methane-adsorption capacity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of PCN-14 does not involve the use of DMF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Sievert apparatus in the study of PCN-14?",
+      "answer": "The Sievert apparatus is used for high-pressure methane sorption isotherm measurements on PCN-14.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The solvent accessible volume for desolvated PCN-14 is less than 50%.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of increasing temperature on methane adsorption in PCN-14?",
+      "answer": "The methane saturation uptake of both excess adsorption and absolute adsorption decrease with increasing temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

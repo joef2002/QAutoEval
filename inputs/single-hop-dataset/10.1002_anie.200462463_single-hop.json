@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What ligand is used as a bischelating agent in the synthesis of homometallic coordination polymers?",
+      "answer": "3-hydroxypicolinate (pico)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 4,4'-bipyridine (4,4'-bpy) ligands in the structure?",
+      "answer": "They interconnect 1D chains into a 2D structure, leading to stabilization of the magnetic ordering.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound [Co4(pico)4(4,4'-bpy)3-(H2O)2]n·2nH2O forms a 1D network.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of magnetic behavior does the compound exhibit?",
+      "answer": "Spin canting and typical metamagnetism",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How are the CoII ions in the asymmetric unit of 1 coordinated?",
+      "answer": "Each of the four CoII ions is located in a distorted octahedron with different ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic susceptibility of 1 indicates purely ferromagnetic interactions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Weiss constant q being -20.4 K for the compound?",
+      "answer": "It indicates an overall strong antiferromagnetic interaction and/or spin–orbital coupling between the CoII ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound 1 shows long-range magnetic ordering at temperatures above 0 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural feature is unique to compound 1?",
+      "answer": "The inclined interpenetration of two types of sheets with different composites that have the same topology (4,4-net).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Hydrogen-bonding interactions do not play a role in the structure of compound 1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical temperature Tc for the metamagnetic behavior of 1?",
+      "answer": "3.5 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of 1 affect its magnetic properties?",
+      "answer": "The structural anisotropy in 1 results in competitions between the exchange interactions of the 3D motif, leading to typical metamagnetism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetization curves for 1 below the transition temperature do not exhibit a sigmoidal shape.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the magnetic properties of 1?",
+      "answer": "Hydrogen bonding may contribute to the low transition fields observed in 1 by affecting the exchange interactions between CoII ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of 1 involves heating at 160°C for 160 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage based on Co for the synthesis of 1?",
+      "answer": "56%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of 1 was determined using neutron diffraction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical field Hc for the metamagnetic transition of 1?",
+      "answer": "About 160 Oe",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the temperature affect the magnetization of 1?",
+      "answer": "The magnetization first decreases to a minimum at 9.0 K, then increases rapidly to a maximum at 3.5 K, and finally decreases more rapidly on further cooling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic measurements for 1 were carried out using an electron paramagnetic resonance (EPR) spectrometer.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

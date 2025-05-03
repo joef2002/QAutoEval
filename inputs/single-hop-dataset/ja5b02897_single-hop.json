@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "C7H8N1O3.25SFe",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "R 3+",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature used for the X-ray diffraction studies of Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Fe2(DSBDC)(DMF)2 exhibit breathing behavior?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated bandgap of Fe2(DSBDC)(DMF)2?",
+      "answer": "1.92 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the conductivity of Fe2(DSBDC)(DMF)2 higher than Mn2(DSBDC)(DMF)2?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the electronic and structural calculations?",
+      "answer": "Density Functional Theory (DFT)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of substituting Mn2+ with Fe2+ in MOFs on electrical conductivity?",
+      "answer": "Substituting Mn2+ with Fe2+ leads to a million-fold enhancement in electrical conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Mössbauer spectroscopy measurements for Fe-based MOFs?",
+      "answer": "To confirm the oxidation state and high-spin configuration of the Fe atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conductivity of Fe2(DOBDC)(DMF)2 higher than Mn2(DOBDC)(DMF)2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "DMF acts as a solvent and is also coordinated to the metal sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the absorption coefficient of Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "1.401 mm-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the phase change in Fe2(DSBDC) involve bond destruction and reconstruction?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational tool was used for the PXRD pattern simulation of Fe2(DSBDC)?",
+      "answer": "MOF-FIT 2.0",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of hexagon distortion in the crystal lattice of Fe2(DSBDC)?",
+      "answer": "It breaks the 3-fold symmetry and reduces the hexagon area to accommodate the loss of non-coordinating solvent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the conductivity of Fe frameworks described in the text the highest in the MOF-74 family?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated work function of Fe2(DSBDC)?",
+      "answer": "3.71 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of loosely bound Fe2+ β-spin electrons contribute to the higher conductivity of Fe2(DSBDC)?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the hybrid exchange−correlation functional (HSE06) in the computational analysis?",
+      "answer": "It is used for computing key electronic properties, including electron density, electrostatic potential, and band gap.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the variable-temperature PXRD patterns for Fe2(DSBDC)(DMF)2·x(DMF)?",
+      "answer": "It indicates the reversible phase change associated with the removal and refilling of non-coordinating solvent in the pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

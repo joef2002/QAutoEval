@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the preformed chiral MOF mentioned in the text?",
+      "answer": "Ca6II{CuII24[(S,S)-hismox]12(OH2)3}·212H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the resulting compound after the cation metathesis process?",
+      "answer": "(CH3NH3)12{CuII24[(S,S)-hismox]12(OH2)3}·178H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does compound 2 exhibit ferroelectric behavior?",
+      "answer": "Below 260 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the method used for the cation exchange in the synthesis of compound 2?",
+      "answer": "Solid-state postsynthetic metathesis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of CH3NH3+ in the ferroelectric properties of the resulting compound?",
+      "answer": "CH3NH3+ cations are favorable for the occurrence of ferroelectricity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the polar space group of the MOF preserved after the cation exchange process?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the postsynthetic strategy involve a single-crystal to single-crystal process?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the crystal structures of compounds 1 and 2 isomorphous?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of compounds 1 and 2?",
+      "answer": "R3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in the development of ferroelectric MOFs according to the text?",
+      "answer": "The development of rational synthetic methodologies targeting materials with ferroelectric properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the ferroelectric behavior of compound 2 depend on the directionality of H-bonds and the host matrix chiral structure?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of MOFs for synthesizing molecule-based ferroelectrics?",
+      "answer": "MOFs allow for a precise determination of crystal structure and rich host–guest chemistry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ferroelectric behavior of compound 2 confirmed by electrical measurements?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used to correct for absorption in the X-ray diffraction data?",
+      "answer": "SADABS multi-scan absorption software",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the polar space group in the context of ferroelectricity?",
+      "answer": "A polar space group is necessary for a material to exhibit ferroelectric properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of compound 2 involve the use of a chiral ligand derived from L-histidine?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water molecules in the structure of compound 1?",
+      "answer": "Water molecules participate in a hydrogen-bonded network and stabilize the structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ferroelectric behavior of compound 2 reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compounds 1 and 2?",
+      "answer": "Trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the postsynthetic approach open a new avenue for synthesizing FE MOFs?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

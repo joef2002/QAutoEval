@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "[Cu2(glu)2(bpy)]·2.9 H2O (1 a)",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "time": "24 h",
+        "equipment": "dynamic vacuum",
+        "chemicals_used": [
+          "Cu(NO3)2·2.5 H2O",
+          "glutaric acid (gluH2)",
+          "4,4’-bipyridine (bpy)"
+        ],
+        "yield": "Green block-shaped crystals",
+        "drying_method": "dehydration",
+        "solvents": "N/A",
+        "amount_of_each_solvent": "N/A",
+        "washing_method": "N/A"
+      }
+    },
+    {
+      "name": "[Cu2(glu)2(bpe)]·3 H2O (2 a)",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "time": "24 h",
+        "equipment": "dynamic vacuum",
+        "chemicals_used": [
+          "Cu(NO3)2·2.5 H2O",
+          "glutaric acid (gluH2)",
+          "trans-bis(4-pyridyl)ethylene (bpe)"
+        ],
+        "yield": "Green block-shaped crystals",
+        "drying_method": "dehydration",
+        "solvents": "N/A",
+        "amount_of_each_solvent": "N/A",
+        "washing_method": "N/A"
+      }
+    },
+    {
+      "name": "[Cu2(glu)2(bpymh)]·7.5 H2O (3 a)",
+      "synthesis_conditions": {
+        "temperature": "150 8C",
+        "time": "24 h",
+        "equipment": "dynamic vacuum",
+        "chemicals_used": [
+          "Cu(NO3)2·2.5 H2O",
+          "glutaric acid (gluH2)",
+          "N,N’-bis(pyridine-4-ylmethylene)hydrazine (bpymh)"
+        ],
+        "yield": "Green block-shaped crystals",
+        "drying_method": "dehydration",
+        "solvents": "N/A",
+        "amount_of_each_solvent": "N/A",
+        "washing_method": "N/A"
+      }
+    },
+    {
+      "name": "1 b, 2 b, and 3 b after scCO2 treatment",
+      "synthesis_conditions": {
+        "temperature": "N/A",
+        "time": "24 h",
+        "equipment": "N/A",
+        "chemicals_used": [
+          "scCO2"
+        ],
+        "yield": "Crystals of suitable quality",
+        "drying_method": "N/A",
+        "solvents": "N/A",
+        "amount_of_each_solvent": "N/A",
+        "washing_method": "N/A"
+      }
+    }
+  ]
+}

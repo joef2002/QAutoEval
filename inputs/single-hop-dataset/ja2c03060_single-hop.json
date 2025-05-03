@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of incorporating titanium into the zirconium-pyrene-based MOF NU-1000?",
+      "answer": "The purpose is to generate a highly reactive biocidal photocatalyst, denoted as NU-1012, which features a rare ligand migration phenomenon and both the Ti/Zr center and the pyrene linker act synergistically as dual active centers to widen the absorption band, resulting in enhanced reactive oxygen species generation upon visible light irradiation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of ligand migration in NU-1012?",
+      "answer": "Ligand migration in NU-1012 results in the formation of an expanded Zr6Ti4 node, which contributes to the material's photocatalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can NU-1012 be easily incorporated onto cotton textile cloths?",
+      "answer": "Yes, NU-1012 can be easily incorporated onto cotton textile cloths as a coating.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the biocidal activity of the NU-1012-coated textile against bacteria and viruses?",
+      "answer": "The NU-1012-coated textile demonstrates fast and potent biocidal activity against Gram-negative bacteria (Escherichia coli), Gram-positive bacteria (Staphylococcus epidermidis), and T7 bacteriophage virus with up to a 7-log (99.99999%) reduction within 1 hour under simulated daylight.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the ligand migration process specific to NU-1012?",
+      "answer": "No, the ligand migration process is generally applicable to other csq topology Zr-MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The incorporation of titanium into NU-1000 does not affect its photocatalytic activity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pyrene linker in NU-1012?",
+      "answer": "The pyrene linker acts as a photosensitizer to promote the generation of superoxide radicals and singlet oxygen, contributing to the photocatalytic activity of NU-1012.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NU-1012 demonstrates stronger antimicrobial performance than NU-1000.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Zr6Ti4 node in NU-1012?",
+      "answer": "The Zr6Ti4 node is significant because it is formed through a ligand migration process and contributes to the enhanced photocatalytic activity of NU-1012 by promoting reactive oxygen species generation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NU-1012-coated textiles lose their antimicrobial potency after exposure to water and continuous light irradiation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the post-synthetic metalation strategy on the structure of Zr-MOFs?",
+      "answer": "The post-synthetic metalation strategy induces ligand migration and node restructuring, contributing to the functionalization of Zr-MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NU-1012-coated textile is not effective against T7 bacteriophage virus.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of titanium isopropanol in the synthesis of NU-1012?",
+      "answer": "Titanium isopropanol is used as a precursor for the incorporation of titanium into the NU-1000 framework to synthesize NU-1012.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic activity of NU-1012 is independent of visible light irradiation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the photocatalytic activity of NU-1012 on public health?",
+      "answer": "The photocatalytic activity of NU-1012, especially its biocidal performance, can be extended to surfaces in high-risk settings like hospitals and schools, potentially preventing infections and benefiting public health.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of NU-1012 requires harsh conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area and pore volume measurements for NU-1012?",
+      "answer": "The BET surface area and pore volume measurements provide insights into the porosity and surface characteristics of NU-1012, which are important for its photocatalytic and biocidal activities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NU-1012 can only be synthesized in isopropanol.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Zr6 node in the structure of NU-1000?",
+      "answer": "The Zr6 node serves as a structural component in NU-1000, and its modification through ligand migration and titanium incorporation leads to the formation of NU-1012 with enhanced properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NU-1012-coated textile is only effective in the presence of light.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

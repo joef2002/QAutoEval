@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the two-dimensional zeolitic imidazolate framework discussed?",
+      "answer": "ZIF-L",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the molar ratio of Hmim to zinc ions used in the synthesis of ZIF-L?",
+      "answer": "8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the elemental composition of ZIF-L prior to activation?",
+      "answer": "Zn(mim)2·(Hmim)1/2·(H2O)3/2 (C10H16N5O3/2Zn)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the shape of the cavity in ZIF-L?",
+      "answer": "Cushion-shaped",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 adsorption capacity of ZIF-L at 298 K and 0.1 MPa?",
+      "answer": "0.94 mmol/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2/CH4 adsorption selectivity of ZIF-L?",
+      "answer": "7.2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does ZIF-L exhibit superior CO2 adsorption capacity and selectivity compared to other ZIFs?",
+      "answer": "Due to its unique cushion-shaped cavities and strong interactions between CO2 molecules and Hmim molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ZIF-L retain its framework structure after being heated at 110 °C in vacuum?",
+      "answer": "Yes, ZIF-L retains its framework structure even after 24 h of heating at 110 °C in vacuum.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of ZIF-L stable under high pressures up to 6.3 GPa?",
+      "answer": "Yes, ZIF-L exhibits excellent structural stability at high pressures up to 6.3 GPa.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of ZIF-L require organic solvents?",
+      "answer": "No, ZIF-L is synthesized in an aqueous system.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 adsorption process in ZIF-L reversible?",
+      "answer": "Yes, CO2 can be easily adsorbed and desorbed from ZIF-L, indicating the reversibility of the process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the adsorption of CO2 change the XRD pattern of ZIF-L significantly?",
+      "answer": "No, the structure of ZIF-L does not change after CO2 adsorption, as confirmed by its XRD pattern.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZIF-L stable at 150 °C in air?",
+      "answer": "Yes, ZIF-L is stable at 150 °C in air.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZIF-L has a higher BET surface area than ZIF-8.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: ZIF-L has a channel system for CO2 sorption.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of ZIF-L requires a Hmim/Zn molar ratio of 8.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: ZIF-L exhibits a leaf-like crystal morphology.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: ZIF-L's CO2 adsorption capacity is lower than that of ZIF-8.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: ZIF-L's structure changes significantly under high pressure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: ZIF-L's CO2 adsorption process is not reversible.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

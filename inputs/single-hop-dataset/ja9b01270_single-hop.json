@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of SCU-12?",
+      "answer": "[(CH3)2NH2][Tb2L3(DMF)2(H2O)2(HCOO)]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of SCU-12?",
+      "answer": "C2/c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated energy gap for SCU-12?",
+      "answer": "1.84 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the resistivity of SCU-12 at room temperature?",
+      "answer": "1.6×10^11 Ω·cm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the X-ray detection sensitivity of SCU-12?",
+      "answer": "23.8 μC Gy−1 air cm−2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the lowest detectable X-ray dose rate for SCU-12?",
+      "answer": "0.705 μGy s−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does SCU-12 maintain structural integrity after 60 kGy Co-60 gamma ray irradiation?",
+      "answer": "No, the X-ray generated photocurrent significantly decreases after 60 kGy gamma ray irradiation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the SCU-12-based detector sensitive to X-ray photons?",
+      "answer": "Yes, the SCU-12-based detector is highly sensitive to X-ray photons.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can SCU-12 be used for direct radiation detection?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the energy gap of SCU-12 larger than 2 eV?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SCU-12 have a higher X-ray detection sensitivity compared to α-Se?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is SCU-12 thermally stable up to 300 °C?",
+      "answer": "False, SCU-12 is thermally stable up to 200 °C.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the photocurrent of SCU-12 increase upon X-ray irradiation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the detection limit of SCU-12 less than 1 μGy s−1?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does SCU-12 exhibit a linear I-V relationship under dark conditions?",
+      "answer": "Yes, SCU-12 shows a linear I-V relationship in the voltage range from −10 to +10 V under dark conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of gamma ray irradiation on the electrical properties of SCU-12?",
+      "answer": "Gamma ray irradiation significantly reduces the X-ray generated photocurrent of SCU-12.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can SCU-12-based detectors operate under high electric fields?",
+      "answer": "Yes, SCU-12-based detectors can work in the voltage range from −100 to +100 V, suggesting high field stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the operational stability of SCU-12 affected by continuous X-ray irradiation?",
+      "answer": "No, only a 1.5% reduction of photocurrent was observed under continuous X-ray irradiation, demonstrating excellent radiation resistance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does SCU-12 have a higher mass attenuation coefficient compared to traditional Si semiconductor at 60 keV X-ray photon energy?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the charge carrier mobility of SCU-12 measured using the time-of-flight technique?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

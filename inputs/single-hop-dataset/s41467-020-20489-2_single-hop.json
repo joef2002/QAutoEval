@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis condition for MUF-16?",
+      "answer": "MUF-16 is synthesized by combining 5-aminoisophthalic acid (H2aip), an inexpensive, commercially-available linker, with cobalt(II) salts in methanol. The mixture is sonicated for 20 min in a sealed bottle, then heated in a pre-heated oven at 85 °C for 2 hours under autogenous pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity of MUF-16 for CO2 over CH4?",
+      "answer": "The IAST selectivity of MUF-16 for CO2 over CH4 (50/50 mixture) is 6690.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MUF-16?",
+      "answer": "The BET surface area of MUF-16 is 214 m2/g.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the thermal stability of MUF-16 materials?",
+      "answer": "The MUF-16 materials demonstrate thermal stability beyond 330 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the structure of MUF-16?",
+      "answer": "Hydrogen bonding links the layers into three-dimensional frameworks in MUF-16.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does MUF-16 achieve high selectivity for CO2 adsorption?",
+      "answer": "MUF-16 achieves high selectivity for CO2 adsorption due to its one-dimensional channels that are complementary in size and electrostatic potential to molecular CO2, and its low affinity for other competing gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MUF-16 recyclable?",
+      "answer": "Yes, MUF-16 is described as being recyclable.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MUF-16 undergo a structural change when adsorbing CO2?",
+      "answer": "No, MUF-16 does not undergo a structural change when adsorbing CO2; it acts as a classical adsorbent.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can MUF-16 adsorb water?",
+      "answer": "Yes, MUF-16 can adsorb water, as indicated by the measurement of water vapor adsorption isotherms.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of CO2 in MUF-16 reversible?",
+      "answer": "Yes, the adsorption of CO2 in MUF-16 is reversible, allowing for the framework to be regenerated.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore size of MUF-16?",
+      "answer": "The pore size of MUF-16 is approximately 3.6 × 7.6 Å.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of electrostatic potential in CO2 adsorption by MUF-16?",
+      "answer": "The electrostatic potential of the MUF-16 pore surface is complementary to the electric quadrupole of CO2, facilitating its adsorption through favorable non-covalent interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does MUF-16 preferentially adsorb CO2 over C2H2?",
+      "answer": "Yes, MUF-16 preferentially adsorbs CO2 over C2H2, exhibiting inverse selectivity for CO2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of water vapor on CO2 adsorption by MUF-16?",
+      "answer": "The impact of water vapor on CO2 adsorption by MUF-16 is an important aspect for further detailed analysis, indicating that water vapor may affect the adsorption process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MUF-16 stable in humid conditions?",
+      "answer": "Yes, MUF-16 is stable in humid conditions, as confirmed by its CO2 adsorption capacity being retained after exposure to air with high humidity and immersion in water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula for MUF-16 synthesized with cobalt?",
+      "answer": "The formula for MUF-16 synthesized with cobalt is [Co(Haip)2].",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does MUF-16 compare to other materials for CO2/CH4 separation?",
+      "answer": "MUF-16 outperforms most other materials for CO2/CH4 separation, with an IAST selectivity of 6690 for a 50/50 mixture at 1 bar and ambient temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MUF-16 be produced on a large scale?",
+      "answer": "Yes, MUF-16 is described as being economical to produce on a large scale.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of non-coordinated carboxyl groups in MUF-16?",
+      "answer": "Non-coordinated carboxyl groups in MUF-16 engage in close-range contacts with the electropositive carbon atom of each CO2 molecule, contributing to the framework's high affinity for CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does MUF-16 exhibit flexibility at room temperature?",
+      "answer": "No, MUF-16 does not exhibit flexibility at room temperature; it maintains its structure upon CO2 adsorption.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

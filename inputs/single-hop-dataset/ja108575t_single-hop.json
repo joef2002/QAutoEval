@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Record Ferromagnetic Exchange through Cyanide and Elucidation of the Magnetic Phase Diagram for a CuIIReIV(CN)2 Chain Compound",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "T. David Harris, Claude Coulon, Rodolphe Clérac, and Jeffrey R. Long",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja108575t",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the strongest ferromagnetic coupling observed through cyanide according to the article?",
+      "answer": "J/kB = +41 K (+29 cm−1)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the compound undergo a phase transition to an antiferromagnetic ground state?",
+      "answer": "Below 11.4 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using [ReCl4(CN)2]2− in the synthesis of the one-dimensional zigzag chain compound?",
+      "answer": "To demonstrate the utility of the ReIV−CN−CuII linkage in constructing strongly coupled magnetic materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the experimental and theoretical analysis demonstrate about the effective anisotropy of the chain?",
+      "answer": "The zigzag arrangement of the local tensors of magnetic anisotropy around the ReIV ions dramatically reduces the effective magnetic anisotropy of the chain.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound expected to exhibit single-chain magnet behavior?",
+      "answer": "No, the weak effective anisotropy likely explains the absence of single-chain magnet behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What future work is mentioned in the conclusions?",
+      "answer": "Constructing other one-dimensional solids based on the ReIV−CN−CuII linkage that feature a linear arrangement of the metal centers within the chains and targeting related compounds with greater interchain separations to preclude magnetic ordering at low temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "2011",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hydrotris(pyrazol-1-yl)borate (Tp−) in the synthesis of the compound?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit ferromagnetic exchange coupling between ReIV and CuII centers?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic phase transition induced by strong π−π interchain interactions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the theoretical modeling provide a detailed determination of the local anisotropy tensors corresponding to the [ReCl4(CN)2]2− units?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound described as a low-density permanent magnet that orders above room temperature?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound undergo a phase transition to a ferromagnetic ground state below 11.4 K?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the effective anisotropy of the chain increased due to the zigzag arrangement of the ReIV centers?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

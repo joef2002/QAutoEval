@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the three mesh-adjustable molecular sieves discussed?",
+      "answer": "MAMS-2, MAMS-3, and MAMS-4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between mesh size and temperature for the molecular sieves?",
+      "answer": "D = D0 + αT",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the tert-butyl group in the molecular sieves?",
+      "answer": "The tert-butyl group acts as a gate for gas molecules, controlling access to the hydrophobic cages.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The choice of metal affects the mesh adjustment in the molecular sieves.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "At what temperature does MAMS-2 start to adsorb a significant amount of O2?",
+      "answer": "87 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the hydrophilic channels in the molecular sieves?",
+      "answer": "They act as passages allowing gas molecules to enter the hydrophobic cages.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hydrophobic cages serve as the main space for gas storage in the molecular sieves.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the gates of the molecular sieves when the temperature is increased?",
+      "answer": "The gates open wider due to reduced van der Waals interaction among the tert-butyl groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MAMS-2 can distinguish methane from ethylene at 143 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the linear equation relating gate opening and temperature for the molecular sieves?",
+      "answer": "D = 0.0073T + 2.83",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The unit cell parameters of the molecular sieves remain constant with temperature changes from 113 to 273 K.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated gate opening at 77 K based on experimental data?",
+      "answer": "3.4 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Activation of the hydrophilic channels is necessary for gas adsorption on MAMSs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the upper limit of the channel size that precludes the entrance of isobutane?",
+      "answer": "Approximately 4.8-4.9 Å",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Changing the tert-butyl group to other functional groups like methyl or isopropyl can lead to different values for D0 and α.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main function of the hydrophobic cages in the molecular sieves?",
+      "answer": "To serve as the main space for gas storage",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The molecular sieves can separate any two gases with kinetic diameters in the range of 2.9-4.6 Å.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the correlation coefficient of the linear equation relating gate opening and temperature?",
+      "answer": "0.996",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The molecular sieving effect is attributed to the size of the hydrophilic channels.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the van der Waals interaction among tert-butyl groups in the molecular sieves?",
+      "answer": "It controls the opening of gates, allowing or restricting access to the hydrophobic cages.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

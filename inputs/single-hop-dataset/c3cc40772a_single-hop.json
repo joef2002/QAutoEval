@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What type of ligands were used to form the self-assembled hosts?",
+      "answer": "Bis-pyrimidyl ligands and tris-pyrimidine ligands",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which metal was selected for coordination in the formation of metallomacrocycles?",
+      "answer": "Silver (Ag)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main reason for selecting silver as the coordination metal?",
+      "answer": "Its pronounced ability to form two-coordination linear complexes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The designed receptors are capable of incorporating only one anion into their structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What types of interactions are involved in the binding between the receptor and the anion?",
+      "answer": "Electrostatic interactions, hydrogen bonding, and metal–ligand interactions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the receptors and complexes optimized for the theoretical study?",
+      "answer": "Using DFT calculations at the BP86-D3/def2-TZVPD level of theory",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The optimized complexes showed interaction energies that were positive.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Which anions were used in the study for the synthesis of the receptors?",
+      "answer": "NO3-, BF4-, and TsO-",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome when L2 was treated with AgTsO in water?",
+      "answer": "Crystals suitable for single crystal X-ray studies were not obtained for the combination of L2 with AgTsO",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The binding energy for TsO- anion was the least favorable among the studied anions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of water molecules in the 2BF4-@H2 complex?",
+      "answer": "Connecting the N-H groups with the anions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The experimental geometry of the complexes perfectly matched the optimized structures.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was a significant difference between the 2NO3-@H1 and 2NO3-@H2 complexes in terms of anion interaction?",
+      "answer": "The orientation of the ions allowing the formation of shorter N-H...O hydrogen bonds in 2NO3-@H2 compared to 2NO3-@H1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The formation of the macrocycle was observed with the use of BF4- anion in the synthesis of H1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of the interaction energy calculation for the complexes in water?",
+      "answer": "The interaction energies were large and negative, indicating strong electrostatic interactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirmed the formation of self-assembled hosts incorporating two counter-ions into the interior.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using a continuum model in the theoretical study?",
+      "answer": "To evaluate solvent effects by means of the COSMO approximation using water as solvent",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The tetrahedral anions had a preference for H2 over H1.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How were the ligands L1 and L2 synthesized?",
+      "answer": "By reacting 2-chloropyrimidine with propane-1,3-diamine or 1,4,7-triazaheptane under reflux conditions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study involved the use of computational methods to validate the design of the receptors.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "IRMOF-18",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide",
+            "amount": "600 mL"
+          },
+          {
+            "name": "chloroform",
+            "amount": "100 mL"
+          }
+        ],
+        "equipment": "glass crystallization dishes",
+        "chemicals_used": [
+          {
+            "name": "2,3,5,6-tetramethylbenzene-1,4-dicarboxylic acid",
+            "amount": "1.2 g"
+          },
+          {
+            "name": "zinc nitrate hexahydrate",
+            "amount": "12 g"
+          }
+        ],
+        "time": [
+          {
+            "step": "heating",
+            "duration": "48 hr"
+          },
+          {
+            "step": "first chloroform immersion",
+            "duration": "4 hr"
+          },
+          {
+            "step": "second chloroform immersion",
+            "duration": "16 hr"
+          },
+          {
+            "step": "third chloroform immersion",
+            "duration": "24 hr"
+          }
+        ],
+        "washing_method": "washed with N,N-dimethylformamide",
+        "drying_method": "under vacuum (<10^-3 Torr)",
+        "yield": "1.3 g, 77 %"
+      }
+    },
+    {
+      "name": "IRMOF-1, IRMOF-8, IRMOF-11, IRMOF-18, MOF-177",
+      "synthesis_conditions": {
+        "sorption_measurements": {
+          "equipment": [
+            "Cahn C-1000 microgravimetric balance",
+            "Micromeritics Co. sorption apparatus (Model 2010)"
+          ],
+          "temperature": "77 K",
+          "procedure": "Samples were cooled by a liquid nitrogen bath and the temperature was monitored using a thermocouple. The system was evacuated overnight and purged three times with ultra high purity grade analyte gas before cooling to 77 K. Gases were passed through a molecular sieve trap before being exposed to the sample. Pressures were measured with MKS Baratron transducers. The adsorbate was added incrementally and data points were recorded when no further change in mass was observed."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the Hofmann-type material discussed?",
+      "answer": "[Fe(dpsme)Pt(CN)4]·2=3 dpsme·x EtOH·y H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of spin crossover behavior does the material exhibit?",
+      "answer": "Three-step SCO transition",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the spin crossover in the discussed material?",
+      "answer": "Temperature and light",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the spin crossover behavior accompanied by thermal hysteresis?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cooperativity in SCO materials?",
+      "answer": "It governs the extent to which spin state changes are propagated in the solid state.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the material display light-induced switching properties?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the material's broad thermal hysteresis?",
+      "answer": "It imparts two separate temperature ranges of tristability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the intermediate spin states of the material undergo slow relaxation?",
+      "answer": "No, the intermediate spin states are kinetically stable.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the HS fraction sequence observed upon warming for the multicomponent system [Fe(dpp)2][Ni-(mnt)2]2·MeNO2?",
+      "answer": "HS fraction 0!1/3!2/3!1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the material [Fe(dpsme)Pt(CN)4]·2=3 dpsme·x EtOH·y H2O revert to the original parent cell in monoclinic P2/a?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of light irradiation at low temperatures on the material?",
+      "answer": "It induces a partial photo-conversion to the HS state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Fe···Fe distance in the material's structure?",
+      "answer": "14.5 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the material's photo-induced HS state stable in the dark?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the dpsme ligands in the material's structure?",
+      "answer": "They bridge the iron atoms of adjacent layers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the material exhibit a change in color associated with spin crossover behavior?",
+      "answer": "Yes, it converts reversibly from yellow at room temperature to dark red at liquid nitrogen temperature.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the material's pillared Hofmann-type topology?",
+      "answer": "It generates rectangular channels along the [100] direction, accounting for 49% of the total crystal volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination environment of the single HS FeII center in the material at 230 K?",
+      "answer": "N-coordinated equatorially to [Pt(CN)4]2- and axially to dpsme.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the material's structure undergo a contraction that results from the decrease in Fe-N bond lengths with conversion from HS to LS?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of incorporating covalent linkages on SCO behavior?",
+      "answer": "It commonly leads to more abrupt transitions with thermal hysteresis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the material the first of its kind to exhibit three-step SCO behavior?",
+      "answer": "Yes, it is unique in occurring both upon cooling and upon warming and in having broad thermal hysteresis.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

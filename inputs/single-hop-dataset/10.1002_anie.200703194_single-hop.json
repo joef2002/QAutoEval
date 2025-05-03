@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study described in the text?",
+      "answer": "The main focus is on a new class of reactions within nonporous crystals of a coordination polymer involving ligand-substitution at a silver(I) center.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unusual property does the coordination polymer exhibit according to the study?",
+      "answer": "The coordination polymer exhibits the unusual traits of forming or breaking metal–ligand coordination bonds while retaining crystallinity and sorbing guest molecules from the vapor phase despite being nonporous.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of ethanol in the reaction process described?",
+      "answer": "Ethanol molecules are inserted into one of the Ag-O bonds of the dimer, and their elimination and subsequent extrusion from the crystals are investigated.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is compound 2 formed from compound 1?",
+      "answer": "Compound 2 is formed from compound 1 through a single-crystal-to-single-crystal transformation involving the heating of 1 at 320 K for approximately 48 hours, resulting in the extrusion of ethanol molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction process reversible, and if so, how was this demonstrated?",
+      "answer": "Yes, the reaction process is reversible. This was demonstrated by exposing a sample of compound 2 to ethanol vapors, which resulted in the re-formation of compound 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of compound 3 indicate about the reaction?",
+      "answer": "The presence of compound 3, which does not take up ethanol molecules, serves as an internal standard during the reaction, indicating that not all related compounds participate in the ethanol uptake process.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study involves the formation of carbon-carbon bonds within metal-containing crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The coordination polymer described is porous, allowing for easy transport of ethanol molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The transformation from compound 1 to compound 2 involves the loss of long-range order in the crystal.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study demonstrates that flexibility in the coordination sphere and weak Ag-O bonds are crucial for the insertion and elimination of ethanol.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The fluoroalkyl chains in the compounds undergo a conformational change from all-anti to anti-gauche-anti upon ethanol loss.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study provides a detailed mechanism for the extrusion and uptake of ethanol.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to monitor the transformation of compounds?",
+      "answer": "X-ray powder diffraction was used to monitor the transformation of the compounds.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study contribute to the development of functional crystalline materials?",
+      "answer": "The study contributes by improving understanding of unusual processes like metal-ligand coordination bond formation/breaking and sorption in nonporous crystals, offering new opportunities in sorption, sensing, and solid-state reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the flexibility in the fluoroalkyl chain conformation?",
+      "answer": "The flexibility allows for the transport of ethanol molecules in and out of the nonporous crystals, acting as flexible barriers to ethanol transport.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that direct channels for ethanol transport are present in the compounds.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature in the transformation from compound 1 to compound 2?",
+      "answer": "Heating at 320 K for approximately 48 hours is required for the transformation, indicating the role of temperature in facilitating the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study indicates that all fluoroalkyl chains in the compounds are closely packed, preventing ethanol uptake.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study reveal about the behavior of Ag+ ions in the structures?",
+      "answer": "The behavior of Ag+ ions in the structures has similarities to the behavior of hydrogen ions in structures of carboxylic acids, with the O-Ag-O coordination-bond arrangement mimicking the O-H···O hydrogen-bond arrangement.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study describe the process of ethanol molecule transport within the crystals?",
+      "answer": "The study suggests that ethanol transport occurs orthogonally to certain views of the crystal structure, with fluoroalkyl chains acting as barriers that must move apart and then closer together to allow ethanol transport.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

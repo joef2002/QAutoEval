@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the first 3D ferrimagnet composed of mixed-valence Mn4 clusters?",
+      "answer": "[Mn4(hmp)4(OH)2Mn(dcn)6]·2 MeCN·2 THF",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of single-molecule magnets (SMMs) in the design of magnetic materials?",
+      "answer": "SMMs serve as monodisperse superparamagnetic particles capable of storing information at the molecular level due to their large spin ground state and strong uniaxial anisotropy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 involves a self-assembly reaction in a basic MeCN/THF solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of the crystal structure of compound 1?",
+      "answer": "Monoclinic space group, P21/n",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How are the Mn4 cluster unit and the octahedral MnII anionic moiety connected in compound 1?",
+      "answer": "They are connected in a 1:1 ratio, forming a covalently bonded 3D structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic susceptibility of compound 1 shows a peak around 4 K indicating 3D magnetic ordering.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical temperature for the magnetic transition observed in compound 1?",
+      "answer": "4.1 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a small coercive field in the magnetization hysteresis loop of compound 1 indicate?",
+      "answer": "It indicates a long-range magnetic transition at the temperature where the feature disappears.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Mn4 units in compound 1 are treated as classical Ising spins in a simple mean-field model.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected value of magnetization for an ordered ferrimagnetic phase in compound 1 at low fields?",
+      "answer": "Close to 13 mB for an ordered ferrimagnetic phase where the S = 9 Mn4 units are coupled antiferromagnetically with the {Mn[N(CN)2]6}4- units.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the magnetization of compound 1 behave under increased magnetic field?",
+      "answer": "The magnetization gradually reaches 22 mB at 7 T, indicating field-induced behavior expected for ferrimagnetic systems.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Mn4 unit in compound 1 exhibits strong uniaxial anisotropy.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the critical field (Hc) in the study of compound 1?",
+      "answer": "The critical field is related to the flipping of the moment carried by the {Mn[N(CN)2]6}4- units and helps estimate the magnetic interaction between units.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the temperature dependence of c’ versus H plots reveal about compound 1?",
+      "answer": "It allows monitoring of the spin-flip transition up to about 4.1 K and confirms the critical temperature determined by ac susceptibility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic interaction mediated by dicyanamide bridges becomes relevant below 30 K for compound 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the {Mn[N(CN)2]6}4- unit in the magnetic properties of compound 1?",
+      "answer": "It acts as a paramagnetic center that, when coupled with the Mn4 units, contributes to the ferrimagnetic behavior of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of compound 1 was supported by PRESTO and CREST, Japanese science and technology agencies.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of compound 1 based on Mn?",
+      "answer": "31%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis of compound 1 contribute to the field of molecule-based magnetism?",
+      "answer": "It presents a new material that combines SMM clusters and paramagnetic bridges to create a 3D ferrimagnet with unique magnetic properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The enhancement of magnetic inter-SMM interaction in compound 1 could lead to the design of high temperature anisotropic magnets.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

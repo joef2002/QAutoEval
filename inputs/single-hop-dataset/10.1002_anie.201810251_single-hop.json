@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of water clusters in the synthesis of Pt1+ in a MOF?",
+      "answer": "The role of the water cluster is to isolate and stabilize the Pt atoms, regulate the charge of the metal, and the adsorption of reactants.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature can the water-gas shift reaction be performed using the stabilized Pt1+ single sites?",
+      "answer": "The water-gas shift reaction can be performed at temperatures as low as 50 88C using the stabilized Pt1+ single sites.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is it challenging to stabilize metal atoms in low oxidation states with water molecules?",
+      "answer": "It is challenging because electron back donation is often the major contribution to metal-ligand bonding, and water tends to break up before accepting significant electron density in antibonding orbitals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the MOF-supported Pt1+ species in the context of single-atom catalysts?",
+      "answer": "The MOF-supported Pt1+ species represents an exceptional case of a single-atom catalyst without strong coordinating ligands or surfaces.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the porous structure of the MOF affected by the replacement of Ni2+ by Pt2+ cations or after NaBH4 reduction?",
+      "answer": "No, the porous structures are not affected either by the replacement of Ni2+ by Pt2+ cations or after NaBH4 reduction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What indicates that Pt atoms in 3 are slightly oxidized?",
+      "answer": "The X-ray absorption near-edge structure (XANES) analysis of 3 shows a discretely higher intensity for Pt in 3 respect to Pt foil, indicating that the reduced Pt atoms are slightly oxidized.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Pt1+ species in the MOF catalyze the water-gas shift reaction at low temperatures?",
+      "answer": "Yes, the Pt1+ species in the MOF can catalyze the water-gas shift reaction at low temperatures.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique confirms the stability of Pt1+ single sites after the water-gas shift reaction?",
+      "answer": "AC-HAADF-STEM images in combination with XPS measurements confirm the stability of the Pt1+ single sites after the reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the water-gas shift reaction mechanism with Pt1+ in the MOF differ from other Pt catalysts?",
+      "answer": "The mechanism involves a double water attack to CO to give CO2 with both oxygen atoms coming from water, which is different from other Pt catalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystallinity and porosity of the MOF retained after the water-gas shift reaction?",
+      "answer": "Yes, the crystallinity and porosity of the MOF are retained after the water-gas shift reaction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the second water coordination sphere in the Pt1+ complex within the MOF?",
+      "answer": "The second water coordination sphere is linked to the Pt1+(H2O)4 unit and the MOF ligands by strong hydrogen bonds, illustrating the stabilization provided by the nano-confined space of the MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of Pt0 species contribute to the catalytic activity of the MOF for the water-gas shift reaction?",
+      "answer": "No, the presence of Pt0 species does not contribute to the catalytic activity of the MOF for the water-gas shift reaction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the charge distribution result for the Pt atom in the MOF?",
+      "answer": "The charge distribution gives a charge for the Pt atom of + 0.8.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the water-gas shift reaction with Pt1+ in the MOF produce CO2?",
+      "answer": "The reaction involves a double water attack mechanism to CO, giving CO2 with both oxygen atoms coming from water.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the Pt1+ single sites in the MOF stable during the water-gas shift reaction?",
+      "answer": "Yes, the Pt1+ single sites in the MOF are stable during the water-gas shift reaction.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental result supports the formation of CO2 with both oxygen atoms coming from water in the water-gas shift reaction?",
+      "answer": "The use of labelled H2O18 as a reagent, which forms mainly C18O2 when catalyzed by the MOF, supports this.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the reaction mechanism for the water-gas shift reaction with Pt1+ in the MOF general for other Pt catalysts?",
+      "answer": "Yes, the reaction mechanism for the water-gas shift reaction with Pt1+ in the MOF is somewhat general for other Pt catalysts.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated activation energy for the MOF 3 catalyzed water-gas shift reaction?",
+      "answer": "The calculated activation energy for the MOF 3 catalyzed water-gas shift reaction is 12 kcal mol@1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the water cluster contribute to the catalytic activity of Pt1+ in the MOF?",
+      "answer": "The water cluster prevents saturation and catalyst deactivation by CO, stabilizes a proton in the catalytic site to form H2, and continuously regenerates the water molecules surrounding the Pt1+ site.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF structure act as the final acceptor of electron density, thus preserving water ligation to the metal?",
+      "answer": "Yes, the MOF structure acts as the final acceptor of electron density, thus preserving water ligation to the metal.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

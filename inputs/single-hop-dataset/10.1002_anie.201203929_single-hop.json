@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What are metal-organic frameworks (MOFs) composed of?",
+      "answer": "MOFs are composed of organic linkers and metal nodes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of MOFs can be fine-tuned by controlling the spatial arrangement of their components?",
+      "answer": "The intrinsic porosity and accessible surface area of MOFs can be fine-tuned.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using oligopeptides in the development of MOFs?",
+      "answer": "Oligopeptides lead to adaptable porosity in MOFs, where the flexibility of the peptide linker adapts the pore conformation to the nature and loading of guest through its thermally accessible manifold of torsions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does [Zn(Gly-Thr)2]·CH3OH differ in adsorption preference compared to other materials?",
+      "answer": "It exhibits selective adsorption of CO2 in preference to CH4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the threonine side chain play in the structure of [Zn(Gly-Thr)2]·CH3OH?",
+      "answer": "The threonine side chain's -OH group participates in an intralayer hydrogen bond, limiting torsional freedom and imposing the orientation of the alcohol and methyl groups.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the chelation and hydrogen bonding on the peptide Gly-Thr in [Zn(Gly-Thr)2]·CH3OH?",
+      "answer": "Chelation and hydrogen bonding lock the potential torsional flexibility of the peptide, making Gly-Thr behave as a rigid connector.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does [Zn(Gly-Thr)2]·CH3OH maintain its structure under ambient conditions unlike [Zn(Gly-Ala)2]?",
+      "answer": "The structural rigidity of [Zn(Gly-Thr)2]·CH3OH, attributed to its specific peptide linker and hydrogen bonding, allows it to maintain its structure under ambient conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to produce crystalline nanosheets of [Zn(Gly-Thr)2]?",
+      "answer": "Crystalline nanosheets were produced by sonomechanical exfoliation of the bulk macroscopic crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of Thr in the dipeptide linker influence the structural stability of [Zn(Gly-Thr)2]?",
+      "answer": "The presence of Thr enables the formation of inter and intralayer hydrogen bonds that reinforce the structural stability of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of acetone in the exfoliation process of [Zn(Gly-Thr)2] nanosheets?",
+      "answer": "Acetone molecules intercalate between the layers to disrupt interlayer hydrogen bonds, aiding in the exfoliation process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does [Zn(Gly-Thr)2] exhibit a Type I adsorption curve for CO2?",
+      "answer": "The rigid and porous structure of [Zn(Gly-Thr)2], along with its specific chemical interactions, leads to a typical Type I adsorption curve for CO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What distinguishes the adsorption behavior of [Zn(Gly-Thr)2] from [Zn(Gly-Ala)2]?",
+      "answer": "[Zn(Gly-Thr)2] behaves as a classic rigid porous framework due to the conformational rigidity of the Gly-Thr ligand, unlike the adaptable framework of [Zn(Gly-Ala)2].",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the selectivity of [Zn(Gly-Thr)2] for CO2 over CH4 due to size-exclusive mechanisms?",
+      "answer": "False, the selectivity is attributed to quadrupole–dipole interactions with the polar amino/hydroxy groups, not size-exclusive mechanisms.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can [Zn(Gly-Thr)2]·CH3OH be stored under inert conditions to prevent structural transformation?",
+      "answer": "False, unlike [Zn(Gly-Ala)2], [Zn(Gly-Thr)2]·CH3OH does not require storage under inert conditions to maintain its structure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of Thr in the dipeptide linker contribute to the flexibility of [Zn(Gly-Thr)2]?",
+      "answer": "False, the presence of Thr contributes to the rigidity of the framework, not its flexibility.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is [Zn(Gly-Thr)2] soluble in common organic solvents like acetone and ethanol?",
+      "answer": "False, [Zn(Gly-Thr)2] is soluble in water but not soluble in common organic solvents.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does [Zn(Gly-Thr)2] lose crystallinity upon solvent removal?",
+      "answer": "False, [Zn(Gly-Thr)2] retains its crystallinity upon solvent removal.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of CO2 by [Zn(Gly-Thr)2] at low pressures indicative of a Type III isotherm?",
+      "answer": "False, the rapid increase of CO2 mass uptake at low pressures indicates a Type I isotherm.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the nanosheets produced from [Zn(Gly-Thr)2] by sonomechanical exfoliation several layers thick?",
+      "answer": "False, the nanosheets are close to a single layer thick, as suggested by their average height profile.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

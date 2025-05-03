@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What phenomenon is characteristic of spin glasses and superparamagnets?",
+      "answer": "Slow relaxation of magnetization",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnetic ordering does compound 1 exhibit at low temperatures?",
+      "answer": "AF ordering",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical field estimated for the AF-to-FO transition in compound 1?",
+      "answer": "400 Oe",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two relaxation processes identified in compound 1?",
+      "answer": "Relaxation I and Relaxation II",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the external field in the dynamic behavior of compound 1?",
+      "answer": "It breaks the AF ordering and evokes a new slow relaxation process.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What type of bridges are used in the synthesis of compound 1?",
+      "answer": "Mixed azide and tetrazolate bridges",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the peak at 7.8 K in the ac susceptibility measurements of compound 1?",
+      "answer": "It confirms the onset of AF ordering below TN = 7.8 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of two relaxation processes in compound 1 compare to other SCMs?",
+      "answer": "It is uncommon for SCMs and indicates the presence of defects leading to magnetization relaxations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the disappearance of the frequency-independent w0 peak under 500 Oe indicate?",
+      "answer": "The breaking of AF ordering by the applied field.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a new peak at higher temperature in the w00(T) plots under 500 Oe suggest?",
+      "answer": "The applied field evokes a new slow relaxation process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the linear variation of ln (wT) versus 1/T confirm about compound 1?",
+      "answer": "The uniaxial anisotropy and the 1D character.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of large anisotropy in compound 1 support?",
+      "answer": "The slow increase in magnetization with no indication of saturation up to 5 T.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the slow relaxation in the AF phase of compound 1 typical for SCMs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 exhibit only one relaxation process at a certain frequency or temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the field-induced spin-glass-like relaxation of compound 1 typical of superparamagnets?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the bridges affording homospin SCMs mainly limited to carboxylates, azides, and phosphonates?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of compound 1 achieved through a hydrothermal reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the magnetic susceptibility of compound 1 show a maximum at 7.5 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the critical field for the AF-to-FO transition in compound 1 estimated to be 200 Oe?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of a third bridge between adjacent Co ions in compound 1 contribute to its magnetic properties?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

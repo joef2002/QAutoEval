@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for Re3-MOF?",
+      "answer": "C92.88H28Cl0.72N5.52O36Re0.78Zr6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structural determination of Re3-MOF?",
+      "answer": "Single-crystal X-ray diffraction (SXRD)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of Re3-MOF?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Re3-MOF?",
+      "answer": "Fm-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) was the SXRD data for Re3-MOF collected?",
+      "answer": "100(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula mass of Re3-MOF?",
+      "answer": "2515.13",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many ReTC complexes per unit cell does Re3-MOF have?",
+      "answer": "3",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocatalytic CO2-to-CO conversion activity of Ren-MOFs stable over time?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the photocatalytic activity of Ren-MOFs increase with the number of ReTC units?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the chloride bonded to rhenium in Re3-MOF observed in the axial position?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the IR spectrum of Re3-MOF match that of molecular H2ReTC?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic performance of Ag⊂Re3-MOF stable up to 48 hours?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the UV-Vis spectrum of Ag⊂Re3-MOF retain the characteristic LSPR features of the Ag core?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic activity of Ag⊂Re3-MOF enhanced compared to Re3-MOF alone?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing ReTC density in Ren-MOFs on their photocatalytic activity?",
+      "answer": "Increasing ReTC density in Ren-MOFs initially increases their photocatalytic activity, but beyond a certain point, the activity decreases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the photocatalytic activity of Ren-MOFs when there is no ReTC in the MOF layer?",
+      "answer": "There is no photocatalytic activity observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the enhanced electromagnetic field surrounding plasmonic silver nanocubes in photocatalysis?",
+      "answer": "It significantly increases the photocatalytic activity of MOF-coated nanoparticle photocatalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of chloride in the axial position of ReTC in Re3-MOF contribute to its photocatalytic activity?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the photocatalytic CO2-to-CO conversion activity of Ren-MOFs be attributed solely to the Ag nanocubes?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic activity of Cu⊂Re2-MOF enhanced due to LSPR characteristics?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

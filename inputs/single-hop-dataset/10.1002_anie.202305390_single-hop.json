@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of the metal-organic framework (MOF) discussed in the research?",
+      "answer": "Highly selective CO2 separation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does NKMOF-9 possess that contributes to its CO2 selectivity?",
+      "answer": "Unique biomimetic pockets that exhibit highly selective binding affinity to CO2 molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest nuclearity Mn-cluster-based nanocage reported in the study?",
+      "answer": "[Mn86].",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the CO2/CH4 and CO2/N2 selectivities of NKMOF-9 a compared to other CO2-selective MOFs?",
+      "answer": "NKMOF-9 a offers new benchmarks with ultra-high IAST selectivity of CO2/CH4 and CO2/N2 mixtures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does NKMOF-9 a achieve its selectivity towards CO2 over other gases?",
+      "answer": "Through strong Mn···O coordination interactions and dipole-dipole interactions between CO2 molecules and the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Qst value of CO2 for NKMOF-9 a, and how does it compare to other CO2-selective MOFs?",
+      "answer": "The Qst value of CO2 for NKMOF-9 a is 69.6 kJ mol-1, making it a new benchmark among all reported CO2-selective MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental tests confirmed the CO2 separation performance of NKMOF-9 a?",
+      "answer": "Fixed bed column breakthrough experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is NKMOF-9 a's crystallinity maintained after cycling breakthrough experiments?",
+      "answer": "Yes, NKMOF-9 a's crystallinity is preserved after cycling breakthrough experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NKMOF-9 a has a BET surface area of 236 m2 g-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CO2/C2H2 uptake ratio of NKMOF-9 a is lower than that of MUF-16.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: NKMOF-9 a's design was inspired by natural metalloenzymes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: NKMOF-9 a shows no N2 adsorption at 77 K, indicating it is not ultramicroporous.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CO2 adsorption isotherms of NKMOF-9 a at 273 K and 298 K under 1 bar show a strong binding affinity to CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: NKMOF-9 a's selectivity for CO2 over C2H2, CH4, and N2 is due to its large pore size.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CO2/C2H2, CO2/CH4, and CO2/N2 separations by NKMOF-9 a were not confirmed by experimental breakthrough tests.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

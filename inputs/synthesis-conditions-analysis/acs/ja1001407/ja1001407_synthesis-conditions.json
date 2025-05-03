@@ -1,0 +1,55 @@
+{
+  "materials": [
+    {
+      "name": "H6L2",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "THF/iPr2NH",
+            "amount": "30 mL/10 mL"
+          },
+          {
+            "name": "anhydrous THF",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          "diethyl 5-iodoisophthalate",
+          "1,3,5-triethynyltriphenylbenzene",
+          "Bis(triphenylphosphine)palladium dichloride",
+          "copper iodide"
+        ],
+        "time": "overnight",
+        "yield": "83%",
+        "washing_method": "extracted with CHCl3, washed with water and then brine",
+        "drying_method": "dried over MgSO4"
+      }
+    },
+    {
+      "name": "NOTT-116",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "50 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "chemicals_used": [
+          "H6L2",
+          "Cu(NO3)2•3H2O",
+          "HCl (2M)"
+        ],
+        "time": "18 h",
+        "yield": "85%",
+        "washing_method": "washed with warm DMF",
+        "drying_method": "dried briefly in air"
+      }
+    }
+  ]
+}

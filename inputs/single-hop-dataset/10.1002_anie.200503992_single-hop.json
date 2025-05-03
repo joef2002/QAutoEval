@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the novel metalloligand presented in the research?",
+      "answer": "[FeIII(L)2]ClO4·2 MeCN (1·2 MeCN)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of geometry does the iron center adopt in the metalloligand [FeIII(L)2]ClO4·2 MeCN?",
+      "answer": "Slightly distorted octahedral geometry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the magnetic moment of 1·2 MeCN in the temperature range 5–300 K?",
+      "answer": "About 1.5 mB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent facilitates the reduction of 1 in MeCN solution?",
+      "answer": "Hydroquinone",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of the 3D coordination polymer 2·x S?",
+      "answer": "4669 topology",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Fe-Nendo bond length in the iron(ii) metalloligand within the 3D coordination polymer 2·x S?",
+      "answer": "2.007(3) Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the framework of 2·x S when removed from the mother liquor?",
+      "answer": "The framework collapses due to easy escape of solvent molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the metalloligand 1 considered useful for assembling [FeII(L)2] moieties?",
+      "answer": "Because of its ease of reduction and good solubility in MeCN and CH3NO2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates that the iron(iii) metalloligand is reduced to [FeII(L)2] in the 3D coordination polymer 2·x S?",
+      "answer": "The Fe-Nendo distance of 2.007(3) Å, which is somewhat longer than that of 1.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of the variable-temperature magnetic susceptibility measurements on 2?",
+      "answer": "2 shows an incomplete spin transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the cMT value of 1.72 cm3 K mol-1 at the highest temperature (380 K) for 2 indicate?",
+      "answer": "The highest molar fraction of a high-spin state gHS is estimated to be 0.57.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 3D framework of 2 stable outside the mother liquor?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the metalloligand [FeIII(L)2]ClO4·2 MeCN have a trigonal-antiprismatic geometry?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic moment of 1·2 MeCN higher than 2 mB?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of hydroquinone prevent the reduction of 1 in MeCN solution?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the topology of 2 related to a body-centered cubic structure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the 3D coordination polymer 2·x S show a complete spin transition?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Fe-Nendo bond length in 2 at 150 K comparable to that of high-spin iron(ii) complexes?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Rh2(OAc)4 in the synthesis of 2·x S?",
+      "answer": "It acts as a linear spacer in the assembly of the coordination polymer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a single 1s!3d pre-edge absorption peak in the XANES spectra of 2 indicate?",
+      "answer": "It indicates a transition feature corresponding to a low-spin iron(ii) complex.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

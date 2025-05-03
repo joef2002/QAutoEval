@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Al-soc-MOF-1?",
+      "answer": "C69 H42 O16 Al3 Cl",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal diffraction data for Al-soc-MOF-1 collected?",
+      "answer": "250 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of Naphthalene Al-soc-MOF-2?",
+      "answer": "Cubic, Pm-3n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the refinement of the crystal structures?",
+      "answer": "Full-matrix least-squares on F2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature at which Al-soc-MOF-1 retains its crystallinity according to VT-PXRD experiments?",
+      "answer": "400°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the gravimetric CO2 uptake for Al-soc-MOF-1 at 298 K and 40 bar?",
+      "answer": "2 g/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Which Al-soc-MOF compound has the highest gravimetric methane uptake at 35 bar and 298 K?",
+      "answer": "Al-soc-MOF-1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the methane sorption isotherm at 112 K for Al-soc-MOF-1 fully reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Al-soc-MOF-1 exhibit the highest deliverable uptake for O2 reported so far?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Qst of CH4 adsorption for Al-soc-MOF-1 higher at low loading compared to the CH4 latent heat of evaporation?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the working capacity of Al-soc-MOF-1 for CH4 storage at 258 K and 80 bar?",
+      "answer": "264 cm3 (STP)/cm3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the method used for low pressure gas adsorption measurements?",
+      "answer": "Fully automated micropore gas analyzer Autosorb-IC",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the volumetric CH4 storage working capacity for Al-soc-MOF-1 increase when the temperature is decreased from 298 K to 258 K?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the classification scheme used for the family of Al-soc-MOFs in molecular simulation?",
+      "answer": "The name consists of the first letters of arm and core of the linker in the framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What force field was employed for the grand canonical Monte Carlo simulation of methane adsorption in Al-soc-MOFs?",
+      "answer": "TraPPE force field",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the methane working capacity at 5-35 bar and 258 K for the simulated family of Al-soc-MOFs higher for structures with contracted linkers?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of helium in low pressure gas adsorption measurements?",
+      "answer": "Helium penetrates in all open pores of the materials without being adsorbed, used for buoyancy effect correction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the highest CH4 gravimetric uptake achieved by Al-soc-MOF-1 at 35 bar and 298 K?",
+      "answer": "16.1 mmol/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Toth model fit the pure gas isotherms due to its suitable behavior at both low and high pressure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Qst value in gas adsorption studies?",
+      "answer": "Qst indicates the heat of adsorption, which helps in understanding the interaction strength between the adsorbate and the adsorbent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

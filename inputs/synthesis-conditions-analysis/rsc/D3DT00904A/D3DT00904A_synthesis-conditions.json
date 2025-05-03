@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "ZnLOCl2·2.5H2O",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": [
+          {
+            "name": "MeCN/CH2Cl2 mixture",
+            "amount": "4 mL/1 mL"
+          },
+          {
+            "name": "EtOH",
+            "amount": "2 mL"
+          }
+        ],
+        "equipment": "Vacuum desiccator",
+        "chemicals_used": [
+          {
+            "name": "LO",
+            "amount": "0.10 mmol, 0.037 g"
+          },
+          {
+            "name": "ZnCl2",
+            "amount": "0.15 mmol, 0.023 g"
+          }
+        ],
+        "time": "Slow evaporation",
+        "washing_method": "MeCN/CH2Cl2/EtOH mixture",
+        "drying_method": "Vacuum desiccator",
+        "yield": "42%",
+        "crystal_info": "Single crystals of the acetonitrile solvate of the complex, [ZnLOCl2]·MeCN, were obtained by slow crystallization at room temperature from the supernatant."
+      }
+    },
+    {
+      "name": "CdLOCl2·0.5H2O",
+      "synthesis_conditions": {
+        "temperature": "60 °C",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "4 mL + 2 mL"
+          }
+        ],
+        "equipment": "Vacuum desiccator",
+        "chemicals_used": [
+          {
+            "name": "LO",
+            "amount": "0.10 mmol, 0.037 g"
+          },
+          {
+            "name": "CdCl2·2.5H2O",
+            "amount": "0.10 mmol, 0.023 g"
+          }
+        ],
+        "time": "Two hours",
+        "washing_method": "Water",
+        "drying_method": "Vacuum desiccator",
+        "yield": "55%",
+        "crystal_info": "Single crystals of the monohydrate form of the complex, [CdLOCl2]n·nH2O, were obtained by slow crystallization at room temperature from the supernatant."
+      }
+    }
+  ]
+}

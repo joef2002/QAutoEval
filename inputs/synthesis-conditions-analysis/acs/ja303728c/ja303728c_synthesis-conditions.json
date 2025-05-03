@@ -1,0 +1,100 @@
+{
+  "materials": [
+    {
+      "name": "ZJU-18",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "MnCl-H8OCPP",
+            "amount": "5.3 mg",
+            "molarity": "0.005 mmol"
+          },
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "9.9 mg",
+            "molarity": "0.05 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "HOAc",
+            "amount": "0.2 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "one week",
+        "equipment": "screw cap vial",
+        "washing_method": "washed with DMF, EtOH, and Et2O",
+        "drying_method": "dried at room temperature",
+        "yield": "85%"
+      }
+    },
+    {
+      "name": "ZJU-19",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Ni-H8OCPP",
+            "amount": "5.1 mg",
+            "molarity": "0.005 mmol"
+          },
+          {
+            "name": "MnCl2·4H2O",
+            "amount": "9.9 mg",
+            "molarity": "0.05 mmol"
+          },
+          {
+            "name": "DMF",
+            "amount": "2.0 mL"
+          },
+          {
+            "name": "HOAc",
+            "amount": "0.2 mL"
+          }
+        ],
+        "temperature": "80 °C",
+        "time": "one week",
+        "equipment": "screw cap vial",
+        "washing_method": "washed with DMF, EtOH, and Et2O",
+        "drying_method": "dried at room temperature",
+        "yield": "80%"
+      }
+    },
+    {
+      "name": "ZJU-20",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "MnCl-H8OCPP",
+            "amount": "similar to ZJU-18",
+            "note": "Exact amount not specified, assumed similar to ZJU-18"
+          },
+          {
+            "name": "CdCl2·2.5H2O",
+            "amount": "instead of MnCl2·4H2O used in ZJU-18",
+            "note": "Exact amount not specified"
+          },
+          {
+            "name": "DMF",
+            "amount": "similar to ZJU-18",
+            "note": "Exact amount not specified, assumed similar to ZJU-18"
+          },
+          {
+            "name": "HOAc",
+            "amount": "similar to ZJU-18",
+            "note": "Exact amount not specified, assumed similar to ZJU-18"
+          }
+        ],
+        "temperature": "similar to ZJU-18",
+        "time": "similar to ZJU-18",
+        "equipment": "similar to ZJU-18",
+        "washing_method": "similar to ZJU-18",
+        "drying_method": "similar to ZJU-18",
+        "yield": "73%",
+        "note": "Preparation procedures are similar to those of ZJU-18, except CdCl2·2.5H2O was used instead of MnCl2·4H2O."
+      }
+    }
+  ]
+}

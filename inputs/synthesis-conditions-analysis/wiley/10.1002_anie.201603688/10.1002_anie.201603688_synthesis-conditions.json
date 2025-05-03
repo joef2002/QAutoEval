@@ -1,0 +1,153 @@
+{
+  "materials": [
+    {
+      "name": "bis(diaminocarbene)gold(I) complex 2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "diethyl ether",
+            "amount": "not specified"
+          },
+          {
+            "name": "n-hexane",
+            "amount": "not specified"
+          },
+          {
+            "name": "dichloromethane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[Au(CNxylyl)2]PF6 ([1]PF6)",
+            "amount": "not specified"
+          },
+          {
+            "name": "propargylamine",
+            "amount": "two equivalents"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "neutral complex 3",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "CH2Cl2",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "[2]PF6",
+            "amount": "not specified"
+          },
+          {
+            "name": "NaH",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "cationic complex 4",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": "not specified",
+        "chemicals_used": [
+          {
+            "name": "3",
+            "amount": "not specified"
+          },
+          {
+            "name": "NH4PF6",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "neutral heterometallic gold(I)/copper(I) complex 5",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "not specified"
+          },
+          {
+            "name": "n-hexane",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "3",
+            "amount": "not specified"
+          },
+          {
+            "name": "LiHMDS",
+            "amount": "not specified"
+          },
+          {
+            "name": "CuCl",
+            "amount": "not specified"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    },
+    {
+      "name": "compound 6",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "solvents": "not specified",
+        "chemicals_used": [
+          {
+            "name": "3",
+            "amount": "not specified"
+          },
+          {
+            "name": "CuCl",
+            "amount": "excess"
+          },
+          {
+            "name": "LiHMDS",
+            "amount": "not specified"
+          },
+          {
+            "name": "Cu2O",
+            "amount": "traces of water for hydrolysis"
+          }
+        ],
+        "equipment": "not specified",
+        "time": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

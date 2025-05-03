@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound discussed in the article?",
+      "answer": "[Mn(DMF)6]3[(Mn4Cl)3(BTT)8(H2O)12]2·42DMF·11H2O·20CH3OH",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the highest isosteric heat of adsorption observed for the metal−organic framework mentioned?",
+      "answer": "10.1 kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the cubic topology of the porous metal−organic framework previously known?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the total H2 uptake at 77 K and 90 bar for the material discussed?",
+      "answer": "6.9 wt %",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the material exhibit stronger binding interactions to facilitate H2 adsorption at higher temperatures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to confirm H2 binding at coordinatively unsaturated Mn2+ centers?",
+      "answer": "Neutron powder diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volumetric H2 capacity of the material at 90 bar and 77 K?",
+      "answer": "60 g/L",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the volumetric H2 capacity of the material higher than that of liquid hydrogen?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the [Mn(DMF)6]2+ complexes in the structure?",
+      "answer": "They provide charge balance and are situated inside the sodalite cage-like units and the larger three-dimensional cavities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What strategy was pursued to enhance H2 binding within metal−organic frameworks?",
+      "answer": "The presence of coordinatively unsaturated metal centers to increase the affinity for H2 through strong metal−H2 interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystallographic density of the desolvated form of the compound?",
+      "answer": "0.813 g/cm3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the framework decomposition observed during the thermogravimetric analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the skeletal density of the material as determined using helium expansion at room temperature?",
+      "answer": "1.95 g/cm3 for 1' and 2.30 g/cm3 for 1m'",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the tritopic bridging ligand 1,3,5-benzenetristetrazolate (BTT3-) in the formation of the material?",
+      "answer": "It enables the formation of the porous metal−organic framework with a cubic topology.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the material maintain its crystal structure upon desolvation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of replacing DMF molecules with methanol on the surface area of the material?",
+      "answer": "It results in almost a doubling of the available surface area.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system and space group of the compound as determined by X-ray analysis?",
+      "answer": "Cubic, Pm-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the extraframework Mn2+ ions in the desolvated compound?",
+      "answer": "They are ligated by the N1 and N4 atoms of adjacent tetrazole rings and are disordered over 24 symmetry-equivalent positions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the material's H2 storage capacity at 77 K and 1.2 bar fully reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high volumetric storage density of the material?",
+      "answer": "It suggests the possibility of converting existing liquid hydrogen-based storage systems for use with a liquid nitrogen coolant.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

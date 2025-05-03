@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the gold complex described?",
+      "answer": "C19H14AuN",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the single-crystal X-ray structural analyses?",
+      "answer": "Rigaku R-AXIS RAPID diffractometer using graphite monochromated Mo-Kα radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of 1ch obtained by pricking?",
+      "answer": "Orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of 1ac obtained by pricking?",
+      "answer": "P-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the thermal gravimetric analysis indicate that 1ch and 1ac include solvent molecules in their crystals?",
+      "answer": "No, the TGA profiles indicate that both samples do not include solvent molecules in the crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission intensity of 1 in CH2Cl2 strong or weak?",
+      "answer": "Weak, as indicated by the photophysical properties section.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission and excitation spectra of 1ground change significantly after 30 minutes at ambient temperature.",
+      "answer": "False, the emission and excitation spectra did not show any further changes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The HOMO energy level of 1ch is higher than that of 1ac.",
+      "answer": "True, as indicated by the TD-DFT calculations.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the melting temperature of 1ch?",
+      "answer": "73 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the melting temperature of 1ac?",
+      "answer": "105 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission properties of solid-state 1 are determined by their aggregation structures.",
+      "answer": "True, as indicated by the photophysical properties section.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum emission wavelength (λem,max) of 1ch?",
+      "answer": "542 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum emission wavelength (λem,max) of 1ac?",
+      "answer": "515 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission quantum yield (Φem) of 1ch is higher than that of 1ac.",
+      "answer": "True, as indicated by the photophysical properties section.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of 1ac obtained by pricking?",
+      "answer": "Triclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of 1ch obtained by crystal contact is different from that obtained by pricking.",
+      "answer": "False, the crystal structure of 1ch obtained by crystal contact is the same as that obtained by pricking.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of 1ch obtained by pricking?",
+      "answer": "P212121",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission properties of 1ch and 1ac are determined by the difference in aurophilic interactions in their tetramers.",
+      "answer": "True, as indicated by the TD-DFT calculations.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated density (Dcalc) of 1ch?",
+      "answer": "1.925 g/cm3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density (Dcalc) of 1ac?",
+      "answer": "2.001 g/cm3",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

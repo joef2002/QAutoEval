@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of 5?",
+      "answer": "C16H18B2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of crystal system does 8 belong to?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of [Na2(thf)3][1]?",
+      "answer": "C2/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density (Dcalcd) of [K(18-c-6)]2[1-H2]?",
+      "answer": "1.274 g cm−3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the bond length between B1 and C1 in the molecular structure of [Li(12-c-4)2](THF)[10]?",
+      "answer": "1.616(3) Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the compound 1-(1-piperidinyl)cyclohexene react with Li2[4]?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the bond angle C1−B1−C11 in [K]2[K(18-c-6)][K(18-c-6)(thf)2][7-H2]2 greater than 105 degrees?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reaction between Na2[4-H2] and CO2 produce sodium formate?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the broadened NMR resonances observed in the mixture of Na2[4] and Et3SiCl?",
+      "answer": "Interaction between both components",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the cycloaddition product Li2[10] revert back to Li2[4] and Ph(H)2C–N(H)tBu upon heating?",
+      "answer": "Due to the reversibility of the cycloaddition process",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

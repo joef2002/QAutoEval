@@ -1,0 +1,242 @@
+{
+  "materials": [
+    {
+      "name": "Cu-PC",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "PC"],
+        "molar_ratios": ["1:0:2:0", "1:0:1:0", "1:0:4:0", "1:0:3:0"],
+        "concentrations_mM": ["0.298", "0.393", "0.416", "0.521", "0.393", "0.392", "0.390", "0.139", "0.139", "0.510"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "bpy",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["bpy"],
+        "molar_ratios": ["0:1:0:0"],
+        "concentrations_mM": ["11.840"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-bpy",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "bpy"],
+        "molar_ratios": ["1:1:0:0", "1:2:0:0"],
+        "concentrations_mM": ["7.00", "7.05", "9.93", "0.203"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-phen",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "phen"],
+        "molar_ratios": ["1:1:0:0"],
+        "concentrations_mM": ["1.50", "0.857"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-terpy",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "terpy"],
+        "molar_ratios": ["1:1:0:0", "1:2:0:0"],
+        "concentrations_mM": ["1.50", "0.423"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-dien",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "dien"],
+        "molar_ratios": ["1:1:0:0"],
+        "concentrations_mM": ["1.50", "0.857"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-im",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "im"],
+        "molar_ratios": ["1:0:0:1", "1:0:0:2", "1:0:0:3", "1:0:0:4", "1:0:0:5", "1:0:0:6", "1:0:0:7"],
+        "concentrations_mM": ["2.07", "2.07", "2.08", "2.07", "2.07", "2.08", "2.07"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-bpy-PC",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "bpy", "PC"],
+        "molar_ratios": ["1:1:1:0"],
+        "concentrations_mM": ["1.00", "0.578", "0.566", "0.212"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-phen-PC",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "phen", "PC"],
+        "molar_ratios": ["1:1:1:0"],
+        "concentrations_mM": ["0.572", "0.568", "0.205"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-terpy-PC",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "terpy", "PC"],
+        "molar_ratios": ["1:1:1:0"],
+        "concentrations_mM": ["0.196", "0.191"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-dien-PC",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "dien", "PC"],
+        "molar_ratios": ["1:1:1:0"],
+        "concentrations_mM": ["0.197", "0.204"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-bpy-im",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "bpy", "im"],
+        "molar_ratios": ["1:1:0:1", "1:1:0:2"],
+        "concentrations_mM": ["5.98", "6.00"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-PC-im",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "PC", "im"],
+        "molar_ratios": ["1:0:1:2"],
+        "concentrations_mM": ["1.03", "1.02"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    },
+    {
+      "name": "Cu-bpy-PC-im",
+      "conditions": {
+        "temperature": null,
+        "solvents": null,
+        "amount_of_solvents": null,
+        "equipment": null,
+        "chemicals_used": ["Cu", "bpy", "PC", "im"],
+        "molar_ratios": ["1:1:1:1", "1:1:1:2"],
+        "concentrations_mM": ["0.999", "0.994"],
+        "volume_ml": null,
+        "time": null,
+        "washing_method": null,
+        "drying_method": null,
+        "yield": null
+      }
+    }
+  ]
+}

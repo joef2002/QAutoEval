@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of encapsulating luminescent perylene dye into europium MOF ZJU-88?",
+      "answer": "To develop a novel ratiometric thermometer by creating a dual-emitting MOF⊃dye composite for highly sensitive temperature sensing over the physiological temperature range.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the emission wavelengths of Eu3+ and Tb3+ ions in Eu3+/Tb3+–MOFs?",
+      "answer": "Eu3+ ions generate red emission at about 615 nm and Tb3+ ions generate green emission at about 545 nm.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The sensitivity of ZJU-88⊃perylene is lower than that of the mixed-lanthanide MOF Tb0.99Eu0.01(BDC)1.5(H2O)2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the linear relationship between the intensity ratio and temperature in ZJU-88⊃perylene composites?",
+      "answer": "It indicates that ZJU-88⊃perylene can be used as a reliable ratiometric thermometer for potential physiological temperature sensing.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum sensitivity of ZJU-88⊃perylene at 20 °C?",
+      "answer": "1.28% °C−1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission peak profile of perylene dye in ZJU-88⊃perylene is significantly different from that in the perylene solution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How is the content of perylene dye in ZJU-88⊃perylene composites determined?",
+      "answer": "By controlling the concentrations of perylene solution during the synthesis process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the ligand H4QPTCA in the luminescent properties of the lanthanide MOFs?",
+      "answer": "It acts as an antenna for photosensitization of Eu3+ ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The luminescence intensity of the perylene to Eu3+ can be adjusted by varying the content of the encapsulated perylene dyes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical temperature sensing resolution of ZJU-88⊃perylene?",
+      "answer": "Better than 0.016 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ZJU-88⊃perylene composites show both the characteristic emissions of the perylene dye and Eu3+ ions when excited at 388 nm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the energy transfer from perylene molecules to Eu3+ ions in ZJU-88⊃perylene?",
+      "answer": "It enhances the temperature sensitivity of the thermometer by increasing the emission of Eu3+ ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cytotoxicity evaluation of ZJU-88⊃perylene indicates high toxicity to PC12 cells.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal structure of ZJU-88?",
+      "answer": "Monoclinic space group C2/c, composed of double nuclear Eu2(COO)4 secondary building unit bridged by QPTCA ligands to form a 3D framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission intensity of perylene dye in ZJU-88⊃perylene decreases with the increase of temperature from 20 to 80 °C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using a solvothermal method in the synthesis of ZJU-88?",
+      "answer": "To afford colorless rod-like crystals of ZJU-88 through the reaction of H4QPTCA with Eu(NO3)3 in mixed solvents at 80 °C for 2 days.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ZJU-88⊃perylene composite is unstable under physiological conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the energy transfer efficiency from perylene molecules to Eu3+ ions with temperature change?",
+      "answer": "It influences the decay time of the Eu3+ ions, enhancing the thermometer's sensitivity to temperature changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission spectra of ZJU-88 and perylene solution at various temperatures under the same excitation wavelength were identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the emission spectra of ZJU-88⊃perylene recorded from 20 to 80 °C?",
+      "answer": "It demonstrates the thermometer's capability to sense temperature changes by showing a decrease in perylene dye's luminescence intensity and an increase in Eu3+'s intensity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

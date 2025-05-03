@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the synthesized Eu-MOF?",
+      "answer": "The chemical formula of the synthesized Eu-MOF is [Eu(H2O)(HL)]·0.5MeCN·0.25H2O.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the photoluminescence quantum yield of the Eu-MOF after desolvation?",
+      "answer": "The photoluminescence quantum yield of the Eu-MOF after desolvation is 57%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the detection limit of Fe3+ ions using the Eu-MOF?",
+      "answer": "The detection limit of Fe3+ ions using the Eu-MOF is 4.32 µM.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proton conductivity value of the Eu-MOF at 50 °C and RH 100%?",
+      "answer": "The proton conductivity value of the Eu-MOF at 50 °C and RH 100% is 8 × 10−4 S cm−1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the color rendering index (CRI) of the mixed-lanthanide EuTbLa-MOF?",
+      "answer": "The color rendering index (CRI) of the mixed-lanthanide EuTbLa-MOF is 90.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2/C2H2 selectivity factor of the Eu-MOF at 273 K?",
+      "answer": "The CO2/C2H2 selectivity factor of the Eu-MOF at 273 K is 1.3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main reason for the luminescence quenching of the Eu-MOF by Fe3+ ions?",
+      "answer": "The main reason for the luminescence quenching of the Eu-MOF by Fe3+ ions is a competitive absorption mechanism.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Eu-MOF exhibit reverse adsorption selectivity for CO2 over C2H2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the proton conductivity of the Eu-MOF independent of the relative humidity?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the Eu-MOF be used for the detection of nitrofurane antibiotics and ofloxacin using different excitation wavelengths?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Eu-MOF retain its crystal structure after heating to 350 °C in vacuo for 1 hour?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photoluminescence quantum yield of the Eu-MOF before desolvation higher than after desolvation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Eu-MOF exhibit selectivity towards Fe3+ ions in the presence of other cations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the proton conductivity of the Eu-MOF at 21 °C higher than at 50 °C?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Eu-MOF exhibit a high color rendering index (CRI) suitable for white light-emitting diodes (WLEDs)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of protonated carboxylic groups in the structure of the Eu-MOF?",
+      "answer": "The protonated carboxylic groups in the structure of the Eu-MOF provide an efficient conducting platform for proton transfer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Eu-MOF achieve selective luminescence quenching for Fe3+ ions?",
+      "answer": "The Eu-MOF achieves selective luminescence quenching for Fe3+ ions through a competitive absorption mechanism where the absorption band of Fe3+ ions overlaps with the excitation band of the Eu-MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes the Eu-MOF suitable for gas adsorption applications?",
+      "answer": "The narrow one-dimensional channels decorated with COOH groups in the Eu-MOF enable a rare reverse adsorption selectivity for CO2 over C2H2, making it suitable for gas adsorption applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Eu-MOF's structure contribute to its multifunctional properties?",
+      "answer": "The Eu-MOF's structure, featuring a three-dimensional water-stable and high-temperature resistant framework with narrow channels and protonated carboxyl groups, contributes to its multifunctional properties including luminescence sensing, white light emission, proton conductivity, and selective gas adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Eu-MOF's high color rendering index (CRI) for lighting applications?",
+      "answer": "The high color rendering index (CRI) of the Eu-MOF indicates its ability to render colors accurately compared to natural light, making it an excellent material for white light-emitting diodes (WLEDs) used in lighting applications where color accuracy is important.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

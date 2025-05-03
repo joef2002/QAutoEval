@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the metal-organic frameworks discussed in the article?",
+      "answer": "M2(m-dobdc) (M = Mg, Mn, Fe, Co, Ni)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of M2(m-dobdc) frameworks is enhanced compared to their structural isomers M2(dobdc)?",
+      "answer": "Increased charge density and enhanced H2 binding at the open metal sites",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structural solution of Co2(m-dobdc)?",
+      "answer": "Rietveld refinement of neutron and X-ray diffraction data",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the m-dobdc linker in the M2(m-dobdc) frameworks?",
+      "answer": "The m-dobdc linker alters the symmetry of the ligand field at the metal sites, leading to increases in the H2 binding enthalpies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the H2 binding enthalpy of Ni2(m-dobdc) compare to that of its M2(dobdc) analogue?",
+      "answer": "The H2 binding enthalpy of Ni2(m-dobdc) is stronger by approximately 1.4 kJ/mol compared to its M2(dobdc) analogue.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to probe the site-specific binding properties of H2 in M2(m-dobdc) frameworks?",
+      "answer": "Inelastic neutron scattering (INS) experiments",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The M2(m-dobdc) frameworks have a higher density of open metal coordination sites compared to M2(dobdc).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was employed to examine the differences in the electronic structures at the open metal sites between M2(dobdc) and M2(m-dobdc)?",
+      "answer": "Density functional theory (DFT)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of H4(m-dobdc) is efficient and inexpensive, using only resorcinol, KHCO3, and CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using the m-dobdc linker over the dobdc linker in the synthesis of metal-organic frameworks?",
+      "answer": "The m-dobdc linker leads to frameworks with exposed M2+ cation sites with a higher apparent charge density, enhancing gas adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The M2(m-dobdc) frameworks are less thermally stable than their M2(dobdc) counterparts.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the variable-temperature infrared spectroscopy in the study of M2(m-dobdc) frameworks?",
+      "answer": "Variable-temperature infrared spectroscopy was used to establish the enthalpy of adsorption at the open metal site, confirming the increased binding enthalpies.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of M2(m-dobdc) frameworks involves a solvent-free Kolbe–Schmitt reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What future efforts are mentioned for the M2(m-dobdc) frameworks?",
+      "answer": "Future efforts will focus on the larger-scale production of M2(m-dobdc) compounds and determining whether the enhanced charge density at the metal sites leads to improvements in gas separations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The M2(m-dobdc) frameworks are expected to perform worse in gas separation applications compared to M2(dobdc).",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted optimal binding enthalpy range for the on-board storage of H2 at ambient temperatures?",
+      "answer": "−15 to −20 kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The M2(m-dobdc) frameworks have been synthesized with a purely structural isomer of M2(dobdc) before.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in discovering new frameworks with a high density of open metal coordination sites?",
+      "answer": "It is difficult to predict what topologies will form with partial solvation of the metal nodes and will then further be amenable to desolvation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The M2(m-dobdc) frameworks are not isostructural with the M2(dobdc) series.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The article focuses on the synthesis and characterization of M2(m-dobdc) frameworks, which exhibit increased charge density and enhanced H2 binding at the open metal sites compared to their M2(dobdc) analogues.",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

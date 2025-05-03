@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the synthesized MOF?",
+      "answer": "[Cu2(glu)2(µ-bpp)]·2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of adsorption isotherm does the MOF exhibit for CO2 at 273 K?",
+      "answer": "Type III",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum CO2 uptake capacity of the MOF at 273 K?",
+      "answer": "15.75 wt%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF show higher adsorption capacity for CO2 or CH4 at 273 K?",
+      "answer": "CO2",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF porous to N2 at 1 bar and 77 K?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF exhibit a type I adsorption isotherm for H2?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOF's adsorption behavior for CO2 due to a molecular sieve effect?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to study the flexibility modes of the MOF framework?",
+      "answer": "High pressure X-ray diffraction study",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated maximum CO2 capacity of the MOF according to GCMC simulations?",
+      "answer": "ca. 23 wt%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF structure change under high pressure according to the X-ray diffraction study?",
+      "answer": "Yes, the glutarate-Cu moiety experiences a small but progressive distortion.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bpp ligand in the MOF structure under compression?",
+      "answer": "The bpp ligand remains stiff and largely unchanged, allowing the glutarate-Cu moiety to distort.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the synthesis yield of the MOF?",
+      "answer": "60%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF have a high CO2/CH4 selectivity?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum H2 uptake capacity of the MOF at 77 K?",
+      "answer": "2.24 wt%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF's unusual adsorption behavior for CO2 due to weak gas–MOF interactions?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF exhibit a gate opening or breathing effect?",
+      "answer": "It is suggested but not confirmed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the experimental kinetic barriers detected using GCMC simulations?",
+      "answer": "No",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF structure allow for molecular sieving of H2–CH4 mixtures?",
+      "answer": "No, it shows high selectivity but not for H2–CH4 mixtures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF essentially non-porous to methane?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of glutarate ligand in the MOF's structure?",
+      "answer": "It could promote the self-assembly of MOFs with novel topologies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

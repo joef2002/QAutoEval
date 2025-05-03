@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main ligand used in the synthesis of the europium–organic framework?",
+      "answer": "H4BTMIPA (5,50-methylenebis(2,4,6-trimethylisophthalic acid))",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What ions can the europium–organic framework selectively sense?",
+      "answer": "Fe3+ and Al3+ ions",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Through what mechanism does the europium–organic framework sense Fe3+ and Al3+ ions?",
+      "answer": "Through fluorescence quenching and enhancement, respectively",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of Fe3+ ions on the luminescence of the europium–organic framework?",
+      "answer": "Fe3+ ions almost quench the luminescence of the framework",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of Al3+ ions on the luminescence of the europium–organic framework?",
+      "answer": "Al3+ ions enhance the luminescence intensity compared to the original one",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What counterions are located in the channels of the europium–organic framework?",
+      "answer": "[H2N(CH3)2]+ ions",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of Fe3+ and Al3+ ions affect the luminescence properties of the europium–organic framework over time?",
+      "answer": "The PL intensity decreases for the Fe3+-loaded sample but increases for the Al3+-loaded sample over time",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the framework of the europium–organic framework when the concentration of Fe3+ or Al3+ ions exceeds 0.001 mol L-1?",
+      "answer": "The framework of the europium–organic framework dissolves gradually",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the selectivity to Fe3+ and Al3+ ions interfered by the presence of other mixed metal ions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the europium–organic framework sense Cu2+ ions through partial fluorescence quenching?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the europium–organic framework collapse immediately upon the addition of Fe3+ or Al3+ ions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are Na+, K+, Ca2+, Mg2+, Ba2+, Zn2+, Cd2+, Co2+, Pb2+ ions able to interfere with the selectivity of the europium–organic framework to Fe3+ and Al3+?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the europium–organic framework use a cation-exchange approach for sensing Fe3+ and Al3+ ions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is aluminum considered a trace element necessary for the human body?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do Fe3+ ions play an essential part in a variety of vital cell functions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of [H2N(CH3)2]+ ions in the europium–organic framework?",
+      "answer": "They act as counterions located in the channels of the framework",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural feature of the europium–organic framework that allows for selective sensing of Fe3+ and Al3+?",
+      "answer": "The tubular channels based on the H4BTMIPA ligand",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the cation exchange between [H2N(CH3)2]+ and metal ions on the framework?",
+      "answer": "It results in complex 1 that can selectively sense Fe3+ and Al3+ ions through fluorescence quenching and enhancement, respectively",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the europium–organic framework exhibit luminescence at lmax = 593, 617, 653, 696 nm upon excitation at 395 nm?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the detection of Fe3+ and Al3+ ions by the europium–organic framework complicated by the presence of other metal ions?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

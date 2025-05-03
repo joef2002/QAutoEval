@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the mesoporous metal-organic framework designed in the text?",
+      "answer": "DUT-60",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the reported accessible pore volume of DUT-60?",
+      "answer": "5.02 cm3 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What synthesis approach was used to minimize side product formation for DUT-60?",
+      "answer": "A cluster precursor approach",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of ligand elongation in the design of porous materials?",
+      "answer": "Ligand elongation generates wide pore channels leading to more complex adsorption mechanisms and materials with high pore volume.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of DUT-60 derived from the nitrogen adsorption isotherm?",
+      "answer": "7839 m2 g@1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystallographic density of DUT-60?",
+      "answer": "0.187 g cm@3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of the initial synthesis attempt of DUT-60 using zinc nitrate?",
+      "answer": "The attempt was unsuccessful, resulting in a phase separation and a mixture of different clusters.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is ligand elongation considered essential in the design of porous materials?",
+      "answer": "Because it allows for the creation of wide pore channels and increases the pore volume.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the mechanical stability of DUT-60 compare to MOF-399?",
+      "answer": "DUT-60 has higher mechanical stability than MOF-399, as indicated by its higher bulk and shear moduli.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the key to successfully synthesizing DUT-60?",
+      "answer": "Using a pre-synthesized Zn4O(CH3COO)6 cluster as a starting reagent and carefully adjusting the synthesis method.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the pore system in DUT-60?",
+      "answer": "The pore system consists of large mesopores, contributing to its high porosity and low crystallographic density.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the nitrogen adsorption isotherm at 77 K indicate about DUT-60?",
+      "answer": "It shows pronounced, distinct steps, indicating a high uptake and confirming the material's high porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is DUT-60 designed using Zn4O6+ nodes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DUT-60 have the highest recorded accessible pore volume among crystalline framework materials?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was DUT-60 successfully synthesized on the first attempt using zinc nitrate?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area of DUT-60 less than 7000 m2 g@1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of DUT-60 involve a solvothermal procedure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystallographic density of DUT-60 higher than 0.2 g cm@3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DUT-60 exhibit a lower mechanical stability compared to DUT-6?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the specific pore volume of DUT-60 less than 5 cm3 g@1?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

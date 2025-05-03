@@ -1,0 +1,94 @@
+{
+  "materials": [
+    {
+      "name": "1a",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "100 µL"
+          }
+        ],
+        "time": "72 h",
+        "yield": "72%",
+        "chemicals_used": [
+          {
+            "name": "Tetrakis[4-(carboxyphenyl)oxamethyl]methane acid (H4L)",
+            "amount": "30.8 mg, 0.05 mmol"
+          },
+          {
+            "name": "MnCl2•4H2O",
+            "amount": "22 mg, 0.11mmol"
+          }
+        ],
+        "drying_method": "slow cooling to room temperature over 8 h"
+      }
+    },
+    {
+      "name": "1b",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "4 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "1 mL"
+          }
+        ],
+        "time": "24 h",
+        "yield": "68%",
+        "chemicals_used": [
+          {
+            "name": "Tetrakis[4-(carboxyphenyl)oxamethyl]methane acid (H4L)",
+            "amount": "30.8 mg, 0.05 mmol"
+          },
+          {
+            "name": "MnCl2•4H2O",
+            "amount": "22 mg, 0.11mmol"
+          }
+        ],
+        "drying_method": "slow cooling to room temperature over 8 h"
+      }
+    },
+    {
+      "name": "2",
+      "synthesis_conditions": {
+        "transformation_source": "1a or 1b",
+        "solvent": "DMF solution of Co(NO3)2",
+        "time": "until color change to purple",
+        "post_treatment": "washed with DMF"
+      }
+    },
+    {
+      "name": "3",
+      "synthesis_conditions": {
+        "transformation_source": "1a or 1b",
+        "solvent": "DMF solution of Ni(NO3)2",
+        "time": "24 h",
+        "post_treatment": "washed with DMF",
+        "color_change": "to light-green"
+      }
+    },
+    {
+      "name": "1a-Cu",
+      "synthesis_conditions": {
+        "transformation_source": "1a",
+        "solvent": "DMF solution of Cu(NO3)2",
+        "time": [
+          "16 h (intermediate phase)",
+          "72 h (completed phase)"
+        ],
+        "post_treatment": "washed with DMF",
+        "notes": "Crystals lose single crystallinity after 72 h"
+      }
+    }
+  ]
+}

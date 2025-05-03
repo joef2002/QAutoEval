@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C160 H112 Cl24 N32 Zn12",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of 2,4,6-tris(4-pyridyl)pyridine (pytpy)?",
+      "answer": "Synthesized according to the method described by Sobolev et al.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of compound 2 trigonal?",
+      "answer": "False, the crystal system of compound 2 is monoclinic.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield percentage of compound 1a based on pytpy?",
+      "answer": "56%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What software was used for structure solution and refinement in the X-ray diffraction data analysis?",
+      "answer": "ShelxTL software",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the residual electron densities within the voids treated?",
+      "answer": "With the PLATON SQUEEZE program",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a 2D 1H double-quantum single-quantum correlation spectrum in the NMR study?",
+      "answer": "To highlight the 1H atoms in the backbone stemming from the pytpy ligand.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the crystal structure refinement of compound 1 employ anisotropic displacement parameters?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the heating rate during the thermogravimetric analysis of compound 1?",
+      "answer": "10 K/min",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the 1H NMR background of the 1.3 mm MAS NMR probe significant compared to the sample signal?",
+      "answer": "False, the 1H NMR background of the 1.3 mm MAS NMR probe was negligible compared to the sample signal.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the solvent used for the recrystallization of the raw 2,4,6-tris(4-pyridyl)pyridine?",
+      "answer": "Boiling ethanol",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the crystal color and shape of compound 2?",
+      "answer": "Colorless plate",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Was the decomposition of the ligand in compound 1 observed during thermogravimetric analysis?",
+      "answer": "True, the decomposition of the ligand occurs at 190 °C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to assign the peaks of the 1D 1H NMR spectrum?",
+      "answer": "Using homonuclear and heteronuclear 2D correlation experiments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the space group of compound 3?",
+      "answer": "P 21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of compound 1 involve the use of bromobenzene?",
+      "answer": "False, bromobenzene was used in the synthesis of compound 1a.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using quantitative 1H NMR spectroscopy in the study?",
+      "answer": "To study the uptake of solvent molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the crystal system of compound 1 trigonal?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the PLATON SQUEEZE program in the analysis?",
+      "answer": "To treat the residual electron densities within the voids.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the formula weight of compound 2?",
+      "answer": "1033.48 g/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

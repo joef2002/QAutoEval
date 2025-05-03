@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of photodynamic therapy (PDT)?",
+      "answer": "PDT is an anticancer procedure that relies on tumor localization of a photosensitizer followed by light activation to generate cytotoxic reactive oxygen species, leading to localized destruction of diseased tissues.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are nanoscale metal–organic frameworks (NMOFs) considered promising for delivering therapeutic agents?",
+      "answer": "NMOFs are considered promising due to their tunable chemical compositions and crystalline structures, high porosity, and biodegradability.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes DBP–UiO an effective photosensitizer for PDT?",
+      "answer": "DBP–UiO is effective due to site isolation of porphyrin ligands, enhanced intersystem crossing by heavy Hf centers, and facile diffusion of reactive oxygen species through its porous structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the DBP–UiO NMOF stable in physiological environments?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to determine singlet oxygen generation efficiency of H2DBP and DBP–UiO?",
+      "answer": "Singlet oxygen generation efficiency was determined using Singlet Oxygen Sensor Green (SOSG) after exposure to LED light, and the fluorescence intensity was quantified.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the size of DBP–UiO NMOFs affect their suitability for PDT?",
+      "answer": "The nanoplate morphology of DBP–UiO NMOFs, being thin and less than 100 nm in diameter, is ideally suited for transporting singlet oxygen from the NMOF interior to the cell cytoplasm to exert cytotoxic effects.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the DBP–UiO NMOF show significant photobleaching under LED irradiation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of in vitro PDT efficacy testing on SQ20B cancer cells?",
+      "answer": "DBP–UiO treated groups showed significant PDT efficacy, even at low photosensitizer doses and short irradiation times, compared to H2DBP-treated groups which only showed moderate efficacy at higher doses and longer irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of in vivo PDT efficacy studies with DBP–UiO on SQ20B tumor-bearing mice?",
+      "answer": "The tumors of mice treated with DBP–UiO started shrinking post administration and PDT, with two tumors completely eradicated, demonstrating the high PDT efficacy of DBP–UiO.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of HfCl4 enhance the generation of singlet oxygen by H2DBP?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of heavy Hf centers in DBP–UiO's mechanism for PDT?",
+      "answer": "Heavy Hf centers promote intersystem crossing to enhance the generation efficiency of reactive oxygen species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the cellular uptake of DBP–UiO by cancer cells affect its PDT efficacy?",
+      "answer": "Rapid internalization of DBP–UiO by cancer cells ensures efficient delivery of the photosensitizer, contributing to its high PDT efficacy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is DBP–UiO alone toxic to cells without light activation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to confirm the structural stability of DBP–UiO in physiological environments?",
+      "answer": "The structural stability of DBP–UiO in physiological environments was confirmed by comparing PXRD patterns before and after incubation in RPMI 1640 medium.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the morphology of DBP–UiO NMOFs contribute to their function as PDT agents?",
+      "answer": "The plate-like morphology of DBP–UiO NMOFs facilitates the diffusion of singlet oxygen, making them effective for PDT.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the DBP–UiO NMOF's efficacy in generating singlet oxygen affected by the concentration of SOSG?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What evidence supports the non-toxic nature of DBP–UiO without light activation?",
+      "answer": "No cytotoxicity was observed in cells treated with DBP–UiO without irradiation, indicating its non-toxic nature without light activation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the singlet oxygen generation efficiency of DBP–UiO compare to H2DBP?",
+      "answer": "DBP–UiO is at least twice as efficient as H2DBP in generating singlet oxygen, owing to its design and heavy Hf centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the addition of HfCl4 to H2DBP solution enhance singlet oxygen generation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the BET surface area measurement for DBP–UiO?",
+      "answer": "The BET surface area measurement of 558 m2/g for DBP–UiO indicates its high porosity, which is beneficial for its function as a photosensitizer in PDT.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

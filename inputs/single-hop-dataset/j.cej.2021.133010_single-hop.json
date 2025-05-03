@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework discussed?",
+      "answer": "C23H19NO5Pb",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the discussed metal-organic framework?",
+      "answer": "monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the metal-organic framework?",
+      "answer": "P21/n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density (g cm–3) of the metal-organic framework?",
+      "answer": "1.956",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (R1) value for the metal-organic framework?",
+      "answer": "R1 = 0.0263",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the bond length between Pb(1)–O(1) in the metal-organic framework?",
+      "answer": "2.429(2)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the bond angle between O(1)–Pb(1)–O(3) in the metal-organic framework?",
+      "answer": "131.33(7)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of the metal-organic framework cubic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the metal-organic framework have a space group of P21/c?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the calculated density of the metal-organic framework greater than 2 g cm–3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the final R index (R1) value for the metal-organic framework less than 0.03?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the bond length between Pb(1)–O(1) in the metal-organic framework less than 2.5?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the bond angle between O(1)–Pb(1)–O(3) in the metal-organic framework greater than 130?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using the metal-organic framework in the study?",
+      "answer": "For sensitive X-ray detection and imaging",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the metal-organic framework achieve high spatial resolution in X-ray imaging?",
+      "answer": "By embedding it into a polymer matrix to obtain a flexible composite film",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes the metal-organic framework suitable for X-ray imaging applications?",
+      "answer": "Its rapid luminescent decay time, high X-ray sensitivity, and excellent radiation and hygroscopic hardness",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of the metal-organic framework contribute to its stability under X-ray irradiation?",
+      "answer": "The robust framework structure and strong C–H⋅⋅⋅π stacking interactions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the spatial resolution of the Pb-MOF scintillator film?",
+      "answer": "5.5 lp mm−1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the metal-organic framework exhibit aggregation-induced emission?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the metal-organic framework's emission intensity unaffected by X-ray dose rates?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

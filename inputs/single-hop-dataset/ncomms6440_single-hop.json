@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular structure of the iron(III)-superoxo complex synthesized?",
+      "answer": "The iron(III)-superoxo complex synthesized has a mononuclear side-on (η2) iron(III)-superoxo complex structure with a tetraamido macrocyclic ligand.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key reactivities observed for the iron(III)-superoxo complex?",
+      "answer": "The iron(III)-superoxo complex undergoes both electrophilic and nucleophilic oxidation reactions, and it can also transfer the bound O2 unit to a manganese(III) analogue.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the O–O bond length in determining the character of the iron(III)-superoxo complex?",
+      "answer": "The O–O bond length in the iron(III)-superoxo complex is indicative of its superoxo character, with shorter bond lengths suggesting significant delocalization of electron density and a closer resemblance to an Fe(III)-superoxo species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the electronic structure of the iron(III)-superoxo complex compare to that of the manganese(IV)-peroxo complex?",
+      "answer": "The electronic structure of the iron(III)-superoxo complex shows significant delocalization of electron density onto the Fe, suggesting Fe(III)-superoxo character, while the manganese(IV)-peroxo complex has less delocalization of electron density onto Mn, placing it closer to the Mn(IV)-peroxo limit.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The iron(III)-superoxo complex is capable of activating the C–H bonds of hydrocarbons.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The O2-transfer from the iron(III)-superoxo complex to a Mn(III) complex results in the formation of a manganese(IV)-peroxo complex.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the magnetic moment of the iron(III)-superoxo complex?",
+      "answer": "The magnetic moment of the iron(III)-superoxo complex was determined using the 1H nuclear magnetic resonance Evans method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the observed effect of para-substituents on the reaction rates of the iron(III)-superoxo complex with para-substituted 2,6-di-tert-butylphenols?",
+      "answer": "The electronegativity of the para-substituents significantly influences the reaction rates, with a good correlation observed between the relative rates and the O–H bond dissociation energies of the substrates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The iron(III)-superoxo complex shows a positive Hammett σ+ value in the aldehyde deformylation reaction, indicating its nucleophilic reactivity.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to elucidate the electronic structures of the iron(III)-superoxo and manganese(IV)-peroxo complexes?",
+      "answer": "Density Functional Theory (DFT) calculations were used to elucidate the electronic structures of the iron(III)-superoxo and manganese(IV)-peroxo complexes.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

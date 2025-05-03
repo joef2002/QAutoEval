@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Exploiting Dynamic Opening of Apertures in a Partially Fluorinated MOF for Enhancing H2 Desorption Temperature and Isotope Separation",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main objective of the research conducted in the article?",
+      "answer": "The main objective is to investigate the separation efficiency and capacity of a partially fluorinated metal–organic framework (MOF) with copper, FMOFCu, for deuterium extraction from a hydrogen isotope mixture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the research focused on enhancing the desorption temperature for hydrogen isotope separation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the preparation of FMOFCu?",
+      "answer": "FMOFCu was prepared by a hydrothermal synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the trimodal pore structure in FMOFCu according to the research findings?",
+      "answer": "The trimodal pore structure exhibits a unique feature of temperature-triggered gate opening, optimizing the kinetic quantum sieving effect and leading to high selectivity for hydrogen isotope separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the research article report the use of neutron powder diffraction experiments?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reported selectivity of D2 over H2 at 25 K?",
+      "answer": "The selectivity of D2 over H2 at 25 K is approximately 14.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the temperature-triggered gate-opening effect observed in FMOFCu?",
+      "answer": "The temperature-triggered gate-opening effect allows for the dynamic adjustment of pore accessibility with temperature, enhancing hydrogen isotope separation efficiency even at high temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the FMOFCu framework capable of separating hydrogen isotopes at temperatures above liquid nitrogen temperature?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to calibrate the mass spectrometer signal in the study?",
+      "answer": "A solid polycrystalline piece of a diluted alloy Pd95Ce5 was used for calibration of the mass spectrometer signal.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of a hidden cavity in FMOFCu contribute to isotope separation?",
+      "answer": "The hidden cavity, accessible through a thermally activated small bottleneck aperture, offers an additional sieving channel and increases the adsorption of hydrogen isotopes, contributing to high-temperature desorption peaks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article provide information on the heat of adsorption calculation for hydrogen in FMOFCu?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reported error margin for thermal desorption spectroscopy (TDS) measurements in the study?",
+      "answer": "The reasonable assumption of the total error for TDS measurements is approximately 5%.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of exposure time on isotope separation performance in FMOFCu?",
+      "answer": "The exposure time affects the equilibrium state and accessibility of cavities for gas molecules, influencing the isotope separation performance and selectivity in FMOFCu.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the FMOFCu framework reported to have a significant BET surface area?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of fluorine atoms in the structure of FMOFCu?",
+      "answer": "Fluorine atoms are involved in forming the bottleneck apertures that contribute to the unique gating and sieving properties of FMOFCu for hydrogen isotope separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the crystal structure of FMOFCu determined using single-crystal X-ray diffraction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reported formula weight (Mr) of FMOFCu?",
+      "answer": "The reported formula weight (Mr) of FMOFCu is 1299.80 g/mol.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the research article contribute to the field of hydrogen isotope separation?",
+      "answer": "The article contributes by demonstrating the potential of a partially fluorinated MOF, FMOFCu, with a unique trimodal pore structure and temperature-triggered gate-opening effect, for efficient and selective hydrogen isotope separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the research article focused on the development of a new material for gas storage applications?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

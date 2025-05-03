@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of the solvent in the synthesis of MOFs according to the study?",
+      "answer": "The solvent plays a structure directing role in the synthesis of MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which spectroscopy method was used to study the solution species before the MOFs crystallize?",
+      "answer": "X-ray absorption spectroscopy (XAS) was used.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of acetone in the solvent composition result in during the synthesis of MIL-45(Fe)?",
+      "answer": "The presence of acetone results in the change of the iron oxidation state from 3+ to 2+.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study indicates that MIL-45(Fe) is a metastable phase that eventually evolves into the thermodynamically more stable MIL-100(Fe) structure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the iron source used for both MIL-100(Fe) and MIL-45(Fe) structures?",
+      "answer": "Ferric chloride was used as the iron source.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the oxidation state of iron in MIL-45(Fe) compare to that in MIL-100(Fe)?",
+      "answer": "In MIL-45(Fe), iron is divalent, while in MIL-100(Fe), iron remains trivalent.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirmed the formation of secondary building units in MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Fe K-edge XANES spectra reveal about the oxidation state of iron in the studied MOFs?",
+      "answer": "The oxidation state of iron is 3+ in both cases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The EXAFS analysis revealed that in MIL-100(Fe)-S, the iron atom is coordinated to six oxygen atoms.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What indicates the reduction of iron during the synthesis of MIL-45(Fe)?",
+      "answer": "The significant shift of the Fe K absorption edge towards lower energies in the XANES spectrum of the supernatant.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study used Mçssbauer spectroscopy for investigating the reduction of iron during the synthesis of MIL-45(Fe).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of placing crystals of the final MIL-45(Fe) into water for 16 hours?",
+      "answer": "An irreversible solid–solid transformation to MIL-100(Fe) occurred.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The formation of acetic acid was determined next to the final MIL-45(Fe) product by gas chromatography.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of C atoms at distances of approximately 3.0 Å in the reaction gels suggest?",
+      "answer": "It suggests that the trimesic acid is already connected to the iron ions at this stage in the synthesis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that MIL-45(Fe) is a metastable phase.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the solvent composition used in the synthesis of the two investigated materials?",
+      "answer": "H2O or H2O/acetone was used as the solvent composition.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study indicates that the solubility of the ligand significantly affected the crystallization kinetics.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using XAS or vibrational spectroscopies according to the authors?",
+      "answer": "To complement X-ray scattering experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the coordination of iron in MIL-45(Fe)-S compare to MIL-100(Fe)-S?",
+      "answer": "In MIL-45(Fe)-S, 75% of iron atoms are four-fold coordinated to Cl ions, while in MIL-100(Fe)-S, the iron atom is coordinated to four water molecules and two chlorine atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental techniques were used to measure the X-ray absorption spectra of the analyzed materials?",
+      "answer": "The spectra were measured in the Fe K-edge energy region in the transmission detection mode at the XAFS beamline of the ELETTRA synchrotron facility and at the A1 beamline at the HASYLAB synchrotron facility.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

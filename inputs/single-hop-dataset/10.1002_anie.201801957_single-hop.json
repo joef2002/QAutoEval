@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in synthesizing sub-nanometric catalytic clusters on solids?",
+      "answer": "The gram-scale synthesis, stabilization, and characterization of well-defined ultrasmall subnanometric catalytic clusters on solids is a challenge.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of material is used as a platform to synthesize sub-nanometer metal clusters (sMCs)?",
+      "answer": "Metal–organic frameworks (MOFs) are used as platforms to synthesize sub-nanometer metal clusters (sMCs).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of Pt0 2 clusters within the MOF?",
+      "answer": "The Pt0 2 clusters within the MOF catalyze energetically costly industrial reactions in the gas phase such as HCN production, CO2 methanation, and alkene hydrogenations at low temperature, which is important from an economic and environmental viewpoint.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Pt0 2 clusters is limited to anionic MOFs.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to characterize the Pt0 2 clusters within the MOF?",
+      "answer": "The Pt0 2 clusters are characterized using single-crystal X-ray crystallography (SC-XRC), X-ray photoelectron spectroscopy (XPS), Fourier transform infrared spectroscopy under CO (FTIR-CO), and aberration-corrected scanning transmission electron microscopy (AC-STEM).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of thioether recognition sites in the synthesis of Pt0 2 clusters?",
+      "answer": "Thioether recognition sites are intrinsically devoted for the purpose of synthesizing Pt0 2 clusters within the functional channels of a MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Pt0 2-MOF material does not catalyze room-temperature NH4CN production.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest-probability Pt@Pt distance observed in the Pt0 2 clusters?",
+      "answer": "The highest-probability Pt@Pt distance observed in the Pt0 2 clusters is 0.283 nm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Pt0 2 clusters are not homogenously distributed within the MOF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What reaction does the Pt0 2-MOF material catalyze at low temperature?",
+      "answer": "The Pt0 2-MOF material catalyzes the methanation of CO2 at low temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Pt0 2 clusters within the MOF can only catalyze reactions at high temperatures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area calculated for the MOF material before and after the incorporation of Pt atoms?",
+      "answer": "The BET surface areas calculated for the MOF material before and after the incorporation of Pt atoms are 153, 487, and 453 m2 g@1, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of Pt0 2 clusters within the MOF leads to a decrease in the material's porosity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of catalyzing industrial reactions with Pt0 2 clusters at low temperatures?",
+      "answer": "The main advantage is the economic and environmental benefit of conducting energetically costly industrial reactions efficiently at low temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Pt0 2 clusters within the MOF are capable of catalyzing the hydrogenation of alkenes at temperatures lower than current industrial processes.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reaction mechanism proposed for the formation of NH4CN catalyzed by the Pt0 2-MOF material?",
+      "answer": "The proposed mechanism involves the formation of an intermediate Pt amide species, which dehydrates directly to NH4CN under the excess of NH3, energetically by-passing the HCN formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Pt0 2 clusters within the MOF are not stable and agglomerate during the catalysis of industrial reactions.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NaBH4 in the synthesis of Pt0 2 clusters within the MOF?",
+      "answer": "NaBH4 is used to reduce Pt2+ units to obtain Pt0 2 clusters within the MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Pt0 2 clusters within the MOF can only catalyze the methanation of CO2 and not other reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Pt@Pt distance in understanding the structure of Pt0 2 clusters?",
+      "answer": "The Pt@Pt distance helps in establishing the atomic level structure of the Pt0 2 clusters, which is crucial for understanding their catalytic behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

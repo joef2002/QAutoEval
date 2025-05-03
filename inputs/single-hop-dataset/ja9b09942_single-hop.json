@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is the thermodynamic separation of 1-butene from 2-butene in metal–organic frameworks with open metal sites.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which metal–organic frameworks were studied for the separation of 1-butene from 2-butene?",
+      "answer": "The metal–organic frameworks studied include M2(dobdc) (M = Mg, Mn, Fe, Co) and M2(m-dobdc) (M = Mn, Fe, Co, Ni).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to collect single-crystal X-ray diffraction data?",
+      "answer": "Single-crystal X-ray diffraction data were collected using synchrotron radiation at the Advanced Light Source at Lawrence Berkeley National Laboratory.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the butene isomers introduced into the metal–organic frameworks for the study?",
+      "answer": "The butene isomers were introduced into the metal–organic frameworks by dosing activated frameworks with butene in borosilicate capillaries inside an argon glovebox or by soaking activated crystals in liquefied butene.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the Ideal Adsorbed Solution Theory (IAST) in the study?",
+      "answer": "The Ideal Adsorbed Solution Theory (IAST) was used to determine adsorbent selectivities from single-component gas adsorption isotherms.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges were encountered during the refinement of the structure of Co2(m-dobdc) dosed with trans-2-butene?",
+      "answer": "Challenges included the inability to fit the excess electron density with defined atom positions, resulting in unreasonable occupancies and bond distances.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the multicomponent gas-phase breakthrough experiments?",
+      "answer": "The 2-butenes broke through the adsorption bed first, indicating selective adsorption of 1-butene over the 2-butenes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of the observed changes in peak intensity upon adsorption of butenes in Co2(m-dobdc)?",
+      "answer": "The changes in peak intensity upon adsorption of butenes in Co2(m-dobdc) indicated that gas molecules were occupying the pores of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the separation of 1-butene from 2-butene in metal–organic frameworks an equilibrium or diffusion-limited process according to the study?",
+      "answer": "According to the study, the separation of 1-butene from 2-butene in metal–organic frameworks is an equilibrium process.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that all metal–organic frameworks tested were equally effective in separating 1-butene from 2-butene?",
+      "answer": "No, the study found that Co2(m-dobdc) and Ni2(m-dobdc) exhibited remarkable selectivity for adsorption of 1-butene over the 2-butenes, indicating not all frameworks were equally effective.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role did the open metal sites in the metal–organic frameworks play in the separation process?",
+      "answer": "The open metal sites in the metal–organic frameworks played a crucial role in achieving selectivity for 1-butene adsorption over the 2-butenes by facilitating strong binding interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How were the adsorption capacities and selectivities for 1-butene over 2-butenes determined in liquid-phase batch adsorption experiments?",
+      "answer": "The adsorption capacities and selectivities for 1-butene over 2-butenes were determined by analyzing the concentration of each isomer before and after adsorption using 1H NMR spectroscopy.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of Ni2(dobdc) synthesized according to the modified published procedure?",
+      "answer": "The yield of Ni2(dobdc) synthesized according to the modified published procedure was 25%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main challenge in modeling the adsorption of cis-2-butene in Co2(m-dobdc)?",
+      "answer": "The main challenge in modeling the adsorption of cis-2-butene in Co2(m-dobdc) was the disorder imposed by the mirror plane characteristic to the R3m space group, which bisects the framework ligand.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study demonstrate the feasibility of using metal–organic frameworks for industrial-scale separation of 1-butene from 2-butene?",
+      "answer": "Yes, the study demonstrated the potential of using metal–organic frameworks, particularly Co2(m-dobdc) and Ni2(m-dobdc), for the adsorptive separation of 1-butene from 2-butene, suggesting feasibility for industrial-scale applications.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the gas chromatograph in the multicomponent gas-phase breakthrough experiments?",
+      "answer": "The gas chromatograph was used to monitor the outlet composition of the gas stream during the multicomponent gas-phase breakthrough experiments, allowing for the determination of breakthrough times and selectivity values.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the study address the challenge of similar physical properties among C4 hydrocarbons in separation processes?",
+      "answer": "The study addressed the challenge by exploring the use of metal–organic frameworks with open metal sites, which demonstrated selectivity based on interactions with the C=C double bond and steric effects, thus overcoming the issue of similar physical properties among C4 hydrocarbons.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the impact of temperature on the adsorption behavior of butenes in the metal–organic frameworks?",
+      "answer": "The study indicated that temperature impacts the adsorption behavior of butenes in the metal–organic frameworks, as evidenced by the collection of adsorption isotherms at different temperatures and the calculation of differential enthalpies of adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the separation of 1-butene from 2-butene in metal–organic frameworks found to be cost-effective compared to traditional methods?",
+      "answer": "The study suggested that metal–organic frameworks, especially Co2(m-dobdc) and Ni2(m-dobdc), could offer a more energy-efficient alternative to traditional cryogenic distillation for the separation of 1-butene from 2-butene, potentially making it cost-effective.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What future directions did the study propose for improving the separation efficiency of metal–organic frameworks?",
+      "answer": "The study proposed exploring materials featuring open metal sites with high charge densities and incorporating charge-dense open metal sites into molecular sieves that already exhibit selectivity for 1-butene as future directions for improving the separation efficiency of metal–organic frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the compound synthesized?",
+      "answer": "{[Fe(bpy)(CN)4]2Co(4,4'-bipyridine)}·4H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnetism does the compound exhibit at room temperature?",
+      "answer": "Paramagnetic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation from paramagnetic to antiferromagnetic state reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the transformation from a paramagnetic state to an antiferromagnetic ordered SCM state?",
+      "answer": "Light and heat induced transformation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "At what temperature does the Co−N bond distance significantly shorten, indicating a structural transformation?",
+      "answer": "173 K and 100 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic measurements of the compound were performed on a Quantum Design SQUID magnetometer.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 4,4′-bipyridine in the synthesized compound?",
+      "answer": "It acts as a ligand linking the double-zigzag chains along the apical direction of the cobalt centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound exhibits slow relaxation of magnetization.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of irradiating the compound with a 532 nm laser light?",
+      "answer": "It induces a valence state change from the FeII LS-CoIII LS state to the FeIII LS-CoII HS state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound's magnetic properties change greatly upon the loss of uncoordinated water molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the negative anisotropy constant D in the compound?",
+      "answer": "It is essential for SCM behavior.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compound's structure was determined using X-ray diffraction at multiple temperatures.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the thermal hysteresis observed between 156 K and 106 K indicate?",
+      "answer": "A structural transformation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound's IR spectra change upon cooling and heating, indicating reversible transformations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cyanide bridges in the compound?",
+      "answer": "They transmit strong intrachain magnetic interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound's ac susceptibility shows a strong frequency dependence.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a Cole−Cole diagram indicate about the compound?",
+      "answer": "It indicates an antiferromagnetic ordered phase of SCMs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of the synthesized compound based on Co(ClO4)2.6H2O?",
+      "answer": "60%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compound's magnetic behavior can be controlled via light or thermally induced metal-to-metal charge transfer.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of replacing weakly coordinated water molecules with a long ditopic spacer in the compound?",
+      "answer": "It increases the ligand field around CoII, facilitating metal-to-metal charge transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

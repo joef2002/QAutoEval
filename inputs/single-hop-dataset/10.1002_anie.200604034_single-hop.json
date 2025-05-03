@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of tetrahedral organophosphonate in the synthesis of microporous materials?",
+      "answer": "It acts as a linker for creating a microporous copper framework.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of organophosphonates makes them suitable for creating hybrid inorganic-organic layered solids?",
+      "answer": "Their propensity to bridge a broad range of metal centers into two-dimensional sheets.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why do simple monophosphonate or linear diphosphonate ligands not enable the formation of void space?",
+      "answer": "Because they pack too efficiently, leaving no room for void space between the pillaring groups of the ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the crystal structure of H8L·H2O?",
+      "answer": "It shows the predisposition of the tetrahedral ligand to form large diamondoid motifs rather than a densely packed arrangement.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of compound 1 confirm its permanent porosity?",
+      "answer": "Permanent porosity is confirmed by CO2 sorption analysis.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the secondary building unit (SBU) approach in the formation of metal-organic frameworks?",
+      "answer": "It involves coupling an organic linker with a well-defined metal-ligand assembly to form open frameworks by design.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is a true SBU approach not existent for phosphonate ligands?",
+      "answer": "Because the default metal-organic structure formed with simple monophosphonate ligands is a simple layer, which cannot be extended to an open structure without major perturbation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of using a tetrahedral phosphonate ligand in the synthesis?",
+      "answer": "It directed the formation of an open framework upon metal complexation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a doubly interpenetrated diamondoid solid indicate about the material's structure?",
+      "answer": "It indicates that despite the interpenetration, a considerable open void space remains in the solid.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the ligand H8L influence the formation of the metal cluster in compound 1?",
+      "answer": "It directs not only the overall diamondoid topology but also the geometry of the resultant metal cluster.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the thermogravimetric analysis (TGA) reveal about compound 1?",
+      "answer": "It showed a loss of solvent in three steps, followed by a plateau, indicating structural changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the CO2 sorption analysis reveal about the porosity of compound 1?",
+      "answer": "It confirms the existence of accessible micropores within the network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ligand H8L responsible for the formation of simple layers in the metal-organic framework?",
+      "answer": "False, H8L is designed to prevent the formation of simple layers and direct the formation of an open framework.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do crystalline samples of metal phosphonate solids typically sustain permanent pores?",
+      "answer": "False, crystalline samples often do not sustain permanent pores.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the structure of compound 1 based on a simple layer motif?",
+      "answer": "False, compound 1 has a structure based on the diamondoid net.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the fluoride-exchanged solid of compound 1 show a marked exothermic peak similar to compound 1?",
+      "answer": "False, the fluoride-exchanged solid did not possess the marked exothermic peak associated with the second mass loss of 1.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the H2 storage capacity of compound 1 considered high?",
+      "answer": "False, the H2 storage capacity of 0.24 wt % is not considered high.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the clusters in compound 1 exhibit ferromagnetic exchange interactions?",
+      "answer": "False, preliminary magnetic measurements indicate that antiferromagnetic exchange interactions occur within the clusters.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of compound 1 collapse upon desolvation?",
+      "answer": "False, upon desolvation, the structure contracts to a less ordered, but structurally related phase without collapsing.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the formation of novel metal aggregates a requirement for the stability of the network in the 'anti-SBU' approach?",
+      "answer": "True, the 'anti-SBU' approach necessitates the formation of novel metal aggregates for a stable network.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest total H2 adsorption achieved by NOTT-103 at 77 K and 60 bar?",
+      "answer": "77.8 mg g−1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of exposed Cu(II) sites significantly affect the adsorption heat for H2 in the NOTT series of materials?",
+      "answer": "Yes, the exposed Cu(II) site is the strongest adsorption site in the pore, but its adsorption heat is only slightly higher than those for other sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to determine and define the adsorption sites in the framework NOTT-101?",
+      "answer": "Neutron powder diffraction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of functional groups into the cavities of NOTT-101 affect the heat of adsorption at low loading?",
+      "answer": "The heat of adsorption for NOTT-105−107 is significantly higher than that for NOTT-101, ranging from 5.77 to 6.70 kJ mol−1 at zero coverage.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption heat of H2 on exposed Cu(II) sites significantly higher than on other nonmetal sites in the NOTT series?",
+      "answer": "No, the binding energies of H2 molecules to the exposed Cu(II) sites are similar to those for other, nonmetal, adsorption sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of pore size in the adsorption properties of the NOTT series of materials?",
+      "answer": "Pore size affects the adsorption heat significantly, even at zero surface coverage, with smaller cavities providing more effective profile overlap than larger cavities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: NOTT-104 is unstable after removal of solvent by heat or vacuum.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of introducing methyl groups into the cavities of NOTT-101?",
+      "answer": "Introducing methyl groups results in a reduction of pore volume, BET surface area, and pore size, but increases the H2−framework interaction potential.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption heat of NOTT-103 decreases more slowly at high H2 loading compared to NOTT-105, NOTT-106, and NOTT-107.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the pocket structure created by methyl groups in NOTT-106 and NOTT-107?",
+      "answer": "The pocket structure results in apparent high adsorption enthalpies due to the overlap of potential energy fields, providing a strong interaction between H2 and the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption enthalpies of NOTT-105, NOTT-106, and NOTT-107 decrease at the same rate from the loading of 0.0075 mol g−1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the naphthalene group in NOTT-103 compared to the biphenyl groups in NOTT-102?",
+      "answer": "The naphthalene group in NOTT-103 forms an optimized pocket that enhances H2−framework interaction within a large pore volume, thus affording effective H2 uptake at low and high pressures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption heat of NOTT-103 at zero loading is higher than that of NOTT-102.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the pore geometry and functionality on the enthalpy of H2 binding in the NOTT series?",
+      "answer": "The pore geometry and functionality significantly affect the enthalpy of H2 binding, with pocket structures created by functional groups leading to higher adsorption enthalpies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption enthalpies for all the complexes in the NOTT series lie in the range 5.34−6.70 kJ mol−1 at zero loading.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the difference in adsorption heat between the exposed metal site and nonmetal sites in the NOTT series?",
+      "answer": "The difference in adsorption heat between the exposed metal site and nonmetal sites indicates the importance of pore geometry and functionality in enhancing the heat of adsorption of H2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption heat of NOTT-107 at zero loading is higher than that of NOTT-101.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Soave modification of the Redlich-Kwong equation in estimating total H2 adsorption?",
+      "answer": "The Soave modification of the Redlich-Kwong equation is used to estimate the density of H2 at 77K and various pressures, which is crucial for calculating total H2 adsorption from excess adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption heat of NOTT-103 remains relatively high at high H2 loading compared to other materials in the NOTT series.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Tóth-Soave-Redlich-Kwong model in analyzing high pressure excess H2 data?",
+      "answer": "The Tóth-Soave-Redlich-Kwong model allows for the estimation of pore volume and maximum H2 uptake from high pressure excess H2 data, providing insights into the adsorption properties of the material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

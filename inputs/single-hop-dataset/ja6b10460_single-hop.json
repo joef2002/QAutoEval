@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for Cu-ISOCN-3?",
+      "answer": "C91H104CuF6N3O4P",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single X-ray structure determinations?",
+      "answer": "Single X-ray structure determinations were performed at 100 K on Bruker Kappa Diffractometers equipped with a Mo-Ka or Cu-Ka radiation source and an APEX-II CCD area detector.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Cu-ISOCN-1?",
+      "answer": "Orthorhombic Fdd2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the disorder of the [PF6]– counteranion in Cu-ISOCN-1 treated?",
+      "answer": "The disorder of the [PF6]– counteranion in Cu-ISOCN-1 was modeled and refined anisotropically.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using the Platon routine SQUEEZE in the crystallographic analysis?",
+      "answer": "The Platon routine SQUEEZE was used to account for the electrons of highly disordered solvent molecules as a diffuse contribution to the overall scattering without specific atom positions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Cu-ISOCN-3 stable under atmospheric conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the [PF6]– counteranion in Cu-ISOCN-2 rotationally or positionally disordered?",
+      "answer": "The [PF6]– counteranion in Cu-ISOCN-2 was rotationally disordered.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used for the calculations on [CNArMes2]2?",
+      "answer": "Density Functional Theory calculations on [CNArMes2]2 were performed using the ORCA program package with the B3LYP/G hybrid functional and the 6-31G* basis set.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the thermal analysis of Cu-ISOCN-3 show high thermal stability?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of the contact angle measurements on Cu-ISOCN-3?",
+      "answer": "The contact angle measurements on Cu-ISOCN-3 demonstrated significant hydrophobicity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the CO2 sorption isotherm of activated Cu-ISOCN-3 after exposure to 1 N HNO3 similar to that of the as-prepared material?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of the gas sorption analysis performed on Cu-ISOCN-3?",
+      "answer": "The gas sorption analysis was performed to evaluate the porosity and surface area of Cu-ISOCN-3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the stability of Cu-ISOCN-3 towards acidic and basic conditions tested?",
+      "answer": "The stability of Cu-ISOCN-3 towards acidic and basic conditions was tested by suspending it in solutions of 1 N HNO3, 1 N NaOH, and other solvents, followed by analysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed effect of thermal activation on the structure of Cu-ISOCN-3?",
+      "answer": "Thermal activation did not significantly alter the structure of Cu-ISOCN-3, maintaining its crystallinity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of Cu-ISOCN-3 involve the use of high pressure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of THF in the synthesis of Cu-ISOCN-1?",
+      "answer": "THF was used to form a paste with the solid reactants, facilitating the reaction to produce Cu-ISOCN-1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the transformation of Cu-ISOCN-1 to Cu-ISOCN-2 achieved through a solid-state process?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the contact angle measurement for Cu-ISOCN-3?",
+      "answer": "The contact angle measurement for Cu-ISOCN-3 indicated its hydrophobic surface properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational technique was applied to the geometry optimizations in the study?",
+      "answer": "An atom-pairwise dispersion correction with Becke-Johnson damping was applied to all geometry optimizations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the synthesis of Cu-ISOCN-3 described as a direct or indirect process?",
+      "answer": "The synthesis of Cu-ISOCN-3 was described as a direct process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

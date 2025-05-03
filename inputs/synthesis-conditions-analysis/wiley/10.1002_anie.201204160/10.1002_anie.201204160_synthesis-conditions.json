@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "[(CH3)2NH2]3[In3(BTB)4]·12 DMF·22 H2O (ZJU-28)",
+      "synthesis_conditions": {
+        "temperature": "130 8C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "36 mL"
+          },
+          {
+            "name": "1,4-dioxane",
+            "amount": "24 mL"
+          },
+          {
+            "name": "water",
+            "amount": "4 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "4,4’,4’’-benzene-1,3,5-triyl-tribenzoic acid (H3BTB)",
+            "amount": "532.0 mg, 1.2 mmol"
+          },
+          {
+            "name": "InCl3",
+            "amount": "582.4 mg, 2.4 mmol"
+          },
+          {
+            "name": "nitric acid",
+            "amount": "0.25 mL"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "washed with DMF",
+        "yield": "0.81 g, 58 % based on H3BTB",
+        "equipment": "Oxford Xcalibur Gemini Ultra diffractometer with an Atlas detector",
+        "drying_method": "filtration",
+        "additional_information": "The solvents in the crystal are highly disordered, and the SQUEEZE subroutine of the PLATON software suit was conducted."
+      }
+    },
+    {
+      "name": "ZJU-28·DPASM, ZJU-28·DPASB, ZJU-28·DPASN, and ZJU-28·DPASD",
+      "synthesis_conditions": {
+        "temperature": "60 8C",
+        "solvent": "DMF",
+        "time": "eight days",
+        "chromophore_content": [
+          {
+            "name": "ZJU-28·DPASM",
+            "content": "27.6 wt %"
+          },
+          {
+            "name": "ZJU-28·DPASB",
+            "content": "28.2 wt %"
+          },
+          {
+            "name": "ZJU-28·DPASN",
+            "content": "29.8 wt %"
+          },
+          {
+            "name": "ZJU-28·DPASD",
+            "content": "22.9 wt %"
+          }
+        ],
+        "method": "immersed the as-synthesized ZJU-28 in DMF containing different hemicyanine chromophores",
+        "characterization_techniques": [
+          "FTIR",
+          "luminescent spectroscopies",
+          "fluorescent microscopy"
+        ]
+      }
+    }
+  ]
+}

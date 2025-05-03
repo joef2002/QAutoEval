@@ -1,0 +1,126 @@
+{
+  "materials": [
+    {
+      "label": "PCN-521",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "solvent_amounts": "0.34 mL",
+        "equipment": "4 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "chemical": "ZrCl4",
+            "amount": "2.4 mg"
+          },
+          {
+            "chemical": "MTBC",
+            "amount": "2.0 mg"
+          },
+          {
+            "chemical": "benzoic acid",
+            "amount": "70 mg"
+          }
+        ],
+        "time": "24h",
+        "activation_method": "Supercritical CO2",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "label": "N-MV-PCN-521-BA",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "solvent_amounts": "0.34 mL",
+        "equipment": "4 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "chemical": "ZrCl4",
+            "amount": "2.4 mg"
+          },
+          {
+            "chemical": "MTBC",
+            "amount": "2.0 mg"
+          },
+          {
+            "chemical": "TBPA",
+            "amount": "3.0 mg"
+          },
+          {
+            "chemical": "benzoic acid",
+            "amount": "70 mg"
+          }
+        ],
+        "time": "24h",
+        "activation_method": "Supercritical CO2",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "label": "P-MV-PCN-521-BA",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": "DEF",
+        "solvent_amounts": "0.34 mL",
+        "equipment": "4 mL Pyrex vial",
+        "chemicals_used": [
+          {
+            "chemical": "ZrCl4",
+            "amount": "2.4 mg"
+          },
+          {
+            "chemical": "MTBC",
+            "amount": "2.0 mg"
+          },
+          {
+            "chemical": "TBPA",
+            "amount": "3.0 mg"
+          },
+          {
+            "chemical": "benzoic acid",
+            "amount": "70 mg"
+          }
+        ],
+        "time": "24h",
+        "activation_method": "Supercritical CO2",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "label": "Au-N-MV-PCN-521-BA",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF/MeOH/H2O solvent mixture",
+        "solvent_amounts": "Not specified",
+        "equipment": "Schlenk tube",
+        "chemicals_used": [
+          {
+            "chemical": "AuCl3",
+            "amount": "Equimolar to MV-N-PCN-521-BA"
+          }
+        ],
+        "time": "12h",
+        "activation_method": "Wrapped in foil under inert atmosphere",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "label": "Au-P-MV-PCN-521-BA",
+      "synthesis_conditions": {
+        "temperature": "Room temperature",
+        "solvents": "DMF/MeOH/H2O solvent mixture",
+        "solvent_amounts": "Not specified",
+        "equipment": "Schlenk tube",
+        "chemicals_used": [
+          {
+            "chemical": "AuCl3",
+            "amount": "Equimolar to MV-P-PCN-521-BA"
+          }
+        ],
+        "time": "12h",
+        "activation_method": "Wrapped in foil under inert atmosphere",
+        "yield": "Not specified"
+      }
+    }
+  ]
+}

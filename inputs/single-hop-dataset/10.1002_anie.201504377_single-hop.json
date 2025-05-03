@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the source of cesium used in the synthesis of complex organocesium tetramic acids?",
+      "answer": "Cesium carbonate",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction is used to initially assemble two diversity elements in the synthesis described?",
+      "answer": "The four-component Ugi isocyanide-based multi-component reaction (IMCR)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property do the synthesized organocesium tetramic acids display?",
+      "answer": "They are air- and moisture-stable",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of cesium carbonate in the synthesis process?",
+      "answer": "It promotes the completion of cascade sequences to access structurally complex and stable cesium organometallic tetramic acids",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What biological activities are associated with tetramic acids?",
+      "answer": "Cytotoxic, fungicidal, and anti-ulcerative properties",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the coordination sphere in the synthesized organocesium species?",
+      "answer": "It indicates the first reported structure of an organocesium species that simultaneously binds a water molecule, a carbonyl, a nitrile, and a phenyl group",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the expected yield of compound 7a?",
+      "answer": "86%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of a water molecule in the cesium coordination sphere affect the stability of the synthesized compounds?",
+      "answer": "The presence of a water molecule does not affect the stability, as the compounds are air- and moisture-stable",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of using cesium carbonate instead of pyrophoric cesium metal in the synthesis?",
+      "answer": "To avoid the sensitivity to air and moisture associated with pyrophoric cesium metal, making the process safer and more convenient",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of replacing ethyl glyoxylate with methylacetoacetate in the Ugi reaction?",
+      "answer": "It enabled the formation of cyclic imide and, subsequently, the base-promoted formation of the tetramic acid through nucleophilic ring closure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the HOMO–LUMO gaps observed in the DFT calculations for the synthesized compounds?",
+      "answer": "The large HOMO–LUMO gaps indicate a significant electronic structure that could influence the compounds' properties and applications",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the energy decomposition analysis reveal about the covalent character of the compounds?",
+      "answer": "It indicates a significant covalent character, suggesting strong interactions within the compounds' structures",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized organocesium tetramic acids are sensitive to air and moisture.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Ugi/Dieckmann methodology was used to access products of generic structure 7.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: All synthesized compounds were found to be unstable after flash column chromatography.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of cesium organometallics typically requires low temperature and air-free conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized organocesium species are the first examples with unique coordination spheres involving phenyl rings in two different modes.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of a water molecule in the coordination sphere always destabilizes the organocesium compounds.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis described in the text uses pyrophoric cesium metal as a cesium source.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The organocesium tetramic acids synthesized can be used directly in applications without further modification.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

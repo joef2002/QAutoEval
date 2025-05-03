@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the porous metal-organic framework discussed in the article?",
+      "answer": "FJI-H8",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the record-high gravimetric acetylene uptake of FJI-H8 at 295 K and 1 atm?",
+      "answer": "224 cm3 (STP) g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does increasing the storage temperature to 308 K significantly affect FJI-H8's acetylene storage capacity?",
+      "answer": "No, increasing the storage temperature to 308 K has only a small effect on its acetylene storage capacity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do open metal sites play in FJI-H8's acetylene uptake?",
+      "answer": "Open metal sites contribute to FJI-H8's remarkable acetylene uptake by interacting directly with gas molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the volumetric acetylene uptake of FJI-H8 at 295 K and 1 atm?",
+      "answer": "196 cm3 (STP) cm-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is FJI-H8's acetylene storage capacity affected after five cycles of adsorption-desorption tests?",
+      "answer": "Yes, FJI-H8 exhibits only 3.8% loss of its acetylene storage capacity after five cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What factors contribute to FJI-H8's high acetylene uptake capacity?",
+      "answer": "Both open metal sites and suitable pore space and geometry play key roles in FJI-H8's high acetylene uptake capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the isosteric heat of acetylene adsorption for FJI-H8?",
+      "answer": "32.0 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can FJI-H8 be considered a suitable candidate for practical acetylene storage applications?",
+      "answer": "Yes, due to its high acetylene uptakes, low decrease rate of acetylene uptakes with temperature, and excellent repeatability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the acetylene uptake by open metal sites in FJI-H8 higher than that contributed by the pore space?",
+      "answer": "False, the acetylene uptake by the pore space accounts for a significant portion of the whole acetylene uptake in FJI-H8.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of FJI-H8?",
+      "answer": "Tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the ligand H8tddb in the structure of FJI-H8?",
+      "answer": "The ligand H8tddb contributes to the formation of the porous structure of FJI-H8 by coordinating with Cu(II) ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does FJI-H8 have a high surface area?",
+      "answer": "Yes, FJI-H8 has a high surface area as indicated by its N2 adsorption data.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the framework density of FJI-H8?",
+      "answer": "0.873 g cm-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the acetylene uptake of FJI-H8 compare to that of HKUST-1 at 295 K and 1 atm?",
+      "answer": "FJI-H8 exhibits a higher acetylene uptake than HKUST-1 at 295 K and 1 atm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is FJI-H8's acetylene storage capacity at 308 K comparable to its capacity at 295 K?",
+      "answer": "True, FJI-H8's acetylene storage capacity at 308 K is comparable to its capacity at 295 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical acetylene uptake by open metal sites in FJI-H8 at room temperature?",
+      "answer": "87 cm3 (STP) g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does FJI-H8 exhibit a high repeatability for acetylene storage?",
+      "answer": "Yes, FJI-H8 exhibits high repeatability with only a 3.8% loss in absorbed quantity of C2H2 after five cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What simulation method was used to study the acetylene adsorption property of FJI-H8?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulations were used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the design of FJI-H8 contribute to its suitability for practical acetylene storage applications?",
+      "answer": "Yes, the design of FJI-H8, including its open metal sites and suitable pore space, contributes to its suitability for practical acetylene storage applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

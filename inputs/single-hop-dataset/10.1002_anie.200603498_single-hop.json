@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are single-molecule magnets (SMMs) used for?",
+      "answer": "High-density information storage and quantum computation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of chelating ligands containing alkoxide functions in synthesizing polynuclear clusters?",
+      "answer": "They act as good bridging groups, favoring the formation of polynuclear products.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of {1·0.5 MeCN·6 H2O}1 when synthesized?",
+      "answer": "23%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum cMT value at 15.0 K for the microcrystalline sample of {1·6 H2O·0.5 MeCN}1?",
+      "answer": "73.68 cm3 mol-1 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ground spin state of the Mn19 repeating unit?",
+      "answer": "S = 23/2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of ac magnetic-susceptibility measurements in the study of SMMs?",
+      "answer": "To detect slow magnetization relaxation suggestive of SMMs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are hysteresis loops important in confirming SMM behavior?",
+      "answer": "They are the diagnostic behavior of magnets, showing coercivity increases with decreasing temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of the Mn19 repeating unit contribute to its magnetic properties?",
+      "answer": "The triangular-pyramidal-frustum topology of the manganese ions contributes to a large ground spin state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the large channels in the structure of {1·3 H2O}1?",
+      "answer": "They offer possibilities for inserting guest molecules that can affect structural and magnetic properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the use of H2pd and H2mpd affect the synthesis of manganese–carboxylate complexes?",
+      "answer": "It results in the formation of novel 3D coordination polymers with nanometer-sized channels.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of NaClO4 in the synthesis of {1·0.5 MeCN·6 H2O}1?",
+      "answer": "It is used as a reactant in the synthesis process.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the absence of quantum tunneling of magnetization (QTM) steps in hysteresis loops indicate?",
+      "answer": "It is typical for large SMMs, which are more susceptible to step-broadening effects.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic properties of 1 and 2 are significantly different.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Mn19 repeating unit has a cubic space group P213.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of {1·0.5 MeCN·6 H2O}1 and {2·6 H2O}1 requires high temperature and pressure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of {1·3 H2O}1 contains approximately 44% void space.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ground spin state of the Mn19 repeating unit was determined without computational methods.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ac susceptibility data do not support the S = 23/2 ground state determined from fits of the magnetization data.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Mn19 repeating unit does not display SMM behavior.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of {2·6 H2O}1 used a 1:5:2 molar ratio of reactants.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

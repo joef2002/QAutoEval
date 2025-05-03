@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molar ratio used in the first step to prepare the polymeric complex [{Au(C6F5)2}2{Pb(terpy)}]n?",
+      "answer": "1:1:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What prevents the infinite growth of the chain in the synthesis of complex [{Au-(C6F5)2}{PbCl(terpy)}]?",
+      "answer": "The exchange of a [Au(C6F5)2] anion by a chloride one",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the decanuclear species [{Au(C6F5)2}6{PbCl(terpy)}2{Pb-(terpy)}2] luminescent in solution?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of interactions are used to assemble the decanuclear complex?",
+      "answer": "Metallophilic and p-stacking interactions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the emission color of the dinuclear compound 2?",
+      "answer": "Very intense yellow",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of metal-metal interactions influence the luminescence properties of the complexes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of chlorine atoms in the crystal structure of 3·3.75 toluene?",
+      "answer": "They act as lock to avoid the further growth of the metallic chain",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the terpy ligands located alternatively up and down the intermetallic chain in complex 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the disposition of the terpy molecules between complexes 1 and 3·3.75 toluene?",
+      "answer": "In 1 they are placed alternatively up and down, while in 3·3.75 toluene they display a rotating disposition forming a helix",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method was used to analyze the formation of the decanuclear complex?",
+      "answer": "DFT analysis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Pb-Cl bonding energy higher than the AuI···PbII interactions according to the computational study?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the QTAIM-ELF-NCI topological analysis reveal about the interactions in complex 3?",
+      "answer": "It shows density values in agreement with closed-shell bonding interactions between atoms",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the lifetimes of the luminescence in the solid state at room temperature for complexes 1, 2, and 3 in the nanosecond time scale?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the emission shift observed when the temperature is decreased to 77 K?",
+      "answer": "The emission bands shift to the red",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the electron pair localization for the Au atoms adjacent to the Pb centres suggest a weak interaction according to the ELF analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main ionic component reinforced by in the AuI···PbII interactions?",
+      "answer": "A strong dispersive contribution",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the origin of the very intense yellow emission of compound 2?",
+      "answer": "Likely to arise from a charge transfer transition involving both metal centres",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the emissions of complexes 1 and 3 assigned to arise from metal-metal to ligand charge transfer transitions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the key point in the formation of the decanuclear complex 3 according to the computational study?",
+      "answer": "The preference for the formation of the Pb-Cl bond",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the NCI gradient isosurface for model system 3 b show?",
+      "answer": "Strong attractive non-covalent interactions between metal centres and of the Cl-Pb bond",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

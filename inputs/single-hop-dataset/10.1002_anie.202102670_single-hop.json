@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the metal-organic framework discussed in the article?",
+      "answer": "Fe-HHTP-MOF",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the surface area of Fe-HHTP-MOF as reported?",
+      "answer": "Exceeding 1400 m2 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the electrical conductivity of Fe-HHTP-MOF?",
+      "answer": "Up to 10@3 S cm@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the band gap of Fe-HHTP-MOF?",
+      "answer": "1.1 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis method used for Fe-HHTP-MOF?",
+      "answer": "Solvothermal synthesis",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystallite size range of Fe-HHTP-MOF?",
+      "answer": "300–500 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of FeIII ions in Fe-HHTP-MOF?",
+      "answer": "FeIII ions are arranged in a diamond topology within the MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Fe-HHTP-MOF exhibit high electrical conductivity?",
+      "answer": "Due to continuous charge-carrier pathways throughout the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What property of Fe-HHTP-MOF contributes to its potential in photovoltaic materials?",
+      "answer": "Its broadband absorption from 475 up to 1900 nm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the cubic structure of Fe-HHTP-MOF?",
+      "answer": "It allows charge carriers to percolate throughout the framework isotropically.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the porosity of Fe-HHTP-MOF compare to 2D MOFs?",
+      "answer": "The surface area of Fe-HHTP-MOF is about four times higher than the average surface area for a corresponding 2D MOF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the thermal stability range of Fe-HHTP-MOF?",
+      "answer": "Up to 185 88C",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Fe-HHTP-MOF synthesized under solvothermal conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Fe-HHTP-MOF have a surface area less than 1000 m2 g@1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the electrical conductivity of Fe-HHTP-MOF lower than 1 S cm@1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Fe-HHTP-MOF exhibit photoluminescence under a 375 nm laser source?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is Fe-HHTP-MOF an efficient hole conductor?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Fe-HHTP-MOF have a direct band gap of less than 1 eV?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can Fe-HHTP-MOF transport electrons efficiently?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Fe valency in Fe-HHTP-MOF exclusively FeII?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

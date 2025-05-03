@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of HIAM-402?",
+      "answer": "C34H20N2O16Zr3",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what temperature were the single-crystal X-ray diffraction data for HIAM-403 collected?",
+      "answer": "200.0 K",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the space group of HIAM-311?",
+      "answer": "Fmmm",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many independent reflections were collected for HIAM-402?",
+      "answer": "3978",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the final R index for all data of HIAM-403?",
+      "answer": "R1 = 0.0352, wR2 = 0.1010",
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the crystal system of HIAM-402?",
+      "answer": "tetragonal",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is the volume of HIAM-311 larger than that of HIAM-402?",
+      "answer": "Yes",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Does HIAM-403 have a higher density than HIAM-311?",
+      "answer": "Yes",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the formula weight of HIAM-311 more than double that of HIAM-402?",
+      "answer": "Yes",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Can the pore size distribution of HIAM-402 be determined from the given data?",
+      "answer": "Yes",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Is the space group of HIAM-402 I41/amd?",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "HIAM-403 was synthesized at a temperature of 100 °C.",
+      "answer": "False",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "HIAM-311 has a higher formula weight than HIAM-402.",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The crystal size of HIAM-403 is larger than that of HIAM-402.",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The final R indexes for HIAM-311 are lower than those for HIAM-402.",
+      "answer": "False",
+      "type": "True or False",
+      "difficulty": "medium"
+    },
+    {
+      "question": "HIAM-402 has a higher density than HIAM-403.",
+      "answer": "True",
+      "type": "True or False",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The synthesis of HIAM-402 requires a higher temperature than HIAM-311.",
+      "answer": "False",
+      "type": "True or False",
+      "difficulty": "hard"
+    }
+  ]
+}

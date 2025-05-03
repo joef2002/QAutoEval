@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the first metal-organic framework mentioned?",
+      "answer": "{Na4[Cd7(IDC)6]·3bpy·7H2O}n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do bpy and Bu4NBr play in the synthesis of the metal-organic frameworks?",
+      "answer": "They act as templates during the formation of the cages.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework of compound 1 stable up to 300 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage based on Cd(NO3)2·4H2O for the synthesis of compound 1?",
+      "answer": "40%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the escape rate of guest molecules from the cages depend on the particle sizes of the MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main structural difference between the coordination environments of Cd(1) and Cd(2) in the MOFs?",
+      "answer": "Cd(1) is six-coordinated with four oxygen and two nitrogen atoms, while Cd(2) is coordinated to six symmetry related O(3) atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the MOFs constructed by nanoscale cages via sharing the single-layer walls?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the chemical formula for the second metal-organic framework mentioned?",
+      "answer": "{(Bu4N)K3Cd7(IDC)6}·6H2O}n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the 3^8 4^15 cage building unit (CBU) mentioned?",
+      "answer": "It shows a new type of CBU that has not been observed in known zeolite CBUs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 2 be obtained without the presence of Bu4N+ molecules?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of compound 2 based on Cd(NO3)2·4H2O?",
+      "answer": "32%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of bpy and Bu4N+ molecules influence the formation of the MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of IDC3- in the structure of the MOFs?",
+      "answer": "IDC3- acts as a bridging ligand connecting Cd(II) ions to form the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the MOFs mentioned in the text porous?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the approximate diameter of the nanoscale M21L12 cage mentioned?",
+      "answer": "Approximately 1.4 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Do the MOFs exhibit photoluminescence?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in thermal behavior between compounds 1 and 2?",
+      "answer": "Compound 1 shows different weight losses in crystalline and powder forms, while compound 2 shows similar TGA curves regardless of form.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the escape rate of guest molecules from the cages influenced by the presence of alkali metal ions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of the crystal structure for both compounds 1 and 2?",
+      "answer": "P-62c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of the MOFs resemble that of fullerene?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

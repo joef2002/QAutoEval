@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for MIL-53as?",
+      "answer": "CrIII(OH).{O2C-C6H4-CO2}.{HO2C-C6H4-CO2H}0.75",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MIL-53ht?",
+      "answer": "Imcm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the space group of MIL-53as and MIL-53ht the same?",
+      "answer": "No, MIL-53as is Pnam and MIL-53ht is Imcm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does MIL-53lt exhibit any peak enlargement?",
+      "answer": "Yes, due to an anisotropic enlargement of some reflections.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the hydration−dehydration process of MIL-53ht−MIL-53lt fully reversible?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effective moment (μeff) for MIL-53as according to the Curie−Weiss law?",
+      "answer": "3.69 μB",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can MIL-53lt incorporate ethanol or acetone within its pores?",
+      "answer": "No, it cannot incorporate either ethanol or acetone.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What solvent was successfully incorporated into the pores of MIL-53lt?",
+      "answer": "DMF",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the breathing effect observed in MIL-53 solids large or small?",
+      "answer": "Very large",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Néel temperature (TN) for MIL-53lt?",
+      "answer": "55 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the cell volume change significantly upon calcination and hydration for MIL-53 solids?",
+      "answer": "Yes, especially upon hydration.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are MIL-53 solids thermally stable?",
+      "answer": "Yes, they exhibit high thermal stability.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Langmuir surface area of MIL-53ht?",
+      "answer": "More than 1500 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Do MIL-53 solids exhibit magnetic properties?",
+      "answer": "Yes, they are antiferromagnetic.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the breathing effect in MIL-53 solids?",
+      "answer": "The creation of strong hydrogen bonds and π−π interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of MIL-53as solved using single crystal data?",
+      "answer": "No, it was solved using powder X-ray diffraction patterns.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydroxyl groups in MIL-53lt?",
+      "answer": "They stabilize water molecules through hydrogen bonding interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of MIL-53lt?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of water molecules in MIL-53lt increase its porosity?",
+      "answer": "No, MIL-53lt does not exhibit any accessible porosity when filled with water molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the difference in Cr−O−Cr angle between MIL-53as and MIL-53lt?",
+      "answer": "The angle is 121.5° for MIL-53as and 124.8° for MIL-53lt.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

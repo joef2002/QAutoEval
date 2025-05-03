@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study reported in the article?",
+      "answer": "The main focus of the study is the systematic experimental and theoretical investigation of the relationship between linker functionalization and the thermodynamic stability of metal-organic frameworks (MOFs) using a model set of eight isostructural zeolitic imidazolate frameworks (ZIFs) based on 2-substituted imidazolate linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of the ZIFs mentioned in the study?",
+      "answer": "The ZIFs were synthesized mechanochemically using a Retsch MM400 shaker mill.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of ammonium nitrate in the synthesis of SOD-Zn(MeIm)2?",
+      "answer": "Ammonium nitrate was used as an additive in the mechanochemical synthesis of SOD-Zn(MeIm)2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the thermodynamic stability of the ZIFs evaluated in the study?",
+      "answer": "The thermodynamic stability of the ZIFs was evaluated through calorimetric measurements and supported by theoretical calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the significance of using different substituents in the imidazolate linker for the ZIFs?",
+      "answer": "The use of different substituents in the imidazolate linker was significant for investigating how these variations affect the thermodynamic stability and structural properties of the ZIFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of ZIFs via mechanochemistry considered environmentally friendly?",
+      "answer": "Yes, the synthesis of ZIFs via mechanochemistry is considered environmentally friendly due to its solvent-free nature and potential for energy efficiency.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that all ZIFs have the same level of thermodynamic stability.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study exclusively used X-ray diffraction for the structural analysis of ZIFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the structure and composition of Zn(CHOIm)2?",
+      "answer": "Solid-state nuclear magnetic resonance spectroscopy (ssNMR) was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study suggests that linker functionalization is a key factor in designing MOFs with desired stability and properties.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of performing thermogravimetric analysis (TGA) on the prepared ZIFs?",
+      "answer": "The purpose of performing TGA was to assess the thermal stability and composition of the prepared ZIFs by measuring weight changes upon heating.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study utilized liquid-assisted grinding (LAG) as a part of the mechanochemical synthesis process for some ZIFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How did the study correlate the stability of ZIFs with the properties of the linker substituents?",
+      "answer": "The study correlated the stability of ZIFs with the properties of the linker substituents by examining the relationship between the enthalpy of formation of the ZIFs and the Hammett σ-constants or electrostatic surface potentials of the substituents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study concluded that all ZIFs synthesized are suitable for high-temperature applications.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the impact of substituent variation on the molar volume of ZIFs according to the study?",
+      "answer": "The study found that variation of the substituent in the 2-position led to a change in the molar volume of ZIFs, which is related to the framework's density and potentially its stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings are limited to ZIFs and cannot be applied to other types of MOFs.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges did the study face in the crystal structure determination of HIIm from single crystal X-ray diffraction data?",
+      "answer": "The study faced challenges such as strong diffuse scattering, twinning, and heavy disorder in the imidazole rings, which complicated the crystal structure determination of HIIm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study provided a comprehensive understanding of the effect of linker functionalization on the porosity of ZIFs.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How did the study validate the computational predictions of ZIF stability?",
+      "answer": "The study validated the computational predictions of ZIF stability by comparing them with experimental calorimetric measurements, showing good agreement between theoretical and experimental values.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that mechanochemical synthesis is the only viable method for producing ZIFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

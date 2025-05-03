@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of TBCP-MOF?",
+      "answer": "C216 N12 O32 Zr6",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the single-crystal X-ray diffraction measurements of TBML-MOF conducted?",
+      "answer": "193(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of TM-MOF based on organic ligand?",
+      "answer": "42%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of TNP-MOF?",
+      "answer": "1156 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the irradiation wavelength used for the photocatalytic CO2 reduction experiments with TNP-MOF?",
+      "answer": "Near-infrared light (λ≥730 nm)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 conversion rate of TNP-MOF under NIR light irradiation?",
+      "answer": "6630 µmol g-1 h-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the photocatalytic performance of TNP-MOF outperform all the other MOF-based photocatalysts even under visible-light-driven conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the AQE value of TNP-MOF at a wavelength of 760 nm higher than 2%?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the BET surface area of TNP-MOF decrease after 48 hours of photocatalytic test?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystallinity and porosity of TNP-MOF well maintained after the photocatalytic test?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of triethanolamine (TEOA) in the photocatalytic CO2 reduction process?",
+      "answer": "TEOA acts as a sacrificial amine donor for reductive quenching of the excited state of the photocatalyst.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the use of NIR light irradiation affect the photostability of MOFs during photocatalytic CO2 reduction?",
+      "answer": "Using low-energy NIR light irradiation can reduce the photodegradation of organic photosensitive units in MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the π-conjugated cation radical signal of TNP linker upon NIR light illumination according to in situ EPR measurements?",
+      "answer": "The π-conjugated cation radical signal of TNP linker remains unaltered upon NIR light illumination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of CO2 exposure on the Zr clusters in TNP-MOF as observed in near ambient pressure XPS studies?",
+      "answer": "Exposure to CO2 results in the appearance of new Zr 3d species, indicating interaction of CO2 with the Zr clusters in TNP-MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the absorption band at around 550 nm observed in UV-Vis-NIR spectroelectrochemical measurements of TNP linker?",
+      "answer": "The absorption band at around 550 nm signifies the generation of one-electron oxidized species of TNP.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the BET surface area of TNP-MOF before the photocatalytic test higher than after the test?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the TNP-MOF exhibit a decrease in UV-vis adsorption of TNP units under full spectrum irradiation over time?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the AQE value of TNP-MOF at a wavelength of 808 nm greater than 1%?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the TNP-MOF maintain its composition unchanged after the photocatalytic tests according to TEM elemental mapping?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photocatalytic CO2 reduction rate of TNP-MOF under NIR light irradiation the highest among all reported MOF-based photocatalysts?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "materials": [
+    {
+      "name": "[Cu2Br2(AsPh3)2(prz)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuBr",
+          "prz"
+        ],
+        "yield": "62% at 25 °C",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/n",
+        "volume": "2175.1(2) Å3 at 25 °C",
+        "dcalcd": "1.621 g cm-3 at 25 °C",
+        "z_value": "4",
+        "f000": "1052.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.378 deg at 25 °C",
+        "tmin_tmax": "0.551 / 1.000 at 25 °C",
+        "no_of_observed_data": "7098 at 25 °C",
+        "no_of_parameters": "274 at 25 °C",
+        "r1_wR2_values": "0.0551, 0.1631 at 25 °C",
+        "goodness_of_fit_indicator": "1.013 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2I2(AsPh3)2(prz)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuI",
+          "prz"
+        ],
+        "yield": "98% at 25 °C",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/n",
+        "volume": "2238.7(2) Å3 at 25 °C",
+        "dcalcd": "1.714 g cm-3 at 25 °C",
+        "z_value": "4",
+        "f000": "1124.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "50.696 deg at 25 °C",
+        "tmin_tmax": "0.658 / 1.000 at 25 °C",
+        "no_of_observed_data": "4088 at 25 °C",
+        "no_of_parameters": "273 at 25 °C",
+        "r1_wR2_values": "0.0546, 0.1546 at 25 °C",
+        "goodness_of_fit_indicator": "1.012 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2Br2(AsPh3)2(bpy)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuBr",
+          "bpy"
+        ],
+        "yield": "32% at 25 °C",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "volume": "1038.62(13) Å3 at 25 °C",
+        "dcalcd": "1.688 g cm-3 at 25 °C",
+        "z_value": "2",
+        "f000": "522.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.418 deg at 25 °C",
+        "tmin_tmax": "0.927 / 0.964 at 25 °C",
+        "no_of_observed_data": "6587 at 25 °C",
+        "no_of_parameters": "208 at 25 °C",
+        "r1_wR2_values": "0.0557, 0.1469 at 25 °C",
+        "goodness_of_fit_indicator": "0.976 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2I2(AsPh3)2(bpy)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuI",
+          "bpy"
+        ],
+        "yield": "99% at 25 °C",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "volume": "1061.54(13) Å3 at 25 °C",
+        "dcalcd": "1.798 g cm-3 at 25 °C",
+        "z_value": "2",
+        "f000": "558.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.400 deg at 25 °C",
+        "tmin_tmax": "0.913 / 0.950 at 25 °C",
+        "no_of_observed_data": "6758 at 25 °C",
+        "no_of_parameters": "208 at 25 °C",
+        "r1_wR2_values": "0.0339, 0.0718 at 25 °C",
+        "goodness_of_fit_indicator": "0.981 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2Br2(AsPh3)2(nap)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuBr",
+          "nap"
+        ],
+        "yield": "97% at 25 °C",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "volume": "1006.77(11) Å3 at 25 °C",
+        "dcalcd": "1.698 g cm-3 at 25 °C",
+        "z_value": "2",
+        "f000": "508.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.226 deg at 25 °C",
+        "tmin_tmax": "0.654 / 1.000 at 25 °C",
+        "no_of_observed_data": "6346 at 25 °C",
+        "no_of_parameters": "199 at 25 °C",
+        "r1_wR2_values": "0.0547, 0.1315 at 25 °C",
+        "goodness_of_fit_indicator": "0.990 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2I2(AsPh3)2(nap)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuI",
+          "nap"
+        ],
+        "yield": "89% at 25 °C",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "volume": "1029.40(11) Å3 at 25 °C",
+        "dcalcd": "1.812 g cm-3 at 25 °C",
+        "z_value": "2",
+        "f000": "544.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.316 deg at 25 °C",
+        "tmin_tmax": "0.810 / 1.000 at 25 °C",
+        "no_of_observed_data": "6625 at 25 °C",
+        "no_of_parameters": "199 at 25 °C",
+        "r1_wR2_values": "0.0491, 0.0945 at 25 °C",
+        "goodness_of_fit_indicator": "0.971 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2Br2(AsPh3)2(meprz)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuBr",
+          "meprz"
+        ],
+        "yield": "81% at 25 °C",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/n",
+        "volume": "2206.66(17) Å3 at 25 °C",
+        "dcalcd": "1.619 g cm-3 at 25 °C",
+        "z_value": "4",
+        "f000": "1068.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.324 deg at 25 °C",
+        "tmin_tmax": "0.502 / 1.000 at 25 °C",
+        "no_of_observed_data": "7181 at 25 °C",
+        "no_of_parameters": "283 at 25 °C",
+        "r1_wR2_values": "0.0484, 0.1231 at 25 °C",
+        "goodness_of_fit_indicator": "1.002 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2I2(AsPh3)2(meprz)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuI",
+          "meprz"
+        ],
+        "yield": "94% at 25 °C",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/n",
+        "volume": "2245.5(2) Å3 at 25 °C",
+        "dcalcd": "1.733 g cm-3 at 25 °C",
+        "z_value": "4",
+        "f000": "1144.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "50.732 deg at 25 °C",
+        "tmin_tmax": "0.619 / 1.000 at 25 °C",
+        "no_of_observed_data": "4097 at 25 °C",
+        "no_of_parameters": "248 at 25 °C",
+        "r1_wR2_values": "0.0506, 0.1421 at 25 °C",
+        "goodness_of_fit_indicator": "1.091 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2Br2(AsPh3)2(dimeprz)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuBr",
+          "dimeprz"
+        ],
+        "yield": "91% at 25 °C",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "volume": "954.11(10) Å3 at 25 °C",
+        "dcalcd": "1.753 g cm-3 at 25 °C",
+        "z_value": "2",
+        "f000": "498.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.216 deg at 25 °C",
+        "tmin_tmax": "0.774 / 0.864 at 25 °C",
+        "no_of_observed_data": "6233 at 25 °C",
+        "no_of_parameters": "228 at 25 °C",
+        "r1_wR2_values": "0.0377, 0.0725 at 25 °C",
+        "goodness_of_fit_indicator": "1.009 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2I2(AsPh3)2(dimeprz)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuI",
+          "dimeprz"
+        ],
+        "yield": "94% at 25 °C",
+        "crystal_system": "Monoclinic",
+        "space_group": "P21/n",
+        "volume": "2245.5(2) Å3 at 25 °C",
+        "dcalcd": "1.733 g cm-3 at 25 °C",
+        "z_value": "4",
+        "f000": "1156.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "50.688 deg at 25 °C",
+        "tmin_tmax": "0.619 / 1.000 at 25 °C",
+        "no_of_observed_data": "4097 at 25 °C",
+        "no_of_parameters": "248 at 25 °C",
+        "r1_wR2_values": "0.0506, 0.1421 at 25 °C",
+        "goodness_of_fit_indicator": "1.091 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2Br2(AsPh3)2(pym)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuBr",
+          "pym"
+        ],
+        "yield": "70% at 25 °C",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "volume": "1867.7(2) Å3 at 25 °C",
+        "dcalcd": "1.742 g cm-3 at 25 °C",
+        "z_value": "2",
+        "f000": "964.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "65.522 deg at 25 °C",
+        "tmin_tmax": "0.745 / 0.855 at 25 °C",
+        "no_of_observed_data": "12023 at 25 °C",
+        "no_of_parameters": "433 at 25 °C",
+        "r1_wR2_values": "0.0581, 0.1694 at 25 °C",
+        "goodness_of_fit_indicator": "0.975 at 25 °C"
+      }
+    },
+    {
+      "name": "[Cu2I2(AsPh3)2(pym)]n",
+      "synthesis_conditions": {
+        "temperature": "25 °C and -180 °C",
+        "solvents": "Acetonitrile (CH3CN)",
+        "chemicals_used": [
+          "AsPh3",
+          "CuI",
+          "pym"
+        ],
+        "yield": "94% at 25 °C",
+        "crystal_system": "Triclinic",
+        "space_group": "P-1",
+        "volume": "1901.9(5) Å3 at 25 °C",
+        "dcalcd": "1.874 g cm-3 at 25 °C",
+        "z_value": "2",
+        "f000": "1036.0",
+        "data_collection_temperature": "25 °C and -180 °C",
+        "2θmax": "46.092 deg at 25 °C",
+        "tmin_tmax": "0.264 / 0.487 at 25 °C",
+        "no_of_observed_data": "5288 at 25 °C",
+        "no_of_parameters": "433 at 25 °C",
+        "r1_wR2_values": "0.0701, 0.1810 at 25 °C",
+        "goodness_of_fit_indicator": "0.951 at 25 °C"
+      }
+    }
+  ]
+}

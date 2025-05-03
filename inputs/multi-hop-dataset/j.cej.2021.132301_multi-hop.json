@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of the MOF CSMCRI-10?",
+            "answer": "The chemical formula of CSMCRI-10 is (CH3)2NH2\u8def[Co3(L)2(\u788c2-OH)(bpy)1.5(H2O)3]\u8def1.5DMF\u8def1.5H2O, where L is TCA3-.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the topology of the CSMCRI-10 framework?",
+            "answer": "CSMCRI-10 has a 3,3,4,4,5-c net topology with 3-nodal net and Schlafli symbol {4.82}2{42.82.106}{8.104.11}.",
+            "type": "factual"
+        },
+        {
+            "question": "What percentage of the unit cell volume in CSMCRI-10 is solvent accessible?",
+            "answer": "The total PLATON-calculated solvent accessible volume per unit cell accounts for nearly 30.6% of the cell volume in CSMCRI-10.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the BET surface area of the activated CSMCRI-10 framework?",
+            "answer": "The activated framework (10a) showed a Brunauer-Emmett-Teller (BET) surface area of 63 m2/g.",
+            "type": "factual"
+        },
+        {
+            "question": "What elements are present in CSMCRI-10 based on the XPS survey spectrum?",
+            "answer": "The XPS survey spectrum confirms the presence of C, N, O and Co in CSMCRI-10.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the overpotential required by CSMCRI-10 to reach a current density of 10 mA/cm2 for the oxygen evolution reaction?",
+            "answer": "CSMCRI-10 requires an overpotential of only 396 mV to reach the benchmark current density of 10 mA/cm2 for the oxygen evolution reaction.",
+            "type": "factual"
+        },
+        {
+            "question": "How does the concentration of KOH electrolyte affect the oxygen evolution reaction performance of CSMCRI-10?",
+            "answer": "The oxygen evolution reaction performance of CSMCRI-10 considerably rises with increasing the concentration of KOH solution, indicating that enhanced KOH concentration is favorable for boosting the OER activity.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What structural attributes of CSMCRI-10 contribute to its excellent tandem styrene carbonate synthesis performance?",
+            "answer": "The excellent tandem styrene carbonate synthesis performance of CSMCRI-10 can be attributed to the involvement of redox-active Co(II) ions, presence of suitably-sized framework pores for easy diffusion of substrates, and the affinity of the framework towards CO2 as evidenced by the moderate CO2 uptake capacity and isosteric heat of adsorption.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the proposed mechanism for the tandem CO2 fixation with styrene catalyzed by CSMCRI-10?",
+            "answer": "The proposed mechanism involves epoxidation of styrene via a radical pathway through formation of Co(III)-peroxy species, followed by activation of the generated styrene oxide by Lewis acidic Co(II) centers, nucleophilic attack by Br- to open the epoxide ring, attack of the oxoanion on CO2 to form alkylcarbonate anion, and finally ring closure by nucleophilic attack on the \u5c3e-carbon with exclusion of Br-.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Is CSMCRI-10 able to maintain its catalytic activity and structural integrity over multiple cycles of CO2 cycloaddition?",
+            "answer": "Yes, CSMCRI-10 is able to maintain its catalytic activity over five consecutive cycles of CO2 cycloaddition with negligible loss in performance. PXRD and FTIR analysis of the recovered catalyst confirm the retention of structural integrity.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the Faradaic efficiency of CSMCRI-10 for the oxygen evolution reaction?",
+            "answer": "The Faradaic efficiency of CSMCRI-10 for the oxygen evolution reaction was estimated to be 95.1%.",
+            "type": "True or False"
+        },
+        {
+            "question": "The asymmetric unit of CSMCRI-10 contains two crystallographically independent Co(II) ions with the same coordination environment.",
+            "answer": "False. The asymmetric unit contains three crystallographically independent Co(II) ions with entirely different coordination environments - a neutral mononuclear [CoN2(COO)2] node and an anionic [Co2(\u788c2-OH)(COO)4(H2O)3] secondary building unit.",
+            "type": "True or False"
+        },
+        {
+            "question": "The porous channels in CSMCRI-10 are decorated with redox-inactive metal nodes.",
+            "answer": "False. The porous channels in CSMCRI-10 are decorated with redox-active Co(II) nodes, including metal-bound water molecule containing secondary building units and monomeric units.",
+            "type": "True or False"
+        },
+        {
+            "question": "CSMCRI-10 exhibits poor chemical stability in water, acidic and alkaline media.",
+            "answer": "False. CSMCRI-10 exhibits high chemical resistance, as evidenced by the unchanged PXRD patterns after immersion in water, boiling water, acidic and alkaline media, and common organic solvents.",
+            "type": "True or False"
+        },
+        {
+            "question": "The roughness factor of CSMCRI-10 is less than 1.",
+            "answer": "False. The roughness factor of CSMCRI-10 was calculated to be 2.95, implying a highly exposed surface area.",
+            "type": "True or False"
+        },
+        {
+            "question": "The yield of styrene carbonate increases with increasing CO2 pressure up to 10 bar in the cycloaddition reaction catalyzed by CSMCRI-10.",
+            "answer": "False. The yield of styrene carbonate increases with increasing CO2 pressure only up to 5 bar. Further increase in pressure does not show any significant effect.",
+            "type": "True or False"
+        },
+        {
+            "question": "CSMCRI-10 shows poor affinity towards CO2 based on adsorption studies.",
+            "answer": "False. CO2 adsorption experiments revealed uptakes of 38.3 and 21 cm3/g at 273 K and 298 K respectively, and an isosteric heat of adsorption of 27.19 kJ/mol, indicating substantial affinity of the CSMCRI-10 framework towards CO2.",
+            "type": "True or False"
+        },
+        {
+            "question": "The catalytic activity of CSMCRI-10 in the tandem cycloaddition of CO2 with styrene is inferior compared to other reported MOF catalysts.",
+            "answer": "False. The catalytic performance of CSMCRI-10 in the tandem cycloaddition of CO2 with styrene is comparable or superior to previous reports of MOF catalysts under relatively mild conditions.",
+            "type": "True or False"
+        }
+    ]
+}

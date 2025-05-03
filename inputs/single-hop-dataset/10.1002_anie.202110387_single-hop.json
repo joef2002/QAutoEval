@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of the metal-organic frameworks (MOFs) discussed in the research?",
+      "answer": "Electrocatalytic reduction of CO2 into formate.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name of the porous 3D In-MOF constructed in the study?",
+      "answer": "V11",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What improvement does the introduction of carbon particles (CPs) bring to the MOF's performance in CO2 electroreduction?",
+      "answer": "It significantly improves both the Faradaic efficiency for formate (FEHCOO-) from 76.0% to 90.1% and the current density by 2.2 times.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The strategy of introducing carbon particles to improve MOF performance in CO2 electroreduction can be applied to other In-MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of methylene blue (MB) in the synthesis of CPs@V11?",
+      "answer": "Methylene blue molecules are introduced and transformed into carbon particles after calcination.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two types of channels' diameters in V11?",
+      "answer": "1.6 and 1.2 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The introduction of carbon particles derived from methylene blue does not change the oxidation states of In ion in V11.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum Faradaic efficiency for formate (FEHCOO-) achieved by V11 in CO2 electroreduction before introducing carbon particles?",
+      "answer": "76.0%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The introduction of carbon particles into the MOF framework does not affect the MOF's thermal stability.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the average size of carbon nanoparticles produced in CPs@V11 according to TEM images?",
+      "answer": "About 3.85 ± 0.94 nm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The catalytic performance of CPs@V11 remains unchanged after a 20-hour stability test.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the practical current density (jHCOO-) of CPs@V11 at @0.84 V versus the reversible hydrogen electrode (RHE)?",
+      "answer": "6.87 mA cm²",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The introduction of carbon nanoparticles into the MOF framework decreases the electrochemical active surface area (ECSA).",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of introducing carbon nanoparticles on the charge transfer resistance (Rct) of the MOFs?",
+      "answer": "It significantly reduces the charge transfer resistance (Rct), promoting charge transfer during electrolysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Tafel slope of CPs@V11 is higher than that of the original V11, indicating slower reaction kinetics.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What intermediate is first generated from CO2 during the electroreduction process according to in situ FT-IR spectra?",
+      "answer": "Formyloxyl",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The introduction of carbon nanoparticles derived from methylene blue into the MOF framework increases the local pH value around catalysts during CO2RR.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in applying MOFs to CO2 electroreduction as mentioned in the text?",
+      "answer": "The low conductivity nature of most MOFs limits charge transport during the reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The strategy of introducing carbon nanoparticles into MOFs can only improve the Faradaic efficiency for formate but not the current density.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the research conducted on MOFs for CO2 electroreduction?",
+      "answer": "It demonstrates a facile and universal strategy to enhance the efficiency of MOFs in CO2 electroreduction by introducing carbon nanoparticles.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

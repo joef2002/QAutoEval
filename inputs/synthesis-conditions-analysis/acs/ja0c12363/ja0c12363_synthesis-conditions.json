@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "material_name": "[PbI2(4F-spy)2], 1",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "PbI2",
+            "amount": "23.05 mg, 0.05 mmol"
+          },
+          {
+            "name": "4F-spy",
+            "amount": "18 mg, 0.1 mmol"
+          }
+        ],
+        "method": "Slow evaporation",
+        "time": "few days",
+        "yield": "78%",
+        "characterization_methods": [
+          "1H NMR",
+          "FT-IR",
+          "Elemental analysis"
+        ],
+        "additional_notes": "4-fluoro-4’-styrylpyridine (4F-spy) ligand was synthesized according to reported literature."
+      }
+    },
+    {
+      "material_name": "Single crystal structures 1a and 2",
+      "synthesis_conditions": {
+        "method": "Heating a single crystal of 1 to 393 K and 408 K respectively."
+      }
+    }
+  ],
+  "analysis": [
+    {
+      "technique": "SCXRD",
+      "details": "Bruker D8 Venture Single Crystal X-ray Diffractometer was used for collecting intensity data of single crystals."
+    },
+    {
+      "technique": "PXRD",
+      "details": "Bruker D8 Advance powder X-ray diffractometer with graphite monochromatized Cu-Kα radiation (λ = 1.54056 Å) at RT (298 K)."
+    },
+    {
+      "technique": "1H NMR",
+      "details": "400 MHz Bruker Avance 400 FT NMR spectrometer with TMS as an internal reference in DMSO-d6 solution."
+    },
+    {
+      "technique": "TGA",
+      "details": "Performed under nitrogen atmosphere with a heating rate of 5 & 10 K min-1 on a TA instruments SDT-2960."
+    },
+    {
+      "technique": "DSC",
+      "details": "Performed in a Mettler Toledo differential scanning calorimeter with variable heating/cooling rates with nitrogen gas flow."
+    },
+    {
+      "technique": "FT-IR",
+      "details": "Recorded using Varian Excalibur 3100 spectrometer with KBr pellets."
+    },
+    {
+      "technique": "Elemental Analysis",
+      "details": "Carried out by using ElementarVario Micro Cube instrument at the Elemental Analysis Lab, CMMAC, Department of Chemistry, National University of Singapore."
+    },
+    {
+      "technique": "Variable temperature SCXRD",
+      "details": "Data collected from 173 to 393 K at every 10 K increment of temperature."
+    },
+    {
+      "technique": "Variable temperature PXRD",
+      "details": "In situ VT-PXRD measurement of 1 for sequential Pawley refinement was carried out on a Bruker D8-Advance powder diffractometer."
+    },
+    {
+      "technique": "Heating/cooling stage microscopy",
+      "details": "Heating/cooling rates were monitored by JHC 10002L to observe the temperature changes of the samples."
+    }
+  ]
+}

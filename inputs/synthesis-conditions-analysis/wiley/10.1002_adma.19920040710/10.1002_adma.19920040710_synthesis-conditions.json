@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "material": "Meso-5,10,15,20-tetra(4-hydroxyphenyl)porphyrin-Fe(III) chloride (2a)",
+      "synthesis_conditions": {
+        "method": "A",
+        "temperature": "boiling",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "75 mL"
+          },
+          {
+            "name": "water",
+            "amount": "75 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "theporphyrin",
+            "amount": "0.75 mmol"
+          },
+          {
+            "name": "FeCl2 . 4H2O",
+            "amount": "2.0 mmol"
+          }
+        ],
+        "time": "20 min",
+        "equipment": "reflux",
+        "washing_method": "diluted with water and filtered with suction",
+        "yield": "0.50 g (86%)",
+        "drying_method": "not specified",
+        "additional_information": "violet crystals; m.p. > 350 'C"
+      }
+    },
+    {
+      "material": "Methylene-bridged adduct from meso-5,10,15,20-tetra(4-hydroxyphenyl)porphyrin 1a and salicyl alcohol",
+      "synthesis_conditions": {
+        "temperature": "refluxing",
+        "solvents": [
+          {
+            "name": "ethanol",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "1a",
+            "amount": "0.51 g (0.75 mmol)"
+          },
+          {
+            "name": "salicyl alcohol",
+            "amount": "0.37 g (3 mmol)"
+          },
+          {
+            "name": "concentrated HCl",
+            "amount": "2 mL"
+          }
+        ],
+        "time": "8 hours",
+        "equipment": "not specified",
+        "washing_method": "not specified",
+        "yield": "0.72 g (99%)",
+        "drying_method": "removed under vacuum",
+        "additional_information": "dark crystals; m.p. > 350°C"
+      }
+    },
+    {
+      "material": "Meso-5,10,15,20-tetra(4-(n-dodecanoyloxy)phenyl)porphyrin-Fe(III) chloride (2b)",
+      "synthesis_conditions": {
+        "method": "A",
+        "yield": "1.10 g (not specified %)",
+        "additional_information": "violet crystals; m.p. 64'C(dec.)"
+      }
+    },
+    {
+      "material": "Meso-5,10,15,20-tetra(4-(n-hexadecanoyloxy)phenyl)porphyrin-Fe(III) chloride (2c)",
+      "synthesis_conditions": {
+        "method": "A",
+        "yield": "0.59 g (46%)",
+        "additional_information": "dark crystals; m.p. 67'C(dec.)"
+      }
+    },
+    {
+      "material": "Meso-5,10,15,20-tetra(4-(n-octadecyloxy)phenyl)porphyrin-Fe(III) chloride (2d)",
+      "synthesis_conditions": {
+        "method": "A",
+        "yield": "1.29 g (97%)",
+        "additional_information": "dark crystals; m.p. 68 C (dec.)"
+      }
+    },
+    {
+      "material": "[MnTPP]::@[TCNE]'@",
+      "synthesis_conditions": {
+        "solvents": "toluene solution",
+        "additional_steps": [
+          {
+            "step": "crystal formation",
+            "conditions": "refrigerating a toluene/diethyl ether solution"
+          }
+        ],
+        "additional_information": "suitable for single-crystal X-ray diffraction"
+      }
+    },
+    {
+      "material": "Mixtures of Silicon Oxynitride and Silicon Nitride",
+      "synthesis_conditions": {
+        "temperature": "1500 K",
+        "precursors": [
+          "Calcium disilicide (CaSi2)",
+          "Ammonium halides"
+        ],
+        "reaction_atmosphere": "nitrogen",
+        "additional_information": "reaction of CaSi2 with ammonium halides affords a silicon-subnitride"
+      }
+    }
+  ]
+}

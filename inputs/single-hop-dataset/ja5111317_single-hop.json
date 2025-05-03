@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest porosity and BET surface area among the Zr-MOFs reported?",
+      "answer": "PCN-229 shows both the highest porosity and BET surface area among all the previously reported Zr-MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is used to compensate for the low stability of MOFs constructed with large linkers?",
+      "answer": "Increasing the connectivity of both organic linkers and inorganic clusters is a strategy used to compensate for the low stability of MOFs constructed with large linkers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCN-230 stable in aqueous solutions with pH values ranging from 0 to 12?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bulky porphyrin ring ligand in the synthesis of MOFs?",
+      "answer": "The bulky porphyrin ring ligand effectively prevents the network interpenetration which often appears in MOFs with increased linker length.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the Zr6 cluster contribute to the stability of the MOFs?",
+      "answer": "The high connectivity of the Zr6 cluster yields frameworks with enhanced stability despite high porosity and ultralarge linker.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PCN-229 have the largest pore among all Zr-MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ftw-a topology in the design of MOFs?",
+      "answer": "The ftw-a topology is significant for the design of MOFs as it allows for the construction of highly connected frameworks with desired properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of replacing a Zr8 cluster with a Zr6 cluster in MOFs?",
+      "answer": "Replacing a Zr8 cluster with a smaller Zr6 cluster in MOFs results in frameworks with enhanced stability and potentially higher porosity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the connectivity and symmetry of nodes sufficient to form the expected MOF framework?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ethynyl moieties in the design of porphyrinic MOFs?",
+      "answer": "Ethynyl moieties are used for ligand elongation, allowing the peripheral benzoates to rotate freely to stay in the same plane as the porphyrin center without significantly increasing the inherent energy.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis approach of PCN-228, PCN-229, and PCN-230 differ?",
+      "answer": "The synthesis approach differs in the ligands used (H4TCP-1, H4TCP-2, H4TCP-3) and the conditions under which the ZrCl4 and ligands are reacted to form the respective MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of H4TCP-1 involve a condensation reaction?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the synthesis of H4TCP-1?",
+      "answer": "The yield of the synthesis of H4TCP-1 is 53%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DDQ in the synthesis of H4TCP ligands?",
+      "answer": "DDQ is used in the synthesis of H4TCP ligands to facilitate the formation of the porphyrin core through a condensation reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the solvothermal reaction necessary for the formation of PCN-228, PCN-229, and PCN-230?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using acetic acid in the synthesis of PCN-228'?",
+      "answer": "Acetic acid is used in the synthesis of PCN-228' to facilitate the solvothermal reaction and possibly influence the formation of the MOF structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the stability of PCN-230 compare to other porphyrinic MOFs?",
+      "answer": "PCN-230 shows the highest stability in the widest pH range among previously reported porphyrinic MOFs despite its extremely large linker.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the PXRD pattern of PCN-228 identical to the simulated PXRD of PCN-228'?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TBAF in the synthesis of H4TCP-3?",
+      "answer": "TBAF is used in the synthesis of H4TCP-3 to facilitate the removal of the trimethylsilyl protecting group, allowing for further functionalization of the ligand.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of linker elongation on the stability of MOFs?",
+      "answer": "Linker elongation does not impair the stability of the material, as demonstrated by PCN-230, which shows excellent stability in aqueous solutions with pH ranging from 0 to 12.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research described in the text?",
+      "answer": "The main focus is on the quest for nanoporous solids that can absorb and release small molecules in a controllable and selective fashion.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is described for the preparation of the porous material based on a 1D coordination network?",
+      "answer": "The method described is a simple mechanochemical preparation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of the compound that can absorb and release small molecules?",
+      "answer": "The chemical formula is [CuCl2(dace)]1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can compound 1 absorb small molecules from both solution and by simple kneading?",
+      "answer": "Yes, compound 1 can absorb small molecules either from solution or by simple kneading.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the structure of compound 1 known in crystallographic detail?",
+      "answer": "No, the structure of compound 1 is not known in crystallographic detail due to the insolubility of the product.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How is compound 2 different from compound 1?",
+      "answer": "Compound 2 is a DMSO adduct of compound 1 and has been fully characterized by single-crystal X-ray crystallographic diffraction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to compound 2 when it is heated to 130 degrees Celsius?",
+      "answer": "When heated to 130 degrees Celsius, compound 2 converts into compound 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the process of converting compound 2 to compound 1 reversible?",
+      "answer": "Yes, the process is reversible.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does DMSO play in the formation of compound 2 from compound 1?",
+      "answer": "DMSO acts as a guest molecule that, when added to compound 1, leads to the formation of compound 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination geometry of the copper atoms in compound 2?",
+      "answer": "The copper atoms in compound 2 adopt a square-planar coordination.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of compound 2 contain cyclohexane rings in the chair conformation?",
+      "answer": "Yes, the cyclohexane rings of dace in compound 2 are in the chair conformation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the guest uptake behavior of compound 1?",
+      "answer": "The significance lies in its ability to absorb and release a variety of small molecules through an intercalation mechanism, showing somewhat selective uptake depending on the method used.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is compound 1 the first example of a 1D coordination network with reversible intercalation capacity?",
+      "answer": "Yes, to the best of the authors' knowledge, compound 1 is the first example of such a network.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of kneading in the preparation of host–guest compounds?",
+      "answer": "Kneading breaks crystallites and reduces surface clogging, facilitating the uptake of guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 1 take up water as a guest molecule?",
+      "answer": "Yes, compound 1 can take up water as a guest molecule.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of compound 2 when synthesized in DMSO?",
+      "answer": "The yield of compound 2 when synthesized in DMSO is 92%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the thermal treatment of compound 2 at 130 degrees Celsius result in the loss of DMSO?",
+      "answer": "Yes, the thermal treatment results in the conversion of compound 2 into compound 1 by the loss of DMSO.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest uptake by compound 1 selective?",
+      "answer": "Yes, the guest uptake by compound 1 appears to be somewhat selective and depends on the preparation method.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest molecule absorption on the structure of compound 1?",
+      "answer": "The absorption of guest molecules expands the spacing between the CuCl2–dace chains and shifts the layers back in position.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of using different solvents in the typical kneading experiment?",
+      "answer": "The purpose is to observe the uptake of different guest molecules by compound 1, demonstrating its intercalation mechanism.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

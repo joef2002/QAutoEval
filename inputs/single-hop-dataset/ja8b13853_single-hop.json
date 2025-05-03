@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Connecting Wires: Photoinduced Electronic Structure Modulation in Metal–Organic Frameworks",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Natalia B. Shustova",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/jacs.8b13853",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on the modulation of electronic structure of metal–organic frameworks (MOFs) through the connection of linker 'wires' as a function of an external stimulus.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is used for X-ray crystal structure determination?",
+      "answer": "Bruker D8 QUEST diffractometer equipped with a PHOTON-100 CMOS area detector and an Incoatec microfocus source (Mo Kα radiation) was used for X-ray crystal structure determination.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the compound Zn2(DBTD)(DPB-CHO) sensitive to air and temperature?",
+      "answer": "Yes, Zn2(DBTD)(DPB-CHO) crystals crack, become cloudy, and lose crystallinity in air and under oil within a few hours, and also crack and cloud immediately when flash-cooled in the diffractometer cold stream at temperatures lower than ca. 260 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the article provide computational details for the study?",
+      "answer": "Yes, the article provides computational details including the use of density functional theory (DFT) and time-dependent DFT for studying the electronic structure and photoisomerization processes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the electronic structure of MOFs be modulated by light irradiation according to the article?",
+      "answer": "Yes, the electronic structure of MOFs can be modulated by light irradiation, as demonstrated by the photoisomerization of photochromic molecules integrated into the MOF structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photoisomerization process reversible in the studied MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article discuss the construction of an electric circuit to visualize MOF conductivity changes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are solvent molecules within the MOF structures always ordered and easily identifiable?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the PXRD pattern of Zn2(DBTD)(DPB-CHO) consistent before and after UV irradiation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the authors provide a detailed analysis of the photoisomerization kinetics?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study conducted on both single crystal and bulk powder forms of MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the article focused on the development of new synthetic methods for MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to account for disordered solvent molecules in the crystal structure analysis?",
+      "answer": "The Squeeze technique in PLATON was used to account for disordered solvent molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the study's findings on MOF-based sensing enhancements?",
+      "answer": "The study's findings demonstrate the potential of using photoisomerization in MOFs for sensing enhancements, by modulating the electronic structure and conductivity in response to light, which could lead to the development of advanced sensing materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the article contribute to the field of stimuli-responsive materials?",
+      "answer": "The article contributes by showcasing how the integration of photoresponsive linkers into MOFs can lead to stimuli-responsive materials with dynamically controlled electronic properties, paving the way for new applications in smart materials and devices.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are mentioned in modeling the solvent disorder within the MOF structures?",
+      "answer": "The article mentions challenges in modeling the solvent disorder due to the severe disorder and partial occupancy of solvent molecules, making it difficult to identify and model these molecules accurately within the MOF structures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What future research directions does the article suggest based on its findings?",
+      "answer": "The article suggests further research into the design and synthesis of MOFs with integrated photoresponsive units for enhanced control over electronic properties, as well as exploring the practical applications of these materials in electronics and sensing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

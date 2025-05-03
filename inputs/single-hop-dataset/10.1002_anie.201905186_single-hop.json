@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI for the International Edition of the research article?",
+      "answer": "10.1002/anie.201905186",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of light emission is achieved from the dual-way photon energy conversion in dye@MOF systems?",
+      "answer": "White-light emission",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the excitation wavelengths for RhB+@LIFM-WZ-6, BR-2+@LIFM-WZ-6, and APFG+@LIFM-WZ-6 samples under one-photon absorption pathway?",
+      "answer": "365 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission intensity of RhB+ decreases when increasing the amounts of encapsulated RhB+ in the framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CIE coordinate of the white-light emitting luminophor LIFM-WZ-6 with 0.1 wt % RhB+ under 365 nm excitation?",
+      "answer": "(0.33, 0.35)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission band of LIFM-WZ-6 is blue-shifted steadily to a maximum of 75 nm when RhB+ is encapsulated.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CCT value of BR-2+@LIFM-WZ-6 (2 wt %) under 365 nm excitation?",
+      "answer": "5524",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Under what excitation wavelengths do RhB+@LIFM-WZ-6, BR-2+@LIFM-WZ-6, and APFG+@LIFM-WZ-6 exhibit up-conversion TPA white light?",
+      "answer": "800, 790, and 730 nm, respectively",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The TPEF of RhB+@LIFM-WZ-6 (0.05 wt %) reveals dual emissions under the excitation of 730 nm.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the CIE coordinates of APFG+@LIFM-WZ-6 (0.05 wt %) under 730 nm excitation?",
+      "answer": "(0.35, 0.39)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The quantum yields of BR-2+@LIFM-WZ-6 (2 wt %) and APFG+@LIFM-WZ-6 (0.1 wt %) are 6.8 % and 7.1 %, respectively.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CCT value of APFG+@LIFM-WZ-6 (0.1 wt %) under 365 nm excitation?",
+      "answer": "4436",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission color of dyes@LIFM-WZ-6 can be adjusted by changing the excitation wavelength.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum TPACS value of LIFM-WZ-6 when excited with 820 nm?",
+      "answer": "229 G.M.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The fluorescence performances of the white-emitting phosphors change significantly after being heated to 350 K for several hours.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the uncoordinated triazole groups in the adsorption of cationic dyes by LIFM-WZ-6?",
+      "answer": "They serve as the electron donor.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The LIFM-WZ-6 framework collapses in pure water.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of two-photon excited emission (TPEF) over one-photon absorption (OPA) process?",
+      "answer": "TPEF has deeper tissue penetration and reduced autofluorescence.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main challenge in achieving reliable TPEF white light as mentioned in the text?",
+      "answer": "It is difficult to control and predict the balance between energy transfer and spectral modulation among different components under TPA process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission intensity of LIFM-WZ-6 decreases when the amounts of encapsulated RhB+ in the framework are increased.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

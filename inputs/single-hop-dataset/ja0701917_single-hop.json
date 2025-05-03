@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C22 H14 Ag F6 N4 O2 Sb",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the X-ray intensity data for compound 3 measured?",
+      "answer": "298(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of crystal system does compound 4 belong to?",
+      "answer": "Monoclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many unique silver atoms are present in the structure of compound 3?",
+      "answer": "Two unique silver atoms",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "P2(1)/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of compound 1?",
+      "answer": "1.346 Mg/m^3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of temperature in the synthesis of compounds 1-4?",
+      "answer": "Temperature controls the conformation of the ligands, affecting the topology of the metal-organic frameworks.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why do compounds 1 and 2 have different structures?",
+      "answer": "They have different structures because of the different conformations adopted by the ligand L at different temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the conformation of the ligand L affect the structure of compound 4?",
+      "answer": "The cis-conformation of ligand L in compound 4 leads to the formation of 1D planar chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What determines the 3D network topology in compound 1?",
+      "answer": "The topology is determined by considering the ligands and metal ions as 4-connecting nodes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How are the sheets in compound 3 connected?",
+      "answer": "The sheets in compound 3 are connected by weak contacts between Ag(2) atoms and the aromatic rings of two ligands in the adjoining sheet.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the dramatic structural change from compound 1 to compound 2?",
+      "answer": "The dramatic structural change is caused by the different conformations adopted by ligand L at different temperatures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of compound 4 tetragonal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 3 have a 1D nanosized tube structure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the empirical formula of compound 2 C22 H14 Ag F6 N4 O2 Sb?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the ligands in compound 4 in a trans-conformation?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of compound 1 I4(1)22?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 3 contain BF4- anions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the temperature-dependent synthesis approach used to control the ligand conformation in the synthesis of compounds 1-4?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

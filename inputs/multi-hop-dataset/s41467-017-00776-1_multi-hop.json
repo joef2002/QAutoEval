@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the iron fraction value for the [FexNi1-x] series as calculated from the relative molar amounts of metallic salts used in the syntheses compared to that found from elemental analysis?",
+            "answer": "The iron fraction values calculated from the relative molar amounts of metallic salts used in the syntheses diverge slightly from those found by elemental analysis, indicating a slight preference for Ni over Fe in the framework crystallization.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the space group of the single crystal structure of [Fe] at both 190 K and 240 K?",
+            "answer": "The single crystal structure of [Fe] exists in the orthorhombic space group Cmma at both 190 K and 240 K.",
+            "type": "factual"
+        },
+        {
+            "question": "How many ethanol molecules per formula unit were modeled inside the pores of the [Fe] structures?",
+            "answer": "Disordered guest ethanol molecules were crystallographically modelled as 2 EtOH per formula unit inside the pores of all [Fe] structures.",
+            "type": "factual"
+        },
+        {
+            "question": "Are all the powder diffraction patterns for the [FexNi1-x] series at 250 K consistent with the pattern simulated from the single crystal X-ray diffraction data of [Fe]?",
+            "answer": "Yes, all powder diffraction patterns for the [FexNi1-x] series at 250 K were able to be fully indexed with the orthorhombic Cmma unit cell and were consistent with the pattern simulated from the single crystal X-ray diffraction data of [Fe].",
+            "type": "true_false"
+        },
+        {
+            "question": "What causes the dramatic shifts in some peak positions in the variable temperature synchrotron powder X-ray diffraction patterns for ethanol-solvated [Fe0.84Ni0.16] over the spin transition?",
+            "answer": "The dramatic shifts in some peak positions, such as (020), (200) and (004), in the variable temperature synchrotron powder X-ray diffraction patterns for ethanol-solvated [Fe0.84Ni0.16] are caused by the spin transition, while other peaks like (220) and (221) remain nearly invariant.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What software packages were used to model the unit cell parameters from the powder X-ray diffraction data?",
+            "answer": "The unit cell parameters were modelled with a Le Bail fit using the GSAS and EXPGUI software packages.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the unit cell dimensions of [Fe] change from 100 to 300 K based on the supplementary equation 1 model fit?",
+            "answer": "From 100 to 300 K, the a parameter of [Fe] increases, the b parameter decreases, the c parameter increases, and the volume increases based on the supplementary equation 1 model fit to the unit cell dimension data points.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Is there a discontinuity in the thermal expansion coefficients of [Fe] associated with the spin transition?",
+            "answer": "Yes, the grey bars in the plots of the thermal expansion coefficients of [Fe] from 300 to 100 K and 100 to 300 K denote the discontinuity associated with the spin transition.",
+            "type": "true_false"
+        },
+        {
+            "question": "How do the unit cell dimensions and volume of [Fe0.84Ni0.16] change from 160 to 280 K based on the supplementary equation 1 model fit?",
+            "answer": "From 160 to 280 K, the a parameter, c parameter, and volume of [Fe0.84Ni0.16] increase, while the b parameter decreases, based on the supplementary equation 1 model fit to the unit cell dimension data points.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the temperature range over which the unit cell dimensions and volume were modeled for [Fe0.68Ni0.32] using supplementary equation 1?",
+            "answer": "The unit cell dimensions a, b, c and volume for [Fe0.68Ni0.32] were modeled using supplementary equation 1 over the temperature range 160 to 280 K.",
+            "type": "factual"
+        },
+        {
+            "question": "Does the c parameter of [Fe0.57Ni0.43] change from 160 to 260 K based on the supplementary equation 1 model fit?",
+            "answer": "No, the supplementary equation 1 model fit shows the c parameter of [Fe0.57Ni0.43] remains constant from 160 to 260 K, with a fitted value of E = 0 indicating no change.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Over what temperature range were the unit cell dimensions and volume modeled for [Fe0.35Ni0.65] using supplementary equation 1?",
+            "answer": "The unit cell dimensions a, b, c and volume for [Fe0.35Ni0.65] were modeled using supplementary equation 1 over the temperature range 160 to 300 K.",
+            "type": "factual"
+        },
+        {
+            "question": "What is observed in the DSC scan of [Fe] between 160 and 280 K upon cooling and warming?",
+            "answer": "The DSC scan of [Fe] between 160 and 280 K shows an exothermic peak upon cooling and an endothermic peak upon warming, corresponding to the spin transition. A smaller heat flow response at low temperature indicates an additional phase transition.",
+            "type": "factual"
+        },
+        {
+            "question": "How does the spin crossover measured by DSC compare to that measured by magnetic susceptibility for [Fe]?",
+            "answer": "The spin crossover measured by DSC upon cooling and warming aligns well with the spin crossover measured by magnetic susceptibility for [Fe].",
+            "type": "true_false"
+        },
+        {
+            "question": "Are the iron fraction values found experimentally by electron microprobe analysis for the [FexNi1-x] series broadly consistent with the expected ratio based on the synthesis quantities?",
+            "answer": "Yes, the iron fraction values found experimentally by electron microprobe analysis are broadly consistent with the expected ratio based on the synthesis quantities within the uncertainty of the measurement for the [FexNi1-x] series.",
+            "type": "true_false"
+        },
+        {
+            "question": "What temperatures were the single crystal X-ray diffraction data collections performed at for [Fe(bpac)(Au(CN)2)2]\u8def2EtOH?",
+            "answer": "Single crystal X-ray diffraction data collections were performed at 100, 190 and 240 K for [Fe(bpac)(Au(CN)2)2]\u8def2EtOH, corresponding to below the low temperature phase transition, below the spin crossover transition, and above the spin crossover transition respectively.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the spin transition temperatures measured by powder X-ray diffraction along the c axis (TXRD) compare to those measured by magnetic susceptibility (Tmag) for the [FexNi1-x] series with varying dilution proportions?",
+            "answer": "The spin transition temperatures measured by powder X-ray diffraction along the c axis (TXRD) are very close to those measured by magnetic susceptibility (Tmag) for each composition in the [FexNi1-x] series, indicating the structural changes are coupled to the magnetic spin transition.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Does increasing the Ni dilution proportion in [FexNi1-x] lead to a wider spin crossover transition as determined by the width at half maximum of the \u8796V plots?",
+            "answer": "Yes, the data shows that as the Ni dilution is increased from x = 0.84 to x = 0.35 in [FexNi1-x], the width of the spin crossover transition determined from the peak width at half maximum of the \u8796V plots increases from 10 K to 45 K.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What causes the small, continuous variations in peak position in the powder X-ray diffraction patterns of the isostructural [FexNi1-x] series upon Ni(II) doping?",
+            "answer": "The small, continuous variations in peak position observed in the powder X-ray diffraction patterns of the isostructural [FexNi1-x] series upon Ni(II) doping result in part from the intermediate size of Ni(II) compared to HS Fe(II) and LS Fe(II).",
+            "type": "reasoning"
+        },
+        {
+            "question": "Is the peak broadening over the spin transition in the [FexNi1-x] materials comparable to that observed for non-doped, gradual spin crossover materials?",
+            "answer": "Yes, the peak broadening over the spin transition in the [FexNi1-x] materials is comparable to that observed for non-doped, gradual spin crossover materials, indicating it arises principally from strain broadening due to a distribution of HS and LS Fe(II) sites rather than sample broadening.",
+            "type": "true_false"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of removing C2H2 and C2H6 from C2H4 streams?",
+      "answer": "The removal of C2H2 and C2H6 from C2H4 streams is significant for feedstock purification to produce polyethylene and other commodity chemicals.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What material was designed and synthesized for the selective adsorption of C2H2 and C2H6 over C2H4?",
+      "answer": "A robust metal–organic framework, TJT-100, was designed and synthesized for the selective adsorption of C2H2 and C2H6 over C2H4.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purity of C2H4 achieved after purification using TJT-100?",
+      "answer": "The purity of C2H4 achieved after purification using TJT-100 is greater than 99.997%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does TJT-100 trap C2H2 and C2H6 molecules?",
+      "answer": "TJT-100 traps C2H2 and C2H6 molecules through the formation of multiple C@H···O electrostatic interactions with uncoordinated carboxylate oxygen atoms and coordinated water molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption capacity of TJT-100 is higher for C2H4 than for C2H2 and C2H6 at all analyzed temperatures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the order of Qst values at zero coverage for C2H2, C2H4, and C2H6?",
+      "answer": "The order of Qst values at zero coverage is C2H2 (31 kJ mol@1) > C2H6 (29 kJ mol@1) > C2H4 (25 kJ mol@1).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the high C2H6 Qst value of activated TJT-100 indicate?",
+      "answer": "The high C2H6 Qst value of activated TJT-100 indicates that the functional groups within this framework enable efficient adsorption of the inert C2H6 molecule.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: TJT-100 has a higher adsorption selectivity for C2H2/C2H4 than for C2H6/C2H4.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the actual gas separation selectivity for 1:99 v/v C2H2/C2H4 gas mixtures using TJT-100?",
+      "answer": "The actual gas separation selectivity for 1:99 v/v C2H2/C2H4 gas mixtures using TJT-100 is 8.5.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: A single adsorption–desorption cycle with activated TJT-100 is required to achieve an ethylene purity of greater than 99.997% from a ternary mixture of C2H2/C2H6/C2H4.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to study the adsorption properties of C2 gases on activated TJT-100?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulations were used to study the adsorption properties of C2 gases on activated TJT-100.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The GCMC simulations showed that C2H4 has a strong affinity towards activated TJT-100.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do electrostatic interactions play in the separation of light hydrocarbons by MOFs?",
+      "answer": "Electrostatic interactions between donor oxygen atoms and gas molecules play important roles in the separation of light hydrocarbons by MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: C2H4 molecules form strong hydrogen-bonding interactions with the framework of TJT-100.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the affinity order of TJT-100 towards the gases C2H2, C2H6, and C2H4?",
+      "answer": "The affinity order of TJT-100 towards the gases is C2H2 > C2H6 > C2H4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of high levels of C2H6 can result in longer reactor residence times and decreases the production output per unit time.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in separating a C2H4/C2H6 mixture?",
+      "answer": "The main challenge in separating a C2H4/C2H6 mixture is due to the similar molecular sizes and volatilities of C2H4 and C2H6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: TJT-100 crystallizes in the cubic space group.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of TJT-100?",
+      "answer": "The BET surface area of TJT-100 is 890 m2 g@1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does TJT-100 achieve high separation selectivity of C2H4 from a ternary mixture?",
+      "answer": "TJT-100 achieves high separation selectivity of C2H4 from a ternary mixture through the unique affinity towards inert C2H6 and the selective adsorption of C2H6 and C2H2 over C2H4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

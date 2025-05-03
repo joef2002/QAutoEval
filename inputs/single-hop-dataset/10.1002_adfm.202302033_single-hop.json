@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main advantage of amphiphile salt frameworks (ASFs) over traditional porous materials?",
+      "answer": "ASFs combine the rigidity, crystallinity, and thermal/mechanical stability of PFMs with the solubility and reversible assembly of PMMs, making them a unique class of water-processible microporous framework materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the synthesis conditions for ASFs?",
+      "answer": "ASFs are synthesized from concentrated aqueous solution at temperatures between 50 and 80 °C, using organic amphiphilic building blocks and sodium ions.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can ASFs be disassembled and reassembled?",
+      "answer": "Yes, ASFs can be reversibly disassembled and reassembled by dissolution in water followed by crystallization during water evaporation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the hydrophobic side chains play in the structure of ASFs?",
+      "answer": "The hydrophobic side chains drive the micellar hexagonal assembly of the ABBs in water by the hydrophobic effect, influencing the pore shape, surface, and overall void fraction of the ASFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What gases can ASFs adsorb?",
+      "answer": "ASFs exhibit persistent microporous channels accessible to several gases including N2, CO2, propane, propylene, and n-butane.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystallization of ASFs solvent-templated?",
+      "answer": "No, the crystallization of honeycomb-like porous ASF structures does not play a significant role for solvent-templating, as indicated by the low amount of solvent guest molecules in the pores.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the length of the alkoxy side chains affect the ASF structure?",
+      "answer": "The length and flexibility of the alkoxy side chains determine the ASF structure type, with shorter chains allowing denser packing and longer chains leading to different honeycomb-like structure motifs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the thermal stability range of ASFs?",
+      "answer": "Some ASF derivatives are thermally stable up to 365 °C.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can ASFs be synthesized via mechanochemical methods?",
+      "answer": "Yes, ASFs can be synthesized by solid-state mechanochemical synthesis without any additional solvent, utilizing the self-templating nature of the porous channels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of unsaturated terminal bonds in pore formers on gas adsorption?",
+      "answer": "Unsaturated terminal bonds in some pore formers influence their flexibility and conformation, resulting in different pore shapes/geometries as well as surface polarizabilities, which can affect gas adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are ASFs stable under high mechanical pressure?",
+      "answer": "ASFs are mechanically stable, with some derivatives withstanding up to at least 4000 bar hydrostatic pressure without decomposition or framework collapse.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the ASF-1 structure type differ from the ASF-2 structure type?",
+      "answer": "The ASF-1 structure type features an off-centered parallel stacking of benzene rings of adjacent ABBs, while the ASF-2 structure type has a large offset of adjacent ABB benzene rings due to more sterically demanding pore formers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of sodium ions in the structure of ASFs?",
+      "answer": "Sodium ions coordinate to the carboxylate groups of the ABBs, supporting a robust framework structure while also being kinetically labile regarding hydrolyses, aiding rapid assembly/disassembly of ASFs in water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can ASFs be processed in aqueous solution?",
+      "answer": "Yes, ASFs can be processed in aqueous solution due to their ability to be completely dissolved in water and recrystallized by evaporating the water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of ASFs being water-processible?",
+      "answer": "The water-processibility of ASFs allows for simple regeneration of the materials by dissolving in water followed by recrystallization, overcoming materials aging issues and enabling direct deposition on surfaces by drop-casting from aqueous solution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are ASFs chemically stable in organic solvents?",
+      "answer": "ASFs demonstrate structural durability and chemical stability when stored in various organic solvents such as DMF, DMSO, THF, or EtOH.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What influences the gas sorption selectivity of ASFs?",
+      "answer": "The gas sorption selectivity of ASFs can be modulated by the choice of pore lining side chains, offering potential for targeted adjustment according to the principles of reticular chemistry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ASFs be recycled?",
+      "answer": "Yes, ASFs can be recycled by a simple water dissolution and evaporation process, allowing for repeated formation of pure ASF material.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 𝜋–𝜋-interactions in the ASF-1 structure type?",
+      "answer": "In the ASF-1 structure type, 𝜋–𝜋-interactions between neighboring benzene rings stabilize the structure motif with shorter pore formers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the ASF design concept contribute to the development of new porous materials?",
+      "answer": "The ASF design concept, demonstrated for 2,5-dialkoxy-1,4-benzenedicarboxylate ABBs and Na+ cations, is transferable to other anionic ABBs and various kinetically labile metal cations, paving the way for the development of a new class of water-processible porous materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "4,4',4'',4'''-(1,4-phenylenebis(1H-imidazole-2,4,5-triyl))tetrabenzoic acid (H4BBI)",
+      "synthesis_conditions": {
+        "reference": "1",
+        "notes": "Synthesized following a published procedure."
+      }
+    },
+    {
+      "name": "NU-910",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "N,N-diethylformamide (DEF)",
+            "amount": "0.9 ml"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "250 µL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "10.5 mg, 0.045 mmol"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "0.3 g"
+          },
+          {
+            "name": "H4BBI",
+            "amount": "6 mg, 0.009 mmol"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "24 h",
+        "equipment": "oven",
+        "washing_method": "washed with acetone three times and soaked in acetone for 18 h",
+        "drying_method": "room temperature",
+        "yield": "single crystals"
+      }
+    },
+    {
+      "name": "NU-910 microcrystalline powder",
+      "synthesis_conditions": {
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "6 mL"
+          },
+          {
+            "name": "acetic acid",
+            "amount": "200 µL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2·8H2O",
+            "amount": "98 mg"
+          },
+          {
+            "name": "benzoic acid",
+            "amount": "2 g"
+          },
+          {
+            "name": "H4BBI",
+            "amount": "40 mg"
+          }
+        ],
+        "temperature": "120 °C",
+        "time": "18 h",
+        "equipment": "oven",
+        "washing_method": "washed with DMF three times and acetone three times, soaked in acetone for additional 16 h",
+        "drying_method": "dried in a vacuum oven at 80 °C for 1 h, then dried at 120°C under vacuum for 12 h",
+        "yield": "polycrystalline yellow powders"
+      }
+    },
+    {
+      "name": "NU-910-DEF and NU-910-acetone",
+      "synthesis_conditions": {
+        "washing_method": "NU-910-DEF: washed with DEF three times, soaked in DEF overnight; NU-910-acetone: washed with DMF three times and acetone three times, soaked in acetone overnight",
+        "drying_method": "filtered"
+      }
+    }
+  ]
+}

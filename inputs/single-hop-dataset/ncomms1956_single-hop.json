@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula for UTSA-16?",
+      "answer": "[K(H2O)2Co3(cit)(Hcit)]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF has the highest CO2 uptake at 296 K and 1 bar?",
+      "answer": "Mg-MOF-74",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of coordinated water molecules in UTSA-16 for CO2 capture?",
+      "answer": "The coordinated water molecules within UTSA-16's cavities interact with CO2 molecules through hydrogen-bonding, contributing significantly to its CO2 capture capacity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is UTSA-16 sensitive to moisture?",
+      "answer": "No, UTSA-16 is not sensitive to moisture and exhibits repeatable and reversible CO2 sorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density of CO2 trapped in UTSA-16 compared to liquid CO2 density?",
+      "answer": "The density of CO2 in UTSA-16 is approximately equal to the liquid CO2 density of 1.032 g cm-3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does UTSA-16 have a higher CO2/CH4 adsorption selectivity than Cu-(bpy-1)2?",
+      "answer": "Yes, UTSA-16 has a significantly higher CO2/CH4 adsorption selectivity than Cu-(bpy-1)2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can UTSA-16 efficiently trap CO2 molecules within its structure?",
+      "answer": "Yes, UTSA-16 can efficiently trap CO2 molecules within its diamondoid cage structure through cooperative interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is UTSA-16's CO2 capture capacity affected by exposure to air?",
+      "answer": "False, UTSA-16's CO2 capture capacity is not affected by exposure to air, indicating its stability and potential for industrial use.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of open metal sites in a MOF guarantee high CO2 uptake at room temperature and 1 bar?",
+      "answer": "False, the presence of open metal sites in a MOF does not necessarily guarantee high CO2 uptake at room temperature and 1 bar.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What factors contribute to UTSA-16's uniqueness for CO2 capture and separation?",
+      "answer": "UTSA-16's uniqueness for CO2 capture and separation is attributed to its stable diamondoid network, optimal cage size, small windows for size-selective effect, and the presence of coordinated water molecules for interaction with CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Peng–Robinson equation of state in the study?",
+      "answer": "The Peng–Robinson equation of state was used to convert the measured experimental data on pure component isotherms to absolute loadings for the MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the dimensionless breakthrough time in PSA adsorber performance evaluation?",
+      "answer": "The dimensionless breakthrough time is a crucial metric reflecting the separation performance of a MOF in a PSA unit, as it depends on both selectivity and capacity factors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does UTSA-16 exhibit higher volumetric CO2 uptake capacity than most MOFs at 296 K and 1 bar?",
+      "answer": "True, UTSA-16 exhibits higher volumetric CO2 uptake capacity than most MOFs at 296 K and 1 bar.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of UTSA-16's pore window size on its CO2 capture capability?",
+      "answer": "UTSA-16's small pore window size contributes to its potentially high size-selective effect, which is beneficial for CO2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can UTSA-16 be easily regenerated for long-term use?",
+      "answer": "True, UTSA-16 can be easily regenerated for long-term use without losing its CO2 sorption capacities.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the Ideal Adsorbed Solution Theory (IAST) in the study?",
+      "answer": "The Ideal Adsorbed Solution Theory (IAST) was used to determine the adsorption selectivities of MOFs for separation of CO2/CH4 and CO2/N2 mixtures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study provide a solution for high-pressure CO2 capture and separation?",
+      "answer": "False, the study focuses on CO2 capture and separation at ambient conditions, not specifically on high-pressure scenarios.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the isosteric heat of adsorption (Qst) in evaluating MOFs for CO2 capture?",
+      "answer": "The isosteric heat of adsorption (Qst) is significant for evaluating MOFs for CO2 capture as it indicates the strength of interactions between CO2 and the MOF, influencing the adsorption capacity and selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is UTSA-16's framework sensitive to the removal of water molecules?",
+      "answer": "True, the removal of all water molecules from UTSA-16 at elevated temperature results in a non-porous material, indicating the framework's sensitivity to the presence of water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What makes UTSA-16 a promising material for industrial CO2 capture and separation?",
+      "answer": "UTSA-16's high CO2 capture capacity at ambient conditions, moisture insensitivity, repeatability of CO2 sorption, and stability make it a promising material for industrial CO2 capture and separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

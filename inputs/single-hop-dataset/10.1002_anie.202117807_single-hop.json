@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of capturing xenon and krypton in the context of the text?",
+      "answer": "The main purpose is to treat radioactive waste by capturing xenon and krypton from nuclear reprocessing off-gas.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does ATC-Cu exhibit for the capture of xenon and krypton?",
+      "answer": "ATC-Cu exhibits a self-adjusting behavior that allows it to smartly adjust its pore size for the target gases xenon and krypton, while remaining unchanged for other gases.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the uptake capacities of ATC-Cu for xenon and krypton at 0.1 bar and 298 K?",
+      "answer": "The uptake capacities of ATC-Cu are 2.65 mmol g-1 for xenon and 0.52 mmol g-1 for krypton at 0.1 bar and 298 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does ATC-Cu compare to other materials in terms of xenon capture capability?",
+      "answer": "ATC-Cu has a record xenon capture capability, making it a benchmark adsorbent for xenon compared to other porous materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the self-adjusting behavior of ATC-Cu in the context of gas capture?",
+      "answer": "The self-adjusting behavior allows ATC-Cu to selectively capture target gases like xenon and krypton by adjusting its pore size, enhancing its efficiency and selectivity in gas capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ATC-Cu responsive to N2 and O2 gases?",
+      "answer": "False, ATC-Cu shows rigidity toward N2 and O2, indicating very weak interactions with these gases.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the framework of ATC-Cu undergo significant changes after loading with xenon?",
+      "answer": "True, significant changes in the ATC-Cu framework are observed after loading with xenon due to relatively stronger interactions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can ATC-Cu adsorb more xenon at higher pressures?",
+      "answer": "True, ATC-Cu can adsorb up to 5.0 mmol g-1 or 0.95 g cm-3 xenon upon reaching 1 bar at 298 K.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the self-adjusting behavior of ATC-Cu attributed to strong interactions between Xe/Kr atoms and the framework?",
+      "answer": "True, the self-adjusting behavior is attributed to the synergistic effect based on multiple weak interactions between Xe/Kr atoms and the framework.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ATC-Cu demonstrate a higher selectivity for Xe over N2 and O2?",
+      "answer": "True, ATC-Cu demonstrates a high selectivity for Xe over N2 and O2, with calculated selectivities of 66 and 109 respectively.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated Xe/Kr selectivity for ATC-Cu?",
+      "answer": "The Xe/Kr selectivity for ATC-Cu is 13.9.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does ATC-Cu perform in column breakthrough experiments for Xe and Kr capture?",
+      "answer": "ATC-Cu effectively captures and separates Xe from a gas mixture, demonstrating higher Xe and Kr capacity than any other tested MOFs and porous organic cage materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of nuclear power generation according to the text?",
+      "answer": "Nuclear power generation has prevented about 1.84 million air pollution-related deaths and reduced CO2 emissions by 64 billion tons.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the capture of xenon in the treatment of nuclear fuel waste economically beneficial?",
+      "answer": "True, capturing xenon can significantly lower the price of xenon since its concentration in nuclear fission gas is 4500 times higher than in the atmosphere.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in capturing xenon and krypton from nuclear reprocessing off-gas?",
+      "answer": "The main challenge is developing high-performance adsorbents capable of trapping Xe/Kr at very low partial pressure as in the nuclear reprocessing off-gas conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are MOFs considered superior for Xe and Kr capture compared to other porous materials?",
+      "answer": "True, MOFs exhibit superior Xe and Kr capture performance compared to porous organic cage compounds, silver-loaded zeolites, and activated carbons.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes ATC-Cu from other MOFs in terms of framework behavior?",
+      "answer": "Unlike rigid or flexible frameworks, ATC-Cu's self-adjusting framework can smartly adjust its pore size for target gases like Xe and Kr, while remaining unchanged for other gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the primary locations of Xe atoms in ATC-Cu?",
+      "answer": "The primary locations of Xe atoms in ATC-Cu are based on multiple C-H···Xe interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ATC-Cu maintain its Xe uptake capacity after multiple cycles?",
+      "answer": "True, ATC-Cu exhibits excellent cycle performance with no decrease in the uptake amount of Xe after ten cycles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the self-adjusting framework in MOFs for gas separation?",
+      "answer": "The self-adjusting framework in MOFs like ATC-Cu provides a new route to design and implement novel porous materials for developing high-performance separation materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of separating acetylene (C2H2) from carbon dioxide (CO2) or ethylene (C2H4)?",
+      "answer": "The main purpose is to produce C2H2 in high purity for the manufacture of various organic chemicals and polymers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why are traditional porous materials like zeolites, silica, or activated carbons not efficient in separating C2H2/CO2 and C2H2/C2H4?",
+      "answer": "They are not efficient because of the similar physicochemical properties of the gas molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UTSA-300a and TIFSIX-2-Cu-i are leading materials for both C2H2/CO2 and C2H2/C2H4 separation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What unique functionality do BSF-3 and BSF-3-Co possess for selective capture of C2H2?",
+      "answer": "They possess unique anionic boron cluster functionality and suitable pore size with cooperative proton-hydride dihydrogen bonding sites.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the bonding energy between [B12H12]2- and C2H2 compare to its interaction with CO2 or C2H4?",
+      "answer": "The bonding energy between [B12H12]2- and C2H2 is higher, indicating a stronger interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of BSF-3 was confirmed by single crystal diffraction analysis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of BSF-3?",
+      "answer": "458 m2 g-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: BSF-3 and BSF-3-Co have different BET surface areas.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the C2H2 uptake for BSF-3-Co at 1.0 bar and 298 K?",
+      "answer": "3.85 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The selectivity for equimolar C2H2/CO2 on BSF-3 is lower than that of many leading materials.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the enhanced capacity and selectivity of BSF-3 and BSF-3-Co for C2H2 over CO2 and C2H4?",
+      "answer": "The main reason is the anionic boron cluster functionality and the suitable pore size with cooperative dihydrogen bonding sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Qst values for C2H2 adsorption in BSF-3 are significantly higher than those in BSF-1 and BSF-2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the DFT calculation reveal about the C2H2 adsorption configuration in BSF-3?",
+      "answer": "C2H2 is tightly trapped by two opposite dodecaborates through cooperative dihydrogen bonds with a bonding energy of @41.8 kJ mol-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The interaction between two dodecaborates and CO2 or C2H4 is stronger than that between single dodecaborate and these gases.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated acetylene capacity in the column for BSF-3 during the breakthrough experiment with an equimolar C2H2/CO2 mixture?",
+      "answer": "About 2.9 mmol g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: BSF-3 showed consistent C2H2 capacity over 7 cycles in the cycling breakthrough experiments.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of BSF-3 and BSF-3-Co in gas separation according to the conclusion?",
+      "answer": "They have excellent C2H2/CO2 and C2H2/C2H4 separation selectivity, high C2H2 capacity under ambient conditions, and good recyclability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The excellent separation performance of BSF-3 and BSF-3-Co is attributed solely to their large pore sizes.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the anionic boron cluster functionality in BSF-3 and BSF-3-Co?",
+      "answer": "It enhances the affinity of the MOFs towards C2H2 and reduces the interactions with CO2 and C2H4.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The development of acetylene-selective adsorbent materials is not highly desirable.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

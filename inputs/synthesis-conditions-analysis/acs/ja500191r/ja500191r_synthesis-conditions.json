@@ -1,0 +1,118 @@
+{
+  "materials": [
+    {
+      "material": "[CoII3(lac)2(pybz)2]·3DMF (1·3DMF)",
+      "synthesis_conditions": {
+        "solvents": "DMF/1,2-propanediol mixture",
+        "amount_of_each_solvent": "10 mL DMF / 6 mL 1,2-propanediol",
+        "chemicals_used": [
+          {
+            "chemical": "Co(NO3)2·6H2O",
+            "amount": "350 mg",
+            "molarity": "1.2 mmol"
+          },
+          {
+            "chemical": "4-(pyridin-4-yl)benzoic acid (Hpybz)",
+            "amount": "199 mg",
+            "molarity": "1.0 mmol"
+          },
+          {
+            "chemical": "d/l-H2lac",
+            "amount": "90 mg",
+            "molarity": "1.0 mmol"
+          }
+        ],
+        "temperature": "110 °C",
+        "time": "3 days",
+        "cooling_rate": "10 °C h−1 to 25 °C",
+        "washing_method": "washed with DMF",
+        "drying_method": "dried in air",
+        "yield": "65% based on Co",
+        "equipment": "Teflon-lined steel autoclave"
+      }
+    },
+    {
+      "material": "[CoII3(lac)2(pybz)2]·xSolvent (xSolvent = 6MeOH; 4.5EtOH; 3PrOH; 2C6H6)",
+      "synthesis_conditions": {
+        "solvents": "dry methanol, EtOH, PrOH, C6H6",
+        "chemicals_used": [
+          {
+            "chemical": "1·3DMF",
+            "note": "soaked in dry methanol at room temperature for 3 days with renewal of the methanol several times for 1·6MeOH"
+          },
+          {
+            "chemical": "1·6MeOH",
+            "note": "heated under dynamic vacuum at 100 °C for 2 h followed by soaking the desolvated crystals for 2 days in EtOH, PrOH, and C6H6, respectively, for the other variants"
+          }
+        ],
+        "temperature": "100 °C for desolvation, room temperature for soaking",
+        "time": "3 days for methanol soaking, 2 days for other solvents",
+        "equipment": "dynamic vacuum for desolvation"
+      }
+    },
+    {
+      "material": "[CoII3(lac)2(pybz)2] (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1·6CH3OH",
+            "note": "used as starting material"
+          }
+        ],
+        "temperature": "100 °C",
+        "time": "2 h",
+        "equipment": "dynamic vacuum",
+        "note": "heated under dynamic vacuum to obtain desolvated form"
+      }
+    },
+    {
+      "material": "[CoII3(lac)2(pybz)2]·2.7I2 (1·2.7I2)",
+      "synthesis_conditions": {
+        "solvents": "0.1 M cyclohexane solution of iodine",
+        "chemicals_used": [
+          {
+            "chemical": "1",
+            "amount": "100 mg",
+            "note": "soaked in iodine solution"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "8 days",
+        "washing_method": "filtered and washed with 10 mL cyclohexane",
+        "drying_method": "dried in air",
+        "yield": "maximum uptake of 0.9 g iodine per gram of 1"
+      }
+    },
+    {
+      "material": "[CoII3(pybz)2(lac)2(H2O)2]·7H2O (1a·7H2O)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "1",
+            "note": "soaked in water"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "24 h",
+        "color_change": "from purple to jade green"
+      }
+    },
+    {
+      "material": "[CoIIICoII2(pybz)2(lac)2(H2O)2]I·2H2O·1.5DMSO (1b·I−·2H2O·1.5DMSO)",
+      "synthesis_conditions": {
+        "solvents": "DMSO/H2O (v/v = 1:1) solution of iodine",
+        "chemicals_used": [
+          {
+            "chemical": "1",
+            "note": "soaked in iodine solution"
+          }
+        ],
+        "temperature": "25 °C",
+        "time": "24 h",
+        "washing_method": "washed with DMSO/H2O (v/v = 1:1)",
+        "drying_method": "dried in air",
+        "color_change": "from dark purple to orange-yellow"
+      }
+    }
+  ]
+}

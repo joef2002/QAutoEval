@@ -1,0 +1,190 @@
+{
+  "materials": [
+    {
+      "name": "NU-1107",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "10 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrCl4",
+            "amount": "60 mg"
+          },
+          {
+            "name": "H4L",
+            "amount": "60 mg"
+          },
+          {
+            "name": "benzoic acid (BA)",
+            "amount": "1.2 g"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "DMF",
+        "yield": "45% based on H4L"
+      }
+    },
+    {
+      "name": "NU-1107-Co",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Co(NO3)2",
+            "amount": "excess"
+          }
+        ],
+        "time": "12 h",
+        "washing_method": "DMF",
+        "activation_method": "sc-CO2"
+      }
+    },
+    {
+      "name": "NU-1107-Cu",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Cu(NO3)2",
+            "amount": "excess"
+          }
+        ],
+        "time": "10 h",
+        "washing_method": "DMF",
+        "activation_method": "sc-CO2"
+      }
+    },
+    {
+      "name": "NU-1107-Pd",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Pd(NO3)2",
+            "amount": "excess"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "MeCN",
+        "activation_method": "sc-CO2",
+        "notes": "Highly sensitive to air"
+      }
+    },
+    {
+      "name": "NU-1107-Ag(I)",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "excess"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "MeCN",
+        "activation_method": "sc-CO2",
+        "notes": "Highly sensitive to air and light"
+      }
+    },
+    {
+      "name": "NU-1107-Ag(I)OTf",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgOTf",
+            "amount": "excess"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "MeCN",
+        "activation_method": "sc-CO2",
+        "notes": "Highly sensitive to air and light"
+      }
+    },
+    {
+      "name": "MOF-525",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "8 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "ZrOCl2",
+            "amount": "105 mg"
+          },
+          {
+            "name": "meso-tetrakis(4-carboxyphenyl)porphyrin",
+            "amount": "47 mg"
+          },
+          {
+            "name": "benzoic acid (BA)",
+            "amount": "1.35 g"
+          }
+        ],
+        "time": "2 days",
+        "washing_method": "DMF"
+      }
+    },
+    {
+      "name": "MOF-525-Ag(II)",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "MeCN",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "AgNO3",
+            "amount": "excess"
+          }
+        ],
+        "time": "24 h",
+        "washing_method": "MeCN",
+        "activation_method": "Thermal activation at 120 °C for 24 h"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of synthesizing luminescent MOF materials?",
+      "answer": "The main purpose is to generate luminescent platforms for probing volatile organic molecules (VOMs) by tuning the energy transfer efficiency between two different emissions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does the synthesized luminescent MOF material contain?",
+      "answer": "It contains 1D nanotube channels.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the dye@MOF platform exhibit its sensing capability?",
+      "answer": "By showing excellent fingerprint correlation between the VOM and the emission peak-height ratio of ligand to dye moieties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dye@MOF sensor is not stable.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to quantify the access to the pores in CZJ-3?",
+      "answer": "A dye-uptake assay was employed.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the framework structure of CZJ-3 when embedded with Rhodamine B?",
+      "answer": "The framework structure remains intact.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The emission peak height of Rhodamine B in Rho@CZJ-3 cannot be used for probing small molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination environment of CdII ions in CZJ-3?",
+      "answer": "The Cd cation is coordinating to six carboxyl oxygen atoms from five L ligands and one water molecule.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of CZJ-3 change upon removal of included solvent molecules?",
+      "answer": "CZJ-3 loses its long-range order upon removal of the included solvent molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure of CZJ-3 is not flexible and does not depend on the solvent guests.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of different VOMs on the emission intensities of Rho@CZJ-3?",
+      "answer": "The emission intensities of Rho@CZJ-3 are very sensitive to the included solvent molecules by tuning the energy transfer from L to dye moieties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission peak-height ratio of ligand to dye moieties in Rho@CZJ-3 is variable for each guest and different solvent molecules.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the emission-fingerprint map of VOMs based on the photoluminescence of Rho@CZJ-3 help to overcome?",
+      "answer": "It helps to overcome the drawback of variable solid-state emission intensities encountered when probing VOMs by a single emissive transition.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescent sensor Rho@CZJ-3 requires additional calibration for probing a range of solvent molecules.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of the luminescent dye@MOF platform over traditional luminescent sensors?",
+      "answer": "It offers excellent fingerprint correlation between the solvent and emission peak-height ratio of ligand to dye moieties, making it more stable and reliable.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The emission colors of Rho@CZJ-3 cannot be systematically modulated by tuning the excitation energy.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ligand-to-dye energy transfer behaviors in the functionality of Rho@CZJ-3?",
+      "answer": "It confirms that the emission energy of the ligand matches well with the excitation energy of the dye, enhancing the luminescence of Rho@CZJ-3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The quantum yields of Rho@CZJ-3 are lower than that of CZJ-3.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the sensing stability of the luminescent Rho@CZJ-3 manifest?",
+      "answer": "The sensing stability is shown by recycling experiments where the relative emission intensity between L and dye moieties is almost constant for 15 cycles in sensing benzene molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescent dye@MOF approach is limited in its practical applications for sensitizing and probing different substrate molecules/ions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

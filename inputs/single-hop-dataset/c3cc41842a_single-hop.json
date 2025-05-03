@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the synthesis conditions for the Zn-based porous homochiral MOFs?",
+      "answer": "The Zn-based porous homochiral MOFs were synthesized by mixing Zn(CH3CO2)2·2H2O and 3-methyl-2-(pyridine-4-yl-methylamino)-butanoic acid or 2-(pyridine-4-yl-methylamino)propanoic acid either in a capped vial at 90 °C or in an open vial by slow evaporation within 12–48 hours.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the unique property of the synthesized MOFs regarding water?",
+      "answer": "The synthesized MOFs show unprecedented hydrolytic regenerability, meaning they can dissolve in water at elevated temperatures (>90 °C), form a clear solution, and then recrystallize to regain their original structure once the water has evaporated.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What happens to the MOFs when they undergo salt metathesis reaction?",
+      "answer": "When the MOFs undergo salt metathesis reaction with different Ag precursors (AgNO3, AgBF4, AgClO4), they result in different Zn-based 2D coordination polymers (CPs), such as ValZnNO3, ValZnBF4, ValZnClO4.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the water sorption capability of the MOFs vary?",
+      "answer": "The water sorption capability of the MOFs varies based on framework constituents, with amino acid side chains or coordinated anions affecting the moderate to low water sorption capability.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "What is the effect of temperature on the stability of the MOFs?",
+      "answer": "The MOFs exhibit thermal stability up to approximately 270 °C, as revealed by thermo-gravimetric analysis.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "Can the MOFs be regenerated from water?",
+      "answer": "Yes, the MOFs can be regenerated from water via an unprecedented deconstruction-reconstitution pathway, where they dissolve at elevated temperatures and recrystallize upon evaporation of water.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What structural changes occur in the MOFs upon heating in water?",
+      "answer": "Upon heating in water, the MOFs deconstruct into a turbid solution, which upon further heating turns into a clear solution indicating the deconstruction of the molecular framework. This clear solution, upon further heating, leads to the regeneration of the MOF crystals.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Are the regenerated MOFs identical to the original MOFs?",
+      "answer": "Yes, the regenerated MOFs are identical to the original MOFs, as confirmed by PXRD patterns, SEM images, and EDX elemental analysis.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "Do the MOFs maintain their crystallinity after regeneration?",
+      "answer": "True, the MOFs maintain their crystallinity after regeneration, as evidenced by PXRD patterns and SEM images.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the hydrolytic regenerability of the MOFs a common property among all MOFs?",
+      "answer": "False, the hydrolytic regenerability of the MOFs is an unprecedented feature and not a common property among all MOFs.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the MOFs exhibit the same water sorption capacity after regeneration?",
+      "answer": "True, the MOFs exhibit the same water sorption capacity after regeneration, indicating the retention of their functional properties.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the MOFs be used for gas sorption after regeneration?",
+      "answer": "True, the MOFs can be used for gas sorption after regeneration, as they retain their porous structure and functionality.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the thermal stability of the MOFs compromised after regeneration?",
+      "answer": "False, the thermal stability of the MOFs is not compromised after regeneration, as indicated by thermo-gravimetric analysis.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do all MOFs exhibit hydrophilic nature leading to diverse water sorption capacity?",
+      "answer": "True, owing to the hydrophilic nature of the pore aperture, these MOFs exhibit diverse water sorption capacity subject to framework integrity.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the deconstruction and regeneration process of the MOFs reversible?",
+      "answer": "True, the deconstruction and regeneration process of the MOFs is reversible, allowing for their repeated use in applications.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of coordinated anions in the MOFs?",
+      "answer": "The ligand backbone and coordinated anions greatly modulate the recrystallization time of the framework, affecting the hydrolytic regenerability of the MOFs.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "How does the presence of water molecules affect the MOFs?",
+      "answer": "Lattice water molecules are weakly hydrogen bonded to the coordinated anions to form a helical water arrangement inside the framework, affecting the water sorption capacity.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the significance of the unh topology in the MOFs?",
+      "answer": "The unh topology is extremely rare and contributes to the unique properties of the MOFs, including their hydrolytic regenerability and structural integrity.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "Can the MOFs be used for catalysis applications?",
+      "answer": "True, the MOFs can be used for catalysis applications due to their high gas sorption, catalysis, and separation properties.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the MOFs moisture stable?",
+      "answer": "True, the MOFs are moisture stable at room temperature for over 6 months, demonstrating their robustness and potential for practical utility.",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

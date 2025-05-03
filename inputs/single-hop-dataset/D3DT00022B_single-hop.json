@@ -1,0 +1,244 @@
+{
+  "qas": [
+    {
+      "question": "What is the empirical formula of KA@CP-S3?",
+      "id": "1",
+      "answers": [
+        {
+          "text": "C26H32CuN4O8",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "At what temperature was the crystal structure of KA@CP-S3 determined?",
+      "id": "2",
+      "answers": [
+        {
+          "text": "293(2) K",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the space group of KA@CP-S3?",
+      "id": "3",
+      "answers": [
+        {
+          "text": "Triclinic Pī",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the final R index for KA@CP-S3 when I>=2σ (I)?",
+      "id": "4",
+      "answers": [
+        {
+          "text": "R1 = 0.1362, wR2 = 0.4106",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the Cu(II) metal ion in KA@CP-S3 in a hexacoordination mode?",
+      "id": "5",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Does KA@CP-S3 form a 1D chain through a bidentate bridging mode of adipate ligands?",
+      "id": "6",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the band gap energy of KA@CP-S3?",
+      "id": "7",
+      "answers": [
+        {
+          "text": "3.35 eV",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Does KA@CP-S3 exhibit photocatalytic activity for the degradation of organic dyes?",
+      "id": "8",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the degradation efficiency of KA@CP-S3 for Bromophenol Blue?",
+      "id": "9",
+      "answers": [
+        {
+          "text": "95.4%",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Can KA@CP-S3 be reused for photocatalytic degradation experiments?",
+      "id": "10",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the effect of pH on the photocatalytic degradation efficiency of KA@CP-S3?",
+      "id": "11",
+      "answers": [
+        {
+          "text": "The degradation efficiency increases as the pH increases to 7 but then begins to decrease.",
+          "answer_start": 0
+        }
+      ],
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Is the structure of KA@CP-S3 stable after sensing various analytes?",
+      "id": "12",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the plausible mechanism for the photocatalytic degradation of dyes by KA@CP-S3?",
+      "id": "13",
+      "answers": [
+        {
+          "text": "The mechanism includes electrostatic interaction, π–π interaction, production of OH radicals by the activation of H2O2, and attack of adsorbed dyes by radicals.",
+          "answer_start": 0
+        }
+      ],
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Does KA@CP-S3 have a capability for luminescent sensing of sucrose in aqueous solutions?",
+      "id": "14",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the CCDC number for KA@CP-S3?",
+      "id": "15",
+      "answers": [
+        {
+          "text": "2233819",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the volume of the unit cell for KA@CP-S3?",
+      "id": "16",
+      "answers": [
+        {
+          "text": "655.69(8) Å3",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Are the Cu–O bond lengths in KA@CP-S3 within the range of 1.968(9) to 2.735 Å?",
+      "id": "17",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Does KA@CP-S3 form a 3D supramolecular framework through non-classical weak C–H⋯O hydrogen bonding interactions?",
+      "id": "18",
+      "answers": [
+        {
+          "text": "Yes",
+          "answer_start": 0
+        }
+      ],
+      "type": "True or False",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the coordination topology of KA@CP-S3?",
+      "id": "19",
+      "answers": [
+        {
+          "text": "2-connected uninodal 2D 2C1 topology",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the crystal size of KA@CP-S3?",
+      "id": "20",
+      "answers": [
+        {
+          "text": "0.47 × 0.27 × 0.14 mm3",
+          "answer_start": 0
+        }
+      ],
+      "type": "factual",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Systematic Functionalization of a Metal−Organic Framework via a Postsynthetic Modification Approach",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Kristine K. Tanabe, Zhenqiang Wang, and Seth M. Cohen",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on the postsynthetic modification of isoreticular metal−organic framework-3 (IRMOF-3) with linear alkyl anhydrides to probe the extent of conversion, thermal and structural stability, and effects on Brunauer-Emmett-Teller (BET) surface areas.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to confirm the presence of modified BDC ligand in single crystals?",
+      "answer": "Electrospray ionization mass spectrometry (ESI-MS) was used to confirm the presence of the modified BDC ligand in single crystals.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the range of percent conversions observed for IRMOF-3 modifications?",
+      "answer": "Percent conversions ranged from essentially quantitative (∼99%, -AM2) to ∼7% (-AM19) with IRMOF-3 samples.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: All modified IRMOF-3 samples maintained their crystallinity after modification.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of alkyl chain length on the BET surface area of modified IRMOF-3?",
+      "answer": "The BET surface area of modified IRMOF-3 showed a 'well-shaped' curve, where porosity decreases from IRMOF-3-AM2 to -AM6 but increases from -AM7 to -AM19.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The postsynthetic modification approach allows for the introduction of complex functionality within the MOF lattice.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the thermal stability range of the modified IRMOF-3 samples?",
+      "answer": "Modified samples were thermally stable up to approximately 430 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The degree of modification of IRMOF-3 is independent of the alkyl chain length of the anhydrides used.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How was the structural integrity of modified IRMOF-3 confirmed?",
+      "answer": "The structural integrity of modified IRMOF-3 was confirmed through powder X-ray diffraction (PXRD) measurements, showing preservation of crystallinity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main challenge in introducing more complex functionality within the MOF lattice?",
+      "answer": "The main challenge was to introduce complex functionality in a rational and systematic way, considering cross-reactivity, steric, and polarity considerations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The postsynthetic modification approach does not allow for the fine-tuning of MOF architectures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using electrospray ionization mass spectrometry (ESI-MS) in the study?",
+      "answer": "ESI-MS was significant for unambiguously confirming the presence of the modified BDC ligand in the MOF, ensuring the composition of the crystals after modification.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All modified IRMOF-3 samples showed a decrease in BET surface area compared to unmodified IRMOF-3.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the 'well-shaped' curve in BET surface area versus alkyl chain length indicate?",
+      "answer": "It indicates a correlation between porosity and the alkyl chain length, suggesting that the degree of functionalization and the level of porosity are mutually related.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The postsynthetic modification approach is limited to IRMOF-3 and cannot be applied to other MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of single-crystal X-ray diffraction in the study?",
+      "answer": "Single-crystal X-ray diffraction was used to verify the complete retention of crystallinity and to confirm the cubic structure of modified IRMOF-3 samples.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The modification of IRMOF-3 with alkyl anhydrides did not affect its microporosity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What conclusion can be drawn about the postsynthetic modification approach based on the article?",
+      "answer": "The postsynthetic modification approach is a versatile and efficient method for obtaining MOFs with tunable functionality and novel physical properties, without sacrificing porosity or crystallinity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

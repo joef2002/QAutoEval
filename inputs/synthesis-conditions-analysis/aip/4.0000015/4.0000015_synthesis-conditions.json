@@ -1,0 +1,97 @@
+{
+  "materials": [
+    {
+      "name": "Rs-disX",
+      "conditions": {
+        "equipment": "Bruker SMART APEX2 CCD diffractometer",
+        "temperature": "Room temperature",
+        "solvents": "Dry nitrogen gas",
+        "flow_rates": [
+          {
+            "initial": "2.5 mL/min",
+            "start_time": "3.3 minutes"
+          },
+          {
+            "increased_to": "5 mL/min",
+            "start_time": "73 minutes"
+          },
+          {
+            "increased_to": "15 mL/min",
+            "start_time": "87 minutes"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Us-disX",
+      "conditions": {
+        "equipment": "Bruker SMART APEX2 CCD diffractometer",
+        "temperature": "Room temperature",
+        "solvents": "Dry nitrogen gas",
+        "flow_rates": [
+          {
+            "initial": "2.5 mL/min",
+            "changes": "Increased in 2.5 mL/min steps with significant time at each rate"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Structure_01 (C13H15CoN2O7)",
+      "conditions": {
+        "equipment": "Bruker SMART APEX2 area detector diffractometer",
+        "temperature": "293.15 K",
+        "chemicals_used": [
+          "5-aminoisophthalic acid (AIP, 0.045 g, 0.25 mmol)",
+          "4,4'-bipyridine (bpy, 0.039 g, 0.25 mmol)",
+          "NaOH (0.02 g, 0.5 mmol)",
+          "CoSO4•7H2O (0.422 g, 1.5 mmol)",
+          "Water (15 ml)"
+        ],
+        "synthesis_method": "Sonication for 5 min, heated to 130°C for three days"
+      }
+    },
+    {
+      "name": "Structure_02 (C13H13CoN2O6)",
+      "conditions": {
+        "equipment": "Bruker SMART APEX2 area detector diffractometer",
+        "temperature": "293.15 K"
+      }
+    },
+    {
+      "name": "Structure_3i (C13H12.06CoN2O5.53)",
+      "conditions": {
+        "equipment": "Bruker APEX2 microfocus rotating anode diffractometer",
+        "temperature": "293.15 K"
+      }
+    },
+    {
+      "name": "Structure_3ii (C13H11.43CoN2O5.21)",
+      "conditions": {
+        "equipment": "Bruker APEX2 microfocus rotating anode diffractometer",
+        "temperature": "293.15 K"
+      }
+    },
+    {
+      "name": "Structure_3iii (C13H10.94CoN2O4.97)",
+      "conditions": {
+        "equipment": "Bruker APEX2 microfocus rotating anode diffractometer",
+        "temperature": "293.15 K"
+      }
+    },
+    {
+      "name": "Structure_3iv (C13H10.48CoN2O4.74)",
+      "conditions": {
+        "equipment": "Bruker APEX2 microfocus rotating anode diffractometer",
+        "temperature": "293.15 K"
+      }
+    },
+    {
+      "name": "Structure_04 (C13H9CoN2O4)",
+      "conditions": {
+        "equipment": "Bruker APEX2 microfocus rotating anode diffractometer",
+        "temperature": "293.15 K"
+      }
+    }
+  ]
+}

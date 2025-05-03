@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge addressed in the study regarding the storage of gas molecules?",
+      "answer": "The main challenge addressed is the storage of gas molecules such as CO2, H2, and CH4 under low pressure.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What mechanism is used to store CO2 in the pores of the PCP?",
+      "answer": "The mechanism used involves steric hindrance control of molecular rotors to store CO2 inside the pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperatures is CO2 stably stored under vacuum in the study?",
+      "answer": "CO2 is stably stored at 195–223 K under vacuum.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates the storage of CH4 using the same mechanism as CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of molecular rotors in the storage mechanism?",
+      "answer": "Molecular rotors control the steric hindrance, which affects the diffusion and storage of gas molecules in the pores.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of CID-Me changes upon CO2 adsorption at room temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the rotational dynamics of PY2 and 5-Me-ip?",
+      "answer": "The rotational dynamics of PY2 and 5-Me-ip dynamically expand the pore windows, allowing for the diffusion of CO2 into the porosities at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study provides the first report on the storage of gas molecules controlled by the rotation or vibration of molecular rotors.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the mobility of adsorbed CO2 compare to that of chemisorbed CO2 in open metal sites in MOF-74?",
+      "answer": "The mobility of adsorbed CO2 is unusually slow, much larger than the reported correlation time of chemisorbed CO2 in open metal sites in MOF-74.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorbed CO2 at room temperature is maintained in the cavities at 195–223 K under vacuum due to the steric hindrance of the immobile rotors.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the composition of the PCP used in the study?",
+      "answer": "The PCP is synthesized from Zn2+, 4,4’-bipyridine (bpy), and 5-methylisophthalic acid.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The size of the pore window at 195 K is larger than that of CO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the CO2 adsorption isotherm at 296 K indicate?",
+      "answer": "The isotherm at 296 K shows a gradual CO2 uptake when pressure increases, indicating physisorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The rotation of PY1 and the wobbling of the methylbenzene ring rotors of 5-Me-ip do not contribute to the expansion of the pore windows.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analysis was performed to investigate the local structure and mobility of CO2 and the rotors?",
+      "answer": "2H solid-state NMR spectroscopy and in situ 13C MAS-NMR analyses were performed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that the dynamics of rotors potentially control the diffusion of CO2 in the pores.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the 13C MAS-NMR spectrum at 304 K show?",
+      "answer": "It shows four peaks assigned to CO2, with sharp C4 peak attributed to free mobile CO2 and the other peaks to CO2 adsorbed in the pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the study contribute to the field of sustainable chemistry?",
+      "answer": "It contributes by presenting a mechanism for storing gas molecules under mild conditions, potentially aiding in the capture and storage of energy carrier gases like CO2, H2, and CH4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the 13C spin–lattice relaxation time (T1) analysis in the study?",
+      "answer": "The T1 analysis was performed for a quantitative evaluation of the CO2 mobility, indicating slow molecule motion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that PCPs with narrow pore windows composed of rotational or wobbling rotors are suitable for controlled diffusion and storage of gas molecules.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

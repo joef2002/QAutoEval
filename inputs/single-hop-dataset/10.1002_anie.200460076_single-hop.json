@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the preformed cluster used in the synthesis?",
+      "answer": "[Et4N]4[WS4Cu4I6]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of polymer is formed from the cluster [Et4N]4[WS4Cu4I6] and 4,4’-bpy?",
+      "answer": "A 3D porous coordination polymer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 4,4’-bpy in the synthesis of the coordination polymer?",
+      "answer": "It acts as a bridging ligand.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound {[WS4Cu4(4,4’-bpy)4][WS4Cu4I4(4,4’-bpy)2]}·8 CH3CN loses acetonitrile rapidly but is stable in air and moisture.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the crystals when they are exposed to the atmosphere?",
+      "answer": "They lose most of the solvent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure remains intact upon loss of solvent from the channels.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What guest molecules were successfully incorporated into the channels of the crystal?",
+      "answer": "I2 molecules",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the crystal structure change upon absorption of I2?",
+      "answer": "I2 guest molecules are included in the channels, forming a Cu-I-I-I-I-Cu bridge.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The channels in the crystal structure preferentially absorb I2 over CCl4.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated volume of each channel in the crystal structure?",
+      "answer": "Approximately 880 Å3 over the c cell length.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure can also absorb aniline.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula of the crystal after absorbing aniline?",
+      "answer": "2·4.2 aniline",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure is capable of absorbing iodine vapor.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the iodine absorption by the crystal structure?",
+      "answer": "It demonstrates the crystal's ability to bind guest molecules specifically between coordinated iodide ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure after iodine absorption is identical to the parent crystal except for the inclusion of I2 molecules.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated channel volume as a percentage of the crystal volume?",
+      "answer": "20%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure can withstand washing with solvents without further loss of I2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal formula after iodine absorption?",
+      "answer": "2·2 I2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the crystals when they are dried in vacuo?",
+      "answer": "They fail to diffract as single crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the 4,4’-bpy ligands in the structure of the coordination polymer?",
+      "answer": "They extend to four crystallographically equivalent clusters, forming a diamond-type network.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

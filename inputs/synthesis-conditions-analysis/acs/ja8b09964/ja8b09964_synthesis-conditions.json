@@ -1,0 +1,96 @@
+{
+  "materials": [
+    {
+      "material_name": "H4octox",
+      "synthesis": [
+        {
+          "step": 1,
+          "precursors": [
+            "8-Hydroxyquinoline-2-carboxaldehyde",
+            "ethylenediamine"
+          ],
+          "solvents": [
+            "ethanol"
+          ],
+          "conditions": {
+            "temperature": "60 °C",
+            "time": "4 h"
+          },
+          "yield": null
+        },
+        {
+          "step": 2,
+          "precursors": [
+            "NaBH4"
+          ],
+          "solvents": [
+            "ethanol"
+          ],
+          "conditions": {
+            "temperature": "room temperature",
+            "time": "overnight"
+          },
+          "yield": "91%"
+        },
+        {
+          "step": 3,
+          "precursors": [
+            "tert-butyl bromoacetate",
+            "NaHCO3"
+          ],
+          "solvents": [
+            "CH3CN"
+          ],
+          "conditions": {
+            "temperature": "50 °C",
+            "time": "24 h"
+          },
+          "yield": "84%"
+        },
+        {
+          "step": 4,
+          "precursors": [
+            "HCl (6 M)"
+          ],
+          "solvents": [],
+          "conditions": {
+            "temperature": "60 °C",
+            "time": "overnight"
+          },
+          "yield": "97%"
+        }
+      ],
+      "characterization": {
+        "1H NMR": "Available",
+        "13C NMR": "Available",
+        "HR-ESI-MS": "Available",
+        "Microanalysis": "Available"
+      }
+    },
+    {
+      "material_name": "Na[In(octox)]",
+      "synthesis": [
+        {
+          "step": 1,
+          "precursors": [
+            "H4octox",
+            "In(ClO4)3",
+            "NaOH"
+          ],
+          "solvents": [
+            "H2O"
+          ],
+          "conditions": {
+            "temperature": "50 °C",
+            "time": "overnight"
+          },
+          "yield": null
+        }
+      ],
+      "characterization": {
+        "13C NMR": "Available",
+        "HR-ESI-MS": "Available"
+      }
+    }
+  ]
+}

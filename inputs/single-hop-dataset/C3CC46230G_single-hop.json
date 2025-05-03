@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1-S?",
+      "answer": "Zn4C76H136Cl4N20O48",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structural determination of single crystals?",
+      "answer": "Rigaku SCXmini diffractometer with graphite-monochromated Mo-Ka radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage for the synthesis of 1-S and 1-R?",
+      "answer": "44%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using the Kurtz and Perry method in the experiment?",
+      "answer": "To test the NLO properties of 1-S and 1-R",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the crystal system of 1-S compare to that of 1-R?",
+      "answer": "Both 1-S and 1-R have a tetragonal crystal system, but they belong to different space groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hydrogenated Schiff base L was used without further purification.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sodium L/D-pyroglutamate in the synthesis of 1-S and 1-R?",
+      "answer": "It acts as a chiral guest molecule for intercalation into layered MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns of 1-S and 1-R match their simulated patterns, indicating pure phase.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CD spectra results for 1-S and 1-R?",
+      "answer": "The CD spectra confirm the homochiral nature of 1-S and 1-R, indicating they are supramolecular enantiomers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SHG efficiencies of 1-S and 1-R are significantly higher than that of KDP powder.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of compound 1-R?",
+      "answer": "Tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 1-S?",
+      "answer": "P43",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The elemental analysis found values match exactly with the calculated percentages for 1-S and 1-R.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the SADABS program in the experiment?",
+      "answer": "To apply empirical absorption corrections to the data.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The 2D layers of 1-S and 1-R have a 'mirror symmetry'.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the thermal stability results for 1-S and 1-R?",
+      "answer": "It indicates the temperature range within which the compounds remain stable before the framework begins to collapse.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The intercalation of chiral molecules into layered MOFs is a common and well-explored application.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the phase-matching data for 1-S?",
+      "answer": "It indicates that 1-S is phase-matchable, which is relevant for its application in second-order NLO materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structures of 1-S and 1-R were solved by the direct method and refined by the full-matrix least-squares on F2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using a Vario MICRO CHNOS Elemental Analyzer in the experiment?",
+      "answer": "To perform elemental analyses (C, H, and N) of the synthesized compounds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for ethylene?",
+      "answer": "C2H4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in ethylene purification from multi-component mixtures?",
+      "answer": "Physical adsorption is a great challenge in ethylene purification from multi-component mixtures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name of the MOF reported for benchmark one-step C2H4 recovery from C2H2 and CO2?",
+      "answer": "ZNU-6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the separation performance of ZNU-6 retained under humid conditions?",
+      "answer": "Yes, the separation performance of ZNU-6 is retained under humid conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to investigate the potential gas binding sites in ZNU-6?",
+      "answer": "Density functional theory (DFT) calculations were used to investigate the potential gas binding sites in ZNU-6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the GeF6 2- anion in ZNU-6?",
+      "answer": "The GeF6 2- anion is embedded in MOF ZNU-6 to customize its pore structure and pore chemistry for efficient C2H4 recovery.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ZNU-6 achieve high C2H4 productivity from ternary C2H2/CO2/C2H4 mixtures?",
+      "answer": "Yes, ZNU-6 achieves record high C2H4 productivity from ternary C2H2/CO2/C2H4 mixtures in a single adsorption process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ith-d topology in ZNU-6?",
+      "answer": "The ith-d topology in ZNU-6 contributes to its optimal pore chemistry and structure for efficient gas separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does ZNU-6 compare to other materials in terms of C2H2 and CO2 uptake?",
+      "answer": "ZNU-6 exhibits the highest C2H2 and CO2 uptake among all the anion pillared MOFs reported.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of CO2 in ZNU-6 more preferable than that of C2H4?",
+      "answer": "Yes, the adsorption of CO2 in ZNU-6 is more preferable than that of C2H4.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the boiling point of ethylene?",
+      "answer": "The boiling point of ethylene is 169.5 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of ZNU-6?",
+      "answer": "Layering a MeOH solution of TPA onto an aqueous solution of CuGeF6 was used for the synthesis of ZNU-6.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does ZNU-6 exhibit chemical stability?",
+      "answer": "Yes, ZNU-6 exhibits excellent chemical stability.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the narrow interlaced channels in ZNU-6?",
+      "answer": "The narrow interlaced channels in ZNU-6 are abundant with Lewis basic F functional sites for gas binding, contributing to its efficient purification performance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ZNU-6 be regenerated under mild conditions?",
+      "answer": "Yes, ZNU-6 can be regenerated under mild conditions due to its moderate Qst values for C2H2 and CO2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the molecular size of CO2?",
+      "answer": "The molecular size of CO2 is 3.3 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water affect the separation performance of ZNU-6?",
+      "answer": "The presence of water has negligible influence on the separation performance of ZNU-6 due to its co-adsorption of water and target gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the large cages in ZNU-6?",
+      "answer": "The large cages in ZNU-6 are connected by narrow interlaced channels, providing optimal pore chemistry for efficient gas separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does ZNU-6 have a high porosity?",
+      "answer": "Yes, ZNU-6 has a high porosity, with a Brunauer–Emmett–Teller surface area of 1330.3 m2/g.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated pore size of ZNU-6?",
+      "answer": "The calculated pore size of ZNU-6 ranges from 8.22 to 10.76 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

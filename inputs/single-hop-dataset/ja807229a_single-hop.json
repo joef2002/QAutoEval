@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula for Mg-rho-ZMOF?",
+      "answer": "C20 H20 In2 Mg N8 O22",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of Mg-rho-ZMOF?",
+      "answer": "Cubic, Im-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystal data for Mg-rho-ZMOF collected?",
+      "answer": "296(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula weight of Mg-rho-ZMOF?",
+      "answer": "974.36",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many unique reflections were collected for Mg-rho-ZMOF?",
+      "answer": "3482",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>2sigma(I)) for Mg-rho-ZMOF?",
+      "answer": "R1 = 0.0543, wR2 = 0.1846",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unit cell volume of Mg-rho-ZMOF?",
+      "answer": "29744.9(3) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of Mg-rho-ZMOF?",
+      "answer": "1.305 Mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Mg(II) cation in Mg-rho-ZMOF directly accessible for binding the adsorbed hydrogen molecules?",
+      "answer": "No, the Mg(II) cation is in the form of a hexaaqua complex and not directly accessible.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of an electrostatic field in the cavity of ZMOFs contribute to the increased binding energies for hydrogen storage?",
+      "answer": "Yes, the presence of an electrostatic field in the cavity is largely responsible for the observed improvement in the isosteric heats of adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the extra-framework cations in ZMOFs fully coordinated by aqua ligands?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the isosteric heat of adsorption for H2 in Mg-rho-ZMOF greater than that in DMA-rho-ZMOF at low loadings?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the adsorbed H2 molecules interact directly with the extra-framework cations in ZMOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the crystal system of Mg-rho-ZMOF hexagonal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Li-rho-ZMOF have a higher concentration of Li ions per unit cell compared to Mg-rho-ZMOF?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the isosteric heat of adsorption for H2 in Li-rho-ZMOF lower than in Mg-rho-ZMOF?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does heating Mg-rho-ZMOF beyond 115 °C result in the removal of aqua ligands from the extra-framework cations?",
+      "answer": "False, heating beyond this temperature results in progressive degradation of the framework.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the article discussing the synthesis of highly porous isoreticular frameworks?",
+      "answer": "10.1038/ncomms1654",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article published on 24 Jan 2012?",
+      "answer": "The article focuses on the geometry analysis and systematic synthesis of highly porous isoreticular frameworks with a unique topology.",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to estimate the influence of linker lengths on synthesis difficulties and framework stabilities?",
+      "answer": "Simple geometry analysis is used to estimate the influence of the linker lengths and length ratios on the synthesis/construction difficulties and framework stabilities.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How many highly porous isoreticular frameworks were produced using 5x5 ligand combinations?",
+      "answer": "13 highly porous isoreticular frameworks were produced using 5x5 ligand combinations.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the ncb net's maximum lattice symmetry the space group I-43m?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the trinuclear M3(µ3-O)(O2CR)6(L1)3 clusters in the framework?",
+      "answer": "The trinuclear M3(µ3-O)(O2CR)6(L1)3 clusters serve as the most appropriate candidates for the nine-connected node.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of changing the ratio of the lengths between pyridylcarboxylate and dicarboxylate?",
+      "answer": "Changing the ratio of the lengths between pyridylcarboxylate and dicarboxylate can anisotropically modulate the pore size/shape.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of structures with dr close to 0.87 and/or 1.73 result in high yields?",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What determines the shape of cavity cA in the frameworks?",
+      "answer": "The shape of cavity cA is basically maintained as a regular tetrahedron, and its size is only determined by the dicarboxylate length.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the node position and the relative edge length in the ncb net?",
+      "answer": "The relationship between the node position and the relative edge length in the ncb net is mathematically defined, where moving the node along the space diagonal of the unit cell changes the relative edge length.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the thermal stabilities of the isoreticular frameworks influenced by their porosity and framework distortion?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical temperature of framework collapse for IIIa?",
+      "answer": "The critical temperature of framework collapse for IIIa is approximately 300 °C.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the adsorption enthalpy change with coverage for hydrogen adsorption?",
+      "answer": "The adsorption enthalpy for hydrogen adsorption decreases with increasing coverage, indicating stronger host-guest interactions or confinement effects at smaller pore sizes.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article provide a method for calculating adsorption enthalpies at zero coverage?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What mechanism is proposed to explain the two-step CO2 isotherm shape observed in the frameworks?",
+      "answer": "A capillary condensation mechanism is proposed to explain the two-step CO2 isotherm shape observed in the frameworks.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ncb net's maximum lattice symmetry the space group P-43n?",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the PLATON/SQUEEZE procedure in the crystal structure refinement?",
+      "answer": "The PLATON/SQUEEZE procedure is used to remove the contribution of reflection by the guest solvent molecules in the crystal structure refinement.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Curie-Weiss law fitting in the magnetic property measurements?",
+      "answer": "The Curie-Weiss law fitting in the magnetic property measurements helps in determining the magnetic susceptibility values and understanding the interaction between the metal ions in the framework.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the size and shape of the apertures in the frameworks be systematically modulated?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the ligand length ratio on the synthesis of ncb-type frameworks?",
+      "answer": "The ligand length ratio can be used to predict the difficulty in the synthesis of ncb-type frameworks.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    }
+  ]
+}

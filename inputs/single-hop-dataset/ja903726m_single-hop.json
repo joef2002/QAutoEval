@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of MIL-125?",
+      "answer": "Ti8O8(OH)4[O2C-C6H4-CO2]6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was MIL-125 calcined to remove the solvent?",
+      "answer": "200°C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MIL-125?",
+      "answer": "1550 m2·g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is MIL-125 thermally stable up to 360°C under air atmosphere?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does MIL-125 exhibit photochromic behavior upon UV-visible excitation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of titanium in MIL-125's structure?",
+      "answer": "Titanium acts as a center for photoinduced electrons, contributing to the material's photochromic behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MIL-125 be considered a promising candidate for smart photonic devices due to its properties?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the experimental C/Ti ratio found in MIL-125?",
+      "answer": "5.8(1)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of MIL-125 change after rehydration at room temperature?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What phenomenon is analyzed through the use of ESR and UV-visible absorption spectroscopies in MIL-125?",
+      "answer": "The photochemical phenomenon associated with the formation of stable mixed valence titanium-oxo compounds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photoassisted reduction of Ti(IV) to Ti(III) in MIL-125 reversible?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to MIL-125 when it is irradiated with UV light in the presence of alcohols?",
+      "answer": "It changes color due to the photochromic effect and exhibits a photoinduced absorption spectrum with new bands in the visible-near-IR range.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the ESR spectrum at 75 K showing paramagnetic Ti3+ centers in MIL-125?",
+      "answer": "It confirms the presence of Ti(III) species, indicating the reduction of Ti(IV) to Ti(III) upon UV irradiation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does MIL-125 maintain its crystallinity after adsorption of ethanol under UV-light irradiation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of UV irradiation on the color of MIL-125 when alcohols are adsorbed inside its framework?",
+      "answer": "The material changes from white to purple-gray-blue, indicating a fast photochromic effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of oxygen in the photochemical process of MIL-125?",
+      "answer": "Oxygen back oxidizes the titanium oxocluster, demonstrating a possible photocatalytic property of MIL-125.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photoinduced paramagnetic signal in MIL-125 correlated with its photocatalytic effect?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the accessible theoretical BET surface area of MIL-125 for a nitrogen sized probe molecule?",
+      "answer": "2140 m2·g−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of free H2BDC within the pores of MIL-125 contribute to the partial blocking of the pores?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ESR spectrum showing anisotropic weak signal centered around g = 2 in irradiated MIL-125 left in air?",
+      "answer": "It suggests the reduction of molecular oxygen into superoxide diatomic [O2-] ions, highlighting the photocatalytic activity of MIL-125.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

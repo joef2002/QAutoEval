@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is the adaptation in constitutional dynamic libraries and networks, specifically switching between orthogonal metalloselection and photoselection processes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "The authors of the research article are Ghislaine Vantomme, Shimei Jiang, and Jean-Marie Lehn.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of compounds were synthesized and studied in the research?",
+      "answer": "The research synthesized and studied substituted hydrazones and acylhydrazones.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the method used for the preparation of substituted hydrazones and acylhydrazones?",
+      "answer": "The method used for the preparation involved adding aryl aldehyde or ketone to an ethanol solution of aryl hydrazine or hydrazide, heating under reflux, and purifying by recrystallization from ethanol.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What physical form did the compound 3A3B take?",
+      "answer": "The compound 3A3B was a yellow liquid.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of scandium triflate in the component exchange of hydrazones?",
+      "answer": "Scandium triflate acted as a catalyst in the component exchange of hydrazones.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was photoselection achieved in the study?",
+      "answer": "Photoselection was achieved by irradiating the sample at 25°C in front of a xenon short arc lamp with a cut-off at 275 nm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of metalloselection in the study?",
+      "answer": "Metalloselection resulted in the amplification of specific hydrazones or acylhydrazones in the form of their metal complexes, demonstrating the system's adaptation to the addition of metal cations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adaptation process in the constitutional dynamic libraries reversible?",
+      "answer": "Yes, the adaptation processes in the constitutional dynamic libraries are reversible, as demonstrated by the ability to regenerate the original complete library and switch between metalloselection and photoselection.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the weighted graph representation of the square CDN indicate about the system's behavior?",
+      "answer": "The weighted graph representation of the square CDN indicates that the system undergoes orthogonal adaptation in response to metal cations and light, displaying network switching by amplifying specific constituents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of aniline in the organo-catalysis process?",
+      "answer": "Aniline acted as an organocatalyst facilitating the component exchange among acylhydrazones under milder conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the effect of adding zinc cations to the dynamic library of hydrazones?",
+      "answer": "Adding zinc cations to the dynamic library of hydrazones led to metalloselection, amplifying specific hydrazones that form the most stable zinc complexes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was observed when the dynamic library of acylhydrazones was irradiated?",
+      "answer": "When the dynamic library of acylhydrazones was irradiated, photoselection occurred, leading to the amplification of specific acylhydrazones in their photoisomerized form.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of the solid-state molecular structures of acylhydrazone complexes?",
+      "answer": "The solid-state molecular structures of acylhydrazone complexes provided insights into the coordination sites, hydrogen bonding, and the impact of substituents on metal cation binding ability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the reversibility tests on the selection processes?",
+      "answer": "The outcome of the reversibility tests confirmed that both metalloselection and photoselection processes are reversible, allowing the system to switch between different constituent distributions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the adaptation process specific to certain types of stimuli?",
+      "answer": "True, the adaptation process in the constitutional dynamic libraries was specific to certain types of stimuli, namely the addition of metal cations and light irradiation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study demonstrate the concept of network switching in constitutional dynamic networks?",
+      "answer": "True, the study demonstrated the concept of network switching in constitutional dynamic networks by showing orthogonal adaptation to metal cations and light.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the use of organocatalysts limited to aniline derivatives in the study?",
+      "answer": "False, the study explored various organocatalysts including aniline derivatives, but also tested other compounds such as piperidine and 4-aminopyridine.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that all hydrazones and acylhydrazones undergo photoselection?",
+      "answer": "False, the study found that photoselection was specific to certain acylhydrazones that could undergo photoisomerization, not all hydrazones and acylhydrazones.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the adaptation in constitutional dynamic libraries shown to be dependent on the presence of metal cations?",
+      "answer": "True, the adaptation in constitutional dynamic libraries was shown to be dependent on the presence of metal cations for metalloselection processes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

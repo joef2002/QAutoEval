@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of photocatalytic CO2 reduction?",
+      "answer": "The main goal is to convert CO2 into value-added chemicals and fuels.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the challenges in photocatalytic CO2 reduction?",
+      "answer": "The challenges include the high chemical inertness of CO2 molecule, which makes it difficult to activate and convert, and the multiple proton-coupled electrons transfer processes, which lead to low product selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role do polyoxometalates (POMs) play in photocatalysis?",
+      "answer": "POMs act as transition-metal oxide clusters with well-defined structure, splendid redox ability, and semiconductor-like features, making them suitable for various photocatalytic reactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How can the photocatalytic performance of POM-based systems be tuned?",
+      "answer": "The performance can be tuned by modifying the cobalt cation on POM polyoxoanions to optimize the energy band structure, which regulates the electron transfer pathway.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the energy band structure in photocatalytic systems?",
+      "answer": "The energy band structure is significant because it determines the electron transfer pathway, which is crucial for achieving efficient photocatalytic CO2 reduction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic mechanism of catalysts for CO2 reduction is well understood.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The photocatalytic activity of a system can be influenced by the species of central metals in POM clusters.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: TEOA serves only as an electron donor in the photocatalytic system.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Ru(bpy) in the photocatalytic system?",
+      "answer": "Ru(bpy) serves as the center for reducing CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the photocatalytic system achieve CO2 reduction?",
+      "answer": "The system achieves CO2 reduction by transferring photogenerated electrons to Ru(bpy), which then reduces CO2 to CO.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Peripheral Co ions on POM clusters are the active centers for CO2 reduction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The photocatalytic system's performance is independent of the number of peripheral Co ions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The photocatalytic activity of POM/Ru(bpy) systems can be tuned by adjusting the electron-transfer pathway.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome of combining POM-based compounds with Ru(bpy)?",
+      "answer": "The combination forms a tunable photocatalytic system for CO2 reduction, with promising photocatalytic performance and selectivity for CO.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic system's stability is compromised during CO2 reduction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TEOA in the photocatalytic system?",
+      "answer": "TEOA acts as a sacrificial agent, assisting in retaining and activating CO2 molecules in solution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic system can reduce CO2 in the absence of light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of central metal ions in POM clusters affect the photocatalytic system?",
+      "answer": "The presence of central metal ions, such as Co2+, can optimize the energy band structure of POM-based compounds, affecting the electron transfer direction and thus the photocatalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic system can produce CO without Ru(bpy).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the energy band structure on the photocatalytic CO2 reduction?",
+      "answer": "The energy band structure impacts the direction and efficiency of electron transfer in the photocatalytic system, which is crucial for the reduction of CO2 to CO.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

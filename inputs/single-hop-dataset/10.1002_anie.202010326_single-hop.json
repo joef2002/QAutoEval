@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the two new 3D MOFs reported?",
+      "answer": "Sr-ETTB and Co-ETTB",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main characteristic of TPE-cored chromophores?",
+      "answer": "They display weak or even null emissions in liquid solutions, but the emission intensity soars upon aggregation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the fluorescence intensity of the MOFs to be tuned?",
+      "answer": "Tailoring outer shell electron configurations of SrII and CoII cations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What stimuli does Sr-ETTB respond to?",
+      "answer": "Pressure and temperature",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the fluorescence response of Co-ETTB to histidine?",
+      "answer": "A turn-on fluorescent enhancement",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis temperature for Sr-ETTB and Co-ETTB?",
+      "answer": "80/75 degrees Celsius for 48 hours",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to Sr-ETTB's fluorescence when temperature increases from 300 K to 400 K?",
+      "answer": "The emission peak gradually redshifts and the emission intensity weakens.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does pressure affect the fluorescence emission of Sr-ETTB?",
+      "answer": "With increasing pressure, fluorescence emission gradually red shifts and the intensity decreases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the pressure-responsive behavior of Sr-ETTB reversible?",
+      "answer": "Yes, the pressure-responsive behavior is reversible.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the detection mechanism of Co-ETTB for histidine?",
+      "answer": "The TPE-cored linkers are released and reassembled to form emissive aggregates due to the AIE characteristic.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the crystal size of Sr-ETTB affect its fluorescence changes during compression?",
+      "answer": "No, the crystal-size effect is negligible.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the thermofluorochromic behavior of Sr-ETTB visible to the naked eye?",
+      "answer": "Yes, it is visible to the naked eye with distinct changes from white to yellow under daylight and from blue to green under 365 nm light.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Sr-ETTB emits strong blue fluorescence. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Co-ETTB is non-emissive under normal conditions. True or False?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The fluorescence of MOFs cannot be tuned by altering metal cations. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Sr-ETTB's fluorescence does not change with temperature. True or False?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Co-ETTB can detect histidine with high selectivity. True or False?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The synthesis of Sr-ETTB and Co-ETTB requires a high-pressure environment. True or False?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The pressure-responsive behavior of Sr-ETTB is irreversible. True or False?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The detection limit of Co-ETTB for histidine is significantly lower than traditional methods. True or False?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

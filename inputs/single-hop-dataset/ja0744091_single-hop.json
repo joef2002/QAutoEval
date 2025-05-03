@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "An Illustration of the Limit of the Metal Organic Framework's Isoreticular Principle Using a Semirigid Tritopic Linker Obtained by “Click” Chemistry",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main objective of the research presented in the article?",
+      "answer": "The main objective is to illustrate a limit of the isoreticular principle in metal organic frameworks (MOFs) using a semirigid tritopic linker obtained by 'click' chemistry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MIL-112 synthesized using a nitrogen-rich tricarboxylate linker?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of the nitrogen-rich tricarboxylate linker?",
+      "answer": "The linker was synthesized using 'click' chemistry.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does MIL-112 contain large pores for adsorption applications?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula of MIL-112 as determined from X-ray and chemical analyses?",
+      "answer": "La(L)(H2O)2·6H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the flexibility of the linker have on the structure of MIL-112?",
+      "answer": "The flexibility of the linker prevents the formation of a network isotypic with the porous MIL-103.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of MIL-112 stable up to 50 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to MIL-112 when heated under dioxygen?",
+      "answer": "It shows two weight losses at low temperature and eventually yields La2O3 at higher temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the network of MIL-112 be re-opened upon gas pressure?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of MIL-112 after vacuum activation at 25 and 150 °C?",
+      "answer": "20 and 28 m2·g-1, respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the introduction of flexibility in the linker always enhance the porosity of MOFs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 'click' chemistry in the synthesis of MOFs as described in the article?",
+      "answer": "It is used for the synthesis of new nitrogen-rich linkers on the multigram scale, a prerequisite for further potential applications of the related MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the isoreticular principle applicable to MOFs with flexible linkers according to the article?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of nitrogen lone pairs and small flexible endings on the sorption properties of MIL-112?",
+      "answer": "The article explores the effect of nitrogen lone pairs and small flexible endings on the sorption properties, indicating a significant impact.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the chemical formula of the trigonal nitrogen-rich linker used in the synthesis of MIL-112?",
+      "answer": "{4-[3,5-Bis-(1-carbonylmethyl-1H-[1,2,3]triazol-4-yl)-phenyl]-[1,2,3]triazol-1-yl}acetic acid",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the thermal stability of MIL-112 up to 300 °C?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the starting material for the synthesis of the nitrogen-rich tricarboxylate linker?",
+      "answer": "1,3,5-Triethynylbenzene and azidoglycine ethylester",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the flexibility of the linker in MIL-112 contribute to its porosity?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the isoreticular principle in the design of MOFs according to the article?",
+      "answer": "The isoreticular principle is significant for tuning the size of the pores by acting on the length of the rigid linker, but its applicability is limited by the flexibility of the linkers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

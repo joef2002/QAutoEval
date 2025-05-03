@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of the research article?",
+      "answer": "The main goal is to optimize pore space in a flexible-robust metal-organic framework to enhance the removal of trace acetylene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is employed to realize a flexible-robust metal-organic framework with extended pore structure?",
+      "answer": "The isoreticular principle is employed.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of substituting zinc(II) with copper(II) in the metal-organic framework?",
+      "answer": "It leads to elongated Cu-F bonds that expand the closed pore cavities, enhancing the framework's ability to selectively adsorb trace C2H2 over C2H4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the C2H2 uptake capacity of the guest-free Cu analogue at 298 K and 1.0 bar?",
+      "answer": "4.57 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the IAST selectivity for C2H2/C2H4 (1/99, v/v) higher in the Cu analogue compared to the Zn prototype?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique is used for the adsorptive removal of trace acetylene from ethylene?",
+      "answer": "Adsorptive separation using a metal-organic framework.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the substitution from zinc(II) to copper(II) affect the pore cavities size?",
+      "answer": "It expands the pore cavities from 3.5 × 3.9 × 4.1 to 3.6 × 4.3 × 4.2 Å3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the total C2H2 uptake capacity of the Cu analogue at 298 K and 1.0 bar?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of elongated Cu-F bonds in the Cu analogue?",
+      "answer": "They expand the closed pore cavities, enabling the framework to selectively adsorb trace C2H2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the Cu analogue show significant C2H2 uptake increase compared to the Zn prototype?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IAST selectivity for C2H2/C2H4 (1/99, v/v) in the Cu analogue?",
+      "answer": "It gains an over two orders of magnitude jump in IAST selectivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the C2H4 productivity of 14.9 mmol g-1 in the Cu analogue higher than the benchmark MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to synthesize the light purple rectangular prismatic single crystals of NCU-100?",
+      "answer": "Slow diffusion of methanol solution of dps into the mixed aqueous solution of Cu(BF4)2 and (NH4)2SiF6 at room temperature for 4 days.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the sorbent selection parameter (S) value for NCU-100a?",
+      "answer": "14723",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the research article provide crystallographic data for NCU-100 and NCU-100m⊃C2H2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET specific surface area of NCU-100a?",
+      "answer": "358 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge addressed by the research in the context of gas separation?",
+      "answer": "The challenge of efficiently separating acetylene from ethylene using a metal-organic framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the method of gas adsorption measurement described in the research?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the isoreticular principle in the synthesis of the metal-organic framework?",
+      "answer": "It allows for the rational design of the framework's pore structure to enhance selective gas adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the research article discuss the use of molecular dynamics simulations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

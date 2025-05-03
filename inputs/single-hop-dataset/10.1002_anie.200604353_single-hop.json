@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the mesh range of MAMS-1?",
+      "answer": "2.9 to 5.0 5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of MOFs is crucial for constructing a flexible MOF?",
+      "answer": "The utilization of weak interactions such as hydrogen bonding, p–p stacking, and hydrophobic interaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can MAMS-1 separate N2 from CH4?",
+      "answer": "Yes, MAMS-1 can separate N2 from CH4.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature in adjusting the mesh size of MAMS-1?",
+      "answer": "Temperature precisely controls the mesh size within the range of 2.9 to 5.0 5, allowing for the separation of gases with different sizes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the kinetic diameter of CO?",
+      "answer": "3.76 5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the molecular sieving effect of MAMS-1 due to the thermal expansion of its framework?",
+      "answer": "False, the molecular sieving effect does not arise from simple thermal expansion of the framework.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to MAMS-1 at 77 K regarding gas adsorption?",
+      "answer": "At 77 K, MAMS-1 excludes CO, N2, and O2 but allows H2 to enter the hydrophobic chambers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the formula of the ligand used to make MAMS-1?",
+      "answer": "5-tert-butyl-1,3-benzenedicarboxylate (bbdc)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does MAMS-1 require activation for gas adsorption?",
+      "answer": "True, MAMS-1 must be activated at an elevated temperature for gas adsorption.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hydrophilic and hydrophobic layers in MAMS-1?",
+      "answer": "They contribute to the unique gas separation capabilities of MAMS-1, with the hydrophilic layer allowing for desolvation and activation, and the hydrophobic layer storing gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MAMS-1 selectively adsorb O2 from a mixture with N2 and CO at 87 K?",
+      "answer": "True, MAMS-1 can selectively adsorb O2 from a mixture with N2 and CO at 87 K.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the bbdc ligands in the function of MAMS-1?",
+      "answer": "The bbdc ligands form a gate at the hydrophobic/hydrophilic interface, controlling access to the hydrophobic gas-storage chambers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What gases can MAMS-1 separate at 143 K?",
+      "answer": "Methane from ethylene",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the gas uptake in MAMS-1 solely due to the hydrophilic channels?",
+      "answer": "False, the hydrophilic channels alone are not responsible for the gas uptake; the hydrophobic chambers play a major role.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the gate mechanism of MAMS-1 work?",
+      "answer": "The gate mechanism is controlled by thermal vibration, which weakens the van der Waals interaction between bbdc groups, allowing the gates to open wider at higher temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of MAMS-1 based on H2(bbdc)?",
+      "answer": "55 %",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can MAMS-1 separate gases with kinetic diameters in the range of 2.9 to 5.0 5?",
+      "answer": "True, MAMS-1 can separate any two gases with kinetic diameters in the range of 2.9 to 5.0 5.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What determines the gate opening size in MAMS-1?",
+      "answer": "The gate opening size is determined by the amplitude of thermal vibration of the bbdc groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between mesh size and temperature in MAMS-1?",
+      "answer": "The mesh size and temperature in MAMS-1 are related by a linear equation, D = 0.0076 T + 2.76.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is it possible to design a MAMS that operates at ambient temperatures for gas separation?",
+      "answer": "True, by tuning D0 through ligand design, it's possible to design a MAMS that operates at ambient temperatures for gas separation.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

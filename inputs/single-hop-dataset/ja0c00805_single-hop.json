@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest C2H2 uptake capacity achieved by UPC-200 systems?",
+      "answer": "10.13 mmol g−1 at 273 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which UPC-200 material demonstrated the highest separation efficiency for C2H2/CO2?",
+      "answer": "UPC-200(Al)-F-BIM",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of fluorine-functionalized organic linkers in UPC-200 systems?",
+      "answer": "To enhance the C2H2 interaction through strong C–H···F hydrogen bonding and van der Waals interactions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UPC-200(Fe)-F-H2O has a BET surface area of 3192.1 m2 g−1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IAST C2H2/CO2 selectivity of UPC-200(Fe)-F-H2O at 110 kPa?",
+      "answer": "2.25",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the modification of terminal ligands affect the pore size in UPC-200 systems?",
+      "answer": "The modification with imidazole, 4-methylimidazole, or benzimidazole narrows down the cavity sizes, affecting the pore size and window size of the cages",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UPC-200(Fe)-F-BIM has a higher C2H2 adsorption capacity at 273 K compared to UPC-200(Fe)-F-H2O.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of metal substitution on the stability of UPC-200 systems?",
+      "answer": "Different metals affect the chemical stability of MOFs without significantly altering the pore sizes and environments, with UPC-200(Al)-F-H2O showing the highest thermal stability",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UPC-200(Al)-F-H2O can maintain its crystalline structure at pH = 0–12.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of benzimidazole terminal ligands in UPC-200 systems?",
+      "answer": "To optimize the pore size for improved gas separation performance",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UPC-200 systems have been explored for selective adsorption of C2H2/CO2, C2H2/C2H4/C2H6, and C3H6/C3H8.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in C2H2/CO2 separation mentioned in the text?",
+      "answer": "C2H2 and CO2 have similar geometrical dimensions and boiling points, making their separation challenging",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The practical applications of MOFs for gas separation usually suffer from either relatively low C2H2 uptake or poor C2H2/CO2 selectivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main goal in developing new strategies for MOF design as mentioned in the text?",
+      "answer": "To design MOFs with both high C2H2 uptake capacity and excellent C2H2/CO2 selectivity",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The complexity of the pore environment of MOFs can be enriched by introducing multiple ligands bearing different functional groups.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of MTV-MOFs in the context of the text?",
+      "answer": "MTV-MOFs, with their structural diversity and pore-surface heterogeneity, may lead to synergistic effects for enhanced gas separation performance",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UPC-200 series demonstrated remarkable C2H2 uptake and selectivity due to the tunable pore environment.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of UPC-200(Fe)-F-BIM over nonfunctionalized UPC-200(Fe)-H-H2O?",
+      "answer": "UPC-200(Fe)-F-BIM increased the C2H2 adsorption capacity and C2H2/CO2 uptake ratio by 32.4% and 23.8%, respectively, compared to UPC-200(Fe)-H-H2O",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The high stability of UPC-200(Al)-F-H2O is attributed to the small ionic radius of Al3+, which forms a strong bond with the carboxylate linker.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main focus of the computational screening methods mentioned in the text?",
+      "answer": "To quickly predict the C2H2/CO2 separation performance of MTV-UPC-200",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

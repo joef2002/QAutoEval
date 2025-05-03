@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the nanoporous metal-organic framework that exhibits hysteretic spin-crossover at ambient conditions?",
+      "answer": "[Fe(pz)Ni(CN)4], 1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gases were adsorbed and desorbed in the study of the nanoporous metal-organic framework material?",
+      "answer": "N2, O2, CO2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of guest molecules in the spin-crossover behavior of the nanoporous metal-organic framework?",
+      "answer": "Guest molecules influence the spin-crossover behavior by stabilizing the high-spin state and depressing the spin-crossover temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The spin-crossover process in the nanoporous metal-organic framework is reversible.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to measure the magnetic susceptibility of the nanoporous metal-organic framework?",
+      "answer": "Quantum Design MPMS 5 SQUID instrument",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does the desorption of guest molecules have on the spin-crossover temperature?",
+      "answer": "Desorption of guest molecules increases the spin-crossover temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of CO2 into the nanoporous metal-organic framework is favored into the low-spin state at low loadings.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hysteresis observed in the spin-crossover transition?",
+      "answer": "The hysteresis indicates a memory effect, where the material can remember its spin state prior to guest adsorption/desorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest-dependent spin-crossover properties suggest potential applications in molecular sensing.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the molecular volumes and surface areas of the guest molecules?",
+      "answer": "Ab initio calculations at the HF/6-31G(d,p) level of theory",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The spin-crossover transition in the nanoporous metal-organic framework is induced by temperature changes only.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest molecule size on the spin-crossover temperature?",
+      "answer": "Larger guest molecules depress the spin-crossover temperature more than smaller ones.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nanoporous metal-organic framework exhibits a guest-exchange-induced spin-crossover.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of heating rates on the width of the hysteresis loops in the spin-crossover transition?",
+      "answer": "Faster heating rates increase the width of the hysteresis loops.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nanoporous metal-organic framework's spin-crossover properties are influenced by nanoparticle size effects.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are suggested by the guest-dependent spin-crossover properties of the nanoporous metal-organic framework?",
+      "answer": "Molecular sensing and molecular separation strategies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The nanoporous metal-organic framework retains memory of its spin state through guest sorption/desorption processes.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to estimate the molecular volumes and surface areas of methanol, ethanol, and acetonitrile?",
+      "answer": "Ab initio calculations using the Gaussian 03 program package.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The spin-crossover transition in the nanoporous metal-organic framework is abrupt and does not involve intermediate phases.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pyrazine pillars in the structure of the nanoporous metal-organic framework?",
+      "answer": "The pyrazine pillars bridge the metal centers and can rotate, influencing the pore structure and spin-crossover behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

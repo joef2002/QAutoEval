@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound studied in the experiment?",
+      "answer": "C32 H24 N2 O14 Rh2 and C33 H26 N2 O14 Rh2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature ranges were the magnetic susceptibilities of O2 molecules measured?",
+      "answer": "2.0 to 250 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the adsorption isotherm measurements of O2?",
+      "answer": "Volumetric method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the applied magnetic field range for the dc magnetic susceptibility measurements?",
+      "answer": "1 to 7 T",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of crystal system does the compound belong to at 298 K?",
+      "answer": "Triclinic and Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the compound at 150 K?",
+      "answer": "P-1 and C2/m",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the magnetic susceptibility change with temperature?",
+      "answer": "The magnetic susceptibility changes in three temperature regions: low (2 to around 55 K), middle (around 55 to 140 K), and high (140 to 250 K).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a hysteresis loop in the M(O2)-H curves indicate?",
+      "answer": "The presence of a hysteresis loop indicates a time-dependent magnetization process for the magnetic changes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic behavior of adsorbed O2 molecules similar across all crystal hosts studied?",
+      "answer": "Yes, similar abnormal magnetic behaviors were observed from the included O2 molecules in all adsorbents.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the magnetic anisotropy of O2 molecules contribute to the observed magnetic property?",
+      "answer": "Yes, the observed magnetic property can be induced by a change in the guest configuration due to the magnetic anisotropy of paramagnetic O2.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the changes in host−guest and guest−guest contacts significant between different temperatures?",
+      "answer": "No, the changes in the host−guest and guest−guest contacts and the differences in the inclusion structure were slight.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the flexible host stabilize the configuration of the O2 aggregates?",
+      "answer": "Yes, the flexible host stabilizes the configuration of the O2 aggregates, enabling observation of states of slightly different energy levels.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the decrease of M(O2)T above 140 K probably relate to?",
+      "answer": "The decrease of M(O2)T above 140 K is probably related to the desorption of O2 molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the maximum M(O2)T value over 7.00 emu·mol−1·Oe·K for 1a and 1b indicate?",
+      "answer": "The maximum M(O2)T value over 7.00 emu·mol−1·Oe·K for 1a and 1b can indicate the weak ferromagnetic coupling between O2 molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is suggested by the detailed structural analyses for 1a and 2a at fine temperature intervals?",
+      "answer": "The detailed structural analyses suggest that the observed magnetic interaction is correlated not only to the configuration of O2 aggregates determined by X-ray analysis under no magnetic field but also by the molecular motion induced by both temperature and an external magnetic field.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the existence of the short-life intermediate state of the O2 aggregates in the channels suggest?",
+      "answer": "It suggests that the guest configuration changed from the intermediated state I to the final state B.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the boundary temperatures for the abnormal magnetic behaviors similar along the series of compounds studied?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the magnetic phase of the middle temperature ranges for included O2 molecules correspond to the mesophase between the solid and fluid state?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic anisotropic energy of the O2 molecules too low to be observed under the condition in which the applied magnetic field is low and the temperature of the measurement is high?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the observed phenomena be measured at the relatively high temperature and low applied magnetic field for the small energy difference expected for the magnetic anisotropy of O2?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

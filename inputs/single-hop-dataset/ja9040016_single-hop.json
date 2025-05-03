@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the novel metal-organic framework discussed?",
+      "answer": "(NH4)2(adp)[Zn2(ox)3]·3H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the three types of rational design proposed for introducing proton carriers into MOFs?",
+      "answer": "Type I: Introducing them directly as counterions, Type II: Putting acid groups on frameworks, Type III: Incorporating acidic molecules into voids.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "Hydrothermal method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the superprotonic conductivity of (NH4)2(adp)[Zn2(ox)3]·3H2O at ambient temperature?",
+      "answer": "10^-2 S cm^-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do water molecules play in the proton-conducting pathways of (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "Water molecules are crucial for creating the proton-conducting pathways.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of (NH4)2(adp)[Zn2(ox)3]·3H2O comparable to Nafion?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the dihydrate form of (NH4)2(adp)[Zn2(ox)3]·3H2O show higher proton conductivity than the trihydrate form?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy (Ea) of (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "0.63 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conduction mechanism in (NH4)2(adp)[Zn2(ox)3]·3H2O expected to be similar to the Grotthus mechanism?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of half-occupied oxygen sites in (NH4)2(adp)[Zn2(ox)3]·3H2O suggest a direct-jump diffusion mechanism?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of adipic acid in the structure of (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "Adipic acid provides additional protons for the proton-conducting pathways.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of (NH4)2(adp)[Zn2(ox)3]·3H2O a result of combining type I and type III design concepts?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the synthesis process for (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "92%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the crystal structure of (NH4)2(adp)[Zn2(ox)3]·3H2O include a 2-D hydrogen-bond network?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the short hydrogen bonds in the structure of (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "They indicate the formation of a 2-D hydrogen-bond network among various molecules, contributing to its high proton conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was adipamide converted into adipic acid under hydrothermal conditions during the synthesis of (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique confirmed the presence of adipic acid in (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "IR spectroscopy",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the transformation of (NH4)2(adp)[Zn2(ox)3]·3H2O from trihydrate to dihydrate form increase its proton conductivity?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of relative humidity on the proton conductivity of (NH4)2(adp)[Zn2(ox)3]·3H2O?",
+      "answer": "The proton conductivity decreases with lower relative humidity due to the transformation to the dihydrate form.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the proton conductivity of (NH4)2(adp)[Zn2(ox)3]·3H2O at 25 °C under 98% RH conditions higher than at 70% RH?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

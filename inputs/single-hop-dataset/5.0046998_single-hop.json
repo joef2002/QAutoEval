@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C31H39Au2FeN7",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the crystal structure of compound 2 solved?",
+      "answer": "120 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of coordination sphere does Fe(II) have in compound 1?",
+      "answer": "FeN6 octahedral coordination sphere",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 3?",
+      "answer": "P21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the abrupt thermal hysteretic spin transitions in Hofmann-type compounds?",
+      "answer": "The presence of two crystallographically independent Fe atoms or intermediate phases with a different space group.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Fe/Au ratio in compound 1?",
+      "answer": "Close to 1:2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of irradiation with green light at 10 K on compound 1?",
+      "answer": "It causes a drastic increase of the magnetic signal, indicating a LS to HS photoconversion.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does compound 1 show a complete and abrupt spin transition with thermal hysteresis?",
+      "answer": "Due to its unique 1D structure formed by chains of Fe(II) complexes linked through bridging [Au(CN)2]-.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of compound 3 differ from compound 1?",
+      "answer": "In compound 3, one of the three terminal 4-tBupy is replaced by a coordinating MeOH molecule.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the disorder of the methyl groups of the 4-tBupy ligands in compound 1?",
+      "answer": "It may explain the steps in the spin transition due to order-disorder transitions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of aurophilic interactions in the structure of compound 1?",
+      "answer": "They lead to double chains by linking the Au from bridging and terminal [Au(CN)2]- from neighboring chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of compound 2?",
+      "answer": "Triclinic",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the empirical formula C31H39Au2FeN7 indicative of compound 1 being in a high-spin state?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 exhibit light-induced excited spin-state trapping effect?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group P21/c exclusive to compound 1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the magnetic properties of compound 1 due to its 2D network structure?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Fe/Au ratio in compound 1 exactly 1:2 according to microanalysis?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 3 have a FeN5O octahedral coordination sphere?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the abrupt thermal hysteretic spin transition in compound 1 common in Hofmann-type compounds?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the disorder of the methyl groups of the 4-tBupy ligands in compound 1 not affect its spin transition?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MAF-2?",
+      "answer": "C6H10CuN3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does MAF-2 start to decompose?",
+      "answer": "Above approximately 280 °C",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MAF-2 capable of adsorbing water?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of MAF-2?",
+      "answer": "R3̅",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does MAF-2 exhibit kinetically controlled flexibility?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary mechanism for gas sorption in MAF-2?",
+      "answer": "Kinetically controlled flexibility",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MAF-2 separate benzene from cyclohexane?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield range for synthesizing MAF-2?",
+      "answer": "80-100% depending on the solvent recovery ratio",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structural transformation does MAF-2 undergo upon MeCN adsorption?",
+      "answer": "Triclinic structure transformation",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest-free MAF-2 stable in air?",
+      "answer": "True, but its color changes from white to light green depending on humidity",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ethyl groups in MAF-2's structure?",
+      "answer": "They block the apertures of channels, acting as thermoactivated IRIS stops",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum temperature MAF-2 can withstand without structural change?",
+      "answer": "Up to high temperature until decomposition above approximately 280 °C",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does MAF-2 adsorb N2 at 77 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the adsorption behavior of MAF-2 towards organic solvents and water?",
+      "answer": "MAF-2 adsorbs large amounts of small organic molecules but excludes H2O",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the symmetry of the MAF-2c phase?",
+      "answer": "Cubic symmetry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can MAF-2 adsorb supercritical N2 at 195 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the structural difference between MAF-2 and MAF-2c?",
+      "answer": "MAF-2 has a distorted NbO type network without any symmetry-imposed disorder, unlike MAF-2c",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on MAF-2's N2 adsorption capacity?",
+      "answer": "MAF-2's N2 adsorption capacity increases with temperature due to thermoactivated aperture opening",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does MAF-2 undergo permanent structural transformation upon sorption?",
+      "answer": "False, the host framework is not altered upon N2 inclusion",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of MAF-2's multimode structural transformation ability?",
+      "answer": "It allows MAF-2 to serve as a multipurpose guest sensor and actuator",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

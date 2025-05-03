@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is sliding ferroelectricity?",
+      "answer": "Sliding ferroelectricity is a unique type of polarity that exists only in van der Waals (vdW) materials, where the stacking mode of vdW layers breaks the inversion symmetry, generating out-of-plane polarizations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What material was used to directly observe sliding ferroelectricity?",
+      "answer": "A high-quality amphidynamic single crystal (15-crown-5)Cd3Cl6 was used to directly observe sliding ferroelectricity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two sources of ferroelectricity in CCC?",
+      "answer": "The two sources of ferroelectricity in CCC are individual layers, whose dipoles are driven by the geometric frustration of oxygen ions, and interlayer sliding.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the ferroelectricity in CCC confirmed?",
+      "answer": "The ferroelectricity in CCC was confirmed through second harmonic generation (SHG) measurement, frequency-dependent dielectric curves, pyroelectric current measurement, and polarization–electric field (P–E) hysteresis loop.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of crown-ethers in CCC's ferroelectricity?",
+      "answer": "In CCC's ferroelectricity, crown-ethers act as rotators above the critical temperature (TC), and their freezing leads to the generation of electric dipoles in each layer driven by the geometric mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ferroelectric domain structure in CCC can be determined by PFM.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: CCC's ferroelectricity is only due to the geometric mechanism.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to measure the SHG signal in CCC?",
+      "answer": "The SHG signal in CCC was measured using a pumped Nd:YAG laser at a frequency of 1 Hz.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of CCC's large bandgap in the context of sliding ferroelectricity?",
+      "answer": "CCC's large bandgap is significant because it allows for direct measurements of ferroelectricity, reducing technical difficulties associated with manipulating this property in highly insulating crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The polarization direction in CCC is only along the b axis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the critical temperature (TC) for the phase transition in CCC?",
+      "answer": "The critical temperature (TC) for the phase transition in CCC is 320 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the interlayer sliding contribute to CCC's ferroelectricity?",
+      "answer": "The interlayer sliding contributes to CCC's ferroelectricity by generating a comparable ferroelectric polarization originating from the sliding of layers, which superposes on the geometric dipole along the b axis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: CCC's ferroelectric domain can be reversed by applying bias voltages.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cadmium ions in CCC's ferroelectricity?",
+      "answer": "Cadmium ions in CCC are involved in forming the structural unit described as a molecular pinwheel, where they are coordinated by chloride and oxygen ions, contributing to the material's ferroelectric properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: CCC's ferroelectricity is only observed in three-dimensional inorganic crystals.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the existence of geometric ferroelectricity in CCC?",
+      "answer": "Experimental evidence supporting the existence of geometric ferroelectricity in CCC includes the observation of stereo distortions of ions in the crown-ether and the generation of a dipole for each individual layer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ferroelectric properties of CCC were characterized by transport behaviours of nanodevices.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of CCC's insulating property for studying sliding ferroelectricity?",
+      "answer": "CCC's insulating property is significant for studying sliding ferroelectricity because it reduces leakage current in ferroelectric measurements, making direct characterizations of ferroelectricity possible and reliable.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The coercive electric fields in CCC are high due to the sliding mechanism.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of van der Waals forces in CCC's structure?",
+      "answer": "Van der Waals forces in CCC's structure are responsible for packing the electrically neutral layers, which are composed of inorganic stators and organic rotators, contributing to the material's ferroelectric properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

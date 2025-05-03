@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the metal-organic framework compound 1?",
+      "answer": "Zn(BDC)(DMBPY) 0.5 · (DMF) 0.5 (H2O) 0.5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which ligand is functionalized with methyl groups in the synthesis of compounds 1 and 2?",
+      "answer": "DMBPY (2,2′-dimethyl-4,4′-bipyridine)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does methyl functionalization have on CO2 adsorption in metal-organic frameworks?",
+      "answer": "Methyl functionalization enhances CO2 adsorption due to stronger interactions between the framework and CO2 molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The addition of methyl groups to the BPY ligand decreases the isosteric heats of CO2 adsorption (Qst) for both compounds 1 and 2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main interaction between the MMOF framework and CO2 before methyl functionalization?",
+      "answer": "The main interaction is between the delocalized aromatic π system and the molecular quadrupole of CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does methyl functionalization affect the CO2 uptake capacity of compound 1 compared to its parent structure?",
+      "answer": "For compound 1, the CO2 uptake capacity is significantly higher than that of its parent structure due to the positive effect of enhanced MMOF–CO2 interactions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CO2/N2 separation ratios for compounds 1, 2, and 4 are lower than those reported for zeolite and carbon adsorbents.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the methyl group in the interaction of CO2 within the MMOF systems according to IR and Raman spectroscopic characterization?",
+      "answer": "The methyl group enhances the interaction between CO2 and the MMOF framework, contributing to the stabilization of the MMOF–CO2 complex.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The frameworks of compounds 1 and 2 remain intact after exposure to water at 40 °C for 7 days.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of methyl functionalization on the water stability of compounds 1 and 2 compared to their parent structures?",
+      "answer": "Methyl functionalization significantly enhances the water stability of compounds 1 and 2 over their parent structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The addition of methyl groups to the ligand increases the surface area and pore volume of the metal-organic frameworks.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of methyl functionalization on the separation capability of CO2 over other small gases?",
+      "answer": "Methyl functionalization improves the separation capability of CO2 over other small gases, including CH4, N2, and O2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The isosteric heats of CO2 adsorption (Qst) for compounds 1 and 2 are lower after methyl functionalization.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the structural feature common to both compounds 1 and 2?",
+      "answer": "Both compounds are 3D porous structures of the Zn2(L)2(P) type made of a paddle-wheel Zn2(COO)4 secondary building unit.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of compound 1 compare to its parent structure after methyl functionalization?",
+      "answer": "The pore size of compound 1 is reduced from 4.0 × 4.0 Å in the parent structure to 3.8 Å × 3.8 Å due to the inclusion of methyl groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest-free form of compound 2 exhibits a higher CO2 uptake than its parent structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the isosteric heats of CO2 adsorption (Qst) values for compounds 1 and 2?",
+      "answer": "The high Qst values for compounds 1 and 2 indicate stronger interactions between CO2 and the methyl-modified frameworks, validating the theoretical computational results.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The addition of methyl groups to the ligand leads to an increase in the CO2 adsorption capacity for both compounds 1 and 2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the separation ratios of CO2 to O2 and N2 for compound 1'?",
+      "answer": "The separation ratios of CO2 to O2 and N2 for compound 1' are 39.8 and 23.5, respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of methyl groups affect the flexibility of the MMOF structures upon heating or degassing?",
+      "answer": "The presence of methyl groups in the MMOF structures prevents extensive distortion upon heating or degassing, as indicated by the largely retained PXRD pattern of compound 1' after removal of the guest.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

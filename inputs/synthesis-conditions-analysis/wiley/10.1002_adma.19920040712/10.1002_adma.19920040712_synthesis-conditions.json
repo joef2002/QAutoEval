@@ -1,0 +1,37 @@
+{
+  "materials": [
+    {
+      "name": "Dy(hfac)3(NITEt)",
+      "synthesis_conditions": {
+        "solvents": "n-heptane",
+        "crystal_data": {
+          "temperature": "room temperature",
+          "dimensions": "0.2 x 0.15 x 0.3 mm",
+          "radiation": "MoKα",
+          "wavelength": "0.71073 Å",
+          "crystal_system": "monoclinic",
+          "a": "11.231(2) Å",
+          "b": "17.306(2) Å",
+          "c": "18.321(3) Å",
+          "beta": "91.63(2)°",
+          "volume": "3520(3) Å^3",
+          "Z": "4",
+          "reflection_collected": "6666",
+          "reflection_observed": "4523",
+          "corrections": [
+            "Lorentz",
+            "polarization",
+            "absorption"
+          ],
+          "structure_solution": "P 2 1 n",
+          "refinement_method": "SHELX-86",
+          "refinement": {
+            "R": "0.0451",
+            "Rw": "0.0463"
+          }
+        },
+        "equipment": "Enraf-Nonius CAD4 diffractometer"
+      }
+    }
+  ]
+}

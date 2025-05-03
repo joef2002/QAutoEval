@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "material_id": "2",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "cyclohexane",
+        "amount_of_solvent": "0.8 ml",
+        "guest_molecules": [
+          "triphenylene (3a)",
+          "anthracene (3b)",
+          "perylene (3c)",
+          "triphenylphosphine oxide (3d)"
+        ],
+        "time": "24 h",
+        "equipment": "Siemens SMART/CCD diffractmeter equipped with a 80 K",
+        "yield": [
+          {
+            "compound": "4a",
+            "calculated": {
+              "C": "43.04",
+              "H": "3.18",
+              "N": "8.03"
+            },
+            "found": {
+              "C": "42.82",
+              "H": "3.09",
+              "N": "7.89"
+            }
+          },
+          {
+            "compound": "4b",
+            "calculated": {
+              "C": "38.96",
+              "H": "2.52",
+              "N": "8.74"
+            },
+            "found": {
+              "C": "38.95",
+              "H": "2.66",
+              "N": "8.47"
+            }
+          },
+          {
+            "compound": "4c",
+            "calculated": {
+              "C": "40.78",
+              "H": "3.02",
+              "N": "8.39"
+            },
+            "found": {
+              "C": "40.59",
+              "H": "2.85",
+              "N": "8.06"
+            }
+          },
+          {
+            "compound": "4d",
+            "calculated": {
+              "C": "36.10",
+              "H": "2.21",
+              "N": "8.77"
+            },
+            "found": {
+              "C": "36.04",
+              "H": "2.56",
+              "N": "8.66"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

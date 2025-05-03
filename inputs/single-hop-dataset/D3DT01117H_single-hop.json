@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C11H17EuFNO12P2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the detection limit (LOD) of 3 for sulfamethazine (SMZ)?",
+      "answer": "0.62 μM",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the luminescence lifetime of 3 change after adding SMZ?",
+      "answer": "The luminescence lifetime of 3 basically remained unchanged after adding SMZ.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence quenching of SMZ due to the photoinduced electron transfer process (PET)?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the recovery range of SMZ in real samples using 3 as a sensor?",
+      "answer": "Between 91.82 and 106.87%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the luminescence quenching of SMZ in the presence of 3?",
+      "answer": "The luminescence quenching of SMZ is due to the cooperative result of static quenching and the internal filtration effect (IFE).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 3 be used for the detection of SMZ in mariculture water and human urine?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quantum yield of Gd0.95Tb0.03Eu0.02 (compound 9)?",
+      "answer": "11.39%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CIE coordinate of Gd0.95Tb0.03Eu0.02 (compound 9)?",
+      "answer": "(0.348, 0.322)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of 3 remain intact after being soaked in boiling water for 10 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the response time of 3 for detecting SMZ?",
+      "answer": "Less than 30 seconds",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How many cycles of sensing for SMZ can 3 perform without significant loss in performance?",
+      "answer": "5 cycles",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the H4L ligand in the luminescence of compounds 1 and 3?",
+      "answer": "The H4L ligand serves as an 'antenna' or sensitizer, effectively transferring absorbed energy to Eu3+ and Tb3+ ions through 'antenna effects' and enhancing the luminescence.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence of compound 2 due to the characteristic 4f → 4f transition of Gd3+?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the structural feature of the lanthanide metal–organic frameworks (Ln-MOFs) described in the text?",
+      "answer": "They feature 2D layer structures.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the emission color of compound 1 under ultraviolet irradiation?",
+      "answer": "Red",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the emission color of the Ln-MOFs be tuned by adjusting the molar ratio of Eu3+, Gd3+, and Tb3+?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CIE coordinate (0.348, 0.322) for compound 9?",
+      "answer": "It indicates that compound 9 displays near white-light emission.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the Ln-MOF inks visible in daylight?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the excellent selectivity of 3 for SMZ?",
+      "answer": "Only SMZ exhibited luminescence quenching among various potentially coexisting urine substances, demonstrating high recognition selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the coordination polymer discussed?",
+      "answer": "[Cu(tba)2]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What gases does the MOF material show high CO2 adsorption selectivity over?",
+      "answer": "CH4/H2/O2/Ar/N2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) does the MOF material show IAST selectivity of 41-68 for CO2 over other gases?",
+      "answer": "273 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of a critical point dryer in the study?",
+      "answer": "To seal CO2 molecules in the 1D channels of the MOF for single-crystal X-ray analysis.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How is the desolvated MOF obtained from its DMF containing form?",
+      "answer": "By heating under vacuum at 150 °C for one week.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What transformation occurs when the MOF is exposed to water?",
+      "answer": "It undergoes a SCSC transformation to form its isostructural hydrate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF material loses its crystallinity upon desolvation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF material can regenerate its evacuated form by heating the hydrated form at 150 °C for one week.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the MOF material when exposed to air for a long time?",
+      "answer": "It undergoes a SCSC transformation to form a mononuclear complex.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF material shows no obvious sorption of N2 at 77 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated IAST selectivity for CO2 over CH4 at 293 K?",
+      "answer": "45",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF material's CO2 adsorption capacity increases with temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of CO2 adsorption for the MOF material?",
+      "answer": "36.0 kJ/mol",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF material's framework changes upon desolvation.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CO2 encapsulation method using a critical point dryer?",
+      "answer": "It allows for the analysis of host-guest interactions within the MOF's channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF material can selectively adsorb CO2 over a broad spectrum of gases.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of replacing the Hiba ligand with Htba in the synthesis of the MOF?",
+      "answer": "It results in a MOF with a 4-fold interpenetrating dia framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF material's CO2 adsorption selectivity decreases at higher temperatures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the PLATON program in the study?",
+      "answer": "To calculate the solvent-accessible area of the MOF.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF material's CO2 adsorption capacity is higher at 195 K compared to 293 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

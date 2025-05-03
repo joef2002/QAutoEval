@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the main framework of FeTHQ?",
+      "answer": "Fe8(C6O6)6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structure determination and refinement of FeTHQ?",
+      "answer": "Rietveld refinement",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated band gap of FeTHQ based on UV–vis–NIR diffuse reflectance spectroscopy?",
+      "answer": "0.79 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the conductivity of FeTHQ dependent on its valence state?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the conductivity of FeTHQ when it is exposed to air?",
+      "answer": "The conductivity decreases",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Fe3+ in FeTHQ_ox be reversibly reduced back to Fe2+?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy of FeTHQ from 240 to 340 K?",
+      "answer": "270 meV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the reduction of FeTHQ with sodium naphthalenide result in a noticeable structural change according to PXRD analysis?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main conduction mechanism hypothesized for FeTHQ?",
+      "answer": "Redox hopping",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of air oxidation on the Fe2+/Fe3+ ratio in FeTHQ?",
+      "answer": "It makes the redox hopping less likely to happen and leads to a drop in the mobility of electrons",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the synthesis temperature for FeTHQ?",
+      "answer": "80 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is FeTHQ identified to be a dual mixed-valence system?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of FeTHQ?",
+      "answer": "Approximately 163 m2 g–1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the reduction of FeTHQ increase its conductivity?",
+      "answer": "No, the conductivity decreases with reduction",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the solvent molecules in the pores of FeTHQ according to the structural model?",
+      "answer": "They represent the diffusive electron density of solvent molecules located in the pores",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of FeTHQ?",
+      "answer": "Pm3̅",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the electrical conductivity of FeTHQ remarkable compared to other 3D cMOFs?",
+      "answer": "Yes, it has a high conductivity compared to other 3D cMOFs",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of sodium naphthalenide reduction on the Fe3+/Fe2+ ratio in FeTHQ?",
+      "answer": "It achieves a more balanced Fe3+/Fe2+ ratio",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main reason for the limited recovery of conductivity after oxidation and subsequent reduction of FeTHQ?",
+      "answer": "The heterogenous nature of the reduction reaction versus the more homogenous air oxidation process",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does FeTHQ demonstrate potential in electrochemical applications such as supercapacitors and batteries?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

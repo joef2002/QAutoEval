@@ -1,0 +1,34 @@
+{
+  "materials": [
+    {
+      "name": "Cu2(pzdc)2(pyz)·2H2O (hydrated complex 1)",
+      "synthesis_conditions": {
+        "solvents": "H2O/EtOH (1:1, 100 ml)",
+        "chemicals_used": [
+          {
+            "name": "Na2pzdc",
+            "amount": "0.21 g, 1.00 mmol"
+          },
+          {
+            "name": "pyz",
+            "amount": "1.0 g, 12.5 mmol"
+          },
+          {
+            "name": "Cu(ClO4)2·6H2O",
+            "amount": "0.37 g, 1.00 mmol"
+          }
+        ],
+        "temperature": "room temperature",
+        "time": "one day",
+        "washing_method": "washed with H2O and methanol",
+        "drying_method": "dried under reduced pressure"
+      }
+    },
+    {
+      "name": "anhydrous complex 1",
+      "synthesis_conditions": {
+        "preparation": "The host sample was obtained by treating under reduced pressure (,1022 Pa) at 398 K for more than 10 h."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for CVMOF-DE?",
+      "answer": "Zr6O32C84N6H52",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the successful syntheses of CVMOFs?",
+      "answer": "Powder X-ray diffraction (PXRD)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How were the mole fractions of longer linkers in CVMOF-AB determined?",
+      "answer": "Based on 1H NMR results of the digested samples",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the BET surface area of CVMOF-DE greater than that of MOF-D?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE function in PLATON during the refinement of MOF-E?",
+      "answer": "To remove the contribution of the electron density associated with disordered solvent molecules and anions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of CVMOF-BC and CVMOF-DE with different linker ratios require the same amount of trifluoroacetic acid?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system for CVMOF-DE?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the method used to estimate the porosity of CVMOFs?",
+      "answer": "By N2 uptake at 77 K and 1 bar",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the unit cell parameter 'a' for CVMOF-DE larger than that of MOF-D?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of n-hexane in the activation process of CVMOFs?",
+      "answer": "It was used for solvent exchange due to its low surface tension, following the procedure reported by Matzger and co-workers",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main goal of the study on continuously variable MOFs (CVMOFs)?",
+      "answer": "To realize the continuous variations of lattice dimension and pore size in a series of mixed-linker MOFs with various linker ratios",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of CVMOF-AB result in a physical mixture of two MOFs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of using different linker ratios in the synthesis of CVMOFs?",
+      "answer": "To precisely control the unit cell volumes, BET surface areas, and pore sizes in a wide range",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the linker ratio in the starting materials always equal to those in the CVMOF products?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to determine the distribution of linkers within CVMOF-DE?",
+      "answer": "Molecular modeling in combination with fluorescence quenching experiments",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the synthetic strategy for CVMOFs be applied to other MOF systems with various metal nodes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the fluorescence quenching experiments on CVMOF-DE?",
+      "answer": "The distributions of two linkers within a mixed-linker MOFs can be determined by Förster resonance energy transfer (FRET)-based fluorescence quenching",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of Monte Carlo simulation in the study?",
+      "answer": "To assess equilibrium structures of mixed linker MOFs and simulate the photoluminescence intensity as a function of LE (quencher) ratio",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the PXRD pattern of CVMOF-DE based on the random model consistent with the experimental data?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of conducting diffuse reflectance infrared Fourier transform spectroscopy (DRIFTs) and thermogravimetric analysis (TGA) on CVMOF-DE?",
+      "answer": "To analyze the concentration of missing-linker defects in CVMOF-DE",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

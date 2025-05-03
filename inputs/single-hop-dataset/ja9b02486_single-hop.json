@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of 0-D NC?",
+      "answer": "C62.5H112.5Ag16ClF21N5.5O20.5S8",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of 1-D NCF?",
+      "answer": "Triclinic, P-1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the steady-state PL and excitation spectra of 2-D NCF crystals measured?",
+      "answer": "Room temperature (RT ~298 K)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the 0-D NC structure exhibit twinning?",
+      "answer": "Yes, the 0-D NC structure exhibits a 2-component pseudo-merohedral twin.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the composition of the 0-D NC, 1-D NCF, and 2-D NCF structures?",
+      "answer": "The main difference is in the number of silver atoms and the type of ligands protecting the cluster.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the chloride ion play in the structures of 0-D NC, 1-D NCF, and 2-D NCF?",
+      "answer": "The chloride ion acts as a template for the assembly of the silver clusters in all three structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the thermal stability of the nanoclusters directly related to their dimensionality?",
+      "answer": "Yes, the thermal stability improves with increasing dimensionality from 0-D NC to 2-D NCF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the refinement of the crystal structures?",
+      "answer": "Full-matrix least-squares on F2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the PL intensity of 2-D NCF change with temperature?",
+      "answer": "The PL intensity of 2-D NCF shows a systematic spectral red shift with an increase in temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the ESI-MS results for the 0-D NC structure?",
+      "answer": "The ESI-MS results demonstrate that the 0-D NC can maintain the original composition identity of its basic skeleton structure in CH3CN solvent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the 2-D NCF structure exhibit a 3D supramolecular structure through weak hydrogen bonds?",
+      "answer": "Yes, the 2-D NCF structure extends into a 3D supramolecular structure via weak hydrogen bonds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of Ag NCs?",
+      "answer": "DMF solvent plays a critical role in facilitating the templating effect of Cl-.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the function of bpy in the assembly of 1-D NCF and 2-D NCF?",
+      "answer": "Bpy is utilized as an organic linker to facilitate the assembly of Ag clusters into one- and two-dimensional networks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission of 0-D NC visually detectable at room temperature?",
+      "answer": "No, the emissions of 0-D NC at room temperature are not visually detectable.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main weight loss temperature for 0-D NC according to TGA measurements?",
+      "answer": "The main weight loss for 0-D NC occurs at approximately 124 °C.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the PL intensity of 1-D NCF compare to that of 2-D NCF?",
+      "answer": "2-D NCF exhibits distinctly stronger emission compared to 1-D NCF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of increasing the ratio of independent ligands to the Ag thiolate complex?",
+      "answer": "Increasing the ratio tends to grow predominantly large 1-D NCF crystals and small 2-D NCF crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the optical properties of the nanoclusters modulated by their dimensionality?",
+      "answer": "Yes, the change in dimensionality offers a distinct way to tune the optical and PL properties of the cluster-based frameworks.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the chloride (Cl-) template in the synthesis of the nanoclusters?",
+      "answer": "The chloride (Cl-) template controls the nanocluster's nuclearity with atomic precision.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the argentophilic interactions in the stabilization of the silver cluster skeleton?",
+      "answer": "Argentophilic interactions play a crucial role in the stabilization of the silver cluster skeleton.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

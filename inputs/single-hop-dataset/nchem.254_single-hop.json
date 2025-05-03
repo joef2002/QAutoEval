@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the flexible MOF synthesized in the study?",
+      "answer": "Cu2(OH)(C8H3O7S)(H2O).2H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What increases the thermal stability of the MOF, allowing for electron microscopy imaging?",
+      "answer": "Addition of pyridine",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What gas shows unprecedented low-pressure selectivity in adsorption by the MOF?",
+      "answer": "Nitric oxide (NO)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How can the structural transformation of the MOF be controlled?",
+      "answer": "By replacing the coordinated water molecule with a pyridine ligand",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the gate-opening pressure for NO adsorption in the MOF?",
+      "answer": "275 mbar",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF loses crystallinity upon dehydration.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the 5-sulfoisophthalate linker in the MOF structure?",
+      "answer": "It builds 3D structures via two strongly bonding carboxylate groups and one weaker sulfonate group, allowing for structural transformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF can adsorb common gases like CO2, CO, N2O, and CH4 at low pressures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the MOF upon addition of water after NO adsorption?",
+      "answer": "It undergoes controlled NO release and reverts to the original hydrated phase.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's selectivity towards NO over other gases is due to NO's inability to coordinate with metal sites in the framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of dehydration on the MOF's structure according to variable-temperature powder X-ray diffraction patterns?",
+      "answer": "It leads to a significant rearrangement of the bonds and coordination of the metal ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's framework is completely rigid and does not undergo any structural changes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the storage capacity of the MOF for NO at 1 bar?",
+      "answer": "Approximately 1.1 mmol NO per gram MOF",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF's ability to adsorb NO is unaffected by the presence of pyridine.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the MOF's ability to undergo controlled NO release upon addition of water?",
+      "answer": "It leads to potential applications as materials for NO storage and delivery in environmental and medical applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF's ultraselective adsorption of NO occurs at high pressures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated weight loss for the removal of three water molecules from the MOF?",
+      "answer": "12.2%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF's structure is unaffected by the addition of pyridine during synthesis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of pyridine addition on the MOF's unit cell volume compared to Cu-SIP-3?",
+      "answer": "The volume of the unit cell of Cu-SIP-3-pyridine.H2O is significantly expanded by approximately 10%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF's selectivity for NO adsorption is due to NO's weak interaction with the framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

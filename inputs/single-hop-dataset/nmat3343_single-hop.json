@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical structure of H4L?",
+      "answer": "Biphenyl-3,30,5,50-tetra-(phenyl-4-carboxylic acid)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum CO2 storage capacity of NOTT-202a at 195 K and 1.0 bar?",
+      "answer": "20 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structural feature does NOTT-202 exhibit?",
+      "answer": "Partial double interpenetration with one fully present net (A) and one secondary net (B) with occupancy 0.75",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does NOTT-202a exhibit selective hysteretic CO2 adsorption/desorption?",
+      "answer": "Due to its unique partially interpenetrated structure and the temperature-dependent behavior below the triple point of CO2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to simulate the stepwise adsorption in NOTT-202a?",
+      "answer": "Grand canonical Monte Carlo simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range does NOTT-202a show adsorption/desorption hysteresis for CO2?",
+      "answer": "Between 195 and 213 K, below the triple point of CO2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity ratio of CO2 over CH4 at 195 K during adsorption in NOTT-202a?",
+      "answer": "23.7:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The BET surface area of NOTT-202a is the highest among In(iii)-based MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the quadrupole moment of CO2 play in the adsorption process in NOTT-202a?",
+      "answer": "It contributes to the framework flexibility and induces phase transitions in the framework structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption isotherms for N2, Ar, and H2 in NOTT-202a at 195 K exhibit similar stepwise and hysteretic behavior as CO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of temperature in the selective hysteretic sorption of CO2 in NOTT-202a?",
+      "answer": "Temperature controls the selectivity and hysteretic behavior of CO2 sorption by affecting the state of CO2 and the flexibility of the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the observed partial interpenetration in NOTT-202?",
+      "answer": "It represents a new class of porous material with enhanced adsorption properties due to structural vacancies and defects.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The desolvated material NOTT-202a undergoes a significant structural phase transition from NOTT-202.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does NOTT-202a compare to other MOF/ZIF materials in terms of CO2 selectivity at 195 K?",
+      "answer": "NOTT-202a exhibits higher selectivity for CO2 over other gases compared to other MOF/ZIF materials at 195 K.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental technique was used to confirm the microscopic CO2-host ordering in NOTT-202a?",
+      "answer": "In situ powder diffraction studies",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CO2 adsorption/desorption hysteresis in NOTT-202a is observed at all temperatures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the triple point of CO2 in the adsorption behavior of NOTT-202a?",
+      "answer": "The triple point of CO2 distinguishes the temperature ranges where hysteretic or reversible CO2 adsorption behavior is observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of quadrupole moment of CO2 and MOF geometry are crucial for step formation during adsorption process into NOTT-202a.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the observed adsorption steps in the CO2 isotherm of NOTT-202a?",
+      "answer": "The adsorption steps correspond to sequential filling of different pores within the MOF, indicating a unique adsorption mechanism.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of Ar into NOTT-202a shows steps similar to CO2 under the same conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the synthesized material?",
+      "answer": "Zn3(BDC)3·6CH3OH",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the synthesis based on zinc nitrate?",
+      "answer": "35%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the structure determination of the synthesized material?",
+      "answer": "X-ray structure analysis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of coordinatively unsaturated metal centers in the synthesized material?",
+      "answer": "They allow for highly selective binding of incoming guests.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How long did it take for block-shaped crystals of Zn3(BDC)3·6CH3OH to appear?",
+      "answer": "12 days",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the synthesized material?",
+      "answer": "Triclinic",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of coordinatively unsaturated zinc centers in the material's structure?",
+      "answer": "They contribute to the material's ability to selectively bind guests.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the removal of weakly bound and guest methanol molecules affect the material?",
+      "answer": "It creates a porous material with coordinatively unsaturated zinc centers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the XRPD patterns after methanol is reintroduced into the evacuated solid?",
+      "answer": "The XRPD patterns are instantaneously regenerated to match those of the original solid.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the selectivity of the pores towards alcohols and amines suggest about the material?",
+      "answer": "It suggests that the coordinatively unsaturated zinc centers within the pores play a key role in selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of heating the as-synthesized material under vacuum?",
+      "answer": "It removes the guest and weakly bound methanol molecules, resulting in Zn3(BDC)3·2CH3OH.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of coordinatively unsaturated metal centers in 3-D porous frameworks imply for potential applications?",
+      "answer": "It implies potential applications in gas and liquid separations, sensors, and low-temperature catalysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized material's framework stable after the removal of methanol molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized material lose its crystalline structure upon evacuation of methanol?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the inclusion process of the synthesized material be reversed by reintroducing methanol?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesized material's selectivity towards alcohols and amines solely due to steric factors?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all methanol molecules in the synthesized material strongly bound to zinc centers?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized material demonstrate thermal stability up to 335 °C without additional weight loss?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesized material's ability to selectively bind guests unaffected by the removal of methanol?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized material show a preference for the inclusion of benzene over alcohols?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

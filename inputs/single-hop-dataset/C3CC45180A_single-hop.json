@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework discussed?",
+      "answer": "[{Fe(NCS)2}3(C21H15N3)4]·(H2O)10(CH2Cl2)15(C2H5OH)60",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the metal-organic framework exhibit upon certain condition changes?",
+      "answer": "Spin-crossover (SCO) behavior",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity ratio of CO2 to CH4 adsorption at 273 K?",
+      "answer": "13.1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework show higher selectivity for CO2 over N2 or CH4?",
+      "answer": "CO2 over N2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework's spin-crossover behavior is independent of the guest species occluded in the porous framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to activate the as-synthesized sample for gas adsorption measurements?",
+      "answer": "Supercritical CO2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of the activated sample?",
+      "answer": "856.66 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structural units does the framework of the metal-organic framework consist of?",
+      "answer": "Octahedral cage-like secondary building units of M6L4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic properties of the framework are not affected by the solvent in which the sample is immersed.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the transition temperature range observed for the spin-crossover behavior?",
+      "answer": "100-220 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The framework's structure changes during the spin-crossover transition.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the Fe–N bond lengths during the spin-crossover transition?",
+      "answer": "They increase, indicating a change from low-spin to high-spin state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Hydrogen gas adsorption was observed in the framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 1,3,5-tris(4-pyridyl)benzene (TPB) in the framework?",
+      "answer": "It acts as a tritopic pyridyl-based ligand linking the metal units.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework exhibits a type-IV sorption behavior for N2 at 77 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of the activated sample?",
+      "answer": "713.68 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The framework's SCO behavior disappears upon partial desolvation by supercritical CO2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore volume of the activated sample?",
+      "answer": "1.22 cm3 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the framework's SCO behavior change with different solvents?",
+      "answer": "The SCO behavior is profoundly dependent on the nature of the guest(s) and can vanish with certain solvents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework's gas sorption selectivity towards CO2 is due to minimal interaction with H2 molecules.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

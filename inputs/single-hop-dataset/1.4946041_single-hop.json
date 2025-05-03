@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the lanthanide-based metal-organic framework studied?",
+      "answer": "[Nd(C4H5O6)(C4H4O6)][3H2O]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What space group does the metal-organic framework crystallize in?",
+      "answer": "P41212",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the geometry of the Nd centers in the crystal structure?",
+      "answer": "Distorted capped square antiprismatic geometry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the paraelectric-ferroelectric phase transition occur?",
+      "answer": "295 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What semiempirical model was found to be the most accurate for predicting the unit cell structure?",
+      "answer": "Sparkle/PM7 model",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the second dielectric anomaly at 185 K?",
+      "answer": "Freezing down of the motion of the hydroxyl groups",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the ferroelectric phase transition of second order?",
+      "answer": "Yes, the ferroelectric phase transition is of second order.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Sparkle/AM1 model provide the most accurate prediction for the heat of formation?",
+      "answer": "No, the Sparkle/PM7 model provides the most accurate prediction for the heat of formation.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the hydrogen atoms in the structure fixed geometrically?",
+      "answer": "Yes, the hydrogen atoms in the structure are fixed geometrically.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the metal-organic framework exhibit a high transition temperature for ferroelectric ordering?",
+      "answer": "Yes, the metal-organic framework exhibits a high transition temperature for ferroelectric ordering.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the conductivity of the metal-organic framework high?",
+      "answer": "No, the conductivity of the metal-organic framework is small, of the order of 10^-8 S m^-1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Sparkle/RM1 model predict the unit cell parameters with less than 5% error?",
+      "answer": "No, the Sparkle/PM7 model predicts the unit cell parameters with less than 5% error.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of tartrate ligands in the crystal structure?",
+      "answer": "Tartrate ligands act as bridges between Nd atoms, forming a two-dimensional chiral structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the three-dimensional porous framework formed?",
+      "answer": "The three-dimensional porous framework is formed through a hydrogen-bonding scheme, linking the 2D chiral sheets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Sparkle/PM7 model in predicting the geometries of solid MOFs?",
+      "answer": "The Sparkle/PM7 model is significant because it is the most accurate in predicting the unit cell structure and coordination polyhedron geometry of solid MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the calculation of the heat of formation important?",
+      "answer": "The calculation of the heat of formation is important because it is involved in the calculation of various thermodynamic properties and is essential in the design and evaluation of new energy materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the dielectric relaxation observed in the frequency range?",
+      "answer": "The dielectric relaxation observed in the frequency range could be attributed to the dipole orientation motion of hydroxyl groups under an AC field.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the conductivity of the MOF show anomalies at certain temperatures?",
+      "answer": "The conductivity of the MOF shows anomalies at certain temperatures due to the variable range hopping of the polaronic conduction in the complex, arising from the hopping of protons between different localized states.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

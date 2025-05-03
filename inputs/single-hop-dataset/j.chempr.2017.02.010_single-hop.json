@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "A Sensor for Trace H2O Detection in D2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Samuel G. Dunning, Ana J. Nuñez, Matthew D. Moore, Alexander Steiner, Vincent M. Lynch, Jonathan L. Sessler, Bradley J. Holliday, and Simon M. Humphrey",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on the development of a metal-organic framework material, PCM-22, for the detection of trace H2O in D2O and other solvents.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the formula unit of PCM-22 as mentioned in the article?",
+      "answer": "[Ln(tctp) (OH2)3]⋅3(1,4-dioxane)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the synthesis of Ln-PCM-22 materials?",
+      "answer": "Ln-PCM-22 materials are synthesized by reacting deprotonated tctp3− phosphine with Ln(NO3)3 in an aqueous-organic-solvent mixture at 80°C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Gd3+ in the ternary Eu:Gd:Tb-PCM-22 materials?",
+      "answer": "Gd3+ is used as a site dilutant in the ternary Eu:Gd:Tb-PCM-22 materials and is non-emissive in the visible region.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the 'eight-factor' fingerprint obtained for solvent identification using Eu:Gd:Tb-PCM-22 materials?",
+      "answer": "The 'eight-factor' fingerprint is obtained by recording the emission spectra of Eu:Gd:Tb-PCM-22 materials exposed to different solvents, which results in unique spectroscopic profiles for each solvent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique is used to measure the quantum yields of Tb-PCM-22?",
+      "answer": "Quantum yields of Tb-PCM-22 are measured using a Photon Technology International QM 4 spectrophotometer equipped with a 6-inch diameter K Sphere-B integrating sphere.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the hydration number (q) in the context of the article?",
+      "answer": "The hydration number (q) is significant for determining the number of H2O molecules present within the quenching sphere of an emissive Ln3+ ion, which is crucial for understanding the luminescence properties of PCM-22 materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCM-22 capable of detecting trace H2O in D2O?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article provide a method for the rapid identification of unknown solvents using PCM-22 materials?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the luminescence properties of PCM-22 materials affected by the presence of water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the 'eight-factor' fingerprinting method distinguish between chemically similar solvents?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is Gd3+ emissive in the visible region according to the article?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of Ln-PCM-22 materials performed at room temperature?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article claim that PCM-22 materials cannot detect trace H2O in organic solvents?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the article, is the quantum yield of Tb-PCM-22 unaffected by desolvation?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the 'eight-factor' fingerprinting method limited to the detection of H2O in D2O only?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the article, do all Ln-PCM-22 materials have the same crystal structure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission color of Eu:Tb-PCM-22 materials independent of the metal ratio according to the article?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

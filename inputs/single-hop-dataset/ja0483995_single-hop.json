@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the blocking temperature of the single-chain magnet described in the study?",
+      "answer": "Approximately 6 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What precursor was used as the main building block for synthesizing the one-dimensional Ising cyanide-bridged chain?",
+      "answer": "(Bu4N)[(Tp)Fe(CN)3]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of tris(pyrazolyl)hydroborate (Tp) in the synthesis of the one-dimensional Ising cyanide-bridged chain?",
+      "answer": "Tp acts as a protecting group at a heterometal site.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The compound [(Tp)2FeIII2(CN)6Cu(CH3OH)·2CH3OH]n exhibits intrachain ferromagnetic coupling.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to measure the magnetic susceptibility of the compound?",
+      "answer": "Quantum Design MPMS-XL7 SQUID magnetometer",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The positive value of the Weiss constant indicates an antiferromagnetic interaction between the FeIII and CuII ions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the positive value of the Weiss constant indicate about the interaction between FeIII and CuII ions?",
+      "answer": "It indicates a ferromagnetic interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ac magnetic measurements were performed in a static dc field.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the parameter φ = 0.10 in the context of the compound's magnetic properties?",
+      "answer": "It indicates the compound is closer to a normal value for a superparamagnet.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound's magnetic relaxation behavior is similar to that observed in single-molecule magnets.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the absence of even harmonic response in ac susceptibilities suggest about the compound?",
+      "answer": "It supports the low-dimensionality of the compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound [(Tp)2FeIII2(CN)6Cu(CH3OH)·2CH3OH]n is the first copper-containing case showing single-chain-magnet behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the Curie constant value correspond to in the magnetic susceptibility data of the compound?",
+      "answer": "Two isolated low-spin FeIII (S = 1/2) ions and one CuII (S = 1/2) ion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound's structure consists of well-isolated 1D [CuFe2]n chains with a diameter of approximately 1.4 nm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the parameter α = 0.52 indicate in the context of the compound's magnetic properties?",
+      "answer": "It indicates a distribution of relaxation time.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound's magnetic anisotropy originates from its crystal structure.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the orthogonality of the magnetic orbitals in the ferromagnetic interaction between FeIII and CuII ions?",
+      "answer": "It facilitates the ferromagnetic interaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the chemical formula of the compound synthesized in the study?",
+      "answer": "[(Tp)2FeIII2(CN)6Cu(CH3OH)·2CH3OH]n",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does the coercive field of 120 Oe at 1.8 K indicate about the compound?",
+      "answer": "It indicates magnet-type behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compound's behavior at low temperatures is indicative of three-dimensional ordering.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two zinc MOFs based on?",
+      "answer": "A flexible and emissive linker molecule, stilbene.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent was used in the synthesis of the dense 2-D network, 1?",
+      "answer": "N,N-dimethylformamide (DMF).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coordination environment of zinc in the dense structure 1?",
+      "answer": "Zinc in both octahedral and tetrahedral coordination environments.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent and temperature conditions were used to synthesize the porous 3-D framework structure, 2?",
+      "answer": "N,N-diethylformamide (DEF) at temperatures above 100 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main difference in the optical properties of 1 and 2?",
+      "answer": "The stilbene linkers in 1 exhibit a small degree of interchromophore coupling, while in 2, the stilbenoid units display very little interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the emission spectrum of 2 depend on?",
+      "answer": "The nature of the incorporated solvent molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission spectrum of 2 found to be similar to the dicarboxylic acid in dilute solution?",
+      "answer": "Yes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of 1 allow for a limited degree of ligand-ligand interaction?",
+      "answer": "Yes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the luminescence properties of 1 sensitive to solvent exchange?",
+      "answer": "No.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the luminescence from crystals of 2 change upon solvent exchange?",
+      "answer": "Yes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission decay for 2 best fit by a biexponential function?",
+      "answer": "No, it is best fit by a monoexponential function.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission decay of 1 indicate a greater degree of interchromophore coupling compared to 2?",
+      "answer": "Yes.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission spectrum of 2 fully reversible upon solvent exchange?",
+      "answer": "Yes.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the structure of 2 upon complete removal of incorporated solvent?",
+      "answer": "It shows a significant, irreversible red-shift in emission, indicating increased interligand coupling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the emission spectrum of 2 suggest about its structure?",
+      "answer": "It suggests that the structure of 2 is not completely rigid, and nonradiative decay pathways are not fully suppressed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are crystals of 1 air-stable?",
+      "answer": "Yes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission spectrum of 1 change upon changing solvent environment?",
+      "answer": "No.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission spectrum of 2 similar to that of trans-stilbene in dilute solution?",
+      "answer": "Yes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission spectrum of 2 indicate that the stilbene units are rigidified?",
+      "answer": "Yes, it indicates that the stilbene units are rigidified in 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission lifetime of 2 longer than that of trans-stilbene in solution?",
+      "answer": "Yes, it is approximately five times greater.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

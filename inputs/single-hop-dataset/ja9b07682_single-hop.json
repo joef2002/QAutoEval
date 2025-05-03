@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Dynamic Topochemical Reaction Tuned by Guest Molecules in the Nanospace of a Metal–Organic Framework",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author and their email?",
+      "answer": "Ryotaro Matsuda, ryotaro.matsuda@chembio.nagoya-u.ac.jp",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of reactions are described in the article?",
+      "answer": "[2 + 2] photocyclization reactions",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of guest molecules in the described reactions?",
+      "answer": "Guest molecules change the spatial arrangement of 4-styrylpyridines in a flexible metal-organic framework, affecting the reaction outcomes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main obstacle for the practical utilization of topochemical reactions in organic synthesis?",
+      "answer": "The lack of universality is the main obstacle.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The article describes a method to control the reactivity and reaction positions of alkene substrates in a flexible MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Schmidt’s upper threshold distance mentioned in the article?",
+      "answer": "It is the maximum distance (4.1 Å) between two double bonds for the formation of cyclobutanes via [2 + 2] photocyclization.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The article claims that products not favored in solution-phase reactions can be obtained in solid phase.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of incorporating NMP into the MOF structure?",
+      "answer": "It causes the 4-spy molecules to locate far from each other, preventing reaction due to the too long distance between reaction sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article demonstrates the potential of the nanospace of flexible MOFs for precise organic synthesis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of UV-irradiation on the MOF structure according to the article?",
+      "answer": "UV-irradiation leads to a [2 + 2] cyclization reaction occurring in a single-crystal-to-single-crystal manner.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The article provides evidence that different products can be obtained by adding different guest molecules to the MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the article suggest about the flexibility of MOFs?",
+      "answer": "MOFs exhibit flexibility in that their structures can be transformed by external stimuli such as inclusion and exclusion of guest molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article mentions that MOF structures can be chemically modified by photoirradiation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of the theoretical calculations mentioned in the article?",
+      "answer": "Theoretical calculations were performed to determine the appropriate spatial arrangement between molecules for the [2 + 2] photo-cycloaddition reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article discusses the use of gas adsorption measurements to demonstrate the switching of pore function in MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the concept of 'dynamic topochemistry' as described in the article?",
+      "answer": "Dynamic topochemistry refers to the reactivity that can be altered by the dynamic arrangement of reactants within a solid framework, such as a MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The article claims that solid-phase reactions can yield products with high selectivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the [2 + 2] cyclization of alkenes mentioned in the article?",
+      "answer": "It is a representative topochemical reaction where double bonds react under UV light to form cyclobutanes, showcasing the selectivity of solid-phase reactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The article provides a new platform for precise organic synthesis using the nanospace of flexible MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

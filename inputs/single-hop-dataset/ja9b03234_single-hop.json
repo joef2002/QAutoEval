@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical composition of ZIF-4?",
+      "answer": "Zn(imidazolate)2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and under what vacuum conditions was ZIF-4 desolvated?",
+      "answer": "150 °C and 10-3 mbar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What pressure-transmitting medium was used in the high-pressure experiment?",
+      "answer": "Silicone oil (AP100)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of ZIF-4?",
+      "answer": "Pbca",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the relationship between ZIF-4 and ZIF-4-LT in terms of structure?",
+      "answer": "ZIF-4-LT occurs when ZIF-4 is cooled below -130 °C, sharing approximately the same unit cell dimensions and space group.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZIF-4 stable up to 250 °C?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the transition from ZIF-4 to ZIF-4-cp-II involve breaking of chemical bonds?",
+      "answer": "No, it is a displacive transition involving the rotation of the imidazolate linkers.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the bulk modulus of ZIF-hPT-II?",
+      "answer": "21.6(1) GPa",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZIF-4 undergo a phase transition to a denser phase at 0.03 GPa?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference between ZIF-4 and ZIF-4-cp-II?",
+      "answer": "The main difference lies in the orientation of the imidazolate linkers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZIF-4-cp-III's structure reliably determined?",
+      "answer": "No, due to poor data quality.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of ZIF-hPT-II?",
+      "answer": "Double-interpenetrated diamondoid network",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of bIm ligands in ZIF-62 inhibit the recrystallization mechanism observed in ZIF-4?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of crystallite size on the thermodynamic landscape of phase transitions?",
+      "answer": "Crystallite size can significantly affect the thermodynamic landscape, especially when reduced to nanometer scales.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are ZIF-4 and ZIF-62 structurally similar?",
+      "answer": "No, they substantially differ in their high-temperature behavior and phase transitions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of kinetic control in the phase transitions of ZIF-4?",
+      "answer": "Kinetic control can extend the apparent stability of some phases or prevent the formation of certain phases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZIF-4-cp-II energetically more stable than ZIF-4?",
+      "answer": "No, ZIF-4-cp-II is intermediate in energy between ZIF-4 and ZIF-zni despite being the densest structure.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the negative Clapeyron slope in the ZIF-4–a-ZIF-4 transformation?",
+      "answer": "It implies increasing relative densities in the order ZIF-4 < a-ZIF-4 < ZIF-4-cp-II.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ZIF-4 undergo amorphization above 250 °C at ambient pressure?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of pressure-transmitting media on the onset pressures of amorphization?",
+      "answer": "Different types of nonpenetrating pressure-transmitting media can affect the onset pressures of amorphization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

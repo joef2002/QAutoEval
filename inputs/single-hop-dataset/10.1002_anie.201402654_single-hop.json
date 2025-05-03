@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application of 3D printed reactors mentioned in the text?",
+      "answer": "The primary application is for hydrothermal synthesis, including the discovery, optimization, and scale-up of new materials.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What materials were successfully synthesized using 3D printed reactors according to the text?",
+      "answer": "MIL-96, HKUST-1, and two new coordination polymers were successfully synthesized.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum operating temperature mentioned for the 3D printed reactors made from polypropylene (PP)?",
+      "answer": "The maximum operating temperature mentioned is 140 8C.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the design of 3D printed reactors facilitate the introduction of materials?",
+      "answer": "The design allows reactant mixtures to be introduced directly into the reactors during the production process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the advantage of using 3D printing for reactor fabrication mentioned in the text?",
+      "answer": "The advantage is the ability to produce devices of varying scales and geometries, tailored to specific experimental requirements.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can 3D printed reactors be used for solvothermal synthesis?",
+      "answer": "Yes, the text explores the possibility of using 3D printed reactors for solvothermal synthesis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the cost of 3D printed reactors significantly higher than traditional hydrothermal apparatus?",
+      "answer": "False, 3D printed reactors are presented as an economical alternative to traditional apparatus.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do 3D printed reactors require expensive precision-machined steel casings to maintain seals at high pressures?",
+      "answer": "False, the text mentions that no lid is necessary to seal the reactor volume, negating the need for such casings.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the 3D printed reactor arrays in the discovery of new materials?",
+      "answer": "They were used for high-throughput screening of reaction systems to discover two new three-dimensional coordination polymers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the two new coordination polymers discovered using 3D printed reactors?",
+      "answer": "[Cu(L5-2 H)(P3)]n and [Cd(L5-2 H)(P3)]n.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the 3D printing of reactors contribute to the optimization of synthesis processes?",
+      "answer": "It allows for the rapid scanning of synthetic parameter space and optimization of reactant stoichiometries.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are 3D printed reactors capable of producing phase-pure samples of coordination polymers?",
+      "answer": "True, reactors were used to produce phase-pure samples of MIL-96 and HKUST-1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the use of 3D printed reactors limited to small-scale laboratory experiments?",
+      "answer": "False, the text mentions the scale-up of synthesis using larger reactors produced on the same 3D printer.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 5x5 reactor array mentioned in the text?",
+      "answer": "It is suitable for high-throughput screening of 25 simultaneous, discovery-scale reactions per device.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can 3D printed reactors withstand the pressures required for hydrothermal synthesis?",
+      "answer": "True, the design and material of the reactors proved to be sufficient to contain pressures up to 140 8C for periods of upwards of 72 hours.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of 3D printing on the cost of producing hydrothermal reactors?",
+      "answer": "It significantly reduces the cost, making it an economical alternative to traditional hydrothermal apparatus.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the automated nature of 3D printed reactor fabrication benefit high-throughput experiments?",
+      "answer": "It allows minimal user interaction during set-up, making the process more efficient.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the reactors mentioned in the text reusable for multiple experiments?",
+      "answer": "False, the method produces essentially single-use reactors, reducing the possibility of contamination.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary material used for the fabrication of the reactors mentioned in the text?",
+      "answer": "Polypropylene (PP) is the primary material used for the fabrication.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the 3D printing approach allow for the creation of reactors with geometries unavailable in traditional equipment?",
+      "answer": "True, the text mentions the production of reactors containing spherical voids, which do not exist as traditional apparatus.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

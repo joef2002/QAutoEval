@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary feature of UVI materials that suggests their potential as superior X-ray scintillators?",
+      "answer": "The combination of high atomic number and high oxidation state in UVI materials gives rise to both high X-ray attenuation efficiency and intense green luminescence.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the observed luminescence color of SCU-9 under X-ray excitation?",
+      "answer": "Green",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the luminescence intensity of SCU-9 compare with commercially available CsI:Tl?",
+      "answer": "The luminescence intensity of SCU-9 is comparable with that of commercially available CsI:Tl.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of SCU-9 allows it to exhibit very efficient X-ray to green light luminescence conversion?",
+      "answer": "Minimizing the non-radiative relaxation during the X-ray excitation process allows SCU-9 to exhibit very efficient X-ray to green light luminescence conversion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission mechanism of SCU-9 under X-ray excitation identical to that under UV/Vis excitation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quantum yield (QY) of SCU-9, and how does it compare to uranyl nitrate hexahydrate?",
+      "answer": "The quantum yield (QY) of SCU-9 is 58%, which is 1.6 times higher than that of uranyl nitrate hexahydrate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does SCU-9 maintain high crystallinity after exposure to a high-energy radiation field with a received dose of up to 200 kGy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the XEL intensity of SCU-9 and the X-ray power?",
+      "answer": "The XEL intensity of SCU-9 shows a remarkable increase with increased X-ray power.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does SCU-9 exhibit a linear response as a function of X-ray flux intensity?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the normalized XEL intensity of SCU-9 compare to that of NaUBO-4 under the same conditions?",
+      "answer": "The normalized XEL intensity of SCU-9 is three times that of NaUBO-4 under the same conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does SCU-9 have a higher X-ray attenuation efficiency than CsI:Tl in the energy region above 20 keV?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What percentage of its luminescence intensity does SCU-9 maintain after exposure with 53 Gy X-ray radiation?",
+      "answer": "65%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the luminescence of uranyl nitrate salt completely quenched after receiving a 2 Gy dose?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the luminescence output of SCU-9 compare to CsI:Tl after being exposed under varying relative humidities?",
+      "answer": "SCU-9 maintains 80% luminescence intensity after being subjected to 95% relative humidity for 30 minutes, while the XEL of CsI:Tl is nearly quenched.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does SCU-9 possess improved X-ray attenuation efficiency and enhanced radiation resistance compared to CsI:Tl?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of uranyl ions in the luminescence mechanism of SCU-9?",
+      "answer": "Uranyl ions in the SCU-9 matrix are well isolated from each other without concentration quenching, playing a crucial role in the luminescence mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dense framework and inert nature of uranyl carboxylate bonds responsible for SCU-9's good thermal and hydrolytic stability?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the density of SCU-9, and how does it compare to CsI:Tl?",
+      "answer": "The density of SCU-9 is 2.88 g cm@3, significantly lower than that of CsI:Tl, which is 4.51 g cm@3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes uranium a unique candidate for X-ray scintillation?",
+      "answer": "Uranium's high X-ray attenuation efficiency and intrinsically intense green emission make it a unique candidate for X-ray scintillation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Has the potential of uranium in applications other than nuclear fuel been significantly overlooked in the past century?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

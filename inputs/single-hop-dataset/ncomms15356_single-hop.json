@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of metal-organic framework (MOF) research?",
+      "answer": "The main goal of metal-organic framework (MOF) research is the expansion of pore size and volume.",
+      "difficulty_level": "Easy",
+      "type": "Factual"
+    },
+    {
+      "question": "What method is presented in the article for increasing MOF porosity and pore size?",
+      "answer": "The article presents the linker labilization method for increasing MOF porosity and pore size.",
+      "difficulty_level": "Easy",
+      "type": "Factual"
+    },
+    {
+      "question": "Why is the augmentation of MOF pore size to mesoporous range challenging?",
+      "answer": "The augmentation of MOF pore size to mesoporous range is challenging because it is difficult to construct MOFs with precisely customized pore apertures for specific applications.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What is the effect of elongated linkers on MOF framework stability?",
+      "answer": "The elongation of linkers usually weakens the framework stability, leading to fragile MOFs that easily collapse upon the removal of guests.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "What are the two common approaches developed to introduce hierarchical pores in MOFs?",
+      "answer": "The two common approaches developed to introduce hierarchical pores in MOFs are perturbation-assisted synthesis and template directed synthesis.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: Linker labilization creates hierarchically porous structures without maintaining the crystallinity and porosity of MOFs.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pro-labile linker in the linker labilization method?",
+      "answer": "The pro-labile linker is initially constructed with coordinatively saturated clusters and is subsequently labilized by splitting into two removable monocarboxylates under acidic conditions to introduce defects.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The maximum pore size of hierarchical-pore MOFs can be tuned by controlling the pro-labile-linker content and acid concentration.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of creating hierarchical pores in MOFs for applications in adsorption and catalysis?",
+      "answer": "Creating hierarchical pores in MOFs facilitates the diffusion and adsorption process of guest molecules, improving the performances of MOFs in adsorption and catalysis.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: All MOFs with mesoporous range are suitable for the adsorption and separation of larger biomolecules.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with the isoreticular expansion method for increasing MOF pore size?",
+      "answer": "The challenges associated with the isoreticular expansion method include the formation of interpenetrated structures or undesired topologies that restrict pore size and porosity, and weakened framework stability.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The linker labilization method relies on the acid stability of high valence metal-based MOFs to maintain crystallinity and porosity.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the linker labilization method differ from the linker installation method?",
+      "answer": "The linker labilization method is a reverse process to linker installation, where an MOF is initially constructed with a pro-labile linker that is subsequently removed to create defects, unlike the linker installation method that involves incorporating linear linkers or terminal ligands.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The perturbation-assisted synthesis for introducing hierarchical pores in MOFs does not affect MOF crystallinity.",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are highlighted for hierarchically porous MOFs created by linker labilization?",
+      "answer": "The potential applications highlighted for hierarchically porous MOFs include adsorption, separation, and catalysis.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The linker exchange process in the linker labilization method is carried out at high temperatures.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of maintaining single crystallinity in MOFs after linker labilization?",
+      "answer": "Maintaining single crystallinity in MOFs after linker labilization allows for more precise structure characterization and understanding of structure-property correlation.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The linker labilization method cannot introduce defects in MOFs with coordinatively unsaturated metal sites.",
+      "answer": "False",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the linker labilization method improve the performance of MOFs in adsorption and catalysis?",
+      "answer": "The linker labilization method improves the performance of MOFs in adsorption and catalysis by creating controllable hierarchical porous structures that allow for efficient diffusion of guests throughout the framework.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The mesopores created by the linker labilization method are a result of crystal defects introduced through the removal of linker fragments.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    }
+  ]
+}

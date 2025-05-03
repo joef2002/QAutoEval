@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of MIL-88B?",
+      "answer": "The chemical formula of MIL-88B is [Fe3(m3-O)(bdc)3X(H2O)2].",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of reactions does MIL-88B facilitate for organonitrile, alkyne, and alkene monomers?",
+      "answer": "MIL-88B facilitates [2 + 2 + 2] coordination templated cyclotrimerization reactions for organonitrile, alkyne, and alkene monomers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is MIL-88B capable of catalyzing the trimerization reactions involving monomers with unsuitable coordination sites and molecular geometry?",
+      "answer": "No, MIL-88B is not capable of catalyzing the trimerization reactions involving monomers with unsuitable coordination sites and molecular geometry.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of open metal sites in MIL-88B during the cyclotrimerization reactions?",
+      "answer": "The open metal sites in MIL-88B act as coordination templates to fix guest molecules in a configuration suitable for the cyclotrimerization reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What changes occur in the framework flexibility and gas adsorption performance of MIL-88B after the cyclotrimerization reactions?",
+      "answer": "After the cyclotrimerization reactions, the framework of MIL-88B becomes more rigid and its gas adsorption performance drastically improves.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MIL-88B undergo significant solvent-induced breathing?",
+      "answer": "Yes, MIL-88B can undergo significant solvent-induced breathing.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the topology of the coordination networks in the product crystals obtained by the cyclotrimerization reactions?",
+      "answer": "The coordination networks in the product crystals have a binodal (3,9)-connected nia-d topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the CTC reaction on the unit-cell volume of MIL-88B?",
+      "answer": "The CTC reaction causes the unit-cell volume of MIL-88B to increase significantly.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MIL-88B stable up to 400°C?",
+      "answer": "Yes, MIL-88B is stable up to 400°C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrofluoric acid in the synthesis of large single crystals of MIL-88B?",
+      "answer": "Hydrofluoric acid is used to replace the conventionally used NaOH reactant in the synthesis of large single crystals of MIL-88B.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

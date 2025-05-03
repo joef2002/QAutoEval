@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research article?",
+      "answer": "The primary focus of the research article is on noncryogenic air separation using Aluminum Formate, Al(HCOO)3 (ALF), and its synthesis, characterization, and application in oxygen-enriched gas streams creation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used for the synthesis of Al(HCOO)3?",
+      "answer": "The synthesis of Al(HCOO)3 involves refluxing formic acid and aluminium hydroxide at 100 °C for 48 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How is the as-made Al(HCOO)3 activated to ALF?",
+      "answer": "The as-made Al(HCOO)3 is activated to ALF by heating at 150 °C under high vacuum or in air at 180 °C for 24 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using a Sieverts apparatus in the study?",
+      "answer": "The Sieverts apparatus is used for volumetric gas adsorption measurements to study the adsorption behavior of gases like O2 and N2 on ALF and ALF-Fe.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method is employed to understand the O2 adsorption mechanism in Al(HCOO)3?",
+      "answer": "Density Functional Theory (DFT) calculations are performed to understand the O2 adsorption mechanism in Al(HCOO)3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research includes the study of ALF-Fe as a variant of ALF for air separation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Qst values obtained from the study?",
+      "answer": "The Qst values are significant as they provide insights into the heat of adsorption for O2 in ALF, indicating the efficiency and selectivity of ALF for O2 adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the breakthrough selectivity for O2/N2 separation calculated?",
+      "answer": "Breakthrough selectivity for O2/N2 separation is calculated using the equilibrium concentration of O2 and N2 in the gas phase and in the adsorbent.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that ALF has higher O2/N2 sorption selectivity compared to other MOF adsorbents without open metal sites.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the Cr3+ contaminant play in the study?",
+      "answer": "The Cr3+ contaminant, though unintended, proves to be useful for monitoring oxygen adsorption due to its photoluminescence properties and the quenching effect of paramagnetic O2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study includes kinetic studies on both ALF and ALF-Fe for O2 adsorption.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of particle size on the air separation performance of ALF?",
+      "answer": "The study investigates the effect of particle size on the air separation performance of ALF, showing that different particle sizes can influence the breakthrough curves of O2/N2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study uses Raman spectroscopy and X-ray diffraction to characterize the adsorption behavior of ALF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using neutron powder diffraction in the study?",
+      "answer": "Neutron powder diffraction is used to observe the behavior of ALF at the atomic level upon O2 adsorption, providing detailed insights into the structural changes and adsorption sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study proposes a chemical strategy for improving the kinetics of O2 adsorption using metal substitution in ALF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the study validate the metal composition in ALF and ALF-Fe?",
+      "answer": "The study validates the metal composition in ALF and ALF-Fe using induced coupled plasma spectroscopy (ICP-MS) analysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the empirical fit (EF) model used in the kinetic studies?",
+      "answer": "The empirical fit (EF) model is significant as it provides a better fit to the adsorption kinetics data for O2 and N2 in ALF and ALF-Fe, compared to traditional kinetic models.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study includes adsorption isotherms for O2 at various temperatures to evaluate the performance of ALF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges does the study address in the context of air separation technologies?",
+      "answer": "The study addresses the challenges of creating oxygen-enriched gas streams using noncryogenic methods and explores the potential of ALF and ALF-Fe as efficient and selective adsorbents for O2 over N2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study explores the potential application of ALF in mitigating oxygen shortages during medical emergencies.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

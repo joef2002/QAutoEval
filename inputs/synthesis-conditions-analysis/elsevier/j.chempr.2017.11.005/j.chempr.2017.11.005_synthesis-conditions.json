@@ -1,0 +1,62 @@
+{
+  "materials": [
+    {
+      "name": "Fe-soc-MOF-1 (1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Iron(III) chloride hexahydrate (FeCl3∙6H2O)",
+            "amount": "0.03 mmol in 0.3 mL DMF"
+          },
+          {
+            "name": "3,3'',5,5''-tetrakis(4-carboxyphenyl)-p-terphenyl (H4TCPT)",
+            "amount": "7.1 mg (0.01 mmol)"
+          },
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "Acetonitrile",
+            "amount": "1 mL"
+          },
+          {
+            "name": "Dilute nitric acid solution in DMF",
+            "amount": "3.5 M, 1.5 mL"
+          }
+        ],
+        "procedure": "Mixed and sonicated, then heated at 115°C for 3 days.",
+        "equipment": "20 mL scintillation vial, preheated oven",
+        "washing_method": "Washed 4-5 times with DMF",
+        "yield": "Small orange-yellow cube-shaped crystals"
+      }
+    },
+    {
+      "name": "Cr-soc-MOF-1 (2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "name": "Fe-soc-MOF-1 crystals",
+            "amount": "25 mg"
+          },
+          {
+            "name": "Chromium(II) chloride anhydrous (CrCl2)",
+            "amount": "150 mg in 3 mL DMF"
+          }
+        ],
+        "procedure": "Fe-soc-MOF-1 crystals washed with acetonitrile and acetone, then reacted with CrCl2 solution under inert atmosphere at 115°C for 20 hours.",
+        "equipment": "20 mL scintillation vial, inert atmosphere glove box",
+        "washing_method": "Washed 4-5 times with DMF",
+        "yield": "Dark green Cr-soc-MOF-1 single crystals"
+      }
+    },
+    {
+      "name": "Water Sorption Experiments",
+      "synthesis_conditions": {
+        "equipment": "VTI-SA vapor sorption analyzer",
+        "procedure": "Sample activated at 120°C for 8 hours, then water adsorption isotherms collected at 298 K within a range of 0% - 90% RH.",
+        "notes": "Dry mass measured under N2 before introducing water vapor."
+      }
+    }
+  ]
+}

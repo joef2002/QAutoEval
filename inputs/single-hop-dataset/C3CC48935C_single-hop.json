@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the chiral metal-organic framework synthesized?",
+      "answer": "[FeII(mptpy)2](cid:2)EtOH(cid:2)0.2DMF (1(cid:2)solv)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the magnetic susceptibilities of the synthesized sample measured?",
+      "answer": "2000 Oe",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the supramolecular enantiomeric nature of 1(cid:2)solv?",
+      "answer": "Solid-state circular dichroism (CD) spectroscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical temperature (Tc1) for the first step of the spin crossover behavior?",
+      "answer": "200 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two potential chiral coordination modes of Fe in the formula Fe(mptpy)2?",
+      "answer": "Red and green",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using a Jasco CDF-426S thermo controller in the experiment?",
+      "answer": "For variable-temperature CD spectra from 278 K to 373 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of two peaks in the DSC measurement indicate?",
+      "answer": "The second step transition and the loss of guest molecules",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were the guests in the 3D framework not well refined in crystallographic analysis?",
+      "answer": "Because the guests were disordered and could not be well refined",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the addition of ethylene glycol affect the yield of 1∙solv?",
+      "answer": "It increases the yield of 1∙solv to 63% but results in much smaller crystals",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the variable temperature Raman experiment indicate about the structural rearrangement?",
+      "answer": "It indicates the possibility of synergetic structural rearrangement of the whole lattice",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the blue shift observed in the Raman spectra?",
+      "answer": "It is consistent with the two-step SCO behavior",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of a plateau in the magnetic susceptibility data suggest?",
+      "answer": "An approximately 50% distribution of the HS and LS states",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework of 1∙solv stable up to 653 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of 1∙solv involve spontaneous resolution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the chiral SCO material based on 1∙solv expected to have nondestructive readout properties?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the desolvated sample 1 exhibit the same SCO behavior as 1∙solv?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Fe–Naverage bond length increase from 150 K to 373 K indicative of a transition from HS to LS state?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the TG analysis show decomposition of the framework before 735 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the bulk sample of 1∙solv a racemic mixture?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the guests in the 3D framework well defined in the crystallographic analysis?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

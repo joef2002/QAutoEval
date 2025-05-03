@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI of the study on single-chain magnets?",
+      "answer": "10.1002/anie.200702648",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the potential applications of single-chain magnets (SCMs) mentioned?",
+      "answer": "Information storage and quantum computation at a molecular level.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The interaction between the spin carriers within the chain can only be ferromagnetic.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What types of ions are mentioned as widely used anisotropic sources in the design of SCMs?",
+      "answer": "MnIII, FeII/III, CoII, and lanthanide ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of oximato ligands in the study?",
+      "answer": "To create polynuclear compounds that show SMM behavior.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study introduced a step-by-step synthetic strategy for linking SMM building blocks by covalent bonds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of uniaxial anisotropy in the design of SCMs?",
+      "answer": "It is a critical prerequisite for the design of SCMs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the magnetic property of compound 1 change from 300 K to 2 K?",
+      "answer": "The cMT value per Mn3 unit decreases from 8.56 cm3 mol-1 K at 300 K to 2.49 cm3 mol-1 K at 2 K.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The azide-bridged Mn···Mn distance in compound 3 is longer than the formate-bridged distance in compound 2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the temperature-dependent dc susceptibility of compound 2 indicate about its magnetic behavior?",
+      "answer": "It shows a similar behavior to compound 1, following Curie–Weiss behavior above 10 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The introduction of an azido bridge in compound 3 resulted in a decrease in magnetic coupling compared to compound 2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed behavior of the ac susceptibility data for compound 2 below 4.5 K?",
+      "answer": "It shows a strong frequency-dependence, indicating slow relaxation of the magnetization.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ac susceptibility data for compound 3 in the temperature range 1.8–12 K indicates the presence of three-dimensional long-range ordering.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the shift of the peak temperature (Tp) of c’ for compound 2 quantify as?",
+      "answer": "f = 0.16",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic properties of compounds 1–3 were studied using a Quantum Design MPMS XL-5 SQUID magnetometer.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of replacing the apical Cl- ion by formate in the synthesis of compound 2?",
+      "answer": "It gives the chain-like complex [Mn3O(tBu-sao)3(HCOO)-(CH3OH)4]·CH3OH·0.5 H2O.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The JT axes of all three MnIII ions in compound 1 are not parallel.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the azido bridge in compound 3 compared to the formate bridge in compound 2?",
+      "answer": "The azido bridge results in a stronger magnetic coupling and a different magnetic behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of competing antiferromagnetic interactions in the compounds often result in?",
+      "answer": "It usually results in a net magnetic moment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study reports the synthesis of two chain compounds using formato and azido anions as bridges.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

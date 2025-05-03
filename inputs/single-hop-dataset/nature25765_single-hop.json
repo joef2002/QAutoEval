@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Cu-S-M9?",
+      "answer": "C15H52B40Cu4S4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what pressure does Cu-S-M9 start to show irreversible structural change according to in situ XRD?",
+      "answer": "Beyond 8 GPa",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the average size of the Cu nanoclusters determined by the size of the starting crystal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sulfur in the pressure-driven mechanochemical reaction of Cu-S-M9?",
+      "answer": "Sulfur serves as the reducing agent, forming an oxidized species.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does heating Cu-S-M9 to 400 °C under vacuum yield elemental copper?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the Cu(i) in Cu-S-M9 under hydrostatic pressure?",
+      "answer": "Cu(i) is reduced to Cu(0)",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the lattice spacing consistent with the [111] spacing of face-centred cubic copper observed in TEM images after compression?",
+      "answer": "2.08 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the reactivity of the Cu-S-M9 system temperature-dependent?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What indicates the formation of elemental copper in the Cu-S-M9 system under pressure?",
+      "answer": "Transmission electron microscopy images showing crystalline nanoclusters with lattice spacing of 2.08 Å.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compression of Cu-S-Ada to 20 GPa result in the formation of elemental copper clusters?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of adamantyl groups in the Cu-S-Ada system under hydrostatic pressure?",
+      "answer": "The adamantyl groups impede relative movement and deformation of the Cu–S mechanophore.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the configuration of the diamondoid sidegroups in Ag-S-mDia?",
+      "answer": "Cis configuration",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the trans configuration in Ag-S-Ada facilitate the relative sliding of the two Ag–S chains?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the predicted outcome of the mechano-reactivity in Ag-S-Ada under hydrostatic pressure?",
+      "answer": "The reduction of Cu(i) by sulfur observed in Cu-S-M9 would be hindered in Cu-S-Ada.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of both silver and sulfur in EDS of a sample compressed to 20 GPa indicate?",
+      "answer": "It indicates the composition of the pristine Cu-S-Ada is preserved.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the deformation observed in Cu-S-Ada after compression to 20 GPa reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the formation of elemental silver by hydrostatic compression in Ag-S-mDia demonstrate?",
+      "answer": "It demonstrates that steric effects control the deformation and associated reactivity in one-dimensional MOCs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the molecular anvils more atomic-efficient compared to polymeric mechanochemical systems?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the decrease in the Cu(i) peak intensity at 8–13 GPa indicate?",
+      "answer": "It indicates the reduction of Cu(i) to form metallic Cu(0).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the absence of satellite peaks in the Cu 2p X-ray photoelectron spectroscopy of compressed Cu-S-M9?",
+      "answer": "It excludes the formation of Cu(ii) species.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

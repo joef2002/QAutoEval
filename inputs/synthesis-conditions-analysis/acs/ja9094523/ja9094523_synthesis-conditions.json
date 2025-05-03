@@ -1,0 +1,266 @@
+{
+  "materials": [
+    {
+      "name": "Zn-1",
+      "conditions": {
+        "temperature": "90 K",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "ratio": "2:1",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "tetrazole ligand",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "crystal_data": {
+          "chemical_formula": "C28H22N8O6Zn",
+          "Mr": "631.91",
+          "cell_setting": "Monoclinic, C2/c",
+          "temperature": "90 (2) K",
+          "a_b_c": "43.572 (4), 5.0329 (5), 12.2533 (11)",
+          "beta": "105.356 (2)",
+          "V": "2591.1 (4) Å3",
+          "Z": "4",
+          "Dx": "1.620 Mg m–3",
+          "radiation_type": "Mo Kα",
+          "mu": "1.01 mm–1",
+          "crystal_size": "0.05 × 0.02 × 0.01 mm"
+        }
+      }
+    },
+    {
+      "name": "Zn-2",
+      "conditions": {
+        "temperature": "90 K",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "ratio": "2:1",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "tetrazole ligand",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "crystal_data": {
+          "chemical_formula": "C28H20N10O4Zn",
+          "Mr": "625.91",
+          "cell_setting": "Monoclinic, C2/C",
+          "temperature": "90 (2) K",
+          "a_b_c": "17.751 (7), 6.019 (2), 23.625 (9)",
+          "beta": "90.990 (10)",
+          "V": "2523.6 (17) Å3",
+          "Z": "4",
+          "Dx": "1.647 Mg m–3",
+          "radiation_type": "Mo Kα",
+          "mu": "1.03 mm–1",
+          "crystal_size": "0.08 × 0.02 × 0.01 mm"
+        }
+      }
+    },
+    {
+      "name": "Zn-3",
+      "conditions": {
+        "temperature": "90 K",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "ratio": "2:1",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "tetrazole ligand",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "crystal_data": {
+          "chemical_formula": "C15H10N4O5Zn",
+          "Mr": "391.64",
+          "cell_setting": "Monoclinic, p2/C",
+          "temperature": "90 (2) K",
+          "a_b_c": "16.3473 (10), 6.2913 (4), 7.0714 (4)",
+          "beta": "95.929 (2)",
+          "V": "723.37 (8) Å3",
+          "Z": "2",
+          "Dx": "1.798 Mg m–3",
+          "radiation_type": "Mo Kα",
+          "mu": "1.74 mm–1",
+          "crystal_size": "0.02 × 0.01 × 0.01 mm"
+        }
+      }
+    },
+    {
+      "name": "Zn-4",
+      "conditions": {
+        "temperature": "90 K",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "ratio": "2:1",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "tetrazole ligand",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "crystal_data": {
+          "chemical_formula": "C15H14N6O4Zn",
+          "Mr": "407.69",
+          "cell_setting": "Monoclinic, p21/C",
+          "temperature": "90 (2) K",
+          "a_b_c": "6.0952 (11), 10.4482 (19), 25.943 (5)",
+          "beta": "102.915 (4)",
+          "V": "1610.3 (5) Å3",
+          "Z": "4",
+          "Dx": "1.682 Mg m–3",
+          "radiation_type": "Mo Kα",
+          "mu": "1.56 mm–1",
+          "crystal_size": "0.14 × 0.06 × 0.03 mm"
+        }
+      }
+    },
+    {
+      "name": "Zn-5",
+      "conditions": {
+        "temperature": "90 K",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "ratio": "2:1",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "tetrazole ligand",
+            "amount": "0.05 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "crystal_data": {
+          "chemical_formula": "C18H26N8O12Zn",
+          "Mr": "611.84",
+          "cell_setting": "Monoclinic, P21/n",
+          "temperature": "90 (2) K",
+          "a_b_c": "12.4251  (9),  5.2084  (4),  19.7678 (14)",
+          "beta": "106.999 (2)",
+          "V": "1223.38 (16) Å3",
+          "Z": "2",
+          "Dx": "1.661 Mg m–3",
+          "radiation_type": "Mo Kα",
+          "mu": "1.08 mm–1",
+          "crystal_size": "0.20 × 0.14 × 0.08 mm"
+        }
+      }
+    },
+    {
+      "name": "Zn-6",
+      "conditions": {
+        "temperature": "90 K",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "ratio": "2:1",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "Zn(NO3)2",
+            "amount": "0.05 mmol"
+          },
+          {
+            "name": "tetrazole ligand",
+            "amount": "0.05 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "crystal_data": {
+          "chemical_formula": "C18H24N10O12Zn",
+          "Mr": "637.84",
+          "cell_setting": "Triclinic, P-1",
+          "temperature": "90 (2) K",
+          "a_b_c": "7.2682 (4), 7.2725 (4), 12.8156 (7)",
+          "alpha_beta_gamma": "86.8060 (10), 84.0820 (10), 63.8670 (10)",
+          "V": "604.88 (6) Å3",
+          "Z": "1",
+          "Dx": "1.751 Mg m–3",
+          "radiation_type": "Mo Kα",
+          "mu": "1.10 mm–1",
+          "crystal_size": "0.06 × 0.04 × 0.02 mm"
+        }
+      }
+    },
+    {
+      "name": "3",
+      "conditions": {
+        "temperature": "90 K",
+        "solvents": [
+          {
+            "name": "MeOH/H2O",
+            "ratio": "2:1",
+            "amount": "6 mL"
+          }
+        ],
+        "chemicals": [
+          {
+            "name": "tetrazole ligand",
+            "amount": "0.1 mmol"
+          }
+        ],
+        "time": "2 weeks",
+        "crystal_data": {
+          "chemical_formula": "C15H16N6O4",
+          "Mr": "344.34",
+          "cell_setting": "Monoclinic, Cc",
+          "temperature": "90 (2) K",
+          "a_b_c": "35.228 (9), 3.8237 (10), 11.805 (3)",
+          "beta": "99.783 (3)",
+          "V": "1567.0 (7) Å3",
+          "Z": "4",
+          "Dx": "1.460 Mg m–3",
+          "radiation_type": "Mo Kα",
+          "mu": "0.11 mm–1",
+          "crystal_size": "0.08 × 0.08 × 0.01 mm"
+        }
+      }
+    }
+  ]
+}

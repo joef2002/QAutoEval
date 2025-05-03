@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the study?",
+      "answer": "Multi-stimuli-engendered radical-anionic MOFs: Visualization of structural transformation upon radical formation",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the study?",
+      "answer": "Seonghun Park, Juhyung Lee, Hwakyeung Jeong, Sangeun Bae, Joongoo Kang, Dohyun Moon, Jinhee Park",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the study?",
+      "answer": "The study focuses on the development of a metal-organic framework (MOF) that undergoes structural transformation upon radical formation, triggered by various stimuli such as heat, X-rays, and ultraviolet, visible, and infrared light.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What stimuli can trigger the reduction of the NDI moieties to the radical-anionic state in 75-DGIST-4?",
+      "answer": "Heat, X-rays, ultraviolet, visible, and infrared light can trigger the reduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to confirm the formation of the organic radical species, NDI·−?",
+      "answer": "Electron paramagnetic resonance (EPR) spectroscopy was used to confirm the formation of NDI·−.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using dangling benzoate (BA) as an auxiliary ligand in the study?",
+      "answer": "Dangling benzoate (BA) as an auxiliary ligand facilitated the structural transformation during the X-ray-induced reduction of the NDI moiety and helped stabilize the radical-anionic state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the photothermal conversion efficiency of IR-reduced 75-DGIST-4 compare to that of 150-DGIST-4?",
+      "answer": "The photothermal conversion efficiency of IR-reduced 75-DGIST-4 is as high as that of 150-DGIST-4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational method was used in the study?",
+      "answer": "Density functional theory (DFT) calculations were performed to understand the origin of the significant rotation of BA upon radical formation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the study's metal-organic framework (MOF) responsive to infrared light?",
+      "answer": "Yes, the study's metal-organic framework (MOF) is responsive to infrared light.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the presence of dangling BA as an auxiliary ligand did not facilitate structural transformation during the X-ray-induced reduction of the NDI moiety?",
+      "answer": "False, the presence of dangling BA as an auxiliary ligand did facilitate structural transformation during the X-ray-induced reduction of the NDI moiety.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the radical-anionic state of 150-DGIST-4 found to be unstable in the study?",
+      "answer": "False, the radical-anionic state of 150-DGIST-4 was found to be stable.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study's MOF exhibit photochromic properties?",
+      "answer": "True, the study's MOF exhibits photochromic properties.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study's MOF found to be unresponsive to heat as a stimulus?",
+      "answer": "False, the study's MOF was found to be responsive to heat as a stimulus.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study conclude that no structural transformation occurs upon radical formation in the MOF?",
+      "answer": "False, the study concluded that structural transformation does occur upon radical formation in the MOF.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the study's MOF capable of undergoing a single-crystal-to-single-crystal transformation?",
+      "answer": "True, the study's MOF is capable of undergoing a single-crystal-to-single-crystal transformation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study's MOF found to be ineffective for photothermal conversion?",
+      "answer": "False, the study's MOF was found to be effective for photothermal conversion.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study's MOF require additional electron-donating guests for radical-anionic state formation?",
+      "answer": "False, the study's MOF does not require additional electron-donating guests for radical-anionic state formation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the study's MOF found to be non-responsive to X-ray irradiation?",
+      "answer": "False, the study's MOF was found to be responsive to X-ray irradiation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the presence of dangling BA as an auxiliary ligand hindered the stabilization of the radical-anionic state?",
+      "answer": "False, the presence of dangling BA as an auxiliary ligand helped stabilize the radical-anionic state.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the study's MOF found to be responsive to ultraviolet light?",
+      "answer": "True, the study's MOF is responsive to ultraviolet light.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

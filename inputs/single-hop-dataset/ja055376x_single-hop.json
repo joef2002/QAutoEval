@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study described in the article?",
+      "answer": "The main focus of the study is the one-dimensional assembly of chalcogenide nanoclusters with bifunctional covalent linkers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What types of ligands are used as directional linkers in the assembly of chalcogenide nanoclusters?",
+      "answer": "Bifunctional ligands, specifically different types of bipyridines, are used as the directional linkers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the integer 'q' in the notation COV-q?",
+      "answer": "The integer 'q' indicates a particular structure type in the notation COV-q.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Under what conditions were all the materials reported in the study synthesized?",
+      "answer": "All materials were synthesized under solvothermal conditions between 85 and 150 °C.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the terminal pyridyl group in the COV-1 (Cd32S14(SPh)36L4) cluster?",
+      "answer": "The terminal pyridyl group acts as a ligand in the COV-1 cluster.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the maximum absorption wavelength change with the size of the clusters used as building blocks?",
+      "answer": "The maximum absorption wavelength is red-shifted to longer wavelengths when larger clusters are used as building blocks.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What determines the optical properties of the materials in the study?",
+      "answer": "The optical properties of the materials are determined by the size of the semiconducting nanoclusters used as building blocks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why are Cd-17 and Cd-8 clusters only able to form singly bridged chains?",
+      "answer": "Cd-17 and Cd-8 clusters can only form singly bridged chains because they use only two corners for cross-linking due to their -2 charge.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of using different lengths and rigidity of organic ligands in the assembly process?",
+      "answer": "Using organic ligands of various lengths and rigidity allows for the creation of organized nanocluster-ligand structures through synthetic design.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the assembly of Cd-32 clusters differ in COV-1 and COV-2?",
+      "answer": "In COV-1, Cd-32 clusters are joined through two TMDPy ligands into doubly bridged chains, while in COV-2, they are joined through one TMDPy molecule into singly bridged chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What causes the red-shift in optical absorption for the materials?",
+      "answer": "The red-shift in optical absorption is caused by the use of larger clusters as building blocks, leading to longer wavelength absorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is COV-2 the only covalent superstructure containing separate cationic and anionic components?",
+      "answer": "COV-2 contains separate cationic and anionic components because the replacement of only two -SPh corners by neutral ligands decreases the charge on each Cd-32 cluster from -4 to -2, requiring void space to accommodate charge-balancing cations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is COV-4 based on Cd-8 clusters?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all materials synthesized at temperatures above 150 °C?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study use monofunctional ligands for the assembly of nanoclusters?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the maximum absorption wavelength for COV-3 CdS−BPy shorter than that for COV-4 CdS-TMDPy?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the optical properties of the materials independent of the cluster size?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do Cd-17 clusters in COV-3 use rigid 4,4‘-bipyridine (BPy) as the bridging ligand?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the C2,1 cluster in COV-1 characterized by having two barrelanoid cages rotated?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

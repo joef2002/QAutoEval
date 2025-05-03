@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the dielectric constant of compound 1?",
+      "answer": "38.6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize compound 1?",
+      "answer": "Hydrothermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is compound 1 considered a high dielectric material?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the remnant polarization (Pr) of compound 1?",
+      "answer": "0.38 μC·cm-2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature and duration were used in the hydrothermal reaction to synthesize compound 1?",
+      "answer": "110 °C for 2 days",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 1 exhibit ferroelectric behavior?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the approximate SHG response of compound 1 compared to KDP?",
+      "answer": "10 times that of KDP",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coercive field (Ec) of compound 1?",
+      "answer": "2.10 kV·cm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the relaxation process in compound 1 associated with dipolar Cd−Cl bond vibration?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of compound 1?",
+      "answer": "C c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the activation energy (H) estimated from the relaxation process of compound 1?",
+      "answer": "1.96 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 1 crystallize in a polar point group?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using CdCl2 in the synthesis of compound 1?",
+      "answer": "As a Lewis acid catalyst",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dielectric loss of compound 1 frequency-dependent?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NaN3 in the synthesis of compound 1?",
+      "answer": "To form tetrazoyl group through in situ (2+3) cycloaddition",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 1 have a 3D framework?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of compound 1's noncentric space group for its ferroelectric properties?",
+      "answer": "It allows compound 1 to exhibit ferroelectric behavior due to its polar point group",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of the electric hysteresis loop measurement for compound 1?",
+      "answer": "It shows a typical ferroelectric feature with a remnant polarization and coercive field",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 1 be used in applications requiring high dielectric constant materials?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a dipole relaxation process in compound 1 indicate about its dielectric properties?",
+      "answer": "It suggests that dielectric loss changes with temperature at different frequencies",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

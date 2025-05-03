@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of MOF 1?",
+      "answer": "C48H27O16Zn4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the absorption correction of single-crystal XRD data for compound 1?",
+      "answer": "Semi-empirical from equivalents",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MOF 1?",
+      "answer": "I2(1)3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the single-crystal XRD data for compound 1 collected?",
+      "answer": "123(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Zn/Li ratio in the lithiated MOF catalyst 1-Li?",
+      "answer": "~2.6:1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the enantiomeric excess (ee) of the cyanation product change when using 0.5 mol% of (R)-1-Li compared to 1 mol% of (R)-Me4L-Li?",
+      "answer": "The ee is higher with 0.5 mol% of (R)-1-Li.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of MOF 1 remains intact after adsorption of methyl orange dye.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The BET surface area of 1-Li is higher than that of the pristine MOF 1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of recycling the 1-Li catalyst on the enantiomeric excess (ee) of the cyanation product?",
+      "answer": "The ee remains consistent across multiple cycles.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD pattern of the post-modified sample 1-Li2 matches exactly with the simulated PXRD of MOF 1.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of (S)-bufuralol synthesized using the (R)-MOF catalyst?",
+      "answer": "95%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CO2 adsorption capacity of 1-Li is greater than that of the pristine MOF 1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water in the catalytic cyanation of aldehydes using 1/n-BuLi?",
+      "answer": "Water acts as a coactivator.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The catalytic activity of 1-Li is unaffected by the presence of water.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of decreasing the catalyst/substrate (C/S) ratio from 1:100 to 1:1000 on the catalytic performance of 1-Li?",
+      "answer": "The catalytic performance improves at a lower C/S ratio.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural integrity of MOF 1 is compromised after lithiation to form 1-Li.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of recycling the 1-Li catalyst on its CO2 adsorption capacity?",
+      "answer": "The CO2 adsorption capacity decreases slightly after recycling.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of (S)-bufuralol using the (R)-MOF catalyst results in a product with 99% enantiomeric excess.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the catalyst loading on the conversion rate in the cyanation of aldehydes?",
+      "answer": "Higher catalyst loading generally leads to higher conversion rates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD pattern of MOF 1 changes significantly after dye adsorption.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

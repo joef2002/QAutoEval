@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of the study conducted by Aaron L. Featherston and colleagues?",
+      "answer": "The main goal of the study was to report the catalytic stereocontrolled synthesis of dinucleotides, demonstrating for the first time the control of the formation of stereogenic phosphorous centers during phosphoramidite transfer using chiral phosphoric acid (CPA) catalysts.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are cyclic dinucleotides (CDNs) and why are they important?",
+      "answer": "Cyclic dinucleotides (CDNs) are a class of macrocyclic natural products with profound biological significance, known to elicit an immune response through activation of the stimulator of interferon genes (STING) protein, making them of interest in immuno-oncology as agonists of the STING pathway.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What challenge does the synthesis of phosphorothioate (PS)-modified CDNs present?",
+      "answer": "The synthesis of PS-modified CDNs presents the challenge of chemical complexity due to the permutation of the phosphodiester linkage to a phosphorothioate (PS), rendering the central phosphorus atoms stereogenic and leading to four possible diastereomers with different biological activities and physical properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What novel approach did the researchers use for the synthesis of P-stereogenic nucleotide derivatives?",
+      "answer": "The researchers used a novel catalytic approach for the synthesis of P-stereogenic nucleotide derivatives, employing chiral phosphoric acid (CPA)-mediated couplings to access stereodefined dinucleotides in a stereocontrolled manner.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How did the researchers achieve diastereodivergence in their catalytic process?",
+      "answer": "The researchers achieved diastereodivergence in their catalytic process by using two distinct catalyst scaffolds: peptide-embedded phosphothreonine-derived CPAs, which amplified the inherent substrate preference, and C2-symmetric BINOL-derived CPAs, which completely overturned this stereochemical preference.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the catalytic asymmetric phosphitylation developed in this study?",
+      "answer": "The significance of the catalytic asymmetric phosphitylation developed in this study lies in its ability to harness readily available phosphoramidites for the stereocontrolled synthesis of P-stereogenic compounds, offering a robust and selective process to access stereopure cyclic nucleotides and antisense oligonucleotides.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study by Aaron L. Featherston and colleagues marks the first reported instance of catalytic asymmetric transfer of P(III) phosphoramidites.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method did the researchers use to determine the relative stereochemical configuration of the synthesized CDNs?",
+      "answer": "The researchers determined the relative stereochemical configuration of the synthesized CDNs by measuring the HPLC elution order and comparing it with previous work, allowing them to infer the selection of (RP)-configured or (SP)-configured phosphorothioate by the catalysts used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The catalytic method developed in this study does not require stoichiometric activators or chiral auxiliaries.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential does the catalytic asymmetric synthesis approach have for the field of oligonucleotide therapeutics?",
+      "answer": "The catalytic asymmetric synthesis approach has the potential to streamline the production of stereopure cyclic nucleotides and antisense oligonucleotides, offering a more efficient and selective method for the synthesis of therapeutically relevant nucleotide derivatives with controlled stereochemistry at phosphorus.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is the unexpected diffusion anisotropy of carbon dioxide in the metal–organic framework Zn2(dobpdc).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to measure the diffusion of CO2 within the pores of Zn2(dobpdc)?",
+      "answer": "Pulsed field gradient (PFG) nuclear magnetic resonance (NMR) spectroscopy was used to measure the diffusion of CO2 within the pores of Zn2(dobpdc).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unexpected finding was observed regarding CO2 diffusion in Zn2(dobpdc)?",
+      "answer": "It was unexpectedly found that CO2 is able to diffuse between the hexagonal channels in the crystallographic ab plane, despite the walls of these channels appearing impermeable by single-crystal X-ray crystallography and flexible lattice MD simulations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the self-diffusion coefficients parallel and perpendicular to the hexagonal channels of Zn2(dobpdc) at a pressure of 625 mbar CO2?",
+      "answer": "The self-diffusion coefficients are D∥ = (5.8 ± 0.1) × 10–9 m2 s–1 and D⊥ = (1.9 ± 0.2) × 10–10 m2 s–1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The molecular dynamics (MD) simulations revealed long-range diffusion of CO2 in the ab plane.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to investigate the structure of Zn2(dobpdc) before and after exposure to CO2?",
+      "answer": "In situ single-crystal X-ray diffraction was used to investigate the structure of Zn2(dobpdc) before and after exposure to CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What did the MD simulations predict about the chemical shift anisotropy parameter, ΔCSA, for CO2 in Zn2(dobpdc)?",
+      "answer": "The MD simulations predicted negative ΔCSA values that increase in magnitude with pressure, consistent with the NMR measurements.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The observed nonzero diffusion of CO2 in the ab plane of Zn2(dobpdc) is likely due to framework dynamics.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What possible explanation is suggested for the nonzero diffusion of CO2 in the ab plane of Zn2(dobpdc)?",
+      "answer": "The presence of crystal defects is suggested as a possible explanation for the nonzero diffusion of CO2 in the ab plane of Zn2(dobpdc).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Langmuir surface area of Zn2(dobpdc) was determined to be 2605 m2g–1 based on N2 adsorption isotherm at 77 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

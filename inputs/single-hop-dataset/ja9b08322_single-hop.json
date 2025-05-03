@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C29.5H43.5N4.5O15.5S2Zn4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of crystal system does compound 2 belong to?",
+      "answer": "Trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 3?",
+      "answer": "R−3m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index for compound 4 after refinement?",
+      "answer": "R1 = 0.0345, wR2 = 0.0740",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the largest difference peak/hole for compound 5?",
+      "answer": "0.388 / −0.392",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound has the highest selectivity for benzene over cyclohexane in vapor phase?",
+      "answer": "Compound 1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Which compound demonstrates the highest adsorption capacity for CO2 at 273 K?",
+      "answer": "Compound 2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is compound 3 reusable for benzene/cyclohexane separation?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 4 exhibit a higher selectivity for CO2 over N2 at 298 K compared to 273 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the adsorption selectivity of compound 5 for C2H6 over CH4 at 273 K?",
+      "answer": "0.6:1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound has the lowest heat of adsorption for CO2?",
+      "answer": "Compound 4",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 1 selectively adsorb benzene over cyclohexane in liquid phase?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal size of compound 2?",
+      "answer": "0.10 × 0.05 × 0.02 mm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 3 have a higher adsorption capacity for N2 or CO2 at 298 K?",
+      "answer": "CO2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the pore size distribution of compound 4 based on CO2 adsorption isotherm?",
+      "answer": "Shown in the inset of Figure S25",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound shows the highest adsorption capacity for C2H2 at 298 K?",
+      "answer": "Compound 1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption behavior of compound 5 for CH4 at 273 K and 298 K significantly different?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C8H7O6PCo2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize Co2(μ4-OH)(2-pmb) (1)?",
+      "answer": "Hydrothermal treatment",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was compound 1 synthesized?",
+      "answer": "160 oC",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of compound 1 based on Co?",
+      "answer": "70%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnetism does compound 1 exhibit?",
+      "answer": "Canted antiferromagnetism",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Curie temperature (Tc) of compound 1?",
+      "answer": "31.0 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coercive field (Hc) of compound 1 at 2 K?",
+      "answer": "43 kOe",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 2 exhibit a second harmonic generation response?",
+      "answer": "Yes, compound 2 exhibits a SHG response about 0.4 times that of urea.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of compound 2 similar to that of compound 1?",
+      "answer": "Yes, compound 2 was obtained similarly to compound 1 but using Cu(CH3COO)2·H2O as the starting material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the dominant antiferromagnetic interaction in compound 2 attributed to?",
+      "answer": "The dominant AF interaction in compound 2 should be attributed to the Cu(1)–Cu(3) and Cu(2)–Cu(4) interactions through the μ3-OH pathway.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal structure of compound 1 polar?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 contain isolated μ4-OH bridged infinite chains?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Weiss constant for compound 1 positive?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 form a two-dimensional layer in the ab plane?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic behavior of compound 2 frequency dependent?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 have a higher coercive field at 2 K than compound 2?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis temperature for compound 2 higher than that for compound 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

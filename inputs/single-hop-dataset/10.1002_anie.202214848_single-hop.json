@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge with NLO crystals that exhibit strong second-harmonic-generation (SHG) response?",
+      "answer": "The main challenge is the contradictory problem of overlarge birefringence, leading to low frequency doubling efficiency and poor beam quality.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy was used to simultaneously fulfill strong SHG responses, short UV cutoff, and applicable birefringence in the synthesis of rare earth cyanurates?",
+      "answer": "A 'three birds with one stone' strategy was used, involving the introduction of rare earth coordination control of π-conjugated (C3N3O3)3- anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SHG responses of YCY, YbCY, and LuCY are significantly different from each other.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the UV cutoff range for the synthesized rare earth cyanurates RE5(C3N3O3)(OH)12 (RE = Y, Yb, Lu)?",
+      "answer": "Approximately 225 nm, 230 nm, and 235 nm for YCY, YbCY, and LuCY, respectively.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is moderate birefringence important for NLO crystals?",
+      "answer": "Moderate birefringence convinces the phase-matching ability to broaden application spectral region and is helpful to improve frequency doubling capability for the target NLO crystal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structures of RE5(C3N3O3)(OH)12 (RE = Y, Yb, Lu) were determined solely by 3D electron diffraction technique.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of rare earth cations in the design of high-performance NLO materials?",
+      "answer": "Rare earth cations with high oxidation valence lead a strong coordination property, allowing for effective modulation and perfect alignment of the (C3N3O3)3- anions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The SHG intensity of an applicable NLO crystal should be at least comparable to that of KDP.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hexagonal system P-62m space group for the RE5(C3N3O3)(OH)12 compounds?",
+      "answer": "It indicates that the compounds are isostructural and crystallize in a hexagonal system, which affects their optical properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The birefringence for YCY and LuCY is significantly reduced to 0.15 at 800 nm due to the rare earth cation contribution.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main contribution to the band gap in YCY and LuCY according to theoretical calculations?",
+      "answer": "The main contribution to the band gap comes from nonbonding electrons of N and O atoms at the upper valence band and 3d orbital of Y (5d orbital of Lu), and anti-π orbitals on (C3N3O3)3- 6MR.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The SHG intensity of LuCY is greater than that of KLi-(HC3N3O3) · 2H2O with the same particle size.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Why is the cutoff wavelength an important criterion for judging the application range of NLO crystals?",
+      "answer": "The cutoff wavelength determines the potential application wavelength range of NLO crystals, affecting their suitability for specific laser outputs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The arrangement of anionic groups in YCY results in an inclined angle of 0°, contributing to its impressive NLO response.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of overlarge birefringence on the performance of NLO crystals?",
+      "answer": "Overlarge birefringence brings the problem of spatial walk-off issue, thus further diminishes the laser conversion efficiency and worsens the output beam quality.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structures of RE5(C3N3O3)(OH)12 (RE = Y, Yb, Lu) were also verified by Rietveld refinement of powder X-ray diffraction data.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the parallel and co-oriented arrangement of (C3N3O3)3- units on the SHG intensity in rare earth series cyanurate compounds?",
+      "answer": "The completely parallel and co-originated arrangements of (C3N3O3)3- units contribute to the large SHG intensity in rare earth series cyanurate compounds.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The birefringence of the cyanurate system is relatively small due to the inherent properties of the strongly π-conjugated groups.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the scissor operator modifications in the theoretical calculations of YCY and LuCY?",
+      "answer": "The scissor operator modifications are applied to rid of band gap underestimation and acquire exact optical response by varying the conduction band to a satisfactory position.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The introduction of rare earth cations into cyanurates exhibits short UV cutoffs and applicable birefringence.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

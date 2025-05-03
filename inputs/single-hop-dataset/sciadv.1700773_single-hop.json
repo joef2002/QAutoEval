@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main challenge in synthesizing materials with structures composed of multiple metal cations?",
+      "answer": "The main challenge is simultaneously addressing the incorporation of different elements at desired precise positions due to the difficulty of controlling the disposition of the metal elements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is used in the study to prepare new multimetal systems of addressable complexity?",
+      "answer": "The strategy involves selecting a MOF whose crystallization process is kinetically driven, allowing for the equilibrium that permits the incorporation of additional elements into the framework during the synthesis reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of zinc in the synthesis of the multimetal MOFs discussed in the study?",
+      "answer": "Zinc acts as the structure-directing element necessary to obtain the desired MOF SBU and topology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of cobalt affect the formation of MOFs according to the study?",
+      "answer": "The presence of cobalt in the structure has a stabilizing effect on the octahedral site, leading to a phase transformation where part of the cobalt cations become octahedral.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of using molar codes in the synthesis of MOFs with multiple metal cations?",
+      "answer": "Molar codes are used to control the introduced amount of a second element, as well as its arrangement and coordination environment, allowing for the directed incorporation of multiple metal elements into the MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that it is possible to include nontransition metal elements in the MOF structure by using appropriate molar codes.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of manganese on the compositional arrangement of MOFs according to the study?",
+      "answer": "The inclusion of manganese in the molar codes allows for the homogeneous distribution of cobalt, providing atomic control on the SBU sequences.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that MOFs prepared from molar codes including Zn/Mn/Co do not exhibit compositional gradients.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How do the magnetic properties of MOFs relate to their compositional and structural complexities?",
+      "answer": "The magnetic properties are determined by the combination of the geometry of the SBUs, the atomic distribution of cations, and the possible mesoscopic interaction among SBUs, allowing for specific magnetic interactions within the SBUs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study's findings offer a new general strategy to produce complex materials with required compositions and controllable arrangements of the metal cations for desired applications.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

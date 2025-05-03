@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "material": "Phase A (ethylene glycol)",
+      "synthesis_conditions": {
+        "solvent": "Ethylene glycol",
+        "chemicals_used": "H3(btc) (trimesic acid), M(NO3)2·6H2O (M = Ni, Co)",
+        "amount_of_chemicals": "0.1 mmol of H3(btc), 0.15 mmol of Ni(NO3)2·6H2O",
+        "solvent_amount": "3 mL",
+        "equipment": "H-cell (height 90 mm, crossbar 60 mm, circular section diameter 15 mm)",
+        "pyridine_amount": "0.6 mL (7.42 mmol)",
+        "time": "1 month",
+        "crystal_size": "up to 100 mm3"
+      }
+    },
+    {
+      "material": "Phase B",
+      "synthesis_conditions": {
+        "solvent": "Desired diol/triol",
+        "chemicals_used": "H3(btc) and Ni(NO3)2·6H2O",
+        "amount_of_chemicals": "10 μmol of H3(btc) and 15 μmol of Ni(NO3)2·6H2O",
+        "solvent_amount": "2 mL",
+        "equipment": "Cylindrical specimen jars, dimensions 75 × 25 mm",
+        "pyridine_amount": "Approximately 0.2 mL (2.47 mmol)",
+        "time": "2 weeks",
+        "crystal_size": "up to 1 mm in length"
+      }
+    },
+    {
+      "material": "Phase A1 (other alcohols)",
+      "synthesis_conditions": {
+        "solvent": "Methanol, Ethanol, and 1-Propanol",
+        "chemicals_used": "H3(btc) (trimesic acid), M(NO3)2·6H2O (M = Ni, Co)",
+        "amount_of_chemicals": "0.1 mmol of H3(btc), 0.15 mmol of Ni(NO3)2·6H2O",
+        "solvent_amount": "3 mL",
+        "equipment": "H-cell (height 90 mm, crossbar 60 mm, circular section diameter 15 mm)",
+        "pyridine_amount": "0.6 mL (7.42 mmol)",
+        "time": "1 month",
+        "crystal_size": "up to 100 mm3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the final pH of the mixture used to synthesize compound 1?",
+      "answer": "5.0",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage based on nickel for the synthesis of compound 1?",
+      "answer": "55%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 2?",
+      "answer": "I41/a",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to collect intensity data for compound 2?",
+      "answer": "Siemens SMART/CCD diffractometer using Mo-Kα radiation",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What software was used for the Rietveld refinement of compound 1?",
+      "answer": "GSAS and EXPGUI packages",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal structure determination technique used for compound 1?",
+      "answer": "X-ray powder diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of decreasing the amount of Et3N base to 1 per nickel in the synthesis of compound 1?",
+      "answer": "It leads to a clear solution, from which compound 1 is obtained in a lower yield but with a larger particle size.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were the first three partially overlapping peaks omitted in the refinement of compound 1?",
+      "answer": "Due to the low-angle asymmetric distortion of the peak profile and the outweighingly high intensity of the 110 peak.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the absence of optical activity in compound 2?",
+      "answer": "The thermal racemization of aspartic acid.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using FOX software in the structure determination of compound 1?",
+      "answer": "To solve the structure using global optimization in real space based on available chemical and structural information.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield of compound 1 when the hydrothermal reaction was carried out at 150° C for 5 days?",
+      "answer": "12%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of compound 1 performed under hydrothermal conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the optical rotation of compound 1 different from that of a reference solution of NiCl2·6H2O and l-H2Asp in 2M HCl?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 exhibit optical activity?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the space group of compound 1 identical to that of compound 2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the structure of compound 1 solved directly using several software packages?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the elemental analysis of compound 1 consistent with its calculated values?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can compound 1 be synthesized as an optically pure product?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

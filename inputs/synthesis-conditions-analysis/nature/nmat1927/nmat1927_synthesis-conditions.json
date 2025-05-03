@@ -1,0 +1,64 @@
+{
+  "materials": [
+    {
+      "name": "ZIF-20",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "5 ml",
+        "equipment": "20 ml vial, isothermal oven",
+        "chemicals_used": "Zn(NO3)2·4H2O (65 mg, 0.25 mmol), purine (150 mg, 1.25 mmol)",
+        "time": "3 days",
+        "washing_method": "DMF (3 times, 5 ml each)",
+        "drying_method": "air drying for 30 min",
+        "yield": "48 mg, 50%",
+        "additional_information": "Yield based on Zn(NO3)2·4H2O"
+      }
+    },
+    {
+      "name": "ZIF-21",
+      "synthesis_conditions": {
+        "temperature": "85 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "5 ml",
+        "equipment": "20 ml vial, isothermal oven",
+        "chemicals_used": "Co(NO3)2·6H2O (146 mg, 0.502 mmol), purine (300 mg, 2.50 mmol), 2.0 M dimethylamine solution in methanol (1.25 ml, 2.50 mmol)",
+        "time": "24 h",
+        "washing_method": "DMF (3 times, 5 ml each)",
+        "drying_method": "air drying for 1 h",
+        "yield": "92 mg, 47%",
+        "additional_information": "Yield based on Co(NO3)2·6H2O"
+      }
+    },
+    {
+      "name": "ZIF-22",
+      "synthesis_conditions": {
+        "temperature": "150 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "2 ml",
+        "equipment": "4 ml vial, isothermal oven",
+        "chemicals_used": "Zn(NO3)2·4H2O (52 mg, 0.20 mmol), 5-azabenzimidazole (238 mg, 2.00 mmol)",
+        "time": "3 days",
+        "washing_method": "DMF (3 times, 4 ml each)",
+        "drying_method": "air drying for 30 min",
+        "yield": "68 mg, 87%",
+        "additional_information": "Yield based on Zn(NO3)2·4H2O"
+      }
+    },
+    {
+      "name": "ZIF-23",
+      "synthesis_conditions": {
+        "temperature": "100 °C",
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "1 ml",
+        "equipment": "4 ml vial, isothermal oven",
+        "chemicals_used": "Zn(NO3)2·4H2O (52 mg, 0.20 mmol), 4-azabenzimidazole (119 mg, 1.00 mmol)",
+        "time": "1 day",
+        "washing_method": "DMF (3 times, 5 ml each)",
+        "drying_method": "air drying for 30 min",
+        "yield": "55 mg, 90%",
+        "additional_information": "Same product obtained at different temperatures (65 and 150 °C) and ligand/metal ratios"
+      }
+    }
+  ]
+}

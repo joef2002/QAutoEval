@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the energy gap of polymer 3?",
+      "answer": "1.69 eV",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which polymer exhibited semi-conducting properties?",
+      "answer": "Polymer 3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the composition left as residue after the thermal stability evaluation of polymer 3?",
+      "answer": "SFe3Cu2P2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the transformation from cluster 2 to polymer 3?",
+      "answer": "Powder X-ray diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the ratio of [Et4N]2[SFe3(CO)9], [Cu(MeCN)4][BF4], and dppe used in the synthesis of clusters 1 and 2?",
+      "answer": "1 : 2 : 1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What type of transformation is demonstrated between cluster 2 and polymer 3?",
+      "answer": "A reversible solid-state transformation",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to polymer 3 when exposed to MeCN vapor?",
+      "answer": "It forms from cluster 2",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How can the depolymerization process from polymer 3 to cluster 2 be achieved?",
+      "answer": "Via mechanochemical grinding with the addition of drops of organic solvents",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the degradation of polymer 3 in solutions according to ESI-MS measurement?",
+      "answer": "The major peaks corresponding to [(m3-S)Fe3(CO)9Cu](cid:2) (514.9) and [{SFe3(CO)9}2Cu3](cid:2) (1094.1)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of dppe in the properties of polymer 3?",
+      "answer": "It possibly enables electron communication between adjacent SFe3(CO)9Cu2-based units",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from cluster 2 to polymer 3 a single-crystal to single-crystal transformation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does polymer 3 represent the first example of a Cu(dppe) Cu-bridged metal carbonyl cluster-based polymer?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the energy gap increased from cluster 2 to polymer 3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can polymer 3 be obtained by treating cluster 1 with MeCN?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the direct solid-state transformation of metal carbonyl clusters in the formation of coordination polymers a well-explored area?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the thermal stability evaluation of polymer 3 involve a significant weight loss at temperatures as high as 600 1C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the mechanochemical approach not efficient for the synthesis of organic, inorganic, organometallic, and supramolecular materials?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of MeCN in the polymerization process of complex 2 to form polymer 3?",
+      "answer": "It initially attacks the Cu2 atom of 2, inducing Fe–Cu and Cu–Cu bond cleavages to form a reactive ‘‘SFe3Cu’’",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the result of the thermal stability evaluation of polymer 3?",
+      "answer": "A continuous weight loss of 32.03% at temperatures below 250 1C, corresponding to the loss of MeCN molecules and CO groups",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the change in color from brownish-black to reddish-brown indicate when crystals of 2 are exposed to MeCN vapor?",
+      "answer": "The formation of polymer 3",
+      "difficulty": "easy",
+      "type": "reasoning"
+    }
+  ]
+}

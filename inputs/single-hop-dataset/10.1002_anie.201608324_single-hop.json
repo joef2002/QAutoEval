@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research conducted by Esther von Grotthuss and colleagues?",
+      "answer": "The main focus is on reversible dihydrogen activation by reduced aryl boranes as main-group ambiphiles.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 9,10-dihydro-9,10-diboraanthracene (DBA) in the study?",
+      "answer": "DBA acceptors, when injected with two electrons, can cleave the H-H bond forming hydridoborates under moderate conditions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the addition of H2 to the boron-bonded substituents reversible for all types of substituents?",
+      "answer": "No, the addition is reversible for R = C/CtBu and irreversible for R = H.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the reaction rate of H2 activation vary with the nature of the countercation?",
+      "answer": "The reaction rate is influenced by the countercation, with Li+ being slower than K+.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does quantum-chemical calculations suggest about the mechanism of H2 activation?",
+      "answer": "The calculations suggest a concerted, homolytic addition of H2 across both boron atoms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the system Li2[DBA]/H2 be used for the hydrogenation of element-halide bonds?",
+      "answer": "Yes, the successful conversion of Me3SiCl into Me3SiH demonstrates its relevance for hydrogenation of element-halide bonds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of frustrated Lewis pair (FLP) chemistry in the context of this research?",
+      "answer": "FLP chemistry, involving combinations of main-group Lewis acids and bases, demonstrates that H2 activation is possible without transition metals, similar to the concept applied in this research.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of heating a solution of Li2[3] in [D8]THF?",
+      "answer": "Heating leads to a decrease in Li2[3], formation of H2, and a new symmetrical [DBA]2@ derivative identified as Li2[4].",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the conversion of Li2[3] into Li2[4] reversible?",
+      "answer": "Yes, the conversion is reversible, indicating a dynamic equilibrium between Li2[3] and Li2[4]/H2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens when Li2[1] is treated with excess H2 at 100 88C?",
+      "answer": "It results in the hydrogen-addition product Li2[5] in quantitative yield.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does Li2[5] show a tendency to liberate H2 at temperatures up to 100 88C?",
+      "answer": "No, Li2[5] shows no tendency to liberate H2 at these temperatures.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What effect does the exchange of Li+ for K+ have on the H2-activation reaction?",
+      "answer": "The exchange aims to promote cation dissociation, potentially accelerating the H2-activation reaction and lowering the required temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the computed activation barriers and product stabilities for the addition of H2 to [1]2@?",
+      "answer": "The activation barrier is moderate (DG* = 88 kJ mol@1), and the formation of [5]2@ is exergonic by DrG = @67 kJ mol@1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the H2 activation by M2[1] salts conceptually similar to FLPs?",
+      "answer": "No, unlike FLPs that undergo heterolytic cleavage of H2, M2[1] salts generate two hydride ions from one H2 molecule.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential application is highlighted for the M2[1] salts in the context of hydrogenation?",
+      "answer": "The conversion of chlorosilanes into hydrosilanes is highlighted as a potential application, owing to their widespread application potential.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction between Li2[1] and HC/CtBu result in the formation of syn/anti isomers?",
+      "answer": "No, the crude product gave rise to only one set of signals in the NMR spectra, ruling out the presence of syn/anti isomers.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of quantum-chemical calculations in this research?",
+      "answer": "Quantum-chemical calculations provide insight into the mechanism of H2 activation, supporting the experimental observations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the term 'ambiphilic' imply in the context of this research?",
+      "answer": "Ambiphilic implies the ability to exhibit both electron-accepting and electron-donating behavior, similar to metal-like reactivity towards H2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the addition of H2 across the two boron atoms of [DBA]2@ a unique feature among main-group ambiphiles?",
+      "answer": "Yes, the ability to add H2 across the two boron atoms renders the system unique among main-group ambiphiles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study being dedicated to Professor Gerhard Erker?",
+      "answer": "The dedication signifies recognition of Professor Gerhard Erker's contributions to the field, coinciding with his 70th birthday.",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

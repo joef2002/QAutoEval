@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework (MOF) discussed?",
+      "answer": "[Zn(bdc)(3-F-spy)] (1)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What types of photomechanical macroscopic deformation does the MOF undergo upon UV light irradiation?",
+      "answer": "Twisting, bending, and splitting",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of incorporating the MOF into a PVA composite membrane?",
+      "answer": "To amplify mechanical stress to achieve macroscopic actuation behavior",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the photomechanical response in the MOF?",
+      "answer": "Irradiation with UV light",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of 3-F-spy ligands in the MOF structure?",
+      "answer": "They undergo photodimerisation upon UV irradiation, leading to geometrical changes in the MOF",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the MOF's crystal structure change upon UV irradiation?",
+      "answer": "The 2D structure of the MOF transforms into an interpenetrating 3D structure",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the MOF's unit cell volume upon transformation from 1 to 1 A?",
+      "answer": "The unit cell volume contracts by 6.1%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the MOF exhibit photomechanical deformations such as bending, twisting, and splitting?",
+      "answer": "Due to lattice contraction and geometrical changes in the MOF upon UV irradiation",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the MOF's ability to undergo a single-crystal to single-crystal transformation?",
+      "answer": "It allows for predictable and reproducible mechanical responses to UV light",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the thickness and length of the MOF crystal affect its mechanical deformation upon UV irradiation?",
+      "answer": "The extent and type of mechanical distortion are sensitive to the crystal dimensions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of UV irradiation on the bending angle of the 1-PVA membrane?",
+      "answer": "The bending angle increases rapidly towards the incident light source",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the 1-PVA composite membrane?",
+      "answer": "It facilitates the interaction between PVA and the MOF, contributing to the photomechanical response",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photomechanical response of the MOF reversible upon removal of UV light?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF exhibit photomechanical deformation in isolation without PVA?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photomechanical behavior of the MOF slow compared to shape-memory polymer-based actuators?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF's photomechanical response depend on the direction of the light source?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photomechanical deformation of the MOF crystal independent of its dimensions?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the MOF-based photoactuator be used in photomechanical energy harvesting and conversion systems?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the photomechanical response of the MOF-PVA composite membrane slower than that of the MOF crystal alone?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF undergo thermal decomposition before 300°C?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

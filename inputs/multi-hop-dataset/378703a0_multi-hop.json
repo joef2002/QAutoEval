@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of the compound synthesized in this study?",
+            "answer": "The compound synthesized has the formula CoC6H3(COOH1/3)2(NC5H5)2 \u8def 2/3 NC5H5.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the space group and unit cell parameters of the crystal structure of the synthesized compound?",
+            "answer": "The compound crystallizes in the hexagonal space group P63/mcm-D6h3 (no. 193), with unit cell parameters a = 16.711(4) \u811c, c = 14.189(2) \u811c, and V = 3,423(1) \u811c3.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the coordination mode of the BTC ligands to the cobalt centers in the structure?",
+            "answer": "One of the BTC units is completely deprotonated and coordinates to three metal centers in a bidentate fashion, whereas each of the other units coordinates to three metal centers as a monodentate ligand.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the weight loss observed in the thermal gravimetric analysis at 190\u63b3C and 350\u63b3C and what do they correspond to?",
+            "answer": "A weight loss of 11.7% is observed at 190\u63b3C, corresponding to the loss of pyridine guest molecules occupying the channels. A further weight loss of 45.5% occurs at 350\u63b3C, corresponding to the loss of the remaining pyridine molecules bound to the metal centers within the framework.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the separation between the cobalt-carboxylate layers in the crystal structure?",
+            "answer": "The cobalt-carboxylate layers are separated by 7 \u811c in the crystal structure.",
+            "type": "factual"
+        },
+        {
+            "question": "What are the dimensions of the rectangular channels formed between the layers in the structure?",
+            "answer": "The rectangular channels formed between the layers have dimensions of 7 x 10 \u811c.",
+            "type": "factual"
+        },
+        {
+            "question": "Why does the \u87fa-stacking of the coordinated pyridine ligands and included pyridine guests have implications for the rigidity and selectivity of the porous framework?",
+            "answer": "The \u87fa-stacking of the coordinated pyridine ligands holds the cobalt-carboxylate layers tightly together, giving the structure a rigid three-dimensional character. The \u87fa-stacking of the pyridine guests with the benzene rings of the BTC units enables selective binding of aromatic guest molecules in the channels.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the use of the multidentate BTC ligand contribute to the thermal stability of the synthesized compound?",
+            "answer": "The use of the multidentate BTC ligand, which can bind to multiple metal centers, coupled with the functionalization of the framework by the pyridine ligands, contributes greatly to the unusual thermal stability of the material up to 350\u63b3C.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What experimental evidence shows that the compound can selectively bind aromatic guest molecules?",
+            "answer": "Infrared spectroscopy experiments show that the compound, after removal of the original pyridine guests, can selectively absorb aromatic molecules like benzene, nitrobenzene, cyanobenzene and chlorobenzene from mixtures with non-aromatic solvents. This selectivity arises from the ability of the aromatic guests to \u87fa-stack with the benzene rings of the BTC units.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does this metal-organic framework compare to zeolites in terms of its properties and potential applications?",
+            "answer": "Like zeolites, this metal-organic framework has a rigid and stable open structure that allows for selective inclusion of guest molecules based on size and shape. However, the use of organic ligands allows for more precise control over the pore size, shape and functionality compared to inorganic zeolites. This material is therefore a promising analogue of zeolites for potential applications in catalysis, adsorption and separation.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the key strategy used in designing this metal-organic framework to achieve a stable and porous structure?",
+            "answer": "The key strategy is using the symmetry and functionality of the organic BTC ligand, which has a rigid disk-like shape with three equally spaced carboxylate groups, to direct the formation of extended metal-carboxylate layers held together by \u87fa-stacking interactions. This creates a stable open framework with channels for guest inclusion.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Why was the BTC ligand chosen as the organic building block for constructing this framework?",
+            "answer": "The BTC ligand was chosen because it has a rigid conformation with three equally spaced carboxylate groups that can bind to metal ions in the same plane. This allows it to direct the formation of extended metal-carboxylate layers, which is key to forming a stable porous framework.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the crystal lattice change upon removal and re-inclusion of the pyridine guest molecules?",
+            "answer": "The X-ray diffraction patterns show that the crystal lattice is preserved upon removal and re-inclusion of the pyridine guests. The positions of the diffraction peaks remain unchanged, indicating that the interlayer separation and the overall framework structure stay constant. Only slight changes in peak intensities are observed.",
+            "type": "reasoning"
+        },
+        {
+            "question": "The metal-organic framework contains alternating layers of cobalt-carboxylate and pyridine.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "The compound loses crystallinity when the included pyridine guest molecules are removed.",
+            "answer": "False - the compound remains crystalline upon removal of the pyridine guests, as evidenced by powder X-ray diffraction.",
+            "type": "true_false"
+        },
+        {
+            "question": "The rectangular channels in the structure are occupied by coordinated pyridine ligands.",
+            "answer": "False - the channels are occupied by uncoordinated pyridine guest molecules. The coordinated pyridine ligands are bound to the cobalt centers.",
+            "type": "true_false"
+        },
+        {
+            "question": "The compound can selectively bind aliphatic guest molecules like acetonitrile and nitromethane.",
+            "answer": "False - the compound selectively binds aromatic guests like benzene and chlorobenzene, but not aliphatic molecules like acetonitrile and nitromethane.",
+            "type": "true_false"
+        },
+        {
+            "question": "The cobalt-carboxylate layers are held together by hydrogen bonding between the pyridine ligands.",
+            "answer": "False - the layers are held together by \u87fa-stacking interactions between the pyridine ligands, not hydrogen bonding.",
+            "type": "true_false"
+        },
+        {
+            "question": "Multidentate ligands like BTC were used to enhance the thermal stability of the framework.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "The crystal structure and interlayer spacing change significantly when the pyridine guests are removed or re-included.",
+            "answer": "False - the X-ray diffraction patterns show that the crystal lattice and interlayer spacing are preserved with only minor changes upon removal and re-inclusion of guests.",
+            "type": "true_false"
+        }
+    ]
+}

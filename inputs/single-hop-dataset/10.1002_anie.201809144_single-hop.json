@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of introducing non-3d metal modulation in cobalt imidazolate frameworks?",
+      "answer": "To enhance the OER activity of cobalt imidazolate frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the two isomorphous frameworks mentioned in the text?",
+      "answer": "[Co4(MO4)(eim)6] (M = Mo or W, Heim = 2-ethylimidazole)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Mo-modulated framework outperforms RuO2 in OER performance.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the overpotential and current density of the Mo-modulated framework in CO2-saturated 0.5 m KHCO3 electrolyte?",
+      "answer": "Overpotential of 210 mV and current density of 1 mA cm@2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is OER in neutral media considered more practically useful?",
+      "answer": "Because it allows direct electrolysis of sea water and is necessary for CO2 electrochemical reduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of pure-phase [Co4(WO4)(mim)6] was successful.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of changing the methyl group to ethyl in the organic ligands?",
+      "answer": "It improved the chemical stability, obtaining both single crystals and microcrystals of isostructural [Co4MoO4(eim)6] and [Co4WO4(eim)6] as pure phases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Co4Mo and Co4W can be stable at pH 3–12 for at least 24 hours.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the binding energy of the Co 2p orbital indicate about the oxidation state and electronic structure of Co?",
+      "answer": "It indicates that the oxidation state and electronic structure of Co can be tailored by MO4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The OER performances are greatly improved after introducing the MO4 modulators.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the current density of Co4Mo under a potential of 1.8 V?",
+      "answer": "22.0 mA cm@2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The OER activity of Co4Mo in CO2-saturated 0.5 m KHCO3 achieved a current density of 1 mA cm@2 by an overpotential of 210 mV.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the OER Faradaic efficiency of 98% for Co4Mo indicate?",
+      "answer": "It excludes the contribution of side reactions to the observed current.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Density functional theory calculations were performed to understand the role of non-3d metals in modulating the electronic structure and reactant/product affinity of the cobalt centers.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of non-3d metals in cobalt imidazolate frameworks according to the text?",
+      "answer": "Non-3d metals modulate the electronic structure of Co for optimum reactant/product adsorption and tailor the energy of rate-determining step to a more moderate value.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The highest performance of CoMo-Im among the three materials can be assigned to its strong reactant adsorption and weakest product adsorption.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the rate-determining step (RDS) for Co-Im according to DFT calculations?",
+      "answer": "O2 formation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The reaction energy of the rate-determining step decreased remarkably after being modulated by the MO4 units.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the introduction of non-3d metal oxide units into cobalt imidazolate frameworks achieve?",
+      "answer": "It enhances the OER performance in neutral media.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study was supported by the NSFC and Guangdong Pearl River Talents Program.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

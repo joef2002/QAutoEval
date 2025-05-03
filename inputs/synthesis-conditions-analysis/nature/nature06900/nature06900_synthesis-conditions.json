@@ -1,0 +1,68 @@
+{
+  "ZIF-95": {
+    "synthesis_conditions": {
+      "temperature": "120 uC",
+      "solvents": ["DMF", "H2O"],
+      "amount_of_each_solvent": {
+        "DMF": "295 ml",
+        "H2O": "5 ml"
+      },
+      "equipment": "500 ml container",
+      "chemicals_used": {
+        "Zn(NO3)2.4H2O": "1.044 g, 4.0 mmol",
+        "5-chlorobenzimidazole (cbIM)": "6.106 g, 40.0 mmol"
+      },
+      "time": "72 h",
+      "yield": "75.0%",
+      "washing_method": "washed with DMF",
+      "drying_method": "dried in air",
+      "activation_method": {
+        "solvent_exchange": "acetone",
+        "heating": {
+          "first_step": {
+            "temperature": "50 uC",
+            "time": "10 h",
+            "pressure": "10^-3 torr"
+          },
+          "second_step": {
+            "temperature": "100 uC",
+            "time": "12 h"
+          }
+        }
+      }
+    }
+  },
+  "ZIF-100": {
+    "synthesis_conditions": {
+      "temperature": "120 uC",
+      "solvents": ["DMF"],
+      "amount_of_each_solvent": {
+        "DMF": "270 ml",
+        "H2O": "5.8 ml"
+      },
+      "equipment": "500 ml container",
+      "chemicals_used": {
+        "Zn(O3SCF3)2": "1.453 g, 4.0 mmol",
+        "5-chlorobenzimidazole (cbIM)": "6.103 g, 40.0 mmol"
+      },
+      "time": "48 h",
+      "yield": "70.5%",
+      "washing_method": "washed with DMF",
+      "drying_method": "dried in air",
+      "activation_method": {
+        "solvent_exchange": "methanol",
+        "heating": {
+          "first_step": {
+            "temperature": "50 uC",
+            "time": "10 h",
+            "pressure": "10^-3 torr"
+          },
+          "second_step": {
+            "temperature": "100 uC",
+            "time": "12 h"
+          }
+        }
+      }
+    }
+  }
+}

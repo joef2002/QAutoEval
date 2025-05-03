@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the crystal system of Compound 1?",
+      "answer": "Cubic",
+      "difficulty_level": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the refinement of Compound 2?",
+      "answer": "Full-matrix least-squares on F2",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the porosity of Compound 3 higher than its theoretical value?",
+      "answer": "No, the measured BET surface area is much lower than its theoretical value.",
+      "difficulty_level": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of H4abtc resulted in a pure product without any impurities.",
+      "answer": "False",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of Compound 3?",
+      "answer": "Imma",
+      "difficulty_level": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Did Compound 1 maintain its structure after being heated at 180°C in open air for one month?",
+      "answer": "Yes",
+      "difficulty_level": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the large solvent accessible voids in the structure of Compound 2?",
+      "answer": "The presence of a large solvent channel in the structure.",
+      "difficulty_level": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystals of Compound 3 showed no signs of diffuse scattering.",
+      "answer": "False",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of the synthesis of H4bptc?",
+      "answer": "82%",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis conditions do not influence the topology of the Zr-MOFs.",
+      "answer": "False",
+      "difficulty_level": "hard",
+      "type": "True or False"
+    }
+  ]
+}

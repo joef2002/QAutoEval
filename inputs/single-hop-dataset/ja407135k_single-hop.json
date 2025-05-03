@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C30H30N24Cl2O8Fe",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the magnetic susceptibility measurements performed for compound 1?",
+      "answer": "1 K·min–1 with an applied field of 1000 G for 1 and 1 T for (CO2)0.3@1, CO2@1 and 1’.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the observed increase in T1/2 upon CO2 sorption in compound 1?",
+      "answer": "An increase in T1/2 from 200 to 209 K was observed upon CO2 sorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2 sorption process in compound 1 reversible?",
+      "answer": "Yes, upon removal of the CO2 molecules, the T1/2 is shifted back to lower temperatures, showing the reversibility of this process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the perchlorate anions in the structure of compound 1?",
+      "answer": "The perchlorate anions are located at the planes formed by the FeII centers without interfering with the sorption process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was phase purity of compound 1 established?",
+      "answer": "Phase purity of 1 was established by PXRD, showing an excellent fit to a one-phase model.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated heat of adsorption for CO2 on compound 1?",
+      "answer": "The estimated heat of adsorption at zero coverage was 21.2 kJ/mol.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of N2 influence the spin transition temperature in compound 1?",
+      "answer": "No, the presence of N2 does not influence the spin transition temperature since N2 is not adsorbed.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main interaction between CO2 molecules and the cationic framework in CO2@1?",
+      "answer": "The CO2 molecules interact with the cationic framework in an end-on mode through the nucleophilic oxygen atom.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What mechanism allows CO2 molecules to enter the solid in compound 1 despite the lack of permanent channels?",
+      "answer": "Rotation of the phenyl rings of the btzx ligand permits the connection between voids of different chains, allowing CO2 molecules to enter.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic response of compound 1 affected by CO2 sorption?",
+      "answer": "Yes, upon loading 1 with CO2, an increase in the T1/2 is observed, indicating that CO2 sorption affects the magnetic response.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to compound 1 when heated to 250 °C?",
+      "answer": "Thermogravimetric analysis shows no mass loss until 250 °C, after which it explodes due to the presence of perchlorate anions and tetrazolates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does compound 1 exhibit selectivity in gas sorption?",
+      "answer": "Compound 1 exhibits a preferential adsorption of CO2 over N2, likely due to the larger kinetic diameter and polarizability of CO2 molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 1 be used for sensing CO2 in the presence of N2?",
+      "answer": "Yes, the transition temperature increases in gas mixtures as if only the same amount of CO2 was present, indicating potential for CO2 sensing.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural feature of compound 1 allows for gas sorption?",
+      "answer": "The cationic chains in compound 1 display internal voids that can accept gas molecules, despite the lack of permanent channels.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of flexible organic ligands in the synthesis of compound 1?",
+      "answer": "Flexible organic ligands are used to synthesize dynamic frameworks that can respond to external stimuli, such as gas sorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 1 contain solvent molecules in its cavities?",
+      "answer": "No, no solvent molecules are present in the cavities of compound 1, as demonstrated by thermogravimetric and SQUEEZE analyses.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of CO2 sorption on the spin transition in compound 1?",
+      "answer": "Physisorption of CO2 molecules stabilizes the low-spin state and produces a 9 K increase in the spin-crossover temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of compound 1 change upon CO2 sorption?",
+      "answer": "The structure remains unchanged with CO2 molecules located in the internal cavities, interacting with the framework in an end-on mode.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the end-on binding mode of CO2 molecules in CO2@1?",
+      "answer": "The end-on binding mode is in agreement with the increase in T1/2, as donation of electron density stabilizes the low-spin state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

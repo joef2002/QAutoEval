@@ -1,0 +1,76 @@
+{
+  "materials": [
+    {
+      "name": "Zn-CAT and Zn-CAT-(X)n series",
+      "synthesis_conditions": {
+        "temperature": "373.15 K",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "concentration [bdc linker] = 0.15 M"
+          },
+          {
+            "name": "EtOH",
+            "amount": "concentration [pillar] = 0.1 M"
+          }
+        ],
+        "equipment": "N/A",
+        "chemicals_used": [
+          "1,4-benzenedicarboxylic acid",
+          "2-amino-1,4-benzenedicarboxylic acid",
+          "2-nitro-1,4-benzenedicarboxylic acid",
+          "4,4′-bipyridine",
+          "Zinc nitrate hexahydrate"
+        ],
+        "time": "24 h",
+        "washing_method": "washed three times with DMF (3 × 40 ml) and three times with EtOH (3 × 40 ml)",
+        "drying_method": "dried under vacuum at 323.15 K for 12 h",
+        "yield": "~90 to 98%",
+        "additional_information": "The final linker ratio of these materials (with a varying from 0 to 2) was confirmed by 1H NMR."
+      }
+    },
+    {
+      "name": "Zn-CAT-(NH2)n and Zn-CAT-(NO2)n series",
+      "characterization": {
+        "1H_NMR_spectra": "Supplementary Figs. 2–14",
+        "thermogravimetric_analysis": "Supplementary Figs. 15–17",
+        "powder_X-ray_diffraction": "Supplementary Figs. 20–23",
+        "infrared_analysis": "Supplementary Fig. 24",
+        "ultraviolet–visible_absorption_spectroscopy": "Supplementary Figs. 25–26",
+        "scanning_electron_microscopy": "Supplementary Figs. 18–19"
+      }
+    },
+    {
+      "name": "Zn-CAT-(NH2)100 and Zn-CAT-(NO2)100",
+      "single_crystal_X-ray_diffraction": {
+        "conditions": "Measurements were performed at the Japan Synchrotron Radiation Research Institute/SPring-8 with 0.41270 Å radiation at 100 K and 195 K, respectively.",
+        "crystal_information": "Supplementary Tables 1 and 2",
+        "CCDC_identifiers": "2036574 (as-synthesised structure) and 2036575 (activated structure)"
+      }
+    },
+    {
+      "name": "Zn-CAT-(NH2)100",
+      "high_pressure_storage_test": {
+        "temperature": [
+          "273 K (filling)",
+          "298 K (release)"
+        ],
+        "pressure": [
+          "up to 150 kPa (filling)",
+          "100 kPa (release)"
+        ],
+        "usable_capacity": "~90 v/v at 150 kPa",
+        "percentage_amount_released": "77%"
+      }
+    },
+    {
+      "name": "Zn-CAT-(NH2)60",
+      "high_pressure_storage_test": {
+        "temperature": "310 K (release)",
+        "pressure": "100 kPa (release)",
+        "usable_capacity": "66 v/v at 100 kPa",
+        "percentage_amount_released": "67%"
+      }
+    }
+  ]
+}

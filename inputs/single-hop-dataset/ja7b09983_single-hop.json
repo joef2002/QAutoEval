@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is the enantioselective recognition of ammonium carbamates in a chiral metal–organic framework.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single-crystal X-ray diffraction in the study?",
+      "answer": "Single-crystal X-ray diffraction data were collected at Beamline 11.3.1 at the Advanced Light Source, Lawrence Berkeley National Laboratory using synchrotron radiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the CO2 adsorption properties of dach–Mg2(dobpdc) variants determined?",
+      "answer": "The CO2 adsorption properties of dach–Mg2(dobpdc) variants were determined using thermogravimetric adsorption isobars and calculating thermodynamic parameters.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of testing diamine mixtures in Mg2(dobpdc)?",
+      "answer": "The purpose of testing diamine mixtures in Mg2(dobpdc) was to investigate whether adding varying ratios of two 1°,1° diamines with distinct step temperatures could produce an adsorbent exhibiting a single step with intermediate temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What additives were tested for chiral induction of Mg2(dobpdc)?",
+      "answer": "Additives such as D-panthenol, L-proline, L-ascorbic acid, and R-lactamide were tested for chiral induction of Mg2(dobpdc).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of synthesizing Zn2(dobpdc) single crystals in the presence of D-panthenol?",
+      "answer": "Attempts to synthesize large single crystals of Zn2(dobpdc) in the presence of D-panthenol resulted in colorless, needle-shaped crystals suitable for single-crystal X-ray diffraction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the enantiopurity of Mg2(dobpdc) samples determined?",
+      "answer": "The enantiopurity of Mg2(dobpdc) samples was determined by grafting (R,R)-dach, characterizing CO2 adsorption by TGA, and quantifying the ratio of CO2 captured during the high-temperature step over CO2 captured during the low-temperature step.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used for solid-state circular dichroism measurements?",
+      "answer": "Solid-state circular dichroism measurements were performed on a J-1500 CD spectrometer (JASCO Corporation) at 298 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Mg2(dobpdc) framework chiral or achiral?",
+      "answer": "The Mg2(dobpdc) framework is chiral, adopting either a left-handed or right-handed structure.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that (R,R)-dach–R-Mg2(dobpdc) was more stable than (S,S)-dach–R-Mg2(dobpdc) in all DFT calculations.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

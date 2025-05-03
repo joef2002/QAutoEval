@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are distortional isomers?",
+      "answer": "Distortional isomers, or bond-stretch isomers, differ only in the length of one or more bonds, usually due to crystallographic disorder.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do the supramolecular isomers 3 and 4 differ?",
+      "answer": "Isomers 3 and 4 differ in the conformation of the bpeb ligand and the relative orientations of the axles in their entangled polyrotaxane architectures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What reaction does isomer 4 undergo when exposed to UV light?",
+      "answer": "Isomer 4 undergoes a [2+2] cycloaddition reaction when exposed to UV light, resulting in a cyclobutane-based organic dimer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can isomer 4 be transformed into isomer 3 by soaking in different solvents?",
+      "answer": "Attempts to transform isomer 4 into isomer 3 by soaking in different solvents did not retain the single-crystal nature, indicating a transformation is not feasible through this method.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the PL quenching observed in compounds 3-5?",
+      "answer": "The PL quenching observed in compounds 3-5 indicates their potential application in sensing specific nitro compounds, with a notable selectivity for 2,4-DNPH.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photoreactivity of supramolecular isomers a common phenomenon?",
+      "answer": "Structurally similar supramolecular isomers with different photochemical reactivity and sensing abilities appear to be unprecedented, indicating it's not a common phenomenon.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of water during synthesis affect the formation of isomers?",
+      "answer": "Yes, the intentional addition of water during synthesis produced interpenetrated and polyrotaxane isomers, indicating water plays a role in isomer formation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the [2+2] photo-dimerization of organic molecules in rotaxane structures common?",
+      "answer": "False, the [2+2] photo-dimerization of organic molecules in rotaxane structures is very rare.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the dynamic bpeb axles in the polyrotaxane structure be locked under UV light?",
+      "answer": "True, the dynamic bpeb axles in the polyrotaxane structure can be locked into a stable structure through the formation of cyclobutane rings under UV light.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Do all supramolecular isomers exhibit blue emission when excited at 360 nm?",
+      "answer": "True, all the compounds mentioned exhibit blue emission in the region 458–473 nm when excited at 360 nm.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the PL quenching efficiency the same for all nitro compounds tested?",
+      "answer": "False, the PL quenching efficiency varies among the nitro compounds tested, with some showing significant quenching while others show no meaningful changes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the structural differences between isomers 3 and 4 due to their chemical composition?",
+      "answer": "False, isomers 3 and 4 have the same chemical composition; their differences are due to the conformation and relative orientations of the bpeb ligands.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the photoreactivity of isomer 4 be reversed by desolvation?",
+      "answer": "False, the photoreactivity of isomer 4, once initiated by UV light, leads to a stable structure and cannot be reversed by desolvation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the formation of cyclobutane rings a reversible process?",
+      "answer": "False, the formation of cyclobutane rings through the [2+2] cycloaddition reaction results in a stable structure, indicating it is not a reversible process.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the PL quenching observed in compounds 3-5?",
+      "answer": "The PL quenching observed in compounds 3-5 is likely due to the competition of absorption of excitation radiation between analytes and the framework, along with resonant energy transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the study of polymorphism important in pharmaceutical industries?",
+      "answer": "The study of polymorphism is important in pharmaceutical industries because different crystal forms of a molecule can have different physical and chemical properties, affecting drug efficacy and stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are supramolecular isomers with different sensing efficiencies for nitro compounds common?",
+      "answer": "False, structurally similar supramolecular isomers with different sensing efficiencies for nitro compounds appear to be unprecedented.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the conformation of the bpeb ligand play in the properties of the isomers?",
+      "answer": "The conformation of the bpeb ligand plays a crucial role in determining the photoreactivity and sensing abilities of the isomers, as seen in the differences between isomers 3 and 4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of UV light on isomer 4?",
+      "answer": "UV light causes isomer 4 to undergo a [2+2] cycloaddition reaction, transforming it into another 2D polyrotaxane structure with a cyclobutane-based organic dimer.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the structural transformation of isomer 4 to 5 be considered a supramolecular isomerism?",
+      "answer": "Yes, the structural transformation of isomer 4 to 5 through a [2+2] cycloaddition reaction can be considered an example of supramolecular isomerism due to the conformational changes involved.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

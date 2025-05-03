@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the ligand 2,3,7,8,12,13-hexahydroxytetraazanaphthotetraphene?",
+      "answer": "HHTT",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the preferred coordination geometry for Cu2+ and Ni2+ in the synthesis of MmHHTTn MOFs?",
+      "answer": "Square-planar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to collect synchrotron single-crystal X-ray diffraction data for the MOFs?",
+      "answer": "cRED",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the interlayer spacing observed in Cu3HHTT2?",
+      "answer": "3.19 Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of axially coordinated water molecules in the structure of M6HHTT3 MOFs?",
+      "answer": "They disrupt the π-stacking observed in Cu3HHTT2, increase the interlayer spacing, and cause slippage of the 2D honeycomb M3HHTT2 sheets into a staggered ABC packing motif.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the in-plane conductivity of Cu3HHTT2 higher or lower than its out-of-plane conductivity?",
+      "answer": "Higher",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the approximate size of the hexagonal rods of Co6HHTT3?",
+      "answer": "20 µm in diameter and 200 µm in length",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The dense staggered phase M6HHTT3 (M = Co2+, Mg2+, Ni2+) has relatively narrow bands at the Fermi level.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The in-plane conductivity of Ni3HHTT2 is approximately 10 times more conductive than Ni6HHTT3.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMF in the synthesis of Ni3HHTT2?",
+      "answer": "DMF is more effective in disrupting the strong π-stacking between the sheets than water, leading to the formation of Ni3HHTT2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystals of Cu3HHTT2 exhibit long-range order across the whole crystallite and along all three crystallographic directions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of Cu3HHTT2?",
+      "answer": "1,360 ± 20 m² g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The eclipsed phase M3HHTT2 (M = Cu2+, Ni2+) has widely dispersed bands consisting of orbitals from both metal ions and ligands at the Fermi level.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the ligand HHTT on the crystal growth of 2D MOFs?",
+      "answer": "The HHTT ligand promotes a higher degree of both in-plane and out-of-plane crystallinity due to its large, electron-deficient core and enhanced π-stacking interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dense phase M6HHTT3 MOFs contain well-defined Co3(HHTT)(H2O)12 clusters centred in the hexagonal pockets defined by the 2D sheets.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pKa1 value of HHTT as predicted by calculations?",
+      "answer": "6.06",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The HRTEM data for Co6HHTT3 reveal alternating high- and low-contrast fringes spaced at 1.05 nm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the metal ion in defining the stacking sequence in 2D conductive MOFs?",
+      "answer": "The identity of the metal ion is an important variable in defining the stacking sequence in 2D conductive MOFs, influencing whether the structure will have eclipsed or staggered packing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The in-plane conductivity of ~100 S m−1 observed for Cu3HHTT2 is among the highest reported for any MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main conclusion regarding the relationship between structure and transport properties in 2D conductive MOFs?",
+      "answer": "The study establishes clear correlations between structure and transport properties in 2D conductive MOFs, highlighting the influence of π-conjugation, packing motif, and metal ions on electrical conduction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "materials": [
+    {
+      "name": "Zn2(dobpdc) crystals",
+      "synthesis_conditions": [
+        {
+          "step": "Reaction",
+          "chemicals_used": "Zn(NO3)2·6H2O, H4dobpdc",
+          "temperature": "100 °C",
+          "time": "2 days"
+        },
+        {
+          "step": "Washing",
+          "solvents": [
+            {
+              "name": "N,N-dimethylacetamide",
+              "amount": "excess"
+            },
+            {
+              "name": "methanol",
+              "amount": "excess"
+            },
+            {
+              "name": "toluene",
+              "amount": "excess"
+            }
+          ],
+          "method": "soaking",
+          "time_per_wash": "at least 2 h"
+        },
+        {
+          "step": "Activation",
+          "temperature": "250 °C",
+          "atmosphere": "flowing Ar",
+          "time": "12 h"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "technique": "Microscope Photographs",
+          "details": "Typical widths and lengths of crystals were marked."
+        },
+        {
+          "technique": "Gas Sorption Isotherms",
+          "details": "CO2 adsorption isotherm measured at 25 °C and N2 adsorption isotherm at 77 K."
+        },
+        {
+          "technique": "SEM",
+          "details": "Images with typical crystallite widths and lengths marked."
+        },
+        {
+          "technique": "Powder X-ray Diffraction",
+          "details": "Matched with simulated diffraction pattern."
+        },
+        {
+          "technique": "Elemental Analysis (EA) and Inductively Coupled Plasma – Optical Emission Spectrometry (ICP – OES)",
+          "details": "Mass percentages of C, H, N, and Zn were determined."
+        }
+      ]
+    },
+    {
+      "name": "Zn2(dobpdc) powder",
+      "synthesis_conditions": [
+        {
+          "chemicals_used": "H4dobpdc, ZnBr2·2H2O, ethanol, DMF",
+          "temperature": "120 °C",
+          "time": "12 h",
+          "atmosphere": "Ar"
+        },
+        {
+          "step": "Washing",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "500 mL"
+            },
+            {
+              "name": "methanol",
+              "amount": "500 mL"
+            }
+          ],
+          "method": "soaking",
+          "temperature": "120 °C",
+          "time_per_wash": "24 h"
+        },
+        {
+          "step": "Desolvation",
+          "temperature": "180 °C",
+          "atmosphere": "dynamic vacuum",
+          "time": "24 h"
+        }
+      ],
+      "characterization_methods": [
+        {
+          "technique": "SEM",
+          "details": "Images with typical crystallite widths and lengths marked."
+        },
+        {
+          "technique": "PFG NMR",
+          "details": "Measured effective diffusion faster than single crystals due to exchange of CO2 between smaller crystallites."
+        },
+        {
+          "technique": "Powder X-ray Diffraction",
+          "details": "Matched with simulated diffraction pattern."
+        }
+      ]
+    }
+  ]
+}

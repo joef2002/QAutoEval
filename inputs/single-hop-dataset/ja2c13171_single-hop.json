@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Programmed Polarizability Engineering in a Cyclen-Based Cubic Zr(IV) Metal–Organic Framework to Boost Xe/Kr Separation",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main goal of the study described in the article?",
+      "answer": "The main goal is to achieve selective separation of Xe/Kr by post-synthetically engineering framework polarizability in a programmable manner using a cubic zirconium-based MOF platform denoted as NU-1107.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the activation of NU-1107 and its metalated analogues?",
+      "answer": "Supercritical carbon dioxide (sc-CO2) activation method was used for the activation of NU-1107 and its metalated analogues.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NU-1107-Ag(I) exhibits the best performance for the separation of mixtures of both Xe/Kr and C3H6/C3H8 due to the strongest framework–Xe and −C3H6 interactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the cyclen moieties in NU-1107?",
+      "answer": "The cyclen moieties in NU-1107 act as potent chelators to accommodate a series of transition-metal ions including Co, Cu, Pd, and Ag through single-crystal-to-single-crystal transformations, offering an effective strategy to engineer framework polarizability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the predicted selectivity of NU-1107-Ag(I) for a 20:80 v/v Xe/Kr mixture at 298 K and 1.0 bar?",
+      "answer": "The predicted selectivity of NU-1107-Ag(I) for a 20:80 v/v Xe/Kr mixture at 298 K and 1.0 bar is 13.4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that NU-1107-Ag(I) has a higher Xe/Kr separation selectivity compared to MOF-525-Ag(II).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to confirm the position and coordination environment of the post-synthetically incorporated transition-metal ions?",
+      "answer": "Single-crystal X-ray diffraction (SCXRD) was used to confirm the position and coordination environment of the post-synthetically incorporated transition-metal ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NU-1107 framework collapses upon direct solvent removal via thermal activation under vacuum.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study's findings for gas separation technologies?",
+      "answer": "The study's findings are significant for gas separation technologies as they demonstrate a programmable approach to enhance the separation performance of MOFs for industrially relevant gas mixtures, potentially leading to more efficient and selective gas separation processes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

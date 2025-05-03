@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research conducted by Kota Sasano, Jun Takaya, and Nobuharu Iwasawa?",
+      "answer": "The main focus of the research is the Palladium(II)-Catalyzed Direct Carboxylation of Alkenyl C–H Bonds with CO2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What institution are the authors affiliated with?",
+      "answer": "The authors are affiliated with the Department of Chemistry, Tokyo Institute of Technology.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Cs2CO3 in the carboxylation reaction?",
+      "answer": "Cs2CO3 is used as a base in the carboxylation reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction conducted under atmospheric pressure of CO2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of 4-phenylcoumarin (2a) when using Cs2CO3 as the base?",
+      "answer": "The yield of 4-phenylcoumarin (2a) is high when using Cs2CO3 as the base.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction efficiency improve dramatically by using Cs2CO3 compared to other bases?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What solvent provided the best result for the carboxylation reaction?",
+      "answer": "Diglyme gave the best result for the carboxylation reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the reaction proceed without Pd(OAc)2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the hydroxy group in 2-hydroxystyrenes in the reaction?",
+      "answer": "The hydroxy group acts as a directing group for C–H activation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the carboxylation reaction of alkenyl C–H bonds with CO2 a novel approach?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed mechanism for the carboxylation reaction?",
+      "answer": "The proposed mechanism involves the formation of a six-membered alkenyl palladium intermediate, reversible nucleophilic carboxylation, and lactonization process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the key alkenylpalladium intermediate isolated during the study?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of isolating the alkenyl palladium intermediate?",
+      "answer": "Isolating the alkenyl palladium intermediate suggests the importance of the regeneration step of intermediate in the reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the carboxylation reactions of complexes 3a and 4a with CO2 proceed under the study conditions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What confirms the reversibility of the carboxylation reaction with CO2?",
+      "answer": "The formation of complex 3a′ similar to 3a(DMSO)2 by rapid decarboxylation confirmed the reversibility of the carboxylation reaction with CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the equilibrium of the carboxylation-decarboxylation reaction in favor of the decarboxylation side?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What shifts the equilibrium of the carboxylation-decarboxylation reaction to the carboxylation side?",
+      "answer": "The participation of the third molecule of substrate to regenerate complex 4a shifts the equilibrium to the carboxylation side.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of CsOH·H2O in the in situ formation of cesium carboxylate 2a-Cs?",
+      "answer": "CsOH·H2O is used to treat coumarin 2a, followed by the addition of Pd(OAc)2, to monitor the formation of complex 3a′ by decarboxylation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study provide a straightforward method for the synthesis of carboxylic acid derivatives?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the study's findings in the context of CO2 utilization?",
+      "answer": "The study's findings are significant as they provide a novel approach to functionalize alkenyl C–H bonds with CO2, contributing to the development of sustainable chemistry practices.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

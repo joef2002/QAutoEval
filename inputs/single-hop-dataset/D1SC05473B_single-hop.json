@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the molecular formula of complex 1?",
+      "answer": "C29H36Fe2N2O7P2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of geometry does the iron center in complex 4 display?",
+      "answer": "A distorted square pyramidal geometry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of TEA in the reaction with complex 6?",
+      "answer": "TEA acts as a proton source in the reaction with complex 6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is complex 3 diamagnetic or paramagnetic?",
+      "answer": "Diamagnetic",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the headspace analysis in the experiments?",
+      "answer": "Gas chromatography (GC)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to complex 6 upon electrochemical reduction in the presence of acid?",
+      "answer": "Complex 6 shows activity for the electrochemical hydrogen evolution reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction between complex 6 and TEA lead to the formation of iron hydride species?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to calculate the BDFE of pseudobenzylic C–H bonds?",
+      "answer": "Density Functional Theory (DFT) using the BP86 or B3LYP functional",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of protonation on complex 6?",
+      "answer": "Protonation of complex 6 can lead to iron hydride species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Faradaic efficiency of the bulk electrolysis experiment using complex 6 and TEA close to 100%?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed geometry around the iron center in complex 3?",
+      "answer": "A slightly distorted trigonal bipyramidal geometry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the diiron core in complex 6 be protonated in the presence of TEA?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the reaction between complex 6 and Brookhart’s acid followed by reduction with KC8 lead to H2 formation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of KC8 in the reaction with complex 6?",
+      "answer": "KC8 acts as a chemical reductant in the reaction with complex 6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the outcome of the stoichiometric protonation of complex 6 followed by reduction?",
+      "answer": "It results in H2 formation concomitant with re-formation of complex 6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the bridging CO ligand in complex 4 closer to the Fe(0) or Fe(I) center?",
+      "answer": "Closer to the Fe(0) center",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated BDFE value for the C–H bond in complex 1?",
+      "answer": "66 kcal.mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of a bridging CO ligand in complexes 5 and 6 indicate about their electron richness?",
+      "answer": "It indicates that complexes 5 and 6 are more electron rich.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the calculated BDFE value for the C–H bond in complex 1 close to the experimentally determined value?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect of chemical reduction followed by protonation on complex 6?",
+      "answer": "It leads to the formation of H2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

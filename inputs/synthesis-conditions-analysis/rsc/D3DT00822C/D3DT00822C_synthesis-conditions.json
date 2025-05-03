@@ -1,0 +1,82 @@
+{
+  "materials": [
+    {
+      "name": "Cu-POMCOF",
+      "synthesis_conditions": {
+        "temperature": "80°C",
+        "solvents": "distilled water",
+        "amount_of_solvent": "10 mL",
+        "equipment": "35 mL stainless steel reactor with a Teflon liner",
+        "chemicals_used": [
+          {
+            "name": "Na9[A-α-PW9O34]·7H2O",
+            "amount": "0.49 g"
+          },
+          {
+            "name": "HAc",
+            "amount": "0.2 mL"
+          },
+          {
+            "name": "CuCl2·2H2O",
+            "amount": "0.34 g"
+          },
+          {
+            "name": "dap",
+            "amount": "0.1 mL"
+          },
+          {
+            "name": "1,4-H2NDC",
+            "amount": "0.20 g"
+          },
+          {
+            "name": "2 M NaOH",
+            "purpose": "pH adjustment to 4.6"
+          }
+        ],
+        "time": "120 min stirring, then heated for 5 days",
+        "cooling_method": "cooled to room temperature",
+        "yield": "36% (220 mg) based on Na9[A-α-PW9O34]·7H2O"
+      }
+    },
+    {
+      "name": "MP-11@Cu-POMCOF",
+      "synthesis_conditions": {
+        "temperature": "room temperature (25±2 ℃)",
+        "solvents": "deionized water",
+        "chemicals_used": [
+          {
+            "name": "MP-11 solution",
+            "concentration": "1 mg/mL"
+          },
+          {
+            "name": "Cu-POMCOF",
+            "amount": "0.5 mg"
+          }
+        ],
+        "time": "3 h",
+        "washing_method": "washed 3 times with deionized water",
+        "storage": "stored at 0 ℃ for further use"
+      }
+    },
+    {
+      "name": "Cyt C@Cu-POMCOF",
+      "synthesis_conditions": {
+        "temperature": "room temperature (25±2 ℃)",
+        "solvents": "deionized water",
+        "chemicals_used": [
+          {
+            "name": "Cyt C solution",
+            "concentration": "1 mg/mL"
+          },
+          {
+            "name": "Cu-POMCOF",
+            "amount": "0.5 mg"
+          }
+        ],
+        "time": "3 h",
+        "washing_method": "washed 3 times with deionized water",
+        "storage": "stored at 0 ℃ for further use"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the LRuZn MOF?",
+      "answer": "C40H20N8O14RuZn",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for X-ray structure determination?",
+      "answer": "Bruker SMART Apex II CCD-based X-ray diffractometer system",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum absorption wavelength for the [LRu-H4](PF6)2 in methanol?",
+      "answer": "473 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to determine the Os-doping levels in Os-doped LRuZn MOFs?",
+      "answer": "Inductively coupled plasma-optical emission spectrometry (ICP-OES)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the lifetime of the [LOs-H4](PF6)2 in methanol?",
+      "answer": "41 ns",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the lifetime of Ru* emission change with Os doping in LRuZn MOF?",
+      "answer": "The lifetime decreases as the Os doping level is increased.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the Os* emission in Os-doped LRuZn MOF samples over time?",
+      "answer": "The Os* emission shows a delayed growth followed by decay.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the LRuZn MOF crystalline structure confirmed by comparing PXRD patterns?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the LRuZn MOF exhibit a dynamic red-shift in its emission spectrum?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Os* emission intensity independent of the Os doping level?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the synthesis of the metal complexes characterized by NMR spectroscopy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the LRuZn MOF have a tetrahedral geometry around the Zn center?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission lifetime of [LRu-H4](PF6)2 longer than that of [Ru(bpy)3](PF6)2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the LRuZn and LOsZn MOFs isostructural based on their PXRD patterns?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Os(II) complex show a broad absorption between 600-750 nm corresponding to direct excitation to the triplet state?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the function of the dichroic mirror in the time-resolved spectroscopy setup?",
+      "answer": "To reflect the excitation beam into the objective of an inverted microscope.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the biexponential kinetics observed in Ru emission transients?",
+      "answer": "It suggests the presence of different local environments within the MOF structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the dynamic red-shift in the LRuZn MOF emission spectrum indicate?",
+      "answer": "Energy transfer to lower energy Ru sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the acoustic optic modulator in the time-resolved spectroscopy setup?",
+      "answer": "To adjust the laser repetition rate to match the luminescence lifetime.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the observation of wavelength-dependent lifetimes in the LRuZn MOF suggest?",
+      "answer": "A systematic shift in lifetime across the emission band due to energy transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

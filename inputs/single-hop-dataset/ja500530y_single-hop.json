@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the metal-organic framework known as 2f?",
+      "answer": "C34H20N2O8Zn2∙1.3(C3H7NO)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to collect intensity data for single crystal X-ray diffraction?",
+      "answer": "Bruker Apex II DUO CCD diffractometer with a multilayer monochromator using Mo-Kα radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation from 2f to 3f reversible under the conditions investigated?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the temperature increase rate used during the single-crystal to single-crystal transformation experiment?",
+      "answer": "120 K h−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What change in structure occurs when 2f is converted to 3f?",
+      "answer": "2f converts from a doubly interpenetrated structure to a triply interpenetrated structure known as 3f.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the guest-accessible volume percentage change from 2f to 3f?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How was the phase purity of as-synthesized 2f and activated form 3f confirmed?",
+      "answer": "By comparison of experimental PXRD with the simulated PXRD patterns from the respective crystal structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do DMF molecules play in the structure of 2f and 3f?",
+      "answer": "DMF molecules act as guest molecules within the structure, with their presence and removal influencing the degree of interpenetration and porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was it possible to model all solvent molecules crystallographically in the structure of 2f?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to investigate the relationship between a bpy pillar and a zinc-ndc paddlewheel node?",
+      "answer": "Optimizations were carried out using the PW1PW91 functional, the 6-31G basis set with a single polarisation function and LANL2 pseudo potentials on the Zn atoms.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the DSC analysis for as-synthesized 2f crystals?",
+      "answer": "The broad endotherm around 170 °C corresponds to solvent loss.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the crystal quality deteriorate as a result of the single-crystal to single-crystal phase transformation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using supercritical CO2 in the study?",
+      "answer": "Supercritical CO2 was used for activation of 2f crystals to study the conversion to 3f under different conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was observed in the time-lapse solid-state UV-visible spectroscopy of 2f?",
+      "answer": "The reflectance spectrum slowly changed over time and after 12 hours resembled that of 3f.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the transformation from 2f to 3f be observed through optical microscopy?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system and space group of the as-synthesized 3f?",
+      "answer": "Monoclinic, space group C2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main difference between the structures of 3f and 3f'?",
+      "answer": "The structures of 3f and 3f' are distinguishable by their PXRD patterns, dihedral angles of the ligands, coordination angles, and crystallographic symmetry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the transformation from 2f to 3f spontaneous under ambient conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the guest-accessible volume in the structure of 2f?",
+      "answer": "44%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the significance of the angular scan carried out in the computational study?",
+      "answer": "The angular scan was performed to investigate how tilting the bpy molecule affects the coordination bond length, inclination angles, and the energy of the system, providing insights into the transformation mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of using mechanochemical synthesis in material construction?",
+      "answer": "The main goal is to achieve clean and energy-efficient construction of molecules and materials.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which method was extended to the synthesis of zeolitic imidazolate frameworks (ZIFs)?",
+      "answer": "Modified mechanochemical methods such as liquid-assisted grinding (LAG) or ion- and liquid-assisted grinding (ILAG) were extended to the synthesis of ZIFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The mechanochemical approach for ZIF synthesis can only produce known ZIFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of grinding ZnO and HIm without any liquid or salt?",
+      "answer": "The result was the partial formation of the nonporous Zn(Im)2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the addition of a small amount of liquid phase improve mechanochemical reactivity?",
+      "answer": "It enhances mobility while avoiding limitations related to solubility.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: LAG with HMeIm led to the formation of ZIF-8 with the sodalite (SOD) topology.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What effect does the addition of sub-stoichiometric amounts of salts have on ZIF synthesis?",
+      "answer": "It enhances the reactivity of ZnO towards the ligand, allowing for topologically selective ZIF synthesis within 30-60 minutes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All reactions with HMeIm yielded the SOD topology ZIF-8 regardless of the salt addition.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the topology of the ZIF obtained by ILAG with NH4NO3 and HEtIm?",
+      "answer": "The topology was a close-packed hexagonal framework with the beta-quartz (qtz) topology.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The addition of (NH4)2SO4 consistently led to the formation of a zeolite RHO topology.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of grinding liquid on the product topology when using NH4CH3SO3?",
+      "answer": "With EtOH, the qtz structure was obtained, while with DMF or DEF, ILAG yielded ZIF-14 with the analcime (ANA) topology.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZIFs with qtz and zni topologies demonstrates that ILAG only facilitates the construction of porous materials.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was observed when grinding for different times in the presence of NH4NO3 and HEtIm?",
+      "answer": "Initially, a mixture of RHO and ANA topologies was obtained, which eventually yielded a pure qtz framework after 60 minutes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The final product of the reaction between ZnO and HEtIm in the presence of NH4NO3 was always the qtz topology, regardless of grinding time.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the sequence RHO!ANA!qtz reflect in the context of ZIF transformations?",
+      "answer": "It reflects the increase in density of tetrahedral sites and follows framework energies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Potassium salts were found to be significantly more effective than ammonium salts in facilitating ZIF synthesis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of ammonium salts in the mechanochemical synthesis of ZIFs?",
+      "answer": "Ammonium salts facilitated the otherwise inefficient reaction of imidazoles with ZnO, enabling topologically selective ZIF synthesis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The mechanochemical approach for ZIF synthesis requires high temperatures to be effective.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in the mechanosynthesis of metal imidazolates from a metal oxide?",
+      "answer": "The main challenge was achieving quantitative conversion of the oxide.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did the researchers ensure reproducibility in their experiments?",
+      "answer": "Reactions were repeated to ensure reproducibility.",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

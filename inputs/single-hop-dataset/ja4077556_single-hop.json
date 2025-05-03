@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the general formula for the hybrid semiconductors discussed in the article?",
+      "answer": "[MQ(L)x] (M = Mn, Zn, Cd; Q = S, Se, Te; L = mono- or diamine, x = 0.5 or 1)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property is significantly enhanced in the VI-VI based hybrid semiconductors compared to their parent structures MoO3 and WO3?",
+      "answer": "Thermal conductivity is significantly reduced in the VI-VI based hybrid semiconductors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of organic linkers in the hybrid semiconductors MO3(L)x?",
+      "answer": "Organic linkers are used to connect inorganic components and contribute to the hybrid structure's properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the dimensionality of the inorganic component affect the band gap of the hybrid semiconductors?",
+      "answer": "The band gap values show a trend with respect to dimensionality, with 1D structures having larger band gaps than 2D and 3D structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of temperature on the thermal expansion behavior of 3D-MoO3(4,4′-bpy)0.5?",
+      "answer": "3D-MoO3(4,4′-bpy)0.5 exhibits negative thermal expansion along the b-axis over the entire temperature range studied.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hybrid semiconductors MO3(L)x exhibit negative thermal expansion behavior.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The dielectric constant of the hybrid semiconductors decreases with increasing frequency.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the interface-induced space charge polarization in hybrid structures?",
+      "answer": "It contributes to the high dielectric constants observed in the hybrid structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The thermal conductivity of the hybrid semiconductors is higher than that of their parent MoO3 and WO3 compounds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to measure the optical diffuse reflectance spectra?",
+      "answer": "A Shimadzu UV-3101PC double beam, double monochromator spectrophotometer was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of cold-pressing pressure on the sample porosity of MoO3 and 3D-MoO3(4,4′-bpy)0.5?",
+      "answer": "The sample porosity is very similar for two pressures, indicating only a slight difference in thermal conductivity values.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hybrid semiconductors based on MO3(L) structures are stable up to 300 °C for MoO3 based and 400 °C for WO3 based structures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of CuCl2·2H2O in the synthesis of [3D-MoO3(pyz)0.5]?",
+      "answer": "CuCl2·2H2O was crucial for generating a pure product of [3D-MoO3(pyz)0.5].",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of [1D-MoO3(4,4′-dm-2,2-bpy)] and [1D-WO3(4,4′-dm-2,2-bpy)] requires the same temperature and duration.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of incorporating organic linker molecules into the crystal lattices of MO3?",
+      "answer": "It leads to new hybrid structures with improved properties and new functionality, such as broad band gap tunability and reduced thermal conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of [2D-MoO3(py)] and [2D-WO3(py)] involves the use of pyridine as a reactant.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the effective medium theory in estimating the thermal conductivity of hybrid semiconductors?",
+      "answer": "It is used to estimate the thermal conductivity of idealized fully dense samples, accounting for the systematic transformable effect of porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hybrid semiconductors exhibit direct band gap semiconducting behavior.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of W metal in the formation of [3D-WO3(pyz)0.5]?",
+      "answer": "The use of W metal was crucial for the formation of compound [3D-WO3(pyz)0.5].",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of [3D-MoO3(4,4′-bpy)0.5] and [3D-WO3(4,4′-bpy)0.5] requires different temperatures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

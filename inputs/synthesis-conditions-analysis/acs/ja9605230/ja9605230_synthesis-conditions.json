@@ -1,0 +1,50 @@
+{
+  "materials": [
+    {
+      "material": "[(18C6)K][Cd(SCN)3]",
+      "synthesis_conditions": {
+        "solvents": "water",
+        "solvent_amounts_ml": ["10 mL"],
+        "temperature_C": "23 ± 2",
+        "chemicals_used": [
+          "CdSO4",
+          "MSCN",
+          "C12H24O6 (18C6)"
+        ],
+        "chemical_amounts_mmol": [
+          "0.2 M aqueous solution of CdSO4",
+          "3 equiv of 1 M aqueous solution of MSCN",
+          "4 mL of 0.5 M aqueous solution of C12H24O6 (18C6)"
+        ],
+        "time_h": "1",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    },
+    {
+      "material": "[(18C6)2Na2(H2O)2]1/2[Cd(SCN)3]",
+      "synthesis_conditions": {
+        "solvents": "water",
+        "solvent_amounts_ml": ["10 mL"],
+        "temperature_C": "23 ± 2",
+        "chemicals_used": [
+          "CdSO4",
+          "MSCN",
+          "C12H24O6 (18C6)"
+        ],
+        "chemical_amounts_mmol": [
+          "0.2 M aqueous solution of CdSO4",
+          "3 equiv of 1 M aqueous solution of MSCN",
+          "4 mL of 0.5 M aqueous solution of C12H24O6 (18C6)"
+        ],
+        "time_h": "1",
+        "yield": "Not specified",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified",
+        "equipment": "Not specified"
+      }
+    }
+  ]
+}

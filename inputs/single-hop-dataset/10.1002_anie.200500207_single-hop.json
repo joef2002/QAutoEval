@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study described in the text?",
+      "answer": "The study focuses on the synthesis and detailed characterization of a zwitterionic, helical tube of nanodimensions that mimics aquaporin water channels.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the zwitterionic coordination polymer 1?",
+      "answer": "The synthesis involved the reaction of the carboxy-functionalized imidazolium salt N,N'-diacetic acid imidazolium bromide with zinc in aqueous solution.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the structure of coordination polymer 1 characterized by single-crystal X-ray diffraction?",
+      "answer": "The structure of 1 was characterized at 140 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the coordination sphere around the zinc anion in polymer 1 described as a distorted tetrahedron?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study provide evidence of aggregates in the mass spectrum of polymer 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to confirm that polymer 1 exists as a monomer in solution?",
+      "answer": "Pulsed-field-gradient spin-echo (PGSE) diffusion measurements on 1 in D2O solution were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of recrystallizing polymer 1 from heavy water?",
+      "answer": "The purpose was to replace the water molecules with D2O to give the deuterated material 1-D for NMR spectroscopy studies.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the helices in polymer 1 packed in a hexagonal-based array?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of strong hydrogen bonds between the hydrogen atoms of the encapsulated water molecules and oxygen atoms of the inner wall in polymer 1 indicate?",
+      "answer": "It indicates that both hydrogen atoms of the water molecules point towards the wall of the tube, rather than to neighboring water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the motional freedom of free water molecules in polymer 1-D expected to increase with increasing temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the experimental 2H NMR spectra of 1-D reveal about the mobility of water molecules?",
+      "answer": "Increasing temperature results in line narrowing, suggesting that both types of water molecules move in the fast motional regime.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can water molecules be relatively easily removed from the channel of polymer 1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the comparison between polymer 1 and aquaporin water channels reveal?",
+      "answer": "It reveals fundamental differences, such as the orientation of water molecules and the strength of interactions between water molecules and the channel wall.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the rate of water transport in polymer 1 believed to be slower than in aquaporin channels?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of the crystalline form of the zwitterionic coordination polymer 1?",
+      "answer": "The yield was 96%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the study suggest that water molecules in polymer 1 undergo a fliplike motion similar to those in aquaporin channels?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the narrow resonance at d = 2.19 ppm in the 2H MAS NMR spectra of 1-D indicate?",
+      "answer": "It is assigned to residual [D6]acetone used in the preparation of 1-D.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the hydrogen-bonding interactions detailed in Table 1 for polymer 1?",
+      "answer": "They highlight the strong interactions between the encapsulated water molecules and the inner wall of the tube, contributing to the stability of the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the structure of polymer 1 also determined at ambient temperature?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of pronounced interhelical hydrogen bonding in polymer 1 suggest about its structural stability?",
+      "answer": "It suggests that the helical channels are supported by strong interhelical hydrogen bonding, contributing to the overall stability of the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

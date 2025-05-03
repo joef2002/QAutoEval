@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research on metal–organic frameworks (MOFs)?",
+      "answer": "The primary focus is on their design using crystal engineering strategies to target MOFs with specific composition and topology for various applications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What potential applications are mentioned for MOFs?",
+      "answer": "Potential applications include gas storage, separation, CO2 capture, sensors, and catalysis.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of high-connectivity polyhedral cage MBBs in MOFs?",
+      "answer": "They provide exquisite control over structure due to their high connectivity and afford features like confined nanospace and extra-large surface area, leading to superior performance in gas storage.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does MMPF-3 differ from fcu-MOF-1 in terms of structure?",
+      "answer": "MMPF-3 crystallizes in the same space group as fcu-MOF-1 but is based upon Co2(m2-H2O)(H2O)4(COO)4 MBBs that afford the cubohemioctahedral SBBs serving as 12-connected nodes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the observed surface area of MMPF-3 from CO2 adsorption at 273 K?",
+      "answer": "The observed surface area was about 750 m2 g-1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MMPF-3 demonstrated lower catalytic activity for epoxidation of trans-stilbene compared to fcu-MOF-1.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield and selectivity of MMPF-3 in the epoxidation of trans-stilbene?",
+      "answer": "The yield was 95.7% over 24 hours and the selectivity for the epoxide product was 87.1%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The catalytic performance of MMPF-3 is attributed solely to the higher density of active cobalt centers.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How many cycles could MMPF-3 be reused without significant drop in its catalytic activity?",
+      "answer": "MMPF-3 could be reused for eight cycles.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the custom-designed CoII metalloporphyrin ligand in MMPF-3?",
+      "answer": "It serves to decorate a previously known 12-connected MOF, fcu-MOF-1, generating a high density of catalytically active cobalt centers in MMPF-3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MMPF-3 does not exhibit permanent microporosity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the synthesis of MMPF-3?",
+      "answer": "MMPF-3 was prepared solvothermally from a novel porphyrin ligand and Co(NO3)2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The solvent-accessible volume of MMPF-3 is calculated to be 60%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the expected impact of the crystal engineering approach used in the study?",
+      "answer": "It is expected to be a broadly applicable approach for the development of new classes of highly efficient heterogeneous catalytic systems for epoxidation and related reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The cubohemioctahedral SBBs in MMPF-3 serve as 6-connected nodes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the temperature used for the solvothermal synthesis of MMPF-3?",
+      "answer": "The temperature used was 85°C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The yield of MMPF-3 based on dcdbp was 70%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the solvent mixture used in the synthesis of MMPF-3?",
+      "answer": "The solvent mixture (DMF, ethanol, and H2O) likely influences the solubility of reactants and the crystallization process, affecting the yield and purity of MMPF-3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal engineering approach for generating polyhedral cage-based nanoreactors is limited to MOFs with cobalt centers.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of tert-butyl hydroperoxide (tbhp) in the catalytic assays?",
+      "answer": "Tert-butyl hydroperoxide (tbhp) serves as the oxidant in the epoxidation of trans-stilbene.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of SION-19?",
+      "answer": "C29.8H31N6.6O8.75Zn1.5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature was used for single-crystal X-ray diffraction data collection of SION-19?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of SION-19?",
+      "answer": "Ccce",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula unit of SION-19 after desolvation (SION-19')?",
+      "answer": "[Zn1.5O0.25(Ade)(TBAPy)0.5](NH2Me2)0.5·(H2O)0.2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of SION-19'?",
+      "answer": "562(8) m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the loading percentage of thymine in SION-19' for successful dimerization?",
+      "answer": "40-45%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the elution time of thymine in UHPLC-EIS/MS analysis?",
+      "answer": "2.61 min",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the dimerization of thymine to form Thy<>Thy observed in HKUST-1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of adenine in SION-19 facilitate the dimerization of thymine?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the conversion rate of thymine to Thy<>Thy in SION-19' at 40% loading?",
+      "answer": "58.5%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the experimental parent ion m/z for Thy<>Thy in UHPLC-EIS/MS analysis?",
+      "answer": "253.0932 m/z",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the elution time for Thy<>Thy in UHPLC-EIS/MS analysis?",
+      "answer": "2.59 min",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can Zn-MOF-74 facilitate the dimerization of thymine?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of adenine in SION-19 for thymine dimerization?",
+      "answer": "Adenine acts as a structure-directing agent that 'locks' thymine molecules into positions close enough for photodimerization to occur.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dimerization of thymine to Thy<>Thy observed in Bio-MOF-1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula of the novel bio-MOF reported in the study?",
+      "answer": "SION-19",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of SION-19?",
+      "answer": "orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the percentage of guest molecules in SION-19?",
+      "answer": "26.9%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Woodward-Hoffmann and Schmidt rules in the study?",
+      "answer": "They govern the conditions for successful dimerization of thymine molecules in SION-19.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the dimerization of thymine to Thy<>Thy a unique property of SION-19 compared to other MOFs tested?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

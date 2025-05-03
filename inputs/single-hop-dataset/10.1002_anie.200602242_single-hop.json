@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary amino acid used in the synthesis of the nanoporous materials discussed?",
+      "answer": "Aspartic acid",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role does the aspartate anion play in the construction of porous metal–organic frameworks?",
+      "answer": "The aspartate anion serves as a suitable organic node for the construction due to its variety of coordination modes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using bidentate linker molecules in the synthesis of the nanoporous materials?",
+      "answer": "To generate porosity by connecting metal-aspartate units.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the composition of the open-framework material synthesized using Ni(l-asp)·3 H2O and 4,4’-bipyridine?",
+      "answer": "[Ni2(l-asp)2(bipy)]·guests",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The enantiopurity of the starting amino acid is not preserved in the final product.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of the chiral open-framework material synthesized?",
+      "answer": "P21212",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The channels in the synthesized material are defined by the length of the 4,4’-bipyridine ligand and the separation between nickel centers.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the solvent-accessible volume percentage of the synthesized material?",
+      "answer": "23.1%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The racemic phase of the material has a different morphology compared to the chiral phase under SEM examination.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of the desolvated material?",
+      "answer": "247(3) m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The framework of the material is unstable to guest loss.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest sorption ee value observed within the library of diol guests studied?",
+      "answer": "53.7% for 2-methyl-2,4-pentanediol",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The sorption of small chiral molecules by the material is not geometry-dependent.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of using host samples of lower enantiopurity on the observed ee value?",
+      "answer": "It reduces the observed ee value.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of the racemic form and the chiral form of the material are identical.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the sorption ee value of 1,2-butanediol compare to that of 1,3-butanediol?",
+      "answer": "1,2-butanediol displays considerably reduced enantioselection relative to 1,3-butanediol.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the internal surface chemistry in metal–organic frameworks for molecular recognition applications?",
+      "answer": "It is important for functional behavior such as chiral sorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Large-pore homochiral frameworks are effective in separating small-molecule guests.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the interactions between 2-methyl-2,4-pentanediol and 1,2-pentanediol with the framework?",
+      "answer": "Both alcohol groups of 2-methyl-2,4-pentanediol participate in hydrogen bonds with the framework, unlike 1,2-pentanediol.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the observation that not only channel size, but also channel surface chemistry, is important for functional behavior in metal–organic frameworks imply for future material design?",
+      "answer": "It suggests that designing frameworks with specific internal surface chemistries could lead to new classes of materials for applications like chiral catalysis and sorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

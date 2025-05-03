@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of separating n-alkanes from their branched isomers?",
+      "answer": "To improve the octane rating of gasoline.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of dynamic MOFs is utilized for the separation of hexane isomers?",
+      "answer": "The self-adjustable structure and pore space induced by guest molecules.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does lower temperature have on the dynamic pores in the context of n-Hexane adsorption?",
+      "answer": "Lower temperature prompts the guest molecules to open the dynamic pores.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the breathing effect in dynamic MOFs?",
+      "answer": "It leads to a continuous variation of pore size accompanied by structural transition, which is beneficial for separation processes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the adsorption behavior of n-Hexane and 3MP differ in the dynamic framework at 50 8C?",
+      "answer": "n-Hexane shows a higher uptake and is retained longer in the column compared to 3MP.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What role do porphyrin units play in MOF construction?",
+      "answer": "They are used for their catalytic activity and light-capturing property.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the separation of n-Hexane from 3-methylpentane important?",
+      "answer": "Because it is meaningful for the improvement of research octane number (RON) and the properties of monobranched hexanes are much closer to straight-chain.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the dynamic MOF's self-adjustable structure on n-Hexane?",
+      "answer": "It results in exceptional performance in separating hexane isomers due to commensurate adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the kinetic diameter of n-Hexane and 3MP affect their adsorption in the dynamic framework?",
+      "answer": "n-Hexane, having a smaller kinetic diameter, requires less pressure to open the pores compared to 3MP.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of the column breakthrough experiment at 65 8C for nHex and 3MP?",
+      "answer": "Nearly pure 3MP can be collected at the beginning, indicating effective separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adsorption rate of nHex change with temperature in the dynamic framework?",
+      "answer": "The adsorption rate of nHex decreases with increasing temperature, which is unusual for guest molecules in channels.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the reversible structure transformation of dynamic MOFs imply for their application in adsorptive separations?",
+      "answer": "It suggests that dynamic MOFs can adapt their pore size and structure in response to different guest molecules, enhancing separation efficiency.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the separation of n-alkanes from their branched isomers using dynamic MOFs energy-efficient?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the breathing effect in dynamic MOFs result in a fixed pore size?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the structure transformation of the dynamic framework be reversed by changing the guest molecules?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption capacity for n-Hexane and 3MP the same at all temperatures?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Do lower temperatures hinder the opening of dynamic pores for n-Hexane adsorption?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the kinetic diameter the only factor determining the framework structure in the presence of different guest molecules?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of metal centers in porphyrin ligands not affect the adsorption behavior of the dynamic framework?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption rate of 3MP higher than nHex at the same temperature in the dynamic framework?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

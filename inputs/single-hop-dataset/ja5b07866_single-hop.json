@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of the study described in the article?",
+      "answer": "The study aims to probe the limits of alkaline earth–transition metal bonding through experimental and computational methods.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which computational method was used in the study?",
+      "answer": "Gradient-corrected density functional theory (DFT) calculations were used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main finding regarding the bonding between alkaline earth metals and transition metals?",
+      "answer": "The study found that alkaline earth–transition metal bonding becomes weaker going down the group in the periodic table, and the bonding also becomes increasingly ionic.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the compound [Mg{Co(CO)3(PCy3)}2(THF)]2 successfully synthesized?",
+      "answer": "Yes, [Mg{Co(CO)3(PCy3)}2(THF)]2 was successfully synthesized and characterized.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study manage to synthesize a compound with a Be–Co bond?",
+      "answer": "No, the study was unable to synthesize a compound with a Be–Co bond.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unusual structure was obtained when attempting to synthesize a calcium analogue with the [CpRu(CO)2]– anion?",
+      "answer": "An unusual cubane-like structure [CaRp(µ3-OH)(THF)]4 was obtained.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the compound [Yb{Co(CO)3(PCy3)}2(THF)3]2 paramagnetic?",
+      "answer": "Yes, [Yb{Co(CO)3(PCy3)}2(THF)3]2 is paramagnetic, which prevented accurate NMR integration.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study found that the electrostatic EDA term is the largest for systems with neutral fragments.",
+      "answer": "False, it is highly unusual for the electrostatic EDA term to be the largest for systems with neutral fragments.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the disproportionation reaction involving Sm{Co(CO)3(PCy3)}2(THF)3?",
+      "answer": "The disproportionation reaction resulted in the formation of Sm{Co(CO)3(PCy3)}3(THF)3.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study's computational analyses suggest that Ae–Co bonding is predominantly covalent.",
+      "answer": "False, the computational analyses suggest that Ae–Co bonding is predominantly ionic.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used as an internal reference signal in diffusion NMR measurements?",
+      "answer": "The residual toluene solvent signal was used as an internal reference signal in diffusion NMR measurements.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What did the study conclude about the use of [Co(CO)3(PCy3)]– anion compared to Fp–?",
+      "answer": "The study concluded that [Co(CO)3(PCy3)]– is a better-suited probe of Ae–TM bonding than Fp–, both on electronic grounds and in terms of solubility in nondonor solvents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study was able to accurately determine the elemental analysis for all synthesized compounds.",
+      "answer": "False, a satisfactory elemental analysis could not be obtained for some compounds due to their extreme sensitivity or paramagnetic nature.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenge did the study face when synthesizing compounds with a Be–Co bond?",
+      "answer": "The study faced the challenge of the extreme toxicity of finely divided Be, preventing the formation of a target compound with a Be–Co bond.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the presence of additional THF despite prolonged drying could affect the elemental analysis results.",
+      "answer": "True, the higher than expected %C,H in some analyses may reflect retention of additional THF despite prolonged drying.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of diffusion NMR spectroscopy in the study?",
+      "answer": "Diffusion NMR spectroscopy was used to probe the solution structures of certain compounds and monitor for possible viscosity differences between sample preparations.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study successfully synthesized a compound with a direct Be–Co bond.",
+      "answer": "False, the study was unable to synthesize a compound with a direct Be–Co bond.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What did the study reveal about the effect of the cobalt substituent in Ae–Co bonding?",
+      "answer": "The study revealed that changing the cobalt substituent from Co(CO)3(PCy3) to Co(CO)4 resulted in a decrease in Ae–Co interaction energy and lengthened Ae–Co bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the Ae–Co bonding strength increases from Be to Sr.",
+      "answer": "False, the study found that the Ae–Co bonding strength decreases from Be to Sr.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational tools were used for atoms-in-molecules analyses?",
+      "answer": "The AIMALL programme was used for atoms-in-molecules analyses.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

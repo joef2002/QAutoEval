@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is the design of highly robust, active, and reusable cobalt-bipyridine- and cobalt-phenanthroline-based metal–organic framework (MOF) catalysts for alkene hydrogenation and hydroboration, aldehyde/ketone hydroboration, and arene C–H borylation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key properties of the MOF catalysts mentioned in the article?",
+      "answer": "The MOF catalysts are highly robust, active, and reusable, and they show unprecedentedly high turnover numbers and frequencies for alkene hydrogenation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of site isolation in the MOFs according to the article?",
+      "answer": "Site isolation of the highly reactive species in the MOFs prevents intermolecular deactivation and stabilizes solution-inaccessible catalysts for broad-scope organic transformations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational and spectroscopic evidence supports the ground state of the catalytically active species in MOFs?",
+      "answer": "Computational, spectroscopic, and kinetic evidence support a (bpy•–)­CoI(THF)2 ground state that coordinates to alkene and dihydrogen, undergoing σ-complex-assisted metathesis to form the active catalytic species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the turnover number (TON) achieved by mBPP-MOF-Co in the hydrogenation of 1-octene?",
+      "answer": "mBPP-MOF-Co displayed a TON of 2.5 × 10^6 in the hydrogenation of 1-octene.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF catalysts can only be used once for alkene hydrogenation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the bpyv-MOF-Co and mBPP-MOF-Co materials in arene borylation reactions?",
+      "answer": "The bpyv-MOF-Co and mBPP-MOF-Co materials were active in arene borylation reactions, with mBPP-MOF-Co being at least 125 times more active than its homogeneous control in terms of TONs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF catalysts are less active than their homogeneous counterparts for alkene hydrogenation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to investigate the Co coordination environments in the MOFs?",
+      "answer": "X-ray absorption spectroscopy (XAS) was used to investigate the Co coordination environments in the MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF-based strategy for discovering molecular base-metal catalysts is limited to alkene hydrogenation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential impact of MOFs in sustainable chemical catalysis according to the article?",
+      "answer": "MOFs provide a novel platform for discovering new base-metal molecular catalysts and exhibit enormous potential in sustainable chemical catalysis for a wide range of organic transformations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF catalysts tolerate a variety of functional groups in alkene hydrogenation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the turnover frequency (TOF) achieved by mBPP-MOF-Co in the first 9 hours of catalysis?",
+      "answer": "A turnover frequency of 1.1 × 10^5 h^–1 per cobalt center was achieved by mBPP-MOF-Co in the first 9 hours.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do MOFs compare to traditional homogeneous base-metal catalysts in terms of stability and activity?",
+      "answer": "MOFs enhance the stability and activity of base-metal catalysts by preventing intermolecular deactivation pathways, showing significantly higher catalytic activity and robustness compared to traditional homogeneous base-metal catalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF catalysts' performance in alkene hydrogenation is unaffected by the presence of mercury.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NaBEt3H in the preparation of MOF-Co catalysts for alkene hydrogenation?",
+      "answer": "NaBEt3H is used to treat MOF-CoCl2 materials, converting them into highly active catalysts for the hydrogenation of a range of olefins at room temperature.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF catalysts are only effective for alkene hydrogenation and not for hydroboration or C–H borylation reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the heterogeneity of MOF-catalyzed hydrogenation reactions?",
+      "answer": "Experiments separating the MOF solid from the reaction mixture and adding a new substrate showed that conversion only occurred in the presence of the MOF solid, proving the heterogeneity of MOF-catalyzed hydrogenation reactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF catalysts' activity in alkene hydrogenation is significantly reduced after multiple reuse cycles.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the (bpy•–)­CoI(THF)2 ground state in the context of MOF-catalyzed reactions?",
+      "answer": "The (bpy•–)­CoI(THF)2 ground state is significant because it suggests a novel and highly reactive state of the cobalt catalyst within the MOF, which is stabilized by the MOF structure and is key to the high catalytic activity observed in various organic transformations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

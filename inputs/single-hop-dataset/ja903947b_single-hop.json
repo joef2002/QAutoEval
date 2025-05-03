@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the direct white-light-emitting metal-organic framework discussed?",
+      "answer": "[AgL]n·nH2O, where L = 4-cyanobenzoate",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the tunable yellow-to-white photoluminescence in the discussed metal-organic framework?",
+      "answer": "Variation of excitation light",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photoluminescence of the metal-organic framework is sensitive to UV light between 300–370 nm.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the density of states (DOS) for the metal-organic framework?",
+      "answer": "Density functional theory (DFT) using the CASTEP code",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of UV light on the metal-organic framework's appearance?",
+      "answer": "It changes from white to pale yellow",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure and configuration of the ligand in the metal-organic framework remain unchanged after UV light illumination.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the external quantum yield of the metal-organic framework when excited by 349-nm light?",
+      "answer": "10.86%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the intensity of photoluminescence peaks change with the variation of excitation light?",
+      "answer": "Decrease of the wavelength of excitation light lowers the intensity of the 427-nm peak but enhances that of peaks at approximately 513, 566, and 617 nm",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photoluminescence intensity of the metal-organic framework decreases with continued UV light exposure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical techniques were used to verify the phase purity of the synthesized metal-organic framework?",
+      "answer": "Elemental analysis, IR spectrum, thermogravimetric analysis (TGA), and powder X-ray diffraction (PXRD)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The metal-organic framework's photoluminescence can be tuned from yellow to white by adjusting the excitation light to approximately 350 nm.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Et3N or NaOH in the synthesis of the metal-organic framework?",
+      "answer": "They react with 4-cyanobenzoic acid in hot water to form a clear colorless solution, which upon addition of AgNO3, yields the metal-organic framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CIE-1931 chromaticity coordinates of the white-light emissions excited by 350- and 349-nm light are approximately (0.31, 0.33) and (0.33, 0.34), respectively.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the CIE-1931 chromaticity coordinates in the context of the metal-organic framework?",
+      "answer": "They indicate the color of the emitted light, with coordinates close to (0.33, 0.34) representing pure white light.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The absorption peak of the metal-organic framework extends from approximately 460 nm to the near-IR region.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the metal-organic framework's photoluminescence intensity upon saturation illumination by UV light?",
+      "answer": "The photoluminescence intensity decreases clearly with the increase of illumination time before saturation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The metal-organic framework's crystal structure and ligand configuration are altered after exposure to UV light.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the lattice water molecules in the structure of the metal-organic framework?",
+      "answer": "The lattice water molecules are part of the crystal structure but were not included in the density of states calculation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The metal-organic framework's emission peaks at 427 and 566 nm are comparable in intensity when excited by approximately 350 nm light.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome of replacing Et3N with NaOH in the synthesis of the metal-organic framework?",
+      "answer": "A similar result is obtained, indicating that both can be used to synthesize the metal-organic framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the Mesitylcopper-Stabilized Tetrasilicide Tetraanion?",
+      "answer": "[(MesCu)2(h3-Si4)]4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who was the first tetrahedral tetrasilane prepared by and in what year?",
+      "answer": "Wiberg in 1993",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What solvent was used to isolate [Si9]n(2-) clusters?",
+      "answer": "Liquid ammonia",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the ratio of [Si4]4(2-) and [Si9]4(2-) clusters in neat solids A12Si17?",
+      "answer": "2:1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of reactions between R3PCuCl and A12Si17 in liquid ammonia?",
+      "answer": "Isolation of Rb4Si9(NH3)5, which contains the fourfold negatively charged polysilicide anion [Si9]4(2-)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structural difference between the polysilicide anion in Rb4Si9(NH3)5 and Rb4Si9(NH3)4.75?",
+      "answer": "The hexagonal arrangement of 2 a along a screw axis parallel to [001] and its coordination environment",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of the reaction between K6Rb6Si17, MesCu, and [18]crown-6 in liquid ammonia?",
+      "answer": "Formation of [Rb([18]crown-6)]2Rb1.54K0.46[(MesCu)2Si4](NH3)12",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the [Si4]4(2-) anion stable according to quantum-chemical calculations?",
+      "answer": "Yes, as indicated by large HOMO–LUMO gaps",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the coordination of MesCu fragments affect the Cu–C and C–C bonds?",
+      "answer": "No, the Cu–C and the C–C bonds of the MesCu fragments are not affected by the coordination to the silicon tetrahedron",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Cu–Si bond in [(MesCu)2Si4]4(2-) considered electrostatic?",
+      "answer": "Yes, the Cu–Si bond is considered as an electrostatic interaction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can highly charged silicon clusters be obtained and handled in solution?",
+      "answer": "Yes, the formation of [(MesCu)2Si4]4(2-) shows that highly charged silicon clusters can be obtained and handled in solution",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination of copper(I) to tetrahedral P4 similar to the coordination of MesCu to the silicon tetrahedron?",
+      "answer": "Yes, the coordination is comparable as both involve bridging between molecules and elongation of coordinated bonds",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The first tetrahedral tetrasilane was prepared in 1983.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: [Si9]n(2-) clusters were isolated using dimethylformamide as a solvent.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The reaction between R3PCuCl and A12Si17 in liquid ammonia led to the isolation of a compound containing [Si4]4(2-).",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The polysilicide anion in Rb4Si9(NH3)5 has a C4v symmetry.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The reaction between K6Rb6Si17, MesCu, and [18]crown-6 in liquid ammonia did not yield any crystalline product.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The HOMO–LUMO gaps indicate instability of the [(MesCu)2Si4]4(2-) anion.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MesCu fragments in [(MesCu)2Si4]4(2-) are considered charged ligands.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The coordination of copper(I) to tetrahedral P4 involves a h1 fashion.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "materials": [
+    {
+      "name": "Mg2(dobpdc)(2-2-2)",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "activation_temperature": "225°C",
+        "tetraamine_loading_post_activation": "98% per 2 Mg2+",
+        "equipment": "scintillation vial",
+        "time": "24 h",
+        "washing_method": "toluene washes",
+        "drying_method": "drying on the filter for 2 min under vacuum"
+      }
+    },
+    {
+      "name": "Mg2(dobpdc)(2-3-2)",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "activation_temperature": "225°C",
+        "tetraamine_loading_post_activation": "106% per 2 Mg2+",
+        "equipment": "scintillation vial",
+        "time": "24 h",
+        "washing_method": "toluene washes",
+        "drying_method": "drying on the filter for 2 min under vacuum"
+      }
+    },
+    {
+      "name": "Mg2(dobpdc)(3-2-3)",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "activation_temperature": "225°C",
+        "tetraamine_loading_post_activation": "106% per 2 Mg2+",
+        "equipment": "scintillation vial",
+        "time": "24 h",
+        "washing_method": "toluene washes",
+        "drying_method": "drying on the filter for 2 min under vacuum"
+      }
+    },
+    {
+      "name": "Mg2(dobpdc)(3-3-3)",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "activation_temperature": "240°C",
+        "tetraamine_loading_post_activation": "94% per 2 Mg2+",
+        "equipment": "scintillation vial",
+        "time": "24 h",
+        "washing_method": "toluene washes",
+        "drying_method": "drying on the filter for 2 min under vacuum"
+      }
+    },
+    {
+      "name": "Mg2(dobpdc)(3-4-3)",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "activation_temperature": "240°C",
+        "tetraamine_loading_post_activation": "114% per 2 Mg2+",
+        "equipment": "scintillation vial",
+        "time": "24 h at 60°C",
+        "washing_method": "toluene washes",
+        "drying_method": "drying on the filter for 2 min under vacuum"
+      }
+    },
+    {
+      "name": "Mg2(dobpdc)(3-3)",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "activation_temperature": "200°C",
+        "tetraamine_loading_post_activation": "103% per 2 Mg2+",
+        "equipment": "scintillation vial",
+        "time": "24 h",
+        "washing_method": "toluene washes",
+        "drying_method": "drying on the filter for 2 min under vacuum"
+      }
+    },
+    {
+      "name": "Mg2(dobpdc)(3-4)",
+      "synthesis_conditions": {
+        "solvent": "toluene",
+        "activation_temperature": "200°C",
+        "tetraamine_loading_post_activation": "103% per 2 Mg2+",
+        "equipment": "scintillation vial",
+        "time": "24 h",
+        "washing_method": "toluene washes",
+        "drying_method": "drying on the filter for 2 min under vacuum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of ligand engineering in the context of the article?",
+      "answer": "The main goal of ligand engineering in the context of the article is to achieve enhanced ratiometric oxygen sensing in a silver cluster-based metal-organic framework.",
+      "difficulty_level": "Easy",
+      "type": "Factual"
+    },
+    {
+      "question": "What unique property does Ag12bpy-NH2 exhibit according to the article?",
+      "answer": "Ag12bpy-NH2 exhibits a dual fluorescence-phosphorescence emission with a 100-nm gap in wavelength and 8,500,000-fold difference in lifetime between the blue fluorescence component and the yellow phosphorescence component.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The synthesis method for Ag12bpy-NH2 is identical to that of Ag12bpy.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the limit of detection (LOD) for oxygen quantification using Ag12bpy-NH2?",
+      "answer": "The limit of detection for oxygen quantification using Ag12bpy-NH2 is as low as 0.1 ppm.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "How does the introduction of amino groups affect the intersystem crossing in Ag12bpy-NH2?",
+      "answer": "The introduction of amino groups in Ag12bpy-NH2 strongly triggers spin-orbit coupling (SOC) and increases the rate of intersystem crossing (ISC), thus prolonging the lifetime of the phosphorescence component.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The photoluminescence properties of Ag12bpy-NH2 are solvent-dependent.",
+      "answer": "False",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the response time of Ag12bpy-NH2 for oxygen sensing?",
+      "answer": "The response time of Ag12bpy-NH2 for oxygen sensing is 0.3 seconds.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: Ag12bpy-NH2 can function as a single-component Fl-Ph ratiometric sensor for molecular oxygen.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the amino groups play in the luminescence of Ag12bpy-NH2?",
+      "answer": "The amino groups in Ag12bpy-NH2 facilitate an efficient intersystem crossing process from the lowest singlet to the lowest triplet excited states, leading to enhanced phosphorescence.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The phosphorescence component of Ag12bpy-NH2 is sensitive to oxygen in solution.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of introducing bulky -CH3 groups on the oxygen sensing performance of Ag12bpy-CH3?",
+      "answer": "Introducing bulky -CH3 groups in Ag12bpy-CH3 interferes with the oxygen collision dynamics, making its phosphorescence emission less sensitive to oxygen compared to Ag12bpy-NH2.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Ag12bpy-NH2 requires the presence of ammonium hydroxide.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the pore void space change upon introducing amino groups in Ag12bpy-NH2 compared to Ag12bpy?",
+      "answer": "The pore void space decreases from 21.6% for Ag12bpy to 17.5% for Ag12bpy-NH2 upon introducing amino groups.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The emission spectra of Ag12bpy-NH2 are nearly independent of the solvent.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the 15,000-fold enhancement in the phosphorescence lifetime of Ag12bpy-NH2?",
+      "answer": "The 15,000-fold enhancement in the phosphorescence lifetime of Ag12bpy-NH2 indicates an efficient intersystem crossing process and contributes to the material's ultra-sensitive response to oxygen.",
+      "difficulty_level": "Hard",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The amino groups in Ag12bpy-NH2 contribute to the stabilization of the triplet excited state.",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the solvent in the synthesis of Ag12bpy-NH2?",
+      "answer": "The solvent plays a key role in the structure of SCC-MOFs during the synthesis of Ag12bpy-NH2, with CH2Cl2 and ammonium hydroxide being crucial for obtaining the desired structure.",
+      "difficulty_level": "Medium",
+      "type": "Reasoning"
+    },
+    {
+      "question": "True or False: The photoluminescence properties of Ag12bpy-NH2 under vacuum show highly separated dual emissions.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the quantum yield (QY) of the phosphorescence component of Ag12bpy-NH2 under vacuum?",
+      "answer": "The quantum yield of the phosphorescence component of Ag12bpy-NH2 under vacuum is 14.6%.",
+      "difficulty_level": "Medium",
+      "type": "Factual"
+    },
+    {
+      "question": "True or False: The synthesis of Ag12bpy-NH2 involves a reaction of AgStBu, CF3COOAg, and bpy-NH2 in a mixed solvent of NH4OH and CH2Cl2.",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    }
+  ]
+}

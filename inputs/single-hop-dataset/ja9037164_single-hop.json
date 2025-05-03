@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Synthesis, Structure, and Bonding of Stable Complexes of Pentavalent Uranyl",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Grégory Nocton, Pawel Horeglad, Valentina Vetere, Jacques Pécaut, Lionel Dubois, Pascale Maldivi, Norman M. Edelstein, and Marinella Mazzanti",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja9037164",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the article?",
+      "answer": "The article focuses on the synthesis, structure, and bonding of stable complexes of pentavalent uranyl.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the names of the complexes discussed in the article?",
+      "answer": "The complexes discussed include [UO2(py5)][KI2(py2)]n, [UO2(py5)]I.py, [UO2(salan-tBu2)(py)K]n, [UO2(salan-tBu2)(py)K(18C6)], [UO2(salan-tBu2)(py)][Cp*2Co], and [UO2(salophen-tBu2)(py)K].",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the magnetic measurements in the study?",
+      "answer": "Magnetic measurements were carried out using a Quantum Design SQUID MPMS-XL 5.0 susceptometer.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational method was used in the study?",
+      "answer": "The theoretical study of uranium complexes was performed with the ADF2007 DFT code using a GGA functional (PBE) combined with Triple-ζ Slater type orbital (STO) valence basis sets.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the complexes [UO2(salan-tBu2)(py)K]n and [UO2(salophen-tBu2)(py)K] according to the article?",
+      "answer": "These complexes are significant because they represent stable complexes of pentavalent uranyl that are fully stable in organic solution and resistant to hydrolysis, demonstrating the importance of ligand design for the stability of such complexes.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the complex [UO2(py5)][KI2(py2)]n EPR silent at 4 K?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study find that the presence of bulky substituents is crucial for preventing disproportionation in pentavalent uranyl complexes?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the complex [UO2(salophen-tBu2)(py)K] found to have a higher redox potential compared to [UO2(salan-tBu2)(py)K]?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article provide evidence that cations coordinating the yl-oxygens of pentavalent uranyl significantly affect the electronic structure and stability of the complex?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the article, does the complex [UO2(salan-tBu2)(py)K]n show full stability in solvents other than pyridine?",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the complex [UO2(salophen-tBu2)(py)K] stable in the presence of 1000 equivalents of water?",
+      "answer": "True",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study conclude that the coordination chemistry of pentavalent uranyl can be expanded by careful tuning of both steric and electronic properties of the supporting ligand?",
+      "answer": "True",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    }
+  ]
+}

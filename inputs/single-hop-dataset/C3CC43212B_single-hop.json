@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the yield percentage of Co-1 based on HL?",
+      "answer": "57%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the crystal data for compound 1?",
+      "answer": "Pnma",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum temperature at which the wT product of compound 1 reaches its peak?",
+      "answer": "9.5 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Curie constant for compound 2?",
+      "answer": "1.21 emu K mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the blocking temperature of the Co-rich system with x = 0.21 at 1 kHz?",
+      "answer": "4.4 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Weiss constant for compound 1?",
+      "answer": "27.2 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of increasing the Co fraction from 0 to 0.79 on the blocking temperature?",
+      "answer": "The blocking temperature increases from below 1.8 K to about 3.3 K at 1 kHz.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the incorporation of a small amount of CoII into the NiII material affect the blocking temperature?",
+      "answer": "It leads to a large enhancement in the blocking temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the relationship between the Curie constant and the composition x in the CoII1-xNiIIx MOFs?",
+      "answer": "The Curie constant decreases as x increases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates that the CoII1-xNiIIx materials are pure phases with good microscopic homogeneity?",
+      "answer": "The ac susceptibilities show strong frequency-dependent maxima with composition- and frequency-dependent temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the typical range of the attempt time (to) for the dynamics observed in the CoII1-xNiIIx materials?",
+      "answer": "1 x 10^-10 to 6 x 10^-10 s",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic dynamics observed in the CoII1-xNiIIx materials likely of spin-glass nature?",
+      "answer": "No",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound 1 considered a single-chain magnet (SCM)?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 exhibit superparamagnet-type dynamics?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the blocking temperature of the Co-rich system always lower than that of both parent materials?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the Curie constant increase as the composition x increases in the CoII1-xNiIIx MOFs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic behavior of the CoII1-xNiIIx materials typical of SCMs?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the incorporation of NiII into the CoII material always decrease the blocking temperature?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic dynamics of the CoII1-xNiIIx materials influenced by the site randomness?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the CoII1-xNiIIx materials exhibit identical IR spectra and very similar X-ray diffraction patterns?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the chemical formula of the compound Myochrysine?",
+            "answer": "The chemical formula of Myochrysine is Na2CsAu2(L)(LH), where L is the thiomalate ligand [O2C-CH2-CH(S)-CO2]3-.",
+            "type": "factual"
+        },
+        {
+            "question": "In what space group does gold thiomalate crystallize?",
+            "answer": "Gold thiomalate crystallizes in the tetragonal space group P(-4)b2 (No. 117).",
+            "type": "factual"
+        },
+        {
+            "question": "What is the ratio of Au:S:Na:Cs in the unit cell of the crystal structure?",
+            "answer": "In the unit cell, the atoms are situated in positions such that the ratio of Au:S:Na:Cs is 2:2:2:1.",
+            "type": "factual"
+        },
+        {
+            "question": "What are the two independent Au-S distances found in the crystal structure?",
+            "answer": "Both Au-S distances are essentially equivalent: Au1-S = 2.289(8) \u811c, Au2-S = 2.285(7) \u811c.",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to solve the crystal structure?",
+            "answer": "The structure was solved using conventional heavy-atom techniques.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the current agreement factor R(F) to which the structure was refined?",
+            "answer": "The structure was refined to a present agreement factor of R(F) = 7.1%.",
+            "type": "factual"
+        },
+        {
+            "question": "Why does the charge balance require half of the thiomalate ligands to be monoprotonated in the crystal structure?",
+            "answer": "To preserve charge balance with the Au:S:Na:Cs ratio of 2:2:2:1, half of the thiomalate ligands must be monoprotonated. This is consistent with commercial Myochrysine being a mixture of monosodium and disodium salts.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the reason suggested for the distortion from linearity of one of the independent gold atoms?",
+            "answer": "The reason for the distortion from linearity of one of the gold atoms is not immediately apparent, but it may simply have to do with crystal packing effects.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the Au-S-Au angle found compare to previous estimates?",
+            "answer": "The Au-S-Au angle of 99.2\u63b3 is in reasonably good agreement with a previous estimate of 94\u63b3.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the likely reason the average of the two close Au-Au vectors agrees well with a previous EXAFS/WAXS peak?",
+            "answer": "The average of the two close Au-Au vectors of 3.227 \u811c and 3.485 \u811c is 3.356 \u811c, which agrees well with a previous 3.35 \u811c peak found by EXAFS/WAXS. This peak likely represents an unresolved composite of the two Au-Au vectors found in this X-ray analysis.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How does the structure of gold thiomalate compare to a previously reported polymeric silver thiolate structure?",
+            "answer": "The structure of gold thiomalate is reminiscent of a previously reported polymeric silver thiolate (AgSR)n structure, which also involves intertwined, double-stranded metal/sulfur chains. The main difference is the repeating unit is octameric (AgSR)8 in the silver case, while it is tetrameric in gold thiomalate.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What mechanism was suggested for how the polymeric silver/sulfur chains could rearrange into rings upon dissolution?",
+            "answer": "A \"crossover\" mechanism was suggested by which the intertwined silver/sulfur chains exchange Ag-S bonds in a concerted fashion to give rise to octameric rings in solution upon dissolution of the polymeric silver thiolate.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Is there evidence that the solid-state chain structure of gold thiomalate persists in solution?",
+            "answer": "Yes, a WAXS/DAS analysis showed virtually the same radial distribution function for gold thiomalate in solution and in a solid-state mull, strongly implying the solid-state chain structure is maintained in solution.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or false: Gold thiomalate exists as a cyclic tetramer in the solid state.",
+            "answer": "False. Gold thiomalate exists as a polymeric double helix in the solid state, not a cyclic tetramer.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The use of anionic additives was found to be critical for crystallizing gold thiomalate.",
+            "answer": "False. The use of cationic additives, specifically cesium ions, was found to be decisive for successfully crystallizing gold thiomalate.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The two independent gold atoms in the unit cell are both perfectly linear.",
+            "answer": "False. One gold atom is essentially linear with S-Au1-S = 178.9\u63b3, while the other is significantly distorted from linearity with S-Au2-S = 169.4\u63b3.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The structure determination confirms gold thiomalate exists as an open-chain hexamer in the solid state, as previously proposed.",
+            "answer": "False. While an open-chain hexamer model was previously proposed, this structure determination reveals gold thiomalate actually exists as a polymeric double helix in the solid state.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: It is definitively known that gold thiomalate maintains the same polymeric structure in solution as in the solid state.",
+            "answer": "False. While there is strong evidence the chain structure may persist in solution, it is not definitively known if the solution structure is the same polymeric double helix found in the solid state.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The crystal structure of gold thiomalate was solved using direct methods.",
+            "answer": "False. The crystal structure was solved using conventional heavy-atom techniques, not direct methods.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The related compound gold thioglucose likely has a very similar polymeric structure to gold thiomalate.",
+            "answer": "True. A WAXS analysis of gold thioglucose showed a very similar spectrum to gold thiomalate, implying an analogous polymeric structure.",
+            "type": "true_false"
+        }
+    ]
+}

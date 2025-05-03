@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main feature of coordination networks mentioned in the text?",
+      "answer": "Coordination networks often contain substitution-active metal sites in their framework.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does ligand exchange have on coordination networks?",
+      "answer": "Ligand exchange affects the d-orbital configuration, leading to electronic and spin control of coordination networks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the classical example of chromism upon ligand exchange mentioned?",
+      "answer": "Cobalt shows chromism upon ligand exchange in the solid state.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What ligands were shown to be reversibly coordinated to the cobalt center?",
+      "answer": "Aqua and nitrate ligands were shown to be reversibly coordinated to the cobalt center.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of the orange-yellow single crystals produced?",
+      "answer": "The yield of the orange-yellow single crystals produced was 76%.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the chromism of the crystal?",
+      "answer": "The chromism of the crystal is ascribed to the energy-level change of the d orbitals of cobalt induced by apical-ligand exchange.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the crystal upon heating at 150 8C for 24 hours?",
+      "answer": "Upon heating at 150 8C for 24 hours, the yellow crystal turns red with no loss of crystallinity, and the apical water molecules are substituted by two nitrate ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the stability of the crystal enhanced?",
+      "answer": "The stability of the crystal is enhanced by infinite 1D hydrogen-bond arrays that interpenetrate the layers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the crystal upon exposure to air at room temperature after the heating process?",
+      "answer": "Upon exposure to air at room temperature after the heating process, the crystal changes back to the initial aqua form and the color returns to yellow.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of ethylene glycol chains in the crystal?",
+      "answer": "The ethylene glycol chains add stabilization to the crystal due to hydrogen-bond formation and introduce moderate flexibility inside the cavity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of the nitrate anion on the HOMO–LUMO energy gap?",
+      "answer": "The nitrate anion decreases the HOMO–LUMO energy gap in the complex, causing a red shift of the absorption bands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is observed in the crystallographic analysis after the apical-ligand exchange?",
+      "answer": "The crystallographic analysis after the apical-ligand exchange reveals that the apical water molecules had been substituted by two nitrate ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the ligand-exchange process commonly observable by single-crystal X-ray diffraction studies?",
+      "answer": "False, the ligand-exchange process is seldom observable by single-crystal X-ray diffraction studies due to the drastic structural changes.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal lose its crystallinity upon ligand exchange?",
+      "answer": "False, the crystal retains its crystallinity upon ligand exchange.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the newly obtained aqua form after exposure to air structurally different from the original structure?",
+      "answer": "False, the newly obtained aqua form is almost superimposable on the original structure.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal volume increase after the removal of water molecules?",
+      "answer": "False, the crystal volume decreases from 4263.9(7) to 4036.0(16) cubic angstroms after the removal of water molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the ethylene glycol chains in the crystal static?",
+      "answer": "False, the mobility of the carbon and oxygen atoms in the ethylene glycol side chains significantly increases in the absence of guest molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal of 2 lose all water molecules at temperatures above 150 8C?",
+      "answer": "False, thermogravimetric analysis shows loss of all water molecules in the range 25–90 8C.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the apical-ligand-exchange reaction at a cobalt ion within a square-grid coordination network a common observation?",
+      "answer": "False, ligand exchange at a metal is a bimolecular reaction and can rarely be observed by X-ray crystallography.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal of 2 show two endothermic peaks in DSC analysis due to the release of coordinated and noncoordinated water?",
+      "answer": "True, DSC analysis of a crystal of 2 shows two endothermic peaks attributed to the release of coordinated water from the cobalt ion and noncoordinated water from the cavity.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

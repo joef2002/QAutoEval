@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the new organic-inorganic hybrid framework based on titanium oxide reported in the study?",
+      "answer": "USTC-700",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon is attributed to USTC-700's ability to absorb more D2 than H2 at low temperatures?",
+      "answer": "Quantum sieving",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range does USTC-700 show high D2/H2 selectivity?",
+      "answer": "30 K – 60 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the D2/H2 selectivity range demonstrated by USTC-700?",
+      "answer": "7.3-9.5",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of USTC-700 new or previously known?",
+      "answer": "The structure of USTC-700 is new.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purity level of D2 gas used in the USTC-700 experiments?",
+      "answer": "99.8%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to determine physisorption isotherms in the study?",
+      "answer": "Volumetric method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique is used to study the separation processes in USTC-700?",
+      "answer": "Thermal desorption spectroscopy (TDS)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does USTC-700 have a higher selectivity for D2 over H2 in mixture measurements?",
+      "answer": "Due to fast kinetics and more favorable sorption affinity caused by electrostatic effect from the functional groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the selectivity of D2/H2 by TDS be overestimated due to the method used in the study?",
+      "answer": "No, an overestimation of the selectivity by TDS can be confidently ruled out as numerous measurements on multiple samples have shown high reproducibility.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does USTC-700 use a pure or mixed gas for TDS measurements?",
+      "answer": "Mixed gas of H2/D2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is USTC-700 considered a practical material for D2/H2 KQS or TQS separation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the TDS technique involve reaching equilibrium before measurement?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the purity of H2 gas used in the experiments higher than that of D2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the adsorption/desorption kinetics for H2/D2 on USTC-700 considered slow?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does cooling the sample to 20 K after gas exposure at different temperatures lead to a redistribution of the adsorbed molecules on USTC-700?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can gas impurities be a reason for the observed TDS peaks in the USTC-700 study?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the selectivity for D2 over H2 in USTC-700 due to the presence of strong adsorption sites?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does USTC-700 demonstrate a quantum sieving effect at temperatures above 77 K?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the thermal desorption spectroscopy (TDS) technique used in the USTC-700 study a standard surface science technique?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

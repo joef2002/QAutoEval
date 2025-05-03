@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical composition of STAM-17-OEt?",
+      "answer": "Cu(C10O5H8)·1.6H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize STAM-17-OEt?",
+      "answer": "Hydrothermal methods",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main characteristic of MOFs that leads to potential applications as storage and delivery materials?",
+      "answer": "Extremely high porosity and surface area",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does STAM-17-OEt exhibit better hydrolytic stability compared to HKUST-1?",
+      "answer": "Due to the presence of weak, sacrificial bonds in the material that act as 'crumple zones' to protect the structure from water damage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to STAM-17-OEt when it is exposed to moisture?",
+      "answer": "It retains its structural integrity even after contact with water for one year.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main drawback of MOFs according to the text?",
+      "answer": "Their relatively low stability, especially when challenged with reactive adsorbates such as water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of toxic gases from breathable air for personal protection is an example where the porosity of MOFs lends itself to real-world applications.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Changing the chemical composition of the MOF itself is the only way to increase its stability.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 'sacrificial' bonds in the coordination environment of metal centres in MOFs?",
+      "answer": "They endow a dehydrated copper-based MOF with good hydrolytic stability by breaking upon exposure to water, allowing the framework to recover its as-synthesized, hydrated structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: STAM-17-OEt undergoes significant structural changes upon dehydration that are observable in 13C solid-state NMR spectra.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the improved stability of STAM-17-OEt compared to HKUST-1?",
+      "answer": "The crumple zone mechanism that directs energy from water adsorption away from critical bonding, protecting the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The electronic properties of the linker in the MOF structure are the major reason for the improved hydrolytic stability of STAM-17-OEt.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the mass of STAM-17-OEt when exposed to a moist environment at 298 K?",
+      "answer": "It shows an initial rapid increase in mass as the dehydrated material adsorbs water, then no further change.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption capacity of HKUST-1 for ammonia decreases immediately upon exposure to moisture.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of changing the 5-substituent on the isophthalate linker from ethoxy to methylcarboxy (-CO2Me) on the MOF's stability?",
+      "answer": "The MOF behaves in the same way as STAM-17-OEt, showing that the electronic properties of the linker are not the major reason for improved stability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The presence of weak, sacrificial bonds in STAM-17-OEt is the only factor contributing to its improved hydrolytic stability.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main characteristic of hemilabile MOFs?",
+      "answer": "They allow the possibility of the formation of new weak bonds on removal of the coordinated water molecules, maintaining structural integrity as water is readsorbed.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of water on STAM-17-OEt leads to the indiscriminate breaking of metal-linker framework bonds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main goal of recent research in improving the stability of MOFs?",
+      "answer": "Increasing the stability of MOFs by changing the chemical composition or using post-synthetic modifications.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The flexibility of MOFs, such as that which occurs in materials like MIL-53, involves bond breaking or rearrangement.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

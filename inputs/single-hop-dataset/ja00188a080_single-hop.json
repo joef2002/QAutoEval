@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the article discussing the synthesis and crystal structure of a novel one-dimensional halogen-bridged nickel(III) compound?",
+      "answer": "1989",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is one of the authors of the article on the novel one-dimensional halogen-bridged nickel(III) compound?",
+      "answer": "Koshiro Toriumi",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article discussing the synthesis of a novel one-dimensional halogen-bridged nickel(III) compound?",
+      "answer": "10.1021/ja00188a080",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the atomic parameters for [Ni(R,R-chxn)2Br]Br2 measured as per Table II?",
+      "answer": "-152°C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the bond angle between Ni-N-C(1) at 25°C as per Table IV?",
+      "answer": "108.6(3) degrees",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the isotropic equivalent thermal parameter (Beq) for Ni at 25°C according to Table I?",
+      "answer": "1.04 (2)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the atomic parameters provided, which compound's structure was analyzed at both 25°C and -152°C?",
+      "answer": "[Ni(R,R-chxn)2Br]Br2",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the bond distance between Ni-Br(1) change significantly from 25°C to -152°C according to Table IV?",
+      "answer": "No, it changes from 2.580(1) to 2.578(1) Å, which is not significant.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the isotropic thermal parameter for hydrogen atoms higher at -152°C compared to 25°C for [Ni(R,R-chxn)2Br]Br2?",
+      "answer": "No, it is generally lower at -152°C.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the anisotropic thermal parameters for Ni at 25°C be directly compared to those at -152°C?",
+      "answer": "No, because the parameters are measured under different conditions and scales.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the bond angle N-Ni-Br(1) larger at -152°C than at 25°C?",
+      "answer": "Yes, it increases from 91.7(1) to 92.0(1) degrees.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound [NiBr2([14]aneN4)]C104 have a higher isotropic equivalent thermal parameter (Beq) for Ni compared to [Ni(R,R-chxn)2Br]Br2 at 25°C?",
+      "answer": "Yes, [NiBr2([14]aneN4)]C104 has a Beq of 1.4 for Ni, which is higher than that of [Ni(R,R-chxn)2Br]Br2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "The article was published in the Journal of the American Chemical Society.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The atomic parameters for [Ni(R,R-chxn)2Br]Br2 were measured at 25°C and 100°C.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The isotropic thermal parameter for Br(1) at -152°C is lower than at 25°C for [Ni(R,R-chxn)2Br]Br2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The bond distance between Ni-Br(1) is shorter at -152°C than at 25°C.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The article provides atomic parameters for more than one compound.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The bond angle N-Ni-Br(1) decreases significantly from 25°C to -152°C.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The isotropic thermal parameters for hydrogen atoms are provided for both 25°C and -152°C.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The anisotropic thermal parameters for Ni are the same at 25°C and -152°C.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of the bis(oxazoline) ligand in the structure?",
+      "answer": "The bis(oxazoline) ligand occupies a bridging position between two nearly linear, two-coordinate copper(I) ions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the counterion in the complex and is it associated with the metal center?",
+      "answer": "The counterion is triflate, and it is dissociated from the metal center.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the ligand conformation affect the polymer assembly?",
+      "answer": "The ligand adopts a conformation where the large tert-butyl group is directed away from the center, directing both the assembly of the polymer and the sense of helicity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is complex 2 paramagnetic based on its NMR spectra?",
+      "answer": "No, the complex is not paramagnetic as indicated by sharp resonances observed in the 'H and 13C NMR spectra.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the polymeric structure of complex 2 remain intact in solution?",
+      "answer": "No, rapid ligand redistribution occurs in solution, disrupting the polymeric structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield and enantioselectivity of the cyclopropanation reaction using complex 2 as a catalyst?",
+      "answer": "The yield is 75% with an enantioselectivity of 98% ee for each isomer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The triflate counterion is closely associated with the metal center in the complex.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The bis(oxazoline) ligand's chirality does not influence the polymer's helicity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Cu-N bond lengths in complex 2 are atypical for two-coordinate copper(I).",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Solutions of copper(I) complex 2 are highly stable in air.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The solid complex 2 can be stored for months in air without deterioration.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The IR spectrum of complex 2 in CHCl3 solution does not show any strong absorbance indicative of a non-coordinated triflate.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The cyclopropanation reaction using complex 2 as a catalyst results in a low enantioselectivity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the configuration of the major diastereomeric product in the cyclopropanation reaction?",
+      "answer": "The major diastereomeric product is 3R.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the configuration of the minor product compare across different studies?",
+      "answer": "The configuration of the minor product was not the same in the three reports.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the X-ray crystal structure of complex 2 reveal about the copper(I) atoms?",
+      "answer": "The copper(I) atoms are sterically protected from oxidation by the tert-butyl groups.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the outcome of the cyclopropanation reaction when using the pre-catalyst 8?",
+      "answer": "The outcome is the same products 3R and 4R with similar enantioselectivity as when using catalyst 2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the stereochemical relationship between the 2-phenylcyclopropanecarboxylate isomers?",
+      "answer": "The X-ray crystal structure of the amide obtained by reaction of 3S with (R)-1-phenylethylamine confirms the stereochemical relationship.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the bis(oxazoline)-CuOTf complex 2 in cyclopropanation reactions?",
+      "answer": "It forms an effective catalyst for the enantioselective cyclopropanation of olefins with diazoacetic acid esters.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of only one oxazoline moiety in the NMR spectra of complex 2 indicate?",
+      "answer": "It indicates the equivalence of the two heterocycles caused either by symmetry or fluctuation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

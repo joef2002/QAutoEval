@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What two compounds were investigated for their methane storage properties?",
+            "answer": "Co(bdp) and Fe(bdp) were investigated for their methane storage properties.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the bridging ligand used in Co(bdp) and Fe(bdp)?",
+            "answer": "The bridging ligand used in Co(bdp) and Fe(bdp) is 1,4-benzenedipyrazolate (bdp2-).",
+            "type": "factual"
+        },
+        {
+            "question": "What is the key property of the methane adsorption isotherms of Co(bdp) and Fe(bdp) that enables high usable capacities?",
+            "answer": "The methane adsorption isotherms of Co(bdp) and Fe(bdp) feature a sharp step, transitioning from minimal adsorption at low pressures to high adsorption at higher pressures. This enables high usable capacities between the storage and minimum desorption pressures.",
+            "type": "factual"
+        },
+        {
+            "question": "What structural change occurs in Co(bdp) and Fe(bdp) that is responsible for the stepped methane adsorption isotherms?",
+            "answer": "Co(bdp) and Fe(bdp) undergo a reversible structural phase transition between a collapsed, non-porous phase at low methane pressures and an expanded, porous phase at high methane pressures. This phase transition is responsible for the stepped adsorption isotherms.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How do the crystallographic densities of the collapsed and expanded phases of Co(bdp) compare?",
+            "answer": "The crystallographic density of the collapsed phase of Co(bdp) is 1.50 g/cm3, which is nearly double the density of the expanded phase at 0.77 g/cm3.",
+            "type": "factual"
+        },
+        {
+            "question": "What interactions stabilize the collapsed phase of Co(bdp) at low pressures?",
+            "answer": "In the collapsed phase of Co(bdp), the central benzene ring of the bdp2- ligand twists 25\u63b3 out of the pyrazolate plane, resulting in edge-to-face \u87fa-\u87fa interactions with four neighboring benzene rings. These interactions likely provide the thermodynamic driving force for the collapse at low pressures.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What are the highest reported usable methane capacities at 35 bar and 65 bar for Co(bdp)?",
+            "answer": "The usable methane capacity of Co(bdp) is 155 cm3 STP/cm3 for adsorption at 35 bar and 197 cm3 STP/cm3 for adsorption at 65 bar, which are the highest reported values for any adsorbent under these conditions.",
+            "type": "factual"
+        },
+        {
+            "question": "How does the structural phase transition in Co(bdp) and Fe(bdp) help mitigate the heat released during methane adsorption compared to classical adsorbents?",
+            "answer": "The expansion of the Co(bdp) and Fe(bdp) frameworks during methane adsorption is endothermic, so some of the heat of adsorption goes towards providing the energy for the phase transition. This reduces the overall heat released compared to adsorption in a rigid framework without a phase transition.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the differential enthalpy of methane adsorption in the steepest region of the Co(bdp) isotherm and how does it compare to classical adsorbents?",
+            "answer": "The differential enthalpy of methane adsorption in the steepest region of the Co(bdp) isotherm is -8.4 kJ/mol, which is considerably lower than the -12 to -25 kJ/mol seen in classical adsorbents with high methane capacities. This is because the endothermic framework expansion partially offsets the heat of adsorption.",
+            "type": "factual"
+        },
+        {
+            "question": "How much heat is released per liter of Co(bdp) when increasing the methane pressure from 5.8 to 35 bar, and how does this compare to HKUST-1?",
+            "answer": "73.4 kJ of heat is released per liter of Co(bdp) when increasing the methane pressure from 5.8 to 35 bar. This represents a 33% reduction compared to the 109 kJ/L released by HKUST-1, even though Co(bdp) adsorbs 8% more methane.",
+            "type": "factual"
+        },
+        {
+            "question": "True or false: The usable methane capacity of Fe(bdp) is higher than Co(bdp) at 35 bar and 65 bar.",
+            "answer": "False. While Fe(bdp) has a higher energy phase transition that offsets more heat, the usable methane capacities of Fe(bdp) (150 v/v at 35 bar and 190 v/v at 65 bar) are slightly lower than those of Co(bdp) (155 v/v at 35 bar and 197 v/v at 65 bar).",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: Applying external mechanical pressure to Co(bdp) shifts the adsorption and desorption steps to higher pressures.",
+            "answer": "True. Applying increasing mechanical pressure to Co(bdp) shifts both the adsorption and desorption isotherm steps to higher methane pressures, consistent with an increase in the energy of the phase transition.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The crystallographic density of Co(bdp) changes when it undergoes a paracrystalline distortion.",
+            "answer": "False. A paracrystalline distortion involves correlated movements of atoms that maintain the same average periodicity and density as the original crystal. The crystallographic density is the same before and after a paracrystalline distortion.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The crystal structures reported for Co(bdp) and Fe(bdp) would be significantly affected by any local structural disorder in the materials.",
+            "answer": "False. The average crystal structures reported are accurate representations of the atomic structures. Any local correlated or uncorrelated structural disorder would not affect the bulk density or pore volume within the large number of unit cells in a single crystal.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The heat of adsorption in Co(bdp) approaches that of weak physisorption after the phase transition to the expanded phase is complete.",
+            "answer": "True. After the phase transition to the expanded Co(bdp) phase is complete, the differential enthalpy approaches -13 kJ/mol, consistent with weak physisorption in the absence of a phase transition to mitigate heat.",
+            "type": "true_false"
+        },
+        {
+            "question": "True or false: The adsorption and desorption steps in the Co(bdp) and Fe(bdp) isotherms shift to higher pressures at lower temperatures.",
+            "answer": "False. Consistent with other flexible frameworks, the methane adsorption and desorption steps in Co(bdp) and Fe(bdp) shift to lower pressures at lower temperatures.",
+            "type": "true_false"
+        },
+        {
+            "question": "What causes the anisotropic peak broadening observed in the powder X-ray diffraction patterns of the collapsed phases of Co(bdp) and Fe(bdp)?",
+            "answer": "The anisotropic peak broadening is caused by a paracrystalline distortion involving correlated shifts in the positions of the metal-pyrazolate chains in the ab plane. Neighboring chains exhibit average displacements of ~0.5 \u811c from their periodic positions.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How do the Co2+ coordination geometries compare between the collapsed and expanded phases of Co(bdp)?",
+            "answer": "The Co2+ ions adopt a similar pseudotetrahedral geometry in both the collapsed and expanded phases. However, the angles between the pyrazolate ring planes and the Co-N bonds decrease as the framework expands.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What technique was used to directly measure the differential enthalpies of methane adsorption in Co(bdp) to confirm the values calculated from variable-temperature isotherms?",
+            "answer": "Variable-pressure microcalorimetry experiments were used to directly measure the differential enthalpies of methane adsorption in Co(bdp). The calorimetry results were in excellent agreement with the enthalpies calculated from variable-temperature adsorption isotherms.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the collapsed phases of Co(bdp) and Fe(bdp) compare structurally?",
+            "answer": "The collapsed phases of Co(bdp) and Fe(bdp) are nearly identical, with both featuring edge-to-face \u87fa-\u87fa interactions between bdp2- ligands and no accessible porosity.",
+            "type": "factual"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the quantum yield of 2D organic–metal halide perovskite materials?",
+      "answer": "63.55%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the TADF lifetime of 2D organic–metal halide perovskite materials at ambient temperature and atmosphere?",
+      "answer": "103.12 ms",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What effect is used to enhance the quantum yield in 2D organic–metal halide perovskite materials?",
+      "answer": "A combined influence of a 2D space/electronic confinement effect and a modest heavy-atom tuning strategy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the rigid laminate structure in perovskites?",
+      "answer": "It effectively inhibits the non-radiative decay of excitons.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The design of materials that exhibit both long luminescent lifetime and high solid-state emissive efficiency is no longer a challenge.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in designing molecular solid-state materials for display, sensoring, and bio-imaging applications?",
+      "answer": "Simultaneously balancing high quantum efficiency and long-lasting luminescence lifetime.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Systems with high luminescence efficiency near 100% typically have long lifetimes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main emission band of delayed fluorescence in CdCl2-4HP?",
+      "answer": "416 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The delayed fluorescence emission band of CdCl2-4HP does not overlap with its prompt PL spectrum.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CIE chromaticity coordinates of prompt fluorescence for CdCl2-4HP?",
+      "answer": "(0.17, 0.12)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The lifetimes of the short-lived and long-lived excited states under ambient conditions for CdCl2-4HP are the same.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the emission at 444 nm in CdCl2-4HP with increasing temperature?",
+      "answer": "The emission at 444 nm gradually lessens in intensity and excited lifetime.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The 444 nm emission band in CdCl2-4HP exhibits TADF properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated energy gap (DEST) between S* and T* excited state levels in CdCl2-4HP?",
+      "answer": "0.19 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The PLQY of CdBr2-4HP is higher than that of CdCl2-4HP.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the PLQY of CdBr2-4HP?",
+      "answer": "25.36%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is proposed for designing solid-state luminescent materials with ultralong blue TADF and high PLQY?",
+      "answer": "A strategy that combines 2D confinement and the heavy-atom effect.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CdCl2-4HP perovskite exhibits a TADF lifetime shorter than 100 ms.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main source of photoluminescence in CdCl2-4HP according to DFT calculations?",
+      "answer": "The organic molecule 4HP.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CdCl2-4HP perovskite can be used for information encryption and optical logic gate applications.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

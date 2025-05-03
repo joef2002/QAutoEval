@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of SnClDIPY?",
+      "answer": "C20H21ClN2Sn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for geometry optimizations in the computational analysis?",
+      "answer": "Density functional theory using B3LYP functional",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the melting point range of SnClDIPY?",
+      "answer": "158-163 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Was the fluorescence quantum yield of SnClDIPY higher or lower than that of BODIPY?",
+      "answer": "Lower",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction of SnClDIPY with AgOTf leads to the formation of [SnDIPY][OTf].",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of SnClDIPY from its synthesis?",
+      "answer": "74%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of SnClDIPY was determined using SHELXS-97.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using n-BuLi in the synthesis of SnClDIPY?",
+      "answer": "To generate the lithium dipyrrinato in situ for reaction with SnCl2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The fluorescence quantum yield of [SnDIPY][OTf] is greater than that of SnClDIPY.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the final yield of [SnDIPY][OTf] after purification?",
+      "answer": "52%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The absorption property of [SnDIPY][OTf] is different from that of SnClDIPY.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of AgOTf in the synthesis of [SnDIPY][OTf]?",
+      "answer": "To convert SnClDIPY to the cationic tin species [SnDIPY][OTf]",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction of [SnDIPY][OTf] with Bu4NCl reversibly transforms it back to SnClDIPY.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the quantum yield of [SnDIPY][OTf]?",
+      "answer": "0.42",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The fluorescence properties of SnClDIPY can be reversibly controlled.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main reason for the low fluorescence quantum yield of SnClDIPY?",
+      "answer": "The existence of the lone-pair orbital energetically close to the π orbital",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction of SnClDIPY with other metal triflates like Cu(OTf)2 and Zn(OTf)2 also increased its fluorescence emission.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the absorption maximum (λmax) of SnClDIPY?",
+      "answer": "509 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the authors choose dipyrromethenes as ligands for stannylenes?",
+      "answer": "Because when introduced to a boron atom or transition metals, they gain excellent optical properties",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main goal of the study conducted by Kobayashi, Kushida, and Kawashima?",
+      "answer": "To synthesize a novel stannylene bearing the dipyrromethene ligand and reversibly control its fluorescent properties",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using a terbium complex in cell imaging?",
+      "answer": "The terbium complex is used for multiphoton absorption processes in cell imaging due to its strong, observable, three-photon-induced f−f emission, low cytotoxicity, and potential as a future infrared excitation imaging dye.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of cells were used for in vitro studies with the terbium complex?",
+      "answer": "A549, HONE1, and HeLa carcinoma cell lines were used for in vitro studies.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The terbium complex has high cytotoxicity in cell imaging applications.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the tripodal ligand in the synthesis of the terbium complex?",
+      "answer": "The tripodal ligand N-[2-(bis{2-[(3-methoxybenzoyl)amino]-ethyl}amino)ethyl]-3-methoxybenzamide (L) is treated with Tb salts to give the terbium complexes, playing a crucial role in the complex's formation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the three-photon absorption process confirmed for the terbium complex?",
+      "answer": "The three-photon absorption process is confirmed by a power-dependence experiment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The terbium complex can be excited with red or near-infrared light due to multiphoton excitation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the observed effects on cells after exposure to the terbium complexes?",
+      "answer": "After exposure to the terbium complexes, more than 95% of the cells exhibited green luminescence in the cytoplasmic foci around the cell nucleus.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes the terbium complex a potential candidate for future infrared excitation imaging dyes?",
+      "answer": "Its strong, observable, three-photon-induced f−f emission, low cytotoxicity, and the ability to be excited by near-infrared excitation at 800 nm make it a potential candidate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The terbium complex demonstrates multiphoton-induced f−f emission only outside of cells.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the long lifetime and high quantum yield of the terbium complex?",
+      "answer": "The long lifetime and high quantum yield are significant because they contribute to the complex's effectiveness in biological applications, allowing for specific and narrow emission bands and longer emission lifetimes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The terbium complex has a broad emission spectrum which can easily be confused with biological autofluorescence.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the advantages of using lanthanide as the emitter in live cell imaging?",
+      "answer": "Using lanthanide as the emitter offers advantages such as very specific and narrow emission bands, longer emission lifetimes, and overcoming problems with quantum efficiency, solubility, toxicity, and localization of the dyes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The terbium complex can be excited directly under the same experimental conditions outside of the cell.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the terbium complex on cell viability according to the MTT assay?",
+      "answer": "The results of the MTT assay showed that the viability of the cells was similar to that of the controls, indicating low cytotoxicity of the terbium complex.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The terbium complex is resistant to interference from light scattering in the cell culture medium.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ligand in the synthesis of the terbium complex?",
+      "answer": "The ligand acts as a crucial component in forming the terbium complex by reacting with Tb salts.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The terbium complex exhibits multiphoton luminescent properties only in the presence of specific cell types.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the potential applications of the terbium complex in biological research?",
+      "answer": "Potential applications include studying signal transduction, cytokinesis during cancer cell division, antibody conjugation, and fluorescence recovery after photobleaching (FRAP).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The terbium complex's emission is unaffected by the presence of Hoechst 33342-labeled nuclei.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the terbium complex from conventional two-photon dyes?",
+      "answer": "The terbium complex is distinguished by its ability to show strong, observable, three-photon-induced f−f emission, unlike most commercially available two-photon dyes which are organic compounds with broad emission spectra.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

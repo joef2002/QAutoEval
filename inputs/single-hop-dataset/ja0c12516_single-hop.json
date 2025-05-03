@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using isotropic cation substitution in a zero-dimensional S = 1 magnet?",
+      "answer": "To control magnetic anisotropy.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method is used to confirm the Zn/Ni ratio in the mixed-metal compound?",
+      "answer": "X-ray fluorescence spectroscopy.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal structure of [Zn0.8Ni0.2(HF2)(pyz)2]SbF6 is different from its end member compounds.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique is employed to measure the magnetization of [Zn0.8Ni0.2(HF2)(pyz)2]SbF6 at fields of up to 60 T?",
+      "answer": "Pulsed-field magnetometry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the base temperature provided by the 3He cryostat used in pulsed-field magnetometry measurements?",
+      "answer": "0.5 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: High-field, high-frequency ESR spectra of powdered samples were recorded using a spectrometer with a resonant cavity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the compensated-coil susceptometer in pulsed-field magnetometry?",
+      "answer": "To measure the magnetization of the sample.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of [Ni(HF2)(pyz)2]SbF6 has been previously described in detail.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the percolation threshold calculated to be x = 0.311 in the context of the material's magnetic properties?",
+      "answer": "It indicates the concentration of Ni(II) ions at which a single cluster spans the lattice, affecting long-range magnetic order.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetization data for x = 0.2 are calibrated using high-field SQUID M(H) results performed at a similar temperature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of small, exchange-correlated regions in the sample indicate about its magnetic behavior?",
+      "answer": "It suggests that even below the percolation threshold, localized magnetic interactions can influence the overall magnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The lattice parameters of the [Zn0.8Ni0.2(HF2)(pyz)2]SbF6 solid solution were determined by averaging the parameters of three isostructural phases.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of isotropic Zn(II) ion substitution on the anisotropic lattice strain in the material?",
+      "answer": "It causes an anisotropic lattice expansion within the MN4 plane, affecting the material's magnetic anisotropy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis process for the compounds involves the use of hydrofluoric and hexafluoroantimonic acids.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the plateau in the χ(T) data for x = 0.2 below about 4 K indicate about the Ni(II) ground-state?",
+      "answer": "It indicates the zero-field splitting of the Ni(II) ground-state in a tetragonal ligand field.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ESR spectra of the pure [Ni(HF2)(pyz)2]SbF6 end-member were easily interpreted.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using a three-phase model in the refinement of powder diffraction data?",
+      "answer": "To account for compositional inhomogeneities across isostructural phases in the solid solution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The saturation magnetization at high fields for x = 0.2 was found to be M_sat = xg̃S = 0.38(1)­μB/formula unit.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the increase in the axial magnetic anisotropy (D) from 13.3(1) K to 16.2(2) K indicate?",
+      "answer": "It indicates an enhancement in the magnetic anisotropy due to anisotropic lattice strain caused by Zn(II) substitution.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds [Zn(HF2)(pyz)2]SbF6 and [Zn0.8Ni0.2(HF2)(pyz)2]SbF6 are not isomorphous to [Ni(HF2)(pyz)2]SbF6.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

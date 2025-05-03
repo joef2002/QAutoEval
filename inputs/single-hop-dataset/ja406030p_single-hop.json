@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of tp-PMBB-1-lon-e-NO2?",
+      "answer": "C86H42Cr3N12O54Zn6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the crystal data for tp-PMBB-1-lon-e-H collected?",
+      "answer": "100(2) K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of tp-PMBB-1-lon-e-OMe?",
+      "answer": "hexagonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does tp-PMBB-1-lon-e-NH2 contain disordered solvent molecules?",
+      "answer": "Yes, it contains disordered solvent molecules refined as MeOH and H2O.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of tp-PMBB-1-lon-e-fdc?",
+      "answer": "P63/mmc",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the 5-Br-bdc ligand in tp-PMBB-1-lon-e-Br refined as partially disordered over two crystallographic positions?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to treat the contribution of highly disordered solvent molecules in tp-PMBB-1-lon-e-fdc?",
+      "answer": "SQUEEZE procedure implemented in the PLATON program.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of the unit cell for tp-PMBB-1-lon-e-Me?",
+      "answer": "11592(5) Å3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was a charge balancing anion X- located in tp-PMBB-1-lon-e-fdc?",
+      "answer": "No, a charge balancing anion X- could not be located.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the final R index for all data in the structure refinement of tp-PMBB-1-lon-e-t-Bu?",
+      "answer": "0.1925",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the tp-PMBB-1-lon-e-OH variant show a gradual initial weight loss in thermogravimetric analysis?",
+      "answer": "Yes, indicating partial collapse at lower temperatures before full decomposition.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the relationship between the cubic nbo-a and fof-a nets as described in the supporting information?",
+      "answer": "fof-a is based on staggered AAA packed Kagomé layers after deconstruction of the 4-connected linker into 2 3-connected vertices.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

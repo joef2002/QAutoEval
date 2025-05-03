@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Cooperative Bond Scission in a Soft Porous Crystal Enables Discriminatory Gate Opening for Ethylene over Ethane",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the study?",
+      "answer": "Nobuhiko Hosono and Susumu Kitagawa",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main finding of the study?",
+      "answer": "The study reports a soft porous crystal that exhibits exclusive gate opening for ethylene, enabling the discriminatory adsorption of ethylene over ethane.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for single crystal X-ray structural analysis?",
+      "answer": "Rigaku XtalLab P200 diffractometer equipped with Dectris Pilatus 200K system and a Micromax-007 HF/Varimax rotating-anode X-ray generator with confocal monochromated Mo Kα radiation was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of ethylene in the structural transformation of the Co-based porous coordination polymer?",
+      "answer": "Ethylene acts as the 'key' that opens the gate, facilitating a nonporous-to-porous transformation in the crystal structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does ethane not trigger the gate-opening event in the Co-based porous coordination polymer?",
+      "answer": "Ethane does not trigger the gate-opening event because it is unable to coordinate to the Co center.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What computational methods were used to understand the SCSC transformation process?",
+      "answer": "Monte Carlo simulations and density functional theory (DFT) calculations were used.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the gate-opening mechanism temperature-dependent?",
+      "answer": "Yes, the gate-opening pressure increases with increasing temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the Co-based porous coordination polymer discriminate between ethylene and ethane at high pressures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the adsorption behavior of ethylene and ethane investigated using temperature-swing adsorption experiments?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study provide a new direction for the design of soft porous crystals for gas separation technologies?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the cooperative gate-opening behavior of the PCP dependent on the guest molecule?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the study use synchrotron radiation experiments for single crystal X-ray diffraction analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the structural transformation from nonporous to porous reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study conclude that ethane is more effective than ethylene in triggering the gate-opening event?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/jacs.7b10110",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Co–S bonds in the framework?",
+      "answer": "Co–S bonds act as intermolecular cross-links in the framework in the evacuated closed state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the 'half-open' structure observed during the gate-opening process?",
+      "answer": "The 'half-open' structure represents a substantially stable intermediate over the possible transformation trajectories, suggesting a stepwise gate-opening process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the adsorbed-phase structure characterized by single-crystal X-ray diffraction analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study demonstrate the potential of the 'gate-locking/unlocking' mechanism for practical gas-separation applications?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

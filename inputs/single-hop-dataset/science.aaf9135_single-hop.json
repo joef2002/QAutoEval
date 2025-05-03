@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical composition of MOF-520?",
+      "answer": "Al8(m-OH)8(HCOO)4(BTB)4; BTB = 1,3,5-benzenetribenzoate",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many types of plant hormones were successfully crystallized within MOF-520?",
+      "answer": "Two different plant hormone types",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the unique feature of MOF-520 that aids in the determination of the absolute configuration of bound chiral molecules?",
+      "answer": "The chirality of the MOF backbone serves as a reference in the structure solution for an unambiguous assignment of the absolute configuration of bound molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the coordinative alignment (CAL) method distinguish between single and double bonds in complex molecules?",
+      "answer": "Yes, the CAL method enabled the distinction of single and double bonds in gibberellins.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it possible to determine the absolute configuration of molecules with low occupancy in MOF-520?",
+      "answer": "Yes, the CAL method allows for the determination of the structure and absolute configuration of molecules even with low occupancy at the binding sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the CAL method require geometrical constraints or restraints on the guest molecules during structure refinement?",
+      "answer": "No, the final structures of the guest molecules were refined without any geometrical constraints or restraints applied.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CAL method can only crystallize simple molecules within MOF-520.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The absolute configuration of (±)-jasmonic acid was previously determined by crystallographic methods before this study.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The bulk sample of MOF-520 is a racemic conglomerate containing both enantiomorphs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CAL method relies on weak interactions to induce crystalline order of included molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CAL method cannot be applied to molecules with more than two stereocenters.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The absolute configuration of bound molecules in MOF-520 can be determined without knowing the enantiopurity of the single crystal used for inclusion.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The CAL method requires the use of chiral high-performance liquid chromatography for the separation of enantiomers before inclusion.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of formate ligands in the structure of MOF-520?",
+      "answer": "Formate ligands occupy two sites on each face of the SBU in a chiral tetrahedral arrangement with D2 symmetry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CAL method promote the alignment of molecules within MOF-520?",
+      "answer": "The molecules make covalent bonds to well-defined metal sites of the MOF, which anchor them and lower their motional degrees of freedom, thereby promoting their alignment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the noncentrosymmetric space group P42212 in the structure of MOF-520?",
+      "answer": "It indicates a chiral atomic arrangement, which is crucial for the determination of the absolute configuration of bound chiral molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the CAL method address the challenge of orientational disorder in molecule crystallization?",
+      "answer": "By using a host framework that maintains molecular orientation through covalent bonding, thereby overcoming enthalpic and entropic factors that introduce disorder.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CAL method can enantioselectively crystallize racemic mixtures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using MOF-520 for the CAL method?",
+      "answer": "Its high crystallinity, robustness, and chirality make it suitable for the coordinative alignment of molecules.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CAL method's ability to determine the absolute configuration of chiral molecules is limited by the guest occupancy.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

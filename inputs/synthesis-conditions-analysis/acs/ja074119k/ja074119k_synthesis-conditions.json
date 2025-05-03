@@ -1,0 +1,184 @@
+{
+  "materials": [
+    {
+      "name": "Na2[Y(hedp)(H2O)0.67] (1a)",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "distilled water",
+              "amount": "ca. 15 g"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Na4Hhedp",
+              "amount": "0.242 g",
+              "molarity": "1.06 mmol"
+            },
+            {
+              "name": "YCl3·6H2O",
+              "amount": "0.200 g",
+              "molarity": "0.66 mmol"
+            },
+            {
+              "name": "GeO2",
+              "amount": "0.170 g",
+              "molarity": "1.62 mmol"
+            },
+            {
+              "name": "HOOC(CH2)2COOH",
+              "amount": "0.28 g",
+              "molarity": "2.37 mmol"
+            }
+          ],
+          "yield": "ca. 52%",
+          "washing_method": "ultrasonication",
+          "drying_method": "air-dried at ambient temperature"
+        }
+      ]
+    },
+    {
+      "name": "Na4[Ln2(hedp)2(H2O)2]·nH2O [Ln = La (1b), Ce (1c), Nd (1d), Eu (1e), Gd (1f), Tb (1g), Er (1h)]",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "distilled water",
+              "amount": "ca. 15 g"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Na4Hhedp",
+              "amount": "0.940 g",
+              "molarity": "3.79 mmol"
+            },
+            {
+              "name": "EuCl3·6H2O",
+              "amount": "0.350 g",
+              "molarity": "0.94 mmol"
+            },
+            {
+              "name": "GeO2",
+              "amount": "0.160 g",
+              "molarity": "1.53 mmol"
+            }
+          ],
+          "yield": "ca. 96%",
+          "washing_method": "washed with copious amounts of distilled water (3 × 50 mL)",
+          "drying_method": "air-dried at ambient temperature"
+        }
+      ]
+    },
+    {
+      "name": "[Eu(H2hedp)(H2O)2]·H2O (2a)",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "4 days",
+          "solvents": [
+            {
+              "name": "distilled water",
+              "amount": "ca. 13 g"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H5hedp",
+              "amount": "0.080 g",
+              "molarity": "0.39 mmol"
+            },
+            {
+              "name": "EuCl3·6H2O",
+              "amount": "0.280 g",
+              "molarity": "0.76 mmol"
+            }
+          ],
+          "yield": "about 75%",
+          "washing_method": "washed with distilled water, filtered",
+          "drying_method": "air-dried at room temperature"
+        }
+      ]
+    },
+    {
+      "name": "[Y(H2hedp)(H2O)]·3H2O (3a)",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "distilled water",
+              "amount": "ca. 18 g"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Na4Hhedp",
+              "amount": "0.100 g",
+              "molarity": "0.40 mmol"
+            },
+            {
+              "name": "YCl3·6H2O",
+              "amount": "0.200 g",
+              "molarity": "0.66 mmol"
+            },
+            {
+              "name": "GeO2",
+              "amount": "0.170 g",
+              "molarity": "1.62 mmol"
+            },
+            {
+              "name": "H5hedp",
+              "amount": "0.160 g",
+              "molarity": "0.78 mmol"
+            }
+          ],
+          "yield": "ca. 91%",
+          "washing_method": "washed with distilled water, filtered",
+          "drying_method": "air-dried at room temperature"
+        }
+      ]
+    },
+    {
+      "name": "[Yb(H2hedp)]·H2O (4)",
+      "synthesis_conditions": [
+        {
+          "temperature": "150 °C",
+          "time": "3 days",
+          "solvents": [
+            {
+              "name": "distilled water",
+              "amount": "ca. 8 g"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Na4Hhedp",
+              "amount": "0.100 g",
+              "molarity": "0.40 mmol"
+            },
+            {
+              "name": "YbCl3·6H2O",
+              "amount": "0.300 g",
+              "molarity": "0.77 mmol"
+            },
+            {
+              "name": "H5hedp",
+              "amount": "0.080 g",
+              "molarity": "0.39 mmol"
+            }
+          ],
+          "yield": "about 88%",
+          "washing_method": "washed with distilled water, filtered",
+          "drying_method": "air-dried at room temperature"
+        }
+      ]
+    }
+  ]
+}

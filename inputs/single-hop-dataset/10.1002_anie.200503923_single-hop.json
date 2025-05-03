@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are metal-organic frameworks (MOFs) known for in terms of their properties?",
+      "answer": "MOFs are known for including gas molecules in their cavities and exhibiting unique gas-storage or catalysis properties.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using molecular building blocks (MBBs) in the synthesis of MOFs?",
+      "answer": "MBBs are significant for the rational assembly of networks as they dictate the direction of polymer extension, allowing for the construction of structurally well-defined solids.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the cubic building block [Ni8L12]20- self-existent apart from the whole framework?",
+      "answer": "False, the cubic building block [Ni8L12]20- cannot be self-existent apart from the whole framework.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do alkali-metal ions play in the structure of the MOFs discussed?",
+      "answer": "Alkali-metal ions (Li+ and Na+) bridge the discrete metal-organic cubic building blocks, contributing to the structure of the MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the crystalline products {[Li11(H2O)12]Li9(Ni8L12)(CH3OH)2}n (1) and {[Na20(H2O)28](Ni8L12)(H2O)13}n (2) synthesized?",
+      "answer": "By heating a solution of Ni(NO3)2, 4,5-imidazoledicarboxylic acid (H3L), and LiOH or NaOH in H2O/CH3OH at 90°C in a teflon-capped scintillation vial for 4 days.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination geometry of the NiII ions in the [Ni8L12]20- cubic building blocks?",
+      "answer": "The NiII ions have a slightly distorted octahedral coordination geometry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does complex 1 exhibit catalytic activity in the oxidation of CO to CO2?",
+      "answer": "False, complex 1 lacks such activity due to its lesser thermal stability.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of complex 2?",
+      "answer": "The BET surface area of complex 2 is 186 m2 g-1.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is complex 2 considered stable in its catalytic activity for the oxidation of CO to CO2?",
+      "answer": "Because its activity is temporally stable and the framework remains intact after the catalytic reaction, with no crystalline NiO present.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the Ni sites in complex 2 completely isolated?",
+      "answer": "True, all Ni sites in complex 2 are completely isolated with no oxygen bound between them.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the thermal stability range for the desolvated form of complexes 1 and 2?",
+      "answer": "The desolvated form of complexes 1 and 2 is stable up to 160°C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the thermal stability of complex 1 compare to complex 2?",
+      "answer": "Complex 1 decomposes at a lower temperature than complex 2, mainly due to the weaker coordinative interactions of Li-O bonds compared to Na-O bonds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the framework of complex 2 stable up to 380°C?",
+      "answer": "True, the framework of complex 2 is stable up to 380°C.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the synthesis of complexes 1 and 2?",
+      "answer": "The synthesis involved heating a solution of Ni(NO3)2, H3L, and LiOH or NaOH in water and methanol at 90°C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of LiOH and NaOH in the synthesis of complexes 1 and 2?",
+      "answer": "LiOH and NaOH act as sources of alkali-metal ions that bridge the cubic building blocks in the formation of complexes 1 and 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does complex 2 have a higher BET surface area than complex 1?",
+      "answer": "True, complex 2 has a higher BET surface area than complex 1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the cubic building block [Ni8L12]20- in the structure of the MOFs?",
+      "answer": "The cubic building block [Ni8L12]20- serves as the basal unit of the framework, dictating the structure and properties of the MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the carboxylate groups in complex 2 coordinated in the m2-O mode?",
+      "answer": "True, most of the carboxylate groups in complex 2 are coordinated in the m2-O mode through Na-O-Na bonds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy of complex 2 for the oxidation of CO to CO2?",
+      "answer": "The activation energy of complex 2 is 64.9 kJ mol-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes complex 2 a noteworthy catalyst for the oxidation of CO to CO2?",
+      "answer": "Its nearly comparable activity to NiO and the fact that all Ni sites are completely isolated make complex 2 noteworthy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

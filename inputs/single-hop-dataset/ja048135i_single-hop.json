@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the space group of the body-centered cubic structures of the synthesized materials?",
+      "answer": "Im3̄m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the critical temperatures (Tc) for magnetic ordering of materials 1a, 1b, 2, and 4?",
+      "answer": "33 K for 1a, 34.5 K for 1b, 2.1 K for 2, and 9.6 K for 4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the magnetic ordering temperature of 1a higher than that of 2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coercive field (Hcr) for material 1a?",
+      "answer": "470 Oe",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which material shows an unusual constricted hysteresis loop in the M(H) data at 2 K?",
+      "answer": "1a",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of 1b change from being a body-centered cubic structure to a primitive cubic structure when synthesized in acetonitrile?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of zero-field splitting on the magnetic properties of the synthesized materials?",
+      "answer": "It leads to spin anisotropy and affects the saturation magnetization and critical temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic behavior of 1b dependent on the reaction conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of diruthenium tetracarboxylate monocations in the synthesis of the materials?",
+      "answer": "They are utilized as building blocks for cubic 3-D network structured molecule-based magnets.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do materials 1a and 1b have the same magnetic properties?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula mass of [Ru2(O2CMe)4]3[CrIII(CN)6], 1a?",
+      "answer": "1523.048",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which material has the highest coercive field among 1b, 2, and 4?",
+      "answer": "1b with 1670 Oe",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic ordering temperature of 4 higher than that of 2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of MeCN removal on the magnetic properties of 1b?",
+      "answer": "It results in reduced critical temperatures and a frequency dependence for AC susceptibility indicating disorder in the desolvated structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of MeCN in the structure of 1b contribute to its magnetic properties?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the zero-field splitting parameter D in the context of the synthesized materials?",
+      "answer": "It is significant for understanding the spin anisotropy and its impact on magnetic properties such as saturation magnetization and critical temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the magnetic properties of the synthesized materials influenced by the synthetic route?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the metal hexacyanide in tuning the magnetic properties of the synthesized materials?",
+      "answer": "The type of metal hexacyanide affects the critical temperatures and magnetic ordering, with the trend of increasing critical temperatures with increasing spin on the metal hexacyanide.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of 1a contain an interpenetrating lattice?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of changing the carboxylic group from acetic to propionic on the expected structure of the synthesized materials?",
+      "answer": "It is expected to change from being a body-centered cubic structure to most likely a primitive cubic structure due to large steric crowding between the two lattices.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

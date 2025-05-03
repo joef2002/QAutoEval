@@ -1,0 +1,118 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the new microporous metal-organic framework discussed?",
+      "answer": "Cu2(PDDI)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pressure does Cu2(PDDI) reach its highest acetylene uptake value?",
+      "answer": "273 K and 1 bar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the acetylene uptake value of ZJU-5a at 273 K and 1 bar?",
+      "answer": "290 cm3/g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the methane storage capacities of ZJU-5a at 35 bar and 60 bar at room temperature?",
+      "answer": "190 cm3 (STP) cm-3 at 35 bar and 224 cm3 (STP) cm-3 at 60 bar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of ZJU-5a?",
+      "answer": "2823 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Lewis basic pyridyl sites in ZJU-5?",
+      "answer": "They enhance interactions with gas molecules in addition to the open metal sites.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the acetylene storage capacity of ZJU-5a at 273 K and 1 bar the highest reported among any porous materials?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZJU-5a have a higher methane storage capacity at 35 bar than the DOE's old target?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the acetylene adsorption enthalpies of ZJU-5a at lower coverages higher than those of reported MOFs of the same NbO structures?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the acetylene storage capacity of ZJU-5a at room temperature higher than that of HKUST-1 and CoMOF-74?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZJU-5a exhibit Type-I sorption behaviour for N2 at 77 K?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the acetylene storage capacity of ZJU-5a at 273 K and 1 bar lower than 290 cm3/g?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was ZJU-5 synthesized using a solvothermal method?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main component of natural gas that ZJU-5a stores?",
+      "answer": "Methane",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of open metal sites in ZJU-5?",
+      "answer": "They provide strong binding sites for gas molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is acetylene storage under a pressure of 0.2 MPa important?",
+      "answer": "Because acetylene is a very explosive gas.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of ZJU-5 contribute to its high gas storage capacity?",
+      "answer": "The structure includes open metal sites, Lewis basic pyridyl sites, and suitable pore spaces.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why might ZJU-5a be more favorable for acetylene storage at higher pressures?",
+      "answer": "Because it has lower acetylene uptakes at the release pressure and possibly higher uptakes at 2 bar.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Lewis basic pyridyl sites in acetylene storage?",
+      "answer": "They might further enhance interaction with acetylene molecules through hydrogen bonding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

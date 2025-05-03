@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of three-ring SBUs in the synthesis of metal–organic frameworks?",
+      "answer": "Three-ring SBUs help to create new topological types with low framework density and induce the formation of large ring sizes, such as 14-rings, which are effective for constructing metal–organic polyhedra.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why were In3+ ions selected as metal centers in the synthesis?",
+      "answer": "In3+ ions were selected because they can form a four-connected {In(O2CR)4} group, which is appealing for targeting zeolite-type MOFs and MOPs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using dicarboxylic linkers with 120 and 180-degree angles in the synthesis?",
+      "answer": "Dicarboxylic linkers with 120-degree angles are chosen to induce the assembly of In3 three-rings, while the second dicarboxylic linker provides cross-links between three-rings to generate an overall 3D architecture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CPM-2-NH2 based on a pure metal carboxylate framework?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the framework density of CPM-2-NH2 compared to known zeolite-type MOFs?",
+      "answer": "The framework density of CPM-2-NH2 is very low (0.33) compared to known zeolite-type MOFs, which usually have a framework density larger than 2.0.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the framework composition of CPM-2-NH2 be tuned by replacing one of its ligands?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What leads to the formation of a three-fold interweaving structure in CPM-2?",
+      "answer": "The open net structure of CPM-2 results in the formation of a three-fold interweaving structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the guest-accessible volume percentage of CPM-2-NH2?",
+      "answer": "The guest-accessible volume of CPM-2-NH2 is 44%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the inclusion of Cs+ ions in the synthesis lead to a different phase of CPM-2-NH2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the dimension of CPM-8?",
+      "answer": "The dimensions of CPM-8 are approximately 8.3 x 8.3 x 27.0 angstroms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are CPM-8 and CPM-9 described as elongated square bipyramids?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the photocatalytic activity of CPM-2-NH2 for H2 production from water?",
+      "answer": "CPM-2-NH2 exhibits a stable H2 release rate of 2.0 mmol h-1 per 0.1 g, demonstrating photocatalytic activity for the generation of H2 gas from water under UV irradiation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis of CPM-2 and CPM-3 demonstrate a new pathway for creating zeolite-type MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the key structural and topological features of the new materials synthesized in the study?",
+      "answer": "The new materials possess structural and topological features such as three-rings, large 12-ring channels, and expanded MOP cages, which are direct results of the synthetic strategy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are CPM-8 and CPM-9 part of the Johnson-type solids family?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bent dicarboxylates in the synthesis process?",
+      "answer": "Bent dicarboxylates direct the formation of three-rings, while linear dicarboxylates are used for cross-linking these three-rings.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the overall framework density of CPM-2-NH2 still considered low even after accounting for all triply interweaving nets?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the band gap of CPM-2-NH2 as determined by the UV/Vis diffuse reflectance spectrum?",
+      "answer": "The band gap of CPM-2-NH2 is 3.0 eV.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the presence of functional groups in CPM-2-OH and CPM-2-H lead to different interactions with guest molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using symmetry-complementary ligands in the synthesis of CPM-8 and CPM-9?",
+      "answer": "The use of symmetry-complementary ligands, such as a bent heterocyclic carboxylate and a linear dicarboxylate, leads to the formation of discrete three-ring-based MOPs with unique structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

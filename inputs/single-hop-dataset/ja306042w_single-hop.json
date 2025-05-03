@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the activation energy for phenyl ring flipping in 1b during cooling?",
+      "answer": "43(6) kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range were the 2H NMR spectra of solid TPE-d20 recorded?",
+      "answer": "Between 298 and 423 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated activation barrier for a ring flip in 1b according to DFT calculations?",
+      "answer": "49 kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the fluorescence of 1H turned on or off in the presence of guest solvent molecules?",
+      "answer": "Turned on",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of 1b undergo significant structural changes when heated above 150 °C?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to determine the activation barrier for phenyl ring flipping in 1b?",
+      "answer": "2H NMR spectroscopy",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DEF molecules in the structure of 1a?",
+      "answer": "DEF molecules occupy the axial sites on Zn atoms in the Zn2 paddlewheels and the pores, preventing fast flipping of the TPE phenyl rings.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the activation energy for phenyl ring flipping in 1b higher or lower than that expected for free TPE?",
+      "answer": "Higher",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to estimate the activation energy for a ring flip in 1b?",
+      "answer": "Density functional theory (DFT)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the guest DEF molecules in 1a when heated above 373 K?",
+      "answer": "The guest DEF molecules start to be liberated, thereby activating the phenyl ring flips.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural transformation occurs to 1a upon heating to produce 1b?",
+      "answer": "1a undergoes a symmetry-increasing transformation to an orthorhombic phase, designated as 1b.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of guest solvent molecules in 1b affect the phenyl ring dynamics?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of desolvation on the fluorescence of 1H and 1c?",
+      "answer": "Desolvation leads to fluorescence turn-on in the TPE-based MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural feature is crucial for the fluorescence turn-on in 1b?",
+      "answer": "The drawing of the TPE core by the framework forces steric interactions to occur, leading to a higher barrier for phenyl ring flipping.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the activation energy for phenyl ring flipping in 1b solely electronic in origin?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ethylene core in the fluorescence mechanism of TPE-based MOFs?",
+      "answer": "The ethylene core's twist angle or flexibility is required for a low-barrier phenyl ring torsion, which is important for quenching emission in TPE.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the disappearance of the isotropic signal in the 2H NMR spectra indicate?",
+      "answer": "The loss of the guest molecules and conversion to 1b.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the activation barrier for phenyl ring flipping in 1b be reduced by design strategies?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Pake patterns observed in the 2H NMR spectra of 1a?",
+      "answer": "They indicate slow exchange of the phenyl rings, which is characteristic of restricted motion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What experimental evidence supports the stability of 1b's structure during the heating cycle?",
+      "answer": "Powder X-ray analysis showed a pattern that matched that of 1b, with only small peaks corresponding to the completely desolvated phase, 1c.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

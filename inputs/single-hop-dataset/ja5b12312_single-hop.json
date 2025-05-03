@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two metal-organic framework materials synthesized using oligoparaxylene tetracarboxylate linkers?",
+      "answer": "MFM-130 and MFM-131",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of lattice layers do MFM-130 and MFM-131 contain?",
+      "answer": "Kagomé lattice layers",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of desolvated MFM-130, also known as MFM-130a?",
+      "answer": "2173 m^2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does MFM-131 lose its crystallinity upon desolvation?",
+      "answer": "MFM-131 shows almost complete loss of crystallinity after desolvation due to its inherent instability upon removal of solvates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the volumetric CH4 adsorption capacity of MFM-130a at 35 bar and 298 K?",
+      "answer": "163 cm^3(STP)/cm^3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is MFM-130a capable of selective adsorption of CO2 over N2?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the CO2/N2 adsorption selectivity of MFM-130a at 298 K?",
+      "answer": "29.2:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does MFM-130a show high selectivities for C2 hydrocarbons over CH4?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption for H2 in MFM-130a at zero coverage?",
+      "answer": "6.6 kJ/mol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the mechanical instability of MFM-131 upon desolvation due to its low shear modulus?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the mechanical properties of MFM-130 and MFM-131?",
+      "answer": "MFM-131 shows a lower average Young’s and shear moduli than MFM-130, explaining its instability upon desolvation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the quantum chemistry calculations of MFM-130 and MFM-131?",
+      "answer": "Density functional theory approach with localized basis sets",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does MFM-130a have a higher CO2 adsorption enthalpy at low loading compared to MOF-505?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the selectivity for C2H6 vs CH4 in MFM-130a at 273 K?",
+      "answer": "14.4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the pore size of MFM-130 and MFM-131 significantly different?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of methyl substituents in MFM-130a's structure?",
+      "answer": "The methyl substituents reduce the accessible pore volume, thus creating enhanced overlapping potential for CO2 molecules but lowering the adsorption of N2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of MFM-130?",
+      "answer": "Trigonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was synchrotron radiation used for data collection of MFM-131?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the largest free sphere diameter in MFM-130?",
+      "answer": "5.27 Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does MFM-130a exhibit a higher H2 storage capacity at 77 K compared to NOTT-102?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of TMU-60?",
+      "answer": "C21 H15 N2 O5 Zn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the crystallographic measurements of TMU-60?",
+      "answer": "Bruker APEX area-detector diffractometer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of TMU-60?",
+      "answer": "I bca",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of TMU-60 after activation?",
+      "answer": "171.522 m^2·g^–1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the sorption capacity of Cd(II) by TMU-60?",
+      "answer": "155 mg·g^–1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the mechanism of charge transport through TMU-60-Cd pellet?",
+      "answer": "A hopping mechanism between metal nodes and localized Cd(II) after sorption",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the change in conductivity of TMU-60 after Cd(II) sorption?",
+      "answer": "Improved from 53 × 10^–6 to 1.8 × 10^–2 S·cm^–1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is TMU-60 selective for Cd(II) sorption?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does TMU-60 act as a fluorescent sensor for Cd(II)?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the conductivity of TMU-60 be adjusted by changing the Cd exposure time?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the sorption of Cd(II) by TMU-60 endothermic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does TMU-60 maintain its crystallinity after Cd(II) sorption?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is TMU-60 the fastest Cd(II) sorbent among all MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the charge-transport diffusion coefficient of TMU-60-Cd?",
+      "answer": "1.6 × 10^–10 cm^2/s",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of other metal ions on TMU-60 conductivity?",
+      "answer": "Less than 20% change is observed for the Pb(II) adsorbed sample",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of amine functionalization in TMU-60 for cadmium ion sorption?",
+      "answer": "Amine functionalization enhances the sorption capacity for cadmium ions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the thermal stability range of TMU-60?",
+      "answer": "Up to 270 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of Cd(II) ions accelerate electron transport through TMU-60?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the sorption kinetics model that fits best with the experimental data for Cd(II) sorption on TMU-60?",
+      "answer": "Pseudo-second-order model",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of pH on Cd(II) sorption capacity by TMU-60?",
+      "answer": "The highest sorption capacity is acquired in the pH of the reaction medium without needing pH adjustment",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

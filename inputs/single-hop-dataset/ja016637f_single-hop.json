@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the article discussing the periodic tiling of pentagons?",
+      "answer": "2001",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author for the paper on the first example of a two-dimensional net?",
+      "answer": "Michael J. Zaworotko",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja016637f",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many types of convex pentagons can tile the plane according to the article?",
+      "answer": "14",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the chemical formula of the first example of a modular (5)-network mentioned in the article?",
+      "answer": "[(HMTA)3(Cu2(μ-O2CCH2CH3)4)5]n",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two crucial design elements mentioned for directing the formation of the (5)-net?",
+      "answer": "The nature of the acid functionality, R, in the Cu2(μ-O2CR)4 linker, and the ratio, X, between HMTA and linker.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the expected outcome when HMTA coordinates to 2 Cu2(μ-O2CR)4 linkers?",
+      "answer": "A 1D zigzag structure is observed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structure results from the coordination of four linkers to HMTA?",
+      "answer": "A diamondoid structure results.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the (5)-network planar according to the article?",
+      "answer": "No, the network cannot be planar.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can regular pentagons tile the plane?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is HMTA known to adopt only one- and two-fold coordination?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the sheets of the (5)-network curved?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article report the synthesis of a three-dimensional network?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the dinuclear copper carboxylate spacer described as trigonal-pyramidal?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "According to the article, are there 14 different types of convex pentagons that cannot tile the plane?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the modular nature of the structures limited to coordination of dimetal carboxylates to HMTA?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the organic ligand in the majority of modular structures according to the article?",
+      "answer": "To serve as a spacer that links nodes defined by metal geometry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the coordination of HMTA to three spacers yield?",
+      "answer": "Both 2D three-connected topologies and also 3D topologies depending on the nature of R.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are Cu2(μ-O2CR)4-based structures magnetically inactive?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the article suggest that the generation of nanoscale cyclopentanoid rings from tetrahedral nodes is irrelevant?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

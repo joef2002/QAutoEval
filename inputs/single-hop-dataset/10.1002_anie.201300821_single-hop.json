@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of postsynthetic modification (PSM) in metal-organic frameworks (MOFs)?",
+      "answer": "The main goal of PSM in MOFs is the functionalization of MOFs to endow them with specific properties.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What types of functional groups were introduced into the MOF structure synthesized in the study?",
+      "answer": "Carboxylate, imidazolate, and hydroxyethyl groups were introduced into the MOF structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the original goal of synthesizing a MOF that contains both carboxylate and imidazolate groups?",
+      "answer": "The original goal was to synthesize a MOF-ZIF structure where both the carboxylate and the imidazolate groups would be involved in the formation, while the hydroxyethyl group would be free for further reactions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What transformation occurs to the hydroxyethyl group in the MOF channels during thermal elimination?",
+      "answer": "The hydroxyethyl group in the MOF channels is transformed to a vinyl group during thermal elimination.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the bromination reaction in the MOF selective to the surface or does it occur throughout the interior?",
+      "answer": "The bromination reaction in the MOF is selective to the surface, preventing further reaction by closing the windows.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of a vinyl group in the MOF affect its potential for further chemical reactions?",
+      "answer": "The presence of a vinyl group invites the performance of an addition reaction with a halogen molecule.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does tandem postsynthetic modification have on the absorption properties of the MOF?",
+      "answer": "Tandem postsynthetic modification dramatically affects the MOF's absorption of gases, solvents, and iodine, as well as its luminescence properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the modified ligand 2-vinyl-1H-benzo[d]imidazole-5-carboxylic acid (H2Ln) be synthesized outside of the MOF framework?",
+      "answer": "No, the synthesis of H2Ln appears to be possible only within the MOF framework due to the protection of the carboxylate group and the deprotonation of the imidazole through coordination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the photoluminescence (PL) spectrum shift observed during the MOF's transformation?",
+      "answer": "The PL spectrum shift signifies changes in the organic components of the framework, such as the transformation of the hydroxyethyl to the vinyl group, indicating an increase in conjugation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size of the MOF crystals affect the bromination reaction?",
+      "answer": "The smaller the MOF crystals, the more brominated ligand was observed, indicating that bromination is more effective on the surface of smaller crystals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the brominated tag group in the modified MOF?",
+      "answer": "The brominated tag group acts as a gate, preventing the inclusion of certain molecules and slowing down the inclusion and release of others.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the absorption behavior of the postsynthetically modified MOF compare to the as-synthesized MOF?",
+      "answer": "The absorption behaviors of the postsynthetically modified MOF for different guest probes are different from those of the as-synthesized MOF, with modifications affecting the restoration and inclusion of molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The postsynthetic modification process can only introduce one type of functional group into the MOF structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The elimination of water from the hydroxyethyl group to generate a vinyl group is a common reaction in MOF frameworks.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The bromination reaction in the MOF occurs both in the interior and on the surface of the crystals.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The presence of a vinyl group in the MOF does not allow for further chemical modifications.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Tandem postsynthetic modification does not affect the MOF's absorption properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The modified ligand 2-vinyl-1H-benzo[d]imidazole-5-carboxylic acid (H2Ln) has been previously reported in the literature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The photoluminescence (PL) spectrum shift observed during the MOF's transformation is unrelated to the chemical changes in the framework.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The size of the MOF crystals does not influence the effectiveness of the bromination reaction.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "materials": [
+    {
+      "material": "N-(phosphonomethyl)-aza-18-crown-6, 1H2N",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Monoaza-18-crown-6",
+          "phosphorous acid",
+          "formaldehyde",
+          "concentrated HCl"
+        ],
+        "solvents": "ethanol",
+        "amount_of_solvent": "not specified",
+        "equipment": "ion exchange column",
+        "purification_method": "recrystallization",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "2 [(1H1.5NH·H2O)2·(ClO4)]",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "N-(phosphonomethyl)-aza-18-crown-6, 1H2N (0.036 g, 0.1 mmol)",
+          "Co(ClO4)2·6H2O (0.037 g, 0.1 mmol)"
+        ],
+        "solvents": "ethanol",
+        "amount_of_solvent": "15 mL",
+        "equipment": "Bruker-AXS CCD diffractometer",
+        "yield": "not specified"
+      }
+    },
+    {
+      "material": "3 [Cd4(1NH·H2O)3·(H2O)5(NO3)4][NO3]",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "N-(phosphonomethyl)-aza-18-crown-6, 1H2N (0.036 g, 0.1 mmol)",
+          "Cd(NO3)2·4H2O (0.031 g, 0.1 mmol)"
+        ],
+        "solvents": "ethanol",
+        "amount_of_solvent": "15 mL",
+        "equipment": "Bruker-AXS CCD diffractometer",
+        "yield": "not specified"
+      }
+    }
+  ]
+}

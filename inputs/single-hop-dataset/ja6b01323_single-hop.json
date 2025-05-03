@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for MFM-300(In) after synthesis?",
+      "answer": "[In2(OH)2(C16H6O8)]·1.28H2O·2.87(C3H7NO)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and pressure was the sample of desolvated MFM-300(In) degassed before neutron powder diffraction experiments?",
+      "answer": "100 °C and 10-7 mbar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MFM-300(In) according to the neutron powder diffraction experiments?",
+      "answer": "I4122",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many D2 molecules per In were dosed in the highest loading experiment for MFM-300(In) according to the neutron powder diffraction data?",
+      "answer": "6.08 D2 molecules per In",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main interaction observed between adsorbed CH4 molecules and the pore of MFM-300(In)?",
+      "answer": "H4Cguest···H–Ohost interaction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the rotation of adsorbed CH4 molecules within MFM-300(In) free or hindered according to the inelastic neutron scattering experiments?",
+      "answer": "The rotation of adsorbed CH4 molecules is almost free.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of CH4 in MFM-300(In) at 35 bar and 298 K is one of the highest values reported for a MOF.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The density of adsorbed CH4 in MFM-300(In) at 110 K and 0.6 bar is lower than that of liquid CH4.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to calculate the isosteric heat of adsorption for CH4 in MFM-300(In)?",
+      "answer": "Van t’ Hoff method",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What force field was used to describe the CH4 molecule in the Grand Canonical Monte Carlo simulations for MFM-300(In)?",
+      "answer": "TraPPE force field",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The INS spectra for MFM-300(In) show significant changes in vibrational peaks upon CH4 adsorption.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated isosteric heat of adsorption for H2 in MFM-300(In) according to the Virial fitting?",
+      "answer": "6.8 kJ mol-1",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of D2 in MFM-300(In) results in the formation of a 'solid-hydrogen-like' material within the pores at high loadings.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of phenyl rings in the adsorption of CH4 within MFM-300(In)?",
+      "answer": "Providing space confinement for the adsorbed CH4 molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The binding interaction between adsorbed CH4 molecules and the hydroxyl groups within MFM-300(In) is weaker than in CH4/water clathrates.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the binding interaction of CH4 in MFM-300(In) compared to CH4/water clathrates?",
+      "answer": "In MFM-300(In), CH4 binds along the H–O bond, whereas in clathrates, the dominating interaction is H3C–Hguest···Ohost–H.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The INS spectra for MFM-300(In) loaded with H2 show a new peak at 9.5 meV, indicating rotational motion of adsorbed H2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing H2 loading on the INS spectra of MFM-300(In)?",
+      "answer": "There is an increase in the area of peaks related to rotational and recoil motion of adsorbed H2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The rotational barrier for CH4 molecules adsorbed on the most stable site in MFM-300(In) is high, indicating restricted rotation.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of including Site VII in the model for MFM-300(In) loaded with 6.08 D2 per In?",
+      "answer": "It demonstrates the importance of including the additional binding site for accurate refinement.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

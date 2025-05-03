@@ -1,0 +1,39 @@
+{
+  "materials": [
+    {
+      "material": "Compound 1",
+      "synthesis_conditions": {
+        "temperature": "110 °C",
+        "solvents": [
+          {
+            "name": "pyridine",
+            "amount": "0.21 mL"
+          },
+          {
+            "name": "ethanol",
+            "amount": "0.23 mL"
+          },
+          {
+            "name": "water",
+            "amount": "0.13 mL"
+          }
+        ],
+        "equipment": "heavy-walled Pyrex tube",
+        "chemicals_used": [
+          {
+            "name": "Cd(ClO4)2·6H2O",
+            "amount": "0.25 mmol"
+          },
+          {
+            "name": "ethyl 4-[2-(4-pyridyl)ethenyl]benzoate",
+            "amount": "0.25 mmol"
+          }
+        ],
+        "time": "several days",
+        "yield": "71%",
+        "drying_method": "Not specified",
+        "washing_method": "Not specified"
+      }
+    }
+  ]
+}

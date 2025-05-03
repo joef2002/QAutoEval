@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Near-Perfect CO2/CH4 Selectivity Achieved through Reversible Guest Templating in the Flexible Metal–Organic Framework Co(bdp)",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Jeffrey R. Long",
+      "difficulty_level": "Easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The research focuses on demonstrating the flexible metal–organic framework Co(bdp) exhibits high CO2/CH4 selectivity for gas separations.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the crystal structure analyses?",
+      "answer": "The program TOPAS 4.1 was used for the crystal structure analyses.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the CO2-induced phase change pressure in Co(bdp)?",
+      "answer": "The CO2-induced phase change pressure is significant because it determines the conditions under which Co(bdp) can selectively adsorb CO2 over CH4.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the CO2/CH4 selectivity of Co(bdp) under CH4-rich conditions determined?",
+      "answer": "The CO2/CH4 selectivity under CH4-rich conditions was determined using multicomponent equilibrium adsorption experiments.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Co(bdp) selective for CO2 or CH4?",
+      "answer": "Co(bdp) is selective for CO2 over CH4.",
+      "difficulty_level": "Medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the position of the CO2-induced step in Co(bdp) be controlled?",
+      "answer": "Yes, the position of the CO2-induced step can be controlled by varying the temperature or by functionalization of the bdp2− linker.",
+      "difficulty_level": "Medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the CO2 breakthrough capacity of Co(bdp) affected by the flow rate in the experiments?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the research suggest that Co(bdp) could be customized for specific separations?",
+      "answer": "True",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the researchers use the NIST REFPROP database for compressibility factors?",
+      "answer": "True",
+      "difficulty_level": "Easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the CO2/CH4 selectivity of Co(bdp) constant across all conditions tested?",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Co(bdp) adsorb CH4 in the presence of CO2?",
+      "answer": "False",
+      "difficulty_level": "Medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal structure of Co(bdp) solved using simulated annealing?",
+      "answer": "True",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption behavior of Co(bdp) independent of temperature?",
+      "answer": "False",
+      "difficulty_level": "Hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of helium in the breakthrough experiments?",
+      "answer": "Helium was used as a non-adsorbing probe gas to collect breakthrough curves under equivalent conditions.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main challenge in forming pellets of Co(bdp) for breakthrough experiments?",
+      "answer": "The main challenge was the difficulty in forming pellets capable of withstanding the large volume change of the framework upon adsorption.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the CO2 breakthrough capacity of Co(bdp) calculated?",
+      "answer": "The CO2 breakthrough capacity was calculated using the normalized outlet flow rate and composition as a function of bed volumes.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was observed in the CO2/CH4 breakthrough experiment at 7 bar absolute pressure?",
+      "answer": "Co(bdp) selectively adsorbed CO2 and negligible CH4 from a 50:50 CO2:CH4 mixture at 7 bar.",
+      "difficulty_level": "Hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the unusual CO2 breakthrough profile in Co(bdp) indicate?",
+      "answer": "The unusual CO2 breakthrough profile indicates the inability of Co(bdp) to capture CO2 at partial pressures below the CO2 phase change pressure.",
+      "difficulty_level": "Hard",
+      "type": "reasoning"
+    }
+  ]
+}

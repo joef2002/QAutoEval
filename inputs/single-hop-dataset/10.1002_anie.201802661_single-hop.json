@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary application of multi-component metal–organic frameworks (MOFs)?",
+      "answer": "Gas adsorption, separation, cooperative catalysis, and biomimetics.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy was used to synthesize mixed-component RE-MOFs?",
+      "answer": "A thermodynamically guided strategy.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are rare-earth (RE)-metal-based clusters suitable for developing MOFs with multiple metal sites?",
+      "answer": "Because of the chemical similarity of RE elements, different RE metals tend to form similar SBUs and isostructural MOFs, providing additional tunability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of DCDPS in the synthesis of PCN-900(Eu)?",
+      "answer": "DCDPS acted as an auxiliary linker that bridges the coordinatively unsaturated RE to fulfill the 12-connected nodes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of MOFs based on RE6 and TCPP was successful.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the Eu-DCDPS bond in PCN-900(Eu)?",
+      "answer": "The Eu-DCDPS junction is severely twisted with the carboxylate bent 49 degrees away from its normal position.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the bent DCDPS linker in PCN-900(Eu) be replaced by other linear linkers?",
+      "answer": "Yes, the bent DCDPS linker can be replaced by linear linkers such as BPDC and its derivatives to form a series of functionalized MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of PCN-900(Eu)-NiTCPP?",
+      "answer": "2523 m2 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: PCN-900(RE) series show excellent thermal stability.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What reaction was used to evaluate the catalytic performance of PCN-900 series?",
+      "answer": "The cycloaddition of CO2 and epoxides.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-900(Eu)-CoTCPP-CoBPYDC shows the highest conversion rate in the cycloaddition of CO2 with epoxides among the tested MOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the conversion rate of PCN-900(Eu)-CoTCPP-CoBPYDC in the cycloaddition of CO2 with epoxides?",
+      "answer": "93%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size of Eu9-CoTCPP compare to PCN-900(Eu)-CoTCPP-CoBPYDC?",
+      "answer": "Eu9-CoTCPP has a much smaller pore size than PCN-900(Eu)-CoTCPP-CoBPYDC.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The physical mixture of Eu6-CoBPYDC and Eu9-CoTCPP shows higher conversion than PCN-900(Eu)-CoTCPP-CoBPYDC.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of cobalt in the cycloaddition reactions of CO2 with epoxides?",
+      "answer": "Cobalt plays an important role as it is part of the active sites that catalyze the reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: PCN-900(Eu)-CoTCPP-CoBPYDC maintains its catalytic activity and crystallinity after three catalysis cycles.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the free volume of PCN-900(Eu) based on the calculation by PLATON software?",
+      "answer": "78.6%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of PCN-900(Eu) using BPDC as an auxiliary linker was successful.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the unusual bond angle in the Eu-DCDPS junction within PCN-900(Eu)?",
+      "answer": "The unusual bond angle may destabilize the binding between the DCDPS and the framework and can be changed by other linear linkers with suitable lengths.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PCN-900(RE) series demonstrates high tunability of both metal and linker components.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

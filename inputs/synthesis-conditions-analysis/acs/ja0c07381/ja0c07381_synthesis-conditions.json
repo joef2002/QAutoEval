@@ -1,0 +1,171 @@
+{
+  "materials": [
+    {
+      "name": "BipyNi(CH2CH2CH2CH2) (4a)",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to 25 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,2’-bipyridine",
+            "amount": "1.97 g (12.6 mmol, 3.9 equiv.)"
+          },
+          {
+            "name": "Ni(COD)2",
+            "amount": "1.69 g (6.14 mmol, 1.9 equiv.)"
+          },
+          {
+            "name": "1,4-dibromopentane",
+            "amount": "0.39 mL (3.23 mmol, 1 equiv.)"
+          }
+        ],
+        "time": "5 h 30 min",
+        "yield": "69%",
+        "drying_method": "high vacuum",
+        "washing_solvent": "pentane"
+      }
+    },
+    {
+      "name": "BipyNi(CHMeCH2CH2CH2) (4b)",
+      "synthesis_conditions": {
+        "temperature": "-78 °C to 25 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "25 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "2,2’-bipyridine",
+            "amount": "1.57 g (10.1 mmol, 3.9 equiv.)"
+          },
+          {
+            "name": "Ni(COD)2",
+            "amount": "1.35 g (4.91 mmol, 1.9 equiv.)"
+          },
+          {
+            "name": "1,4-dibromopentane",
+            "amount": "330 µL (594 mg, 2.58 mmol, 1 equiv.)"
+          }
+        ],
+        "time": "5 h 30 min",
+        "yield": "53%",
+        "drying_method": "high vacuum",
+        "washing_solvent": "pentane"
+      }
+    },
+    {
+      "name": "BipyNi(Et)2 (11)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "Et2O",
+            "amount": "40 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ni(acac)2",
+            "amount": "2.56 g (9.96 mmol, 1 equiv.)"
+          },
+          {
+            "name": "bipy",
+            "amount": "1.56 g (9.96 mmol, 1 equiv.)"
+          },
+          {
+            "name": "(EtO)­AlEt2",
+            "amount": "4.5 mL (3.89 g, 29.9 mmol, 3 equiv.)"
+          }
+        ],
+        "time": "50 h",
+        "yield": "87%",
+        "drying_method": "high vacuum"
+      }
+    },
+    {
+      "name": "BipyNi(OCH2CH2CH2CH2) (1a)",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ni complex 4a",
+            "amount": "194 mg (0.716 mmol)"
+          },
+          {
+            "name": "N2O",
+            "amount": "1 atm"
+          }
+        ],
+        "time": "30 h",
+        "yield": "53%",
+        "drying_method": "high vacuum",
+        "washing_solvent": "pentane"
+      }
+    },
+    {
+      "name": "BipyNi(OCHMeCH2CH2CH2) (1b)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "THF",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ni complex 4b",
+            "amount": "450 mg (1.58 mmol)"
+          },
+          {
+            "name": "N2O",
+            "amount": "1 atm"
+          }
+        ],
+        "time": "16 h",
+        "yield": "75%",
+        "drying_method": "high vacuum",
+        "washing_solvent": "pentane"
+      }
+    },
+    {
+      "name": "BipyNi(OEt)(Et) (1f)",
+      "synthesis_conditions": {
+        "temperature": "25 °C",
+        "solvents": [
+          {
+            "name": "THF-d8",
+            "amount": "1.5 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Ni complex 11",
+            "amount": "520 mg (1.90 mmol)"
+          },
+          {
+            "name": "N2O",
+            "amount": "1 atm"
+          }
+        ],
+        "time": "12 h",
+        "yield": "63%",
+        "drying_method": "high vacuum",
+        "washing_solvent": "pentane"
+      }
+    }
+  ]
+}

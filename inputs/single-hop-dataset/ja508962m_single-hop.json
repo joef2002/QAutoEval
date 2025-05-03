@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of TABD-MOF-1?",
+      "answer": "Mg2(C30H22O4)3(DMF)4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of TABD-MOF-2 based on Ni?",
+      "answer": "65%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of TABD-MOF-3?",
+      "answer": "1.506 Mg/m3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of TABD-MOF-1 triclinic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of TABD-MOFs involve heating a solution mixture at 85 °C for 1 day?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the detection limit of NTO calculated to be 4 × 10^-8 mol/L?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the excitation wavelength used for fluorescence spectra measurement of TABD-MOFs?",
+      "answer": "360 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the fluorescence quantum yield (ΦF) of TABD-MOF-1?",
+      "answer": "38.5%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can TABD-MOF-3 selectively sense 5-nitro-2,4-dihydro-3H-1,2,4-triazole-3-one with high sensitivity?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of C–H···π interactions in the structure of TABD-MOFs?",
+      "answer": "They help form extended 3D structures by conjugating 1D chains or 2D sheets.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the PXRD patterns of TABD-MOFs consistent with those simulated from their SXRD data?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main feature of heterocyclic compounds that allows for the detection by TABD-MOFs?",
+      "answer": "The presence of C=N and/or N=N bonds in the heterocyclic rings.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the addition of NTO to TABD-MOF suspensions in THF result in emission changes?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the emission when a large amount of hexane is added to the mixture of TABD-MOF suspension and NTO in THF?",
+      "answer": "The emission is boosted.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the detection of NTO by TABD-MOFs validated by UV-Vis spectroscopy?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of competitive coordination substitution in the detection mechanism of TABD-MOFs?",
+      "answer": "It leads to the release of AIE molecules which then reassemble to form emissive aggregates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Do common organic molecules and nitroaromatics interfere with the sensing results of TABD-MOF-3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the detection limit of NTO in the fluorescence titration experiment?",
+      "answer": "4 × 10^-8 mol/L",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the original fluorescence of the organic linkers in TABD-MOFs be recovered through competitive coordination substitution?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of aggregation-induced emission (AIE) characteristics in the design of TABD-MOF probes?",
+      "answer": "AIE characteristics allow for the design of fluorescence turn-on probes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

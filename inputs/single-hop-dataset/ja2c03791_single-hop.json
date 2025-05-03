@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the synthesized complex?",
+      "answer": "C41.11H56.07NaO8U",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the synthesized complex?",
+      "answer": "trigonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (in Kelvin) was the XRD analysis performed?",
+      "answer": "100.00(10) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the synthesized complex?",
+      "answer": "R3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density (g/cm3) of the synthesized complex?",
+      "answer": "1.495",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesized complex luminescent under UV excitation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesized complex exhibit circularly polarized luminescence (CPL)?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the quantum yield of the synthesized complex higher when excited at 280 nm compared to 450 nm?",
+      "answer": "True, as there is no quantum yield reported for 450 nm excitation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the radiative lifetime of the synthesized complex increase when the emission monitoring wavelength changes from 480 nm to 485 nm?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Flack parameter of the synthesized complex close to zero?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the radiative lifetime of the synthesized complex when monitored at 480 nm?",
+      "answer": "4.44 μs (± 0.1)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the quantum yield of the synthesized complex under UV excitation?",
+      "answer": "1.71 % (± 0.11)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum wavelength (nm) observed in the emission spectrum of the synthesized complex under UV excitation?",
+      "answer": "The maximum wavelength is not directly provided, but the emission spectrum under UV excitation is centered at 500 nm.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesized complex show a higher intensity of circularly polarized luminescence when excited at 295 nm compared to 450 nm?",
+      "answer": "True, as CPL is reported under 295 nm excitation and not under 450 nm.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the synthesized complex be used to study the coordination environment of uranyl complexes?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesized complex's emission spectrum at room temperature similar to its low-temperature emission spectrum?",
+      "answer": "The question cannot be directly answered with provided data, but it is implied that CPL spectroscopy provides more detailed information at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesized complex exhibit a bisignate pattern in its CPL spectrum?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesized complex's CPL dissymmetry factor higher under UV excitation compared to visible excitation?",
+      "answer": "The question cannot be directly answered with provided data, but CPL is reported under UV excitation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesized complex have a higher quantum yield than other molecular uranyl complexes in solution?",
+      "answer": "False, the quantum yield is relatively lower than other molecular complexes in solution.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesized complex's CPL brightness calculated in the study?",
+      "answer": "Yes, the overall CPL brightness is calculated to be 0.81 M−1 cm−1.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

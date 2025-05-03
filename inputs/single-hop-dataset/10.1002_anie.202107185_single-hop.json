@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the covalent organic–inorganic hybrid superlattice mentioned?",
+      "answer": "PbBDT",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does PbBDT have that contributes to its high sensitivity and selectivity towards NO2?",
+      "answer": "The surface of PbBDT nanosheets is covered with uncoordinated benzenethiol groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PbBDT thermally stable up to 353 8C in air?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to synthesize PbBDT nanosheets?",
+      "answer": "One-step coordination assembly of Pb2+ ions and 1,4-benzenedithiol under ultrasonic condition.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the estimated band gap of PbBDT according to DFT calculations?",
+      "answer": "1.21 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of benzenethiol groups on PbBDT's surface affect its gas sensing performance?",
+      "answer": "The benzenethiol groups enhance the electronic change of materials caused by interaction with specific foreign molecules, thus promoting better performance in chemical applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PbBDT require light assistance for NO2 detection?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the response time of PbBDT to 400 ppb NO2?",
+      "answer": "16.2 seconds for response, 47.4 seconds for recovery.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can PbBDT selectively interact with different molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical limit of detection (LOD) for NO2 using PbBDT?",
+      "answer": "0.51 ppb",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the covalent bonding between organic and inorganic sublattices in PbBDT affect its properties?",
+      "answer": "It offers better thermo-/chemi-stability, inter-sublattice electron transport, and a unique organic-group-functionalized surface.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PbBDT's sensing performance directly correlated to the intact benzenethiol groups on its surface?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of surface functional groups in PbBDT's gas sensing mechanism?",
+      "answer": "They allow NO2 to adsorb onto PbBDT nanosheets through Lewis acid-base interaction and hydrogen bond, causing a resistivity change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does PbBDT maintain its phase purity after immersion in common solvents for 24 hours?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the sensitivity of PbBDT to 40 ppb NO2?",
+      "answer": "137.8 ppm-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the covalent inter-sublattice connection in PbBDT affect its gas sensing performance?",
+      "answer": "It plays a fundamental role in transforming the surface disturbance into an electrical signal, leading to a significant conductance change.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PbBDT's response to NO2 reversible?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal structure of PbBDT?",
+      "answer": "Monoclinic space group P21/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the adsorption of NO2 on PbBDT create a hole-accumulation layer (HAL)?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the covalent OIHSL structure in PbBDT's application as a gas sensor?",
+      "answer": "It enables superior chemistry applications due to its excellent thermo-/chemi-stability and inter-sublattice charge transport.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

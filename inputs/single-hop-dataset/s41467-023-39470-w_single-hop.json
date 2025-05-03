@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the as-synthesised PCP-3,5-pdc?",
+      "answer": "C19H13CoN3O6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does the activated PCP-3,5-pdc belong to?",
+      "answer": "triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the void ratio of phase γ of PCP-3,5-pdc?",
+      "answer": "19.8%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the TGA analysis of as-synthesised and activated PCP-3,5-pdc conducted?",
+      "answer": "The TGA analysis does not specify a single temperature but indicates that the framework is thermally stable up to 270 °C.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Hill coefficient for the gate-opening step in the CO2 adsorption isotherm at 195 K in PCP-3,5-pdc?",
+      "answer": "4.1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to evaluate the diffusion barrier of CO2, C2H2, and C2H4 molecules in PCP-3,5-pdc?",
+      "answer": "The climbing-image nudged elastic band (CI-NEB) method",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main mechanism for CO2 selective adsorption in PCP-3,5-pdc?",
+      "answer": "The cooperation of pore stereochemical shape, location of binding sites, and framework flexibility",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The CO2 adsorption capacity of PCP-3,5-pdc is significantly affected by humidity.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water vapor in the adsorption process of PCP-3,5-pdc?",
+      "answer": "The manuscript indicates that PCP-3,5-pdc retains its CO2 adsorption capacity even after exposure to humidity, suggesting that water vapor does not significantly affect its adsorption process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformation of PCP-3,5-pdc from phase α to phase β involves breaking of bonds between the Co center and N of the 3,5-pdc ligand.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in achieving selective CO2 uptake from a mixture of gases according to the article?",
+      "answer": "The main challenge is achieving selective binding with only a target guest from multicomponent mixtures in artificial porous materials, regardless of the sizes and affinities of other competing species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of CO2 in the open framework of PCP-3,5-pdc is strong enough to block the pore entry, preventing effective guest exchange in the pore network.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to monitor the structural transformation of PCP-3,5-pdc during CO2 adsorption?",
+      "answer": "In-situ synchrotron PXRD measurements",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the Hill coefficient being greater than 1 for the CO2 adsorption isotherm at 195 K in PCP-3,5-pdc?",
+      "answer": "A Hill coefficient greater than 1 indicates positive, cooperative adsorption phenomenon, suggesting that the adsorption of CO2 molecules occurs in a cooperative manner.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The selective adsorption of CO2 over C2H2 and C2H4 in PCP-3,5-pdc is thermodynamically controlled.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the selective adsorption of CO2 over other gases in PCP-3,5-pdc?",
+      "answer": "The selective adsorption of CO2 over other gases in PCP-3,5-pdc is attributed to the synergistic effect of binding sites and structural deformation, which act cooperatively, exhibiting an exclusive discrimination gating effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of CO2 in PCP-3,5-pdc is facilitated by the presence of functional interacting sites within the framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the dynamic bottleneck aperture in the corrugated channel of PCP-3,5-pdc?",
+      "answer": "The dynamic bottleneck aperture in the corrugated channel can adjust its size and shape to regulate guest diffusion and thermodynamically distinguish the target gas from other competing gases with fewer host-guest interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural transformation of PCP-3,5-pdc from a dense phase to an open-phase structure is reversible.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental evidence supports the selective recognition capability of PCP-3,5-pdc for CO2 over nine similar gaseous molecules?",
+      "answer": "The experimental evidence includes in-situ crystallographic experiments, theoretical studies, and gas co-adsorption and breakthrough separation performance tests, which demonstrate the PCP's efficient adsorbent properties for CO2 capture from various gas mixtures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main product of electrochemical CO2 reduction reactions (eCO2RR) using the Sn-THO catalyst?",
+      "answer": "CH4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the partial current density of CH4 achieved by the Sn-THO catalyst?",
+      "answer": "34.5 mA cm-2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Sn-THO catalyst show higher selectivity for CH4 over formate and CO compared to other Sn-based catalysts?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination geometry of the SnIV ion in Sn-THO?",
+      "answer": "Distorted octahedral",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the isolated SnO6 2- active site in the Sn-THO catalyst?",
+      "answer": "It favors the formation of key *OCOH species to produce CH4 and inhibits the formation of *OCHO and *COOH species.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Sn-THO catalyst stable in 1 M KOH aqueous solution at room temperature for at least 24 hours?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of Sn-THO?",
+      "answer": "301 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the Sn-THO catalyst produce any liquid products during eCO2RR?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main by-product observed in the eCO2RR process using Sn-THO?",
+      "answer": "H2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Faradaic efficiency (FE) for CH4 production at -1.6 V vs. RHE using Sn-THO?",
+      "answer": "46.5(3)%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the carbon source of the reduction products using Sn-THO be confirmed as coming from reactant CO2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the FE(CH4) value and current density of Sn-THO after 80 hours of continuous operation?",
+      "answer": "The FE(CH4) value decreases from 46% to 43%, and the current density decreases from 75 mA cm-2 to 71 mA cm-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of Sn-THO maintained after catalysis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in product selectivity between Sn-THO and other Sn-based catalysts?",
+      "answer": "Sn-THO exhibits hydrocarbon selectivity for eCO2RR, while other Sn-based catalysts produce formate or CO.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the key intermediates for eCO2RR to CH4 identified for Sn-THO?",
+      "answer": "*OCH2 and *OCH3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the operando ATR-FTIR spectra of Sn-THO show the presence of the *COOH intermediate?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated Gibbs energy value for the formation of the *OCOH intermediate on Sn-THO?",
+      "answer": "-0.24 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the *OCOH intermediate more favorable during the eCO2RR process on Sn-THO compared to *COOH and *OCHO intermediates?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the coordination environment analysis reveal about the selectivity of Sn-THO for CH4 production?",
+      "answer": "The special coordination geometry and environment of the SnIV ion in Sn-THO favors the formation of *OCOH species, leading to high FECH4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of developing a Sn-based catalyst like Sn-THO for eCO2RR?",
+      "answer": "It provides a new insight to achieve high selectivity of CO2-to-CH4 conversion and sheds light on the rational design of highly efficient non-copper metal sites for electroreduction of CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

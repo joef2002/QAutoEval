@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in modern organic chemistry that the article addresses?",
+      "answer": "The main challenge addressed is the direct functionalization of C(sp3)–H bonds in a predictable, selective, and recyclable manner.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What approach is presented in the article for regioselective C–H arylation of benzylamines?",
+      "answer": "The article presents a heterogeneous approach combining hydrogen atom transfer (HAT) and photoredox catalysis for regioselective C–H arylation of benzylamines.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two ligands incorporated into the coordination polymer for enhanced catalytic performance?",
+      "answer": "The two ligands are tricarboxytriphenylamine (H3TCA) and tris(4-(pyridinyl)phenyl)amine (NPy3).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the mixed-ligand approach improve the photocatalytic process?",
+      "answer": "The mixed-ligand approach improves the photochemical and photophysical properties, providing important insight into rational design and optimization of recyclable photocatalysts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocatalytic platform presented in the article recyclable?",
+      "answer": "Yes, the photocatalytic platform is recyclable.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role does the Ar3N moiety play in the catalytic process?",
+      "answer": "The Ar3N moiety enhances the chemical and thermal stability of the polymers and diminishes structural relaxation during the catalytic process.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the structural intermediate formed by the Ar3N moieties?",
+      "answer": "The structural intermediate formed by the Ar3N moieties mixes the characteristics of both N(sp3) and N(sp2), decreasing potential structural relaxation during the HAT process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the oxidized state of Cd-MIX oxidize C(sp3)–H nucleophiles directly?",
+      "answer": "No, the inherent moderate oxidization potential of Ar3N in the coordination polymer prohibits the oxidized state of Cd-MIX from earning an electron from the C(sp3)–H nucleophiles.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the outcome of the photocatalytic experiment initiated with N-phenylpyrrolidine and 1,4-dicyanobenzene?",
+      "answer": "The photocatalytic transformation of an amine gave an α-amino cyanobenzene product with a conversion of 90% upon 0.5 mol% loading of Cd-MIX.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the article provide a new strategy for H-atom abstraction in photocatalysis?",
+      "answer": "Yes, the article presents a new HAT strategy where the in situ formed oxidized Ar3Nc+ acts as a HAT catalyst, simplifying transformation steps and avoiding the use of a strong oxidizer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the turnover number (TON) value achieved in the scale-up experiments for C–H arylation?",
+      "answer": "The TON value of about 900 per mole of catalyst was achieved after 50 hours of irradiation in the scale-up experiments for C–H arylation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photocatalytic activity of Cd-MIX dependent on the size of its crystals?",
+      "answer": "No, there was no obvious variation in catalytic efficiency when the size of Cd-MIX was reduced from 200 to 1.0 mm by mechanical grinding.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of NaOAc in the photocatalytic C–H arylation reaction?",
+      "answer": "NaOAc provides an appropriate weak base environment important for neutralizing the acidic Ar3NH+ or HCN produced in the reaction system to obtain an efficient reaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of using a 365 nm LED irradiation on the C–H arylation reaction?",
+      "answer": "Using a 365 nm LED irradiation led to complete transformation of 1,4-dicyanobenzene but also resulted in the presence of byproducts due to excessive activation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the article demonstrate the use of Cd-MIX in a fluidized bed reactor for C–H arylation?",
+      "answer": "Yes, the article demonstrates the use of a model fluidized bed reactor for C–H arylation to investigate the recycling properties of Cd-MIX.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the p/p stacking interactions between the ligands in Cd-MIX?",
+      "answer": "The p/p stacking interactions between the ligands in Cd-MIX stabilize the mixed-ligand coordination polymer and are crucial for the catalytic activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the photocatalytic system described in the article activate aliphatic C–H bonds?",
+      "answer": "Yes, the photocatalytic system is capable of activating aliphatic C–H bonds, allowing kinetically controlled functionalization of hydridic C–H bonds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of electron-rich C–H bonds adjacent to amine functionalities in the catalytic process?",
+      "answer": "Electron-rich C–H bonds adjacent to amine functionalities serve as useful precursors to form the C-centered radical C(sp3)c via a HAT event when interacting with the catalytically generated amine radical cation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the outcome of control experiments based on monoligand coordination polymers?",
+      "answer": "Control experiments based on monoligand coordination polymers suggested that the mixed-ligand approach improved the photochemical and photophysical properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the article provide a new insight into the design of recyclable photocatalysts?",
+      "answer": "Yes, the article provides important insight into the rational design and optimization of recyclable photocatalysts for rapid access to complex bioactive molecules and late-stage functionalized pharmaceuticals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

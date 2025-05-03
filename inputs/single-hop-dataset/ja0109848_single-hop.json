@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound synthesized using ethylenediamine as a pillaring agent?",
+      "answer": "Co4(SO4)(OH)6(C2N2H8)0.5·3H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DABCO in the synthesis of Co4(SO4)(OH)6(C6N2H12)0.5·H2O?",
+      "answer": "DABCO acts as a rigid organic pillar.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the rigidity of the organic pillar affect the thermal stability of the synthesized compounds?",
+      "answer": "The rigidity of the organic pillar, such as DABCO, increases the thermal stability of the compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The sulfate groups play a crucial role in stabilizing the structure of the synthesized compounds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of dehydration on the interlayer spacing of CSDAB?",
+      "answer": "The interlayer spacing of CSDAB gradually increases from 10.17(1) to 10.27(2) Å on heating from 20 to 200 °C.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the crystallinity of CSDAB framework upon heating to 360 °C?",
+      "answer": "The CSDAB framework retains crystallinity up to 360 °C, where the sulfate groups are lost.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The loss of interlayer water from CSDAB results in a dramatic change to the cell parameters.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What magnetic behavior is observed in both CSEN and CSDAB phases at low temperatures?",
+      "answer": "Both CSEN and CSDAB phases display susceptibility maxima and irreversibility at low temperatures consistent with complex magnetic ordering.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic moments derived from the Curie constant for CSDAB and CSEN suggest that the orbital contribution is incompletely quenched.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the critical exponent value β = 0.23 derived for the metamagnetic transition in CSDAB and CSEN?",
+      "answer": "The value of the critical exponent β = 0.23 is similar to that associated with two-dimensional XY systems, suggesting that the moments lie in the planes of the cobalt hydroxysulfate layers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The interlayer exchange mediated by the organic pillars drives zero-field antiferromagnetism in CSDAB and CSEN.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect of the rigidity of DABCO on the dehydration process of CSDAB?",
+      "answer": "The rigidity of DABCO prevents dramatic changes to the cell parameters upon the loss of interlayer water from CSDAB.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The dehydration process is fully reversible for CSDAB.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sulfate groups in the thermal stability of CSDAB and CSEN?",
+      "answer": "Sulfate groups play a key role in stabilizing the structure by forming hydrogen bonds with the organic pillars and controlling the stability of the inorganic layers.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic behavior of CSDAB and CSEN is influenced by the geometrical frustration due to the triangular geometry of the layers.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the DABCO molecule on the orientation of the sulfate pendant in the CSDAB structure?",
+      "answer": "The DABCO molecule constrains the orientation of the nearby sulfate pendant in the CSDAB structure due to its larger size and hydrogen bonding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetic ordered state in CSEN and CSDAB displays irreversibility between field cooled and zero-field cooled magnetization.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed saturation moment for the Co8 unit in both CSDAB and CSEN at low temperatures?",
+      "answer": "The observed saturation moments for the Co8 unit in both CSDAB and CSEN are equivalent to the resultant moment of four CoII.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The magnetic behavior of CSDAB and CSEN suggests that the orbital contribution is completely quenched.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the orientation of sulfate groups affect the layer registry in CSDAB and CSEN?",
+      "answer": "The orientation of sulfate groups affects the layer registry by determining the layer orientation and consequently altering the layer arrangement from AAA in CSEN to ABA in CSDAB.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

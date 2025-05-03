@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What type of boron compounds are usually considered electrophilic due to their electron deficiency?",
+      "answer": "Trivalent boron compounds",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound was reported by Yamashita, Nozaki, and co-workers in 2006?",
+      "answer": "The boryl anion A",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the bis(triflate) derivative 2 after reacting with trifluoromethane sulfonic acid?",
+      "answer": "80%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the final yield of compound 3 after displacement of the triflate substituents with sodium cyanide?",
+      "answer": "87%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of potassium bis(trimethylsilyl)amide in the synthesis of the boryl anion 4?",
+      "answer": "It is used to deprotonate dicyanide 3, leading to the formation of the boryl anion 4.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the boryl anion 4 considered stable?",
+      "answer": "Because it is perfectly stable in the absence of air and moisture.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens when boryl anion 4 reacts with HCl?",
+      "answer": "It gives back borohydride 3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the boryl anion 4 air and moisture sensitive?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the boryl anion A be prepared by deprotonation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did Curran successfully isolate the NHC-stabilized parent boryl anion D?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the B–Cnitrile bond length in 4 shorter than in 3?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of isopropyl iodide to boryl anion 4 result in the formation of isopropyl-borane 5?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the boryl–gold complex 6 formed by reacting boryl anion 4 with (trimethylphosphine)gold chloride?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the yellow solid obtained after reacting dicyanide 3 with KHMDS?",
+      "answer": "95%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What indicates a weaker delocalization of the negative charge on the nitrile groups in compound 4 compared to E?",
+      "answer": "The B–Cnitrile bond lengths in 4 are slightly shorter than in 3 but longer than in E.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the strong delocalization of the electron density onto the carbene moiety in compound 4?",
+      "answer": "The significant lengthening of the C1–N1 bond and the trigonal planar geometry of boron.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the synthesis of nucleophilic boron compounds A–F achieved through the reduction of boron halide or pseudo-halide precursors?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of electron-withdrawing groups at boron favor the deprotonation of a borohydride?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using a cyclic alkyl amino carbene (CAAC) in the synthesis of the carbene-stabilized boryl anion?",
+      "answer": "CAACs are slightly more nucleophilic but much more electrophilic than NHCs, making them suitable for favoring the deprotonation of a borohydride.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of attempting to deprotonate the CAAC(BH3) adduct 1?",
+      "answer": "All attempts to deprotonate 1 failed, indicating that additional electron-withdrawing groups at boron were necessary.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

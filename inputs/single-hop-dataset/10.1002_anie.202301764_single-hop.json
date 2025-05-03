@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the metal-organic framework (MOF) discussed?",
+      "answer": "{[Th6O4(OH)4(H2O)6-(BCP)3]·10 DMF}n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the diameter of the nanocages within the MOF structure?",
+      "answer": "1.55 nm",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the MOF maintain its structure in DMF or water at 200 °C for 7 days?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of N,N-dimethylformamide (DMF) in the synthesis of tertiary amines?",
+      "answer": "DMF acts as an amine source, reductant, and solvent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF stable after soaking in a 10 M HCl solution for 24 hours?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of N, N-dimethyl-1-phenylmethanamine when benzaldehyde is used as the substrate under optimal conditions?",
+      "answer": "98%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the MOF be reused without significant loss in catalytic activity?",
+      "answer": "Yes, it can be reused at least five times.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of water in the reductive amination reaction?",
+      "answer": "Water acts as an auxiliary agent to promote the decomposition of DMF into formic acid.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF exhibit size selectivity for different substrate molecules?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the interaction energy between the [Th6O4(OH)4(H2O)6]12+ clusters and BCP ligands?",
+      "answer": "3336.5 kcal mol-1 per 1 unit",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the MOF's catalytic performance affected by the presence of meta- and para-substituents on the aldehydes?",
+      "answer": "No, the presence of meta- and para-substituents with electron-withdrawing or electron-donating groups have no significant effect on the efficiency of the catalyst.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the yield of the product when the substrate has two ortho-substituents?",
+      "answer": "The yield of the product is lower than that of meta- and para-substituents due to large steric hindrance.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the turnover frequency (TOF) of the MOF for the reductive amination reaction of benzaldehyde with DMF?",
+      "answer": "0.73 h-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the MOF's structure remain intact after being used in the catalytic reaction?",
+      "answer": "Yes, PXRD patterns show that the MOF remains stable during the reaction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the substrate's size on the conversion rate in the reductive amination reaction?",
+      "answer": "The conversion rate of the substrates decreases as the molecular size of the substrates increases, showing that the MOF exhibits size selectivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF's catalytic activity for the reductive amination reaction superior to non-porous or homogeneous catalysts?",
+      "answer": "Yes, the MOF presents higher catalytic activity than non-porous or homogeneous catalysts for the reductive amination reaction.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the [Th6] nodes in the MOF during the catalytic reaction?",
+      "answer": "The [Th6] nodes can activate the oxygen atom of aldehydes and DMF, facilitating the decomposition of DMF into dimethylamine and formic acid.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of water increase the yield of the product in the reductive amination reaction?",
+      "answer": "Yes, the presence of water significantly improves the yield of the product.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical weight loss of the MOF due to the loss of coordinated water molecules and solvent molecules in the channels?",
+      "answer": "22.0%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the MOF maintain its crystallinity after being exposed to air for one year?",
+      "answer": "Yes, the MOF can maintain its crystallinity even after being exposed to air for one year.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

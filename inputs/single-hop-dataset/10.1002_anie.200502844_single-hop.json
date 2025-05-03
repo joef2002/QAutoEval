@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI number of the article discussing microporous metal–organic frameworks for gas-chromatographic separation of alkanes?",
+      "answer": "10.1002/anie.200502844",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What potential applications are mentioned for microporous metal–organic frameworks?",
+      "answer": "Gas storage, separation, and catalysis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the formula of the compound MOF-508a as determined by elemental microanalysis and single-crystal X-ray diffraction studies?",
+      "answer": "Zn(BDC)(4,4’-Bipy)0.5·(DMF)(H2O)0.5",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structure of MOF-508a and MOF-508b is identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the temperature range over which MOF-508a releases its guest molecules to form the guest-free phase MOF-508b?",
+      "answer": "25–145 8C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The reversible open–dense framework transformation of MOF-508 is responsible for its dynamic features and hysteresis in gas sorption isotherms.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the cross section size of the 1D channels in MOF-508a?",
+      "answer": "Approximately 4.0 8 4.0 9",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MOF-508 phases were initially examined for the chromatographic separation of natural gas.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the retention time of n-pentane when separated using the MOF-508 column?",
+      "answer": "6.39 min",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF-508 column can separate n-pentane from 2-methylbutane.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Why does 2-methylbutane elute faster than n-pentane in the MOF-508 column?",
+      "answer": "Because 2-methylbutane has a shorter linear chain, resulting in weaker van der Waals interactions with the microporous MOF walls.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The retention of alkanes on the MOF-508 column mainly depends on the size of their branched parts.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Langmuir surface area of MOF-508 as calculated from the N2 sorption isotherm?",
+      "answer": "946 m2 g-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The MOF-508 column can efficiently separate mixtures of 2-methylbutane, n-pentane, 2,2-dimethylbutane, 2-methylpentane, and n-hexane.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the good GC separation capability of MOF-508?",
+      "answer": "Its 1D pores of 4.0 8 4.0 9 selectively accommodate linear alkanes and discriminate branched alkanes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the 4,4’-Bipy linkers in the structure of MOF-508?",
+      "answer": "They pillar the 2D square grids to form a 3D framework with an elongated primitive cubic lattice.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the phase purity of MOF-508a independently confirmed?",
+      "answer": "By both powder X-ray diffraction (PXRD) and thermal gravimetric analysis (TGA).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to MOF-508b when soaked in DMF/ethanol for one day?",
+      "answer": "It regenerates the guest-filled phase MOF-508a.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest-free phase MOF-508b is thermally stable to 360 8C.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the reversible open–dense framework transformation in MOF-508?",
+      "answer": "It is responsible for the dynamic features and hysteresis of the compound's gas sorption isotherms.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

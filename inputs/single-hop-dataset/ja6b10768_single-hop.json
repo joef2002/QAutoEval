@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "1D-2D-3D Transformation Synthesis of Hierarchical Metal–Organic Framework Adsorbent for Multicomponent Alkane Separation",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author with an email address likhong.wee@kuleuven.be?",
+      "answer": "Lik H. Wee",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research conducted in the article?",
+      "answer": "The synthesis of a hierarchical MOF (Metal-Organic Framework) for multicomponent alkane separation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the characterization of COK-18's porosity?",
+      "answer": "Nitrogen adsorption isotherm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the activated COK-18 according to the article?",
+      "answer": "I m m m",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the research article provide a CIF file for the X-ray crystallographic data of COK-18?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption enthalpy of n-hexane on COK-18 below 51 kJ mol-1?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to study gas-phase adsorption at zero coverage surface?",
+      "answer": "Pulse gas chromatography",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the lattice parameter 'a' for the activated COK-18?",
+      "answer": "18.5853(24) Å",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the SEM technique used to observe the morphology changes during the synthesis of COK-18?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the partition coefficient between n-hexane and 2,2-dimethylbutane on HKUST-1?",
+      "answer": "1.15",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the article mention the use of Grand Canonical Monte Carlo (GCMC) simulation?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of COK-18 over HKUST-1 for alkane separation according to the article?",
+      "answer": "COK-18 has interconnected hierarchical pore system that reduces diffusion limitation and has low adsorption energies for thermodynamically controlled separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption enthalpy of alkanes on COK-18 similar to that on zeolites?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of mesopores in microporous materials according to the article?",
+      "answer": "Mesopores in microporous materials help in eliminating transport limitations.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the synthesis yield of COK-18 based on Cu?",
+      "answer": ">95%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the article demonstrate the transformation of a 2D nonporous CuBTC layered material to a 3D hierarchical COK-18?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of COK-18 as mentioned in the article?",
+      "answer": "800 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the entropy driven adsorption selectivity based on size and degree of hydrocarbon branching a new discovery mentioned in the article?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hierarchical pore architecture of COK-18 in molecular separation?",
+      "answer": "The hierarchical pore architecture of COK-18 allows for maximizing entropy differences while minimizing transport limitation during multicomponent hydrocarbon separation at low temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

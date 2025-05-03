@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main advantage of electrochemical reactions in C-H functionalization of heterocyclic substrates?",
+      "answer": "Electrochemical reactions provide significantly enhanced yields in the C-H functionalization of complex substrates of pharmaceutical interest.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why do sulfinate radical sources stand out in the synthesis of complex alkyl- and fluoroalkyl-substituted heterocycles?",
+      "answer": "Sulfinate radical sources enable the synthesis with high functional group tolerance and tunable, predictable regioselectivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role does electrochemical initiation play in improving the yield of C-H functionalization reactions?",
+      "answer": "Electrochemical initiation controls the generation of the free radical, which is a major factor in improving yield.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction progress kinetics under electrochemical conditions influenced by the substrate concentration?",
+      "answer": "Yes, the reaction progress kinetics showed positive order in substrate concentration under electrochemical conditions.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of using TBHP over eight hours compared to the standard protocol in the reaction of Scheme 1 B?",
+      "answer": "Using TBHP over eight hours showed slow consumption of ZnTFMS but no significant increase in yield compared to the standard protocol.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the rate of sulfinate oxidation vary with different substrates under electrochemical initiation?",
+      "answer": "The rate of sulfinate oxidation was found to be invariant with substrate under electrochemical initiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electrochemical initiation method requires more sulfinate reagent than peroxide radical initiation methods.",
+      "answer": "False, electrochemical initiation uses significantly less sulfinate reagent than peroxide radical initiation methods.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of elevated temperature on the rate of sulfinate oxidation?",
+      "answer": "Elevated temperature had no effect on the rate of sulfinate oxidation but resulted in slightly enhanced conversion.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the comparison of trifluoromethylation under electrochemical and TBHP radical initiation reveal about substrate reactivity?",
+      "answer": "It reveals that a broad range of substrates show enhanced reactivity under electrochemical initiation for trifluoromethylation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Pyrazoles were among the most reactive substrates under electrochemical initiation.",
+      "answer": "False, pyrazoles were among the least reactive substrates under electrochemical initiation.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How were the structures of compounds 5, 7, and 12 determined?",
+      "answer": "The structures of compounds 5, 7, and 12 were determined using the crystalline sponge method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of difluoromethylation and trifluoroethylation under electrochemical conditions?",
+      "answer": "Difluoromethylation and trifluoroethylation were effective only for the most reactive substrates, with products obtained in low yield even at elevated temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The productive reaction rate under electrochemical conditions was strongly influenced by the current.",
+      "answer": "False, the productive reaction rate was not strongly influenced by the current under electrochemical conditions.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the controlled radical formation in electrochemical initiation contribute to the reaction?",
+      "answer": "It mediates radical introduction into the system and increases the window of time for the productive reaction, leading to enhanced yields.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The rate of sulfinate consumption followed first-order kinetics under electrochemical conditions.",
+      "answer": "False, the rate of sulfinate consumption followed zero-order kinetics under electrochemical conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the redox potentials observed in the study?",
+      "answer": "The observed redox potentials provide insight into the privileged role of TBHP compared to other chemical oxidants, indicating differences in oxidation potential.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction progress under electrochemical initiation allowed for the separation of processes related to radical generation and consumption.",
+      "answer": "True, monitoring the reaction progress under electrochemical initiation allowed deconvolution of processes related to radical generation and radical consumption.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of slow addition of TBHP on the yield of the reaction?",
+      "answer": "Slow addition of TBHP did not result in a significant increase in yield, implying differences between electrochemical and TBHP-initiated protocols.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Pyrroles showed disubstitution under electrochemical initiation in all cases.",
+      "answer": "False, pyrroles unexpectedly showed disubstitution under electrochemical initiation in some cases, not all.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does electrochemical initiation compare to peroxide radical initiation in terms of reagent usage?",
+      "answer": "Electrochemical initiation uses significantly less sulfinate reagent than peroxide radical initiation methods.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    }
+  ]
+}

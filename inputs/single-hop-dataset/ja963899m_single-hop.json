@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the estimated E0 value of potassium peroxymonosulfate (oxone)?",
+      "answer": "1.82 V vs NHE",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which complex was reported to evolve O2 catalytically below pH 3.5?",
+      "answer": "[Mn(dpa)2]-",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of pH on the rate of O2 evolution and MnO4- formation from [Mn(dpa)2]-?",
+      "answer": "MnO4- formation is favored by higher pH, and lowering the pH allows multiple turnovers of the O2-evolving reaction.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Which ligand, when used, showed no O2 evolution?",
+      "answer": "2,2‘-bipyridine (bpy)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens when [Mn(dpa)2]- is added to a solution of oxone?",
+      "answer": "A green complex forms and O2 is evolved.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of oxone in the reaction with [Mn(dpa)2]-?",
+      "answer": "Oxone acts as a highly oxidizing oxygen atom transfer reagent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the formation of MnO4- unique to the system involving [Mn(dpa)2]- and oxone?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of exchangeable solvent coordination sites on the dpa-manganese dimer explain the faster formation of MnO4- compared to bpy or pic complexes?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the terpy complex form MnO4- at a significant rate?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the reaction between oxone and [Mn(dpa)2]- catalytic in nature?",
+      "answer": "Yes, below pH 3.5.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reaction between oxone and [Mn(dpa)2]- result in the formation of hydrogen peroxide?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the green intermediate formed in the reaction between oxone and [Mn(dpa)2]- characterized by UV/vis spectroscopy?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the reaction between oxone and [Mn(dpa)2]- involve oxygen-atom transfer?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of using terpy as a ligand on O2 evolution?",
+      "answer": "Rapid catalytic O2 evolution was observed with the terpy complex.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is no O2 evolution observed with bpy?",
+      "answer": "Because bpy forms coordinatively saturated di-μ-oxo Mn(III/IV) dimers that are unreactive toward catalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the pH affect the reaction between [Mn(dpa)2]- and oxone?",
+      "answer": "Lowering the pH allows multiple turnovers of the O2-evolving reaction, while higher pH favors MnO4- formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the dpa complex form MnO4- faster than the bpy or pic complexes?",
+      "answer": "Due to the presence of exchangeable solvent coordination sites on the dpa-manganese dimer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What determines the fate of the bound oxone in the reaction with [Mn(dpa)2]-?",
+      "answer": "The fate of the bound oxone is dependent on pH, with protonation favoring hydrolysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the terpy complex more robust in catalyzing O2 evolution compared to the dpa system?",
+      "answer": "Because there is no buildup of MnO4-, allowing the terpy complex to maintain its catalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the green intermediate's characterization by both UV/vis and EPR spectroscopy?",
+      "answer": "It confirms the formation of an antiferromagnetically exchange-coupled Mn(III/IV) dimer as the green intermediate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

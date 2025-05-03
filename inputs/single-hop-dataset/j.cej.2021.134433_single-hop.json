@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study described in the text?",
+      "answer": "The main focus of the study is the development of a fluorinated metal-organic framework (MOF), JXNU-12(F), derived from the parent MOF JXNU-12, for high-performance C2H2/CO2 separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What property of fluorine is utilized in the synthesis of JXNU-12(F) to enhance C2H2/CO2 separation?",
+      "answer": "The large electronegativity and polarizability of fluorine groups exposed on the pore surfaces are utilized to enhance C2H2/CO2 separation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Both JXNU-12 and JXNU-12(F) exhibit the same CO2 uptakes under the same conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to calculate the Qst values for C2H2 and CO2?",
+      "answer": "The Qst values for C2H2 and CO2 are calculated based on the fitting parameters using a virial equation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the C2H2 uptake of JXNU-12(F) compare to that of JXNU-12?",
+      "answer": "The C2H2 uptake of JXNU-12(F) is 1.48 times higher than that of JXNU-12.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The introduction of fluorine atoms into the organic linkers significantly reduces the hydrophobicity of the MOF material.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pore partition agent in the synthesis of JXNU-12 and JXNU-12(F)?",
+      "answer": "The pore partition agent is used to divide the channel spaces into suitable pore cages, improving the framework stability and affording better pore spaces for trapping specific gas molecules.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the water contact angle measurements for JXNU-12 and JXNU-12(F)?",
+      "answer": "The water contact angle measurements indicate that the introduction of fluorine atoms into the organic linkers significantly enhances the hydrophobicity of the MOF material.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The fluorination of JXNU-12 to create JXNU-12(F) results in a decrease in the framework's chemical stability.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method is mentioned for gaining insights into the separation mechanism of JXNU-12(F)?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulations are mentioned for gaining insights into the separation mechanism of JXNU-12(F).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the C2H2/CO2 adsorption selectivity of JXNU-12(F) at 1 bar and 298 K compare to that of JXNU-12?",
+      "answer": "The C2H2/CO2 adsorption selectivity of JXNU-12(F) at 1 bar and 298 K is 2 times that of JXNU-12.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface area of JXNU-12(F) is higher than that of JXNU-12.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of the synthesis process for JXNU-12?",
+      "answer": "The yield of the synthesis process for JXNU-12 is 62%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using a fluorinated MOF like JXNU-12(F) for gas separation?",
+      "answer": "The main advantage is the dramatic enhancement in C2H2/CO2 separation properties due to the large electronegativity and polarizability of fluorine groups exposed on the pore surfaces.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of JXNU-12(F) requires a higher temperature than that of JXNU-12.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of HBF4 in the synthesis of JXNU-12 and JXNU-12(F)?",
+      "answer": "HBF4 acts as an acid modulator in the synthesis reactions of JXNU-12 and JXNU-12(F), influencing the formation of the MOF structures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the introduction of fluorine atoms affect the porosity of JXNU-12(F) compared to JXNU-12?",
+      "answer": "The introduction of fluorine atoms leads to a decrease in the porosity, surface area, and pore volume of JXNU-12(F) compared to JXNU-12.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The gas adsorption isotherms of JXNU-12 and JXNU-12(F) indicate that both MOFs are non-porous.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiments mentioned in the study?",
+      "answer": "The breakthrough experiments demonstrate the practical application and efficiency of JXNU-12(F) in dynamically separating C2H2 from CO2, showcasing its potential for industrial gas separation processes.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of fluorination on the chemical stability of JXNU-12(F)?",
+      "answer": "Fluorination improves the chemical stability of JXNU-12(F), as indicated by its ability to maintain crystallinity and framework integrity under conditions where JXNU-12 loses its crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

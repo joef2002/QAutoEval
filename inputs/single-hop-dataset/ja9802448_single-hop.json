@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the compound discussed?",
+      "answer": "C35 H56 Cu Li2 N3 O4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) was the X-ray data for compound 1 collected?",
+      "answer": "150K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the compound?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the C-N moiety in the compound ordered or disordered?",
+      "answer": "Disordered",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the final R value after refining the structure?",
+      "answer": "0.0407",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What type of radiation was used for the X-ray data collection?",
+      "answer": "MoKa",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How many unique reflections were averaged from the total reflections scanned?",
+      "answer": "4238",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of the compound?",
+      "answer": "P-1",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the structure solved with SIR92 or SHELXL97?",
+      "answer": "SIR92",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound's density greater than 1 g/cm^3?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound have a Z value of 2?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's molecular weight less than 700?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the final difference map within the range -0.37 < Ap < 0.34 eA-3?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's crystal color described as blue?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the compound's structure refined on F2 to a final wR2 = 0.0955?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the compound's X-ray data collection use a rotating anode?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's crystal system hexagonal?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the volume of the compound's unit cell?",
+      "answer": "925.00(14) A3",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the compound's formula weight?",
+      "answer": "660.28",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the compound's density (Dx)?",
+      "answer": "1.1859 cm-3",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

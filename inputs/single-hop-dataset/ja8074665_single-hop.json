@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of electrostatics in siderophore recognition?",
+      "answer": "In the absence of steric incompatibilities, electrostatic interactions determine siderophore strength of binding by Siderocalin.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of decreasing numbers of CAM units on the binding affinity of ferric complexes?",
+      "answer": "The ferric complexes incorporating decreasing numbers of CAM units are bound with decreasing affinities.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the backbone of the siderophore important for recognition by Siderocalin?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the affinities of Scn for the analogues?",
+      "answer": "A fluorescence-based binding assay was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the charge of the substrate affect Scn recognition?",
+      "answer": "Scn favors at least dianionic substrates for strong recognition.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are hydroxamate-based siderophores recognized by Siderocalin?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used for the study?",
+      "answer": "Gaussian 03, Revision C.02 was used for the computational studies.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the addition of Me-3,2-HOPO units affect the affinity of Scn?",
+      "answer": "Yes, the addition of Me-3,2-HOPO units decreases the affinity significantly.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can Scn bind both ferric and apo siderophores?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of cation−π interactions in siderophore recognition?",
+      "answer": "Cation−π interactions are important for the binding affinity of CAM-containing ligands with Scn.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of quadrupole moments in siderophore recognition?",
+      "answer": "Quadrupole moments are important to the electrostatic nature of the substrate, influencing Scn selectivity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the metal center's chirality affect recognition by Scn?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of the overall charge of the substrate on Scn recognition?",
+      "answer": "The overall charge of the substrate is important to selectivity, with Scn favoring more highly charged complexes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the metal-binding units solely responsible for Scn recognition?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Scn in the immune system?",
+      "answer": "Scn binds ferric and apo siderophores to prevent iron delivery to bacteria, acting as a bacteriostatic agent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of Me-3,2-HOPO units compare to 1,2-HOPO units in terms of Scn binding?",
+      "answer": "Me-3,2-HOPO units, due to added steric bulk, decrease the affinity for Scn compared to 1,2-HOPO units.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the backbone of the siderophore a critical factor for its recognition by Scn?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to measure the affinities of Scn for siderophore analogues?",
+      "answer": "Fluorescence quenching binding assay was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the addition of a metal center to the siderophore influence Scn recognition?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of electrostatic interactions on the binding strength of siderophores by Scn?",
+      "answer": "Electrostatic interactions, including charge-charge and cation−π, significantly influence the binding strength.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

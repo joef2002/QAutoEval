@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of UMCM-3?",
+      "answer": "C99 H51 O32.50 S3 Zn10",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for X-ray diffraction data collection for UMCM-3 and UMCM-4?",
+      "answer": "Rigaku-Axis Spider diffractometer equipped with graphite monochromated CuKα radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of UMCM-4 as determined by N2 adsorption isotherm?",
+      "answer": "3530 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the pore size distribution for UMCM-3 determined?",
+      "answer": "Using the Non-linear Density Functional Theory (NLDFT) zeolite/silica equilibrium transition kernel for Ar adsorption at 87 K based on a cylindrical pore model",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield of the reaction for the synthesis of UMCM-3, based on H3BTB?",
+      "answer": "32.1%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of UMCM-3 cubic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does UMCM-4 have a higher BET surface area than UMCM-3?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the coordination mode of UMCM-4 solved in the orthorhombic space group Pnma?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the quantification of PHT in UMCM-1?",
+      "answer": "UV-Vis spectroscopy after decomposition of the UMCM-1 framework and extraction with chlorobenzene",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the molecular weight (Mn) of PHT in UMCM-1 as determined by GPC analysis?",
+      "answer": "17500",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the space group of UMCM-3 F-43m?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal size of UMCM-4 larger than that of UMCM-3?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the polydispersity index (PDI) of PHT before incorporation into UMCM-1?",
+      "answer": "2.18",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of UMCM-4 require a higher temperature than UMCM-3?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the SQUEEZE routine in the refinement of UMCM-4?",
+      "answer": "To remove the diffraction contribution from highly disordered solvent molecules in the pores",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the Langmuir surface area of UMCM-5 higher than its BET surface area?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the final R indices (I>2sigma(I)) for UMCM-3?",
+      "answer": "R1 = 0.0411, wR2 = 0.0893",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of UMCM-5 result in a higher yield based on H3BTB compared to UMCM-3?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the synthesis of Zn4O(1,4-NDC)(BTB)4/3: UMCM-5?",
+      "answer": "Dissolving H2NDC and H3BTB in N,N-diethylformamide, adding Zn(NO3)2·6H2O, sonicating, and heating to 85 °C",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the molecular weight of PHT after incorporation into UMCM-1 lower than before?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

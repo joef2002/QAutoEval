@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main interest in Metal–organic frameworks (MOFs)?",
+      "answer": "MOFs have attracted considerable interest due to their intriguing structures and wide potential applications in areas including gas storage, separations, catalysis, magnetism, and nonlinear optical materials.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy did Yaghi et al. review in 2001 for the design of MOFs?",
+      "answer": "Yaghi et al. reviewed a design strategy involving the use of rigid molecular blocks, formed in situ under well-defined conditions, as secondary building units (SBUs) to direct the assembly of MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the {Ni6PW9(H2O)6} SBU stable in the absence of carboxylate ligands?",
+      "answer": "Yes, the {Ni6PW9(H2O)6} SBU can be isolated and is stable in the absence of the carboxylate ligands.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of terminal water ligands in the design of POMOFs?",
+      "answer": "The terminal water ligands in the {Ni6PW9(H2O)6} SBU offer the possibility for the design of POMOFs by replacing the water with rigid carboxylates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of structures were synthesized using the {Ni6PW9} cluster as SBU and rigid carboxylate ligands?",
+      "answer": "A series of novel POMOFs with 1D, 2D, and 3D structures were synthesized using the {Ni6PW9} cluster as SBU and rigid carboxylate ligands.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are POM-based solids with chiral structures considered of particular interest?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the unexpected result when using 1,2,4,5-benzenetetracarboxylate (pma) as a starting linker?",
+      "answer": "Pma was converted into 1,3-bdc and 1,4-bdc through in situ decarboxylation reactions under hydrothermal conditions, resulting in a mixture of structures 1 and 3.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the hydrothermal decarboxylation of pma in the synthesis of POMOFs?",
+      "answer": "The hydrothermal decarboxylation of pma, leading to a mixture of structures 1 and 3, indicates that hydrothermal conditions can induce unexpected reactions, which is significant for the synthesis strategy of POMOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the {Ni6PW9(H2O)6} SBU be used to construct novel POMOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of rigid carboxylate linkers in the formation of POMOFs?",
+      "answer": "Rigid carboxylate linkers are used to link {Ni6PW9(H2O)n} units into POMOFs through rigid carboxylate bridges along three directions, contributing to the formation of 1D, 2D, and 3D frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the structural feature of the {Ni6PW9(H2O)6} SBU?",
+      "answer": "The {Ni6PW9(H2O)6} SBU features a trilacunary Keggin B-a-[PW9O34]9- unit capped by a novel triangular [Ni6(m3-OH)3(H2O)6L3]9+ core.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of POMOFs involve the use of hydrothermal conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the {Ni6PW9(H2O)6} SBU's stability without carboxylate ligands on POMOF design?",
+      "answer": "The stability of the {Ni6PW9(H2O)6} SBU without carboxylate ligands allows for more versatile design possibilities in POMOF construction, as it can be isolated and manipulated independently of the ligands.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What distinguishes POM-based MOFs from metal carboxylate SBUs-based MOFs?",
+      "answer": "POM-based MOFs are distinguished by their use of polyoxometalate clusters as SBUs, which offer unique acid-base, redox, magnetic, catalytic, and photochemical properties, unlike the metal carboxylate SBUs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are all synthesized POMOFs chiral?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges are associated with linking POMs with rigid carboxylates into POMOFs?",
+      "answer": "The challenges include the large negative charges and oxygen-rich compositions of POM clusters, which preferentially bond metal cations rather than carboxylate anions, making the search for suitable POM clusters for POMOFs highly challenging.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the {Ni6PW9(H2O)6} SBU's ability to share terminal oxo atoms with metal cations?",
+      "answer": "This ability allows the sizes of SBUs to be varied incrementally from discrete units to aggregates and polymers through W=O-Ni linkages, providing potential for making tailor-made POMOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the {PW9} unit in the {Ni6PW9(H2O)6} SBU?",
+      "answer": "The {PW9} unit in the {Ni6PW9(H2O)6} SBU serves to share terminal oxo atoms with metal cations, enabling the incremental variation in the sizes of SBUs and contributing to the versatility in constructing POMOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of POMOFs limited to using {Ni6PW9} clusters as SBUs?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What future directions are suggested for the study of POM-based COFs?",
+      "answer": "Future work includes making novel functional POMOFs using larger rigid carboxylate linkers, various metal-substituted POM SBUs built from larger metal cluster aggregates, and other types of multilacunary POM precursors.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

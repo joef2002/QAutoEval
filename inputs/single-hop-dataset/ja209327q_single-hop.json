@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of coordinative immobilization of functionalized tetraphenylethylene within metal–organic frameworks?",
+      "answer": "To turn on fluorescence in the typically non-emissive tetraphenylethylene core.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon is complementary to aggregation-induced emission according to the text?",
+      "answer": "Matrix coordination-induced emission effect (MCIE).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the emission maxima of Zn2(C30H16O8)(H2O)2·4DEF?",
+      "answer": "480 nm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the fluorescence quantum yield of Cd2(C30H16O8)(DEF)(C2H5OH)2·DEF?",
+      "answer": "1.8%.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the spatial separation between TPE cores in MOFs and close-packed molecular aggregates be the same?",
+      "answer": "No, the spatial separation between TPE cores in MOFs is much larger than in any reported TPE molecular derivatives.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission spectrum of H4TCPE dependent on the excitation wavelength?",
+      "answer": "No, the maxima and the shapes of the emission spectra were independent of the excitation wavelength.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What change occurs to the fluorescence of H4TCPE when transitioning from a dilute solution to a concentrated solution or adding a poor solvent?",
+      "answer": "Turn-on fluorescence occurs, suggesting the formation of colloidal aggregates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of adsorbed small analytes affect the fluorescence response of the porous MOFs?",
+      "answer": "Yes, tuning the fluorescence response of the porous MOFs as a function of adsorbed small analytes is demonstrated.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET apparent surface area of the desolvated form of Zn2(C30H16O8)(H2O)2·4DEF?",
+      "answer": "317(4) m2/g.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the emission maxima of Cd2(C30H16O8)(DEF)(C2H5OH)2·DEF the same as solid H4TCPE?",
+      "answer": "No, Cd2(C30H16O8)(DEF)(C2H5OH)2·DEF has an emission maxima of 455 nm, while solid H4TCPE has an emission λmax of 480 nm.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of increasing H4TCPE concentration in methanol on its fluorescence?",
+      "answer": "Increasing the H4TCPE concentration in methanol results in turn-on fluorescence.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What structural feature of MOFs allows for guest-dependent emission maxima?",
+      "answer": "The spatial isolation of the chromophores within the MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the photophysical properties of MOFs solely determined by the close-packed TPE cores?",
+      "answer": "No, despite the absence of close-packed TPE cores, MOFs are still luminescent due to coordinative immobilization.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the paddlewheel shaped Zn2(O2C−)4 secondary building units in MOFs?",
+      "answer": "They serve as secondary building units bridged by TCPE4– ligands to form the MOF structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis condition of MOFs influence their crystal structure?",
+      "answer": "Yes, slight modifications in synthesis conditions can result in polymorphic differences between MOF structures.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the shortest phenyl···phenyl contacts in MOFs?",
+      "answer": "They indicate the spatial separation between TPE cores in MOFs, which is larger than in TPE molecular derivatives.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the fluorescence quantum yields of MOFs be improved by altering the substitution pattern on the TPE core?",
+      "answer": "Yes, meta-substitution on the TPE core could completely shut off dissipative processes, potentially improving quantum yields.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the fluorescence of MOFs affected by the rotation of phenyl rings?",
+      "answer": "Yes, the rotation of the phenyl rings in TCPE4– within MOFs causes partial quenching of the fluorescence.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DEF and alcohol molecules in the luminescence of MOFs?",
+      "answer": "Initially thought to cause vibrational quenching, their removal showed that phenyl ring rotation is a more significant factor.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the removal of solvent molecules from MOFs always result in a decrease in quantum yield?",
+      "answer": "No, the removal of solvent molecules does not always significantly affect the quantum yield, indicating other quenching mechanisms.",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

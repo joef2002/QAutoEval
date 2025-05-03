@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the synthesized complex?",
+      "answer": "[Fe(NCS)2(tppm)]·5CH3OH·2CH2Cl2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structure does the synthesized complex have?",
+      "answer": "A 3D 2-fold interpenetrated PtS-type porous coordination polymer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon does the synthesized complex exhibit under different conditions?",
+      "answer": "Temperature, light, and solvent-induced spin-crossover behaviors",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the synthesized complex when the temperature is decreased?",
+      "answer": "It undergoes a phase transition from the space group of Pban to Pnna with changes in the coordination spheres of FeII atoms",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of protic solvent molecules on the transition temperatures of the synthesized complex?",
+      "answer": "Protic solvent molecules such as methanol and ethanol effectively lower the transition temperatures",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is there a hysteresis observed in the spin-crossover behavior of the synthesized complex?",
+      "answer": "No, no hysteresis is observed for any sample",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the metastable high-spin state be trapped in the synthesized complex using light?",
+      "answer": "Yes, the metastable high-spin state can be partially trapped using light irradiation at 5 K",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesized complex undergo a complete or incomplete spin-crossover?",
+      "answer": "The synthesized complex undergoes a two-step incomplete spin-crossover",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesized complex's spin-crossover behavior is independent of the guest molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex's framework is unstable during guest desorption-resorption.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesized complex shows a cooperative effect in its physical properties.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the ligand tppm in the structure of the synthesized complex?",
+      "answer": "The ligand tppm is used to achieve the {FeII(pyridyl)4(trans-NCS)2} chromophore and hence a 3D spin-crossover porous coordination polymer",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized complex's spin-crossover behavior is not affected by light irradiation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of decreasing the CH3OH/CH2Cl2 ratio on the T1/2(1) value of the synthesized complex?",
+      "answer": "The T1/2(1) value shifts to high temperature upon decreasing the CH3OH/CH2Cl2 ratio",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized complex's spin-crossover behavior shows a hysteresis loop.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the synthesized complex's T1/2(1) value when the amount of CH3OH exceeds 70%?",
+      "answer": "The T1/2(1) value dramatically decreases when the amount of CH3OH exceeds 70%",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized complex can only encapsulate methanol and dichloromethane as guest molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of aprotic solvent molecules on the transition temperatures of the synthesized complex?",
+      "answer": "Aprotic solvent molecules make the high-spin state relatively unstable, leading to higher transition temperatures compared to protic solvents",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized complex undergoes a complete spin-crossover in the presence of all guest molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the synthesized complex's ability to undergo temperature, light, and solvent-induced spin-crossover behaviors?",
+      "answer": "It indicates that the incorporation of spin-crossover-active FeIIN6 units into sophisticated framework structures may lead to materials cooperative in their physical properties",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

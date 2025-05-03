@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for CAU-1?",
+      "answer": "[Al4(OH)2(OCH3)4(H2N-bdc)3]·x H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structure does MIL-96 have?",
+      "answer": "MIL-96 is built up from isolated trinuclear {Al3(m3-O)(O2CR)6} clusters and corrugated chains of corner-sharing aluminum octahedra.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum thermal stability temperature for Al-MIL-53?",
+      "answer": "Up to 450–500 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of CAU-1?",
+      "answer": "Approximately 1700 m2 g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of aminoterephthalate in the structure of CAU-1?",
+      "answer": "Aminoterephthalate linkers connect the octameric {Al8(OH)4(OCH3)8}12+ units to form a 12-connected net.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the 12-connected net in CAU-1?",
+      "answer": "It is notable for being very rare and contributes to the formation of a three-dimensional microporous framework.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to CAU-1 at temperatures above 360 °C?",
+      "answer": "The framework collapses.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is CAU-1 considered thermally stable?",
+      "answer": "Because it does not show any change in crystallinity or phase transitions up to 360 °C.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the solvent influence the product formation in the synthesis of MOFs?",
+      "answer": "The choice of solvent has a profound influence on product formation, affecting the complexity of the system and the types of MOFs formed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of using methanol as a solvent in the synthesis of CAU-1?",
+      "answer": "Using methanol yields the title compound CAU-1 and an unidentified phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the purpose of high-throughput methods in the synthesis of MOFs?",
+      "answer": "High-throughput methods are used for the systematic and efficient investigation of hydrothermal reaction systems to determine the optimal conditions for MOF synthesis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of aluminum salts in the product formation of MOFs?",
+      "answer": "Different aluminum salts influence the formation of various MOF phases, including the formation of new phases or known phases like Al-MIL-53-NH2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CAU-1 capable of undergoing postsynthetic modification reactions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the structure of CAU-1 change upon dehydration?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the octameric {Al8(OH)4(OCH3)8}12+ unit in CAU-1 unique to aluminum chemistry?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can CAU-1 be used as a catalyst in Knoevenagel condensation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of CAU-1 influenced by the molar ratios of starting compounds?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does CAU-1 exhibit type 2 sorption isotherm behavior?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the presence of aminoterephthalate unnecessary for the formation of CAU-1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are MIL-96 and MIL-53 based on the same inorganic building units?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "materials": [
+    {
+      "name": "MAF-23",
+      "synthesis_conditions": {
+        "temperature": "140 88C",
+        "time": "1500 min",
+        "atmosphere": "oxygen flow",
+        "notes": "Heating MAF-23 under these conditions yielded yellow crystals of [Zn2(btm)-(btk)], denoted as MAF-23-O. The oxidation ratio was determined by 1H NMR analysis. Conversion of btm2@ to btk2@ in the crystals can only reach 50%. Further increasing the reaction temperature and/or reaction time led to framework decomposition/collapse."
+      }
+    },
+    {
+      "name": "MAF-23-O",
+      "synthesis_conditions": {
+        "derived_from": "MAF-23",
+        "temperature": "140 88C",
+        "time": "1500 min",
+        "atmosphere": "oxygen flow",
+        "notes": "Derived from MAF-23 by heating under specified conditions. The oxidation process selectively oxidizes half of the soft methylene bridges to form more polar and rigid carbonyl bridges, improving C3H6/C3H8 adsorption selectivity."
+      }
+    }
+  ]
+}

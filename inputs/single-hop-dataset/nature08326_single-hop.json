@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What type of diffractometer was used to measure the diffraction data for crystal 1?",
+      "answer": "Bruker APEX-II/CCD diffractometer",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to solve the structures mentioned in the text?",
+      "answer": "Direct methods (SHELXS 97)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the temperature at which crystal 1 was analyzed?",
+      "answer": "85 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystal dimensions for crystal 6 are larger than those for crystal 1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group for crystals 1, 6, and 7?",
+      "answer": "Pbca",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The final R factors R1 for crystal 7 is higher than that for crystal 1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What type of radiation was used for crystal 6 and 7?",
+      "answer": "Synchrotron radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the crystallinity of the network maintained after solvent exchange in the preparation of 1 (G = ethyl acetate)?",
+      "answer": "By immersing the crystals in ethyl acetate for 24 hours",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The CCDC reference number for crystal 1 is 725638.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of warming the crystal to 270 K in the reaction process?",
+      "answer": "To complete the condensation reaction and obtain the imine product",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The reaction between an amine and an aldehyde to form a hemiaminal is exothermic.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the occupancy percentage of the hemiaminal intermediate 4 formed in crystal 6?",
+      "answer": "36%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The amino groups at all disordered positions in the crystal reacted with acetaldehyde to form the hemiaminal intermediate.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to introduce acetaldehyde to the crystal for the formation of the hemiaminal intermediate?",
+      "answer": "By immersing the crystal in a gentle flow of an ethyl acetate solution of acetaldehyde at 215 K",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of the final product (imine) was obtained by cooling the crystal to 90 K after the reaction.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the calculated density (calcd) for crystal 1?",
+      "answer": "1.740 g cm-3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The reaction temperature and time for the formation of the hemiaminal intermediate were optimized using temperature-dependent infrared spectroscopy.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the unique feature of the porous coordination network used in the study?",
+      "answer": "It allowed for the direct observation of a transient hemiaminal intermediate by X-ray crystallography",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main challenge in observing the hemiaminal intermediate according to the text?",
+      "answer": "Its transient nature and instability",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The overall reaction from an amine and an aldehyde to the imine product is endothermic.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

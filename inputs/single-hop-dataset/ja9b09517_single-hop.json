@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of tpbe-Cd?",
+      "answer": "C140H96Cd3Cl5N8",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the threshold pump fluence for lasing action in tpbe-Cd microwires?",
+      "answer": "Approximately 610 nJ cm−2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the fluorescence quantum yield of tpbe-Cd increase or decrease after exposure to air?",
+      "answer": "Decrease",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the lasing wavelength of tpbe-Cd microwires be switched by desorption/adsorption of guests?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest molecule loss on the steric hindrance around the AIE linkers in tpbe-Cd?",
+      "answer": "It reduces the steric hindrance, leading to enhanced rotation of linkers and red-shifted gain behavior.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum number of switching cycles demonstrated for the tpbe-Cd microwire laser switch?",
+      "answer": "Approximately 30 cycles",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the fluorescence lifetime of tpbe-Cd affected by exchanging its guest molecules with solvents of different polarity?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMAC molecules in the tpbe-Cd microcrystals?",
+      "answer": "DMAC molecules act as guests, inducing strong confinement around the tpbe linkers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the porosity of tpbe-Cd increase or decrease after the loss of guest molecules?",
+      "answer": "Increase",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary mechanism behind the lasing action in tpbe-Cd microwires?",
+      "answer": "Fabry–Pérot resonance",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the fluorescence of tpbe-Cd microcrystals recover to the original state after treatment with DMAC?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of air exposure on the XRD pattern of tpbe-Cd?",
+      "answer": "It causes the diffraction peaks to decrease, indicating a relatively disordered structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of solvent polarity on the fluorescence properties of tpbe-Cd?",
+      "answer": "The solvent polarity has little effect on fluorescence properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the fluorescence quantum yield of tpbe-Cd after air exposure?",
+      "answer": "It decreases from 29.5% to 18.6%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the lasing threshold of air-exposed tpbe-Cd microwires higher or lower than that of pristine tpbe-Cd?",
+      "answer": "Higher",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the steric hindrance in the tunable lasing performance of tpbe-Cd?",
+      "answer": "Steric hindrance controls the rotation of linkers, affecting the gain region and enabling wavelength-switchable lasing.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of tpbe-Cd collapse after the loss of solvent molecules?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest molecule volatility on the switching time of tpbe-Cd laser switches?",
+      "answer": "The switching time depends on the volatility of the guest molecules, with more volatile guests leading to faster switching.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the fluorescence of tpbe-Cd microcrystals be switched by changing the guest molecules?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the porosity calculation for tpbe-Cd?",
+      "answer": "The porosity calculation helps understand the space available for conformational rotations of organic ligands, affecting the gain region.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

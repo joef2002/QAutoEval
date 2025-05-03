@@ -1,0 +1,142 @@
+{
+  "materials": [
+    {
+      "name": "dach–Mg2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "Methanol",
+              "amount": "5.5 mL"
+            },
+            {
+              "name": "N,N-dimethylformamide (DMF)",
+              "amount": "4.5 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H4dobpdc",
+              "amount": "27.4 mg",
+              "molar_amount": "0.10 mmol"
+            },
+            {
+              "name": "Mg(NO3)2∙6H2O",
+              "amount": "64.0 mg",
+              "molar_amount": "0.25 mmol"
+            },
+            {
+              "name": "Chiral additive",
+              "molar_amount": "0.30 mmol"
+            }
+          ],
+          "time": "20 h",
+          "washing_method": [
+            {
+              "solvent": "DMF",
+              "times": "three",
+              "duration": "minimum of 3 h",
+              "temperature": "60 °C"
+            },
+            {
+              "solvent": "Methanol",
+              "times": "three",
+              "duration": "minimum of 3 h",
+              "temperature": "60 °C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "R-Mg2(dobpdc) and S-Mg2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "26.4 mL"
+            },
+            {
+              "name": "Methanol",
+              "amount": "36.9 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H4dobpdc",
+              "amount": "0.879 g",
+              "molar_amount": "3.2 mmol"
+            },
+            {
+              "name": "Mg(NO3)2∙6H2O",
+              "amount": "1.11 g",
+              "molar_amount": "4.31 mmol"
+            },
+            {
+              "name": "D-panthenol",
+              "amount": "25.61 g",
+              "molar_amount": "125 mmol"
+            }
+          ],
+          "time": "20 h",
+          "washing_method": [
+            {
+              "solvent": "DMF",
+              "times": "three",
+              "duration": "minimum of 3 h",
+              "temperature": "60 °C"
+            },
+            {
+              "solvent": "Methanol",
+              "times": "three",
+              "duration": "minimum of 3 h",
+              "temperature": "60 °C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dach–Zn2(dobpdc)",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "DMA",
+              "amount": "10.0 mL"
+            },
+            {
+              "name": "Ethanol",
+              "amount": "10.0 mL"
+            },
+            {
+              "name": "Water",
+              "amount": "10.0 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "H4dobpdc",
+              "amount": "82 mg",
+              "molar_amount": "0.30 mmol"
+            },
+            {
+              "name": "Zn(NO3)2∙6H2O",
+              "amount": "223 mg",
+              "molar_amount": "0.750 mmol"
+            },
+            {
+              "name": "D-panthenol",
+              "molar_amount": "1.2 M solution"
+            }
+          ],
+          "time": "20 h"
+        }
+      ]
+    }
+  ]
+}

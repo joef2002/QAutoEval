@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What method was used for the X-ray crystal analysis?",
+      "answer": "Single crystal X-ray diffraction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the proton conductivity of compound 1 at 60% RH?",
+      "answer": "3.9 x 10-4 Scm-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water molecules affect the proton conductivity in compound II?",
+      "answer": "The presence of water molecules significantly increases the proton conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Compound III contains DMA cations which contribute towards its conductivity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of sulfonic acid groups in the proton conductivity of the compounds?",
+      "answer": "Sulfonic acid groups contribute towards the proton conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the proton conductivity of compound 3 at 95%RH?",
+      "answer": "1.0 x 10-3 Scm-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The proton conductivity of compound 2 is higher than compound 1 at 60% RH.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula for calculating proton conductivity?",
+      "answer": "σ = L/(R.A)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The crystallographic data for compound 1 and compound 2 are identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the sulfonic acid groups being non-coordinating in these compounds?",
+      "answer": "It is rare and contributes to the proton conductivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The solvothermal reaction conditions were the same for the synthesis of compounds 1, 2, and 3.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the primary method used for proton conductivity measurement?",
+      "answer": "Impedance and gain-phase analyzer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The proton conductivity of compound 3 is solely due to the presence of DMA cations.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of high humidity on the proton conductivity of compound II?",
+      "answer": "It significantly increases the proton conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of compound 3 is two-dimensional.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the SQUEEZE program mentioned in the text?",
+      "answer": "It corrects for large accessible voids in the crystal structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the structure of compound 1 facilitate proton conductivity?",
+      "answer": "Through one-dimensional channels running along the a-axis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The sulfonic acid groups in all compounds are in the deprotonated form.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed weight loss in TG analysis of compound 1 below 125 °C?",
+      "answer": "26.3 wt%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do DMA cations in compound III affect its proton conductivity?",
+      "answer": "They function as potential charge carriers in addition to the protonated sulfonic acid groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

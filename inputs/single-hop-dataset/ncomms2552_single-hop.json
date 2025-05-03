@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of the research presented in the article?",
+      "answer": "The main goal of the research is to design and synthesize porous materials with pre-designed cavities, termed 'single-molecule traps' (SMTs), for specific adsorption-based applications, particularly for the selective adsorption of CO2 over N2 and CH4.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are metal-organic frameworks (MOFs) and why are they important for CO2 capture?",
+      "answer": "Metal-organic frameworks (MOFs) are porous materials assembled from molecular building units, which possess unique properties and vast application potential. They are important for CO2 capture because their modular design allows for facile structure and property tuning, enabling precise control of functionality for efficient CO2 separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How do single-molecule traps (SMTs) work for CO2 capture?",
+      "answer": "Single-molecule traps (SMTs) are designed to have a cavity with the desired size and properties suitable for trapping target CO2 molecules. These traps can strengthen CO2-host interactions without forming chemical bonds, thus showing potential for CO2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What strategies were proposed for building SMTs into extended porous solids?",
+      "answer": "Two strategies were proposed: assembly of the SMTs by ligand extension to construct a three-dimensional MOF ensuring efficient mass transfer, and accommodation of SMTs into other porous materials, such as mesoporous silica.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the CO2 adsorption performance of PCN-88 compared to PCN-880?",
+      "answer": "PCN-88, with pre-designed SMTs, showed significantly higher CO2 adsorption capacity, especially at low pressures, compared to PCN-880, where the SMT cavities were blocked. This demonstrates the effectiveness of SMTs in PCN-88 for selective CO2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research successfully demonstrated the feasibility of designing a cavity in porous materials for specific adsorption-based applications.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational methods were used to evaluate the CO2 capture performance of the designed materials?",
+      "answer": "Density functional theory (DFT) calculations and grand canonical Monte Carlo (GCMC) simulations were used to evaluate the CO2 capture performance, including the optimization of CO2 interactions with SMTs and the calculation of adsorption isotherms.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The designed SMTs in PCN-88 had no significant influence on the adsorption of CO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the potential applications of the materials designed in this research?",
+      "answer": "The materials designed in this research have potential applications in CO2 capture from flue gas, upgrading natural gas by selective CO2 adsorption, and possibly in other areas involving small molecule capture, activation, conversion, and storage.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of pyrazine in PCN-880 affect its CO2 adsorption capacity compared to PCN-88?",
+      "answer": "The presence of pyrazine in PCN-880, which blocks the SMT cavities, results in a lower CO2 adsorption capacity compared to PCN-88, especially at low pressures, indicating the importance of unblocked SMTs in PCN-88 for efficient CO2 capture.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

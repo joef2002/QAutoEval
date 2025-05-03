@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of FLPs mentioned in the text?",
+      "answer": "The main application for FLPs is in the catalytic tandem hydride transfer/deoxygenative hydrosilylation of carbon dioxide to methane.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes the geminal P/Al-based FLP 1 notable compared to other FLPs?",
+      "answer": "FLP 1 does not require fluorinated substituents to enhance the Lewis acidity of the acceptor site.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of LiH adduct 2 when FLP 1 was treated with solid lithium hydride and THF?",
+      "answer": "The yield of LiH adduct 2 was 40%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the molecular structure of 2 the first of its kind?",
+      "answer": "Yes, the molecular structure of 2 is the first structurally characterized monomeric lithium hydride complex.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the bonding of 2 differ from that of 3 and 4?",
+      "answer": "In contrast to 2, the softer Lewis acidic alkali metals Na and K in 3 and 4 display no interactions with the phosphorus atom in the solid state.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of treating NaH adduct 3 with chlorotriphenylsilane?",
+      "answer": "The treatment of NaH adduct 3 with chlorotriphenylsilane quantitatively afforded silane 6 together with precipitated sodium chloride and the THF adduct of FLP 1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did sodium hydride alone prove to be reactive under the same conditions as when used with FLP 1?",
+      "answer": "No, sodium hydride alone proved to be unreactive under the same reaction conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of silane 6 when using NaH with FLP 1 as a catalyst under reflux conditions?",
+      "answer": "The yield of silane 6 was 76% after a vacuum distillation workup.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the FLP-mediated nucleophilic substitution at silicon proceed with retention of configuration?",
+      "answer": "Yes, the FLP-mediated nucleophilic substitution at silicon proceeds with retention of configuration.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of FLP 1 in the conversion of alkali metal hydrides into soluble, molecular hydrides?",
+      "answer": "FLP 1 acts as an effective ion pair receptor for converting alkali metal hydrides into soluble, molecular hydrides with enhanced reactivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the reaction time required for NaH and KH to react with FLP 1?",
+      "answer": "NaH required 7 days and KH required 2 days to react with FLP 1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the coordination sphere of the potassium ion in 4 completed with four THF molecules?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What indicates a direct interaction of the lithium cation with the donor site of FLP 1 in LiH adduct 2?",
+      "answer": "The large 1J(Li,P) coupling constant of 39.8 Hz indicates a direct interaction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the reaction of converting chlorotriphenylsilane to triphenylsilane catalytic?",
+      "answer": "Yes, the reaction was catalytic as FLP 1 was regenerated, suggesting the feasibility of catalytically converting chlorosilane 5.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to provide insight into the stability of the different coordination modes?",
+      "answer": "The M06-2X/6-31G(d) level of theory was used for the computational method.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the use of AltBu3 as a Lewis acid result in full conversion of chlorosilane 5 to silane 6?",
+      "answer": "No, the use of AltBu3 as a Lewis acid only resulted in a 30% conversion of 5 to 6.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of optimizing the geometries of monomers 2 and 4?",
+      "answer": "The purpose was to provide insight into the stability of the different coordination modes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the reaction of converting chlorotriphenylsilane to triphenylsilane exothermic?",
+      "answer": "Yes, the substitution reaction is exothermic by 24.5 kcal mol-1.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of very broad resonances in the 31P NMR spectrum of adducts 3 and 4 indicate?",
+      "answer": "It indicates a dynamic interaction of the alkali metal cations with the P atom.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield of adducts 3 and 4 when reacted with FLP 1?",
+      "answer": "The yield of adduct 3 was 40% and adduct 4 was 45%.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

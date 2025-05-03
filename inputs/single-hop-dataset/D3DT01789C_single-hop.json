@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the synthesized cobalt fluoro sulfate?",
+      "answer": "[(CH3)2NH2]2[Co4F4(SO4)3(C3N2H4)4]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the magnetic ordering occur for the Co4F4 cubane chain?",
+      "answer": "Below 17 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the overpotential required by CoSe2@ST to achieve a current density of 10 mA cm−2?",
+      "answer": "177 mV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize CoSe2@HT?",
+      "answer": "Hydrothermal method",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Tafel slope for CoSe2@ST?",
+      "answer": "48 mV dec−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of NaBH4 in the synthesis of CoSe2@HT?",
+      "answer": "It acts as a reducing agent.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the electrochemical conductivity of CoSe2@ST compare to CoSe2@HT?",
+      "answer": "CoSe2@ST has better electrochemical conductivity than CoSe2@HT.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the HER performance of CoSe2@ST better in acidic or alkaline medium?",
+      "answer": "CoSe2@ST exhibited better performance in acidic medium.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of an N-doped carbon matrix in CoSe2@ST improve its HER activity?",
+      "answer": "Yes, the N-doped carbon matrix enhances the HER activity of CoSe2@ST.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the specific activity of CoSe2@ST higher than that of CoSe2@HT?",
+      "answer": "Yes, CoSe2@ST has higher specific activity than CoSe2@HT.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The sealed tube method requires an external reducing agent for the synthesis of CoSe2@ST.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: CoSe2@HT shows better electrochemical stability than CoSe2@ST.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic properties of the Co4F4 cubane chain are attributed to intra-cluster antiferromagnetic coupling.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hydrothermal method produces CoSe2 with a carbon matrix.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The ECSA of CoSe2@HT is lower than that of CoSe2@ST.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The synthesis of CoSe2@ST is a solvent-free process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The HER performance of CoSe2@ST deteriorates significantly after long-term stability testing.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What causes the better HER activity of CoSe2@ST compared to CoSe2@HT?",
+      "answer": "The N-doped carbon matrix in CoSe2@ST facilitates faster charge transfer and higher electrochemical conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the charge transfer resistance (RCT) of CoSe2@ST?",
+      "answer": "70 Ω",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The sealed tube method for synthesizing CoSe2@ST is performed at a higher temperature than the hydrothermal method.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

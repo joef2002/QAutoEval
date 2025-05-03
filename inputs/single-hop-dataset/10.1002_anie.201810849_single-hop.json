@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main challenge in using short a-peptide sequences for designing metal-organic frameworks (MOFs)?",
+      "answer": "The main challenge is obtaining stable secondary structures from the short a-peptide sequences.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which peptides were designed to coordinate with metal ions in the study?",
+      "answer": "The designed peptides are P1 and P2 with terminal pyridyl moieties.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of silver ion coordination with peptide P1?",
+      "answer": "Upon silver ion coordination, the 12-helix terminated by the 3-pyridyl derivatives adopted a 2:2 macrocyclic structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How did peptide P2 react to silver ion coordination compared to P1?",
+      "answer": "Peptide P2 retained its original 12-helix conformation upon silver ion coordination, unlike P1 which underwent a structural distortion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Both P1 and P2 adopted right-handed 12-helix structures in single crystals.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What role did the head-to-tail intermolecular H-bonds play in the crystal packing of P1 and P2?",
+      "answer": "They were involved in stabilizing the ordered metal-helix frameworks.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The sequence of the peptides did not influence the structure of the metal coordinated frameworks.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the utility of the metal-helix frameworks in the study?",
+      "answer": "They were used in the adsorption of CO2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The metal-helix framework of P2 showed no adsorption of CO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the impact of the position of the nitrogen in the pyridyl moieties on the metal coordinated foldamer assemblies?",
+      "answer": "A subtle change in the metal coordinating site showed a drastic change in the supramolecular assembly.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The silver ion coordinated P2 12-helix is stabilized by two independent intramolecular 12-membered H-bonds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the pore size of the self-assembled structure of P2?",
+      "answer": "The pore size was found to be 5.9 c.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The length of 12-helices can be varied to design various types of porous functional metal-helix frameworks.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of the thermogravimetric analysis (TGA) on the P2Ag framework?",
+      "answer": "No observed mass change of P2Ag framework up to 200 88C, indicating its stability against temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The silver ion coordination and H-bonds driven porous supramolecular assembly of P2 12-helix was not crystalline.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the conformation of the N-terminus Aib residue in silver ion coordinated P1?",
+      "answer": "It adopted a left-handed helical conformation upon silver ion coordination.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structural analysis revealed that the N-terminus Aib residue adopted a right-handed helical conformation upon silver ion coordination.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of incorporating Aib residue at the N-terminus in both hybrid peptides?",
+      "answer": "To obtain stable helical structures.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How did the researchers confirm the gas adsorption property of the metal-helix framework?",
+      "answer": "By subjecting the powder of metal-helix framework obtained after grinding the single crystals to CO2 capture at 195 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD studies confirmed that there was a change in the metal-helix framework in the powder after CO2 capture.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

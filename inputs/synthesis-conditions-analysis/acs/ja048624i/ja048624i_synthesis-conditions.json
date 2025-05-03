@@ -1,0 +1,111 @@
+{
+  "materials": [
+    {
+      "name": "[(Cu3I4)- (EtS-4-C5H4NEt)+]n",
+      "synthesis_conditions": {
+        "temperature": "160 °C",
+        "time": "60 h",
+        "solvents": [
+          {
+            "name": "EtOH",
+            "amount": "molar ratio of 1:1:1:500 with CuCl2·2H2O, KI, HS-4-C5H4N"
+          }
+        ],
+        "chemicals_used": [
+          "CuCl2·2H2O",
+          "KI",
+          "HS-4-C5H4N",
+          "EtOH"
+        ],
+        "yield": "large amount of yellow prismatic crystals",
+        "equipment": "solvothermal conditions"
+      }
+    },
+    {
+      "name": "Cu6(4-SC5H4NH)4Cl6",
+      "synthesis_conditions": {
+        "notes": "Obtained as a byproduct during the synthesis of [(Cu3I4)- (EtS-4-C5H4NEt)+]n"
+      }
+    }
+  ],
+  "experimental_details": {
+    "physical_measurements": {
+      "carbon_and_hydrogen_analysis": "Vario EL III elemental analyzer",
+      "infrared_spectra": "PE Spectrum-One FT-IR spectrometer with KBr discs",
+      "1H_NMR_spectrum": {
+        "equipment": "Unity-500 spectrometer",
+        "solvent": "CD3CN",
+        "internal_standard": "TMS"
+      },
+      "UV-vis_spectra": {
+        "equipment": "PE Lambda 900",
+        "solvent": "CH3CN"
+      },
+      "UV-vis_DRIS_spectrum": {
+        "equipment": "PE Lambda 900",
+        "medium": "KBr discs"
+      },
+      "ESI-MS_spectra": {
+        "equipment": "API QSTAR Pulsar-i Mass Spectrometer",
+        "location": "Department of Chemistry, Hong Kong Baptist University",
+        "solvent": "CD3CN"
+      },
+      "fluorescence_measurement": "Edinburgh Analytical Instruments FLS920"
+    },
+    "elemental_analysis_data": {
+      "compound_1": {
+        "C": "12.38(12.47)",
+        "H": "1.90(1.63)",
+        "N": "1.63(1.62)",
+        "S": "3.85(3.70)"
+      },
+      "compound_2": {
+        "C": "23.34(23.13)",
+        "H": "2.08(1.94)",
+        "N": "5.27(5.39)",
+        "S": "12.26(12.35)"
+      }
+    },
+    "IR_spectral_data": {
+      "compound_1": "3446s, 1623s, 1547w, 1493m, 1452m, 1218w, 1176w, 1102s, 821m, 785w, 511m",
+      "compound_2": "3444w, 3152s, 1607m, 1568m, 1462m, 1400s, 1138m, 1099m, 995w, 796m, 710m, 475w"
+    },
+    "1H_NMR_data": {
+      "compound_1": {
+        "signals": [
+          {
+            "delta": "3.210-3.255ppm",
+            "description": "m, 2H"
+          },
+          {
+            "delta": "8.327-8.340ppm",
+            "description": "d, 2H"
+          },
+          {
+            "delta": "1.404-1.434ppm",
+            "description": "t,3H"
+          },
+          {
+            "delta": "4.381-4.426ppm",
+            "description": "m, 2H"
+          },
+          {
+            "delta": "1.529-1.557ppm",
+            "description": "t,3H"
+          },
+          {
+            "delta": "7.720- 7.733 ppm",
+            "description": "d, 2H"
+          }
+        ]
+      }
+    },
+    "UV-vis_data": {
+      "compound_1": "206, 245, 304",
+      "pyridine-4-thiol": "228, 246, 357"
+    },
+    "UV-Vis_DRIS_data": {
+      "compound_1": "243, 310, 409"
+    }
+  }
+}

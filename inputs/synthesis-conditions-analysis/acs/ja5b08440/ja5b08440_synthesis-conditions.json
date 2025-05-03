@@ -1,0 +1,65 @@
+{
+  "materials": [
+    {
+      "name": "Hf-2",
+      "synthesis": {
+        "chemicals_used": {
+          "HfOCl2.8H2O": "123 mg (0.3 mmol)",
+          "benzoic_acid": "2.7 g (22.1 mmol)",
+          "N,N-diethylformamide (DEF)": "8 mL",
+          "meso-tetra(4-carboxyphenyl)porphyrin-FeIII chloride": "53 mg (0.06 mmol)"
+        },
+        "solvents": "N,N-diethylformamide (DMF), acetone",
+        "amount_of_each_solvent": {
+          "DMF": "20 mL for washing, 45 mL for soaking",
+          "acetone": "45 mL for washing, 45 mL for final rinse"
+        },
+        "equipment": "20-mL screw neck glass vial, 50mL centrifuge vial",
+        "temperature": "120 °C for synthesis, 50 °C for DMF soak, room temperature for activation",
+        "time": "48 h for synthesis, 12 h for DMF soak, 12 h for acetone soak, 12 h under vacuum for activation",
+        "yield": "55 mg (49%)",
+        "washing_method": "Washed five times with DMF and acetone",
+        "drying_method": "Under vacuum at room temperature followed by 120 °C under vacuum for 12 h"
+      }
+    },
+    {
+      "name": "Fe@Hf-2",
+      "synthesis": {
+        "chemicals_used": {
+          "Hf-2": "50 mg",
+          "anhydrous FeCl3": "400 mg (2.47 mmol)"
+        },
+        "solvents": "N,N-dimethylformamide (DMF)",
+        "amount_of_each_solvent": "10 mL",
+        "equipment": "20-mL screw neck glass vial",
+        "temperature": "100 °C",
+        "time": "24 h",
+        "washing_method": "Washed with DMF (5 × 50 mL) over twelve hours, then soaked in DMF at 50 °C, followed by acetone wash (5 × 30 mL) over 24 hours",
+        "drying_method": "Heated at 60 °C under vacuum"
+      }
+    }
+  ],
+  "reactions": [
+    {
+      "name": "Tandem oxidation reaction of styrene with O2 using Fe@Hf-2",
+      "conditions": {
+        "reactants": {
+          "styrene": "23 μL (0.2 mmol)",
+          "isobutyraldehyde": "36.5 μL (0.4 mmol)",
+          "azidotrimethylsilane": "350 μL (2.6 mmol)"
+        },
+        "solvent": "acetonitrile",
+        "amount_of_solvent": "150 μL",
+        "catalyst": "Fe@Hf-2",
+        "amount_of_catalyst": "3 mol% (10 mg)",
+        "equipment": "autoclave reactor",
+        "temperature": "80 °C for drying reactor, reaction conducted at room temperature",
+        "pressure": "O2 under 5 atm",
+        "time": "10 h",
+        "mixing": "Shaken frequently",
+        "post_reaction_treatment": "Cooled in ice bath, vented, opened, and catalyst separated by centrifugation"
+      },
+      "safety_notes": "Azidotrimethylsilane (TMS-N3) is incompatible with moisture, oxidizing agents, and acids. It is easily decomposed to other compounds, e.g., hydrolyzed to hydrazoic acid (hydrogen azide) which is an extremely toxic and explosive material. Therefore, the safety regulations for this reaction must be strictly followed."
+    }
+  ]
+}

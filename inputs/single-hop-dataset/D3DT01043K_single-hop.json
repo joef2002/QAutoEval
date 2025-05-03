@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the magnetic hysteresis of the single-chain magnets discussed?",
+      "answer": "0.42 Tesla",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which elements are involved in the cyano-bridged coordination polymers?",
+      "answer": "FeIII, Ni, and Fe",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used for thermogravimetric analysis (TGA)?",
+      "answer": "Rigaku standard TG-DTA analyzer",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the radiation type used in the X-ray crystallography study?",
+      "answer": "Cu-Kα radiation",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the basis set used for all atoms in Orca 4.1.2 calculations?",
+      "answer": "Triple-ζ with one polarization function TZVP",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to correct the data in X-ray structure determination?",
+      "answer": "Semi-empirical method using SADABS program",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum magnetization value at 7 T for compound 1?",
+      "answer": "2.9 µB",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "At what temperature does the χMT value of compound 1 reach its maximum?",
+      "answer": "6.8 K",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the correlation energy barrier Δξ for compound 1?",
+      "answer": "32.55 K",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated zero-field splitting parameter D for the NiII fragment in compound 1?",
+      "answer": "-1.41 cm−1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic hysteresis of 0.42 Tesla observed at temperatures under 3.0 K for compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 2 exhibit magnetic hysteresis at 1.8 K?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the heating rate for TGA analysis 20 °C min−1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the PXRD pattern for compound 1 identical to the simulated pattern?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystallographic data for compound 1 and 2 indicate they are isostructural?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coercive field of 0.42 T at 1.8 K for compound 1 the highest reported for cyano-bridged 3d transition-metal-based SCMs?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the magnetic properties of compound 1 and 2 attributed to the different central metal ions?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study use a Rigaku diffractometer equipped with a CCD area detector for single-crystal X-ray diffraction?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coercive field of compound 1 recorded at 1.8 K?",
+      "answer": "0.42 T",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the calculations for the isotropic exchange coupling constants J between NiII and FeIII performed using the Orca 4.1.2 program?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

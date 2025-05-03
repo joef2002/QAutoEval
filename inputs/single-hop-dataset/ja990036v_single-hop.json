@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the parent compound of the investigated species?",
+      "answer": "Cu(I) catenate (RuCu)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to selectively demetalate the Cu(I) catenate moiety of RuCu?",
+      "answer": "Selective demetalation was achieved by reaction with KCN in MeCN−H2O.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two new bimetallic catenates obtained by reacting the catenand with Ag+ and Zn2+ ions?",
+      "answer": "RuAg and RuZn",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to determine the solid-state structure of complexes RuCu and RuAg?",
+      "answer": "X-ray diffraction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What phenomenon is observed in the photophysical properties of Ru, RuCu, RuZn, and RuAg?",
+      "answer": "Efficient photoinduced intercomponent energy- and/or electron-transfer processes",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the energy-transfer direction by changing the catenate metal ion?",
+      "answer": "The direction of the energy-transfer can be controlled.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the absorption spectra of the dinuclear species a simple sum of the spectra of the model compounds?",
+      "answer": "Yes, the spectra of the dinuclear species practically correspond to the sum of the spectra of the model compounds.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of Ag+ or Zn2+ ions in the [2]-cat-type moiety affect the ground-state electronic interactions?",
+      "answer": "No, the absorption spectra do not show any appreciable ground-state electronic interactions between the [2]-catM and [Ru(tpy)2]2+-type moieties.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the rate constant of intercomponent processes be determined via time-resolved luminescence spectroscopy?",
+      "answer": "Yes, the rate constant of intercomponent processes are determined via time-resolved nano- and picosecond luminescence spectroscopy.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of changing the metal ion in the catenate moiety on the luminescence properties?",
+      "answer": "Changing the metal ion in the catenate moiety can reverse the direction of the quenching observed in the luminescence properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the [Ru(tpy)2]2+ unit always the quencher in the investigated compounds?",
+      "answer": "No, for RuCu the opposite behavior is observed where the [Ru(tpy)2]2+ unit is quenched by the catenate moiety.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of Ag+ ion in RuAg lead to a different luminescence behavior compared to RuCu?",
+      "answer": "Yes, the presence of Ag+ ion in RuAg leads to a different luminescence behavior compared to RuCu.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of KCN in the synthesis of the catenand Ru from RuCu?",
+      "answer": "KCN is used to selectively remove the copper(I) without affecting the Ru complex, leading to the catenand Ru.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the electrochemical experiments performed under an inert atmosphere?",
+      "answer": "Yes, all measurements were carried out under Ar.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of RuZn involve the use of Zn(NO3)2·3H2O?",
+      "answer": "Yes, Zn(NO3)2·3H2O is used in the synthesis of RuZn.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of RuAg achieved by adding AgBF4 to a solution of Ru?",
+      "answer": "Yes, AgBF4 is added to a solution of Ru to synthesize RuAg.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the synthesis conditions of RuCu and RuZn be found in the same reference?",
+      "answer": "No, the synthesis conditions of RuCu and RuZn are reported in different references.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the luminescence of RuCu at 77 K characterized by a strong emission band?",
+      "answer": "Yes, RuCu shows a strong emission band at 77 K.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the synthesis of RuAg result in a quantitative yield?",
+      "answer": "Yes, the synthesis of RuAg results in a quantitative yield.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the photophysical investigations performed using a Perkin-Elmer λ5 spectrophotometer?",
+      "answer": "Yes, absorption spectra were recorded with a Perkin-Elmer λ5 spectrophotometer.",
+      "difficulty": "easy",
+      "type": "factual"
+    }
+  ]
+}

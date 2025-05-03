@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of synthesizing a modified paullone bearing a TEMPO free-radical unit?",
+      "answer": "The purpose is to inhibit RNR activity and show high antiproliferative activity in human cancer cell lines.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the starting materials for the synthesis of HL1 and HL2?",
+      "answer": "The starting materials are 9-carboxy-7,12-dihydroindolo[3,2-d][1]benzazepin-6(5H)-one.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of a TEMPO radical instead of 2,2,6,6-tetramethylpiperidine always results in increased cytotoxicity across all cell lines.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the generation of intracellular ROS by the compounds?",
+      "answer": "The DCFH-DA assay was used.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which compound showed negligible activity in increasing ROS levels?",
+      "answer": "Compound 1 showed negligible activity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The copper(II) complexes exerted antiproliferative effects without killing cells in SW480 cells.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of adding 2 mM dithiothreitol (DTT) to hR2 and compound 2?",
+      "answer": "It led to complete tyrosyl radical destruction after 30 seconds.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of HL1 and HL2 involved a step where a TEMPO radical unit was attached to the paullone backbone.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the coordination environment of the copper(II) ion in [Cu(L2)Cl]?",
+      "answer": "The copper(II) ion had a square-pyramidal coordination environment.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of a TEMPO radical is advantageous for cytotoxicity in all cell lines tested.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main conclusion regarding the structural modifications of the compounds?",
+      "answer": "The structural modifications, especially the presence of the TEMPO radical, are advantageous for cytotoxicity but not in all cell lines.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The compounds with a TEMPO radical moiety showed a stronger induction of ROS than those without the radical moiety.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of compound HL1 on apoptosis induction in SW480 cells?",
+      "answer": "HL1 showed a remarkable induction of apoptosis of up to 61% in SW480 cells.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ligand HL2 induced less apoptosis in both SW480 and SK-Mel-28 cells compared to HL1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of 1-hydroxybenzotriazole in the synthesis of HL1 and HL2?",
+      "answer": "It was used in the reaction to attach the 2,2,6,6-tetramethylpiperidine or TEMPO radical units onto the paullone backbone.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Complexation with copper(II) has a significant effect on the cytotoxicity of the compounds.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of compound 2 on the tyrosyl radical in hR2 RNR protein?",
+      "answer": "Compound 2 showed marked hR2 RNR inhibitory activity, destroying more than 60% of the tyrosyl radical after 20 minutes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of HL1 and HL2 was performed in a single step.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of compound HL2 on necrosis induction in SK-Mel-28 cells?",
+      "answer": "HL2 induced enhanced necrosis in SK-Mel-28 cells.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The EPR spectra confirmed the presence of a TEMPO radical in HL2 and compound 2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

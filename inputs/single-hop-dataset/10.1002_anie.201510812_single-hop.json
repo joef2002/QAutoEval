@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application of cationic frameworks mentioned in the text?",
+      "answer": "Cationic frameworks are used for ion exchange, with applications in ion chromatography and drug delivery.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What does preemptive coordination (PC) aim to prevent in the synthesis of P-MOFs?",
+      "answer": "Preemptive coordination aims to prevent the occupation of metal coordination sites by neutralizing ligands such as OH-.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 uptake capacity of the cationic framework materials at 273 K and 1 atm?",
+      "answer": "The CO2 uptake capacity is 117.9 cm3 g-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why are transition metal ions preferred for applications in aqueous environments despite the challenge of achieving a cationic framework?",
+      "answer": "Transition metal ions are preferred because of their desirable properties such as low cost, low toxicity, and high stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The concept of preemptive coordination involves using specially chosen ligands to create 9-connected framework topologies.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the general formula of structure type II mentioned in the text?",
+      "answer": "The general formula is [In3O(M)3(L)1.5](NO3).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does CPM-85-In demonstrate charge selectivity during ion exchange?",
+      "answer": "CPM-85-In shows charge selectivity by not exchanging ions with cationic or neutral dyes, but showing a concentration drop for anionic orange G.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: All synthesized Fe-MOFs have positively charged frameworks.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to estimate the degree of framework cationization in Fe-MOFs?",
+      "answer": "The method is based on the use of ClO4- salts followed by elemental analysis using energy dispersive spectroscopy (EDS).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ion exchange process for immobilizing nucleotides and coenzymes in Fe-MOFs is not charge-selective.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the Cl/Fe molar ratio in determining the charge of the Fe-MOF framework?",
+      "answer": "The Cl/Fe molar ratio helps estimate the charge of the framework and monitor the progress of ion exchange.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PC concept is only applicable to the synthesis of MOFs with trivalent metal ions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the pyridyl group in the preemptive coordination module?",
+      "answer": "The pyridyl group acts as a preemptive coordination module to preoccupy open metal sites, preventing their occupation by terminal anions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ion exchange capacity of a P-MOF is not affected by the ratio of neutral to negative ligand groups.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in creating stable P-MOFs according to the text?",
+      "answer": "The main challenge is the limited structural variety and low stability of P-MOFs formed by earlier methods.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: CPM-85-In can selectively trap anionic dyes based on their size and charge.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of two types of functional modules in a 1:2 ratio contribute to the formation of P-MOFs?",
+      "answer": "The presence of two types of functional modules in a 1:2 ratio, a neutral pyridyl group and negative carboxylate groups, contributes to the formation of P-MOFs by creating a positive cluster.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Fe-MOFs does not require a 100% Fe3+ composition to achieve a positive framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What demonstrates the water and chemical stability of Fe-MOFs?",
+      "answer": "The water and chemical stability of Fe-MOFs are demonstrated by their intact structure after being immersed in water for 3 weeks and treated in acidic solution or boiling water.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The PC concept is ineffective in developing P-MOFs with high stability, porosity, and anion-exchange capability.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

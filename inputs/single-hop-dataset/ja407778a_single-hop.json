@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of incorporating fluorescent molecules as ligands in metal-organic frameworks (MOFs)?",
+      "answer": "To maintain their fluorescence response to a much higher temperature than in molecular crystals, enabling selective and rapid detection of analytes in the gas phase.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "At what temperature can Zn2(TCPE) and Mg(H2DHBDC) selectively sense ammonia?",
+      "answer": "100 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Zn2(TCPE) and Mg(H2DHBDC) show NH3 selectivity at room temperature.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used to investigate the temperature-dependent guest–framework interactions in MOFs?",
+      "answer": "Variable-temperature diffuse-reflectance infrared spectroscopy, fluorescence spectroscopy, and X-ray crystallography coupled with density-functional calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is fluorescence 'turn-on' mechanism more attractive than luminescence quenching in MOF sensors?",
+      "answer": "Because it involves interaction of the MOF with an analyte either turning a 'dark' material into a luminescent one or causing a shift in the emission peak, which is easier to detect.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The high-temperature fluorescence of MOFs is a common property shared with molecular crystals and polymers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the decomposition temperature of Zn2(TCPE) as determined by thermogravimetric analysis?",
+      "answer": "400 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The fluorescence intensity of Zn2(TCPE) at 200 °C is approximately 5 times larger than that of TPE.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What hypothesis was tested to understand the preferential sensing of NH3 in Zn2(TCPE)?",
+      "answer": "The hypothesis that the selectivity may be due to the differential strength of analyte binding to the Zn2+ ions in the Zn2(O2C−)4 secondary building units.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The NH3 sensing response in Mg(H2DHBDC) is reversible upon short evacuation without additional heating.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significant finding from the in situ IR studies under NH3 exposure at 100 °C for Mg(H2DHBDC)?",
+      "answer": "New peaks that could be associated with unbound NH3 molecules were revealed, but no Mg–N stretches were observed.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The selective detection of ammonia in Mg(H2DHBDC) is due to a chemical interaction between NH3 and the ligand itself.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the absence of νMg–N bands in the IR spectra suggest about NH3 binding in Mg(H2DHBDC)?",
+      "answer": "It may be due to the low concentration of Mg–NH3 pairs or the concealment of νMg–N by stronger framework bands in the low-frequency/far-IR region.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The selectivity for NH3 over methanol in Mg(H2DHBDC) is attributed solely to molecular sieving.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What combination of factors is responsible for the unique NH3 sensing properties of Mg(H2DHBDC)?",
+      "answer": "A combination of molecular sieving and chemical selectivity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The high-temperature fluorescence of MOFs is a property that is likely general for many fluorescent MOFs due to their rigidity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What new application is demonstrated by using the high-temperature fluorescence of MOFs?",
+      "answer": "A new, reversible, and selective sensor for ammonia, an important environmental pollutant.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates that temperature can be used as a parameter to decrease the chemical selectivity in molecular sensing applications.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the study suggest about the potential of rigid, fluorescent MOFs in selective sensors?",
+      "answer": "It suggests that these materials can be tuned for selectivity profiles as a function of temperature, offering new applications in selective sensors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirms that all MOFs lose their fluorescence at high temperatures, similar to molecular crystals and polymers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

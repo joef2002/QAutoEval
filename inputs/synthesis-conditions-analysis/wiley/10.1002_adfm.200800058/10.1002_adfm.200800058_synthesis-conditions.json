@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "[Co3(HCOO)6] (cid:1) DMF",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "100 8C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "cobalt(II) nitrate hexahydrate",
+            "amount": "422 mg, 1.4 mmol"
+          },
+          {
+            "name": "formic acid",
+            "amount": "0.1 mL, 2.8 mmol"
+          }
+        ],
+        "time": "48 hours",
+        "equipment": "Teﬂon-lined acid digestion bomb",
+        "yield": "quantitative for powder samples",
+        "drying_method": "vacuum oven at 50 8C for 15 minutes"
+      }
+    },
+    {
+      "name": "[Mn3(HCOO)6] (cid:1) DMF",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "temperature": "100 8C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "2 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "manganese nitrate hexahydrate",
+            "amount": "20 mg, 0.07 mmol"
+          },
+          {
+            "name": "formic acid",
+            "amount": "0.07 mL, 1.8 mmol"
+          }
+        ],
+        "time": "24 hours",
+        "equipment": "isothermal oven"
+      }
+    },
+    {
+      "name": "[Ni3(HCOO)6] (cid:1) DMF",
+      "synthesis_conditions": {
+        "method": "solvothermal",
+        "notes": "Similar procedures as for [Co3(HCOO)6] (cid:1) DMF and [Mn3(HCOO)6] (cid:1) DMF"
+      }
+    }
+  ]
+}

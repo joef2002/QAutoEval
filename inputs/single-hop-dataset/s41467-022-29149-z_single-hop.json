@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the research presented in the article?",
+      "answer": "The research focuses on the design and analysis of DUT-163, a metal-organic framework (MOF) with an embedded azobenzene photoswitch, which exhibits light-induced structural contraction in parallel to gas adsorption.",
+      "difficulty_level": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does DUT-163 exhibit upon light irradiation and gas adsorption?",
+      "answer": "DUT-163 exhibits structural contraction by combined application of light irradiation and adsorption-stress via gas adsorption, leading to pore contraction and subsequent guest release via negative gas adsorption.",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental techniques were used to investigate the light-responsive behavior of DUT-163?",
+      "answer": "In situ PXRD, diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS), solid state diffuse reflectance UV-Vis (DRUV-Vis) spectroscopy, and Raman spectroscopy were used to investigate the light-responsive behavior of DUT-163.",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the mechanism behind the light-induced contraction of DUT-163?",
+      "answer": "The light-induced contraction mechanism in DUT-163 is based on a buckling process of the azobenzene ligand, which is a novel photochemical deformation previously unknown for molecular azobenzenes.",
+      "difficulty_level": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the incorporation of azobenzene in the MOF's backbone affect its photoresponsive properties?",
+      "answer": "The incorporation of azobenzene in the MOF's backbone allows for non-invasive spatiotemporal control over the mechanical properties of the framework, leading to light-induced structural transitions.",
+      "difficulty_level": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What potential applications are suggested for DUT-163 based on its unique properties?",
+      "answer": "Potential applications for DUT-163 include its use in light-responsive nanoscopic pneumatic systems and gas-releasing devices, leveraging its ability for spatial and temporal control over framework contraction and gas release.",
+      "difficulty_level": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: DUT-163 undergoes structural contraction solely due to E-Z isomerization of azobenzene.",
+      "answer": "False",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The structural contraction of DUT-163 can be triggered by light at temperatures beyond the upper limit for adsorption-induced contraction.",
+      "answer": "True",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The photoexcitation process of DUT-163 leads to the formation of a metastable buckled state in E-conformation.",
+      "answer": "True",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The research demonstrates that DUT-163's light-induced contraction is facilitated by the softening of the framework upon photoexcitation.",
+      "answer": "True",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges were addressed in designing DUT-163 to achieve light-induced cooperative transitions?",
+      "answer": "The challenges addressed included accommodating the large geometric change of azobenzene upon E-Z isomerization in the framework, ensuring robust photoswitching, achieving sufficient mechanical softness, enhancing porosity, and maintaining long-range order.",
+      "difficulty_level": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the adsorption behavior of DUT-163 change with temperature?",
+      "answer": "The adsorption behavior of DUT-163 exhibits hysteresis and negative gas adsorption steps at lower temperatures, indicating adsorption-induced contraction. However, at elevated temperatures above 299 K, adsorption-induced contraction is not observed.",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were used to support the findings of the study?",
+      "answer": "Density functional theory (DFT) simulations, molecular dynamics (MD) simulations, and grand canonical Monte Carlo (GCMC) methods were used to detail the photochemistry, adsorption mechanism, and energy landscape of DUT-163.",
+      "difficulty_level": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the buckling mechanism discovered in DUT-163?",
+      "answer": "The significance of the buckling mechanism discovered in DUT-163 lies in its novelty as a photochemical deformation for azobenzene, its role in enabling light-induced structural transitions in the MOF, and its potential to alter the mechanical properties of extended frameworks.",
+      "difficulty_level": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What future research directions are suggested by the study's findings?",
+      "answer": "Future research directions suggested by the study's findings include exploring other forms of stimuli such as electric or magnetic fields, temperature, or mechanical pressure to trigger framework transitions, and investigating the photochemical properties of self-assembled systems beyond the properties of molecular building blocks.",
+      "difficulty_level": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that DUT-163 can undergo contraction via both buckling and E-Z isomerization mechanisms.",
+      "answer": "True",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that light-induced contraction of DUT-163 is energetically more favorable than adsorption-induced contraction.",
+      "answer": "False",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study concludes that light-induced contraction of DUT-163 is solely based on the E-Z isomerization of azobenzene.",
+      "answer": "False",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study's findings suggest that framework-constrained photoswitches can exhibit properties and states very different from their unconstrained molecular analogs.",
+      "answer": "True",
+      "difficulty_level": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the potential benefits of the dual-stimulus approach for controlling structural transitions in DUT-163?",
+      "answer": "The potential benefits include the ability to trigger structural contraction at reduced adsorption stress levels, extend the temperature range for negative gas adsorption, provide orthogonal activation to other stimuli, and allow for spatial and temporal control over gas release.",
+      "difficulty_level": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

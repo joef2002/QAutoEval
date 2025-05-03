@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "An “All-in-One” Synthetic Strategy for Linear Metalla[4]Catenanes",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author for this research article?",
+      "answer": "Ye Lu",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of synthetic strategy is reported in the article?",
+      "answer": "An “all-in-one” synthetic strategy for the synthesis of linear metalla[n]catenanes (n = 2–4)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main goal of the synthetic strategy described in the article?",
+      "answer": "To realize a quantitative one-step synthesis of a linear metalla[4]catenanes via the self-assembly of cyclic metalla[3]catenanes and tetracationic cyclophanes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the absorption correction in the crystallographic analysis?",
+      "answer": "Semi-empirical from equivalents",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of Hetero-3 monoclinic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was DFT calculation used to support the structure of Homo-2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ExBox4+ in the synthesis of metalla[2]catenanes?",
+      "answer": "ExBox4+ acts as a π-acceptor unit in the coordination-driven self-assembly process to form metalla[2]catenanes",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of Hetero-3 involve the use of a dinuclear precursor?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique was used to confirm the formation of Hetero-1?",
+      "answer": "ESI-MS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the empirical formula of Hetero-2?",
+      "answer": "C331 H340 F36 N26 O74 Rh8 S12",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was the synthesis of ExBox2+ described in the supporting information?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of the crystal structure of Homo-1b?",
+      "answer": "C2/c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the DFT calculation results for Homo-2?",
+      "answer": "The DFT calculation results suggest that Homo-2 is likely a cyclic [3]catenane, as it is energetically more favorable than a linear [3]catenane structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the absorption spectrum used to analyze the properties of Hetero-1, Hetero-2, and Hetero-3?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of ExBox·OTf according to the experimental procedures?",
+      "answer": "50.3%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system of Hetero-1 orthorhombic?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the synthesis of 1,6-bis(pyridin-4-ylethynyl)pyrene (L)?",
+      "answer": "A reaction involving 1,6-dibromopyrene, 4-ethynylpyridine, CuI, bis(triphenylphosphine)palladium(II) chloride in DMF and triethylamine under reflux",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of AgOTf in the synthesis of Homo-1a·OTf?",
+      "answer": "AgOTf is used to facilitate the formation of the OTf-salt of Homo-1a by reacting with the precursor and ligand in the synthesis process",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was a mixed solution of CD3OD and CD3CN used in the NMR analysis of Hetero-2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

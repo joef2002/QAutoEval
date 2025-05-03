@@ -1,0 +1,93 @@
+{
+  "materials": [
+    {
+      "name": "kgmSMe",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "5-methylthioisophthalic acid (SMe-H2ip)",
+            "amount": "10 mM"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "10 mM"
+          },
+          {
+            "name": "pyridine",
+            "amount": "10 mM"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "2 mL"
+          }
+        ],
+        "method": "Slow diffusion of a MeOH solution of 5-methylthioisophthalic acid (SMe-H2ip) into a MeOH solution of a mixture of Cu(NO3)2·3H2O and pyridine afforded green hexagonal plate-like crystals in a few days.",
+        "temperature": "20 °C",
+        "time": "12 h",
+        "yield": "56%",
+        "drying_method": "dried at 20 °C for 2 h under reduced pressure"
+      }
+    },
+    {
+      "name": "kgmOMe",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "5-methoxyisophthalic acid (OMe-H2ip)",
+            "amount": "10 mM"
+          },
+          {
+            "name": "Cu(NO3)2·3H2O",
+            "amount": "10 mM"
+          },
+          {
+            "name": "pyridine",
+            "amount": "10 mM"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "MeOH",
+            "amount": "2 mL"
+          }
+        ],
+        "method": "Similar to kgmSMe synthesis but using 5-methoxyisophthalic acid (OMe-H2ip) instead of SMe-H2ip.",
+        "temperature": "20 °C",
+        "time": "12 h",
+        "yield": "49%",
+        "drying_method": "dried under reduced pressure at 20 °C for 2 h"
+      }
+    },
+    {
+      "name": "5-methylthioisophthalic acid (SMe-H2ip)",
+      "synthesis": {
+        "chemicals_used": [
+          {
+            "name": "5-sulfanylisophathalic acid",
+            "amount": "500 mg"
+          },
+          {
+            "name": "potassium carbonate",
+            "amount": "1.22 g"
+          },
+          {
+            "name": "iodomethane",
+            "amount": "157 µL"
+          }
+        ],
+        "solvents": [
+          {
+            "name": "water",
+            "amount": "5 mL"
+          }
+        ],
+        "method": "Stirred at 20 °C for 1 h under Ar, acidified with aq. HCl, filtered, washed with water, dried under reduced pressure, and recrystallized from EtOH.",
+        "temperature": "20 °C",
+        "time": "1 h",
+        "yield": "77%"
+      }
+    }
+  ]
+}

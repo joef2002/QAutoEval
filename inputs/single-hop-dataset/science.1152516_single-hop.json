@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the main goal of the high-throughput protocol developed for the synthesis of zeolitic imidazolate frameworks (ZIFs)?",
+      "answer": "The main goal of the high-throughput protocol developed for the synthesis of ZIFs was to efficiently discover and synthesize new crystalline solid-state compounds, specifically ZIFs, by systematically exploring a wide range of reaction conditions and compositions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many different ZIF crystals were synthesized from the high-throughput experiments?",
+      "answer": "Twenty-five different ZIF crystals were synthesized from the high-throughput experiments.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the key differences between ZIFs and traditional zeolites?",
+      "answer": "The key differences between ZIFs and traditional zeolites are that in ZIFs, transition metal atoms (such as Zn and Co) replace the tetrahedral linkers (such as Si, Al, and P) found in zeolites, and imidazolates or imidazolate-type linkers replace the bridging oxides in zeolites, resulting in structures with tetrahedral frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of using a high-throughput method in the synthesis of ZIFs?",
+      "answer": "The outcome of using a high-throughput method in the synthesis of ZIFs was the discovery of 25 different ZIF structures, including 16 previously unreported compositions and structures, and 5 with topologies not observed in zeolites before.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes ZIF-69 and ZIF-70 particularly interesting for CO2 capture?",
+      "answer": "ZIF-69 and ZIF-70 are particularly interesting for CO2 capture due to their exceptional stability, high porosity, and the presence of heterolinks in their structure, which contribute to their extraordinary capacity for storing CO2 and their unusual selectivity for CO2 capture from CO2/CO mixtures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the thermal stability of ZIF-68, ZIF-69, and ZIF-70 compare to other materials?",
+      "answer": "ZIF-68, ZIF-69, and ZIF-70 exhibit high thermal stability, withstanding temperatures up to 390°C, which is extraordinary compared to other materials and indicates their potential for industrial applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the method used to confirm the permanent porosity of ZIF-68, ZIF-69, and ZIF-70?",
+      "answer": "The permanent porosity of ZIF-68, ZIF-69, and ZIF-70 was confirmed through N2 adsorption measurements, which showed type I adsorption isotherm behavior typical of materials with permanent porosity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are ZIFs chemically stable in boiling organic and aqueous media?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Did the high-throughput synthesis method allow for the discovery of ZIFs with heterolinks?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the high-throughput synthesis method scalable to multigram quantities for ZIF production?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

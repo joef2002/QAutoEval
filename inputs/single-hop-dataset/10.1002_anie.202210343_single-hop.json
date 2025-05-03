@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of C2H4 in the chemical industry?",
+      "answer": "C2H4 plays an essential role in the chemical industry as an important raw material to produce polyethylene, polyvinyl chloride, synthetic rubber, and other organic chemical products.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the separation of C2H4 from C2H6 challenging?",
+      "answer": "The separation of C2H4 from C2H6 is challenging due to their very similar physico-chemical properties and molecular size.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does FJI-H11-Me(des) have for gas adsorption?",
+      "answer": "FJI-H11-Me(des) features one-dimensional hexagonal nonpolar pore surfaces constructed by aromatic rings and alkyl groups, which adsorbs C2H6 rather than C2H4.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can FJI-H11-Me(des) achieve polymer-grade C2H4 purity in one-step?",
+      "answer": "Yes, FJI-H11-Me(des) can achieve polymer-grade, 99.95% pure C2H4 in one-step from C2H4 containing 1% C2H6 under various conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption selectivity of C2H6/C2H4 for FJI-H11-Me(des) higher than that of other MOFs?",
+      "answer": "Yes, the adsorption selectivity of C2H6/C2H4 for FJI-H11-Me(des) is 2.09, which is larger than that of other developed MOF materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does FJI-H11-Me(des) maintain its separation performance under different conditions?",
+      "answer": "Yes, FJI-H11-Me(des) retains its excellent separation performance under various conditions including different gas flow rates, temperatures, and relative humidity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the separation performance of FJI-H11-Me(des) affected by humidity?",
+      "answer": "No, the separation performance of FJI-H11-Me(des) showed no obvious change in the range of 33–100% RH, indicating humidity has no obvious effect on its performance.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FJI-H11-Me(des) preferentially adsorb C2H4 over C2H6?",
+      "answer": "False, FJI-H11-Me(des) preferentially adsorbs C2H6 over C2H4.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption capacity of FJI-H11-Me(des) for C2H6 higher than for C2H4?",
+      "answer": "True, the C2H6 adsorption capacity of FJI-H11-Me(des) is much higher than that of C2H4 at the same temperature.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can FJI-H11-Me(des) directly yield polymer-grade C2H4 gas from C2H6/C2H4 mixtures?",
+      "answer": "True, FJI-H11-Me(des) can directly yield polymer-grade C2H4 gas from C2H6/C2H4 mixtures containing 1% C2H6.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FJI-H11-Me(des) require an additional desorption process to release C2H4 gas?",
+      "answer": "False, FJI-H11-Me(des) does not require an additional desorption process to release C2H4 gas.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the worldwide energy consumption of the cryogenic distillation process for C2H4/C2H6 separation more than 0.3% of annual global energy consumption?",
+      "answer": "True, the worldwide energy consumption of this process is about 800 PJ per year, which is more than 0.3% of annual global energy consumption.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does FJI-H11-Me(des) have a flexible framework?",
+      "answer": "True, FJI-H11-Me(des) has a flexible framework that contracts gradually with the loss of solvent molecules.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the global production capacity of ethylene expected to be in 2023?",
+      "answer": "The global production capacity of ethylene is expected to be more than 200 million tons in 2023.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main method used in industry to produce ethylene?",
+      "answer": "The main method used in industry to produce ethylene is steam cracking or thermal decomposition of ethane (C2H6).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum uptake for C2H6 by FJI-H11-Me(des) at 298 K?",
+      "answer": "The maximum uptake for C2H6 by FJI-H11-Me(des) at 298 K is 57.97 cm3 g-1.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does FJI-H11-Me(des) show a decrease in C2H4 and C2H6 uptakes after three adsorption-desorption cycles?",
+      "answer": "No, there is no obvious decrease in C2H4 and C2H6 uptakes after three adsorption-desorption cycles.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the heat of adsorption (Qst) for C2H6 on FJI-H11-Me(des) higher than that for C2H4?",
+      "answer": "Yes, the heat of adsorption (Qst) for C2H6 on FJI-H11-Me(des) is higher than that for C2H4.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does FJI-H11-Me(des) have high moisture stability?",
+      "answer": "Yes, FJI-H11-Me(des) has high moisture stability, as indicated by adsorption tests after exposure to the atmosphere.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the CuII ions in FJI-H11-Me(des) accessible to guest molecules?",
+      "answer": "No, the CuII ions in FJI-H11-Me(des) are shielded by the aromatic rings and have no access to guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

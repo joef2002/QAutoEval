@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for ZIF-7?",
+      "answer": "Zn(bim)2 (SOD)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature and under what atmosphere was ZIF-7 activated?",
+      "answer": "230 °C under dynamic vacuum",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the absence of solvent in activated ZIF-7?",
+      "answer": "1H NMR spectroscopy after digestion",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Langmuir surface area of CdIF-13 measured at 77 K using N2?",
+      "answer": "615 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of DMF-solvated CdIF-13?",
+      "answer": "Monoclinic, P21/n",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why did the researchers choose to use a linear spline interpolation for gas adsorption isotherms?",
+      "answer": "To accurately calculate the differential enthalpy of adsorption across the adsorption capacity",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of performing a Pawley fitting on the diffraction pattern of activated ZIF-7?",
+      "answer": "To test the validity of the published unit cell parameters against the collected diffraction data",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZIF-9 resulted in a purple polycrystalline powder after activation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Langmuir surface area of ZIF-7 remains significant at 77 K due to its open phase.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main reason for the failure of Rietveld refinement on the published structure of activated ZIF-7?",
+      "answer": "The starting model of the published crystal structure was significantly different from the real crystal structure of the studied sample",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of CdIF-13 involved a solvent exchange from N,N-dimethylformamide to dichloromethane.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the yield of activated CdIF-13 obtained as an off-white polycrystalline powder?",
+      "answer": "36%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The density of the open phase of CdIF-13 was calculated to be 1.26 g/cm3 from the single-crystal structure.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the Clausius–Clapeyron relationship in the study?",
+      "answer": "To calculate the differential enthalpy of adsorption from the linear spline interpolation of gas adsorption isotherms at multiple temperatures",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The intrinsic heat management during adsorption was determined by comparing empirical values to a hypothetical rigid framework.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in determining the structure of the closed phase of ZIF-7 from synchrotron powder X-ray diffraction data?",
+      "answer": "The large unit cell, low symmetry, and significant broadening of the diffraction peaks made it difficult to unambiguously indicate sets of unit cell parameters.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of ZIF-9 aimed to avoid the formation of cobalt formate impurity.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used to measure the Langmuir surface area of CdIF-13?",
+      "answer": "Nitrogen adsorption isotherms collected at 77 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The phase transition in CdIF-13 from a closed to an open phase was induced by a solvent exchange process.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the single-crystal X-ray diffraction studies of CdIF-13?",
+      "answer": "The discovery of a closed, pore-gated phase in CdIF-13, providing insight into the phase change behavior of these flexible ZIFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

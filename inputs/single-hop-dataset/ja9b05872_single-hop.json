@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Understanding Gas Storage in Cuboctahedral Porous Coordination Cages",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the research article?",
+      "answer": "Gregory R. Lorzing, Aeri J. Gosselin, Benjamin A. Trump, Arthur H. P. York, Arni Sturluson, Casey A. Rowland, Glenn P. A. Yap, Craig M. Brown, Cory M. Simon, Eric D. Bloch",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the research article?",
+      "answer": "10.1021/jacs.9b05872",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research article?",
+      "answer": "The main focus of the research article is on the gas storage capabilities of cuboctahedral, paddlewheel-based coordination cages and their optimization for high-pressure methane storage.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the materials studied for high-pressure methane storage in the research?",
+      "answer": "The materials studied for high-pressure methane storage are isostructural cuboctahedral, paddlewheel-based coordination cages, specifically M24(tBu-bdc)24 (M = Cr, Mo, Ru) and M24(Me-bdc)24(dabco)6 (M = Fe, Co).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the synthesis of Co24(Me-bdc)24(dabco)6?",
+      "answer": "The synthesis of Co24(Me-bdc)24(dabco)6 involved a solvothermal reaction of Cu(NO3)2·H2O, 5-methylbenzene-1,3-dicarboxylic acid (H2Me-BDC), ethanol, and N,N’-dimethylacetamide (DMA), followed by the addition of 1,4-diazabicyclo[2.2.2]octane (dabco) and subsequent solvent exchange and activation steps.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the BET surface area of Mo24(tBu-bdc)24?",
+      "answer": "The BET surface area of Mo24(tBu-bdc)24 is 1320 m2/g.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research article reports the use of neutron diffraction for the analysis of gas adsorption sites.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest methane storage working capacity reported for the materials studied in the research?",
+      "answer": "The highest methane storage working capacity reported is 199 cm3(STP)/cm3 for Fe24(Me-bdc)24(dabco)6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article concludes that cuboctahedral coordination cages are not tunable for small-molecule storage applications.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to measure surface areas and pore volumes of the materials?",
+      "answer": "Surface areas and pore volumes were measured via N2 isotherm in a 77 K liquid nitrogen bath.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article suggests that the molecular nature of the cages offers an advantage in tuning phase and bulk density for gas storage.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of dabco in the structure of M24(Me-bdc)24(dabco)6?",
+      "answer": "Dabco acts as a pillaring ligand that connects the cuboctahedral cages in three dimensions, facilitating the formation of a porous framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research article identifies the triangular windows of the cage as favorable methane adsorption sites.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the methyl group on the bdc linker according to the research findings?",
+      "answer": "The methyl group on the bdc linker appears to have interactions with the adsorbed methane, demonstrating the importance of ligand functionalization in designing metal-organic cages for gas storage.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Titanium-Based Nanoscale Metal–Organic Framework for Type I Photodynamic Therapy",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the study?",
+      "answer": "Wenbin Lin",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main application of nanoscale metal–organic frameworks (nMOFs) discussed in the article?",
+      "answer": "Photodynamic therapy (PDT)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of photodynamic therapy is Ti-TBP designed for?",
+      "answer": "Hypoxia-tolerant type I PDT",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What reactive oxygen species does Ti-TBP generate upon light irradiation?",
+      "answer": "Singlet oxygen, superoxide, hydrogen peroxide, and hydroxyl radicals",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Ti3+ centers in Ti-TBP-mediated PDT?",
+      "answer": "Ti3+ centers reduce O2 to generate reactive oxygen species",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does Ti-TBP overcome the limitations of oxygen-dependent type II PDT in hypoxic tumors?",
+      "answer": "By generating cytotoxic radicals via electron transfer from excited photosensitizers to O2 and organic molecules",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Ti-TBP is effective in generating reactive oxygen species only in the presence of oxygen.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study demonstrates the use of Ti-TBP for type II photodynamic therapy.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the cure rate achieved with Ti-TBP-mediated PDT in the study?",
+      "answer": "60%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of Ti-TBP's ability to generate four distinct ROS?",
+      "answer": "It leads to superb anticancer efficacy with >98% tumor regression",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Ti-TBP is only effective in vitro and shows no significant results in vivo.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Ti-oxo chain SBUs in Ti-TBP?",
+      "answer": "They are involved in transferring electrons from excited TBP* species to form TBP•+ ligands and Ti3+ centers",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study reports the first type I PDT mediated by nMOFs.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of Ti-TBP treatment on tumor volume compared to the PBS dark control?",
+      "answer": "Ti-TBP treatment led to effective tumor regression of 98.4% in volume",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Ti-TBP treatment shows significant systemic toxicity in the study.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does Ti-TBP tolerate hypoxic conditions in solid tumors?",
+      "answer": "By effectively reducing H2O2 through Ti3+ to generate highly cytotoxic •OH",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that Ti-TBP can directly generate hydrogen peroxide in hypoxic conditions.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of Ti-TBP over traditional oxygen-dependent PDT?",
+      "answer": "Its hypoxia-tolerant mechanism allows for effective cancer treatment even in low-oxygen environments",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study suggests that Ti-TBP could be a universal solution for all types of cancer.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the full chemical name of Zn(tbip)?",
+      "answer": "Zn(tbip) is Zinc 5-tert-butyl isophthalate.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does Zn(tbip) demonstrate in terms of gas separation?",
+      "answer": "Zn(tbip) possesses a unique capability for separation of dimethyl ether (DME) from methanol (MeOH) and MeOH from water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was Zn(tbip) synthesized?",
+      "answer": "Zn(tbip) was synthesized hydrothermally.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the thermal stability of Zn(tbip) as demonstrated by thermogravimetric analysis?",
+      "answer": "Zn(tbip) showed no weight loss during prolonged heating at 350 °C over 24 hours, indicating high thermal stability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the adsorbed hydrogen density of Zn(tbip) at 77 K and 1 atm?",
+      "answer": "The adsorbed hydrogen density of Zn(tbip) at 77 K and 1 atm is 0.054 g/cm3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the bulky aliphatic groups in the ligand used for Zn(tbip) synthesis?",
+      "answer": "The bulky aliphatic groups in the ligand are used to attempt to build hydrophobic and solvent-free channel frameworks.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can Zn(tbip) adsorb water effectively?",
+      "answer": "No, Zn(tbip) is very hydrophobic, exhibiting essentially zero water adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of Zn(tbip) maintained after repeated heating?",
+      "answer": "Yes, the structure of Zn(tbip) is fully retained after repeated heating, as verified by PXRD analysis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the adsorption of methanol in Zn(tbip) exhibit hysteresis?",
+      "answer": "Yes, the methanol adsorption-desorption isotherms exhibit hysteresis.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the pore diameter of Zn(tbip) suitable for hydrogen storage?",
+      "answer": "Yes, the pore diameter of Zn(tbip) is suitable for hydrogen storage due to its high hydrogen density.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does Zn(tbip) have a higher free accessible volume compared to [Cu(hfipbb)]·(H2hfipbb)0.5?",
+      "answer": "Yes, Zn(tbip) has a significantly higher free accessible volume compared to [Cu(hfipbb)]·(H2hfipbb)0.5.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Zn(tbip) capable of adsorbing normal paraffins?",
+      "answer": "Yes, Zn(tbip) is capable of adsorbing normal paraffins due to its effective cross-section of the 1D channels.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Zn(tbip) can survive extended heating without losing its structural integrity.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Zn(tbip) demonstrates low adsorption selectivity for small gas molecules.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adsorption of DME on Zn(tbip) decreases significantly at higher temperatures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Zn(tbip) has a lower thermal stability compared to other microporous metal organic frameworks.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Zn(tbip) adsorbs a significant amount of water similar to methanol.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The isosteric heat of adsorption of DME on Zn(tbip) is significantly lower than that of MeOH.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Zn(tbip) demonstrates a unique ability to separate methanol from dimethyl ether or water.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The adsorption of DME on Zn(tbip) is unaffected by temperature changes.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

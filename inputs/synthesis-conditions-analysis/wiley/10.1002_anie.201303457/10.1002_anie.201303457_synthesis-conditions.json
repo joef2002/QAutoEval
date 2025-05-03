@@ -1,0 +1,85 @@
+{
+  "materials": [
+    {
+      "name": "Compound 3",
+      "synthesis_conditions": {
+        "precursor": "Derivative 2",
+        "amount_of_precursor": "5.0 g, 7.8 mmol",
+        "solvent": "THF",
+        "amount_of_solvent": "80 mL",
+        "reactant": "NaCN",
+        "amount_of_reactant": "0.81 g, 16.5 mmol",
+        "atmosphere": "argon",
+        "stirring_time": "three days",
+        "monitoring_method": "19F and 11B NMR",
+        "extraction_solvent": "dichloromethane",
+        "amount_of_extraction_solvent": "80 mL",
+        "washing_method": "washed with hexanes",
+        "amount_of_washing_solvent": "3 x 20 mL",
+        "drying_method": "dried",
+        "yield": "87 %",
+        "yield_amount": "2.6 g",
+        "crystallization_method": "vapor diffusion of hexanes in a chloroform solution",
+        "melting_point": "282 8C"
+      }
+    },
+    {
+      "name": "Carbene–boryl 4 and 4'",
+      "synthesis_conditions": {
+        "precursor": "Derivative 3",
+        "amount_of_precursor": "366 mg, 0.94 mmol",
+        "reactant": "potassium bis(trimethylsilyl)amide",
+        "amount_of_reactant": "200 mg, 1.00 mmol",
+        "solvent": "THF",
+        "amount_of_solvent": "15 mL",
+        "stirring_time": "45 min",
+        "washing_solvent": "ether",
+        "amount_of_washing_solvent": "15 mL",
+        "drying_method": "dried",
+        "yield": "95 %",
+        "yield_amount": "382 mg",
+        "crystallization_method": "slow evaporation of a THF solution",
+        "melting_point": "345 8C",
+        "additional_step": "excess of dibenzo-18-crown-6 added to THF solution of 4'"
+      }
+    },
+    {
+      "name": "Compound 5",
+      "synthesis_conditions": {
+        "precursor": "4'",
+        "amount_of_precursor": "100 mg, 0.23 mmol",
+        "solvent": "THF",
+        "amount_of_solvent": "5 mL",
+        "reactant": "Isopropyl iodide",
+        "amount_of_reactant": "80 mg, 0.46 mmol",
+        "stirring_time": "overnight",
+        "extraction_solvent": "dichloromethane",
+        "amount_of_extraction_solvent": "10 mL",
+        "washing_method": "washed with ether",
+        "amount_of_washing_solvent": "15 mL",
+        "yield": "75 %",
+        "yield_amount": "76 mg",
+        "crystallization_method": "vapor diffusion of hexanes in a chloroform solution",
+        "melting_point": "294 8C"
+      }
+    },
+    {
+      "name": "Compound 6",
+      "synthesis_conditions": {
+        "precursors": ["4'", "(trimethylphosphine)gold chloride"],
+        "amount_of_precursors": ["100 mg, 0.23 mmol", "73 mg, 0.24 mmol"],
+        "solvent": "THF",
+        "amount_of_solvent": "10 mL",
+        "stirring_time": "2 h",
+        "extraction_solvent": "dichloromethane",
+        "amount_of_extraction_solvent": "10 mL",
+        "washing_solvent": "ether",
+        "amount_of_washing_solvent": "15 mL",
+        "yield": "69 %",
+        "yield_amount": "107 mg",
+        "crystallization_method": "saturated chloroform/ether solution",
+        "melting_point": "160 8C"
+      }
+    }
+  ]
+}

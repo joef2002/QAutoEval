@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the full chemical name of ZnBTCA?",
+      "answer": "Zn3(A)(BTC)2(H2O)·(CH3)2NH2·x DMF·y H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the open Watson–Crick sites play in ZnBTCA?",
+      "answer": "They contribute to the host–guest interactions, allowing for adenine–thymine binding within the constrained pores.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the host–guest interaction in ZnBTCA attributed to physisorption or chemisorption?",
+      "answer": "Chemisorption, as indicated by the kinetic studies and the activation energy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZnBTCA can adsorb a significant amount of thymine in DMF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the void volume percentage of the unit cell in ZnBTCA?",
+      "answer": "68.5%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The Watson–Crick faces in bio-MOF-1 are blocked because of the coordination with Zn.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the surface area of ZnBTCA?",
+      "answer": "3057.5 m2 g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The uptake behavior of PfH+ in ZnBTCA is faster than in bio-MOF-1.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the hysteretic host–guest interaction observed for PfH+ in ZnBTCA?",
+      "answer": "The second driving force responsible for the hysteretic interaction has an energetic profile differing in strength from the electrostatic interaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZnBTCA's channels are interconnected through large windows with a diagonal dimension of approximately 10 x 10 Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of adenine residues in ZnBTCA?",
+      "answer": "Adenine residues are immobilized periodically on the interior crystalline surface with exposed Watson–Crick faces for binding.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The uptake of PfH+ is not hindered by MB+ in ZnBTCA.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What distinguishes the energetic profiles of host–guest interactions in ZnBTCA with open Watson–Crick sites?",
+      "answer": "The enthalpy and entropy changes in the process of the adsorption of PfH+ into ZnBTCA are greater than the values for MB+/ZnBTCA, PfH+/bio-MOF-1, and MB+/bio-MOF-1 uptake.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of PfH+ into ZnBTCA is described by pseudo-first-order kinetics.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy (Ea) for the adsorption of PfH+ into ZnBTCA?",
+      "answer": "55.6 kJ mol−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The A–T base pairing within ZnBTCA can occur in polar protic solvents like H2O.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main finding from the A–T base pairing tests performed in CHCl3 and DMF?",
+      "answer": "ZnBTCA could adsorb a significant amount of thymine in CHCl3, but showed almost no uptake in DMF.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What evidence confirms the A–T base pairing in ZnBTCA?",
+      "answer": "IR and Raman spectra showed vibrational peaks characteristic of the doubly hydrogen bonded Watson–Crick sites of A and T.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The uptake of guests into ZnBTCA is not affected by the presence of open Watson–Crick sites.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main conclusion regarding the host–guest chemistry in ZnBTCA?",
+      "answer": "The open Watson–Crick sites in ZnBTCA contribute to unique host–guest interactions, including adenine–thymine binding and hysteretic behavior for certain guests.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "materials": [
+    {
+      "name": "q-TO framework with encapsulated luminophore guests",
+      "synthesis_conditions": {
+        "solvents": "dimethylformamide (DMF)/water/formic acid",
+        "solvent_ratio": "2:1:1 v/v/v",
+        "chemicals_used": [
+          "H6(HSPB)",
+          "guanidinium chloride",
+          "sodium nitrate"
+        ],
+        "guest_molecules": [
+          "coumarin 1",
+          "coumarin 4",
+          "fluorescein",
+          "[Ru(bpy)3]Cl2",
+          "rhodamine B"
+        ],
+        "time": "approximately one week",
+        "equipment": "standing crystallization",
+        "yield_details": "Millimeter-sized block-shaped crystals"
+      }
+    },
+    {
+      "name": "q-TO$coumarin 4",
+      "synthesis_conditions": {
+        "guest_concentration_in_crystallization_medium": [
+          {
+            "compound": "2 a",
+            "occupancy": "0.4 molecules per cage",
+            "effective_dye_concentration": "0.070 m"
+          },
+          {
+            "compound": "2 b",
+            "occupancy": "0.6 molecules per cage",
+            "effective_dye_concentration": "0.105 m"
+          }
+        ]
+      }
+    },
+    {
+      "name": "q-TO$coumarin 1",
+      "synthesis_conditions": {
+        "guest_concentration_in_crystallization_medium": [
+          {
+            "compound": "3 a",
+            "occupancy": "0.4 molecules per cage",
+            "effective_dye_concentration": "0.070 m"
+          },
+          {
+            "compound": "3 b",
+            "occupancy": "0.5 molecules per cage",
+            "effective_dye_concentration": "0.087 m"
+          },
+          {
+            "compound": "3 c",
+            "occupancy": "0.9 molecules per cage",
+            "effective_dye_concentration": "0.157 m"
+          },
+          {
+            "compound": "3 d",
+            "occupancy": "1.0 molecules per cage",
+            "effective_dye_concentration": "0.175 m"
+          },
+          {
+            "compound": "3 e",
+            "occupancy": "2.0 molecules per cage",
+            "effective_dye_concentration": "0.350 m"
+          }
+        ]
+      }
+    },
+    {
+      "name": "q-TO$fluorescein",
+      "synthesis_conditions": {
+        "guest_concentration_in_crystallization_medium": {
+          "occupancy": "0.05 molecules per cage",
+          "effective_dye_concentration": "0.009 m"
+        }
+      }
+    },
+    {
+      "name": "q-TO$[Ru(bpy)3]Cl2",
+      "synthesis_conditions": {
+        "guest_concentration_in_crystallization_medium": {
+          "occupancy": "0.015 molecules per cage",
+          "effective_dye_concentration": "0.003 m"
+        }
+      }
+    },
+    {
+      "name": "q-TO$rhodamine B",
+      "synthesis_conditions": {
+        "guest_concentration_in_crystallization_medium": {
+          "occupancy": "0.09 molecules per cage",
+          "effective_dye_concentration": "0.016 m"
+        }
+      }
+    }
+  ]
+}

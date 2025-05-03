@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study described in the text?",
+      "answer": "The main focus of the study is to investigate the effects of pore environment and topology on the catalytic activity and selectivity of metal–organic framework-supported molybdenum(VI) catalysts in cyclohexene epoxidation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the Mo-supported catalysts?",
+      "answer": "The Mo-supported catalysts were synthesized using a solvothermal deposition in MOFs (SIM) method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the role of trifluoroacetic acid (TFA) in the synthesis of NU-1000 and NU-1200?",
+      "answer": "Trifluoroacetic acid (TFA) was added as a modulator in the synthesis of NU-1000 and NU-1200.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the Mo loading on the MOF supports determined?",
+      "answer": "The Mo loading on the MOF supports was determined using inductively coupled plasma optical emission spectroscopy (ICP-OES).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using 1,2-dichlorobenzene in the cyclohexene epoxidation reaction?",
+      "answer": "1,2-dichlorobenzene was used as an internal standard for normalization of GC FID peak area in the cyclohexene epoxidation reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why was water removed from H2O2 before the epoxidation reaction?",
+      "answer": "Water was removed from H2O2 to minimize competitive adsorption and facilitate more adsorption of H2O2, which in turn led to more activation of the catalyst.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome of the hot filtration tests?",
+      "answer": "The hot filtration tests indicated that the catalytic reactions were arrested due to no active Mo species leaching into the solutions, demonstrating the heterogeneous catalytic nature of the Mo-based catalysts.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How did the structural evolution of the Mo species affect the catalytic activity and selectivity?",
+      "answer": "The structural evolution of the Mo species, from monodentate to bidentate modes, imparted differences in catalytic activity and selectivity, demonstrating the importance of MOF supports in modulating the chemical environments of deposited metal species.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that the monodentate mode of Mo species is less favorable toward the direct pathway in cyclohexene epoxidation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The PXRD patterns of the Mo-supported catalysts remained unchanged after the catalytic reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The oxidation state of Mo species changed after the catalytic reactions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The Mo-NU-1008 catalyst showed the highest catalytic activity in the initial reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study demonstrated that varying the MOF supports does not yield different local environments affecting the coordination modes of active metal species.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study used a single method for the synthesis of all Mo-supported catalysts.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study concluded that the pore size of MOFs does not influence the catalytic activity of the supported Mo species.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

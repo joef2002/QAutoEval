@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of MFM-136?",
+      "answer": "C19H11CuN3O5",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the CO2 adsorption isotherms for MFM-136 recorded?",
+      "answer": "273 and 298 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MFM-136?",
+      "answer": "1634 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does MFM-136 have open metal sites?",
+      "answer": "No, all Cu(II) sites are fully coordinated, leaving no open metal sites.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to determine the binding sites of CO2 in MFM-136?",
+      "answer": "Neutron Powder Diffraction (NPD)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the CO2 uptake of MFM-136 at 20 bar and 298 K?",
+      "answer": "12.6 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the CO2 uptake of MFM-136 at 273 K higher than at 298 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to study the vibrational modes of MFM-136?",
+      "answer": "Inelastic Neutron Spectroscopy (INS)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main finding from the neutron diffraction study regarding CO2 binding in MFM-136?",
+      "answer": "There is no direct binding between adsorbed CO2 molecules and the pendant amide group in the pore.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the INS study show significant changes in the N-H motion upon CO2 loading in MFM-136?",
+      "answer": "False, the N-H motion showed no detectable changes upon CO2 loading.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using Grand Canonical Monte-Carlo (GCMC) simulations in the study of MFM-136?",
+      "answer": "To simulate the adsorption of CO2 and N2 and predict the most populated regions for CO2 adsorption sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of amide groups in CO2 adsorption according to the study?",
+      "answer": "The study suggests that the introduction of amide groups alone may not necessarily result in specific guest-host binding for CO2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the structure of MFM-136 retained after desolvation?",
+      "answer": "True, the PXRD data confirmed the phase purity and retention of the framework structure upon removal of the free solvents.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the highest CO2 uptake recorded for MFM-136 at 1 bar and 273 K?",
+      "answer": "7.3 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the isosteric heat of adsorption for CO2 in MFM-136 at low surface coverage?",
+      "answer": "25.6 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does MFM-136 show higher selectivity for CO2 over CH4?",
+      "answer": "True, MFM-136 shows selectivities for CO2/CH4 of 6.3:1 at 273 K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for synthesizing MFM-136?",
+      "answer": "Solvothermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the void fraction of MFM-136?",
+      "answer": "54%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was direct H2N-(δ-)···(δ+)­CO2 binding observed in MFM-136?",
+      "answer": "False, the study found no direct binding between CO2 and the amide groups.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the BET surface area of MFM-136 compared to other amide-functionalized MOFs?",
+      "answer": "MFM-136 has a BET surface area of 1634 m2 g-1, which is competitive with other amide-functionalized MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

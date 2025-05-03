@@ -1,0 +1,117 @@
+{
+  "materials": [
+    {
+      "name": "Al-bttotb",
+      "synthesis_conditions": [
+        {
+          "step": "Synthesis",
+          "details": {
+            "temperature": "150 °C",
+            "solvents": [
+              {
+                "name": "DMF",
+                "amount": "20 mL"
+              },
+              {
+                "name": "formic acid",
+                "amount": "10 mL"
+              }
+            ],
+            "equipment": "Teflon bomb",
+            "chemicals_used": [
+              {
+                "name": "Al(NO3)3·9H2O",
+                "amount": "200 mg"
+              },
+              {
+                "name": "H3bttotb",
+                "amount": "125 mg"
+              }
+            ],
+            "time": "5 days",
+            "yield": "65 % based on the organic ligand"
+          }
+        },
+        {
+          "step": "Activation",
+          "details": {
+            "method": "methanol exchange",
+            "temperature": "180 °C",
+            "time": "overnight",
+            "equipment": "dynamic vacuum"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Multicomponent breakthrough measurements",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation",
+          "details": {
+            "temperature": "30 °C",
+            "equipment": "lab-scale fix-bed reactor",
+            "material_amount": "0.25 g",
+            "activation_temperature": "180 °C",
+            "activation_time": "overnight"
+          }
+        },
+        {
+          "step": "Gas mixture preparation",
+          "details": {
+            "components": [
+              {
+                "name": "nHEX",
+                "volume": "5.84 mL"
+              },
+              {
+                "name": "3MP",
+                "volume": "4.12 mL"
+              },
+              {
+                "name": "22DMB",
+                "volume": "2.57 mL"
+              }
+            ],
+            "method": "bubbled through a mixture",
+            "helium_flow_rate": "1 mL/min"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Adsorption simulations",
+      "synthesis_conditions": [
+        {
+          "step": "Simulation setup",
+          "details": {
+            "software": "Materials Studio (Accelrys Inc.)",
+            "method": "GCMC method and Burchard Universal Force Field",
+            "supercell_dimensions": "2 × 2 × 3 unit cells"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Computational calculations",
+      "synthesis_conditions": [
+        {
+          "step": "Calculation setup",
+          "details": {
+            "software": "Vienna Ab Initio Simulation Package (VASP)",
+            "functional": "van der Waals corrected revPBE functional",
+            "dispersive_forces": "semi-empirical addition at the D2 level",
+            "pseudopotentials": "projected augmented wave (PAW) method",
+            "kinetic_energy_cutoff": "800 eV",
+            "convergence_criteria": {
+              "force": "0.05 eV/Å",
+              "energy": "10−5 eV"
+            },
+            "unit_cell": "primitive unit cell of pristine Al-MOF with 444 atoms",
+            "Brillouin_zone_sampling": "Γ-point"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the optimum band gap range for single-junction solar cells as determined by Shockley and Queisser?",
+      "answer": "1.1–1.4 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main impediment for tin-containing perovskite performance?",
+      "answer": "The facile oxidation of Sn(II) to Sn(IV)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does maltol post-treatment have on mixed Pb–Sn perovskite films?",
+      "answer": "It suppresses Sn(II) oxidation and reduces the density of defects at the perovskite film surface.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the power conversion efficiency of lead-based perovskite solar cells?",
+      "answer": "25.6%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The addition of Sn(0) powder into the Sn-containing precursor solution reduces Sn(II) vacancies in the resulting perovskite films.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the charge carrier lifetime of perovskite films treated with both TM-DHP reductant and maltol post-treatment?",
+      "answer": "7.4 ms",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The band gaps of mixed lead–tin (Pb–Sn) perovskite absorbers fall outside the optimal range for solar cell performance.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the photoconversion efficiency of solar cell devices treated with both TM-DHP reductant and maltol post-treatment under AM1.5G illumination?",
+      "answer": "21.4%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Maltol is a naturally occurring flavor enhancer and strong metal binding agent.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of oxygen levels as low as a few ppm on Sn(II) in perovskite films?",
+      "answer": "It causes Sn(II) to oxidize, creating Sn(II) vacancies which lead to an increase in hole density.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The performance of solar cells fabricated with Pb–Sn perovskites is not restricted by the oxidation of Sn(II) to Sn(IV).",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of SnF2 in the preparation of perovskite films?",
+      "answer": "It is known to suppress the oxidation of Sn(II) at the precursor preparation stage.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The addition of Pb(SCN)2 to the perovskite precursor solution is to mediate the perovskite crystal growth.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of TM-DHP treatment on the crystallinity of perovskite films?",
+      "answer": "It improves crystallinity, as indicated by the stronger intensities of the peaks at 14.5° and 28.8°, indexed to (100) and (200) planes of the perovskite, respectively.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The maltol post-treatment does not affect the photoluminescence intensity of perovskite films.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated carrier diffusion length using the PL lifetime of 7.4 ms for treated perovskite films?",
+      "answer": "3.8–6.1 µm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ideality factor of perovskite solar cells treated with both TM-DHP and maltol is higher than those treated with TM-DHP only.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the trap-filled limit voltage (VTFL) for the perovskite films in the hole-only devices treated with TM-DHP and maltol?",
+      "answer": "0.14 V",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The maltol treatment leads to suppressed Sn(IV) content, decreased defect densities, and prolonged charge carrier lifetimes in perovskite films.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The power conversion efficiency (PCE) of the champion solar cell fabricated with the combination of Sn(IV) scavenging and maltol post-treatment was below 20%.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

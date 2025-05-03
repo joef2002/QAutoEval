@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the study mentioned in the text?",
+      "answer": "The primary focus of the study is the interconversion between molecular polyhedra and metal−organic frameworks (MOFs) through axial-ligand substitution reactions.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the molecular octahedron in the construction of MOFs?",
+      "answer": "The molecular octahedron is significant because it can be extended into a 3D MOF by interlinking the six vertices through a ditopic ligand, serving as an ideal building unit.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was compound 1 synthesized?",
+      "answer": "Compound 1 was synthesized through a solvothermal reaction between H2CDC and Cu(NO3)2·2.5H2O in a 1:1 DMA/EtOH mixed solvent system, resulting in blue-green crystals.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What transformation occurs when compound 1 is dissolved in DEF?",
+      "answer": "When compound 1 is dissolved in DEF, it undergoes a ligand-substitution reaction to yield compound 2, which can be crystallized by layering the solution with EtOH or MeCN.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the molecular octahedron be deconstructed, and if so, what does it form?",
+      "answer": "Yes, the molecular octahedron can be deconstructed by the addition of an excess of pyridine to a DEF solution of them, forming a 1D helical chain known as compound 5.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the assembly of MOFs from molecular polyhedra a stepwise process?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 4 possess a single network framework structure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 9H-carbazole-3,6-dicarboxylate (CDC) in the synthesis of the molecular octahedron?",
+      "answer": "CDC acts as a ligand that joins six Cu2(CO2)4 paddlewheel clusters to form the molecular octahedron, with its N−H functional groups improving solubility through hydrogen bonding.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to compound 1 in a DEF solution?",
+      "answer": "In a DEF solution, compound 1 undergoes a ligand-substitution reaction to yield compound 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the molecular octahedron soluble in water?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the result of introducing pyridine into a DEF solution of compound 2?",
+      "answer": "Introducing pyridine into a DEF solution of compound 2 results in the formation of compound 3, with the absorption peak shifting from 704 to 716 nm.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can compound 4 be disassembled back into the molecular octahedron?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the window size of the single net in the framework of compound 4?",
+      "answer": "The window size of the single net in the framework of compound 4 is approximately 14.4 Å.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of MOFs from molecular polyhedra based on a 'bottom-up' approach?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal structure similarity between compounds 1 and 2?",
+      "answer": "Compounds 1 and 2 have similar crystal structures except for the axial ligands, with compound 2 crystallizing in the space group R3̅.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the molecular octahedron have a cubic chamber in its structure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 4,4′-bipyridine in the synthesis of compound 4?",
+      "answer": "4,4′-bipyridine acts as a ditopic organic linker that interlinks the external Cu sites of the molecular octahedra, leading to the formation of compound 4 with a twofold-interpenetrated 3D framework structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the molecular octahedra preserved in solution?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the DEF solvent in the synthesis of compound 2?",
+      "answer": "DEF solvent facilitates the ligand-substitution reaction of compound 1, leading to the formation of compound 2, with DEF molecules coordinating the external axial Cu sites.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the solubility of the molecular octahedron in DEF higher than in water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

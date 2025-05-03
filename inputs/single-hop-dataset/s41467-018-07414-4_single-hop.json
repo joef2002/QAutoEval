@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the zirconium-based metal-organic framework discussed in the text?",
+      "answer": "MIP-202(Zr)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What organic linker is used in the synthesis of MIP-202(Zr)?",
+      "answer": "Aspartic acid",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What property of MIP-202(Zr) makes it an excellent proton conductor?",
+      "answer": "The presence of protonated amino groups exposed in the pores",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MIP-202(Zr) stable in working conditions over a period of one week?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method provides insight into the hydrogen bond network of MIP-202(Zr)?",
+      "answer": "Monte-Carlo simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of MIP-202(Zr) involve toxic chemicals?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proton conductivity of MIP-202(Zr) at 363 K and under 95% relative humidity?",
+      "answer": "0.011 S cm−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space-time yield of the synthesis procedure for MIP-202(Zr)?",
+      "answer": "7030 kg m−3 day−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal structure of MIP-202(Zr) isostructural with that of MOF-801?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of acidic and alkaline conditions on the N2 sorption analysis of MIP-202(Zr)?",
+      "answer": "The uptake significantly increases after the treatment, especially in acidic and alkaline conditions",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of removing Cl- from the pores of MIP-202(Zr)?",
+      "answer": "It frees up a significant amount of space within the pores",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the treatment of MIP-202(Zr) with HCl lead to the formation of defects?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Cl/Zr ratio in MIP-202(Zr) after Soxhlet extraction with water for three days?",
+      "answer": "3/7",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the proton conductivity of MIP-202(Zr) with a Cl/Zr ratio of 3/7 under the same testing condition reported in the main text?",
+      "answer": "2.7×10-3 S cm-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the proton conductivity of MIP-202(Zr) affected by the presence of Cl- in the pore?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy associated with the Grotthus-like mechanism for proton transport in MIP-202(Zr)?",
+      "answer": "0.22 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does MIP-202(Zr) maintain its crystallinity after being soaked in 50%wt H2O2 without adding any Fe(II) salts?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space-time yield of MIP-202(Zr) for a scale-up reaction that produced more than 30 g of sample?",
+      "answer": "7296 kg m-3 day-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is MIP-202(Zr) stable under strong oxidative conditions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the proton conductivity value of MIP-202(Zr) compared to the state-of-the-art conductivity observed in several MOFs?",
+      "answer": "MIP-202(Zr)'s conductivity is not significant compared to the state-of-the-art conductivity (>0.1 S cm-1) observed in several MOFs",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

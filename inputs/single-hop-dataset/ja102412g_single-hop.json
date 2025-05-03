@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Reversible Magnetism between an Antiferromagnet and a Ferromagnet Related to Solvation/Desolvation in a Robust Layered [Ru2]2TCNQ Charge-Transfer System",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Hitoshi Miyasaka",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/ja102412g",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnetic transition does compound 1 undergo?",
+      "answer": "Antiferromagnetic to ferromagnetic transition",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What triggers the magnetic property changes in compound 1?",
+      "answer": "The degree of interstitial CH2Cl2 molecule loss",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic property change in compound 1 reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the volume change significantly during the solvation/desolvation process of compound 1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of CH2Cl2 molecules in the magnetic properties of compound 1?",
+      "answer": "They act as a clip that drives the ordering/disordering of ligand orientation, affecting the magnetic properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to compound 1 when it is exposed to CH2Cl2 vapor?",
+      "answer": "It converts nearly reversibly back to its original state after being exposed to CH2Cl2 vapor for 72 hours.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 1-dry exhibit ferromagnetic properties?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the synthesis method for compound 1?",
+      "answer": "Slow diffusion reaction of [Ru2(O2CPh-o-Cl)4(THF)2] in CH2Cl2 and TCNQ(OMe)2 in nitrobenzene under an ultrapure N2 atmosphere.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal structure of compound 1?",
+      "answer": "Triclinic space group P-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the magnetic property change in compound 1 associated with significant lattice deformation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main factor responsible for tuning the magnetic properties of compound 1?",
+      "answer": "Order/disorder of o-ClPh groups in [Ru(1)2]",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the solvation/desolvation process of compound 1 involve major structural changes?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "2010",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can the magnetic properties of compound 1 be cycled between solvated and desolvated forms?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of interstitial CH2Cl2 molecules in the antiferromagnetic to ferromagnetic transition of compound 1?",
+      "answer": "Their loss triggers the transition from antiferromagnetic to ferromagnetic properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the volume change during the solvation/desolvation process of compound 1 more than 5%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the order/disorder of o-ClPh groups in the magnetic properties of compound 1?",
+      "answer": "It is crucial for deciding the magnetic properties, affecting the alignment of interlayer spins.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

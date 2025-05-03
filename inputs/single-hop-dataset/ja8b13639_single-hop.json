@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of CUB-5?",
+      "answer": "Zn4O(1,4-cdc)3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the gas adsorption measurements of CUB-5?",
+      "answer": "Volumetric method using a Micromeritics ASAP 2040 instrument",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was CUB-5 activated before gas adsorption measurements?",
+      "answer": "120 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the yield of CUB-5 synthesis?",
+      "answer": "72%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of CUB-5?",
+      "answer": "Pm-3m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the moisture sensitivity of CUB-5 studied?",
+      "answer": "By exposing the MOF to humid environments of either 33% or 75% relative humidity and subsequent structural analysis using powder X-ray diffraction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the result of exposing CUB-5 to 75% humidity?",
+      "answer": "CUB-5 underwent a phase transition similar to that observed in MOF-5 after exposure to moisture",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CUB-5 more moisture sensitive than MOF-5?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What simulation method was used to evaluate the adsorption performance of CUB-5?",
+      "answer": "Grand canonical Monte Carlo (GCMC) method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study find that CUB-5 has a potential for benzene separation applications?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was used to calculate static binding energies for guest molecules in CUB-5?",
+      "answer": "Density functional theory (DFT) using the DFT-D3 method",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was disorder observed in the crystal structure of CUB-5?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to investigate the porosity within the CUB-5 framework?",
+      "answer": "Positron Annihilation Lifetime Spectroscopy (PALS)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main reason for the poor quality of the crystal data for CUB-5?",
+      "answer": "Extensive streaking in the diffraction images due to diffuse reflectance",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the synthesis of CUB-5 require moisture-free conditions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main purpose of using DFT calculations in the study?",
+      "answer": "To accurately estimate static binding energies for guest molecules with the CUB-5 framework",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the disorder in the structure of CUB-5 due to crystallographically imposed symmetry?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the Positron Annihilation Lifetime Spectroscopy of CUB-5?",
+      "answer": "The lifetimes are an average value of the void spaces as the positrons travel through thousands of unit cells",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the thermal stability of CUB-5 analyzed using thermogravimetric analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in obtaining high-quality crystal data for CUB-5?",
+      "answer": "The extensive disorder in the structure, including the Zn4O clusters and the cubane backbones of the carboxylate ligands",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

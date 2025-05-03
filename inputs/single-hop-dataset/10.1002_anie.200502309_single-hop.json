@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the framework material described?",
+      "answer": "[Co2(ppca)2(H2O)(V4O12)0.5]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique property does the described framework material exhibit?",
+      "answer": "Reversible shrinkage and expansion through a single-crystal-to-single-crystal transformation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the reversible shrinkage and expansion in the described framework material?",
+      "answer": "A change in the cobalt coordination environment.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the removal and reinsertion of guest water molecules in the framework material reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the framework material upon heating to 150 8C for 1 day?",
+      "answer": "It undergoes a transformation to [{[Co2(ppca)2(H2O)(V4O12)0.5]·0.55 H2O}n].",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of heating the framework material to 300 8C for 2 hours?",
+      "answer": "Complete removal of the guest and coordinated water molecules, resulting in [{Co2(ppca)2(V4O12)0.5}n].",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the coordination number of the cobalt center change during the transformation process?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination environment change observed for the cobalt center?",
+      "answer": "From 6 (octahedral) to 5 (trigonal bipyramidal).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the color change of the framework material reversible upon rehydration?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What ligand is used in the synthesis of the described framework material?",
+      "answer": "4-(pyridin-4-yl)pyridine-2-carboxylic acid (ppca).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role does vanadium oxide play in the framework structure?",
+      "answer": "It cross-links structural components and promotes the formation of unique structural geometries.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural change involving the cobalt coordination environment common in framework materials?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of removing the coordinated water molecule from Co2?",
+      "answer": "It initiates a substantial channel 'collapse' by removing a quasi-pillaring between the channel walls.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the original structure of the framework material be reconstituted after dehydration?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ligand length in the synthesis of the framework material?",
+      "answer": "The longer ligand allows the synthesis of frameworks with larger cavities than those observed with shorter ligands.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of the framework material?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the framework material undergo a single-crystal-to-single-crystal transformation upon dehydration and rehydration?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the crystal volume upon complete dehydration of the framework material?",
+      "answer": "The unit-cell volume decreases and the channels only retain one-third of their original volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the process of removing and reinserting guest water molecules spontaneous when exposed to air?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What future experiments are suggested based on the existence of the five-coordinate cobalt center?",
+      "answer": "Experiments to determine if the religation with ammonia, rather than water, is possible.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the highest enantiomeric excess (ee) percentage achieved for 1-phenylethanol (1-PEA) separation using M′MOFs?",
+      "answer": "82.4%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which M′MOF has the highest BET surface area?",
+      "answer": "M′MOF-4a",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Can M′MOF-4a be reused for further resolution of racemic alcohols?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the framework density of M′MOF-7a?",
+      "answer": "1037 kg m-3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystallinity of M′MOFs retained after being immersed in methanol?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Which M′MOF exhibits the highest C2H2 uptake capacity at 296 K?",
+      "answer": "M′MOF-4a",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the pore volume of M′MOF-5a increase after immersion in different alcohols?",
+      "answer": "The text does not provide specific information on changes in pore volume after immersion in alcohols.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the Langmuir-Freundlich model used for in the context of M′MOFs?",
+      "answer": "It is used for fitting the isotherm parameters for gas sorption.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Which M′MOF has the shortest breakthrough time for C2H2/C2H4 separation?",
+      "answer": "M′MOF-7a",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the separation capacity of M′MOFs for C2H2/C2H4 determined solely by their porosity?",
+      "answer": "No, it is determined by both selectivity and capacity metrics, which include porosity and C2H2 uptake capacity.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of metalloligands in the construction of M′MOFs?",
+      "answer": "Metalloligands help in systematically tuning the pore spaces by their interplay with organic linkers in M′MOFs.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can M′MOF-5a efficiently separate ethylene and acetylene at room temperature?",
+      "answer": "Yes, M′MOFs including M′MOF-5a show promise for selective separation of ethylene and acetylene at room temperature.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of changing metalloligand from Cu(SalPyMeCam) to Cu(SalPytBuCy) in M′MOFs?",
+      "answer": "It systematically reduces the accessible pore space in M′MOFs due to the bulky tert-butyl groups occupying more space.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Are the M′MOFs flexible in terms of pore modification?",
+      "answer": "Yes, M′MOFs are flexible with pores that can be modified by adsorption of different solvent substrates.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough time, τbreak, in the context of M′MOFs?",
+      "answer": "The breakthrough time, τbreak, is a key metric that determines the separation characteristics of a PSA adsorber using M′MOFs, with a longer τbreak being desirable.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Do M′MOFs exhibit enantioselective separation capabilities?",
+      "answer": "Yes, M′MOFs exhibit enantioselective separation capabilities for small alcohols.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the second organic linkers in the construction of M′MOFs?",
+      "answer": "The second organic linkers, along with metalloligands, play a crucial role in tuning the chiral pore spaces within M′MOFs for selective separation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are the gas sorption properties of M′MOFs temperature-dependent?",
+      "answer": "Yes, the gas sorption properties of M′MOFs are temperature-dependent as shown by their different sorption isotherms at 273 K and 296 K.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the purity requirement of 40 ppm in the outlet gas be fulfilled by M′MOF-4a?",
+      "answer": "Yes, the purity requirement of 40 ppm in the outlet gas can be readily fulfilled by the fixed bed M′MOF-4a adsorber.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the economic performance of a PSA unit using M′MOFs determined by the amount of C2H2 captured?",
+      "answer": "Yes, the economic performance of a PSA unit using M′MOFs is primarily dictated by the amount of C2H2 captured during the adsorption cycle.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

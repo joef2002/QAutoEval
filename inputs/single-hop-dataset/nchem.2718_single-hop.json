@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the dodecanuclear SCC prepared in the study?",
+      "answer": "[(Ag12(StBu)6(CF3COO)6(CH3CN)6]·CH3CN",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the large-scale production of homogeneous Ag12bpy crystals?",
+      "answer": "One-pot synthesis",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the room-temperature luminescence quantum yield (QY) of Ag12bpy?",
+      "answer": "12.1%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What triggers the 'turn-off' fluorescence switching in Ag12bpy?",
+      "answer": "O2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the Stern-Volmer quenching rate constant (kq) for oxygen in Ag12bpy?",
+      "answer": "3.2 × 10^6 kPa−1 s−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of VOCs affect the fluorescence of Ag12bpy?",
+      "answer": "It triggers multicoloured 'turn-on' fluorescence switching.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of logic gate does Ag12bpy function as, based on its response to O2 and VOCs?",
+      "answer": "An IMPLICATION logic gate",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum emission wavelength shift observed when Ag12bpy interacts with ethanol?",
+      "answer": "Shifts from 507 to 520 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of Ag12bpy affected by the inclusion of VOCs?",
+      "answer": "No, Ag12bpy·VOCs are isomorphous with Ag12bpy, indicating the structure remains intact.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The luminescence of Ag12bpy is quenched by 98.4% at 100 kPa O2 pressure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence of Ag12bpy is enhanced in the presence of VOCs due to the formation of hydrogen bonds.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The emission color of Ag12bpy·VOCs returns to that of evacuated Ag12bpy at 93 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The emission intensity of Ag12bpy remains constant regardless of the presence of VOCs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The stability of Ag12bpy is compromised when exposed to air for one year.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence of Ag12bpy is not affected by temperature changes.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence turn-on response time to ethanol in Ag12bpy is less than 1 second.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence of Ag12bpy is enhanced by 26-fold in the presence of ethanol compared to air.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence of Ag12bpy is quenched in the presence of VOCs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence of Ag12bpy is only affected by the presence of O2 and not by VOCs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The luminescence of Ag12bpy is not quenched by O2 at low temperatures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

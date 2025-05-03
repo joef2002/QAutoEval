@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the article?",
+      "answer": "2013",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in synthesizing metal–organic nanotubes (MONTs) according to the article?",
+      "answer": "The main challenge is achieving a 'rolling-up' mechanism for the formation of MONTs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of coordination sheets and tubes based on a common coordination skeleton considered easy?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to increase the inter-layer distance in the synthesis process?",
+      "answer": "Increasing the size of the amine templates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the result of using Et3N as the template in the synthesis?",
+      "answer": "The formation of a (4,0) zigzag MONT.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the article report the successful preparation of three 2D lamellar compounds and one (4,0) zigzag MONT?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of asymmetrically modifying the inter-layer interactions in the synthesis strategy?",
+      "answer": "It leads to the spontaneous rolling up and formation of a tubular structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the 'rolling-up' concept previously experimentally observed for MONTs before this work?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the guest-induced sheet/tube supramolecular isomerism mentioned in the article?",
+      "answer": "It demonstrates a novel approach in metal–organic framework (MOF) chemistry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the yield percentage for the synthesis of compound 4?",
+      "answer": "Approximately 50%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of compound 1 through a single-crystal-to-single-crystal transformation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the method used for the synthesis of the ligand H2L?",
+      "answer": "It was synthesized according to a reported method involving the reaction of serinol with arylsulfonyl chloride.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the synthesis of compounds 1 to 4 involve the use of different organic amines?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system for compound 4?",
+      "answer": "Tetragonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of increasing the size of the amine templates on the structure of the compounds?",
+      "answer": "It increases the inter-layer distance and modifies the host–guest interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the sulfamide groups in compound 4 directed towards the outside of the tubes?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using the 'SQUEEZE' method in the analysis of compound 4?",
+      "answer": "To handle disorder and some lattice methanol in the crystal structure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What was the probe diameter set to in the calculation of surface areas?",
+      "answer": "2.8 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the calculated surface area of compound 4 an average over two units?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding of the article regarding the synthesis of MONTs?",
+      "answer": "The successful application of a classic rolling-up strategy in the synthesis of MONTs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

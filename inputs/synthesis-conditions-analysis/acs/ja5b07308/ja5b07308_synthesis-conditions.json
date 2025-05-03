@@ -1,0 +1,116 @@
+{
+  "materials": [
+    {
+      "material_name": "14+",
+      "synthesis_conditions": [
+        {
+          "temperature": "298K",
+          "solvent": "DMSO-d6",
+          "amount_of_solvent": "1.5 mL",
+          "equipment": "Bruker AVANCE III 500WB, AVANCE III 400 and AVANCE 600 spectrometers",
+          "chemicals_used": [
+            {
+              "chemical": "1,3,5-benzenetricarboxylic acid (2)",
+              "amount": "1 molar equiv"
+            },
+            {
+              "chemical": "tetramethylammonium hydroxide (NMe4+•OH-; TMA+•OH-)",
+              "amount": "1 molar equiv"
+            }
+          ],
+          "time": "1 hour",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_name": "14+•4PF6-",
+      "synthesis_conditions": [
+        {
+          "temperature": "298K",
+          "solvent": "DMSO-d6",
+          "amount_of_solvent": "1.5 mL",
+          "equipment": "Bruker AVANCE III 500WB, AVANCE III 400 and AVANCE 600 spectrometers",
+          "chemicals_used": [
+            {
+              "chemical": "1,3,5-benzenetricarboxylic acid (2)",
+              "amount": "1 molar equiv"
+            },
+            {
+              "chemical": "tetramethylammonium hydroxide (NMe4+•OH-; TMA+•OH-)",
+              "amount": "1 molar equiv"
+            }
+          ],
+          "time": "1 hour",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_name": "[(14+)2•53•(Ag+)5]4+",
+      "synthesis_conditions": [
+        {
+          "temperature": "298K",
+          "solvent": "DMSO-d6",
+          "amount_of_solvent": "1.5 mL",
+          "equipment": "Bruker AVANCE III 500WB, AVANCE III 400 and AVANCE 600 spectrometers",
+          "chemicals_used": [
+            {
+              "chemical": "1,3,5-benzenetricarboxylic acid (2)",
+              "amount": "1 molar equiv"
+            },
+            {
+              "chemical": "tetramethylammonium hydroxide (NMe4+•OH-; TMA+•OH-)",
+              "amount": "1 molar equiv"
+            },
+            {
+              "chemical": "Ag+•PF6-",
+              "amount": "2.5 molar equiv"
+            }
+          ],
+          "time": "1 hour",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        }
+      ]
+    },
+    {
+      "material_name": "[(14+)2•54•(Cd2+)4•(HO-)4•4H2O] •19H2O",
+      "synthesis_conditions": [
+        {
+          "temperature": "173K",
+          "solvent": "Water/DMF",
+          "amount_of_solvent": "1000 μL for each layer",
+          "equipment": "Not specified",
+          "chemicals_used": [
+            {
+              "chemical": "14+•4PF6-",
+              "amount": "1.0 molar equiv"
+            },
+            {
+              "chemical": "benzene-1,3,5-tricarboxylic acid (2)",
+              "amount": "2.0 molar equiv"
+            },
+            {
+              "chemical": "TMA+•OH-",
+              "amount": "6.0 molar equiv"
+            },
+            {
+              "chemical": "Cd(NO3)2",
+              "amount": "Not specified"
+            }
+          ],
+          "time": "7 days",
+          "yield": "Not specified",
+          "washing_method": "Not specified",
+          "drying_method": "Not specified"
+        }
+      ]
+    }
+  ]
+}

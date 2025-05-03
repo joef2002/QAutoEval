@@ -1,0 +1,104 @@
+{
+  "materials": [
+    {
+      "material_name": "4,6-Di(pyrazol-1-yl)-1H-pyrimid-2-one (HL1)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Sodium 4,6-dichloro-pyrimidin-2-onate",
+            "amount": "0.59 g",
+            "molarity": "3.2 mmol"
+          },
+          {
+            "chemical": "Pyrazole",
+            "amount": "0.50 g",
+            "molarity": "7.2 mmol"
+          },
+          {
+            "chemical": "Sodium hydride",
+            "amount": "0.29 g",
+            "molarity": "7.2 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "Tetrahydrofuran",
+            "amount": "40 cm3"
+          }
+        ],
+        "temperature": "65 °C",
+        "time": "18 h",
+        "atmosphere": "N2",
+        "yield": "0.50 g, 69%",
+        "washing_method": "Extracted with chloroform (3 × 50 cm3)",
+        "drying_method": "Evaporation to dryness",
+        "characterization": [
+          {
+            "technique": "ES-MS",
+            "data": "m/z 229.0833 (calcd for [H2L1]+ 229.0832), 251.0655 (calcd for [NaHL1]+ 251.0652)"
+          },
+          {
+            "technique": "1H NMR",
+            "solvent": "{CD3}2SO",
+            "data": "δ 6.67 (dd, 1.7 and 2.6 Hz, 2H, Pz H4), 7.82 (s, 1H, Pym H5), 7.96 (d, 1.7 Hz, 2H, Pz H3), 8.59 (m, 2H, Pz H5)"
+          },
+          {
+            "technique": "13C NMR",
+            "solvent": "{CD3}2SO",
+            "data": "δ 87.1 (1C, Pym C5), 109.4 (2C, Pz C4), 127.9 (2C, Pz C3), 144.1 (2C, Pz C5), 159.9 (2C, Pym C4/6), 164.7 (1C, Pym C2)"
+          }
+        ]
+      }
+    },
+    {
+      "material_name": "4,6-Di(4-methylpyrazol-1-yl)-1H-pyrimid-2-one (HL2)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          {
+            "chemical": "Sodium 4,6-dichloro-pyrimidin-2-onate",
+            "amount": "0.82 g",
+            "molarity": "4.4 mmol"
+          },
+          {
+            "chemical": "4-Methylpyrazole",
+            "amount": "0.90 g",
+            "molarity": "10.9 mmol"
+          },
+          {
+            "chemical": "Sodium hydride",
+            "amount": "0.5 g",
+            "molarity": "12.5 mmol"
+          }
+        ],
+        "solvents": [
+          {
+            "solvent": "Tetrahydrofuran",
+            "amount": "50 cm3"
+          }
+        ],
+        "temperature": "65 °C",
+        "time": "18 h",
+        "atmosphere": "N2",
+        "yield": "0.78 g, 69%",
+        "washing_method": "Extracted with chloroform (3 × 50 cm3)",
+        "drying_method": "Evaporation to dryness",
+        "characterization": [
+          {
+            "technique": "ES-MS",
+            "data": "m/z 257.1146 (calcd for [H2L2]+ 257.1145), 279.0967 (calcd for [NaHL2]+ 279.0965), 301.0785 (calcd for [Na2(L2)]+ 301.0784), 535.2031 (calcd for [Na(HL2)2]+ 535.2037)"
+          },
+          {
+            "technique": "1H NMR",
+            "solvent": "{CD3}2SO",
+            "data": "δ 2.12 (s, 6H, CH3), 7.68 (s, 1H, Pym H5), 7.78 (s, 2H, Pz H3), 8.33 (s, 2H, Pz H5), 12.53 (br s, 1H, NH)"
+          },
+          {
+            "technique": "13C NMR",
+            "solvent": "{CD3}2SO",
+            "data": "δ 8.7 (2C, CH3), 86.1 (1C, Pym C5), 119.4 (2C, Pz C4), 125.9 (2C, Pz C3), 145.1 (2C, Pz C5), 159.7 (2C, Pym C4/6), 164.6 (1C, Pym C2)"
+          }
+        ]
+      }
+    }
+  ]
+}

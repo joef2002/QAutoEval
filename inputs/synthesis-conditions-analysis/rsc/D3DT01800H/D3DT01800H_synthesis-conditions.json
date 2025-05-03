@@ -1,0 +1,74 @@
+{
+  "materials": [
+    {
+      "name": "Er(III) coordination polymer [Er(CA)(ACA)(DMF)(H2O)]n (1)",
+      "synthesis_conditions": {
+        "temperature": "96 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5.2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "8 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Erbium chloride hexahydrate (ErCl3·6H2O)",
+            "amount": "0.1 mmol, 38.1 mg"
+          },
+          {
+            "name": "2,5-Dichloro-3,6-dihydroxy-p-quinone (H2CA)",
+            "amount": "0.02 mmol, 4.2 mg"
+          },
+          {
+            "name": "9-Anthracenecarboxylic acid (HACA)",
+            "amount": "0.04 mmol, 8.9 mg"
+          }
+        ],
+        "time": "9.5 hours",
+        "washing_method": "washed by water (5 mL × 5)",
+        "drying_method": "dried under air",
+        "yield": "54.3% based on H2CA"
+      }
+    },
+    {
+      "name": "Y(III)-diluted analogue 1@Y",
+      "synthesis_conditions": {
+        "temperature": "96 °C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "5.2 mL"
+          },
+          {
+            "name": "H2O",
+            "amount": "8 mL"
+          }
+        ],
+        "equipment": "20 mL glass vial",
+        "chemicals_used": [
+          {
+            "name": "Erbium chloride hexahydrate (ErCl3·6H2O) and Yttrium chloride hexahydrate (YCl3·6H2O)",
+            "amount": "in a 1:7 molar ratio"
+          },
+          {
+            "name": "2,5-Dichloro-3,6-dihydroxy-p-quinone (H2CA)",
+            "amount": "0.02 mmol, 4.2 mg"
+          },
+          {
+            "name": "9-Anthracenecarboxylic acid (HACA)",
+            "amount": "0.04 mmol, 8.9 mg"
+          }
+        ],
+        "time": "9.5 hours",
+        "washing_method": "washed by water (5 mL × 5)",
+        "drying_method": "dried under air",
+        "yield": "ICP: Er/Y = 1 : 4.97"
+      }
+    }
+  ]
+}

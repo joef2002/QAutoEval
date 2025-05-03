@@ -1,0 +1,308 @@
+{
+  "materials": [
+    {
+      "name": "3,5-bis(hexyloxy)benzaldehyde",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "100 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "3,5-dihydroxybenzaldehyde",
+              "amount": "1.00 g"
+            },
+            {
+              "name": "potassium carbonate",
+              "amount": "2.50 g"
+            },
+            {
+              "name": "potassium iodide",
+              "amount": "120.19 mg"
+            },
+            {
+              "name": "1-bromohexane",
+              "amount": "2.24 mL"
+            }
+          ],
+          "time": "15 hrs",
+          "yield": "95%"
+        }
+      ]
+    },
+    {
+      "name": "3,5-bis(dodecyloxy)benzaldehyde",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "100 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "3,5-dihydroxybenzaldehyde",
+              "amount": "1.00 g"
+            },
+            {
+              "name": "potassium carbonate",
+              "amount": "2.50 g"
+            },
+            {
+              "name": "potassium iodide",
+              "amount": "120.19 mg"
+            },
+            {
+              "name": "1-bromododecane",
+              "amount": "3.82 mL"
+            }
+          ],
+          "time": "15 hrs",
+          "yield": "96%"
+        }
+      ]
+    },
+    {
+      "name": "3,5-bis((2,5,8,11-tetraoxatridecan-13-yl)oxy)benzaldehyde",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "120 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "3,5-dihydroxybenzaldehyde",
+              "amount": "1.21 g"
+            },
+            {
+              "name": "potassium carbonate",
+              "amount": "3.03 g"
+            },
+            {
+              "name": "potassium iodide",
+              "amount": "145.77 mg"
+            },
+            {
+              "name": "13-bromo-2,5,8,11-tetraoxatridecane",
+              "amount": "3.88 mL"
+            }
+          ],
+          "time": "15 hrs",
+          "yield": "86%"
+        }
+      ]
+    },
+    {
+      "name": "4-(thiophen-2-yl)pyridine",
+      "synthesis_conditions": [
+        {
+          "temperature": "100 °C",
+          "solvents": [
+            {
+              "name": "toluene",
+              "amount": "75 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "triethylamine",
+              "amount": "2.15 mL"
+            },
+            {
+              "name": "4-bromopyridine hydrochloride",
+              "amount": "3.00g"
+            },
+            {
+              "name": "tetrakis(triphenylphosphine)palladium (0)",
+              "amount": "178.28 mg"
+            },
+            {
+              "name": "2-tri-n-butylstannylthiophene",
+              "amount": "5.39 mL"
+            }
+          ],
+          "time": "30 hours",
+          "yield": "90%"
+        }
+      ]
+    },
+    {
+      "name": "PDIz:H",
+      "synthesis_conditions": [
+        {
+          "temperature": "120 °C",
+          "solvents": [
+            {
+              "name": "DMF",
+              "amount": "100 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1,1,3,3-tetramethylguanidine",
+              "amount": "2.23 mL"
+            },
+            {
+              "name": "4a",
+              "amount": "100 mg"
+            }
+          ],
+          "time": "15 hours",
+          "yield": "18%"
+        }
+      ]
+    },
+    {
+      "name": "PDIz:OC6",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "1,2-dimethoxyethane",
+              "amount": "20 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "potassium hydroxide pellets",
+              "amount": "827.12 mg"
+            },
+            {
+              "name": "4b",
+              "amount": "71.00 mg"
+            }
+          ],
+          "time": "15 hours",
+          "yield": "50%"
+        }
+      ]
+    },
+    {
+      "name": "Th-PDIz:OC6",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "1,2-dimethoxyethane",
+              "amount": "125 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1,1,3,3-tetramethylguanidine",
+              "amount": "1.95 mL"
+            },
+            {
+              "name": "4c",
+              "amount": "175 mg"
+            }
+          ],
+          "time": "15 hours",
+          "yield": "39%"
+        }
+      ]
+    },
+    {
+      "name": "Sn-PDIz:OC12",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "1,2-dimethoxyethane",
+              "amount": "250 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "potassium hydroxide pellets",
+              "amount": "8.75 g"
+            },
+            {
+              "name": "4d",
+              "amount": "2.93 g"
+            }
+          ],
+          "time": "15 hours",
+          "yield": "31%"
+        }
+      ]
+    },
+    {
+      "name": "Sn-PDIz:O4EG",
+      "synthesis_conditions": [
+        {
+          "temperature": "80 °C",
+          "solvents": [
+            {
+              "name": "1,2-dimethoxyethane",
+              "amount": "100 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "1,1,3,3-tetramethylguanidine",
+              "amount": "8.58 mL"
+            },
+            {
+              "name": "4e",
+              "amount": "672 mg"
+            }
+          ],
+          "time": "15 hours",
+          "yield": "36%"
+        }
+      ]
+    },
+    {
+      "name": "Polymers P1-P5",
+      "synthesis_conditions": [
+        {
+          "temperature": "180 °C",
+          "solvents": [
+            {
+              "name": "p-xylene",
+              "amount": "5-10 mL"
+            }
+          ],
+          "chemicals_used": [
+            {
+              "name": "Sn-PDIz:OC12 or Sn-PDIz:O4EG",
+              "amount": "varies"
+            },
+            {
+              "name": "BBT-Br2, DPP-ThBr2, NDI-Br2, or 2,5-dibromothiophene",
+              "amount": "varies"
+            },
+            {
+              "name": "tetrakis(triphenylphosphine)palladium (0)",
+              "amount": "varies"
+            },
+            {
+              "name": "2-tributylstannylthiophene",
+              "amount": "0.1 mL"
+            },
+            {
+              "name": "bromobenzene",
+              "amount": "0.2 mL"
+            }
+          ],
+          "time": "180 min total",
+          "yield": "54-95%"
+        }
+      ]
+    }
+  ]
+}

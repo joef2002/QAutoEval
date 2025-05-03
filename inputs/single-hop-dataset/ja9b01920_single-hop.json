@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of Ru(cptpy)2?",
+      "answer": "C44 H28 N6 O4 Ru.C H4 N2 O, 5H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the crystallographic data for AUBM-4 collected?",
+      "answer": "296(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of Ru(cptpy)2?",
+      "answer": "Triclinic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the SEM image analysis confirm the homogeneity of the AUBM-4 crystals?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated band gap of AUBM-4 from the Tauc plot?",
+      "answer": "1.88 eV",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the BET surface area of AUBM-4 before the photocatalytic reaction higher than after?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main transition observed in the calculated spectra of AUBM-4 above 350 nm?",
+      "answer": "HOMO->LUMO(+40%)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Was methane detected as a product in the gas phase after 6 hours of irradiation?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of triethanolamine (TEOA) in the photocatalytic CO2 reduction?",
+      "answer": "Sacrificial agent",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What confirms the source of the obtained product HCOO- in the photocatalytic reaction?",
+      "answer": "13C NMR spectroscopy",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the function of the AM 1.5 filter in the photocatalytic reaction setup?",
+      "answer": "To simulate sunlight",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the photocatalytic activity of AUBM-4 decrease after four consecutive cycles?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using 13CO2 in the control of the reaction?",
+      "answer": "To verify the source of the obtained product HCOO-",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the photocatalytic reduction reaction most likely to take place at the cptpy center?",
+      "answer": "Yes",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of Zr in the AUBM-4 structure according to the DFT calculations?",
+      "answer": "To possibly coordinate CO2 facilitating the CT reaction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the photocatalytic product quantified by ion chromatography?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of acetonitrile (MeCN) in the photocatalytic setup?",
+      "answer": "Solvent",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the crystal structure of AUBM-4 contain two crystallographically independent molecules?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of AUBM-4?",
+      "answer": "C2/c",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated band gap from the TD-DFT of the AUBM-4 unit?",
+      "answer": "~2.3 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "SCU-9",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "chemicals_used": "UO2(HL)(H2O) (H3L = trimesic acid)",
+          "comments": "Uranyl–organic framework (MOF) with enhanced X-ray stopping power, high radiation, and hygroscopy hardness, and high light yield."
+        },
+        {
+          "step": "Stability",
+          "comments": "Stable after immersion into aqueous solution with pH ranging from 2 to 12. Maintains high crystallinity even with exposure under a high-energy radiation field with a received dose of up to 200 kGy (60Co gamma source)."
+        },
+        {
+          "step": "Luminescence Investigation",
+          "equipment": "X-ray diffractometer",
+          "comments": "Bright green emission observed when irradiated with X-rays, indicating SCU-9 is a self-activated scintillator based on intrinsic uranyl emission."
+        },
+        {
+          "step": "Quantum Yield Measurement",
+          "quantum_yield": "58%",
+          "comments": "1.6 times higher than that of uranyl nitrate hexahydrate, suggesting dense structure significantly restricts non-radiative relaxation pathways."
+        },
+        {
+          "step": "X-ray Excited Luminescence (XEL) Spectrum Collection",
+          "equipment": "Spectrometer embedded within a laboratory X-ray source",
+          "comments": "Peak position and shape of the XEL spectrum is identical to that of the UV/Vis emission spectrum, implying identical emission mechanism."
+        },
+        {
+          "step": "XEL Intensity Test",
+          "comments": "XEL intensity of SCU-9 shows a remarkable increase with increased X-ray power. Shows a linear response as a function of intensity, a desirable property for scintillation applications."
+        },
+        {
+          "step": "X-ray Attenuation Efficiency",
+          "density": "2.88 g cm^-3",
+          "comments": "SCU-9 has a notably shorter attenuation length in the energy region above 20 keV compared to CsI:Tl, implying higher X-ray attenuation efficiency."
+        },
+        {
+          "step": "Luminescence Stability Test",
+          "comments": "SCU-9 maintains 65% of its luminescence intensity after exposure with 53 Gy X-ray radiation, showing higher radiation hardness compared to CsI:Tl and uranyl nitrate salt."
+        },
+        {
+          "step": "Hygroscopy Hardness Test",
+          "comments": "SCU-9 maintains 80% luminescence intensity after being subjected to 95% relative humidity for 30 minutes, showing decent hygroscopy hardness."
+        }
+      ]
+    },
+    {
+      "name": "NaUBO-4",
+      "synthesis_conditions": [
+        {
+          "step": "General",
+          "chemicals_used": "Na[(UO2)B6O10-(OH)]·2 H2O",
+          "comments": "Inorganic uranyl borate compound. Even though the quantum yield of UV excited luminescence is close to 100%, its normalized XEL intensity is only one-third of that of SCU-9."
+        }
+      ]
+    }
+  ]
+}

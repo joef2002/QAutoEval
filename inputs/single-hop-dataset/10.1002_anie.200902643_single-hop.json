@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for ZnIm?",
+      "answer": "[Zn(C3H3N2)2]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what pressure does ZIF-8 undergo a phase transition?",
+      "answer": "1.47 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of ZIF-8 before the phase transition?",
+      "answer": "I4_132m",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to measure the pressure in the high-pressure study of ZIF-8?",
+      "answer": "The ruby fluorescence method",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of methanol and ethanol in the high-pressure study of ZIF-8?",
+      "answer": "They are used as a hydrostatic medium.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the pore volume of ZIF-8 at 1.47 GPa?",
+      "answer": "The pore volume increases due to the reorientation of the imidazolate ligands.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the increase in pore volume of ZIF-8 at high pressure significant?",
+      "answer": "Because it allows for more solvent to enter the nanopore and increases the size of the narrow channels, resulting in an overall increase in porous volume.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the application of pressure affect the solvent content in ZIF-8?",
+      "answer": "Applying pressure forces the hydrostatic medium into the pore, initially increasing the volume and solvent content.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the phase transition observed in ZIF-8 at high pressure?",
+      "answer": "The phase transition modifies the pore size, shape, and volume, and allows for an unexpected removal of guest solvent molecules without structural degradation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the crystal structure of ZIF-8 change at 1.47 GPa?",
+      "answer": "The imidazolate ligands twist, reorienting to increase the accessible pore volume.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of pressure on the total solvent molecules per unit cell in ZIF-8?",
+      "answer": "The number of solvent molecules per unit cell increases significantly at high pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the phase transition of ZIF-8 at high pressure reversible?",
+      "answer": "Yes, the transition was found to be reversible, and the crystal reverted back to phase I at lower pressure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: ZIF-8 contains no accessible pore volume.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study presents the first high-pressure study on a non-porous ZIF.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The transition of ZIF-8 to a high-pressure phase involves a decrease in pore volume.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The crystal structure of ZIF-8 does not change under high pressure.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The application of pressure can be used to insert larger molecules into the pores of ZIF-8.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The hydrostatic medium used in the experiment becomes nonhydrostatic at elevated pressures and can crush the sample.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The increase in cell volume of ZIF-8 at high pressure is a common response to increased pressure in materials.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The phase transition of ZIF-8 at high pressure results in a decrease in the total solvent molecules per unit cell.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

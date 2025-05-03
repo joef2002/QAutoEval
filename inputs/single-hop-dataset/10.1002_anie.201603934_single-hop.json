@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of tuning pore size in square-lattice coordination networks?",
+      "answer": "The main goal is for size-selective sieving of CO2.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What enables ultra-high selectivity for CO2 over N2 and CH4 in the material discussed?",
+      "answer": "Tuning of pore-size in a coordination network enables ultra-high selectivity for CO2 over N2 and CH4.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is Qc-5-Cu-sql-b stable to moisture?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the kinetic diameter of CO2 as mentioned in the text?",
+      "answer": "3.3 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does Qc-5-Cu-sql-b compare to Qc-5-Cu-sql-a in terms of CO2 adsorption at 293 K and 1 atm?",
+      "answer": "Qc-5-Cu-sql-b adsorbs moderate quantities of CO2 at 293 K and 1 atm, but little CH4 or N2 under the same conditions, suggesting a sieving effect.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the performance of Qc-5-Cu-sql-b in CO2 adsorption get affected by humidity?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the isosteric heat of adsorption (Qst) for Qc-5-Cu-sql-b?",
+      "answer": "36 kJ mol−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can Qc-5-Cu-sql-b revert back to Qc-5-Cu-sql-a after desolvation?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What phenomenon is exploited to control pore size in the material discussed?",
+      "answer": "Supramolecular isomerism is exploited to control pore size.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the CO2/N2 (SCN) and CO2/CH4 (SCM) selectivities for Qc-5-Cu-sql-b?",
+      "answer": "SCN is 40,000 and SCM is 3,300.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the phenomenon of supramolecular isomerism previously exploited for controlling pore size?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore size of Qc-5-Cu-sql-b?",
+      "answer": "3.3 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does Qc-5-Cu-sql-b exhibit a higher CO2 uptake than Qc-5-Cu-dia at 293 K and 1 bar?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of water vapor on the performance of Qc-5-Cu-sql-b?",
+      "answer": "The performance of Qc-5-Cu-sql-b is largely unaffected by the presence of water vapor.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the CO2/H2O selectivity (SCW) for Qc-5-Cu-sql-b?",
+      "answer": "1.35",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the carbon capture capacity of Qc-5-Cu-sql-b dependent on the gas mixture composition?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What future work is mentioned for Qc-5-Cu-sql-b?",
+      "answer": "Future work will focus on creating membranes from Qc-5-Cu-sql-b.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are 2D networks predisposed for membrane development?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of Qc-5-Cu-sql-b calculated from 195 K CO2 isotherm?",
+      "answer": "222 m2 g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does Qc-5-Cu-sql-b maintain structural integrity after exposure to 75% humidity at 40°C for 14 days?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of covalent post-synthetic modification in porous metal–organic frameworks?",
+      "answer": "To gain high-level synthetic control over functionality within porous metal–organic frameworks and generate new materials not accessible through one-step framework syntheses.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What effect does covalent post-synthetic modification have on the spin crossover framework?",
+      "answer": "It leads to a material with lowered spin-switching temperature, decreased lattice cooperativity, and altered color.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The modification reaction proceeds quantitatively by a thermally activated single-crystal-to-single-crystal transformation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the phenomenon of spin crossover (SCO) observed in certain transition-metal complexes?",
+      "answer": "A phenomenon where high-spin (HS) and low-spin (LS) states can be accessed within the one material by external perturbation such as temperature, pressure, or light.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the SCO framework [Fe(bipytz)(Au(CN)2)2] (1) change upon post-synthetic modification?",
+      "answer": "It converts to a closely related phase [Fe(bipydz)(Au(CN)2)2] (2) with markedly different SCO properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The post-synthetic modification of the SCO framework results in a loss of crystallinity.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the organic linker bipytz in the synthesis of the SCO framework?",
+      "answer": "Bipytz undergoes an inverse-electron-demand Diels–Alder reaction to form a new 3D Hofmann-type SCO framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What structural change is observed in the SCO framework upon cooling from the HS to the LS phase?",
+      "answer": "The average FeII bond lengths contract and the cis N-Fe-N angles approach 90 degrees to form a more regular octahedron.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Magnetic susceptibility measurements on the SCO framework reveal incomplete SCO with thermal hysteresis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the SCO behavior of the post-synthetically modified framework [Fe(bipydz)(Au(CN)2)2] (2) differ from the original?",
+      "answer": "It is less abrupt, occurs at a lower temperature, and is not detectably hysteretic.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The post-synthetic modification process is observed directly through a color change from purple to yellow.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the guest-exchanged PSM phase, 2’?",
+      "answer": "It indicates that the extent of conversion in the PSM process is high and showcases the effect of guest exchange on the SCO properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the SCO transition in the modified framework to be less abrupt compared to the original?",
+      "answer": "The presence of 2,5-norbornadiene rather than ethanol within the pores of the modified framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SCO transition temperature is solely determined by the electronic structure of the framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of ethanol exchange on the SCO properties of the modified framework?",
+      "answer": "It leads to a pronounced sharpening of the transition and restoration of thermal hysteretic behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The structure and magnetic characteristics of the PSM material are achievable through one-step synthesis using the pre-functionalized bipydz ligand.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What potential applications are suggested for SCO centers embedded within reactive frameworks?",
+      "answer": "They could act as sensors for covalent reactions, offering a highly selective route to guest-sensing.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the SCO framework accommodate guest molecules?",
+      "answer": "The framework houses large solvent-accessible channels along the a axis, allowing for guest adsorption.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The post-synthetic modification leads to a decrease in the number of ligand nitrogen atoms available for host–host interactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of aurophilic interactions in the SCO framework?",
+      "answer": "Aurophilic interactions between dicyanide linkers shorten upon transition to the LS state, contributing to the SCO behavior.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

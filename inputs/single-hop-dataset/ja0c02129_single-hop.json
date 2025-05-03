@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of using nanoscale metal-organic frameworks (nMOFs) in photodynamic therapy (PDT)?",
+      "answer": "nMOFs are used in PDT to stabilize photosensitizers, optimize PDT efficacy by fine-tuning ligands, reduce photodecomposition, and prevent self-quenching of photosensitizers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of reactive oxygen species (ROS) does Zr-TBB generate upon 740 nm light irradiation?",
+      "answer": "Zr-TBB generates superoxide anions, hydrogen peroxide, hydroxyl radicals, and singlet oxygen.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of H4TBB involves a solvent-free reduction of H4TBP with p-toluenesulfonyl hydrazide.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of geometrical constraint in the stabilization of TBB ligands within Zr-TBB?",
+      "answer": "Geometrical constraint prevents TBB ligands from undergoing structural changes before photooxidation can occur, enhancing photostability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the cure rate of Zr-TBB on mouse models of breast and colon cancers?",
+      "answer": "The cure rates are 40% for breast cancer and 60% for colon cancer.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Zr-TBB and H4TBB generate the same amount of ROS in vitro.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the photodecomposition quantum yield (Φpd) in the context of Zr-TBB and H4TBB?",
+      "answer": "The photodecomposition quantum yield indicates the stability of Zr-TBB and H4TBB under light irradiation, with lower Φpd values indicating higher photostability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of Zr-TBB involves a solvothermal reaction with ZrCl4, H4TBB, and formic acid.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does Zr-TBB mediate photodynamic therapy?",
+      "answer": "Zr-TBB mediates PDT via both type I and type II mechanisms by generating various ROS upon 740 nm light irradiation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photostability of Zr-TBB and H4TBB improves in oxygen-free conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of Zr-TBB on cellular uptake compared to H4TBB in 4T1 cells?",
+      "answer": "Zr-TBB shows much more efficient cellular uptake in 4T1 cells compared to H4TBB.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Zr-TBB exhibits significant dark toxicity in vitro.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IC50 value of Zr-TBB under normoxic conditions on 4T1 cells?",
+      "answer": "The IC50 value of Zr-TBB under normoxic conditions on 4T1 cells is 0.91 ± 0.77 μM.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: H4TBB shows higher cytotoxicity than Zr-TBB under hypoxic conditions.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the presence of Zr-TBB affect the generation of hydroxyl radicals from H2O2 in oxygen-free solutions?",
+      "answer": "Zr-TBB facilitates the generation of hydroxyl radicals from H2O2 in oxygen-free solutions, indicating its role in type I PDT.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: Zr-TBB and H4TBB have the same photodecomposition quantum yield (Φpd) values.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of density functional theory (DFT) calculations in the study of Zr-TBB and H4TBB?",
+      "answer": "DFT calculations help understand the energy profiles and mechanisms behind the photostability and ROS generation of Zr-TBB and H4TBB.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of H4TBB results in a 100% pure product without any impurities.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of Zr-TBB on immunogenic cell death compared to H4TBB?",
+      "answer": "Zr-TBB induces a more pronounced immunogenic cell death compared to H4TBB, as indicated by stronger calreticulin signals.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The in vivo antitumor efficacy of Zr-TBB is solely dependent on type II PDT mechanism.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "materials": [
+    {
+      "name": "CPM-74",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          "DMF",
+          "DBF",
+          "iPrOH",
+          "water"
+        ],
+        "solvent_amounts": {
+          "DMF": "2 g",
+          "DBF": "0.5 g",
+          "iPrOH": "0.5 g",
+          "water": "0.5 g"
+        },
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O",
+          "H3OBDC",
+          "TPAOH"
+        ],
+        "chemical_amounts": {
+          "Zn(NO3)2·6H2O": "30 mg",
+          "H3OBDC": "9.1 mg",
+          "TPAOH": "50 μL"
+        },
+        "time": "5 days",
+        "yield": "Based on TGA analysis, the guests in the pore account for around 20% of the total weight."
+      }
+    },
+    {
+      "name": "CPM-75",
+      "synthesis_conditions": {
+        "temperature": "120 ℃",
+        "solvents": [
+          "DMF",
+          "EtOH",
+          "water"
+        ],
+        "solvent_amounts": {
+          "DMF": "2.5 g",
+          "EtOH": "0.5 g",
+          "water": "0.5 g"
+        },
+        "chemicals_used": [
+          "Zn(NO3)2·6H2O",
+          "H3OBPDC",
+          "TPAOH"
+        ],
+        "chemical_amounts": {
+          "Zn(NO3)2·6H2O": "30 mg",
+          "H3OBPDC": "13.0 mg",
+          "TPAOH": "50 μL"
+        },
+        "time": "5 days",
+        "yield": "Not specified"
+      }
+    },
+    {
+      "name": "MOF-74",
+      "synthesis_conditions": {
+        "notes": "The synthesis and activation of MOF-74 followed the reported procedures."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound studied in the research?",
+      "answer": "[Rh(3,6-DBSQ-4,5-(MeO)2)(CO)2]∞",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the DSC measurement of the compound conducted?",
+      "answer": "10 K min−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of crystal system does the compound belong to?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the compound in the RT phase?",
+      "answer": "P21/n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the X-ray crystal structure analyses?",
+      "answer": "Single-crystal X-ray diffraction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the transition temperature T_N observed for the compound?",
+      "answer": "14.2 K",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical field H_c estimated from the magnetization measurements?",
+      "answer": "3.25 kOe",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the appearance of the out-of-phase signal χ” indicate?",
+      "answer": "The occurrence of spontaneous magnetization due to spin canting",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the compound characterized as a rhodium(I)–semiquinonato complex in both RT and LT phases?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit bistability with respect to its magnetic and conductive properties?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the electrical conductivity of the compound at 300 K relatively high despite Rh not being in a mixed-valence state?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound exhibit a giant negative magnetoresistance?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the ferromagnetic LT phase easily stabilized up to RT by applying a weak pressure of 1.4 kbar?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound undergo a phase transition to another phase under pressure higher than 3.6 kbar?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic interaction in the compound changed from antiferromagnetic to strongly ferromagnetic upon shrinkage of the 1D chain?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy E_a in the RT phase of the compound?",
+      "answer": "88 meV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the presence of unusually elongated thermal ellipsoids of rhodium and its neighboring coordinated atoms in the RT phase suggest?",
+      "answer": "Large-amplitude vibrations of these atoms in 1D chain direction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main feature of the electronic absorption spectra of the compound?",
+      "answer": "An intense broad electronic absorption ranging from the NIR to the mid-IR region",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What does the linear part in the semilogarithmic plots of χT vs T−1 between 84 and 52 K indicate?",
+      "answer": "An anisotropic Heisenberg or Ising-like 1D behavior",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound exhibit a small magnetic hysteresis loop with a coercive field of 255 Oe at 2 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

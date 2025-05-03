@@ -1,0 +1,129 @@
+{
+  "materials": [
+    {
+      "name": "Methyl 4-(4-(methoxycarbonyl)-phenyl)picolinate (1)",
+      "synthesis_conditions": {
+        "temperature": "reflux",
+        "solvents": [
+          {
+            "name": "DME",
+            "amount": "20 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Methyl 4-chloropicolinate",
+            "amount": "0.5 g, 2.9 mmol"
+          },
+          {
+            "name": "4-methoxycarbonylphenylboronic acid",
+            "amount": "0.63 g, 3.5 mmol"
+          },
+          {
+            "name": "Pd(OAc)2",
+            "amount": "33 mg, 0.145 mmol"
+          },
+          {
+            "name": "CsF",
+            "amount": "1.1 g, 7.25 mmol"
+          },
+          {
+            "name": "tri(o-tolyl)phosphine",
+            "amount": "44 mg, 0.145 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "38%"
+      }
+    },
+    {
+      "name": "4-(4-carboxyphenyl)picolinic acid (2)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvents": [
+          {
+            "name": "THF:MeOH",
+            "amount": "1:1, 10 mL"
+          },
+          {
+            "name": "5 M KOH",
+            "amount": "5.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Compound 1",
+            "amount": "0.3 g, 1.1 mmol"
+          }
+        ],
+        "time": "24 h",
+        "yield": "70%"
+      }
+    },
+    {
+      "name": "As-synthesized Mg-CUK-1L",
+      "synthesis_conditions": {
+        "temperature": "240 °C",
+        "solvents": [
+          {
+            "name": "H2O",
+            "amount": "5.0 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Hydronium salt 2",
+            "amount": "28 mg, 0.1 mmol"
+          },
+          {
+            "name": "KOH (1.0 M)",
+            "amount": "0.3 mL"
+          },
+          {
+            "name": "Mg(NO3)2 hydrate",
+            "amount": "38 mg, 0.15 mmol"
+          }
+        ],
+        "time": "15 h",
+        "yield": "Avg. 10 mg"
+      }
+    },
+    {
+      "name": "Mg-CUK-1L⊂3(o-xylene)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [
+          {
+            "name": "o-xylene",
+            "amount": "0.1 mL"
+          }
+        ],
+        "chemicals_used": [
+          {
+            "name": "Dehydrated Mg-CUK-1L",
+            "amount": "10 mg"
+          }
+        ],
+        "time": "72 h"
+      }
+    },
+    {
+      "name": "Mg-CUK-1L⊂2(trans-AzB)",
+      "synthesis_conditions": {
+        "temperature": "80 °C",
+        "solvents": [],
+        "chemicals_used": [
+          {
+            "name": "Dehydrated Mg-CUK-1L",
+            "amount": "10 mg"
+          },
+          {
+            "name": "trans-azobenzene",
+            "amount": "30 mg"
+          }
+        ],
+        "time": "72 h"
+      }
+    }
+  ]
+}

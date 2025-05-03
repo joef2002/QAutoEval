@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of constructing C2H2 anchoring traps within MOF interpenetration nets?",
+      "answer": "The main purpose is for efficient separation of C2H2/CO2 and C2H2/C2H4 in industrial processes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to calculate the coverage-dependent adsorption enthalpies (Qst) of C2H2, CO2, and CH4?",
+      "answer": "The Clausius–Clapeyron equation was used to calculate the coverage-dependent adsorption enthalpies (Qst).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What theory is used to predict selectivities of equimolar binary C2H2/CO2, C2H2/C2H4 and C3H6/C3H8 at 298 K?",
+      "answer": "The Ideal Adsorbed Solution Theory (IAST) is used to predict selectivities.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the BET surface area of UPC-80 calculated?",
+      "answer": "The BET surface area of UPC-80 was calculated using the Brunauer-Emmett-Teller method based on N2 adsorption data at 77 K.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the yield of 1,4-bis(5-carboxy-1H-benzimidazole-2yl)benzene (H2bcbb) synthesis?",
+      "answer": "The yield of H2bcbb synthesis is 82%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What computational methods were used for GCMC and DFT simulations in the study?",
+      "answer": "GCMC simulations were performed using multipurpose simulation code, and DFT calculations were carried out using the Dmol3 module with GGA and PBE for exchange-correlation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: UPC-80 exhibits high C2H2 adsorption capacity at 298 K.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the radial distribution functions g(r) in the study?",
+      "answer": "The radial distribution functions g(r) represent the density distribution of characteristic atoms of adsorbate molecules around a given atom within the adsorbent framework, helping to understand the adsorption behaviors.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The pore size distribution of UPC-80 mainly ranges from 13 to 18 Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the breakthrough experiments performed at 298 K and 1 bar?",
+      "answer": "The breakthrough experiments evaluate the binary gas mixtures separation performances of UPC-80 in real adsorption processes, demonstrating its potential for industrial applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

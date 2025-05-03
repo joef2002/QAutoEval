@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the general procedure for complex formation in the synthesis of lanthanide complexes?",
+      "answer": "Under argon, a solution of TREN-1,2-HOIQO (1.0 equiv) in MeOH was treated with solid LnCl3·6H2O (1.0 equiv) or LnCl3 (anhydrous) (1.0 equiv), followed by pyridine and heated to reflux overnight. The resulting fine suspension was cooled to ambient temperature, the precipitate was collected on a filter and washed with MeOH. After drying in vacuo at 50 °C (bath temp) for 6 h, the lanthanide complexes [Ln(TREN-1,2-HOIQO)(H2O)]·xMeOH·yH2O were obtained in analytically pure form as powders that were soluble in DMF, DMSO, and, only sparingly, in MeOH.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of pyridine in the synthesis of lanthanide complexes?",
+      "answer": "Pyridine acts as the base in the synthesis of lanthanide complexes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How are single crystals of the resultant lanthanide complexes grown?",
+      "answer": "Single crystals of the resultant lanthanide complexes were grown by diffusion of water into solutions of the complexes in DMF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the quadratic decrease observed in the sum of all distances Ln−X (X = N, O) in complexes with multidentate ligands?",
+      "answer": "The quadratic decrease observed in the sum of all distances Ln−X (X = N, O) in complexes with multidentate ligands provides a rational analysis and prediction of the geometric features of multidentate ligands for the chelation of rare-earth metals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the average decrease in Ln−O bond lengths from La to Lu in [Ln(TREN-1,2-HOIQO)(H2O)] complexes?",
+      "answer": "The average decrease in Ln−O bond lengths from La to Lu in [Ln(TREN-1,2-HOIQO)(H2O)] complexes is approximately 7−8%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using an empirical absorption correction in X-ray analysis?",
+      "answer": "The purpose of using an empirical absorption correction in X-ray analysis is to correct for the effects of absorption by the sample, ensuring accurate measurement of the crystal structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are hydrogen atoms of water molecules not refined in the crystal structure determination?",
+      "answer": "The hydrogen atoms of water molecules are not refined in the crystal structure determination because their positions cannot be unambiguously assigned due to their small size and high mobility.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of DMF in the crystallization process of lanthanide complexes?",
+      "answer": "DMF acts as a solvent in the crystallization process of lanthanide complexes, facilitating the growth of single crystals by diffusion of water into the DMF solutions of the complexes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How does the lanthanide contraction affect the geometry of lanthanide complexes with multidentate ligands?",
+      "answer": "The lanthanide contraction results in a decrease in the size of the lanthanide ions from La to Lu, which leads to a quadratic decrease in the sum of all bond lengths Ln−X (X = N, O) and affects the geometry of the complexes by causing variations in individual bond lengths and distances within the coordination sphere.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the shape measure SMGd in the analysis of lanthanide complexes?",
+      "answer": "The shape measure SMGd quantifies the deviation of the geometry of lanthanide complexes from the ideal trigonal-dodecahedral geometry, providing insights into the structural changes across the lanthanide series due to the lanthanide contraction.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

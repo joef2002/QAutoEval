@@ -1,0 +1,131 @@
+s a multi-hop Q&A dataset in JSON format for the given text:
+
+{
+  "questions": [
+    {
+      "question": "What is the chemical formula of FJI-H14?",
+      "answer": "The chemical formula of FJI-H14 is [Cu(BTTA)H2O]n·6nH2O.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the crystal system and space group of FJI-H14?",
+      "answer": "FJI-H14 crystallizes in the trigonal crystal system with space group R-3.",
+      "type": "factual", 
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the coordination environment of the Cu(II) center in FJI-H14?",
+      "answer": "Each Cu(II) ion in FJI-H14 has a square-pyramidal coordination geometry, surrounded by two imine N atoms from two different 1,2,4-triazole groups and two O atoms from two different carboxylate groups in the equatorial plane, together with one O atom of the water molecule in the vertex.",
+      "type": "factual",
+      "difficulty": "medium" 
+    },
+    {
+      "question": "What is the topology of the FJI-H14 framework?",
+      "answer": "Topologically, the Cu(II) ion is a planar 4-connected node, further linked by four tetradentate BTTA2− ligands into a three-dimensional network with Kagome-like USF topology.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the pore limiting diameter and maximum pore diameter of FJI-H14?",
+      "answer": "The pore limiting diameter and the maximum pore diameter predicted by the program Poreblazer for the fully evacuated FJI-H14 are 5.95 and 7.62 Å, respectively.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the theoretical porosity of evacuated FJI-H14 according to PLATON calculations?",
+      "answer": "The evacuated FJI-H14 has a theoretical porosity of 44.4% according to PLATON calculations with a probe radius of 1.65 Å.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Is FJI-H14 stable in boiling water and acid/base environments?",
+      "answer": "Yes, PXRD analyses reveal that FJI-H14 is very stable not only in boiling water but also in both acid and base environments at pH = 2 to pH = 12 and at temperatures as high as 373 K.",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Up to what temperature is FJI-H14 thermally stable according to TGA and temperature-dependent PXRD studies?",
+      "answer": "TGA studies indicate that the as-synthesized FJI-H14 sample is thermally stable up to 230 °C, and this is confirmed by temperature-dependent PXRD studies.",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Why does FJI-H14 show much lower N2 adsorption at 77 K compared to CO2 adsorption at 195 K?",
+      "answer": "The much lower N2 adsorption at 77 K of FJI-H14 may be a consequence of the relatively narrow pores in FJI-H14 being easily blocked by the relatively large N2 molecule at 77 K, so hindering further diffusion of N2 into the framework of FJI-H14.",
+      "type": "reasoning",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the BET specific surface area and Langmuir specific surface area of FJI-H14 calculated from the CO2 isotherm?",
+      "answer": "The BET specific surface area of FJI-H14 is calculated to be 904 m2 g−1 and its Langmuir specific surface area is 1004 m2 g−1 based on the CO2 isotherm.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How does the volumetric CO2 uptake of FJI-H14 at 298 K and 1 atm compare to other well-known MOFs?",
+      "answer": "The volumetric CO2 uptake of FJI-H14 (171 cm3 cm−3) at 298 K and 1 atm exceeds that of almost all well-known MOFs such as Mg-MOF-74, UTSA-16, SIFSIX-2-Cu-i, MPM-1-TIFSIX, Bio-MOF-11, Cu-tdpat and Mmen−CuBTTri under the same conditions, and is only lower than MAF-X25ox, MAF-X27ox and Co2(dobdc).",
+      "type": "reasoning",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is unusual about the isosteric heat of adsorption (Qst) trend for CO2 in FJI-H14?",
+      "answer": "The Qst for CO2 in FJI-H14 has an increasing slope with loading, which is unusual and reveals the possible formation of CO2 clusters inside the pores.",
+      "type": "reasoning",
+      "difficulty": "hard" 
+    },
+    {
+      "question": "What is the CO2/N2 selectivity of FJI-H14 for a 15/85 CO2/N2 mixture at 1 atm and 298 K based on IAST?",
+      "answer": "By the ideal adsorbed solution theory (IAST), the CO2/N2 selectivity for the 15/85 CO2/N2 mixture at 1 atm is calculated to be 51 at 298 K.",
+      "type": "factual",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Can FJI-H14 be reused for CO2 adsorption without losing capacity?",
+      "answer": "Yes, even after five cycles, FJI-H14 still maintains 100% CO2 adsorption capacity, indicating that it is highly suitable for CO2 capture and can be reused without losing adsorption capacity.",
+      "type": "reasoning",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What are the three typical preferential CO2 adsorption sites in FJI-H14 identified by GCMC simulations and DFT calculations?",
+      "answer": "Site I shows that CO2 molecules prefer to coordinate with open Cu(II) ions. In Site II, the O atoms of carboxyl groups could interact as Lewis bases with CO2. In Site III, positively charged H atoms could further promote CO2 adsorption.",
+      "type": "factual",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What causes the increasing Qst trend for CO2 adsorption in FJI-H14 based on GCMC simulations?",
+      "answer": "GCMC simulations show that the contribution from the CO2···CO2 interactions to the total Qst increases significantly with loading, indicating the formation of CO2 clusters inside the pores, which leads to the increasing Qst trend.",
+      "type": "reasoning", 
+      "difficulty": "hard"
+    },
+    {
+      "question": "FJI-H14 has a higher total concentration of active Cu(II) open metal sites and free N Lewis basic sites compared to many other MOFs known for CO2 capture.",
+      "answer": "True. FJI-H14 has a total concentration of active sites as high as 9.22 mol l−1 (3.07 mol l−1 Cu(II) open metal sites and 6.15 mol l−1 free N Lewis basic sites), which is higher than in many well-known MOFs for CO2 capture.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The framework of FJI-H14 collapses when immersed in solution at pH 1 or pH 13 for 24 hours.",
+      "answer": "True. The PXRD patterns show that the framework of FJI-H14 collapses when it is immersed for 24 h in solution at pH = 1 or pH = 13.",
+      "type": "true_false",
+      "difficulty": "easy" 
+    },
+    {
+      "question": "The gravimetric CO2 uptake of FJI-H14 is higher than that of Mg-MOF-74 at 298 K and 1 atm.",
+      "answer": "False. Although the volumetric CO2 uptake of FJI-H14 is higher than Mg-MOF-74, the gravimetric CO2 uptake of FJI-H14 (146 cm3 g−1) is lower than that of Mg-MOF-74 (176 cm3 g−1) due to the considerably lighter weight of Mg.",
+      "type": "true_false",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In situ FTIR spectra confirm that CO2 molecules tend to stack around the open Cu(II) sites in FJI-H14.",
+      "answer": "True. The stronger absorption bands at 2,340 cm−1 and 2,328 cm−1 in the in situ FTIR spectra indicate that CO2 molecules tend to stack around the open Cu(II) sites, which is in accord with the theoretical calculations.",
+      "type": "true_false",
+      "difficulty": "hard"
+    },
+    {
+      "question": "FJI-H14 can be synthesized on a large scale of 10 grams with high yield and purity.",
+      "answer": "True. By directly mixing H2BTTA ligand and Cu(NO3)2 in water and then refluxing for 1 day, microcrystalline FJI-H14 can be obtained with a high yield of 90%, and its purity is confirmed by PXRD analysis. Macroscopic samples of FJI-H14 even on a 10 g scale can be readily synthesized by this method.",
+      "type": "true_false",
+      "difficulty": "easy"
+    }
+  ]

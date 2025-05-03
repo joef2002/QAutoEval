@@ -1,0 +1,119 @@
+{
+  "PCN-521": {
+    "temperature": "120 8C",
+    "solvents": [
+      {
+        "name": "N,N'-diethylformamide (DEF)",
+        "amount": "8.5 mL"
+      }
+    ],
+    "equipment": "20 mL Pyrex vial",
+    "chemicals_used": [
+      {
+        "name": "ZrCl4",
+        "amount": "60 mg"
+      },
+      {
+        "name": "H4L",
+        "amount": "50 mg"
+      },
+      {
+        "name": "benzoic acid",
+        "amount": "1750 mg"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "filtration",
+    "drying_method": "air drying",
+    "yield": "45 mg, 64 %",
+    "FTIR": [
+      "3570 (w)",
+      "3520 (m)",
+      "2340 (m)",
+      "2313 (s)",
+      "1674 (m)",
+      "1508 (s)",
+      "1396 (s)",
+      "789 (m)",
+      "725 cm-1 (m)"
+    ],
+    "crystal_data": {
+      "formula": "C106H64O32Zr6",
+      "Mr": "2396.89",
+      "space_group": "tetragonal, space group I4/m",
+      "dimensions": {
+        "a": "19.936(4)",
+        "b": "19.936(4)",
+        "c": "42.251(8) Å",
+        "V": "16 792(6) Å3",
+        "Z": "2"
+      },
+      "reflections": {
+        "total": "87 257",
+        "unique": "8387",
+        "Rint": "0.1048",
+        "GOF": "1.003",
+        "R1[F0>4s(F0)]": "0.1002",
+        "wR2[all data]": "0.2489"
+      }
+    }
+  },
+  "PCN-523": {
+    "temperature": "120 8C",
+    "solvents": [
+      {
+        "name": "N,N'-diethylformamide (DEF)",
+        "amount": "8.5 mL"
+      }
+    ],
+    "equipment": "20 mL Pyrex vial",
+    "chemicals_used": [
+      {
+        "name": "HfCl4",
+        "amount": "75 mg"
+      },
+      {
+        "name": "H4L",
+        "amount": "50 mg"
+      },
+      {
+        "name": "benzoic acid",
+        "amount": "1750 mg"
+      }
+    ],
+    "time": "24 h",
+    "washing_method": "filtration",
+    "drying_method": "air drying",
+    "yield": "53 mg, 58 %",
+    "FTIR": [
+      "3500 (w)",
+      "2334 (m)",
+      "2295 (s)",
+      "1614 (s)",
+      "1504 (m)",
+      "1373 (m)",
+      "793 (m)",
+      "752 cm-1 (m)"
+    ],
+    "crystal_data": {
+      "formula": "C106H64O32Hf6",
+      "Mr": "2920.51",
+      "space_group": "tetragonal, space group I4/m",
+      "dimensions": {
+        "a": "21.04(2)",
+        "b": "21.04(2)",
+        "c": "40.18(4) Å",
+        "V": "17 784(31) Å3",
+        "Z": "2"
+      },
+      "reflections": {
+        "total": "94 860",
+        "unique": "8873",
+        "Rint": "0.0705",
+        "GOF": "1.004",
+        "R1[F0>4s(F0)]": "0.0777",
+        "wR2[all data]": "0.1740"
+      }
+    }
+  }
+}

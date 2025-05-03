@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the ionic radius of Cd2+ as mentioned in the text?",
+      "answer": "0.96 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which metal ions cause a significant CHEF effect with DPP?",
+      "answer": "Cd2+, Ca2+, and Na+",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does Zn2+ exhibit a CHEF effect with DPP?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the coordination number of Cd(II) in the complex [Cd(DPP)2](ClO4)2?",
+      "answer": "8-coordinate",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can DPP detect Cd2+ concentrations down to 10-9 M?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the log K1 value for the Cd(II)/DPP complex?",
+      "answer": "12.2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the DPP ligand planar when coordinated to metal ions?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is traditionally used for detecting low levels of Cd2+ in the environment?",
+      "answer": "Anodic stripping voltammetry",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the detection limit of anodic stripping voltammetry for Cd2+?",
+      "answer": "Approximately 10-12 M",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the structure of [Cd(DPP)2]2+ show that DPP ligands are twisted?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the high thermodynamic stability of DPP complexes with metal ions?",
+      "answer": "The rigidity of the five-membered chelate rings formed by DPP",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of 10-6 M Zn2+, Hg2+, and Pb2+ significantly affect the fluorescence of 10-8 M DPP?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of Ca2+ on the CHEF sensing of Cd2+ in seawater?",
+      "answer": "Ca2+ at 10-3 M concentration in seawater can interfere with the detection of Cd2+ by DPP",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the proposed method to eliminate interference from Ca2+ in seawater when detecting Cd2+ using DPP?",
+      "answer": "Using masking ligands such as nitrilotriacetic acid (NTA)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the potential improvement of using DPP to detect Cd2+ compared to traditional methods?",
+      "answer": "DPP could reliably be used to detect Cd2+ by the CHEF effect down to a concentration of 10-9 M",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the DPP ligand capable of hydrogen bonding with the solvent when coordinated to a metal ion?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the extended aromatic system of DPP in its complexes?",
+      "answer": "It provides an excellent combination of coordinating groups and fluorophores",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the structure of [Hg(DPP)(ClO4)2] show that Hg is 8-coordinate?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum coordination number found for Hg(II) in the Cambridge Crystallographic Data Centre?",
+      "answer": "Eight",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of the rigidity of the phen moiety of DPP on the CHEF effect for Zn(II)?",
+      "answer": "The rigidity leads to very long Zn−N bonds, limiting overlap and allowing the lone pairs to still quench the fluorescence of the aromatic system",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

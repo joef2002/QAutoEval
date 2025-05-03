@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the cubane clusters mentioned in the text?",
+      "answer": "[M4(OH)4]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of CTGU-15?",
+      "answer": "3537 m2 g@1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two metals mentioned that can form the cubane clusters in MOFs?",
+      "answer": "Ni and Co",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the optimal hybrid catalyst composition for methanol oxidation mentioned in the text?",
+      "answer": "KB&CTGU-15 (1:2)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the peak current density of the optimal hybrid catalyst at low potential?",
+      "answer": "29.8 mA cm@2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using ketjen black (KB) in the hybrid catalyst?",
+      "answer": "To enhance the efficiency of the methanol oxidation reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are Ni-based nanomaterials considered promising candidates for electrochemical MOR?",
+      "answer": "Due to their potential as efficient, durable, and inexpensive alternatives to Pt-based catalysts",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the pore-space partition feature of CTGU-15 contribute to its application in electrocatalysis?",
+      "answer": "It facilitates the adsorption/diffusion of reaction species, enhancing electrocatalytic activity",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the [Ni4(OH)4] cluster play in the structure of CTGU-15?",
+      "answer": "It acts as a building unit, linking with TATB ligands to generate a porous net",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the integration of cubane [M4(OH)4] clusters into MOFs significant?",
+      "answer": "It offers a method to enhance materials properties, especially for electrocatalytic applications",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of methanol concentration on the MOR performance of CTGU-15?",
+      "answer": "The peak current density increases linearly with methanol concentration up to a certain point, indicating diffusion of reaction species plays a vital role",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the double-ligand pore-space partition mode benefit CTGU-15?",
+      "answer": "It provides high stability, which is desirable for electrocatalytic applications",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is CTGU-15 stable under high pH conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does CTGU-15 exhibit bi-microporous features?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the peak current density of CTGU-15 higher than that of CPM-33a for methanol oxidation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the [Ni4(OH)4] clusters in CTGU-15 linked by TATB ligands to form a non-porous structure?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the MOR performance of CTGU-15 independent of methanol concentration?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the integration of CTGU-15 and ketjen black generate MOF-based composites that are ineffective as electrocatalysts for methanol oxidation?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the charge transfer resistance of KB&CTGU-15(1:2) higher than that of pure CTGU-15?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the cubane [M4(OH)4] cluster-based porous MOFs as an anode electrocatalyst for MOR have been extensively studied?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

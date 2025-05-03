@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of integrating an organic thermally activated delayed fluorescence photosensitizer into a metal-organic framework?",
+      "answer": "To enhance the lifetime of the excited state and enable efficient CO2 photoreduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the energy gap (△E_ST) being as low as 0.02 eV between S1 state and T1 state in SATC?",
+      "answer": "It indicates efficient reversible intersystem crossing (RISC) process, enhancing the utilization efficiency of excitons.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why is the synthesis of Spiro-Zn-MOF considered efficient?",
+      "answer": "Because it realizes a quick and efficient synthetic route for the crystalline earth-abundant photocatalyst through a single-step self-assembly.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of benzoic acid in the synthesis of Spiro-Zn-MOF?",
+      "answer": "Benzoic acid is added to modulate the crystal growth and increase the crystallinity of Spiro-Zn-MOF.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the photocatalytic performance of Spiro-Zn-MOF compare to that of MOF-5 and TiO2 (P25)?",
+      "answer": "Spiro-Zn-MOF exhibits a higher photocatalytic efficiency of CO2 photoreduction than both MOF-5 and TiO2 (P25) under the same conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What evidence supports the synergistic effect in Spiro-Zn-MOF as an integrated photocatalyst?",
+      "answer": "The high photocatalytic efficiency of Spiro-Zn-MOF in CO2 photoreduction, which is not observed in the pure linker, zinc nitrate, or their physical mixture.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The organic linker in Spiro-Zn-MOF serves as the TADF photosensitizer.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The delayed lifetime of TADF property in Spiro-Zn-MOF is lost under various atmospheres.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the EPR signal at g=1.962 under illumination by Xe lamp indicate in Spiro-Zn-MOF?",
+      "answer": "It indicates the formation of zinc radical, demonstrating the metal site as the reaction core of the photocatalyst.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: Spiro-Zn-MOF requires sacrificial agents for CO2 photoreduction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the horizontally oriented D-A structure in Spiro-Zn-MOF?",
+      "answer": "It provides a convenient path for charge transfer, enhancing the internal charge transfer efficiency.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic performance of Spiro-Zn-MOF is superior to that of classical MOF photocatalysts and TiO2 (P25) in CO2 photoreduction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the photocurrent test of Spiro-Zn-MOF compare to that of MOF-5?",
+      "answer": "Spiro-Zn-MOF exhibits a much higher photocathode current response than MOF-5 under irradiation by Xe lamp.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of Spiro-Zn-MOF involves postsynthetic modification to graft noble metal-catalyst to linkers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using Spiro-Zn-MOF over noble metal photocatalysts?",
+      "answer": "Spiro-Zn-MOF offers a favorable long-lived excited state, low cost, strong oxidation with water, and a synergistic effect in CO2 photoreduction without using precious metals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The delayed lifetime of TADF property in Spiro-Zn-MOF is significantly reduced under air and CO2 atmospheres.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a new EPR signal under illumination indicate about Spiro-Zn-MOF?",
+      "answer": "It indicates the photogenerated electrons transferred from excited SATC to the Zn sites, forming zinc radical.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic efficiency of Spiro-Zn-MOF decreases significantly after three cycles of CO2 photoreduction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in integrating photosensitizers into MOF structures?",
+      "answer": "The difficulty in building symmetrical TADF unit and maintaining high photostability in catalytic environments.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The organic linker in Spiro-Zn-MOF does not contribute to the TADF property of the framework.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

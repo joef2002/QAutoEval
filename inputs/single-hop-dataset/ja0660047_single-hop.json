@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the synthesized coordination polymer?",
+      "answer": "C28H30N6O6Zn",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What crystal system does the synthesized coordination polymer belong to?",
+      "answer": "tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the synthesized coordination polymer?",
+      "answer": "P4/ncc (#130)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the guest molecules in the synthesized coordination polymer be exchanged?",
+      "answer": "Yes, the guests in the synthesized coordination polymer can be reversibly exchanged.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the synthesized coordination polymer upon guest removal?",
+      "answer": "The framework irreversibly collapses and changes to another crystal phase upon guest removal.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TCNQ in the synthesized coordination polymer?",
+      "answer": "TCNQ acts as a redox active module, providing strong donor sites on the pore surface.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the bond lengths of TCNQ in the synthesized coordination polymer?",
+      "answer": "The bond lengths of TCNQ indicate its charged state, which is crucial for the polymer's properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesized coordination polymer stable to guest removal?",
+      "answer": "No, the synthesized coordination polymer is unstable to guest removal.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What changes occur in the synthesized coordination polymer upon immersion into benzene?",
+      "answer": "The color of the crystal changes, indicating a guest-induced crystal-to-crystal transformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the void space percentage of the synthesized coordination polymer?",
+      "answer": "The void space is about 50.7%, considering the van der Waals radii of the constituting atoms.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesized coordination polymer possess permanent porosity?",
+      "answer": "No, the compound does not possess permanent porosity characterized by sorption measurement.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of 4,4'-bipyridine (bpy) in the synthesized coordination polymer?",
+      "answer": "The bpy ligands act as pillars, linking Zn ions in adjacent layers to form a 3D pillared layer structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the estimated charge number of TCNQ in the synthesized coordination polymer?",
+      "answer": "The charge number of TCNQ is estimated to be -2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the method used for the synthesis of the coordination polymer?",
+      "answer": "The synthesis involved reacting Zn(NO3)2·6H2O with LiTCNQ and bpy in MeOH.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the infrared νCN stretching frequencies of TCNQ?",
+      "answer": "The νCN stretching frequencies indicate the oxidation states of TCNQ molecules in the polymer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest exchange in the synthesized coordination polymer reversible?",
+      "answer": "Yes, the guest exchange is reversible upon removal/accommodation of the guests.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest inclusion on the crystal structure of the synthesized coordination polymer?",
+      "answer": "Guest inclusion leads to marked changes in the crystal structure, including a guest-induced crystal-to-crystal transformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of Zn ions in the synthesized coordination polymer?",
+      "answer": "Zn ions are octahedrally coordinated to the cyanide nitrogen atoms of TCNQ and the nitrogen atoms of the bpy, linking TCNQ molecules to form a 2D corrugated layer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of incorporating TCNQ directly into the pore walls of the polymer?",
+      "answer": "Incorporating TCNQ into the pore walls is predicted to facilitate charge transfer interactions between the host framework and guest molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the crystal-to-crystal transformation observed in the synthesized coordination polymer?",
+      "answer": "The crystal-to-crystal transformation signifies the accommodation of guest molecules into the polymer with a dilatation of the channels, maintaining the pore size by pillaring the layer on a host-guest interaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula for K0.74Fe2(bdp)3(O2)1.1?",
+      "answer": "C36H24N12Fe2K0.74O2.2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature were the crystallographic data for K0.74Fe2(bdp)3(O2)1.1 and Na1.2Fe2(bdp)3(O2)1.15 collected?",
+      "answer": "100 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of K0.74Fe2(bdp)3(O2)1.1?",
+      "answer": "Orthorhombic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of Na1.2Fe2(bdp)3(O2)1.15?",
+      "answer": "Fddd",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume of the unit cell for K0.74Fe2(bdp)3(O2)1.1?",
+      "answer": "8421.3(6) Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How many reflections were collected for Na1.2Fe2(bdp)3(O2)1.15?",
+      "answer": "31866",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I > 2σ(I)) for K0.74Fe2(bdp)3(O2)1.1?",
+      "answer": "R1 = 0.0566, wR2 = 0.1473",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the largest difference peak and hole for Na1.2Fe2(bdp)3(O2)1.15?",
+      "answer": "1.090, -0.898 e∙Å−3",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal system for both K0.74Fe2(bdp)3(O2)1.1 and Na1.2Fe2(bdp)3(O2)1.15 the same?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the space group Fddd apply to both K0.74Fe2(bdp)3(O2)1.1 and Na1.2Fe2(bdp)3(O2)1.15?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the volume of the unit cell for Na1.2Fe2(bdp)3(O2)1.15 larger than that for K0.74Fe2(bdp)3(O2)1.1?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the final R indices for K0.74Fe2(bdp)3(O2)1.1 and Na1.2Fe2(bdp)3(O2)1.15 identical?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the number of reflections collected for K0.74Fe2(bdp)3(O2)1.1 less than for Na1.2Fe2(bdp)3(O2)1.15?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the density calculated for K0.74Fe2(bdp)3(O2)1.1 higher than that for Na1.2Fe2(bdp)3(O2)1.15?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal size for K0.74Fe2(bdp)3(O2)1.1 exceed that for Na1.2Fe2(bdp)3(O2)1.15?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the reason for the high isosteric heat values calculated for O2 adsorption in K1.09Fe2(bdp)3?",
+      "answer": "The high isosteric heat values indicate a strong interaction of the material with O2, supporting a high selectivity for O2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why were the 17O NMR experiments unable to detect any signal from the 17O2-dosed MOF sample?",
+      "answer": "The absence of detected signal is consistent with paramagnetic superoxide, due to the extremely large and broad signal expected from unpaired electron density centered directly on the 17O nuclear position.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the selectivity factor calculated using IAST not fully representative of the material's selectivity for O2 over N2?",
+      "answer": "The selectivity factor calculated using IAST does not fully represent the material's selectivity for O2 because it does not account for the strong chemisorption of O2 compared to the weak physisorption of N2, and it is hindered by the material's kinetic limitations at room temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why does the material's O2 adsorption capacity increase at higher temperatures?",
+      "answer": "The increase in O2 adsorption capacity at higher temperatures is likely due to overcoming kinetic limitations, such as restricted movement of cations or sluggish rearrangement of reduced O2 species, allowing for more O2 to be adsorbed.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What challenges are associated with calculating the isosteric heat of O2 adsorption in K1.09Fe2(bdp)3?",
+      "answer": "Challenges include the material's kinetic limitations at room temperature, which hinder the extraction of true thermodynamic quantities, and unavoidable temperature variation during high-temperature isotherm measurements, which may introduce significant error.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

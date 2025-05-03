@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of using metal-organic frameworks (MOFs) in the context of the study?",
+      "answer": "The main purpose of using MOFs is to control polymerization reactions by acting as porous templates that capture highly-reactive intermediates for a better understanding of the mechanism of polymerization reactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What specific MOF is used to control the reactivity of pyrrole monomers?",
+      "answer": "A cyclodextrin MOF, specifically Rb-CD-MOF (or CD-MOF-2), is used to control the reactivity of pyrrole monomers.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How are Rb-CD-MOF crystals synthesized?",
+      "answer": "Rb-CD-MOF crystals are synthesized by vapor diffusion of MeOH in an aqueous solution of RbOH and g-CD, with slight modifications to the reported procedure.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the result of soaking Rb-CD-MOF%Py in organic solutions of metals like CuII and FeIII?",
+      "answer": "Soaking Rb-CD-MOF%Py in organic solutions of metals like CuII and FeIII always led to uncontrolled oxidation and irreversible damage to the crystals with complete loss of crystallinity.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The use of iodine as an oxidizing agent preserved the crystallinity of the Rb-CD-MOF during the oxidation process.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the observed effect on the electrical conductivity of Rb-CD-MOF after the oxidative polymerization of pyrrole?",
+      "answer": "The electrical conductivity of Rb-CD-MOF displays a million-fold enhancement up to 5 X 10@6 S cm@1 after the oxidative polymerization of pyrrole.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The polymerization of pyrrole within the MOF leads to the formation of polypyrrole.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What intermediate is formed by the oxidative coupling of three Py units?",
+      "answer": "Cationic terpyrrole (TPy) units are formed by the oxidative coupling of three Py units.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The formation of pentapyrrole [Py5]+ oligomers was confirmed by MALDI-TOF analysis.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of iodine in the chemical oxidation process within the MOF?",
+      "answer": "Iodine acts as a mild oxidant in a two-step strategy that is more respectful with the crystallinity of inclusion compounds upon chemical oxidation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The channels in Rb-CD-MOF are almost entirely filled by ionic molecular guests after the reaction.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the conductivity of Rb-CD-MOF%TPy compare to other conductive MOFs?",
+      "answer": "The conductivity of Rb-CD-MOF%TPy lies close to that reported for 2D PPy arrays grown in a redox-active layered coordination polymer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirms the direct influence of MOFs over polymerization reactions when used as templates.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated total content of Py molecules per unit formula of Rb-CD-MOF?",
+      "answer": "The estimated total content of Py molecules per unit formula of Rb-CD-MOF is close to 12.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The polymerization of Py in the pores combined with the inclusion of iodide anions leads to complete loss of porosity.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy (Ea) value calculated for Rb-CD-MOF%TPy?",
+      "answer": "The activation energy (Ea) value calculated for Rb-CD-MOF%TPy is 709 meV.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates the possibilities of MOF crystalline nanoreactors to capture highly-reactive intermediates for a better understanding of polymerization reactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the restriction of the polymerization of Py within the MOF?",
+      "answer": "The main reason for the restriction of the polymerization of Py is the interaction of the guest with the CD rings in the framework, which limits the polymerization to a low degree for the formation and stabilization of cationic terpyrrole complexes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study used a control experiment to show that free g-CD could produce similar results to those obtained with Rb-CD-MOF.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the host-guest hydrogen-bond interactions observed in the study?",
+      "answer": "The host-guest hydrogen-bond interactions, along with the limited number of confined Py molecules, are significant for the stronger stabilization of the guest and the restriction of the polymerization of Py.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of using fluorinated MOFs in natural gas upgrading?",
+      "answer": "The main purpose of using fluorinated MOFs in natural gas upgrading is to allow simultaneous and equally selective removal of CO2 and H2S from CH4-rich streams in a single adsorption step.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes AlFFIVE-1-Ni unique compared to other MOFs for gas upgrading?",
+      "answer": "AlFFIVE-1-Ni is unique because it can simultaneously and selectively extract H2S and CO2 from CH4 with a ratio SH2S/CO2 ≈ 1, which has not been reported for other MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of water vapor affect the performance of AlFFIVE-1-Ni in gas upgrading?",
+      "answer": "The presence of water vapor has very little effect on the adsorption of H2S and CO2 by AlFFIVE-1-Ni, making it feasible for use in humid conditions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of DFT calculations in understanding the adsorption mechanism of MOFs?",
+      "answer": "DFT calculations help in understanding the interaction energies between the guests (H2S, CO2) and the MOFs, and in predicting the adsorption sites and behavior of gases within the MOF structures.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: NbOFFIVE-1-Ni and AlFFIVE-1-Ni exhibit equal selectivity for CO2 and H2S.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental method is used to measure high-pressure gas adsorption in MOFs?",
+      "answer": "High-pressure gas adsorption in MOFs is measured using a magnetic suspension balance.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why is AlFFIVE-1-Ni considered a universal adsorbent for the removal of acid gases?",
+      "answer": "AlFFIVE-1-Ni is considered a universal adsorbent because it can simultaneously remove H2S and CO2 from different gas streams at various concentrations and compositions, under a wide range of temperatures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption performance of NbOFFIVE-1-Ni and AlFFIVE-1-Ni remains unaltered after multiple adsorption-desorption cycles.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of pore size distribution calculations in the study of MOFs?",
+      "answer": "Pore size distribution calculations are significant as they help in understanding the size of the pores within the MOF structures, which influences the adsorption behavior and selectivity for different gases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: SIFSIX-2-Ni-i is more selective for H2S over CO2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method is used for the synthesis of SIFSIX-2-Ni-i?",
+      "answer": "SIFSIX-2-Ni-i is synthesized by mixing 1,2-bis(4-pyridyl)acetylene (dpa) and NiSiF6·6H2O in methanol, stirring, and then heating the mixture.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The presence of water vapor significantly impacts the H2S/CO2 removal performance of AlFFIVE-1-Ni.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the substitution of [NbOF5]2− by [AlF5(H2O)]2− in MOFs affect H2S adsorption?",
+      "answer": "The substitution leads to a steeper H2S adsorption isotherm at low pressures and increases the affinity of the MOF for H2S, as compared to NbOFFIVE-1-Ni.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The AlFFIVE-1-Ni MOF can be regenerated under very mild conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in controlling the concentrations of CO2 and H2S in industrial gas operations?",
+      "answer": "The main challenge is to avoid the formation of impurities such as carbonyl sulfide (COS) while selectively removing CO2 and H2S.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption of CO2 in NbOFFIVE-1-Ni is unaltered in the presence of H2S.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of helium in the adsorption experiments conducted on MOFs?",
+      "answer": "Helium is used as a reference gas to activate the sample before each experiment and to determine the local density of the gas for buoyancy effect correction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The adsorption of H2S by AlFFIVE-1-Ni is significantly enhanced at relatively low pressure.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational tool is used for the geometry-optimization of loaded MOFs?",
+      "answer": "The geometry-optimization of loaded MOFs is performed at the DFT level using the general gradient approximation to the exchange-correlation functional according to Perdew–Burke–Ernzerhof (PBE) in combination with Grimme’s semi-empirical dispersion corrections.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates the ability to develop MOFs with a dominant selectivity for either H2S or CO2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

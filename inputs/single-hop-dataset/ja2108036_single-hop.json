@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula for the luminescent mixed-lanthanide MOF thermometer discussed?",
+      "answer": "Eu0.0069Tb0.9931-DMBDC",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the emissions of Tb3+ and Eu3+ ions in Eu0.0069Tb0.9931-DMBDC at room temperature?",
+      "answer": "Tb3+ ions emit at 545 nm and Eu3+ ions emit at 613 nm.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the emission intensity of Tb3+ and Eu3+ ions in Eu0.0069Tb0.9931-DMBDC change with temperature?",
+      "answer": "The emission intensity of Tb3+ ions decreases, while that of Eu3+ ions increases with temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescent behavior of Eu0.0069Tb0.9931-DMBDC reversible with temperature changes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to synthesize Tb-DMBDC and Eu-DMBDC?",
+      "answer": "Solvothermal method in mixed solvents of DMF, ethanol, and water.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the molar ratios of Eu3+/Tb3+ in the mixed lanthanide MOFs be controlled?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of DMBDC in the luminescence of the MOFs?",
+      "answer": "DMBDC acts as an antenna chromophore for sensitizing both Tb3+ and Eu3+ ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the energy transfer from Tb3+ to Eu3+ in Eu0.0069Tb0.9931-DMBDC enhanced at higher temperatures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the triplet excited state energy of H2DMBDC in the context of the MOF thermometer?",
+      "answer": "The triplet excited state energy of H2DMBDC matches the energy of the main accepting level of Eu3+ and Tb3+, thus sensitizing both emissions efficiently.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the luminescent MOF thermometer exhibit a linear relationship between temperature and luminescence intensity ratio from 50 to 200 K?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using a mixture of Tb(NO3)3·5H2O and Eu(NO3)3·5H2O in the synthesis of mixed lanthanide MOFs?",
+      "answer": "To achieve controlled doping of different amounts of Eu3+, optimizing the temperature-dependent luminescent intensity ratios.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are Tb-DMBDC and Eu-DMBDC isostructural?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What analytical technique confirmed the molar ratios of Eu3+/Tb3+ in the mixed lanthanide MOFs?",
+      "answer": "Inductively coupled plasma spectroscopy (ICP).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of temperature on the luminescent intensity of Tb3+ and Eu3+ in Tb-DMBDC and Eu-DMBDC?",
+      "answer": "The luminescent intensity decreases gradually as the temperature increases.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the energy transfer efficiency of the Tb3+ to Eu3+ transition in Eu0.0069Tb0.9931-DMBDC stable at elevated temperatures?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the organic linker DMBDC in the MOF thermometer?",
+      "answer": "DMBDC has the suitable triplet excited state energy to match the energy of the main accepting level of Eu3+ and Tb3+, sensitizing both emissions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the luminescent MOF thermometer visually indicate temperature changes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the calculated energy transfer efficiency in the study?",
+      "answer": "It indicates the effectiveness of the energy transfer from Tb3+ to Eu3+ ions within the MOF, which is crucial for its function as a thermometer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the luminescent MOF thermometer allow for direct visualization of temperature changes?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential future application of the luminescent MOF thermometer mentioned in the text?",
+      "answer": "It can be applied as nanothermometers in intracellular sensing and thermal mapping with nanospatial resolution.",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

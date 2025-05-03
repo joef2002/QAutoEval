@@ -1,0 +1,43 @@
+{
+  "materials": [
+    {
+      "name": "UiO(bpdc)",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation of ligand bpdc",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "chemicals_used": "2,2’-bipyridine-5,5’-dimethyl, KMnO4",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "notes": "Oxidation reaction of 2,2’-bipyridine-5,5’-dimethyl by KMnO4 according to literature procedure."
+        },
+        {
+          "step": "Synthesis of MOF UiO(bpdc)",
+          "temperature": "413 K",
+          "solvents": "DMA (12 ml)",
+          "amount_of_each_solvent": "12 ml of DMA",
+          "equipment": "20 ml Teflon-lined stainless steel container, programmed oven",
+          "chemicals_used": "ligand bpdc (48 mg, 0.2 mmol), ZrCl4 (46.6 mg, 0.2 mmol), benzoic acid (1.5 g)",
+          "time": "72 hours",
+          "washing_method": "Washed with DMA",
+          "drying_method": "Not specified",
+          "yield": "Not specified",
+          "notes": "Benzoic acid added as the modulate agent. Mixture stirred for 30 minutes at ambient conditions before heating."
+        },
+        {
+          "step": "Activation for adsorption measurements",
+          "temperature": "393 K",
+          "solvents": "Ethanol",
+          "equipment": "Soxhlet extractor, IGA apparatus",
+          "chemicals_used": "Not specified",
+          "time": "72 hours for Soxhlet extraction",
+          "washing_method": "Not specified",
+          "drying_method": "Heated under ultrahigh vacuum (10^-7 mbar)",
+          "yield": "Not specified",
+          "notes": "Sample treated by Soxhlet extraction using ethanol as the extraction agent, then activated by heating under vacuum."
+        }
+      ]
+    }
+  ]
+}

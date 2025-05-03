@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research groups mentioned in the text?",
+      "answer": "The primary focus is on the development of new methods for the synthesis of both discrete and extended metal–organic materials, with particular interest in the controlled generation of increased structural complexity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is used to synthesize the new metal–organic framework mentioned?",
+      "answer": "A hierarchical self-assembly strategy is used, which differs from the commonly employed molecular building block (MBB) and secondary building unit (SBU) approaches.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of the target complex [Cu3L3]·H2O formed after the reaction?",
+      "answer": "The yield of the target complex [Cu3L3]·H2O formed after the reaction is 80%.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the framework of [Cu3L3(hmt)]n neutral or charged?",
+      "answer": "The framework of [Cu3L3(hmt)]n is neutral.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of hexamethylenetetramine (hmt) in the synthesis of the MOF?",
+      "answer": "Hexamethylenetetramine (hmt) acts as a three-connecting ligand, anticipated to generate a three-dimensional framework upon reaction with [Cu3L3]·H2O.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the porosity displayed by the new chiral MOF?",
+      "answer": "The significant porosity and gas-sorption behavior of the new chiral MOF demonstrate that the host–guest properties of the discrete building blocks can be successfully imparted to the final MOF, indicating potential applications in areas such as catalysis, gas separation, and storage.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the hierarchical self-assembly strategy contribute to the synthesis of MOFs?",
+      "answer": "The hierarchical self-assembly strategy contributes by employing a series of distinct self-assembly steps across different levels of complexity to incorporate predesigned, kinetically stable, discrete neutral supramolecular components into a metal–organic framework, thus allowing for increased structural complexity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why was hexamethylenetetramine (hmt) chosen for the reaction with [Cu3L3]·H2O?",
+      "answer": "Hexamethylenetetramine (hmt) was chosen because it had previously been shown to act as a three-connecting ligand, making it likely to generate a three-dimensional framework upon reaction with [Cu3L3]·H2O.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the presence of large pores connected by narrow windows in the framework indicate?",
+      "answer": "The presence of large pores connected by narrow windows in the framework indicates the potential for use in selective separation applications, as it affects the adsorption behavior of gases.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the hierarchical approach used in the synthesis affect the properties of the MOF?",
+      "answer": "The hierarchical approach allows for the transcription of the properties of discrete subcomponents into those of the framework product, enabling the creation of MOFs with sophisticated control over their structure and properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of kinetic control in the formation of the MOF framework?",
+      "answer": "Kinetic control over the formation of the MOF framework is achieved largely through the trial-and-error optimization of synthetic conditions to prevent the formation of unwanted kinetic intermediates, ensuring the enthalpically favorable formation of an open framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the size of the voids in the discrete triangular subcomponent [Cu3L3] contribute to the formation of a MOF with significant porosity?",
+      "answer": "The large void area in the discrete triangular subcomponent [Cu3L3], in combination with coordinatively unsaturated metal centers, provides useful attributes for the formation of a MOF with significant porosity by allowing the transformation of 2D voids into 3D voids in the framework material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "The hierarchical self-assembly strategy is the only method employed for synthesizing MOFs in the research mentioned.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The [Cu3L3]·H2O complex has coordinatively saturated metal centers.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The framework of [Cu3L3(hmt)]n contracts significantly upon desolvation.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "The adsorption behavior of [Cu3L3(hmt)]n is typical and does not show any hysteresis.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The porosity of the new chiral MOF is insignificant and does not demonstrate gas-sorption behavior.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The hierarchical self-assembly strategy allows for the transcription of 2D voids into 3D voids in the MOF.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "The adsorption of Ar is more restricted than that of N2 due to its larger size.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "The enthalpy of adsorption for H2 in the MOF is typical for van der Waals type interactions.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

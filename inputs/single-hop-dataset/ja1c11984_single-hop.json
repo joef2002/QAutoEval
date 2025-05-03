@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Stimuli-Modulated Metal Oxidation States in Photochromic MOFs",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Natalia B. Shustova",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research conducted in the article?",
+      "answer": "The research focuses on reversible modulation of metal oxidation states in metal–organic frameworks (MOFs) through integration of photochromic moieties as a function of an excitation wavelength.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for X-ray intensity data collection?",
+      "answer": "A Bruker D8 QUEST diffractometer equipped with a PHOTON-II area detector and an Incoatec microfocus source was used for X-ray intensity data collection.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the quantum yield of photoisomerization for Aberchrome 670 in thin films as reported in the article?",
+      "answer": "The photoisomerization quantum yield of Aberchrome 670 in thin films is reported as 27%.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How was the crystallinity of Cu(BCMTC)(MeOH) confirmed?",
+      "answer": "The crystallinity of Cu(BCMTC)(MeOH) was confirmed by powder X-ray diffraction (PXRD).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the purpose of using a charge neutralizer in X-ray photoelectron spectroscopy (XPS) studies?",
+      "answer": "A charge neutralizer was used to compensate for sample charging by bombarding the sample with low-energy electrons, a strategy applied for insulating copper-containing MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the transmetallation percentage determined by ICP-MS for Cu1.9Zn0.1(TNDS)(DBTD)?",
+      "answer": "A transmetallation of 93% was determined by ICP-MS for Cu1.9Zn0.1(TNDS)(DBTD).",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The article reports the first determination of photoisomerization quantum yields for photochromic moieties within a MOF matrix.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the observed effect of complete reduction of Cu(II) on the EPR signal in Cu2.0(BPMTC)(DBTD) after treatment with hydrazine?",
+      "answer": "Complete signal reduction was observed, suggesting the reduction of Cu(II) to Cu(I).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of the complex synthesized?",
+      "answer": "C20H12N6O8Zn3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) were the single crystal X-ray diffraction data collected?",
+      "answer": "298 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of the fully activated form determined under dynamic vacuum?",
+      "answer": "Monoclinic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for data reduction of the single crystal X-ray diffraction data?",
+      "answer": "The Bruker software package SAINT",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the form determined under 20 bar of methane gas pressure?",
+      "answer": "P21/c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the volume (Å3) change from the as-synthesized version to the fully desolvated form?",
+      "answer": "It decreases from 1250.92(5) Å3 to 1263.60(18) Å3",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transformation from the as-synthesized form to the fully activated form reversible?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the form determined under 10 bar of ethane gas pressure have a triclinic crystal system?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the probe radius used for calculating the contact surface volume?",
+      "answer": "1.2 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was SQUEEZE analysis performed for the form determined under 6.3 bar of ethane gas pressure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the final R [I > 2σ(I)]] value for the form determined under vacuum after activating a crystal?",
+      "answer": "R1 = 0.0319, wR2 = 0.0736",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the shortest non-bonding Zn1···Zn1 distance (Å) within the 4,4-Zn-tp rhombic network for the fully desolvated form?",
+      "answer": "7.961(2) Å (Vertical) and 19.768(2) Å (Horizontal)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the guest-accessible surface visualized for the form determined under 10 bar of ethane gas pressure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the change in the β angle from the as-synthesized form to the fully activated form?",
+      "answer": "It increases from 113.798(2)° to 114.680(4)°",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the ethane guest molecules modeled in the structure determined under 10 bar of ethane gas pressure?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the method used for absorption corrections and correction of other systematic errors?",
+      "answer": "SADABS",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group for the form determined under 20 bar ethane gas pressure?",
+      "answer": "Pī",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the transformation from the form determined under 6.3 bar of ethane gas pressure to the form determined under 10 bar of ethane gas pressure associated with a change in space group?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What software was used as the graphical interface for the SHELX program suite?",
+      "answer": "X-Seed",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the difference electron density map visualized for the form determined under 10 bar of ethane gas pressure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

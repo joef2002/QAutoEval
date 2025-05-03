@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for acetylene?",
+      "answer": "C2H2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum C2H2 uptake value reported for MAF-2 at 298 K, 1 atm?",
+      "answer": "70 cm3 g−1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does MAF-2 show higher uptake for C2H2 or CO2 at 298 K, 1 atm?",
+      "answer": "C2H2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The C2H2/CO2 uptake ratio of MAF-2 at 298 K, 1 atm is lower than those of other adsorbents.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of ethyl groups in MAF-2's structure?",
+      "answer": "They allow gas to diffuse into the pores even at extremely low adsorbate pressures.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What type of isotherm is optimal for practical adsorptive storage applications?",
+      "answer": "Sigmoid isotherm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MAF-2 behaves as a nonporous material at extremely low temperatures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the ethyl motion in MAF-2?",
+      "answer": "Ethyl motion depends on temperature and allows guest diffusion through the framework.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The adsorption energy difference between C2H2 and CO2 is large enough for effective adsorptive separation in MAF-2.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the hexameric arrangement of C2H2 molecules within MAF-2?",
+      "answer": "It ensures C2H2 molecules are confined in a configuration that allows large uptake and prevents reactive contacts.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MAF-2's framework flexibility does not influence the whole sorption process.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the NbO cages in MAF-2?",
+      "answer": "They separate from each other after inclusion of C2H2/CO2, confirming the occurrence of kinetically controlled flexibility.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The sorption isotherms of MAF-2 originate from the structural rearrangement of guest molecules.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of an inflection point in the derivative of the isotherm indicate?",
+      "answer": "It indicates the isotherm is sigmoidal.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The guest−guest interaction energy is very high in the formation of supramolecular clusters of gas molecules in MAF-2.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of guest molecules on the ethyl motion in MAF-2?",
+      "answer": "Uptake of guest reduces ethyl motion and decreases framework energy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystal structure of MAF-2·C2H2 can be determined at room temperature without apparent disorder.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of MAF-2's unique pore surface on gas molecules?",
+      "answer": "It stabilizes gas molecules by cooperation of multiple weak supramolecular interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The framework deformations in MAF-2 start from very low loadings and are almost completed at x ≈ 0.2.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the research conclude about the origin of sigmoid isotherms in MAF-2?",
+      "answer": "They are assigned to the framework dynamics of MAF-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

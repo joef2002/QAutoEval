@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the chromium(II)-based metal–organic framework discussed?",
+      "answer": "Cr3[(Cr4Cl)3(BTT)8]2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the potential applications of the Cr-BTT framework?",
+      "answer": "H2 storage and O2 production",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity factor of Cr-BTT for O2 over N2 at compositions relevant to air purification?",
+      "answer": "In excess of 2500",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to synthesize the Cr-BTT framework?",
+      "answer": "Air-free reaction of anhydrous CrCl2, Cr(CO)6, H3BTT, and trifluoromethanesulfonic acid in dimethylformamide (DMF)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of the activated Cr-BTT framework?",
+      "answer": "2030 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the reversible O2 capacity of Cr-BTT at 298 K after 15 adsorption cycles?",
+      "answer": "At least 4.6 wt %",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Why does Cr-BTT have excellent O2/N2 selectivity?",
+      "answer": "Due to selective electron transfer to form CrIII superoxide moieties",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the Cr-BTT framework achieve selective, reversible O2 adsorption?",
+      "answer": "Through an electron-transfer mechanism that forms end-on superoxide species",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the Cr-BTT framework considered promising for gas separations?",
+      "answer": "Because of its extraordinarily high capacities and adsorption selectivities for gases",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What makes Cr-BTT different from other M-BTT frameworks in terms of gas adsorption?",
+      "answer": "Its strongly reducing nature of chromium(II) which endows it with excellent O2/N2 selectivity",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the activated Cr-BTT framework prepared?",
+      "answer": "By desolvation through soaking in fresh DMF, followed by methanol exchange and heating overnight at 150 88C under a dynamic vacuum",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of coordinatively unsaturated metal sites in metal–organic frameworks?",
+      "answer": "They exhibit high capacities and adsorption selectivities for various gas separations",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Cr-BTT framework synthesized using a high-pressure method?",
+      "answer": "False, it is synthesized using an air-free reaction, not a high-pressure method",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Cr-BTT have a BET surface area greater than 3000 m2 g-1?",
+      "answer": "False, its BET surface area is 2030 m2 g-1",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can Cr-BTT bind O2 molecules in a side-on fashion?",
+      "answer": "False, O2 molecules bind in an end-on fashion",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is Cr-BTT's O2 adsorption capacity unaffected by adsorption/desorption cycles?",
+      "answer": "False, there is a moderate loss in capacity after the first cycle",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Cr-BTT exhibit the highest stable cycling capacity for O2 under mild conditions?",
+      "answer": "True, it represents the highest stable cycling capacity for any porous material under mild conditions",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Cr-BTT framework only suitable for hydrogen storage applications?",
+      "answer": "False, it is investigated for both H2 storage and O2 production",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Cr-BTT lose reversibility above 220 K?",
+      "answer": "False, that statement applies to Fe2(dobdc), not Cr-BTT",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of Cr-BTT conducted in an oxygen-rich environment?",
+      "answer": "False, it is conducted in an air-free environment",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

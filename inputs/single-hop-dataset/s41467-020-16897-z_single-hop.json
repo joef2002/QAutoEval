@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal in the development of functional materials for adsorption?",
+      "answer": "The main goal is to design stable adsorbents capable of selectively capturing dioxygen with a high reversible capacity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of cooperativity does Co2(OH)2(bbta) exhibit upon O2 binding?",
+      "answer": "Co2(OH)2(bbta) exhibits negative cooperativity upon O2 binding.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What stabilizes the cobalt(III)-superoxo species formed upon O2 adsorption in Co2(OH)2(bbta)?",
+      "answer": "Moderate-strength hydrogen bonding stabilizes the cobalt(III)-superoxo species formed upon O2 adsorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the O2 adsorption capacity of Co2(OH)2(bbta) at 195 K compare to Co2Cl2(bbta)?",
+      "answer": "At 195 K, Co2(OH)2(bbta) achieves a higher O2 adsorption capacity than Co2Cl2(bbta).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do the hydroxo ligands in Co2(OH)2(bbta) play in O2 adsorption?",
+      "answer": "The hydroxo ligands increase the reducing potential of the cobalt(II) sites and engage in secondary-sphere hydrogen bonding interactions with bound superoxo groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the Hill coefficient for O2 binding in Co2(OH)2(bbta), and what does it indicate?",
+      "answer": "The Hill coefficient for O2 binding in Co2(OH)2(bbta) is 0.262, indicating negative cooperativity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the O2 adsorption in Co2(OH)2(bbta) reversible?",
+      "answer": "Yes, O2 adsorption in Co2(OH)2(bbta) is fully reversible under all temperatures and pressures studied.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does Co2(OH)2(bbta) have a higher O2/N2 selectivity at 195 K or 223 K?",
+      "answer": "Co2(OH)2(bbta) has a higher O2/N2 selectivity at 195 K than at 223 K.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the O2 binding energy at high coverage in Co2(OH)2(bbta)?",
+      "answer": "The O2 binding energy decreases at high coverage in Co2(OH)2(bbta) due to negative cooperativity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can Co2(OH)2(bbta) be used for air separation in a vacuum-swing adsorption process?",
+      "answer": "Yes, Co2(OH)2(bbta) could potentially be useful for air separation in a vacuum-swing adsorption process.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

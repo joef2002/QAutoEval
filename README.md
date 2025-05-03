@@ -1,0 +1,72 @@
+<p align="center">
+<img src="./docs/images/logo.png" width="50%" height="50%">
+</p>
+
+## Overview
+
+This project provides an evaluation framework for automated classification of question–answer pairs and analysis of synthesis conditions extracted from scientific literature. It leverages multiple large language model (LLM) APIs—including Anthropic Claude, OpenAI (GPT-4o and GPT-o1), and Google Generative AI—to assess whether Q&A pairs are correctly generated and whether synthesis conditions meet defined criteria.
+
+The framework supports both multi-hop and single-hop Q&A evaluation pipelines, as well as prompt optimization for improved classification accuracy.
+
+## Features
+
+- **Multi-Hop Q&A Evaluation:**  
+  Processes research papers and associated multi-hop Q&A datasets by extracting context, generating prompts, and using concurrent API calls for classification and evaluation.
+
+- **Single-Hop Q&A Evaluation:**  
+  Processes research papers and associated single-hop Q&A datasets by extracting context, generating prompts, and using concurrent API calls for classification and evaluation.
+
+- **Prompt Optimization:**  
+  Iteratively refines single-hop Q&A evaluation classification prompts based on ground truth comparisons to improve evaluation performance.
+
+- **Synthesis Conditions Evaluation:**  
+  Extracts synthesis conditions from scientific papers and assesses them against criteria for completeness, exclusivity, and accuracy.
+
+  For a more detailed description of the evaluation criteria used, please refer to our previous work: [RetChemQA](https://github.com/nakulrampal/RetChemQA) and [Comparison-of-LLMs](https://github.com/Sya-bitsea/Comparison-of-LLMs) 
+
+## Installation
+
+### Prerequisites
+
+- **Python:** Version 3.8 or higher (Recommended 3.10.14) 
+- **Virtual Environment:** Recommended (e.g., `venv` or `conda`)
+
+### Setup
+This project includes a trimmed requirements.txt file that contains only the necessary packages with version pins. Install them with:
+`pip install -r requirements.txt`
+
+### Configuration
+Before running the pipelines, configure the following:
+
+**API Keys and Models:**  
+Insert API keys for Anthropic Claude, OpenAI, and Google Generative AI on the top of the [utils.py](utils.py), please note that OpenAI API key need to be inserted twice, for both GPT 4o and GPT o1. 
+
+Please take a note that model name changes and sometime it can cause an error.
+
+**Data Directories:**
+The code executes sequentially according to the order specified in the Excel sheet. It requires four directory named 'single-hop-data', 'multi-hop-data', 'prompt-optimization-data', and 'synthesis-condition-data', which have been omitted due to copyright restrictions held by the original publishers. Within the those four 'data' directory, subdirectories are named after each publisher. Each publisher directory contains folders named according to the DOI, and these DOI folders hold the corresponding manuscript, supplementary materials, and other related data. For additional details, refer to the file 'single-hop-DOIs.xlsx' and 'QA_claude_20241017.xlsx'.
+
+*********
+
+## Contributing
+Contributions are welcome! If you’d like to contribute:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Ensure your code adheres to the project’s style guidelines.
+Submit a pull request with a detailed description of your changes.
+
+## Issues
+If there is any issues with the code, please report to [Issues](https://github.com/joef2002/QAutoEval/issues)
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+Thanks to the API providers (Anthropic, OpenAI, Google) for their services.
+Special thanks to the developers of the libraries used in this project.
+
+We acknowledge the financial support from the following sources:
+1. Bakar Institute of Digital Materials for the Planet (BIDMaP)
+
+

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main focus of the study described in the article?",
+      "answer": "Selective adsorption and separation of ortho-substituted alkylaromatics with the microporous aluminum terephthalate MIL-53.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which material has a pronounced preference for the ortho-isomers in all experiments?",
+      "answer": "MIL-53",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to analyze changes in the MIL-53 structure during adsorption?",
+      "answer": "Rietveld refinements of XRD data sets",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the selectivity between isomers change with bulk concentration or degree of pore filling?",
+      "answer": "The selectivity increases with bulk concentration or degree of pore filling.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interaction between methyl groups of the adsorbates and carboxylate groups of the MIL-53 lattice present in MIL-47?",
+      "answer": "No, these specific interactions are not present in MIL-47.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the study demonstrate that MIL-53 could be used to selectively retain ortho-compounds from a feed of alkylaromatic isomers?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the adsorption preferences of MIL-53 and MIL-47 for alkylaromatics identical?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study find that molecular packing plays an important role in the adsorption preferences of MIL-53 for xylenes?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of ethyltoluene isomers on MIL-47 stronger than on MIL-53?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Do the adsorption preferences for ethyltoluene isomers on MIL-47 change significantly with increasing external bulk phase concentrations?",
+      "answer": "No",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of specific interactions between methyl groups of the adsorbates and carboxylate groups of the MIL-53 lattice?",
+      "answer": "They lead to different orientation of the molecules compared to MIL-47 and result in different packing modes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What effect does the presence of different metals in MIL-53 and MIL-47 have on their selectivity?",
+      "answer": "It might lead to a different polarization of the carboxylate groups, affecting the strength of interaction with the adsorbates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the selectivity for ortho-xylene over other xylene isomers at low concentrations determined by the packing efficiency in MIL-53?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study suggest that MOFs will eventually find real applications in industrial separation processes or environmental technologies?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of lateral interactions between p-xylene molecules at high degrees of pore filling in MIL-53?",
+      "answer": "It lowers the energy cost to fill the pores, explaining the increasing affinity of MIL-53 for p-xylene at higher intraporous concentrations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the adsorption preferences of MIL-53 for ethyltoluene and cymene isomers explained by their ability to interact via two side chains simultaneously?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the study find that the adsorption of cymene isomers on MIL-47 is stronger than on MIL-53?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the theoretical maximum number of xylene molecules that can be adsorbed per unit cell in MIL-53?",
+      "answer": "Four molecules per unit cell",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption of ethylbenzene strongly favored by MIL-53?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main conclusion of the study regarding the use of MIL-53 for alkylaromatic separations?",
+      "answer": "MIL-53 could be readily used to selectively retain the ortho-compounds from a feed of alkylaromatic isomers.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

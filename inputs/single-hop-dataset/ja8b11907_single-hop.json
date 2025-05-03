@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the metal-organic framework presented for fluoride detection in water?",
+      "answer": "SION-105",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of SION-105 over other fluoride sensors?",
+      "answer": "It can be easily regenerated and used over 10 cycles.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is SION-105 stable upon immersion in pure water?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the boron (B) receptor site in SION-105?",
+      "answer": "It interacts with fluoride ions in aqueous solutions through electrostatic and specific interactions.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can SION-105 detect fluoride ions in natural groundwater samples?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the synthesis temperature for SION-105?",
+      "answer": "120 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the presence of fluoride ions affect the luminescence of SION-105?",
+      "answer": "Fluoride ions quench the photoexcited red luminescence from the europium metal nodes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the interaction between fluoride ions and SION-105 covalent?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the detection limit of SION-105 for fluoride ions?",
+      "answer": "0.5 ppm",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does SION-105 compare to other MOF-based fluoride sensors in terms of sensitivity?",
+      "answer": "SION-105 has a lower detection limit and better selectivity for fluoride ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can SION-105 be used for sampling fluoride levels in drinking water without recalibration?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the structural advantage of SION-105 in detecting fluoride ions?",
+      "answer": "The active site leads to size-selective, weak electrostatic interactions with the target anions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does SION-105 maintain its crystal structure after exposure to fluoride ions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of SION-105 before fluoride sensing experiments?",
+      "answer": "216 m2/g",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does SION-105's selectivity to fluoride ions compare when tested in bottled mineral water?",
+      "answer": "It shows a linear quenching response selective to fluoride ions even in the presence of other common anions and cations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the luminescence intensity of SION-105 affected by the presence of OH- ions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the synthesis method for the ligand used in SION-105?",
+      "answer": "The ligand is synthesized through a multi-step process involving bromination, lithiation, and carboxylation.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does SION-105 show a fast response to fluoride ions?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of bulky, protruding methyl groups in SION-105?",
+      "answer": "They protect the active site, preventing nonselective binding with potentially interfering nucleophiles.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can SION-105 be recycled after fluoride detection?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

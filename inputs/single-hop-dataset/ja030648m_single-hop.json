@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the manganese(II) octacyanotungstate(V)-based magnet mentioned?",
+      "answer": "[{MnII(pyrimidine)(H2O)}2{MnII(H2O)2}{WV(CN)8}2](pyrimidine)2·2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the critical temperature (Tc) for the magnetic phased transition of the compound?",
+      "answer": "47 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of interaction operates between the WV and MnII ions?",
+      "answer": "Antiferromagnetic interaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the saturation magnetization (MS) value at 2 K?",
+      "answer": "13.0 μB",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the coercive field (HC) at 2 K?",
+      "answer": "17 G",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of the synthesis process?",
+      "answer": "36%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of pyrimidine in the structure of the compound?",
+      "answer": "It acts as a noncoordinated aromatic molecule and is part of the coordination geometry.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of noncoordinated pyrimidine affect the magnetic properties of the compound?",
+      "answer": "The noncoordinated pyrimidine does not directly affect the magnetic properties but contributes to the structural framework that allows for magnetic interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic interaction between Mn1 and Mn2 significant?",
+      "answer": "No, the coupling constant is considered to be very small due to the long distance through bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the compound exhibit ferrimagnetism?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the TC value of 47 K higher than that of CsI[{MnII(3-cyanopyridine)2{WV(CN)8}}·H2O?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the magnetic interaction between layers through the Mn2 pillar complex not present?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the hydrogen atoms of pyrimidine not refined isotropically in the crystal structure analysis?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound prepared by a dry synthesis method?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the compound have a one-dimensional channel structure?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the compound's magnetic hysteresis loop indicative of diamagnetism?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of CsI3[WV(CN)8]·2H2O in the synthesis?",
+      "answer": "It is a precursor used in the synthesis of the compound.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure contribute to the compound's magnetic properties?",
+      "answer": "The structure allows for antiferromagnetic superexchange interactions between WV and MnII ions, contributing to its ferrimagnetism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the compound's critical temperature in magnetic applications?",
+      "answer": "The critical temperature indicates the temperature below which the compound exhibits magnetic ordering, important for determining its usability in magnetic applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of ferromagnetic metal-assembled complexes containing a noncoordinated molecule straightforward?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of the blue crystals synthesized?",
+      "answer": "[CuCl(BNA)2]·Cl(H2O)4",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the single-crystal X-ray diffraction analysis?",
+      "answer": "The Patterson method for structure 1 and direct methods using SHELXTL for structure 2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of the crystal data for 1?",
+      "answer": "P4",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final Goodness of Fit (GooF) value for the crystal data of 1?",
+      "answer": "1.039",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using SQUEEZE in the refinement process?",
+      "answer": "To remove the disordered chloride and yield residual electrons/unit cell and a void volume.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the chloride ion in the Cl(H2O)4- cluster ordered or disordered?",
+      "answer": "Disordered",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the crystal data for 2 indicate a racemic twin?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the molecular weight (M) of the compound described in crystal data for 2?",
+      "answer": "676.04",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of BNA in the structure of 2?",
+      "answer": "Half of BNA is deprotonated and coordinates the copper cation via both the pyridine and the carboxylate groups, while the other half is protonated and zwitterionic, engaging in complementary hydrogen bonding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the water molecules included in the channels shown in the crystal structure of 2?",
+      "answer": "No, the remaining water molecules included in the channels are not shown.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group for the crystal data of 2?",
+      "answer": "P21",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the chloride ion's packing coefficient inside the channels typically between 0.7-0.8?",
+      "answer": "False, it is only 0.58.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated ionic volume of Cl- at the B3LYP/6-31G* level?",
+      "answer": "Approximately 23.7 Å3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the crystal structure of 2 involve hydrogen bonding?",
+      "answer": "Yes, involving coordination of Cu+2 by the COO-, pyridine, and two water molecules, and interlinked by pyridinium-carboxylate hydrogen bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the chloride ion in the Cl(H2O)4- cluster refined isotropically or anisotropically?",
+      "answer": "Isotropically",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage of the blue crystals synthesized?",
+      "answer": "60%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystal data for 1 collected at room temperature?",
+      "answer": "False, it was collected at 173(2)K.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the symmetry of the crystal data for 1?",
+      "answer": "Tetragonal",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the crystal data for 2 show that all BNA is deprotonated?",
+      "answer": "False, half of BNA is deprotonated and the other half is protonated and zwitterionic.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the volume (V) of the unit cell for the crystal data of 2?",
+      "answer": "1420.0(2) Å3",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

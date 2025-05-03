@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the general formula for a Keggin ion?",
+      "answer": "[EM12O40]x-",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What elements occupy the central cavity of reverse-Keggin ions?",
+      "answer": "A d-block element (manganese or zinc)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of antimony in the structure of reverse-Keggin ions?",
+      "answer": "Antimony occupies the twelve vertices of a truncated tetrahedron.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the synthesis condition for compound 1?",
+      "answer": "Reacting phenylantimonate with hydrated manganese(II) acetate in MeCN at 100 °C under solvothermal conditions.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How is compound 2 different from compound 1 in terms of synthesis?",
+      "answer": "Compound 2 is synthesized under ambient conditions in MeCN with NaOMe and small amounts of pyridine.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield range for compounds 1 to 3?",
+      "answer": "35-40%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What happens when nickel(II) is used instead of manganese or zinc in the reaction?",
+      "answer": "No crystalline product is obtained, resulting in an intractable pale green material believed to be a polymeric nickel antimonate.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is synchrotron radiation used for analyzing compound 1?",
+      "answer": "Because the crystals diffract poorly at high resolution.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the ε-isomer in the structure of compound 1?",
+      "answer": "It indicates the orientation of the triangular Sb units, making it a reverse Keggin ion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination environment of the external metal sites in compound 2?",
+      "answer": "The coordination number varies, with three sites being five-coordinate and the fourth six-coordinate.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the core structure of compound 3 similar to compound 1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 4 contain a central band of four Sb3 triangles?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is compound 5 a polymer like compound 4?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the yields for compounds 1 to 3 higher than 50%?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of compound 2 performed under solvothermal conditions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 3 use phenylantimonate as a reactant?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are the external metal sites in compound 1 four-coordinate?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

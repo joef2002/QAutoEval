@@ -1,0 +1,29 @@
+{
+  "materials": [
+    {
+      "name": "Zinc–Imidazolate-4-amide-5-imidate Framework ([Zn(2)]n (3))",
+      "synthesis_conditions": {
+        "temperature": "120°C",
+        "solvent": "N,N-dimethylformamide (DMF)",
+        "amount_of_solvent": "6 mL",
+        "equipment": "sealed tube (Ace, type A)",
+        "chemicals_used": [
+          {
+            "name": "4,5-dicyano-2-methylimidazole",
+            "amount": "100 mg, 0.76 mmol"
+          },
+          {
+            "name": "zinc(II) nitrate tetrahydrate",
+            "amount": "198 mg, 0.76 mmol"
+          }
+        ],
+        "time": "48 h",
+        "pressure": "autogenous",
+        "washing_method": "filtration",
+        "drying_method": "dried in air; activated by drying at 250°C and 10^-3 mbar",
+        "yield": "132 mg, 75% based on Zn(NO3)2·4 H2O",
+        "additional_information": "The reaction was cooled to room temperature after heating. The product was obtained as fine pale-yellow crystals."
+      }
+    }
+  ]
+}

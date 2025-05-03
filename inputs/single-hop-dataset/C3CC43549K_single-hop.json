@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C38 H38 Dy Na O14",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system and space group of compound 1?",
+      "answer": "Tetragonal, P4(1)22",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the temperature at which the single-crystal XRD data for compound 1 was collected?",
+      "answer": "123(2) K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density of compound 1?",
+      "answer": "0.757 Mg/m^3",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R indices (I>2sigma(I)) for compound 1?",
+      "answer": "R1 = 0.0814, wR2 = 0.2127",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield of compound 1 based on Dy?",
+      "answer": "82%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the enantiomeric excess (ee) of the desorbed guests of (S)-1 when immersed in racemic methyl mandelate?",
+      "answer": "93.1%",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the optical purity of the photoproduct obtained from the photocyclization of tropolone methyl phenyl ether within (S)-1?",
+      "answer": "98.5%",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystallinity of compound 1 retained after removal of guest molecules?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the ligand H4L alone induce enantioselectivity for the photocyclization of tropolone ethers?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the BET surface area of compound 1 after removal of included D- and L-methyl mandelate greater than 400 m^2/g?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does compound 1 adsorb light from 365 nm to 500 nm?",
+      "answer": "No",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the optical purity of the photoproduct determined by the handedness of the host in the photocyclization of tropolone ethers?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can compound 1 be reused without performance loss for the photocyclization of tropolone ethyl phenyl ethers?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the framework of compound 1 stable up to 400 °C?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the enantiomeric excess (ee) of the desorbed guests of (S)-1 when immersed in racemic ethyl mandelate?",
+      "answer": "64.3%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the enantiomeric excess (ee) of the desorbed guests of (S)-1 when immersed in racemic i-propyl mandelate?",
+      "answer": "90.7%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the enantiomeric excess (ee) of the desorbed guests of (R)-1 when immersed in racemic i-propyl mandelate?",
+      "answer": "89.9%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the enantiomeric excess (ee) of the desorbed guests of (S)-1 when immersed in racemic benzyl mandelate?",
+      "answer": "73.5%",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the photocyclization of tropolone ethers within (S)-1 result in a racemic mixture?",
+      "answer": "No",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

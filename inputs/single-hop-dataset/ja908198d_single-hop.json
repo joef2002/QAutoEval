@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the publication year of the article discussing Arylzinc Reagents?",
+      "answer": "2009",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the corresponding authors of the study on Arylzinc Reagents?",
+      "answer": "Todd Marder and Aiwen Lei",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What kinetic behavior is observed for the 1a system in the study?",
+      "answer": "Zero-order kinetic behavior",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the transmetalation step rate-limiting for the 1b system?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What accelerates the reaction rate in the 1b system according to the study?",
+      "answer": "Addition of MgCl2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used for the kinetic studies in the research?",
+      "answer": "React IR and GC",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study find that the structures of organozinc reagents are simple as RZnX?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using DFT calculations in the study?",
+      "answer": "To suggest weaker Ph−Zn bonds in 1a than in 1b",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the kinetic behavior of 1a and 1b systems the same?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of MgCl2 in the structure of phenylzinc reagent 1a?",
+      "answer": "It was complexed to PhZnX",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the outcome when MgCl2 was added to the 1b system?",
+      "answer": "The reaction was much faster",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the study manage to obtain the crystal structure of 1b?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding regarding the kinetic difference between 1a and 1b systems?",
+      "answer": "1a exhibited zero-order kinetic behavior, while 1b displayed first-order kinetics",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the transmetalation step faster in the 1a system compared to the 1b system?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What did the NMR experiments reveal about the nature of 1a and 1b in a THF solution?",
+      "answer": "Differences in the nature of 1a and 1b",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was used as an internal GC standard in the kinetic studies?",
+      "answer": "Naphthalene",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study confirm the reliability of the kinetic data through React IR and GC plots?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of varying the initial concentration of desyl chloride in the reaction?",
+      "answer": "Little influence upon the reaction",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the main conclusion regarding the kinetic difference between phenylzinc reagents 1a and 1b?",
+      "answer": "A remarkable kinetic difference was observed, with 1a showing a facile transmetalation process",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Was the reaction rate zero-order in [desyl chloride] for the 1b system?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

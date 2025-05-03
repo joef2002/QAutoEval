@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What technique is used to assess guest-accessible volume in MOFs?",
+      "answer": "Two-photon confocal fluorescence microscopy (TPM)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using a toolbox of dyes in the study?",
+      "answer": "To assess the void volume of MOF by employing dyes with a wide range of sizes.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is TPM applicable to non-crystalline materials?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What shapes do the dyes likely have?",
+      "answer": "Cylindrical, conical, or pinwheel shapes.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can MOF-5 accommodate dye 2b?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum threshold size of the dye that KUMOF-2 can accommodate?",
+      "answer": "Up to 4a (17.3 x 7.2 x 6.1 Å3)",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the thickness of the compound affect the diffusion efficiency into the MOF?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the aperture diameter of the channel in KUMOF-1?",
+      "answer": "16.018 Å",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which dye shape penetrates more efficiently into the MOF?",
+      "answer": "Cylindrical dyes",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the guest-accessible volume correlated with the entrapped dye size?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What framework was chosen for application with TPM?",
+      "answer": "COF-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can COF-1 accommodate dye 5b?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed stacking in COF-1?",
+      "answer": "A staggered stacking to yield a 1D channel with an aperture of 7.0 Å",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is TPM a direct method to assess the void space of porous materials?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the advantage of TPM in analyzing thick porous materials?",
+      "answer": "It offers the advantage of increased penetration depth (>500 mm).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the length of the compound matter more than its thickness for diffusion efficiency?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the dyes in the study?",
+      "answer": "To probe the guest-accessible volume within MOFs.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can TPM be used for biological imaging?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the emission wavelength range for the dyes used?",
+      "answer": "Between 436 nm and 455 nm.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the guest-accessible volume assessment technique limited to crystalline materials?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

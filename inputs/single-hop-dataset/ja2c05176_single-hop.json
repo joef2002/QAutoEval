@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical warfare agent simulant that ZZU-282 can hydrolyze with a half-life of 3.5 minutes?",
+      "answer": "Diethyl cyanidophosphate (DECP)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the half-life of ZZU-282 for the oxidation of the sulfur mustard simulant CEES?",
+      "answer": "4.5 minutes",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of enzymes does the dual copper centers in ZZU-282 mimic?",
+      "answer": "Phosphatase and tyrosinase enzymes",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of dual copper sites in ZZU-282?",
+      "answer": "They provide versatile binding modes with the substrates, promoting the activation of substrates and enhancing catalytic efficiency.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the selectivity of ZZU-282 for the oxidation product CEESO from CEES?",
+      "answer": "100%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the turnover frequency (TOF) of ZZU-282 for the hydrolysis of DECP?",
+      "answer": "0.91 min-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the PXRD pattern of ZZU-282 maintained after catalysis?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZZU-282 exhibit catalytic activity towards both nerve agent and sulfur mustard simulants?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic activity of ZZU-282 based on the cooperative catalysis of dual copper sites?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can ZZU-282 be reused for multiple catalytic cycles without significant loss in activity?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of SCN- ions in the reaction mixture affect the catalytic activity of ZZU-282?",
+      "answer": "Yes, SCN- ions can poison the copper sites, leading to a decrease in catalytic activity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural integrity of ZZU-282 maintained after exposure to different organic solvents for 7 days?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does ZZU-282 require the presence of H2O2 for the oxidation of CEES?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic mechanism of ZZU-282 for hydrolysis reactions similar to that of natural enzymes?",
+      "answer": "Yes, the dual copper sites in ZZU-282 mimic the active sites of natural enzymes, facilitating a similar catalytic mechanism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the catalytic activity of ZZU-282 towards DECP hydrolysis exhibit pseudo-first-order kinetics?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the turnover frequency (TOF) of ZZU-282 for the oxidation of CEES?",
+      "answer": "0.42 min-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZZU-282 selectively oxidize CEES to CEESO without overoxidizing to CEESO2?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic activity of ZZU-282 for CEES oxidation dependent on the generation of reactive oxygen species (ROS)?",
+      "answer": "Yes, ZZU-282 activates H2O2 to produce ROS, which are responsible for the oxidation of CEES.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does ZZU-282 show a decrease in catalytic activity when SCN- ions are added to the reaction mixture for CEES oxidation?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic activity of ZZU-282 towards CEES oxidation enhanced by the cooperative catalysis of dual copper sites?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

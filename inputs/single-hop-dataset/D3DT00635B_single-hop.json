@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the names of the two novel metal-organic frameworks discussed?",
+      "answer": "JMS-6 and JMS-7",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of functionalising the MOFs with pentamethylcyclopentadienyl iridium(III) chloride?",
+      "answer": "For catalytic conversion of carbon dioxide to formate",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of JMS-6 and JMS-7 involves the use of 2,2'-bipyridyl-4,4'-dicarboxylic acid.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the highest turnover number (TON) achieved by Ir(III)@JMS-6a and Ir(III)@JMS-7a?",
+      "answer": "813 for Ir(III)@JMS-6a and 621 for Ir(III)@JMS-7a",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to confirm the successful grafting of the complex to the MOF?",
+      "answer": "XPS of the functionalised MOFs showing downfield shifts in the N 1s binding energy",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The functionalised MOFs were tested for their ability to convert CO2 to formate in the absence of an organic base.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of triethylamine in the synthesis of JMS-6?",
+      "answer": "It was mixed with 2,2'-bipyridyl-4,4'-dicarboxylic acid and DMF before adding Nd(NO3)3·6H2O",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structures of JMS-6 and JMS-7 were solved by direct methods and refined anisotropically on least-squares with SHELXL.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of soaking the activated MOFs in water and methanol for 24 hours?",
+      "answer": "The lower peak which disappeared upon guest removal in both JMS-6 and JMS-7 is retained, indicating water and methanol can occupy the coordinated sites left by the DMF and water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The catalytic performance of Ir(III)@JMS-6a and Ir(III)@JMS-7a is higher than all the Ir(III) catalysts reported in the literature.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the optimum temperature found for the hydrogenation of CO2 to formate using Ir(III)@JMS-7a?",
+      "answer": "110 °C",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The functionalised MOFs could be recycled up to three times with Ir(III)@JMS-7a maintaining an activity of 90%.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of Et3N in the hydrogenation experiments?",
+      "answer": "It was used as a base and showed the highest TON of 578 when used with Ir(III)@JMS-7a.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns of the functionalised MOFs matched well with the activated phase, ruling out the possibility of structural transformation induced by guest removal.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of increasing the pressure of H2 in the hydrogenation reaction?",
+      "answer": "An increase in H2 partial pressure facilitated the formation of more Ir–H species, which is a key intermediate in formate production, yielding more formate.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The SEM images showed evidence of nanoparticles after catalysis, indicating that catalysis was due to Ir(0) centres.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the calculated and experimental diffraction peaks agreement indicative of?",
+      "answer": "The phase purity of the synthesised MOFs JMS-6 and JMS-7.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The total weight loss during thermal analysis of JMS-6 and JMS-7 is the same.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the BET studies on JMS-6 and Ir(III)@JMS-6?",
+      "answer": "To determine the amount of N2 uptake, pore volume, and pore diameter, which decreased after functionalization, indicating the Ir(III) complex occupied some pore spaces in JMS-6a.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The functionalised MOFs exhibited a TON higher than the homogeneous Ir(III) complex used for functionalisation.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

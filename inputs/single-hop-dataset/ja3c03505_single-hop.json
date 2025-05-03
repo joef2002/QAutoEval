@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the material that exhibits AAAA and ABAB packing of the sql layers?",
+      "answer": "sql-NbOFFIVE-bpe-Cu",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which polymorph of sql-NbOFFIVE-bpe-Cu has intrinsic 1D channels?",
+      "answer": "sql-NbOFFIVE-bpe-Cu-AA",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum C3H6 productivity achieved by sql-NbOFFIVE-bpe-Cu-AB from a 1:99 C3H4/C3H6 mixture?",
+      "answer": "118 mmol g–1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the separation selectivity (αAC) for sql-NbOFFIVE-bpe-Cu-AB in separating C3H4 from C3H6?",
+      "answer": "270",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does sql-NbOFFIVE-bpe-Cu-AB exhibit higher C3H4 uptake compared to C3H6 at low pressure?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption enthalpy for C3H4 higher in sql-NbOFFIVE-bpe-Cu-AB than in sql-NbOFFIVE-bpe-Cu-AA?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can sql-NbOFFIVE-bpe-Cu-AB selectively separate C3H4 from C3H6 at 298 K?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the adsorption selectivity calculations?",
+      "answer": "IAST",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of sql-NbOFFIVE-bpe-Cu-AB-α?",
+      "answer": "tetragonal",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to study the guest-induced structural change in sql-NbOFFIVE-bpe-Cu-AB?",
+      "answer": "Synchrotron PXRD",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the NbOF5 pillar in the structure of sql-NbOFFIVE-bpe-Cu polymorphs?",
+      "answer": "It acts as an inorganic pillar to support the structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is sql-NbOFFIVE-bpe-Cu-AB considered more effective for C3H4/C3H6 separation than sql-NbOFFIVE-bpe-Cu-AA?",
+      "answer": "Because it has a higher separation selectivity and C3H6 productivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption of C3H4 in sql-NbOFFIVE-bpe-Cu-AB faster than that of C3H6?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the transformation from sql-NbOFFIVE-bpe-Cu-AB-α to sql-NbOFFIVE-bpe-Cu-AB-β1?",
+      "answer": "It indicates a phase change that could affect gas adsorption properties.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the sql-NbOFFIVE-bpe-Cu-AB material retain its crystallinity after soaking in water?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the PXRD patterns of sql-NbOFFIVE-bpe-Cu polymorphs?",
+      "answer": "Temperature changes can induce phase transformations, as observed in VT-PXRD patterns.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can sql-NbOFFIVE-bpe-Cu-AB be regenerated and reused for gas separation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to identify the most plausible binding sites for gas molecules?",
+      "answer": "DFT calculations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of Canonical Monte Carlo simulations in the study?",
+      "answer": "To confirm the main binding site locations for the adsorbates C3H4 and C3H6 in the frameworks.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption capacity of sql-NbOFFIVE-bpe-Cu-AB for C3H4 higher than for C3H6?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

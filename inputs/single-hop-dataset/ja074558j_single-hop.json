@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What technique was used to monitor the formation of soluble, dimetallic cations in the reaction of Mg(NO3)2·6H2O with (+)-camphoric acid?",
+      "answer": "Electrospray ionization mass spectrometry (ESI−MS)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the structure of the metal-organic framework formed from the reaction of Mg(NO3)2·6H2O with (+)-camphoric acid?",
+      "answer": "The network consists of a series of fused Mg12 cages creating isolated 0D cavities within the structure.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens when 1,3-propanediol is added to the reaction mixture of Mg(NO3)2·6H2O and (+)-camphoric acid?",
+      "answer": "The addition of 1,3-propanediol results in the formation of a simple 1D polymer [Mg(cam){HO(CH2)3OH}2], 2.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of electrospray ionization mass spectrometry in the study of the reaction between Mg(NO3)2·6H2O and (+)-camphoric acid?",
+      "answer": "ESI−MS is used to identify stable secondary building units (SBUs) in solution prior to network formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the temperature affect the formation of the magnesium MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1?",
+      "answer": "The MOF can be prepared in the temperature range of 60−120 °C, but higher temperatures result in lower yields and smaller crystals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system and space group of the magnesium MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1?",
+      "answer": "The crystal system is cubic and the space group is I23.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structure of the magnesium MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1, retained upon desolvation?",
+      "answer": "No, the structure is not retained upon desolvation and a new crystalline phase is produced.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the addition of 1,3-propanediol lead to the formation of the same MOF as without the additive?",
+      "answer": "False, the addition of 1,3-propanediol leads to the formation of a different structure, a 1D polymer [Mg(cam){HO(CH2)3OH}2], 2.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the chirality of the camphorate ligand retained in the MOF structure?",
+      "answer": "True, the chirality of the camphorate ligand is retained in the MOF structure.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1, possess channels suitable for molecular exchange?",
+      "answer": "False, the MOF does not possess channels suitable for molecular exchange but contains large chiral cavities filled with water.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of adding 1,3-propanediol on the formation of solution species during the synthesis of MOFs?",
+      "answer": "The addition of 1,3-propanediol results in the formation of new chelated solution species, leading to the preferential crystallization of a different structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the extended 3D structure of the MOF a common example of a body-centered cubic (bcu) MOF?",
+      "answer": "False, the extended 3D structure of the MOF is a rare example of a body-centered cubic (bcu) MOF.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the mass spectrometric study reveal about the solution species present during the crystal growths of the MOFs?",
+      "answer": "The mass spectrometric study reveals the presence of stable paddle-wheel [Mg2(Hcam)3]+ cations in solution, supporting their role in the assembly of the MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of the MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1, composed of isolated metals or cages connected by bridging ligands?",
+      "answer": "False, the MOF is composed of vertex-shared cages, not isolated metals or cages connected by bridging ligands.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of hydrogen bonding in the assembly of the MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1?",
+      "answer": "Hydrogen bonding promotes the association of stable paddle-wheel cations using neutral carboxylates as linkers and aids in stabilizing the unusual structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1, contain isolated water-filled cavities?",
+      "answer": "True, the MOF contains isolated water-filled cavities rather than porous channels.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the ESI−MS technique in the study of MOF synthesis?",
+      "answer": "ESI−MS is significant for identifying stable secondary building units in solution, increasing the ability to predict the topologies of the extended networks produced.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1, thermally robust?",
+      "answer": "True, the MOF is more thermally robust than its transition metal analogues.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of the 3-fold [Mg2(Hcam)3]+ paddle-wheel SBU in solution suggest about the assembly of the MOF?",
+      "answer": "The presence of the 3-fold [Mg2(Hcam)3]+ paddle-wheel SBU in solution suggests that it plays a crucial role in the assembly of the MOF through association using neutral carboxylates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the crystals of the MOF [Mg2(Hcam)3·3H2O]·NO3·MeCN, 1, retained upon heating under vacuum?",
+      "answer": "False, the crystals transform to a powder upon heating under vacuum, indicating the structure is not retained.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "materials": [
+    {
+      "name": "H4L-(2MOM)",
+      "synthesis_conditions": {
+        "yield": "80%",
+        "method": "Schiff-base condensation",
+        "precursors": [
+          "5-tert-butyl-3-(4-carboxylic acid)salicylaldehyde",
+          "enantiopure 3,3’-diamino-5,5’,6,6’-tetramethyl-2,2’-methoxymethyl-1,1’-biphenyl"
+        ]
+      }
+    },
+    {
+      "name": "[Zn7(H2L)3(OMe)2]·H2O (1)",
+      "synthesis_conditions": {
+        "yield": "75%",
+        "temperature": "80°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "MeOH",
+            "amount": "not specified"
+          }
+        ],
+        "molar_ratio": "1:3",
+        "precursors": [
+          "H4L-(2MOM)",
+          "Zn(ClO4)2·6 H2O"
+        ]
+      }
+    },
+    {
+      "name": "[Cd2{Zn7L(HL)2(OH)2}(Py)2(H2O)]·DMF (2)",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "pyridine",
+            "amount": "not specified"
+          }
+        ],
+        "molar_ratio": "1:2",
+        "precursors": [
+          "[Zn7(H2L)3(OMe)2]·H2O (1)",
+          "Cd(NO3)2·4 H2O",
+          "Zn(NO3)2·6 H2O"
+        ]
+      }
+    },
+    {
+      "name": "[Zn4O]2/3[Zn7L2(H2L)(OH)2]·3 H2O (3)",
+      "synthesis_conditions": {
+        "temperature": "100°C",
+        "solvents": [
+          {
+            "name": "DMF",
+            "amount": "not specified"
+          },
+          {
+            "name": "pyridine",
+            "amount": "not specified"
+          }
+        ],
+        "molar_ratio": "1:2",
+        "precursors": [
+          "[Zn7(H2L)3(OMe)2]·H2O (1)",
+          "Cd(NO3)2·4 H2O",
+          "Zn(NO3)2·6 H2O"
+        ]
+      }
+    },
+    {
+      "name": "Ap@3",
+      "synthesis_conditions": {
+        "method": "solution adsorption",
+        "temperature": "0°C",
+        "solvent": "anhydrous THF",
+        "time": "two days",
+        "precursors": [
+          "[Zn4O]2/3[Zn7L2(H2L)(OH)2]·3 H2O (3)",
+          "(S)-2-(dimethylaminomethyl) pyrrolidine (S-Ap)"
+        ],
+        "notes": "The crystals remained transparent but with apparent fracturing after treatment."
+      }
+    }
+  ]
+}

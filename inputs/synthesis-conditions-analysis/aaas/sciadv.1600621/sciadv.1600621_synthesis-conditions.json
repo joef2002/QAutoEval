@@ -1,0 +1,60 @@
+{
+  "materials": [
+    {
+      "name": "Synthetic Stepanovite",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Fe2O3",
+          "MgO",
+          "NaOH",
+          "Oxalic acid"
+        ],
+        "solvents": "Water",
+        "temperature": "Room temperature for stirring, 4°C for evaporation",
+        "time": "Stirred overnight, left to evaporate for 2 days",
+        "equipment": [
+          "Stirrer",
+          "Filter"
+        ],
+        "yield": "Not specified",
+        "drying_method": "Evaporation at 4°C"
+      }
+    },
+    {
+      "name": "Synthetic Zhemchuzhnikovite",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "Na3Fe(ox)3·3H2O",
+          "Aluminum sulfate",
+          "MgO",
+          "Oxalic acid"
+        ],
+        "solvents": "Water",
+        "temperature": "4°C for evaporation",
+        "time": "Left to evaporate for 2 days",
+        "equipment": [
+          "Not specified"
+        ],
+        "yield": "Not specified",
+        "drying_method": "Evaporation at 4°C"
+      }
+    },
+    {
+      "name": "Mechanochemical LAG Products of Stepanovite and Zhemchuzhnikovite",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "NaMgAl(ox)3·9H2O",
+          "NaMgFe(ox)3·9H2O"
+        ],
+        "solvents": "Water (20 ml per 200 mg solid mixture)",
+        "temperature": "Not specified",
+        "time": "30 min",
+        "equipment": [
+          "MM200 Retsch mill"
+        ],
+        "yield": "Not specified",
+        "drying_method": "Not specified"
+      }
+    }
+  ]
+}

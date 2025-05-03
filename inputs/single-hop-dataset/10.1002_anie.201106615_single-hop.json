@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main application area of Metal-Organic Frameworks (MOFs)?",
+      "answer": "Gas storage and separation.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the dicopper(II) paddle-wheel cluster in MOFs?",
+      "answer": "It enhances moisture resistance and facilitates H2 storage due to strong metal-H2 interaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are long, slim organic linkers not always used to maximize surface area in MOFs?",
+      "answer": "Because elongation of organic ligands often yields fragile or interpenetrated frameworks, negatively impacting gas-uptake capacity.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using metal-organic polyhedra (MOPs) in MOF construction?",
+      "answer": "MOPs serve as supermolecular building blocks that help design and construct non-interpenetrated MOFs with high connectivity and stability.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does the PCN-80 MOF's structure contribute to its gas storage capabilities?",
+      "answer": "PCN-80's structure, featuring a (3,3,4)-connected network with microporous cages of different sizes, contributes to its high gas-uptake capacity.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of PCN-80, and how does it compare to other MOFs?",
+      "answer": "The BET surface area of PCN-80 is approximately 3850 m2 g-1, similar to PCN-66 and among the highest reported for porous MOFs.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the synthesis of H8bttcd be considered a key step in the creation of PCN-80?",
+      "answer": "Yes, because H8bttcd is the octatopic ligand used to assemble PCN-80, making its synthesis crucial for the MOF's construction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the presence of open metal sites in MOFs beneficial for hydrogen storage?",
+      "answer": "Yes, because open metal sites in the framework facilitate H2 storage due to the strong metal-H2 interaction.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the use of dendritic ligands in MOFs contribute to their stability?",
+      "answer": "Yes, employing dendritic ligands can render MOFs with tolerance to slim organic linkers due to high connectivity, enhancing their stability.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCN-80's high gas-uptake capacity solely attributed to its microporous nature?",
+      "answer": "No, PCN-80's high gas-uptake capacity is attributed to both its microporous nature and high open-metal-site density upon activation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the synthesis method of PCN-80 involve a solvothermal reaction?",
+      "answer": "Yes, PCN-80 is synthesized through a solvothermal reaction of H8bttcd and Cu(NO3)2·2.5 H2O in DMF in the presence of HBF4.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CO2-uptake capacity of PCN-80 at ambient temperature significant for carbon capture applications?",
+      "answer": "Yes, PCN-80 exhibits remarkable CO2-uptake capacity at ambient temperature, making it a good absorbent for CO2 and suitable for carbon capture applications.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is PCN-80 the first MOF to feature a 908-bridging-angle subunit?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Are all MOFs constructed with the same type of metal cluster?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the PCN-80 MOF exhibit a reversible type-I isotherm for N2 sorption?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the stability of PCN-80 higher than that of HKUST-1?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does PCN-80 have a lower CO2-uptake capacity compared to Mg/DOBDC at 296 K?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the high-pressure H2-uptake capacity of PCN-80 at 77 K less than 4.8 wt %?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the synthesis of the octatopic ligand H8bttcd achieved without a catalyzed reaction?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does PCN-80's structure include octahedral cages assembled with 908-angular-dicarboxylate ligands?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

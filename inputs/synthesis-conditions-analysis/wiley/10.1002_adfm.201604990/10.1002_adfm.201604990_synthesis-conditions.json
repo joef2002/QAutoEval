@@ -1,0 +1,92 @@
+{
+  "materials": [
+    {
+      "name": "D/A-MOF",
+      "synthesis_conditions": [
+        {
+          "label": "general_description",
+          "details": "Demonstration of reversible magnetic phase switching between disordered and ordered states in a D/A-MOF used as the cathode material of an LIB through discharge/charge cycles."
+        },
+        {
+          "label": "chemicals_used",
+          "details": "Combination of [Ru2II,II(CF3CO2)4(THF)2] with EHOMO(D) = –5.6183 eV and BTDA-TCNQ with ELUMO(A) = –4.7353 eV."
+        },
+        {
+          "label": "yield",
+          "details": "36% for compound 1."
+        }
+      ]
+    },
+    {
+      "name": "Compound 1",
+      "synthesis_conditions": [
+        {
+          "label": "method",
+          "details": "Synthesized using a slow diffusion reaction technique."
+        },
+        {
+          "label": "solvents",
+          "details": "Solution of BTDA-TCNQ in CH2Cl2 (50 mL) and a solution of [Ru2II,II(CF3CO2)4(THF)2] in p-xylene (50 mL)."
+        },
+        {
+          "label": "temperature",
+          "details": "Room temperature."
+        },
+        {
+          "label": "time",
+          "details": "Left undisturbed for one week or more."
+        },
+        {
+          "label": "yield",
+          "details": "36%."
+        }
+      ]
+    },
+    {
+      "name": "Compound 1'",
+      "synthesis_conditions": [
+        {
+          "label": "method",
+          "details": "Prepared by evacuating a sample of compound 1 for about 12 h at room temperature."
+        },
+        {
+          "label": "temperature",
+          "details": "Room temperature."
+        },
+        {
+          "label": "time",
+          "details": "About 12 hours."
+        }
+      ]
+    },
+    {
+      "name": "Li+-Ion Inserted 1'",
+      "synthesis_conditions": [
+        {
+          "label": "method",
+          "details": "Electron-doping of 1' was carried out through Li+-ion insertion using an LIB system."
+        },
+        {
+          "label": "equipment",
+          "details": "Coin-type cell was assembled with an ionic liquid as the electrolyte medium."
+        },
+        {
+          "label": "chemicals_used",
+          "details": "Li metal used as the anode."
+        },
+        {
+          "label": "electrolyte",
+          "details": "Ionic liquid."
+        },
+        {
+          "label": "temperature",
+          "details": "Room temperature."
+        },
+        {
+          "label": "time",
+          "details": "Rechargeable performance confirmed for 20 cycles."
+        }
+      ]
+    }
+  ]
+}

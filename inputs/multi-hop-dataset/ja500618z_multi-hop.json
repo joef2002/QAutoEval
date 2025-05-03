@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What are the two metal-organic frameworks (MOFs) compared in this study?",
+            "answer": "The two MOFs compared are [C(NH2)3][Mn(HCOO)3] (1) and [(CH2)3NH2][Mn(HCOO)3] (2).",
+            "type": "factual"
+        },
+        {
+            "question": "What is the key difference between the two MOFs that leads to their significantly different mechanical properties?",
+            "answer": "The key difference is their distinct modes of hydrogen bonding between the A-site amine cation and the anionic framework. The stronger cross-linking hydrogen bonding in 1 compared to 2 leads to the different mechanical properties.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What experimental technique was used to measure the mechanical properties of the MOF single crystals?",
+            "answer": "Nanoindentation measurements were performed using a Berkovich tip in the continuous stiffness measurement (CSM) mode to determine the Youngs moduli and hardnesses.",
+            "type": "factual"
+        },
+        {
+            "question": "How do the Youngs moduli and hardnesses of MOF 1 compare to those of MOF 2?",
+            "answer": "The Youngs moduli and hardnesses of 1 are up to twice those of 2 due to the stronger hydrogen bonding in 1.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the difference in thermal expansion between the two MOFs and why?",
+            "answer": "The thermal expansion of 1 is substantially smaller than 2. This is also attributed to the stronger hydrogen bonding constraints in 1 compared to 2.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What computational method was used to quantify the hydrogen bonding energies in the two MOFs?",
+            "answer": "First-principles calculations were performed by the plane-wave pseudopotential method based on density functional theory (DFT) to quantify the hydrogen bonding energies.",
+            "type": "factual"
+        },
+        {
+            "question": "What is the hydrogen bonding energy per pseudocubic unit cell in MOF 1 compared to MOF 2 based on the DFT calculations?",
+            "answer": "The DFT calculations revealed the hydrogen bonding energy is ca. -4.63 eV per pseudocubic unit cell in 1, which is about 55% greater than the -3.01 eV in 2.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The mechanical properties of the two MOFs differ significantly despite them having analogous framework structures.",
+            "answer": true,
+            "type": "true_false"
+        },
+        {
+            "question": "True or False: The elastic moduli of the MOF perovskites are an order of magnitude higher than conventional perovskite oxides.",
+            "answer": "False - The elastic moduli are an order of magnitude lower than some well-known perovskite oxides.",
+            "type": "true_false"
+        },
+        {
+            "question": "What is the underlying reason for the greater plasticity and slip in MOF 2 compared to MOF 1?",
+            "answer": "The larger amount of plastic deformation and easier slip in 2 is due to the less cross-linked hydrogen bonding between the A-site azetidium and the anionic framework compared to the guanidinium and framework in 1.",
+            "type": "reasoning"
+        },
+        {
+            "question": "How do the equivalent isotropic atomic displacement parameters (Uiso) for the manganese atom differ between MOFs 1 and 2?",
+            "answer": "The Uiso values for the manganese atom in 1 are about half those in 2 over the whole temperature range studied, suggesting the average positions are more localized in 1, likely due to the higher framework stiffness from the hydrogen bonding.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The variation of the A-site metal in analogous perovskite oxides has a larger effect on the elastic moduli than the hydrogen-bonding interactions in these MOF perovskites.",
+            "answer": "False - The hydrogen-bonding interactions between the A-site cation and the framework in the MOF perovskites has a more substantial effect on tuning the elastic moduli than varying the A-site metal in perovskite oxides.",
+            "type": "true_false"
+        },
+        {
+            "question": "What type of structural characterization was performed to study the MOFs under high pressure?",
+            "answer": "High-pressure synchrotron single-crystal X-ray diffraction was carried out using a diamond anvil cell to study the structural changes in the MOFs under pressure.",
+            "type": "factual"
+        },
+        {
+            "question": "At what pressure range do the MOFs undergo a phase transition and how do they differ?",
+            "answer": "MOF 1 transforms from orthorhombic to monoclinic between 1.28-1.68 GPa, while 2 shows a similar transition but at a lower pressure between 0.41-0.66 GPa, demonstrating the weaker hydrogen bonding in 2.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The thermal expansion of MOF 1 is larger than MOF 2 along all three crystallographic axes.",
+            "answer": "False - The thermal strains of the three orthogonal axes of 2 are 1.5-4.9 times larger than those of 1 over the temperature range studied.",
+            "type": "true_false"
+        },
+        {
+            "question": "What is the tilting system of the manganese octahedra in MOFs 1 and 2 according to Glazer notation?",
+            "answer": "According to Glazer notation, the octahedral tilting systems are a-b0a- for 1 and a-b+a- for 2.",
+            "type": "factual"
+        },
+        {
+            "question": "True or False: The ferroelectric and ferroelastic phase transitions in MOF perovskites are mainly triggered by tilting of the B-site octahedra and A-site displacement like in perovskite oxides.",
+            "answer": "False - The ferroelectric and ferroelastic transitions in MOF perovskites are mainly triggered by the order-disorder of the A-site amine cations via hydrogen bonding rather than octahedral tilting or A-site displacement as in the oxide counterparts.",
+            "type": "true_false"
+        },
+        {
+            "question": "What is the key conclusion of this study regarding tuning mechanical properties of MOFs?",
+            "answer": "This study presents clear evidence that the mechanical properties of MOF materials can be substantially tuned via hydrogen-bonding interactions between the guest A-site cations and host anionic framework.",
+            "type": "reasoning"
+        },
+        {
+            "question": "True or False: The pop-in events observed in the nanoindentation of MOF 2 occur at random penetration depths unrelated to the crystal structure.",
+            "answer": "False - The pop-in events in 2 occur at penetration depths that are integral multiples of the d-spacing of the relevant pseudocubic unit cell, indicating the slip is related to the crystal structure.",
+            "type": "true_false"
+        },
+        {
+            "question": "What additional MOF was studied computationally to confirm the trend between hydrogen bonding energy and mechanical properties?",
+            "answer": "[(CH3)2NH2][Mn(HCOO)3] (3) with intermediate hydrogen bonding energy and mechanical properties between 1 and 2 was also studied with DFT to confirm the trend.",
+            "type": "factual"
+        }
+    ]
+}

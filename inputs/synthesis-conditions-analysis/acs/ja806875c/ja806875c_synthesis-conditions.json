@@ -1,0 +1,131 @@
+{
+  "materials": [
+    {
+      "label": "1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation from (R)-BINOL",
+          "temperature": "200 °C",
+          "equipment": "microwave technique",
+          "chemicals_used": [
+            {
+              "chemical": "(R)-BINOL",
+              "role": "starting material"
+            },
+            {
+              "chemical": "NaH",
+              "role": "reagent",
+              "amount": "2.2 equivalents"
+            },
+            {
+              "chemical": "N,N-dimethylthiocarbamoyl chloride",
+              "role": "reagent",
+              "amount": "2.2 equivalents"
+            },
+            {
+              "chemical": "LiAlH4",
+              "role": "reagent",
+              "amount": "6 equivalents"
+            },
+            {
+              "chemical": "O2",
+              "role": "reagent",
+              "pressure": "7 atm"
+            },
+            {
+              "chemical": "KOH",
+              "role": "reagent",
+              "amount": "6 equivalents"
+            },
+            {
+              "chemical": "HMPA",
+              "role": "solvent"
+            }
+          ],
+          "time": "5 days",
+          "yield": "82%",
+          "drying_method": "vacuo",
+          "washing_method": "water",
+          "purification_method": "ion-exchange, recrystallization"
+        }
+      ]
+    },
+    {
+      "label": "2a",
+      "synthesis_conditions": [
+        {
+          "step": "Not provided",
+          "note": "Synthesis conditions for 2a are not explicitly provided in the text."
+        }
+      ]
+    },
+    {
+      "label": "8a",
+      "synthesis_conditions": [
+        {
+          "step": "Mannich-type reaction",
+          "temperature": "0 °C",
+          "solvent": "CH2Cl2",
+          "chemicals_used": [
+            {
+              "chemical": "N-Cbz-phenylaldimine",
+              "role": "reactant",
+              "amount": "1.5 equivalents"
+            },
+            {
+              "chemical": "acetylacetone",
+              "role": "reactant",
+              "amount": "1.1 equivalents"
+            },
+            {
+              "chemical": "1·2a2",
+              "role": "catalyst",
+              "amount": "1 mol%"
+            },
+            {
+              "chemical": "MgSO4",
+              "role": "additive",
+              "amount": "1.7 equivalents"
+            }
+          ],
+          "time": "30 min",
+          "yield": "91%",
+          "ee": "90%",
+          "drying_method": "Na2SO4",
+          "purification_method": "silica gel column chromatography"
+        }
+      ]
+    },
+    {
+      "label": "9a",
+      "synthesis_conditions": [
+        {
+          "step": "Oxidation of 8a",
+          "temperature": "room temperature",
+          "solvent": "CH2Cl2/acetone/H2O",
+          "chemicals_used": [
+            {
+              "chemical": "oxone",
+              "role": "oxidizing agent",
+              "amount": "6 equivalents"
+            },
+            {
+              "chemical": "K2CO3",
+              "role": "base",
+              "amount": "10 equivalents"
+            },
+            {
+              "chemical": "TBAI",
+              "role": "catalyst",
+              "amount": "20 mol%"
+            }
+          ],
+          "time": "1 h",
+          "yield": "76%",
+          "ee": "92%",
+          "purification_method": "silica gel column chromatography"
+        }
+      ]
+    }
+  ]
+}

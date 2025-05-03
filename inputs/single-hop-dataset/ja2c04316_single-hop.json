@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of CuCl-bpy at 100 K?",
+      "answer": "C10H8N2CuCl",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of CuBr-bpy?",
+      "answer": "tetragonal",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does CuI-bpy have the highest volume according to Table S3?",
+      "answer": "400 K",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the space group of CuCl-bpy at 300 K I 41 / acd?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main contribution to the T1 state in CuCl-bpy_100K according to Table S12?",
+      "answer": "HOMO → LOMO (68%)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does CuBr-bpy exhibit negative thermal expansion along the c-axis?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the formula weight of CuI-bpy at 250 K?",
+      "answer": "346.63",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the trend of copper valence in CuX-bpy (X = Cl, Br, I) according to the computational methodology section?",
+      "answer": "The trend of copper valence decreases from CuCl-bpy to CuI-bpy",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission intensity of CuCl-bpy reversible with temperature changes?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the structure optimization in the computational methodology?",
+      "answer": "Density Functional Theory (DFT) method B3LYP",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of SOC in CuCl-bpy according to DFT calculations?",
+      "answer": "SOC increases with the shrinking of Cu...Cu distance, limiting the emission of the triplet state and increasing the possibility of RISC T1 → S1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the volume of CuI-bpy increase with temperature according to Table S3?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the electronic absorption spectra between CuCl-bpy_100K and CuCl-bpy_300K?",
+      "answer": "The energy gap between HOMO and LUMO decreases from CuCl-bpy_100K to CuCl-bpy_300K",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the crystal system of CuI-bpy tetragonal at all measured temperatures?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the lattice parameters of CuCl-bpy?",
+      "answer": "The lattice parameters increase with temperature",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the space group of CuI-bpy at 300 K?",
+      "answer": "I 41 / acd",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the emission intensity of CuBr-bpy increase with temperature?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main contribution to the S1 state in CuCl-bpy_300K?",
+      "answer": "HOMO → LOMO (70%)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the effect of temperature on the Cu...Cu distance in CuCl-bpy?",
+      "answer": "The Cu...Cu distance decreases with increasing temperature",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the formula weight of CuBr-bpy at 100 K 299.63?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

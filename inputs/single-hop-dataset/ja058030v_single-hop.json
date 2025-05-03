@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the formula of the new building block presented in the research?",
+      "answer": "[Fe(bpym)(CN)4]-",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of magnetic behavior does compound 3 exhibit?",
+      "answer": "Single-chain magnet (SCM) behavior with intrachain ferromagnetic coupling.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is compound 4 ferromagnetic or ferrimagnetic?",
+      "answer": "Ferromagnetic",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the theoretical study of the magnetic properties?",
+      "answer": "DFT-type calculations and QMC methodology.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the [Fe(bpym)(CN)4]- unit in compounds 2-5?",
+      "answer": "It acts as a bis-monodentate ligand through two of its four cyanide ligands toward the M atom.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does compound 5 exhibit ferromagnetic behavior?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main structural feature of compounds 2, 3, and 5?",
+      "answer": "They are isostructural 4,2-ribbonlike bimetallic chains.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What quantum effect is observed in compound 3?",
+      "answer": "Quantum nucleation of a domain wall.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic coupling between iron(III) centers in compound 2 significant?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What synthetic strategy is highlighted for designing SCMs?",
+      "answer": "Using the low-spin iron(III) complex [Fe(bpym)(CN)4]- as a ligand toward fully solvated transition metal ions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main conclusion regarding the magnetic behavior of compound 3?",
+      "answer": "It behaves as a SCM and exhibits quantum effects.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination geometry around the iron atom in compound 1?",
+      "answer": "Distorted octahedral geometry.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does compound 4 show SCM behavior?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main difference in the structure of compound 4 compared to 2, 3, and 5?",
+      "answer": "Compound 4 consists of cyanide-bridged crossed FeIII−CuII zigzag chains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main method used for magnetization measurements on single crystals of compound 3?",
+      "answer": "Micro-SQUID technique.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in accurately evaluating the exchange coupling constants through DFT calculations?",
+      "answer": "The presence of charged terminal cyanide ligands causing overestimation of the exchange coupling constants.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the magnetic coupling in compound 5 ferromagnetic?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the water hexamer clusters observed in the structure?",
+      "answer": "They are trapped between the cyanide-bridged 4,2-ribbonlike chains and linked through hydrogen bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main feature of the magnetic orbital in the [Fe(bpym)(CN)4]- unit?",
+      "answer": "It corresponds to the combination d(xz)−d(yz).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the research present a new example of SCM?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of the MOF discussed in the text?",
+      "answer": "The MOF is used for one-step C2H4 purification from C2H6 or C3H6 mixtures.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What are the dimensions of the suitable pore sizes in the MOF?",
+      "answer": "8.78 Å × 11.45 Å",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to collect the single crystal data?",
+      "answer": "A Bruker Smart Apex II CCD detector was used.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How were the gas sorption measurements conducted?",
+      "answer": "Using a Micrometrics ASAP 2020M gas adsorption analyzer.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the C3H6 uptake of the MOF at 10 kPa and 298 K?",
+      "answer": "53.6 cm3 g−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the C3H6/C2H4 selectivity of the MOF?",
+      "answer": "17.1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What influences were ignored in the transient breakthrough simulations?",
+      "answer": "Intra-crystalline diffusion influences were ignored.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the activated MOF prepared for the breakthrough experiments?",
+      "answer": "The activated MOF was filled into a packed column and washed with Ar.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the high C3H6 uptake indicate about the MOF's efficiency?",
+      "answer": "It indicates that the MOF is highly efficient in adsorbing C3H6.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What does the benchmark C3H6/C2H4 selectivity suggest about the MOF's performance?",
+      "answer": "It suggests that the MOF performs exceptionally well in separating C3H6 from C2H4.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the MOF realize one-step C2H4 purification from C2H6/C2H4 and C3H6/C2H4 mixtures?",
+      "answer": "Yes, the MOF can realize one-step C2H4 purification from these mixtures.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF exhibit great recyclability?",
+      "answer": "Yes, the MOF exhibits great recyclability.",
+      "difficulty": "easy",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF discussed is used for C2H4 purification from C2H4 or C3H8 mixtures.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The suitable pore sizes of the MOF are 8.78 Å × 11.45 Å.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: A Micrometrics ASAP 2020M gas adsorption analyzer was used for water sorption measurements.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The C3H6 uptake of the MOF at 10 kPa and 298 K is 53.6 cm3 g−1.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The C3H6/C2H4 selectivity of the MOF is less than 10.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: Intra-crystalline diffusion influences were considered in the transient breakthrough simulations.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF can increase the purity of C3H6 from 28.5% to over 85% for a 2/5 C3H6/C2H4 mixture.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The MOF discussed has poor recyclability.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

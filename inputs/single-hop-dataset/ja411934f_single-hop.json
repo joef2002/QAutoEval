@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for scandium terephthalate MOF?",
+      "answer": "Sc2BDC3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What hydrostatic medium was used in the high-pressure experiments on Sc2BDC3?",
+      "answer": "Fluorinert FC-77 and methanol",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what pressure does Sc2BDC3 undergo amorphization in Fluorinert FC-77?",
+      "answer": "0.4 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the amorphization of Sc2BDC3 in Fluorinert FC-77 reversible upon pressure release?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the unit cell volume of Sc2BDC3 change upon immersion in methanol without added pressure?",
+      "answer": "It expands",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to Sc2(NO2-BDC)3 when compressed in Fluorinert FC-77 to 0.8 GPa?",
+      "answer": "It undergoes a phase transition from C2/c to Fdd2",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does Sc2(NO2-BDC)3 undergo amorphization in Fluorinert FC-77?",
+      "answer": "Yes, above 2.6 GPa",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of methanol on the compressibility of Sc2BDC3?",
+      "answer": "Methanol inclusion stabilizes the framework against amorphization",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "At what pressure does Sc2(NO2-BDC)3 in methanol start to show a rapid decrease in diffraction resolution?",
+      "answer": "Above 0.9 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the crystalline-to-amorphous phase transition observed in Sc2BDC3 in Fluorinert FC-77 accompanied by a color change?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational method was used to study methanol adsorption in Sc2BDC3?",
+      "answer": "Grand canonical Monte Carlo simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of methanol affect the phase transition pressure of Sc2(NO2-BDC)3?",
+      "answer": "Yes, methanol uptake inhibits the phase transition",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of methanol in the structural stability of Sc2BDC3 under pressure?",
+      "answer": "Methanol molecules enter the pores and stabilize the structure",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the symmetry change observed in Sc2(NO2-BDC)3 under pressure in Fluorinert FC-77?",
+      "answer": "From C2/c to Fdd2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Sc2BDC3 adsorb methanol molecules at ambient pressure?",
+      "answer": "Yes",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to the unit cell dimensions of Sc2(NO2-BDC)3 when compressed in methanol?",
+      "answer": "The a-axis increases slightly, while the b- and c-axes decrease",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the amorphization of Sc2(NO2-BDC)3 in Fluorinert FC-77 reversible?",
+      "answer": "No, it is irreversible",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What force field was used for scandium in the computational studies of Sc2BDC3?",
+      "answer": "Universal Force Field (UFF)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum pressure at which Sc2BDC3 remains crystalline in methanol?",
+      "answer": "3.0 GPa",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of methanol prevent the amorphization of Sc2(NO2-BDC)3 at high pressures?",
+      "answer": "Yes, methanol inclusion stabilizes the framework",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

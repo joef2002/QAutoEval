@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the article?",
+      "answer": "Interaction of Organoplatinum(II) Complexes with Monovalent Coinage-Metal Triflates",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who are the authors of the article?",
+      "answer": "Marc-Etienne Moret and Peter Chen",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the study presented in the article?",
+      "answer": "The study focuses on the interaction of organoplatinum(II) complexes with monovalent coinage-metal triflates.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to optimize the coordinates in the DFT calculations?",
+      "answer": "The Gaussian03 package was used to optimize the coordinates in the DFT calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What exchange-correlation functional was employed in the DFT calculations?",
+      "answer": "The BP86 exchange-correlation functional was employed in the DFT calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What basis set was used for transition metals in the DFT calculations?",
+      "answer": "The Stuttgart/Dresden basis set and effective core potential were used for transition metals in the DFT calculations.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of interactions were studied between organoplatinum(II) complexes and coinage-metal triflates?",
+      "answer": "The study investigated the electrostatic and orbital interactions between organoplatinum(II) complexes and coinage-metal triflates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the purpose of using harmonic frequencies in the study?",
+      "answer": "Harmonic frequencies were used to analyze the vibrational modes and stability of the complexes formed between organoplatinum(II) and coinage-metal triflates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How did the authors confirm the formation of complexes in their study?",
+      "answer": "The authors confirmed the formation of complexes through X-ray crystallography, UV-Vis spectroscopy, and ESI-MS analysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the significance of rotational constants in the DFT calculations?",
+      "answer": "Rotational constants were significant in the DFT calculations for determining the rotational symmetry and molecular geometry of the complexes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

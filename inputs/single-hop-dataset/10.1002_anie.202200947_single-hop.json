@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of propyne/propylene separation?",
+      "answer": "To produce polymer-grade C3H6 and recover high-purity C3H4.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the name of the ultrastable MOF reported for C3H4/C3H6 separation?",
+      "answer": "ZNU-2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the C3H4 storage capacity of ZNU-2 at 1.0 bar and 298 K?",
+      "answer": "7.7 mmol g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the pore size and functionality of ZNU-2 contribute to its gas separation performance?",
+      "answer": "The precisely controlled pore size, shape, and functionality of ZNU-2 contribute to its benchmark C3H4 storage and high C3H4/C3H6 separation potential.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is ZNU-2 stable under humid conditions?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the IAST selectivity range for C3H4/C3H6 separation using ZNU-2?",
+      "answer": "12.5–16.2",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the adsorption heat (Qst) for C3H4 in ZNU-2?",
+      "answer": "43.0 kJ mol-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does ZNU-2 exhibit higher C3H4 storage capacity at low pressure compared to other anion pillared MOFs?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What structural feature of ZNU-2 aids in its high C3H4/C3H6 separation performance?",
+      "answer": "The symmetrical spatial distribution of six TiF6 2- pillars on the icosahedral pore surface provides distinct binding sites for C3H4 adsorption.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can ZNU-2 produce polymer-grade C3H6 from a 1/99 C3H4/C3H6 mixture?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the productivity of polymer-grade C3H6 from a 10/90 C3H4/C3H6 mixture using ZNU-2?",
+      "answer": "25.5 mol kg-1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How does ZNU-2 compare to Cu-BTC in terms of C3H4 capacity at 10 kPa?",
+      "answer": "ZNU-2 has a higher C3H4 capacity at 10 kPa compared to Cu-BTC.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the adsorption rate of C3H4 in ZNU-2 faster than that of C3H6?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the contracted necks in ZNU-2's structure?",
+      "answer": "The contracted necks provide different diffusion kinetics for molecules with different shapes and diameters, aiding in gas separation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does ZNU-2 maintain its separation performance after 10 cycles?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the global production capacity of propylene as of 2020?",
+      "answer": "140 million tons",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of ZNU-2?",
+      "answer": "1380 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can ZNU-2 recover high-purity C3H4 from a 50/50 C3H4/C3H6 mixture?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the cooperative host–guest and guest–guest interactions in ZNU-2?",
+      "answer": "These interactions boost C3H4 accommodation in the cages, contributing to ZNU-2's high C3H4 storage and separation efficiency.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does ZNU-2 exhibit the highest C3H4/C3H6 separation potential among all materials mentioned?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two metal-organic frameworks (MOFs) discussed in the study?",
+      "answer": "The two MOFs discussed are [C(NH2)3][Mn(HCOO)3] (1) and [(CH2)3NH2][Mn(HCOO)3] (2).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF has stronger hydrogen bonding, 1 or 2?",
+      "answer": "MOF 1 has stronger hydrogen bonding.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The mechanical properties of MOFs can be tuned via hydrogen-bonding interactions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the empirical formula of MOF 1 at 293 K?",
+      "answer": "The empirical formula of MOF 1 at 293 K is C4H9MnN3O6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the hydrogen bonding energy of MOF 1 compare to MOF 2?",
+      "answer": "The hydrogen bonding energy of MOF 1 is higher than that of MOF 2.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The space group of MOF 1 changes under high pressure.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for nanoindentation measurements?",
+      "answer": "Nanoindentation was performed using an MTS NanoIndenter® XP with the Continuous Stiffness Measurement (CSM) module.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the 'pop-ins' observed in the nanoindentation data of MOF 2?",
+      "answer": "The 'pop-ins' are caused by heterogeneous deformation occurring at several penetration depths.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The thermal expansion of MOF 1 is greater than that of MOF 2.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal system of MOF 2 at 293 K?",
+      "answer": "The crystal system of MOF 2 at 293 K is orthorhombic.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why does MOF 2 exhibit more plastic deformation than MOF 1?",
+      "answer": "MOF 2 exhibits more plastic deformation due to less cross-linked hydrogen bonding, which facilitates slip development more easily.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The density functional theory calculations were performed using the plane-wave pseudopotential method.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the A-site amine cations in the MOFs?",
+      "answer": "The A-site amine cations are involved in hydrogen bonding with the [Mn(HCOO)3]− framework, affecting the MOFs' mechanical properties.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the orientation of azetidium in MOF 2 affect its mechanical properties?",
+      "answer": "The orientation of azetidium in MOF 2, being less cross-linked, leads to easier slip development and more plastic deformation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The hydrogen-bonding energy per hydrogen bond is the same for MOF 1 and MOF 2.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of MOF 1 at ambient pressure?",
+      "answer": "The space group of MOF 1 at ambient pressure is Pnna.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What causes the phase transition observed in MOF 1 under high pressure?",
+      "answer": "The phase transition in MOF 1 from orthorhombic to monoclinic is pressure-induced.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystallographic data of MOFs 1 and 2 were obtained from laboratory single crystal X-ray studies.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the empirical formula of MOF 2 at 413 K?",
+      "answer": "The empirical formula of MOF 2 at 413 K is C6H11MnNO6.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the variation in A-site metal in perovskite oxides compare to the effect of hydrogen-bonding in MOF perovskites?",
+      "answer": "The variation in A-site metal in perovskite oxides has a less significant effect on the elastic moduli compared to the hydrogen-bonding interactions in MOF perovskites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

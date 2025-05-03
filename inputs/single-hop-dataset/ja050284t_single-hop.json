@@ -1,0 +1,106 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the coordination polymer discussed in the article?",
+      "answer": "[Cu3(4-pyridinethiolate)2(CN)]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the coordination polymer based on NH4SCN?",
+      "answer": "35%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the topology of the coordination polymer's framework?",
+      "answer": "Twelve-connected face-centered cubic topology",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What role do Cu6S4 clusters play in the coordination polymer?",
+      "answer": "Nodes",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the symmetry of the Cu6S4 cluster in the coordination polymer?",
+      "answer": "Approximate Td symmetry",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What temperature is required for the hydrothermal reaction to synthesize the coordination polymer?",
+      "answer": "170 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of NaOH in the synthesis of the coordination polymer?",
+      "answer": "It is one of the starting materials used in the hydrothermal reaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is the initial pH value important for the formation of the coordination polymer?",
+      "answer": "The initial pH value being slightly basic (pH 8−9) is important for the formation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the SCN- anion during the synthesis of the coordination polymer?",
+      "answer": "It is converted into cyanide and sulfate ions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What indicates the thermal stability of the coordination polymer?",
+      "answer": "It is thermally stable up to 205 °C in air.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the coordination polymer EPR silent?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer crystallize in a centrosymmetrical space group?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the Cu(1) site in the coordination polymer coordinated to three S and one N atoms?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the coordination polymer's structure based on a six-connected topology?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the coordination polymer contain free voids according to PLATON calculations?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the yield of the coordination polymer based on Cu(MeCO2)2?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can the coordination polymer be synthesized without controlling the hydrothermal parameters?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

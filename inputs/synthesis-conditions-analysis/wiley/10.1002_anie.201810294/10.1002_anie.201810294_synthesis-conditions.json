@@ -1,0 +1,81 @@
+{
+  "materials": [
+    {
+      "name": "CZJ-18(M)",
+      "synthesis_conditions": {
+        "temperature": "80-88°C",
+        "time": "one week",
+        "solvents": ["DMF", "acetic acid"],
+        "solvent_amounts": {
+          "DMF": "not specified",
+          "acetic acid": "not specified"
+        },
+        "equipment": "not specified",
+        "chemicals_used": ["M-H8L", "Y(NO3)3·6H2O"],
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "CZJ-18(Cu)-SB",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": ["DMF"],
+        "solvent_amounts": {
+          "DMF": "not specified"
+        },
+        "equipment": "not specified",
+        "chemicals_used": ["4-sulfobenzoate", "acetic acid"],
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "CZJ-18(Cu)-Pro",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": ["not specified"],
+        "solvent_amounts": {},
+        "equipment": "not specified",
+        "chemicals_used": ["l-proline", "acetic acid"],
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "CZJ-18(Cu)-Cu",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": ["DMF"],
+        "solvent_amounts": {
+          "DMF": "not specified"
+        },
+        "equipment": "not specified",
+        "chemicals_used": ["copper(II) perchlorate"],
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "CZJ-18(Zn)-Cu",
+      "synthesis_conditions": {
+        "temperature": "not specified",
+        "time": "not specified",
+        "solvents": ["not specified"],
+        "solvent_amounts": {},
+        "equipment": "not specified",
+        "chemicals_used": ["not specified"],
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

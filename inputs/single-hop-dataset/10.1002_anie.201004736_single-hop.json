@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is postsynthetic modification (PSM) used for in the context of MOFs?",
+      "answer": "PSM is used for introducing new functionality and hence new physical and chemical properties into MOFs.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used by Telfer et al. to deprotect a MOF?",
+      "answer": "Telfer et al. used a thermally labile protecting group to yield a free amino group within a MOF by heating it to > 150 8C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of using photolabile protecting groups in MOFs?",
+      "answer": "Photolabile protecting groups can be liberated within MOFs to yield materials with free hydroxy groups, which is significant as reports of MOFs with free, uncoordinated hydroxy groups are extremely rare.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to UMCM-1-OBnNO2 and UMCM-1-(OBnNO2)2 when irradiated with 365 nm light?",
+      "answer": "Both MOFs undergo a distinct color change from colorless to orange, indicative of the photochemical reaction and release of 2-nitrosobenzaldehyde.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UMCM-1-OH and UMCM-1-CAT could be prepared by direct solvothermal synthesis from HO-BDC and CAT-BDC.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of treating UMCM-1-(OBnNO2)2 and UMCM-1-CAT with [Fe(acac)3]?",
+      "answer": "UMCM-1-(OBnNO2)2 turned light orange, while UMCM-1-CAT turned deep red-purple, indicating the presence of the catechol unit and binding of Fe3+ to the MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET surface areas of UMCM-1-OBnNO2 and UMCM-1-(OBnNO2)2 decreased after photochemical deprotection.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using single-crystal X-ray diffraction in the study?",
+      "answer": "It provided unambiguous evidence for the removal of the nitrobenzyl groups in a SCSC fashion and showed that the framework remained intact after irradiation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The gas sorption experiments showed that the lattice was damaged after the deprotection reaction.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of photochemical deprotection on the porosity of UMCM-1-OH and UMCM-1-CAT?",
+      "answer": "UMCM-1-OH and UMCM-1-CAT exhibited significant increases in porosity, consistent with the liberation of the bulky nitrobenzyl substituents.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The average pore size distribution decreased upon removal of the protecting groups.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding of the study regarding the use of postsynthetic photochemical deprotection in MOFs?",
+      "answer": "Hydroxy and catechol moieties were successfully incorporated into a MOF, maintaining structural and thermal stabilities and showing promise for new applications.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: UMCM-1-OH and UMCM-1-CAT showed no change in BET surface area after photochemical deprotection.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of diffuse reflectance solid-state electronic spectroscopy in the study?",
+      "answer": "It confirmed the color changes and showed clear differences in absorbance between non-metalated and metalated samples, indicating the presence of the catechol unit.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrated that postsynthetic deprotection is a useful strategy for producing MOFs with complex functionality.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the effect of photochemical deprotection on the BET surface areas of UMCM-1-OH and UMCM-1-CAT?",
+      "answer": "The BET surface areas increased, indicating an increase in porosity upon removal of the protecting groups.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study found that light-driven processes are inefficient for initiating chemical reactions within a MOF lattice.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the significance of the color change observed in UMCM-1-(OBnNO2)2 and UMCM-1-CAT after treatment with [Fe(acac)3]?",
+      "answer": "The color change was significant as it confirmed the presence of the catechol unit and its ability to bind Fe3+, demonstrating the accessibility of the newly revealed functional groups.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study concluded that postsynthetic photochemical deprotection has limited potential in the development of new MOF applications.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main advantage of using light for postsynthetic deprotection in MOFs as demonstrated in the study?",
+      "answer": "Using light for postsynthetic deprotection allowed for the efficient and gentle removal of protecting groups, revealing new chemical functionality without damaging the MOF lattice.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

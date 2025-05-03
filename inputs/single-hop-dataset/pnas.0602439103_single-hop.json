@@ -1,0 +1,124 @@
+{
+  "QAs": [
+    {
+      "question": "What is the empirical formula of ZIF-1?",
+      "answer": "C16 H21 N9 O Zn2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the TGA trace of as-synthesized ZIF-8 recorded?",
+      "answer": "The TGA trace was recorded from ambient temperature to 450 °C.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of ZIF-5?",
+      "answer": "Cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How long was ZIF-11 stable in refluxing water before transforming?",
+      "answer": "ZIF-11 transformed after 3 days.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What gas was used to perform high-pressure sorption measurements on ZIF-8?",
+      "answer": "Hydrogen",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Did ZIF-7 maintain its structure after 7 days in boiling benzene?",
+      "answer": "Yes, ZIF-7 maintained its structure after 7 days in boiling benzene.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the Langmuir surface area obtained for ZIF-8 using nitrogen sorption isotherm data?",
+      "answer": "1,810 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is ZIF-8 more dynamic in structure compared to ZIF-11?",
+      "answer": "No, ZIF-11 is shown to be a more dynamic structure than ZIF-8.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to evacuate ZIF-8 before gas-sorption analysis?",
+      "answer": "ZIF-8 was immersed in methanol at ambient temperature for 48 h, evacuated at ambient temperature for 5 h, then at 300 °C for 2 h.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What phenomenon was observed in the nitrogen and argon isotherms of ZIF-8?",
+      "answer": "Two consecutive uptake steps in the micropore region were observed.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did the PXRD pattern of ZIF-8 change after being heated to 500 °C in nitrogen atmosphere?",
+      "answer": "No, the PXRD pattern matched the one simulated from the single crystal structure of ZIF-8.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the reason for the two-step features in both nitrogen and argon isotherms of ZIF-8?",
+      "answer": "The two-step features were interpreted as a result of a reorganization of the adsorbed gas molecules occurred at a certain threshold pressure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the micropore volume of ZIF-8 obtained based on a single data point at P/P0 = 0.10 using nitrogen sorption isotherm?",
+      "answer": "0.636 cm3/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was ZIF-11 able to release all DEF solvent molecules despite the aperture size being smaller than DEF?",
+      "answer": "Yes, ZIF-11 was able to release all DEF solvent molecules.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the Langmuir surface area obtained for ZIF-8 using argon sorption isotherm data at the completion of the first step?",
+      "answer": "1430 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the method used for absorption correction in the crystal data collection for ZIF-4?",
+      "answer": "Semi-empirical from equivalents",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the final R indices for ZIF-12 after refinement?",
+      "answer": "R1 = 0.1064, wR2 = 0.23712",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Did the structure of ZIF-7 change after being tested in boiling methanol?",
+      "answer": "No, the structure of ZIF-7 was unchanged after 7 days in boiling methanol.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the crystal system and space group determined for ZIF-3?",
+      "answer": "Tetragonal, space group P42/mnm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the reason for the high-pressure hydrogen sorption measurement on ZIF-8?",
+      "answer": "To uncover the ultimate hydrogen capacity of ZIF-8.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

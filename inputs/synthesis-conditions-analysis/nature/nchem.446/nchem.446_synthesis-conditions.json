@@ -1,0 +1,262 @@
+{
+  "materials": [
+    {
+      "name": "2-(2,6-dibromophenoxy)ethyl 2,3,4,6-tetra-O-acetyl-β-D-glucopyranoside (4)",
+      "synthesis_conditions": {
+        "temperature": "70 °C",
+        "solvent": "dimethylformamide",
+        "solvent_amount": "8 mL",
+        "reactants": [
+          {
+            "name": "2,6-dibromophenol",
+            "amount": "688 mg, 2.73 mmol"
+          },
+          {
+            "name": "potassium carbonate",
+            "amount": "435 mg, 3.15 mmol"
+          },
+          {
+            "name": "2-bromoethyl 2,3,4,6-tetra-O-acetyl-β-D-glucopyranoside",
+            "amount": "934 mg, 2.05 mmol"
+          }
+        ],
+        "time": "20 h",
+        "atmosphere": "argon",
+        "washing_method": "washed with water (100 mL x 3) and saturated brine (100 mL)",
+        "drying_method": "dried over anhydrous sodium sulfate and evaporated under reduced pressure",
+        "purification_method": "column chromatography on silica gel (hexane:chloroform = 2:1 to 1:2)",
+        "yield": "92%",
+        "product_form": "white solid",
+        "product_amount": "1.18 g, 1.88 mmol"
+      }
+    },
+    {
+      "name": "2-[2,6-bis(4-pyridylethynyl)phenoxy]ethyl 2,3,4,6-tetra-O-acetyl-β-D-glucopyranoside (5)",
+      "synthesis_conditions": {
+        "temperature": "45 °C",
+        "solvent": "1,4-dioxane",
+        "solvent_amount": "5.0 mL",
+        "reactants": [
+          {
+            "name": "compound 4",
+            "amount": "939 mg, 1.50 mmol"
+          },
+          {
+            "name": "4-ethynylpyridine hydrochloride",
+            "amount": "565 mg, 4.05 mmol"
+          },
+          {
+            "name": "Pd(PhCN)2Cl2",
+            "amount": "34.5 mg, 0.090 mmol"
+          },
+          {
+            "name": "copper (I) iodide",
+            "amount": "11.4 mg, 0.060 mmol"
+          },
+          {
+            "name": "Tri-t-butylphosphine",
+            "amount": "0.449 mL, 0.180 mmol; 10% solution in hexane"
+          },
+          {
+            "name": "diisopropylamine",
+            "amount": "1.5 mL, 10.7 mmol"
+          }
+        ],
+        "time": "7 h",
+        "atmosphere": "argon",
+        "washing_method": "washed with water (50 mL x 2), 5% aqueous ethylenediamine (40 mL), water (50 mL x 2) and saturated brine (50 mL)",
+        "drying_method": "dried over anhydrous sodium sulfate and evaporated under reduced pressure",
+        "purification_method": "column chromatography on silica gel (chloroform:methanol = 30:1)",
+        "yield": "98%",
+        "product_form": "white solid",
+        "product_amount": "990 mg, 1.48 mmol"
+      }
+    },
+    {
+      "name": "2-[2,6-bis(4-pyridylethynyl)phenoxy]ethyl β-D-glucopyranoside (1a)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "methanol",
+        "solvent_amount": "90 mL",
+        "reactants": [
+          {
+            "name": "compound 5",
+            "amount": "600 mg, 0.895 mmol"
+          },
+          {
+            "name": "sodium methoxide",
+            "amount": "242 mg, 4.47 mmol"
+          }
+        ],
+        "time": "12 h",
+        "neutralization_method": "neutralized with aqueous solution of sodium hydrogen carbonate",
+        "drying_method": "evaporated under reduced pressure and dried",
+        "yield": "87%",
+        "product_form": "white solid",
+        "product_amount": "391 mg, 0.778 mmol"
+      }
+    },
+    {
+      "name": "2-{2,6-bis[4-(4-pyridyl)phenylethynyl]phenoxy}ethyl 2,3,4,6-tetra-O-acetyl-β-D-glucopyranoside (6)",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvent": "1,4-dioxane",
+        "solvent_amount": "7.0 mL",
+        "reactants": [
+          {
+            "name": "compound 4",
+            "amount": "483 mg, 0.774 mmol"
+          },
+          {
+            "name": "4-(4-pyridyl)phenylacetylene",
+            "amount": "360 mg, 2.01 mmol"
+          },
+          {
+            "name": "Pd(PhCN)2Cl2",
+            "amount": "17.8 mg, 0.0464 mmol"
+          },
+          {
+            "name": "copper (I) iodide",
+            "amount": "5.9 mg, 0.031 mmol"
+          },
+          {
+            "name": "Tri-t-butylphosphine",
+            "amount": "0.240 mL, 0.0960 mmol; 10% solution in hexane"
+          },
+          {
+            "name": "diisopropylamine",
+            "amount": "0.80 mL, 5.6 mmol"
+          }
+        ],
+        "time": "11 h",
+        "atmosphere": "argon",
+        "washing_method": "washed with water (40 mL x 2), 5% aqueous ethylenediamine (30 mL), water (40 mL x 2) and saturated brine (50 mL)",
+        "drying_method": "dried over anhydrous sodium sulfate and evaporated under reduced pressure",
+        "purification_method": "column chromatography on silica gel (chloroform:methanol = 30:1)",
+        "yield": "95%",
+        "product_form": "white solid",
+        "product_amount": "607 mg, 0.738 mmol"
+      }
+    },
+    {
+      "name": "2-{2,6-bis[4-(4-pyridyl)phenylethynyl]phenoxy}ethyl β-D-glucopyranoside (1c)",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "methanol",
+        "solvent_amount": "60 mL",
+        "reactants": [
+          {
+            "name": "compound 6",
+            "amount": "532 mg, 0.647 mmol"
+          },
+          {
+            "name": "sodium methoxide",
+            "amount": "174 mg, 3.22 mmol"
+          }
+        ],
+        "time": "12 h",
+        "neutralization_method": "neutralized with aqueous solution of sodium hydrogen carbonate",
+        "drying_method": "evaporated under reduced pressure and dried",
+        "yield": "99%",
+        "product_form": "white solid",
+        "product_amount": "420 mg, 0.642 mmol"
+      }
+    },
+    {
+      "name": "sphere 2a",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvent": "dimethyl sulfoxide solution of Pd(NO3)2",
+        "solvent_amount": "10 mM, 10 mL",
+        "reactants": [
+          {
+            "name": "Ligand 1a",
+            "amount": "105 mg, 0.200 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "85%",
+        "product_form": "white solid",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "sphere 2c",
+      "synthesis_conditions": {
+        "temperature": "50 °C",
+        "solvent": "dimethyl sulfoxide solution of Pd(BF4)2(CH3CN)4",
+        "solvent_amount": "10 mM, 5.1 mL",
+        "reactants": [
+          {
+            "name": "Ligand 1c",
+            "amount": "65.5 mg, 0.100 mmol"
+          }
+        ],
+        "time": "1 h",
+        "yield": "85%",
+        "product_form": "white solid",
+        "drying_method": "dried in vacuo"
+      }
+    },
+    {
+      "name": "silica nanoparticles within sphere 2a",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "DMSO, CHCl3, H2O",
+        "solvent_amount": "DMSO (18.9 mL), CHCl3 (166 mL), H2O (75 µL)",
+        "reactants": [
+          {
+            "name": "Sphere 2a",
+            "amount": "14.6 µmol"
+          },
+          {
+            "name": "tetramethoxysilane (TMOS)",
+            "amount": "65, 85, 130, 170 equiv for 2a"
+          }
+        ],
+        "time": "4 days",
+        "washing_method": "washed with methanol",
+        "analysis_methods": [
+          "1H NMR",
+          "DOSY NMR",
+          "CSI-MS",
+          "LDI-MS",
+          "AFM",
+          "TEM",
+          "29Si MAS NMR",
+          "X-ray fluorescence (XRF) analysis"
+        ]
+      }
+    },
+    {
+      "name": "silica nanoparticles within sphere 2c",
+      "synthesis_conditions": {
+        "temperature": "room temperature",
+        "solvent": "DMSO, CHCl3, H2O",
+        "solvent_amount": "DMSO (11.9 mL), CHCl3 (35.7 mL), H2O (67 µL)",
+        "reactants": [
+          {
+            "name": "Sphere 2c",
+            "amount": "4.17 µmol"
+          },
+          {
+            "name": "tetramethoxysilane (TMOS)",
+            "amount": "2.09 mmol, 311 µL, 500 equiv for 2c"
+          },
+          {
+            "name": "HNO3",
+            "amount": "2.0 µmol"
+          }
+        ],
+        "time": "4 days",
+        "washing_method": "washed with methanol",
+        "analysis_methods": [
+          "1H NMR",
+          "DOSY NMR",
+          "LDI-MS",
+          "29Si MAS NMR"
+        ]
+      }
+    }
+  ]
+}

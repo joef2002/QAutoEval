@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the role of 4,4'-bipyridine in the synthesis of TCM-4'?",
+      "answer": "4,4'-bipyridine acts as a potential structural template, influencing the arrangement of the dinuclear {Cu2} units during the crystallization of TCM-4'.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the difference in the crystallographic space groups between TCM-4' and TCM-8?",
+      "answer": "TCM-4' crystallizes in the monoclinic space group C2/c, while TCM-8 crystallizes in the monoclinic space group C2/m.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of TCM-8 requires 4,4'-bipyridine.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the calculated accessible surface area of TCM-8?",
+      "answer": "5441 m2/g",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the dihedral angles between the plane of the central phenyl ring of the BTEB ligand and the square nodal plane of the attached {Cu2} SBUs in determining the structure of TCM-4' and TCM-8?",
+      "answer": "The dihedral angles influence the formation of either pto or tbo network structures, with TCM-4' having an angle of approximately 50 degrees and TCM-8 having an angle of approximately 89 degrees.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: TCM-4' and TCM-8 have identical compositions but different topologies.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the maximum nitrogen capacity of TCM-8 compared to TCM-4'?",
+      "answer": "TCM-8 has a maximum nitrogen capacity of 76 mmol/g, which is approximately 43% higher than that of TCM-4' (53 mmol/g).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What type of isotherm characterizes TCM-4'?",
+      "answer": "Type IV isotherm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The structural flexibility of the acetylene-based BTEB ligand contributes to the polymorphism observed in TCM-4' and TCM-8.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What are the void volumes as a percentage of the unit cell volume for TCM-4' and TCM-8?",
+      "answer": "TCM-4' has a void volume of 78.3% and TCM-8 has a void volume of 83.8% of the unit cell volume.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the Platon-Squeeze routine in the crystallographic analysis?",
+      "answer": "The Platon-Squeeze routine is used to calculate the void volumes and re-generate reflection files by excluding the diffraction contributions of un-located solvent molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The BET analysis of TCM-8 after activation suggests that the ideal, ordered tbo topology is maintained.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the observed weight loss in the thermogravimetric analysis of TCM-4' and TCM-8?",
+      "answer": "The weight loss observed in the thermogravimetric analysis of TCM-4' and TCM-8 is due to the loss of constitutional solvent molecules, indicating their highly augmented topologies.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The simulated helium pore volume at 298 K is higher for TCM-8 than for TCM-4'.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the approximate crystal dimension of TCM-4'?",
+      "answer": "0.40 x 0.20 x 0.10 mm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of TCM-4' and TCM-8 involves the use of the tritopic linker 1,3,5-benzene-tris-ethynylbenzoic acid (BTEB).",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the solvent-exchange procedures using dichloromethane in the preparation of TCM-4' and TCM-8?",
+      "answer": "The solvent-exchange procedures using dichloromethane are used for de-solvating and drying the samples for CHN and FT-IR analysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The crystallographic data for TCM-4' and TCM-8 can be obtained free of charge from the Cambridge Crystallographic Data Centre.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the observed interpenetration in the structures of TCM-4' and TCM-8?",
+      "answer": "The interpenetration in TCM-4' and TCM-8 contributes to their structural complexity and affects the formation of cavities and void spaces within the frameworks.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis conditions for TCM-4' and TCM-8 are identical.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

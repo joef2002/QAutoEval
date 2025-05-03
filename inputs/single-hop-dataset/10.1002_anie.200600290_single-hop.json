@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is ionothermal synthesis?",
+      "answer": "Ionothermal synthesis is a method where an ionic liquid is both the solvent and source of the template, providing opportunities to develop new synthetic routes based on different chemistry compared to traditional hydrothermal approaches.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What role do deep-eutectic solvents (DESs) play in ionothermal reactions?",
+      "answer": "DESs serve as the media for ionothermal reactions, where the organic template is delivered to the reaction by the breakdown of one of the components of the DES itself.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can DESs be used to prepare aluminum phosphate materials?",
+      "answer": "Yes, aluminum phosphate materials can be prepared using urea derivatives in DESs.",
+      "difficulty": "easy",
+      "type": "true or false"
+    },
+    {
+      "question": "What templates are delivered by the decomposition of DMU, IMI, and THP in DES?",
+      "answer": "The decomposition of DMU, IMI, and THP delivers methylamine, ethylene diamine, and propylene diamine as templates, respectively.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the addition of mineralizers affect the final structure of materials synthesized in DES?",
+      "answer": "Adding suitable mineralizers, such as water or fluoride, can alter the final structure of materials, with the dependence of final structure on mineralizer content illustrating the rich potential of the system to produce different materials in a controlled manner.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is it true that templated materials are formed across the entire range of water content in DES-based ionothermal synthesis?",
+      "answer": "True, templated materials are formed across the entire range of water content from very low to very high, without evidence of templating being stopped by intermediate water content.",
+      "difficulty": "easy",
+      "type": "true or false"
+    },
+    {
+      "question": "What is the expected template when using a DMU/tetraethylammonium bromide DES?",
+      "answer": "The expected template when using a DMU/tetraethylammonium bromide DES is the methylammonium cation.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What templates are produced at moderate temperatures using a DES containing the cyclic urea derivative IMI?",
+      "answer": "At moderate temperatures, a DES containing IMI yields ethylene diammonium cations as the template, with some ammonium cations produced above 200°C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the use of a DES with TMP lead to the crystallization of materials with the propylene diammonium template?",
+      "answer": "Yes, using a DES with TMP leads to the crystallization of materials with the propylene diammonium template.",
+      "difficulty": "easy",
+      "type": "true or false"
+    },
+    {
+      "question": "What happens when a large excess of water is added to a TMP-based DES system?",
+      "answer": "When a large excess of water is added to a TMP-based DES system, the breakdown of the urea derivative proceeds further at temperatures of 200°C to produce a material that has only ammonium as the templating cation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are all the aluminophosphate materials prepared using DESs previously known compounds?",
+      "answer": "No, among the aluminophosphate materials prepared using DESs, five are previously unknown compounds.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What does the isolation of the parent compound using eutectic mixture suggest about hydrolysis conditions?",
+      "answer": "The isolation of the parent compound using the eutectic mixture suggests milder hydrolysis conditions than in hydrothermal or solvothermal synthesis, indicating that synthesis in DES may be more controllable.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the maximum crystallinity time range for the products in DES-based synthesis?",
+      "answer": "The crystallinity of the products reaches its maximum between 12 and 48 hours after the reactions started.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is it true that the nucleation and crystallization of materials in DES-based synthesis occur at relatively low levels of solvent degradation?",
+      "answer": "True, the nucleation and crystallization of materials take place at relatively low levels of solvent degradation, under conditions where the concentration of the template species is slowly increasing.",
+      "difficulty": "easy",
+      "type": "true or false"
+    },
+    {
+      "question": "What framework does compound 10 represent?",
+      "answer": "Compound 10 represents the gallium phosphate version of the zeolite-A framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is compound 11 prepared using a DES that contributes decomposition products as templates?",
+      "answer": "No, compound 11 is prepared using a succinic acid/choline chloride DES that does not contribute decomposition products as templates to the reactions.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What is the significance of preparing gallium phosphate zeolite-A without fluoride?",
+      "answer": "The preparation of gallium phosphate zeolite-A without fluoride is significant because it is believed to be the first time this material has been prepared without fluoride at the center of the double four-ring secondary building units present in the structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the choice of eutectic solvent control whether templating takes place?",
+      "answer": "Yes, the choice of eutectic solvent can control whether templating takes place, as shown by the ability to prepare materials with or without templating by selecting the appropriate DES.",
+      "difficulty": "medium",
+      "type": "true or false"
+    },
+    {
+      "question": "What does the versatility of DES-based synthesis indicate about its potential?",
+      "answer": "The versatility of DES-based synthesis, demonstrated by delivering different templates for the preparation of various types of material, indicates a broad scope and potential for targeting materials that are difficult to prepare in traditional hydrothermal synthesis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the template origin in DES-based synthesis of urea/choline chloride mixtures now resolved?",
+      "answer": "Yes, the template origin in DES-based synthesis of urea/choline chloride mixtures is now resolved, confirming that the template comes from the urea part of the DES.",
+      "difficulty": "easy",
+      "type": "true or false"
+    }
+  ]
+}

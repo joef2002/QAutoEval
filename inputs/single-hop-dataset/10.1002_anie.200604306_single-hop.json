@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the primary focus of the research conducted by Yunling Liu and colleagues?",
+      "answer": "The primary focus is on the assembly and development of functional solid-state porous materials, specifically metal-organic frameworks (MOFs), for applications including hydrogen storage.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature do MOFs offer for technological applications?",
+      "answer": "MOFs offer facile tunability, allowing alteration in pore size and functionality, which is crucial for addressing technological challenges such as hydrogen storage.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Why are inorganic MBBs formed in situ considered vital for the assembly of MOAs?",
+      "answer": "Inorganic MBBs are formed in situ to ensure the generation of a specific molecular building block consistently, which is crucial for designing and assembling desired metal-organic assemblies (MOAs).",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis of crystalline porous organic frameworks using organic-molecule-based MBBs with high connectivity common?",
+      "answer": "False. Organic-molecule-based MBBs with high connectivity are not common, and their assembly into crystalline porous organic frameworks remains a challenge.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What topology does the MOF synthesized from 1,3-benzenedicarboxylic acid and In(NO3)3·2 H2O exhibit?",
+      "answer": "The MOF exhibits a cubic structure similar to MIL-59 with a CaB6 topology.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the soc topology in the context of MOFs?",
+      "answer": "The soc topology represents an unprecedented structure in MOFs, indicating a novel arrangement of the molecular building blocks to form a unique porous framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MOF 2 store hydrogen effectively at 78 K and 1.2 atm?",
+      "answer": "True. MOF 2 can store high amounts of hydrogen, up to 2.61% by weight, at 78 K and 1.2 atm.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What drives the higher population of H2 molecules in the pores of MOF 2?",
+      "answer": "The narrow pores (1 nm) result in an overlap of potential energy fields of the pore walls combined with the residential charge density within the pores, driving a higher population of H2 molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of open metal sites influence H2 sorption in MOFs?",
+      "answer": "True. The presence of open metal sites has been confirmed to significantly influence H2 sorption in MOFs.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the estimated Langmuir surface area for MOF 2?",
+      "answer": "The estimated Langmuir surface area for MOF 2 is 1417 m2 g-1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the isosteric heat of adsorption for MOF 2 compare to carbon porous materials?",
+      "answer": "The isosteric heat of adsorption for MOF 2 is appreciably larger than that observed for carbon porous materials, indicating stronger H2 binding.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the nitrate ions in MOF 2's structure able to escape the framework?",
+      "answer": "False. The nitrate ions are not able to escape the framework of MOF 2 due to steric hindrance.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do the coordinated water molecules play in MOF 2?",
+      "answer": "The coordinated water molecules point inside the hydrophilic channels of MOF 2, contributing to the framework's ability to form hydrogen bonds with guest water molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the synthesis approach for MOFs based on serendipity or design?",
+      "answer": "False. The synthesis approach for MOFs is based on design rather than serendipity, as it involves the rational construction of targeted functional MOAs.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the potential impact of MOFs with narrow pores and higher localized charge densities on hydrogen storage?",
+      "answer": "MOFs with narrow pores and higher localized charge densities are suitable for higher uptake of H2, potentially meeting the US Department of Energy (DOE) target for H2 uptake.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the goal of designing MOFs with high surface area, higher charge densities, and narrow pores?",
+      "answer": "The goal is to increase the uptake of hydrogen, leveraging the modularity of MOFs' construction to achieve higher surface areas and optimize the framework for efficient hydrogen storage.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the research aim to synthesize an [Al3O(CO2)6] trimer based soc MOF?",
+      "answer": "True. The research aims to synthesize an [Al3O(CO2)6] trimer based soc MOF to potentially adsorb similar amounts of H2 per unit volume and higher uptake per weight unit.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of inelastic neutron scattering (INS) in studying MOF 2?",
+      "answer": "INS is used to study the interactions of molecular H2 with the framework of MOF 2, helping to identify well-defined binding sites and understand the nature of H2 sorption.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Are the isolated cages in MOF 2 accessible at lower hydrogen loadings?",
+      "answer": "False. The isolated cages in MOF 2 become accessible at higher loadings due to increased local concentration of H2, overcoming the sorption kinetic energy diffusion barrier.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the constancy of the heat of adsorption for MOF 2 indicate?",
+      "answer": "The constancy of the heat of adsorption for MOF 2 up to a certain loading indicates the homogeneity of the sorption sites for H2 up to that experimental loading.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

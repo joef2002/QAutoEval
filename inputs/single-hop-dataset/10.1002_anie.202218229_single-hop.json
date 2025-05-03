@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the three families of ester-based solid polymer electrolytes (SPEs) investigated in the study?",
+      "answer": "Polycarbonate electrolytes (PCE), polyoxalate electrolytes (POE), and polymalonate electrolytes (PME)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Why do SPEs made from pentanediol have higher Li+-conductivity compared to those made from butanediol?",
+      "answer": "Due to the enhanced asymmetry and flexibility of the pentanediol-based polymer structures.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The trifluoroacetyl-units are more effective than TF-diol units in stabilizing the interface with Li-metal.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the poor cycling stability of ASS Li/NCM622 cells using C5-PME-F as SPE?",
+      "answer": "Due to the enol isomerization of malonate units.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How is the cycling stability of Li/PME/NCM622 cells improved?",
+      "answer": "By introducing a dimethyl-group in malonate and suppressing enol isomerization.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Li+-conductivity of PME and POE is around 10 and 5 times of PCE, respectively.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of elemental F in the SPEs?",
+      "answer": "To in situ construct a passivating solid-electrolyte-interlayer (SEI) by the reduction of Li-metal.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ASS Li/Li cells using C5-PCE-F-Li, C5-POE-F-Li, and C5-PME-F-Li deliver stable cycling up to 1000 hours.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of changing from C4-diol to C5-diol in PCE/POE/PME?",
+      "answer": "It increases the variations in length and configuration between carbonate/oxalate/malonate units and diol segments, facilitating the improvement of Li+-conductivity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ASS Li/NCM622 cells using C5-PME-F-Li showed severe capacity fading due to the stable interface with Li-metal.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What modification is made to PME to suppress enol isomerization?",
+      "answer": "Introducing a dimethyl-group in malonate.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The thermal stability of SPEs is not affected by the presence of LiTFSI.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main challenge in the development of high-performance solid-state electrolytes for ASS cells?",
+      "answer": "The poor interfacial contact and large interfacial resistance between the inorganic electrolyte and electrode membrane.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The introduction of a dimethyl-group in PME results in higher Li+-conductivity compared to POE.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using solid polymer electrolytes (SPEs) in all-solid-state batteries?",
+      "answer": "They offer higher flexibility, better interfacial contact, and easier large-scale production compared to inorganic ceramic/glass electrolytes.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The HOMO and LUMO energy levels of SPEs determine their mechanical properties.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the trifluoroacetyl-units in SPEs?",
+      "answer": "They protect the highly reactive OH units, generate a LiF-based SEI passivating layer, and stabilize the interface with Li-metal.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The ASS Li/NCM622 cells using DM-C5-PME-F-Li show improved cycling stability compared to those using C5-PME-F-Li.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main focus of previous studies on SPEs?",
+      "answer": "Polyether-based SPEs like PEO (poly(ethylene oxide)) and P-PEGMA (poly(poly(ethylene glycol)methacrylate)), which show high Li+-conductivity and good compatibility with Li-metal.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The introduction of elemental F on SPE polymer chains is aimed at improving the mechanical strength of the electrolyte.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

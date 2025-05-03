@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the barium-organic framework that undergoes solid-state transformations?",
+      "answer": "UPC-600",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does UPC-600 transform into UPC-601?",
+      "answer": "373 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of structural units does UPC-601 consist of?",
+      "answer": "1D rod-shaped SBUs",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final product of the solid-state transformation at 473 K?",
+      "answer": "UPC-602",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity of CO2/N2 for UPC-601 at 298 K?",
+      "answer": "12 140",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What method is used to predict gas selectivities of UPC-601?",
+      "answer": "Ideal adsorbed solution theory (IAST)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to UPC-600 when it is heated at 373 K for 2 hours?",
+      "answer": "It undergoes a solid-state transformation to UPC-601.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of UPC-601 differ from UPC-600?",
+      "answer": "UPC-601 has a non-interpenetrated net and 1D rod-shaped SBUs, while UPC-600 has a 2-fold interpenetrated framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What leads to the transformation of UPC-601 into UPC-602?",
+      "answer": "The removal of remaining coordinated solvent molecules and the formation of new coordination bonds.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the coordination environment of Ba2+ ions in UPC-601?",
+      "answer": "Nine-coordinated by six carboxyl oxygen atoms from four different BIPA-TC4(cid:2) anions, one carbonyl oxygen, and two H2O molecules.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the solid-state transformation from UPC-600 to UPC-601 and then to UPC-602?",
+      "answer": "It demonstrates a multistep sequential solid-state transformation involving sophisticated rearrangements of SBUs with simultaneous multiple bond cleavage and formation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the solid-state transformation from UPC-600 to UPC-601 reversible?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does UPC-601 have higher selectivity for CO2/N2 compared to many reported MOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Can UPC-602 be directly synthesized through solvothermal synthesis without impurities?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the SCSC transformation from UPC-600 to UPC-601 a common occurrence in MOFs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does UPC-601 exhibit high selectivity for CO2 over N2 due to its unique pore structure?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the solid-state transformation from UPC-601 to UPC-602 accompanied by a change from 1D rod-shaped SBUs to 3D layered SBUs?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the transformation of UPC-600 to UPC-601 involve the rearrangement of two proximate rod-shaped SBUs in different nets?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

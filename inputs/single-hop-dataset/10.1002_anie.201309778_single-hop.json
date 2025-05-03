@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main purpose of crystal engineering the nbo MOF platform MOF-505?",
+      "answer": "To achieve a high density of well-oriented Lewis active sites within the cuboctahedral cage in MMCF-2 for high catalytic activity in the chemical fixation of CO2 into cyclic carbonates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the conditions under which MMCF-2 demonstrates high catalytic activity for the chemical fixation of CO2?",
+      "answer": "Room temperature under 1 atm pressure.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The drawbacks of amine-based wet-scrubbing systems include energy-cost, corrosion, and inefficiency.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the empirical formula of MMCF-2?",
+      "answer": "[Cu2(Cu-tactmb)(H2O)3(NO3)2]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does MMCF-2 compare to MOF-505 in terms of catalytic activity for CO2 fixation?",
+      "answer": "MMCF-2 demonstrates twice the efficiency of MOF-505 for CO2 fixation into cyclic carbonates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MMCF-2 outperforms HKUST-1 in catalyzing the cycloaddition of propylene oxide with CO2 into propylene carbonate.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of propylene carbonate from cycloaddition of propylene oxide and CO2 catalyzed by MMCF-2?",
+      "answer": "95.4%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The high catalytic activity of MMCF-2 is mainly attributed to the low density of active sites.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of MMCF-2?",
+      "answer": "About 450 m2 g-1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the yield of cyclic carbonates change with the increase of molecular sizes of epoxide substrates?",
+      "answer": "There is a dramatic yet steady decrease in the yield of cyclic carbonates with the increase of molecular sizes of epoxide substrates.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MMCF-2 requires high-pressure and high-temperature conditions to achieve high efficiency in CO2 fixation.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the proposed mechanism for the cycloaddition of epoxide and CO2 into cyclic carbonate catalyzed by MMCF-2?",
+      "answer": "The mechanism involves binding the epoxide with the Lewis acidic copper site, followed by attack from Br- to open the epoxy ring, interaction of CO2 with the opened ring, and conversion into cyclic carbonate.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MMCF-2's ability to convert CO2 into cyclic carbonate under mild conditions is not advantageous compared to some existing MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield of butylene carbonate from cycloaddition of butylene oxide and CO2 catalyzed by MMCF-2?",
+      "answer": "88.5%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The cuboctahedral cage of MMCF-2 functions as a highly efficient Lewis acid-based nanoreactor for the cycloaddition of CO2 and epoxide under ambient conditions.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the custom-designed azamacrocycle ligand in MMCF-2?",
+      "answer": "It leads to a high density of well-oriented Lewis active sites within the cuboctahedral cage, enhancing catalytic activity for CO2 fixation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MMCF-2's performance in converting CO2 into cyclic carbonates is inferior to that of MOF-505.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the high density of active sites in MMCF-2?",
+      "answer": "It promotes the interactions between substrates and active sites, leading to high catalytic activity for CO2 conversion into cyclic carbonates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of well-oriented active copper sites in MMCF-2's cuboctahedral cage affect its catalytic activity?",
+      "answer": "It enhances the catalytic activity by promoting interactions between substrates and active sites, making MMCF-2 more efficient than MOFs with a lower density of active sites.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main advantage of MMCF-2 over some existing MOFs and metal–salen-based porous organic networks for CO2 fixation?",
+      "answer": "MMCF-2 can chemically convert CO2 into cyclic carbonate with high efficiency under mild conditions of room temperature and 1 atm pressure.",
+      "difficulty": "medium",
+      "type": "factual"
+    }
+  ]
+}

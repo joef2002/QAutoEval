@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the specific capacity of NiCo-MOF-2 at a current density of 0.5 A g−1?",
+      "answer": "108.5 mAh g−1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the energy density of the NiCo-MOF-2//AC asymmetric supercapacitor at a power density of 450.6 W kg−1?",
+      "answer": "45.7 Wh kg−1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to fabricate Ni-MOF crystals?",
+      "answer": "A simple, mild, and one-step solvothermal process",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the capacity retention of NiCo-MOF-2 after 6500 cycles?",
+      "answer": "84.3%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of cobalt ions in the synthesis of NiCo-MOF-X?",
+      "answer": "Cobalt ions accelerate the etching and degradation of Ni-MOF, promoting the conversion of metal hydroxides into MOF materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of NiCo-MOF-2 contribute to its electrochemical performance?",
+      "answer": "The 'petals' of NiCo-MOF-2 are formed by stacking multiple nanowires, enhancing richer active sites to promote charge transfer due to the larger contact area between the electrolyte and the electrode material.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the NiCo-MOF-2 electrode material capable of maintaining its specific capacity after 6500 cycles?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of cobalt ions to Ni-MOF result in a decrease in specific capacity?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the energy density of NiCo-MOF-2//AC ASC device higher than 40 Wh kg−1 at a power density of 450.6 W kg−1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the NiCo-MOF-2//AC ASC device exhibit a decrease in energy density when the power density is increased to 4500.0 W kg−1?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the specific surface area of NiCo-MOF-2 less than 10 m2 g−1?",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the NiCo-MOF-2 electrode have a lower charge-transfer resistance compared to Ni-MOF?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of etching time on the morphology of NiCo-MOF-X?",
+      "answer": "Etching for 16 hours results in a more complete reaction, forming a unique flower shape with 'petals' consisting of stacked nanowires.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the second component in the synthesis of composite materials?",
+      "answer": "The second component improves the electrical conductivity and stability of the material through the synergistic effect between the two substances.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main challenge in the application of supercapacitors?",
+      "answer": "The incompatibility of power density and energy density is the main challenge.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main advantage of using MOFs as electrode materials for supercapacitors?",
+      "answer": "MOFs have unique structure and potential pseudocapacitive redox centers.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the specific capacity of NiCo-MOF-2 higher than that of Ni-MOF at a current density of 0.5 A g−1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the NiCo-MOF-2 electrode exhibit reversible electrochemical behaviors?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the specific surface area of NiCo-MOF-2 greater than that of Ni-MOF?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of cobalt ions to Ni-MOF result in a change in the chemical environment of –COO– groups?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    }
+  ]
+}

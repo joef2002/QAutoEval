@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the purpose of incorporating thiazyl radicals into porous coordination-based frameworks?",
+      "answer": "The purpose is to modulate the magnetic properties of the host lattice by enabling magnetic communication between the radical guest and a paramagnetic framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the names of the two dithiazolyl radicals used in the preliminary studies?",
+      "answer": "5-methylbenzo-1,3,2-dithiazolyl (MBDTA) and benzo-1,3,2-dithiazolyl (BDTA).",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: MBDTA adopts a trans-oid π*−π* dimer geometry in the solid state.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Which framework underwent a clear change from a white powder to a reddish-brown and dark-brown material respectively when exposed to MBDTA or BDTA?",
+      "answer": "The MIL53(Al) framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The inclusion of thiazyl radicals into porous coordination materials has been previously reported before this study.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the attempted loading of radicals BDTA and MBDTA into different host frameworks?",
+      "answer": "Sublimation under vacuum.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The guests in MIL53(Al)@MBDTA and MIL53(Al)@BDTA are readily released by the addition of solvent CH2Cl2.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the UV/vis transmission spectra indicate about the MIL53(Al)@MBDTA and MIL53(Al)@BDTA samples?",
+      "answer": "The spectra indicate alteration in the packing of the radicals within the MIL53(Al) pores.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The EPR spectra of MIL53(Al)@MBDTA and MIL53(Al)@BDTA revealed identical isotropic singlet EPR spectra.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the broader and less intense line width of MIL53(Al)@BDTA's EPR spectrum suggest?",
+      "answer": "It suggests disorder in the orientation of the BDTA molecule leading to either head-to-head or head-to-tail arrangements of radicals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The addition of CH2Cl2 to a sample of MIL53(Al)@MBDTA or MIL53(Al)@BDTA results in an isotropic 1:1:1 triplet EPR spectrum.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of incorporating dithiazolyl radicals into MIL53(Al) on the guest?",
+      "answer": "It modifies the π*−π* mode of association of BDTA from trans in pristine BDTA to cis in MIL53(Al)@BDTA and leads to an increase in sample paramagnetism.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The radicals can be stabilized as a guest for extended periods and can be released in a controlled manner by exposure to a suitable solvent.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the synthesis of MBDTA involve?",
+      "answer": "It involves the reaction of 3,4-dimercaptotoluene with sulphuryl chloride followed by trimethylsilylazide, and then silver powder to afford black rhombs of MBDTA.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The synthesis of BDTA uses 1,2-dimercaptobenzene as the starting compound.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the space group of MIL53(Al)@BDTA after inclusion of the radical?",
+      "answer": "P21/n",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The inclusion of MBDTA into MIL53(Al) results in a change in unit cell dimensions and space group from Imma to P21/n.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What interactions are observed between the guest radicals and the host framework in MIL53(Al)@BDTA and MIL53(Al)@MBDTA?",
+      "answer": "Weak hydrogen bonded OH···N interaction and π–π interactions between the benzo-ring and the phenylene ring of the terephthalic acid.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The EPR spectrum of MIL53(Al)@MBDTA is more intense and has a narrower line width compared to MIL53(Al)@BDTA.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a π*−π* dimer motif in MIL53(Al)@BDTA but not in MIL53(Al)@MBDTA indicate?",
+      "answer": "It indicates that the structural arrangement and interactions within the host framework can significantly influence the packing and magnetic properties of the included radicals.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

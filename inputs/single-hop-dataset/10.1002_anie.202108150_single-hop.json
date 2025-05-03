@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the clusters that connect into a twelve-connected fcu net in the Zirconium-Based Metal-Organic Framework?",
+      "answer": "[Zr6(OH)4O4]12+",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two linkers used in the synthesis of the Zirconium-Based Metal-Organic Framework?",
+      "answer": "Terephthalate and fumarate",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of formic acid in the synthesis of Zr-based MOF with mixed terephthalate and fumarate linkers?",
+      "answer": "Formic acid is used as a modulator in the synthesis.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can the Zirconium-Based Metal-Organic Framework with ordered terephthalate and fumarate linkers be synthesized in a single-step process?",
+      "answer": "Yes, it can be synthesized in a single-step process.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of using high-throughput synthesis methods in the discovery of new MOF phases?",
+      "answer": "High-throughput synthesis methods enable the screening of a large number of reactions, accelerating the investigation of complex chemical spaces.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What distinguishes the Zirconium-Based Metal-Organic Framework with ordered linkers from other MOFs in terms of porosity?",
+      "answer": "It retains three-dimensional porosity while creating two distinct windows within the channels, defining two distinct guest diffusion paths.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the Zirconium-Based Metal-Organic Framework with ordered terephthalate and fumarate linkers the first of its kind to be discovered?",
+      "answer": "Yes, it is the first fcu Zr MOF with two windows discovered from a single-step synthesis.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of using linkers with different lengths in the synthesis of MOFs?",
+      "answer": "Using linkers with different lengths can confer structural diversity on the products.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal structure of UiO-66?",
+      "answer": "UiO-66 has a face-centered cubic (fcu) topology.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does the synthesis of the Zirconium-Based Metal-Organic Framework require a specific ratio of terephthalate to fumarate linkers?",
+      "answer": "Yes, the synthesis requires a specific ratio of terephthalate to fumarate linkers.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the liquid-handling robot in the synthesis process?",
+      "answer": "The liquid-handling robot is used to prepare reaction mixtures, enabling the use of stock solutions of the reaction components.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the Zr6(BDC)3(Fum)3 structure in the context of MOF design?",
+      "answer": "The Zr6(BDC)3(Fum)3 structure demonstrates the possibility of precisely controlling MOF porosity through multiple linker chemistry.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the Zr6(BDC)3(Fum)3 MOF characterized by a single type of window between the cages?",
+      "answer": "No, the Zr6(BDC)3(Fum)3 MOF is characterized by two distinct types of window between the cages.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the BET surface area of Zr6(BDC)3(Fum)3?",
+      "answer": "The BET surface area of Zr6(BDC)3(Fum)3 is 783 m2 g@1.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What distinguishes the Zr6(BDC)3(Fum)3 MOF's structure from UiO-66 and MOF-801?",
+      "answer": "The Zr6(BDC)3(Fum)3 MOF's structure is distinguished by its ordered arrangement of two distinct linkers, producing trigonally distorted tetrahedral and octahedral cages.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the presence of missing linkers affect the porous properties of Zr6(BDC)3(Fum)3?",
+      "answer": "Yes, the presence of missing linkers generates extra accessible space and decreases the density of the framework, affecting its porous properties.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of high-throughput experimental screening in the discovery of Zr6(BDC)3(Fum)3?",
+      "answer": "High-throughput experimental screening enabled the fine compositional resolution screening necessary to isolate the new phase within a narrowed chemical space.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of Zr6(BDC)3(Fum)3?",
+      "answer": "Zr6(BDC)3(Fum)3 crystallizes in the R3¯ space group.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the synthesis of Zr6(BDC)3(Fum)3 limited to using ZrOCl2 as the metal source?",
+      "answer": "No, the synthesis of Zr6(BDC)3(Fum)3 is not limited to using ZrOCl2; ZrCl4 can also be used as a starting material.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the impact of the ordered two-linker arrangement on the porosity of Zr6(BDC)3(Fum)3?",
+      "answer": "The ordered two-linker arrangement controls the global porous properties, surface area, and pore volume, as well as the local ones, the size and the shape of the individual cages and windows.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

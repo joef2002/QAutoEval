@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the compound synthesized in the study?",
+      "answer": "[Co3(NC5H3(CO2)2-2,5)2(μ3-OH)2(OH2)2]",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used for the synthesis of the compound?",
+      "answer": "Solvothermal synthesis",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature was the reaction mixture heated during the synthesis?",
+      "answer": "230 ºC",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the yield percentage of the synthesized compound?",
+      "answer": "54%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of KOH in the synthesis of the compound?",
+      "answer": "KOH acts as a base in the reaction.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the molar ratio of Co:L:OH used in the synthesis?",
+      "answer": "3:2:7",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the compound's magnetic bistability?",
+      "answer": "Magnetic bistability is significant because it indicates the compound could be useful for magnetic recording materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the structure of the compound contribute to its magnetic properties?",
+      "answer": "The structure, based on hydroxide-bridged triangular chains, contributes to the compound's unique magnetic behavior, including magnetic bistability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What analytical technique was used to determine the structure of the synthesized compound?",
+      "answer": "X-ray diffraction analysis",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of cobalt(II) chloride in the synthesis?",
+      "answer": "Cobalt(II) chloride provides the cobalt ions necessary for the compound's structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the cooling rate used after heating the reaction mixture?",
+      "answer": "0.10 ºC min-1",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesized compound has a two-dimensional structure.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The magnetic behavior of the compound is consistent with three S = 3/2 ions with moderate antiferromagnetic coupling.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound was synthesized using a hydrothermal reaction.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound's magnetic susceptibility increases as the measuring field decreases.",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound shows only one region of magnetic bistability.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound's structure includes square-based pyramidal coordination geometry.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The compound was cleaned with ethanol after synthesis.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using pyridine-2,5-dicarboxylic acid in the synthesis?",
+      "answer": "Pyridine-2,5-dicarboxylic acid acts as a ligand, coordinating with cobalt ions to form the compound's structure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the presence of different Co(II) environments affect the compound?",
+      "answer": "The different Co(II) environments contribute to the compound's complex magnetic phase behavior and its magnetic bistability.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

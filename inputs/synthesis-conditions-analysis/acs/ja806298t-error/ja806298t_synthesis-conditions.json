@@ -1,0 +1,49 @@
+{
+  "materials": [
+    {
+      "material_name": "1",
+      "synthesis": {
+        "solvents": [
+          {
+            "name": "methanol",
+            "amount": "15 mL"
+          },
+          {
+            "name": "water",
+            "amount": "10 mL"
+          }
+        ],
+        "reagents": [
+          {
+            "name": "Ag3[Cr(ox)3]",
+            "amount": "698 mg",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "[FPh(NH3)]Cl",
+            "amount": "443 mg",
+            "molar_amount": "3 mmol"
+          },
+          {
+            "name": "CoCl2·6H2O",
+            "amount": "238 mg",
+            "molar_amount": "1 mmol"
+          },
+          {
+            "name": "18-crown-6",
+            "amount": "0.793 mg",
+            "molar_amount": "3 mmol"
+          }
+        ],
+        "yield": "40%",
+        "yield_details": "Anal calcd for H55C42Cr2KCo2FNO40 (Mw = 1493.83): C, 33.77 ; H, 3.71. Found: C, 33.98; H, 3.84.",
+        "method": "Single crystals of 1 were prepared by slow diffusion of its components. Ag3[Cr(ox)3] and [FPh(NH3)]Cl were suspended in methanol and stirred for 20 min. The AgCl white precipitate was filtered off. CoCl2·6H2O was added to the filtrate. This mixture was layered onto an aqueous solution of 18-crown-6 in a glass tube and left to stand protected from light. After 4 days, prismatic purple crystals of [C12H24O6K][(C12H24O6)(FC6H4NH3)][Co(H2O)2Cr(ox)3]2 were observed.",
+        "notes": "All reagents and solvents used were of commercially available grade and were used without any previous purification. K3[Cr(ox)3] salt was prepared following a previously described method. The Ag3[Cr(ox)3] derivative was obtained by metathesis of the potassium salt and protected from light to avoid further reduction. The 4-fluoroanilinium complex was prepared by dissolving p-toluidine in HCl 4M, filtering, and drying the resulting [FPh(NH3)]Cl crystals under vacuum."
+      },
+      "thermal_treatment": {
+        "description": "A polycrystalline sample of 1 was subjected to gently heating prior to its magnetic characterization.",
+        "effect": "AC measurements performed on the resulting compound show an additional out-of-phase signal at 7.5 K along with that previously observed around 4.5 K. The high-temperature signal shows no frequency-dependence, while the latter exhibits approximately the same dependence than prior to thermal treatment. This fact is ascribed to the formation of a secondary 2D phase resulting from the collapse of the 1D chains after thermal removal of the coordinating water molecules."
+      }
+    }
+  ]
+}

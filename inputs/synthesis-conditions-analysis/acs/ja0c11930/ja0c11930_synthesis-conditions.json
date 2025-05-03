@@ -1,0 +1,77 @@
+{
+  "materials": [
+    {
+      "name": "MFM-300(V)",
+      "synthesis_conditions": {
+        "precursors": [
+          "H4BPTC (1.12 g, 3.4 mmol)",
+          "VCl3 (3.20 g, 20.3 mmol)"
+        ],
+        "solvents": [
+          "deionised water (80 mL)",
+          "HCl (1%, 2 mL)"
+        ],
+        "equipment": "autoclave",
+        "temperature": "483 K",
+        "time": "3 days",
+        "washing_method": "centrifugation",
+        "drying_method": "stored under acetone"
+      }
+    },
+    {
+      "name": "MFM-300(Cr)",
+      "synthesis_conditions": {
+        "precursors": [
+          "H4BPTC (0.70 g, 2.1 mmol)",
+          "CrCl3·6H2O (2.83 g, 10.6 mmol)"
+        ],
+        "solvents": [
+          "deionised water (100 mL)",
+          "HCl (1%, 15 mL)"
+        ],
+        "equipment": "autoclave",
+        "temperature": "483 K",
+        "time": "3 days",
+        "washing_method": "centrifugation",
+        "drying_method": "stored under acetone"
+      }
+    },
+    {
+      "name": "MFM-300(Fe)",
+      "synthesis_conditions": {
+        "precursors": [
+          "H4BPTC (0.98 g, 3.0 mmol)",
+          "FeCl3 (1.92 g, 11.8 mmol)"
+        ],
+        "solvents": [
+          "DMF (80 mL)",
+          "HCl (36.5 wt%, 3 mL)"
+        ],
+        "equipment": "autoclave",
+        "temperature": "393 K",
+        "time": "3 days",
+        "washing_method": "centrifugation",
+        "drying_method": "stored under acetone"
+      }
+    },
+    {
+      "name": "MFM-300(In)",
+      "synthesis_conditions": {
+        "precursors": [
+          "H4BPTC (1.12 g, 3.4 mmol)",
+          "In(NO3)3·xH2O (3.13 g, 10.4 mmol)"
+        ],
+        "solvents": [
+          "MeCN (25 mL)",
+          "DMF (75 mL)",
+          "HNO3 (70%, 2.5 mL)"
+        ],
+        "equipment": "autoclave",
+        "temperature": "363 K",
+        "time": "2 days",
+        "washing_method": "centrifugation",
+        "drying_method": "stored under acetone"
+      }
+    }
+  ]
+}

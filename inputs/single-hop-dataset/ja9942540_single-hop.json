@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of compound 1?",
+      "answer": "C15H6AgAuF10O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of compound 1?",
+      "answer": "C2/c",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the calculated density (Dcalc) of compound 1 in Mg m^-3?",
+      "answer": "2.611",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the emission wavelength of compound 1 in the solid state at room temperature?",
+      "answer": "546 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of excited states are responsible for the luminescence of compound 1 in dilute acetone solution?",
+      "answer": "Pentafluorophenyl localized ππ* excited states or from π-MMCT transitions",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the emission wavelength of compound 1 in dilute acetone solution (5 × 10^-4 M)?",
+      "answer": "405 nm",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the emission wavelength of compound 1 when the concentration in acetone solution increases?",
+      "answer": "The emission wavelength shifts to longer wavelengths due to molecular aggregation through gold−gold interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission of compound 1 in the solid state due to metal-centered excited states?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission of compound 1 in dilute acetone solution arise from interactions among the metals?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission wavelength of compound 1 in the solid state and in solution correlated?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the deviation from Lambert−Beer's law in compound 1's absorption spectra indicate molecular aggregation?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the emission of compound 1 in the solid state due to ππ* excited states?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission of compound 1 in dilute acetone solution show a significant Stokes shift?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the emission maxima of compound 1 in the solid state?",
+      "answer": "The emission band blue shifts with decreasing temperature.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of gold−gold interactions in the optical properties of compound 1?",
+      "answer": "Gold−gold interactions are critical to the optical properties when the gold atoms are in a linear environment.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the effect of gold−gold interactions on the HOMO-LUMO gap in compound 1?",
+      "answer": "Gold−gold interactions roughly produce a destabilization of the 5dz2 orbital, while the empty 6pz orbital is stabilized.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the gold(I) and silver(I) precursor complexes of compound 1 luminescent at similar energies?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the emission of compound 1 in the solid state match the extrapolated value from the solution phase?",
+      "answer": "True",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of TD-DFT calculations in the study of compound 1?",
+      "answer": "TD-DFT calculations have been used for the prediction of the excitations that lead to emission of radiation in solution and in the solid state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the emission of compound 1 in the solid state due to π-MMCT transitions?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "materials": [
+    {
+      "name": "PCN-605-H",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "2,2'-H-H4TPCB (L1) (10 mg)", "benzoic acid (700 mg)"],
+        "time": "72 h",
+        "yield": "63%"
+      }
+    },
+    {
+      "name": "PCN-605-OH",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "2,2'-OH-H4TPCB (L2) (10 mg)", "benzoic acid (600 mg)"],
+        "time": "72 h",
+        "yield": "68%"
+      }
+    },
+    {
+      "name": "PCN-606-OH",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "4,4'-OH-H4TPCB (L3) (10 mg)", "benzoic acid (500 mg)"],
+        "time": "72 h",
+        "yield": "67%"
+      }
+    },
+    {
+      "name": "PCN-606-NH2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["2 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "4,4'-NH2-H4TPCB (L4) (10 mg)", "benzoic acid (500 mg)"],
+        "time": "72 h",
+        "yield": "63%"
+      }
+    },
+    {
+      "name": "PCN-606-OMe",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "4,4'-OMe-H4TPCB (L5) (10 mg)", "benzoic acid (600 mg)"],
+        "time": "72 h",
+        "yield": "65%"
+      }
+    },
+    {
+      "name": "PCN-608-OH",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["2.5 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "4,4'-OH-H4TPCB (L3) (10 mg)", "trifluoroacetic acid (0.1 mL)"],
+        "time": "72 h",
+        "yield": "69%"
+      }
+    },
+    {
+      "name": "PCN-608-NH2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["2.5 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "4,4'-NH2-H4TPCB (L4) (10 mg)", "trifluoroacetic acid (0.1 mL)"],
+        "time": "72 h",
+        "yield": "68%"
+      }
+    },
+    {
+      "name": "PCN-608-OMe",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["2.5 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "4,4'-OMe-H4TPCB (L5) (10 mg)", "trifluoroacetic acid (0.1 mL)"],
+        "time": "72 h",
+        "yield": "75%"
+      }
+    },
+    {
+      "name": "PCN-608-OCp",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["2.5 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "4,4'-OCp-H4TPCB (L7) (10 mg)", "trifluoroacetic acid (0.1 mL)"],
+        "time": "72 h",
+        "yield": "66%"
+      }
+    },
+    {
+      "name": "MLPCN-605",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "2,2'-H-H4TPCB (L1) (5 mg)", "4,4'-NH2-H4TPCB (L4) (5 mg)", "benzoic acid (500 mg)"],
+        "time": "72 h",
+        "yield": "70%"
+      }
+    },
+    {
+      "name": "MLPCN-608–1",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "2,2'-H-H4TPCB (L1) (5 mg)", "H4TBAPy (L6) (5 mg)", "benzoic acid (500 mg)"],
+        "time": "72 h",
+        "yield": "71%"
+      }
+    },
+    {
+      "name": "MLPCN-608–2",
+      "synthesis_conditions": {
+        "temperature": "120 °C",
+        "solvents": ["DMF"],
+        "amount_of_each_solvent": ["3 mL"],
+        "equipment": ["Pyrex vial"],
+        "chemicals_used": ["ZrCl4 (20 mg)", "2,2'-H-H4TPCB (L1) (3.3 mg)", "H4TBAPy (L6) (3.3 mg)", "4,4'-OCp-H4TPCB (L7) (3.3 mg)", "benzoic acid (500 mg)"],
+        "time": "72 h",
+        "yield": "69%"
+      }
+    }
+  ]
+}

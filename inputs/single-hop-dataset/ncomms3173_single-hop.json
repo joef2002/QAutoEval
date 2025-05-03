@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is microfluidic pen lithography (MPL)?",
+      "answer": "MPL is a method for doing femtolitre chemistry on surfaces by handling and mixing femtolitre volumes of reagents using a microfluidic stylus.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What are the two main types of methods for conducting reactions at ultrasmall dimensions?",
+      "answer": "The two main types are methods based on micromachining techniques (like microfluidics and femtolitre wells) and self-enclosed volume elements (like vesicles, micelles, and oil/water-dispersed droplets).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can MPL be used to create multiplexed nanoscale metal-organic framework arrays?",
+      "answer": "Yes, MPL can be used to create multiplexed nanoscale metal-organic framework arrays.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of relative humidity in MPL-assisted femtolitre reactions?",
+      "answer": "Relative humidity in MPL-assisted femtolitre reactions helps control the evaporation rate of solvents and ensures that reactions can be run under controlled atmospheres.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was used to confirm the formation of the desired Prussian Blue Analogues (PBAs)?",
+      "answer": "Electron diffraction analysis was used to confirm the formation of the desired Prussian Blue Analogues (PBAs).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is MPL capable of performing high-throughput assays and combinatorial screening?",
+      "answer": "Yes, MPL is capable of performing high-throughput assays and combinatorial screening.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the screening for new metal-peptide networks using MPL?",
+      "answer": "The screening using MPL discovered two new metal-peptide networks: [Cu(GH)(H2O)]·H2O and [Ni(GH)2]·7H2O.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does MPL overcome the limitations of vesicles and micelles for reactions at ultrasmall dimensions?",
+      "answer": "MPL overcomes the limitations of vesicles and micelles by allowing the mixing of reagents in isolated femtolitre droplets on surfaces, enabling independent reactions and crystallization processes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What are the potential applications of MPL as it becomes more sophisticated?",
+      "answer": "Potential applications of MPL include running high-throughput assays, performing femtolitre-scale biological studies, discovering novel materials, and fabricating arrays of complex structures.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is MPL limited to water-based reactions?",
+      "answer": "No, MPL is not limited to water-based reactions; it can perform a broad range of femtolitre reactions in both water and organic solvents.",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

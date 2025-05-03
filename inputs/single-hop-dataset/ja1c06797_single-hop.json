@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the nickel bis(dithiolene-dibenzoic acid) ligand designed for the MOF?",
+      "answer": "[Ni(C2S2(C6H4COOH)2)2]",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the maximum Faradaic efficiency (FE) for HCOO– production achieved by MOF 1 at -1.3 V vs RHE?",
+      "answer": "89.6%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does MOF 1 demonstrate better electrocatalytic performance for CO2 reduction to HCOO– compared to MOF 2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of [NiS4] sites in MOF 1 for CO2 electroreduction?",
+      "answer": "They serve as CO2 binding sites and efficient catalytic centers.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the crystal system of MOF 1?",
+      "answer": "orthorhombic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the electrical conductivity of MOF 1 higher than that of MOF 2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used for the density functional theory (DFT) calculations?",
+      "answer": "Vienna ab initio simulation package (VASP)",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the BET surface area of MOF 1?",
+      "answer": "35.8 m2 g−1",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can MOF 1 maintain its structural integrity after electrocatalysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main liquid product of CO2 reduction by MOF 1?",
+      "answer": "HCOO–",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the [NiS4] sites in enhancing the electrocatalytic performance of MOF 1?",
+      "answer": "They mimic the active sites of formate dehydrogenase and CO-dehydrogenase, leading to selective production of formate.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does the MOF 1 structure contain interpenetrated frameworks?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the charge-transfer resistance (Rct) of MOF 1 compared to MOF 2?",
+      "answer": "The Rct of MOF 1 (46.88 Ω) is significantly lower than that of MOF 2 (81.84 Ω).",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the synthesis temperature for MOF 1?",
+      "answer": "120 °C",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the electrochemical surface area (ECSA) of MOF 1 larger than that of MOF 2?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of incorporating nickel bis(dithiolene) ligands into MOF 1?",
+      "answer": "It enhances the electrical conductivity and provides unsaturated metal sites for catalysis.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does MOF 1 exhibit long-term stability over 12 hours of continuous electrocatalysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the solvent used in the synthesis of MOF 1?",
+      "answer": "DMF (N,N-dimethylformamide)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of dimethylammonium cation (Me2NH2+) in MOF 1?",
+      "answer": "It exists in the cavity to balance the charge.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the performance of MOF 1 in electrocatalytic CO2 reduction superior to most other MOF catalysts?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

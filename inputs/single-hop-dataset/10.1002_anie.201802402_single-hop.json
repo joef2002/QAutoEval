@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the composition of PCM-101?",
+      "answer": "PCM-101 is comprised of tris(p-carboxylato)triphenylphosphine and secondary pillaring groups coordinated to [M3(OH)]5+ nodes (M = Co, Ni).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What unique feature does PCM-101 have regarding its topology?",
+      "answer": "PCM-101 has a unique topology in which R3P: sites are arranged directly trans to one another, with a P···P separation distance dictated by the pillars.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens when AuCl groups are added to PCM-101?",
+      "answer": "Addition of AuCl groups forces a large distortion of the parent framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does CuBr interact with PCM-101?",
+      "answer": "CuBr undergoes insertion directly between the trans-P sites to form dimers that are geometrically strained due to steric pressure exerted by the MOF scaffold.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of metalated materials in catalysis according to the text?",
+      "answer": "The metalated materials are active in heterogeneous hydroaddition catalysis under mild conditions, yielding different major products compared to their molecular counterparts.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the crystalline nature of MOFs mentioned in the text?",
+      "answer": "The crystalline nature of MOFs allows for incorporation of structurally well-defined metal sites by design.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main challenge in using pre-formed, molecular complexes as MOF building blocks?",
+      "answer": "Precursor complexes can undergo decomposition under MOF-forming conditions, making chelated complexes preferred despite their arduous and low-yielding preparation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Why is it difficult to assemble materials with two or more P: sites for co-operative metal chelation using monophosphines?",
+      "answer": "Because it is difficult to assemble materials with two or more P: sites that permit co-operative metal chelation.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the specific intention behind using monophosphines to spontaneously assemble PCMs with bidentate (P2) coordination sites?",
+      "answer": "The specific intention was to fuse 2D phosphine-decorated bilayers into 3D arrays, such that the P: sites were arranged directly trans to each other.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What dictates the P···P centroid separation in PCM-101?",
+      "answer": "The P···P centroid separation in PCM-101 is dictated by the inter-layer separation imposed by 4,4’-bipy.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the thermal stability range of PCM-101?",
+      "answer": "PCM-101 is thermally stable up to 340 88C.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the high-symmetry [M3(m3-OH)]5+ clusters in PCM-101?",
+      "answer": "The high-symmetry [M3(m3-OH)]5+ clusters act as octahedral nodes, with the three equatorial cluster sites occupied by bipy-N donors.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the CuBr-PCM-101 material permanently porous?",
+      "answer": "True, the desolvated materials prepared using CoII or NiII are permanently porous.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the addition of AuCl to PCM-101 increase its BET surface area?",
+      "answer": "False, the measured surface areas and pore volumes were moderately reduced upon addition of AuCl into the pores.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the distortion caused by AuCl coordination to PCM-101 reversible?",
+      "answer": "False, the single crystal-to-single crystal metalation incurred a large distortion of the host lattice, causing tilting of the pores.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Can CuBr-PCM-101 increase the BET surface area for N2?",
+      "answer": "True, the BET surface area by N2 was increased by 36% to 429 m2 g@1 for CuBr-PCM-101.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the catalytic activity of metalated PCM-101 materials lower than their molecular counterparts?",
+      "answer": "False, the metalated PCMs were both significantly more active than their molecular counterparts under identical reaction conditions.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does grinding AuCl-PCM-101 to increase surface area result in a proportional increase in catalytic activity?",
+      "answer": "False, grinding increased the surface area-to-volume ratio but only resulted in a modest increase in the rate of catalysis.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the observed loss of activity in AuCl-PCM-101 upon recycling due to leaching of Au?",
+      "answer": "True, analysis revealed a 10% decrease in total Au content compared to the fresh catalyst.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the post-synthetic metalation of PCM-101 allow for full X-ray diffraction analysis of the resulting structures?",
+      "answer": "True, the flexible nature of PCM-101 in the solid state allowed the incorporation of different Group 10 metal species with full X-ray diffraction analysis.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

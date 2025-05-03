@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula for the flexible metal-organic framework discussed in the article?",
+      "answer": "Co(bdp)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Which method was used for the synthesis of H2bdp derivatives?",
+      "answer": "Suzuki-Miyaura coupling",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using N2 adsorption measurements in the study?",
+      "answer": "To determine Langmuir surface areas of Co(bdp) derivatives",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The Co(bdp) derivatives maintain an open structure containing N,N-diethylformamide solvent molecules in their as-synthesized form.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main challenge in obtaining single crystal X-ray diffraction data for Co(bdp) and its derivatives?",
+      "answer": "Cooling crystals to 100 K led to severe deterioration of crystal quality due to non-uniform structural changes.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What technique was used to account for unassigned electron density in the single crystal X-ray diffraction analysis?",
+      "answer": "The PLATON routine SQUEEZE",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: BET surface areas could not be accurately determined for the Co(bdp) derivatives due to the steps in the low-pressure 77 K N2 adsorption isotherms.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of exposing Co(F-bdp) to air according to the high-pressure CH4 adsorption experiments?",
+      "answer": "The material showed significant CH4 adsorption in the pre-step region of the isotherm, indicating degradation caused by air exposure.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How was the issue of crystal quality preservation addressed for the single crystal X-ray diffraction data collection?",
+      "answer": "Data for the crystals were collected at 298 K where crystal quality was preserved.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study provides rudimentary evidence of cyclability for the Co(bdp) derivatives based on the reproducibility of CH4 adsorption isotherms at different temperatures.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

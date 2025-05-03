@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the DOI number of the supplementary information?",
+      "answer": "10.1038/NCHEM.1982",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research presented in the supplementary information?",
+      "answer": "The research focuses on the discovery and introduction of a (3,18)-connected net as an ideal blueprint for the design of metal–organic frameworks (MOFs).",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What type of materials are metal–organic frameworks (MOFs)?",
+      "answer": "MOFs are a class of porous materials that can be designed and constructed with controlled porous structure, composition, and functionality.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of the (3,18)-connected net discovered in the research?",
+      "answer": "The (3,18)-connected net serves as a new blueprint for constructing MOFs with specific network topologies, offering a new approach to designing functional solid-state materials.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What role does the rare earth nonanuclear carboxylate-based cluster play in the research?",
+      "answer": "The rare earth nonanuclear carboxylate-based cluster acts as an 18-connected molecular building block for forming a MOF based on a (3,18)-connected net.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the research focused on a single material or multiple materials?",
+      "answer": "The research focuses on multiple materials, including different types of MOFs and the discovery of a new (3,18)-connected net.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The research successfully demonstrates the deliberate construction of a second MOF with a different chemical system using the discovered (3,18)-connected net.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What applications are explored for the metal–organic frameworks discussed in the research?",
+      "answer": "Applications explored include gas storage, CO2 capture, hydrocarbon separation, and catalysis for CO2 conversion.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the supermolecular building blocks (SBBs) in the design of MOFs according to the research?",
+      "answer": "SBBs, such as metal–organic polyhedra, are used as highly connected building blocks to replace dense clusters in MOFs, facilitating the design of MOFs with specific topologies and functionalities.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The research indicates that the discovered (3,18)-connected net is self-dual.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

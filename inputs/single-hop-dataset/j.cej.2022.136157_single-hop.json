@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the main goal of constructing crystalline redox catalysts like RO-4?",
+      "answer": "The main goal is to achieve efficient artificial photosynthesis with high CO production activity and O2 release.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to analyze the thermogravimetric analysis (TGA) of the sample?",
+      "answer": "TGA of the sample was performed on a Perkin–Elmer TG-7 analyzer.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The photocatalytic experiments for RO-4 were carried out using a 500 W xenon lamp.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the yield percentage of the synthesis of Cu8Cl[PMo8V6O42](p-tr2Ph)4·8H2O (RO-4)?",
+      "answer": "50%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Based on the synthesis conditions, which compound had the highest yield percentage?",
+      "answer": "Cu2Cl2(p-tr2Ph)·H2O (CuL) with a 75% yield.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD pattern of RO-4 remains unchanged after the cyclic test.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the calculated ΦCO of RO-4?",
+      "answer": "0.014%",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The ionization potential of CuL is determined at -6.70 eV.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the purpose of using isotopic labeling control experiments in the study?",
+      "answer": "To confirm the carbon and oxygen sources of the products formed by photocatalytic CO2 reduction.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The synthesis of {PMo8V6O42} resulted in a 70% yield.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What technique was used to measure the UV-Vis absorption spectra?",
+      "answer": "The UV-Vis absorption spectra were acquired on a Shimadzu UV-2550 spectrophotometer.",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The electrochemical measurements were carried out using an electrochemical workstation CHI 660E.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the reaction condition for the photocatalytic experiments?",
+      "answer": "Catalyst 5 mg, water 200 μL, CO2 1 bar, irradiation time 4 h.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the working electrode for electrochemical measurements prepared?",
+      "answer": "2 mg photocatalyst were dispersed in a mixed solution of 990 μL ethanol and 10 μL Nafion D-520 dispersion solutions, then coated on ITO glass plates.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The photocatalytic durability of RO-4 under continual irradiation showed a decrease in CO yield over fifteen continuous runs.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the purpose of using a gas chromatography-mass spectrometer (GC-MS) in the study?",
+      "answer": "To analyze 13CO and 18O2 in isotope experiments.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The PXRD patterns of RO-4 in different concentrations of HCl and NaOH aqueous solution remained unchanged after 24 hours.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main finding from the in situ high-resolution Cu LM2 XPS spectrum of RO-4 under different conditions?",
+      "answer": "It provided insights into the changes in the electronic structure of RO-4 under dark, light, and light + CO2 conditions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was the role of the computational hydrogen electrode (CHE) model in the study?",
+      "answer": "To describe the Gibbs reaction free energy of reaction for CO2RR elementary steps involving (H+ + e–) pair transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study confirmed that the carbon source of CO formed by photocatalytic CO2 reduction was from 13CO2 using isotopic labeling control experiments.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What are the two isoreticular fluorinated metal-organic frameworks (MOFs) reported in the study?",
+      "answer": "JXNU-11(Fe2Ni) and JXNU-11(Fe2Co)",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What unique structural feature do JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs have?",
+      "answer": "Unique cage-in-cage structures",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the primary application focus of JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs?",
+      "answer": "Efficient C2H2/CO2 separation",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "How do JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs achieve high-performance C2H2/CO2 separation?",
+      "answer": "Through their nanosized double-shell cages decorated with abundant fluorine and carboxylate oxygen atoms",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the C2H2 breakthrough time for JXNU-11(Fe2Ni) in the breakthrough experiment?",
+      "answer": "More than 120 minutes per gram",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What makes the pore surfaces of JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs highly polarized and fluorophilic?",
+      "answer": "The presence of highly electronegative fluorine and carboxylate oxygen atoms",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs have the highest C2H2-capture amount observed at ambient condition.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of fluorine atoms in the separation process of C2H2/CO2 in JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs?",
+      "answer": "Fluorine atoms act as preferential binding sites for the acidic hydrogen atoms of C2H2, facilitating its separation from CO2",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The C2H2/CO2 separation efficiency of JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs decreases significantly after multiple cycles of adsorption/desorption.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental technique was used to confirm the phase purity of the bulk samples of JXNU-11(Fe2Ni) and JXNU-11(Fe2Co)?",
+      "answer": "Powder X-ray diffraction",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The primary binding sites for C2H2 in JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs are the open metal sites.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main reason for the high C2H2 adsorption capacity of JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs at 273 K?",
+      "answer": "The polarized and fluorophilic microporous environments of the MOFs",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The breakthrough experiments for JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs were performed at room temperature.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What computational simulation was performed to investigate the gas adsorption sites for JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs?",
+      "answer": "Grand canonical Monte Carlo (GCMC) simulations",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The C2H2 breakthrough times for JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs are among the shortest observed for MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of temperature on the C2H2 breakthrough times for JXNU-11(Fe2Ni) in the breakthrough experiments?",
+      "answer": "The C2H2 breakthrough times increase significantly with a decrease in temperature",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The C2H2 captured amounts during the breakthrough experiments for JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs are lower than those of other prominent MOFs.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of the modest adsorption heat of C2H2 for JXNU-11(Fe2Ni) and JXNU-11(Fe2Co) MOFs?",
+      "answer": "It allows for easy regeneration of the MOFs through purging the column with He gas at ambient temperature",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The desorption experiments for JXNU-11(Fe2Ni) showed that CO2 molecules were released from the adsorption bed more slowly than C2H2 molecules.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the productivity of C2H2 with over 95% purity estimated from the desorption curve for 1 g of JXNU-11(Fe2Ni)?",
+      "answer": "1.98 mmol",
+      "difficulty": "hard",
+      "type": "factual"
+    }
+  ]
+}

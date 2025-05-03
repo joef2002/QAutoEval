@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the empirical formula of DUT-67?",
+      "answer": "C25H9O32S4Zr6",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature (K) was the crystal data for DUT-67 collected?",
+      "answer": "249.97",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of DUT-67?",
+      "answer": "Fm-3m",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the volume (Å3) of the unit cell for DUT-67?",
+      "answer": "58610",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the final R index (I>=2σ (I)) for DUT-67?",
+      "answer": "R1 = 0.0857, wR2 = 0.2233",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the crystal system of DUT-67-HCl?",
+      "answer": "cubic",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the density (g/cm3) of DUT-67-HCl?",
+      "answer": "1.019",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the largest diff. peak/hole / e Å-3 for DUT-67-HCl?",
+      "answer": "0.39/-0.42",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the method used for the calculation of the disordered solvent contribution in DUT-67-HCl?",
+      "answer": "SQUEEZE routine of PLATON program",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What force field was used in the theoretical calculations for DUT-67?",
+      "answer": "COMPASSII force field",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the charge of Zr1 atom in DUT-67?",
+      "answer": "1.008",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the simulation temperature for the density distribution of SO2 in DUT-67?",
+      "answer": "298K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the adsorption of SO2 in DUT-67 fully reversible?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DUT-67-HCl exhibit a higher SO2 capture capacity compared to DUT-67?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Was the crystal integrity of DUT-67 and DUT-67-HCl well-retained after breakthrough and regeneration experiments?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the post-treatment of DUT-67 with HCl lead to an improvement in its actual separation performance?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the SO2 binding mechanism in DUT-67 and DUT-67-HCl elucidated by in situ SC-XRD analysis?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does DUT-67-HCl have a higher SO2/CO2 selectivity than DUT-67?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the adsorption of SO2 on DUT-67-HCl enhanced by the liberation of OH-/H2O sites after HCl treatment?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "Does the presence of FA residuals in DUT-67 hinder SO2 from approaching certain adsorption locations?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

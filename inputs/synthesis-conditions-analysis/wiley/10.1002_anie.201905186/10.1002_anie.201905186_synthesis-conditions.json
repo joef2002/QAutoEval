@@ -1,0 +1,63 @@
+{
+  "materials": [
+    {
+      "name": "LIFM-WZ-6",
+      "synthesis_conditions": {
+        "temperature": "90 88C",
+        "solvents": "DMA (dimethylformamide)",
+        "equipment": "solvothermal reaction",
+        "chemicals_used": [
+          "H4TATZTPE",
+          "zinc nitrate",
+          "4,4’-bpy (bipyridine)"
+        ],
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "RhB+@LIFM-WZ-6",
+      "synthesis_conditions": {
+        "amounts_of_dyes": [
+          "0.1 wt %",
+          "0.05 wt %"
+        ],
+        "solvents": "mixed solution of EtOH and H2O with 1:1 ratio",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "BR-2+@LIFM-WZ-6",
+      "synthesis_conditions": {
+        "amounts_of_dyes": [
+          "2 wt %",
+          "1 wt %"
+        ],
+        "solvents": "mixed solution of EtOH and H2O with 1:1 ratio",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    },
+    {
+      "name": "APFG+@LIFM-WZ-6",
+      "synthesis_conditions": {
+        "amounts_of_dyes": [
+          "0.1 wt %",
+          "0.05 wt %"
+        ],
+        "solvents": "mixed solution of EtOH and H2O with 1:1 ratio",
+        "time": "not specified",
+        "yield": "not specified",
+        "washing_method": "not specified",
+        "drying_method": "not specified"
+      }
+    }
+  ]
+}

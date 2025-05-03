@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What are the two types of porphyrin MOFs synthesized in the study?",
+      "answer": "PMOF-1 and PMOF-2",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main difference in structure between PMOF-1 and PMOF-2?",
+      "answer": "PMOF-1 has a bilayer structure, while PMOF-2 has a 3D pillar-layered framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Which MOF showed a higher nonlinear absorption coefficient, PMOF-1 or PMOF-2?",
+      "answer": "PMOF-2",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 3D pillar-layered framework of PMOF-2 more conducive to interlayer charge transfer than the two-dimensional bilayer of PMOF-1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to measure the third-order nonlinear optical properties of the MOFs?",
+      "answer": "Z-scan technique",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What was the main finding regarding the influence of dimensions on third-order NLO properties?",
+      "answer": "The 3D pillar-layered framework in PMOF-2 is more conducive to interlayer charge transfer, achieving better third-order NLO performance.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Did PMOF-1 and PMOF-2 maintain their original frameworks after exfoliation?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of PDMS in the study?",
+      "answer": "PDMS served as a solid matrix to uniformly disperse MOFs for practical optical limiting application.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Was the photocurrent response of PMOF-1 similar to that of PMOF-2?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of strong hydrogen bond interactions between water and the carboxylic group of TCPP-Zn ligands in PMOF-1 indicate?",
+      "answer": "It indicates the formation of a 3D supramolecular framework through strong hydrogen bond and π–π interactions.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What was used as the light source for photocurrent measurements?",
+      "answer": "A 300 W high-pressure xenon lamp",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study find that dimensions have little influence on the band gap of PMOFs?",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the main purpose of synthesizing PMOF-1 and PMOF-2?",
+      "answer": "To evaluate the influence of dimensions on third-order NLO properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are PMOFs considered potential materials for optical limiting, optical switches, and mode-locked laser systems?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the result of the third-order NLO test for PMOFs in a PDMS matrix?",
+      "answer": "PMOF-2 displayed a higher nonlinear absorption coefficient, large third-order susceptibility, and lower limiting threshold than PMOF-1/PDMS.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the significance of the π–π interaction between porphyrin rings in PMOF-1?",
+      "answer": "It contributes to the formation of a 3D supramolecular framework.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the study demonstrate that PMOF-2 has better optical limiting performance than PMOF-1?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the role of the BIE ligand in the structure of PMOFs?",
+      "answer": "BIE ligands linked the layers to form a bilayer in PMOF-1 and a 3D pillar-layered framework in PMOF-2.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the thermal stability of PMOF-1 and PMOF-2 up to 450 °C?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the formation of a three-dimensional columnar structure in PMOF-2 contribute to?",
+      "answer": "It contributes to a better third-order nonlinear performance due to more conducive interlayer charge transfer.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

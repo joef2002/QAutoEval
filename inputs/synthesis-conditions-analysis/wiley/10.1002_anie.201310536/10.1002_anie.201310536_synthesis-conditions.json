@@ -1,0 +1,69 @@
+{
+  "materials": [
+    {
+      "name": "[Zn2(bpeb)(sdb)2] (1–4)",
+      "synthesis_conditions": {
+        "chemicals_used": [
+          "ZnII salt",
+          "1,4-bis[2-(4'-pyridyl)ethenyl]benzene (bpeb)",
+          "4,4'-sulfonyldibenzoate (sdb)"
+        ],
+        "solvents": [
+          "water (intentional addition)"
+        ],
+        "notes": "The intentional addition of water produced interpenetrated (2) and polyrotaxane (3 and 4) isomers."
+      }
+    },
+    {
+      "name": "Polyrotaxane 4",
+      "synthesis_conditions": {
+        "photo_irradiation": "UV light for 48 hours",
+        "solvent_for_NMR": "[D6]DMSO with a drop of HNO3",
+        "NMR_observations": "Appearance of cyclobutane peaks at 5.01 ppm along with other peaks owing to aromatic protons in the region 8.7–8.8 ppm and 7.7–8.0 ppm",
+        "notes": "Attempts to transform 4 into 3 and vice-versa by soaking the single crystals in different solvents did not retain the single-crystal nature."
+      }
+    },
+    {
+      "name": "[Zn2(rctt-bpbpvpcb)0.5(sdb)2]·2 DMA·2 H2O (5)",
+      "synthesis_conditions": {
+        "method": "Single-crystal X-ray crystallographic analysis",
+        "photo_irradiation": "UV light",
+        "precursor": "Polyrotaxane 4",
+        "notes": "Quantitative photo-cycloaddition of bpeb with trans–cis–trans conformation confirmed the formation of the structure."
+      }
+    },
+    {
+      "name": "Polyrotaxane 3",
+      "synthesis_conditions": {
+        "dispersion_medium": "Dimethylformamide (DMF)",
+        "excitation_wavelength": "360 nm",
+        "PL_emission": [
+          "440 nm",
+          "463 nm",
+          "small shoulder at 524 nm"
+        ],
+        "notes": "Ground and dispersed in DMF for PL studies."
+      }
+    },
+    {
+      "name": "Polyrotaxane 4 (for sensing experiments)",
+      "synthesis_conditions": {
+        "dispersion_medium": "Dimethylformamide (DMF)",
+        "analyte_solutions_concentration": "1 mm",
+        "analyte": "2,4-dinitrophenylhydrazine (2,4-DNPH)",
+        "PL_quenching": "Highest PL quenching up to about one seventh of the initial fluorescence intensity in 90 mm (17.8 ppm) solution"
+      }
+    },
+    {
+      "name": "Polyrotaxane 5 (for sensing experiments)",
+      "synthesis_conditions": {
+        "PL_maxima": [
+          "440 nm",
+          "453 nm",
+          "shoulder at 482 nm"
+        ],
+        "notes": "Similar quenching properties as 4, with best selectivity with 2,4-DNPH."
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the surface area of bio-MOF-100?",
+      "answer": "4,300 m2 g − 1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What strategy is introduced for constructing mesoporous MOFs in the article?",
+      "answer": "Constructing large metal-organic vertices instead of metal-carboxylate cluster vertices.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is bio-MOF-100 exclusively mesoporous?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the crystal density of bio-MOF-100?",
+      "answer": "0.302 g cm − 3",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Does increasing the size and complexity of linkers always lead to higher porosity in MOFs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the pore volume of bio-MOF-100?",
+      "answer": "4.3 cm3 g − 1",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to activate bio-MOF-100 for gas adsorption studies?",
+      "answer": "Supercritical CO2 exchange and subsequent evacuation.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the zinc-adeninate building unit (ZABU) larger than the basic zinc-carboxylate cluster?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of dimethylammonium cations in bio-MOF-100?",
+      "answer": "They reside in the pores to balance the charge.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Did the use of longer and complex linkers always result in higher porosity for MOFs?",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the underlying network topology of bio-MOF-100?",
+      "answer": "Augmented LCS topology.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the calculated free volume percentage of bio-MOF-100?",
+      "answer": "Approximately 85%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does bio-MOF-100 exhibit both micro- and mesopores?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main advantage of using metal-organic building units as vertices for constructing MOFs?",
+      "answer": "To construct highly porous MOFs.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the expected outcome of using larger vertices in MOF construction?",
+      "answer": "Increase in pore dimensions without using large, exotic linker molecules.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structure of bio-MOF-100 interpenetrated?",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of BPDC linkers in bio-MOF-100?",
+      "answer": "They connect each cage to four neighbouring cages.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does bio-MOF-100 have the largest MOF pore volume reported to date?",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the zinc-adeninate building units in the construction of bio-MOF-100?",
+      "answer": "They serve as discrete metal-organic vertices for the construction of the framework.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the main limitation of using increasingly longer and complex linkers to increase pore metrics in MOFs?",
+      "answer": "Longer linkers often lead to high degrees of interpenetration and consequently low degrees of porosity.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

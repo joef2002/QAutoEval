@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the title of the research article?",
+      "answer": "Flipping the Switch: Fast Photoisomerization in a Confined Environment",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "Who is the corresponding author of the article?",
+      "answer": "Natalia B. Shustova",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the DOI of the article?",
+      "answer": "10.1021/jacs.8b02994",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What type of materials are discussed in the article for addressing emerging demands in advanced technology?",
+      "answer": "Stimuli-responsive materials",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the main focus of the research conducted in the article?",
+      "answer": "The research focuses on coordinative integration of photoresponsive building blocks within metal–organic frameworks (MOFs) to control photophysics and cycloreversion kinetics.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of spiropyran derivatives in the study?",
+      "answer": "Spiropyran derivatives are significant for their ability to undergo photoinduced isomerization, which is explored within the confined environment of MOFs for potential applications in stimuli-responsive materials.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "How does the framework structure affect cycloreversion rates according to the study?",
+      "answer": "The cycloreversion rates of photoresponsive derivatives can be modulated as a function of the framework structure, demonstrating the ability to tune photoisomerization rates within MOFs.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method was used to confirm the space group of the compound TNDS?",
+      "answer": "The space group of the compound TNDS was confirmed using SHELXT.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Is the photoisomerization process in spiropyran derivatives fully reversible in the solid state according to the study?",
+      "answer": "No, the TNDS powder showed limited photoconversion to the colorless form in the solid state, indicating that the photoisomerization process is not fully reversible in the solid state.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the Squeeze technique in the X-ray crystal structure determination?",
+      "answer": "The Squeeze technique is used to account for the contribution of disordered solvent molecules to the structure factors, which cannot be reasonably modeled otherwise.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study demonstrates the possibility of achieving solution-like photophysical behavior for spiropyran derivatives when coordinatively immobilized inside a MOF.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study found that solvent polarity significantly affects the cycloreversion process of diarylethene photoswitches.",
+      "answer": "False",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study provides a pathway for the development of new 'smart' photoswitchable materials with controllable photoresponse.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study was unable to modulate the photoisomerization rate of incorporated photochromic linkers within MOFs.",
+      "answer": "False",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "True or False: The study exclusively focuses on the application of MOFs in gas storage.",
+      "answer": "False",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What challenges did the researchers face in the X-ray crystal structure determination of compound 2?",
+      "answer": "The researchers faced challenges with the diffraction pattern characterized by broad maxima and pronounced diffuse streaking, and the rapid fall-off of diffraction intensities with θ, indicating difficulties in obtaining high-quality crystallographic data.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "How did the researchers confirm the presence of photochromic pillars in MOF 1?",
+      "answer": "The presence of photochromic pillars in MOF 1 was confirmed through 1H NMR spectroscopy and mass-spectrometry analysis of the digested sample.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What experimental setup was used to monitor framework degradation?",
+      "answer": "The experimental setup involved exposing the surface of the photoactive MOF to hydrochloric acid vapors obtained by bubbling nitrogen gas through a 6M HCl solution, and monitoring changes in emission and absorption profiles.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What potential application of the studied MOFs is suggested by the researchers?",
+      "answer": "The researchers suggest the potential application of the studied MOFs as markers for material degradation, where the MOFs can highlight corroded areas permanently, providing a pathway for invasive monitoring of material surfaces.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the impact of steric hindrance on the photoisomerization process within MOFs according to the study?",
+      "answer": "The study indicates that steric hindrance can impede the photoisomerization dynamics, as demonstrated by the limited photoisomerization observed for HDDB, which possesses two photoswitchable moieties located in close proximity to each other within the MOF.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

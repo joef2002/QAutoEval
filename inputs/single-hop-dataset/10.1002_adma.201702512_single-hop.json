@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of the MOF that demonstrated a giant room-temperature magnetodielectric response?",
+      "answer": "[NH2(CH3)2]n[FeIIIFeIIx(HCOO)6]n (x ≈ 0.63–0.69)",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the range of the MD coefficient for the MOF at 0.1 T?",
+      "answer": "Between -20% and -24%",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature range does the MOF maintain its MD coefficient?",
+      "answer": "300 to 410 K",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What is the significance of electron hopping in enhancing the magnetodielectric response near room temperature?",
+      "answer": "Electron hopping between the transition metal ions can significantly enhance the magnetodielectric response near room temperature.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The MOF represents the first example of MOF-based materials with an above room-temperature magnetodielectric response.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What method was used to synthesize MOF 1?",
+      "answer": "Hydrothermal reaction",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the space group of MOF 1?",
+      "answer": "Trigonal P 31c",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The NiII ions in MOF 1 are distributed homogeneously within all crystals.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the activation energy for electron hopping in MOF 1 for E//c?",
+      "answer": "0.384 eV",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the behavior of the electrical conductivity of MOF 1 with increasing temperature?",
+      "answer": "The electrical conductivity increases with increasing temperature, indicating semiconductor behavior.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetodielectric response in MOF 1 is due to its intrinsic properties and not influenced by the magnetoresistance effect.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the main contribution to the giant magnetodielectric response in MOF 1?",
+      "answer": "Electron hopping between the NiII ions",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: MOF 1 exhibits a giant magnetodielectric response at room temperature and in a small external magnetic field.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the MD coefficient of MOF 1 at 300 K and 0.1 T?",
+      "answer": "-24%",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The polarization axis of MOF 1 and 2 is the c-axis.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of doping NiII on the magnetic ordering temperature in MOF 1?",
+      "answer": "The doping of NiII leads to the magnetic ordering temperature in MOF 1 being higher than that in MOF 2 and lower than that in MOF 3.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The magnetodielectric response in MOF 1 is significantly larger than that in MOF 4.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the role of the dimethylamine cations in MOF 1?",
+      "answer": "The dimethylamine cations occupy the cavities with their nitrogen atoms located in three different positions.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The activation energy for electron hopping in MOF 2 is significantly larger than that in MOF 1.",
+      "answer": "True",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the temperature-dependent dielectric constant of MOF 1?",
+      "answer": "It indicates the relaxor character of MOF 1.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    }
+  ]
+}

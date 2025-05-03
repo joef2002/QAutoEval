@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "question": "What is the name of the chiral metal-organic material described in this paper?",
+            "answer": "The chiral metal-organic material described in this paper is called CMOM-3S.",
+            "type": "factual"
+        },
+        {
+            "question": "What two functions does CMOM-3S serve as described in the paper?",
+            "answer": "CMOM-3S serves as both a general-purpose chiral crystalline sponge (CCS) and a chiral stationary phase (CSP) for gas chromatography (GC).",
+            "type": "factual"
+        },
+        {
+            "question": "What are the advantages of CMOM-3S compared to existing chiral stationary phases?",
+            "answer": "Compared to existing chiral stationary phases, CMOM-3S is composed of inexpensive components, facile to prepare, requires only trace amounts of analyte, and a coated fused silica capillary column using CMOM-3S as the CSP is more versatile and robust than three benchmark commercial columns.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What is the CSP-CCS method enabled by CMOM-3S?",
+            "answer": "CMOM-3S enables the CSP-CCS method, where it can serve as both a chiral stationary phase for chromatographic separation and a chiral crystalline sponge for structure determination, allowing chiral purification and enantiomer identification without the need for a reference standard.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What are the key structural features of CMOM-3S that enable its performance as a CSP and CCS?",
+            "answer": "The key structural features of CMOM-3S are its homochirality, exceptional thermal and hydrolytic stability, nano-sized channels connected to adaptable molecular recognition sites that mimic enzyme-binding sites, and its highly crystalline nature and low-symmetry space group.",
+            "type": "factual"
+        },
+        {
+            "question": "How does CMOM-3S compare to existing crystalline sponges in terms of enabling enantiomeric purification?",
+            "answer": "Unlike the current generation of crystalline sponges which are achiral or heterochiral and unsuited for enantiomeric purification, the homochiral CMOM-3S enables both separation and structural identification of the components of racemates.",
+            "type": "reasoning"
+        },
+        {
+            "question": "What types of intermolecular interactions are responsible for the enantioselectivity of CMOM-3S?",
+            "answer": "A plethora of weak but directional intermolecular forces including \u87fa\u9230\ue204\u20ac, C\u9225\u63cc\u9230\ue204\u20ac, C\u9225\u63cc\u9230\u7590 and O\u9225\u63cc\u9230\u75a7 hydrogen bonding interactions between the analytes and the host framework are responsible for the enantioselectivity of CMOM-3S.",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to directly observe the binding sites of CMOM-3S and determine the absolute configurations of the preferred chiral guest molecules?",
+            "answer": "Single-crystal X-ray diffraction (SCXRD) using a conventional X-ray diffractometer was used to directly observe the binding sites of CMOM-3S in high resolution and unambiguously determine the absolute configurations of the preferred chiral guest molecules.",
+            "type": "factual"
+        },
+        {
+            "question": "Is CMOM-3S stable under humid conditions?",
+            "answer": "Yes, CMOM-3S retains its crystallinity even after being exposed to 75% relative humidity for 7 days.",
+            "type": "true_false"
+        },
+        {
+            "question": "Can CMOM-3S be used to determine the molecular structures of natural products like geraniol and nerol using only trace amounts?",
+            "answer": "Yes, CMOM-3S can serve as a crystalline sponge to determine the molecular structures of natural products like geraniol and nerol using only 17 \u6e2dg of the analyte.",
+            "type": "true_false"
+        },
+        {
+            "question": "What is the thickness of the CMOM-3S coating on the inner wall of the GC capillary column?",
+            "answer": "The thickness of the CMOM-3S coating on the inner wall of the GC capillary column is ca. 0.7 \u6e2dm.",
+            "type": "factual"
+        },
+        {
+            "question": "Does the CMOM-3S coated GC column show good stability and reproducibility over time?",
+            "answer": "Yes, the CMOM-3S coated GC column shows excellent stability and repeatability even after being used for 10 months and 1000 injections.",
+            "type": "true_false"
+        },
+        {
+            "question": "What are the two enantiomers of 1-phenyl-1-propanol that were separated and identified using CMOM-3S?",
+            "answer": "The two enantiomers of 1-phenyl-1-propanol separated and identified were (R)-1-phenyl-1-propanol and (S)-1-phenyl-1-propanol, with the (S) enantiomer being the major one present in the CMOM-3S binding sites.",
+            "type": "factual"
+        },
+        {
+            "question": "What technique was used to determine the occupancies of the major and minor enantiomers present in the CMOM-3S binding sites?",
+            "answer": "Single-crystal X-ray diffraction (SCXRD) was used to determine the occupancies of the major and minor enantiomers present in the CMOM-3S binding sites for the various guest molecules studied.",
+            "type": "factual"
+        },
+        {
+            "question": "Is CMOM-3S composed of expensive components that are difficult to prepare?",
+            "answer": "No, CMOM-3S is composed of inexpensive components and is facile to prepare.",
+            "type": "true_false"
+        },
+        {
+            "question": "What are the two key functions of CMOM-3S that enable the CSP-CCS method for chiral separation and identification?",
+            "answer": "CMOM-3S serves as both a chiral stationary phase (CSP) for chromatographic separation and a chiral crystalline sponge (CCS) for structure determination, enabling the CSP-CCS method for chiral separation and identification without the need for reference standards.",
+            "type": "reasoning"
+        },
+        {
+            "question": "Does CMOM-3S require large amounts of analyte to be effective as a chiral crystalline sponge?",
+            "answer": "No, CMOM-3S only requires trace amounts of analyte to serve as an effective chiral crystalline sponge for structure determination.",
+            "type": "true_false"
+        },
+        {
+            "question": "What are the potential future applications envisioned for the CSP-CCS method enabled by CMOM-3S?",
+            "answer": "The authors envisage that the CSP-CCS method enabled by CMOM-3S could be applied to natural product separation, asymmetric synthesis, and drug discovery in future developments.",
+            "type": "factual"
+        },
+        {
+            "question": "Is CMOM-3S thermally and hydrolytically stable?",
+            "answer": "Yes, CMOM-3S exhibits exceptional thermal and hydrolytic stability, which enables fabrication of a robust chiral GC column.",
+            "type": "true_false"
+        },
+        {
+            "question": "What types of interactions occur between the analytes and the CMOM-3S framework that drive chiral recognition and separation?",
+            "answer": "Multiple and directional intermolecular interactions including \u87fa\u9230\ue204\u20ac, C\u9225\u63cc\u9230\ue204\u20ac, C\u9225\u63cc\u9230\u7590 and O\u9225\u63cc\u9230\u75a7 hydrogen bonding between the analytes and the CMOM-3S framework create tight stereospecific binding sites that drive chiral recognition and separation.",
+            "type": "reasoning"
+        }
+    ]
+}

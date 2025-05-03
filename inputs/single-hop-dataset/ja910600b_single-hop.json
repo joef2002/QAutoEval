@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the chemical formula of Cu-SIP-3?",
+      "answer": "Cu2(OH)(C8H3O7S)(H2O)·2H2O",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "At what temperature does the dehydration-induced phase transition of Cu-SIP-3 begin?",
+      "answer": "370 K",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What happens to the structure of Cu-SIP-3 at temperatures above 405 K?",
+      "answer": "The Bragg peaks return and the structure can be refined as dehydrated Cu-SIP-3.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is the structural transition of Cu-SIP-3 reversible?",
+      "answer": "Yes, the structural transition can be reversed by exposure to water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the effect of adding nitric oxide gas to Cu-SIP-3 above 275 mbar?",
+      "answer": "It leads to loss of Bragg scattering in the diffraction pattern.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Can Cu-SIP-3 adsorb small molecules like H2, N2, CO2, CO, N2O, and CH4?",
+      "answer": "No, the dehydrated material shows no uptake up to pressures of 10 bar.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the gate-opening pressure of NO for Cu-SIP-3?",
+      "answer": "Approximately 275 mbar",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does Cu-SIP-3 show selectivity in its gas adsorption properties?",
+      "answer": "Yes, it shows low pressure selectivity toward nitric oxide (NO) and water.",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What happens to Cu-SIP-3 when exposed to NO at pressures below 275 mbar?",
+      "answer": "There is no change to the crystal structure.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the NO adsorption capacity of Cu-SIP-3 at 1 bar and 293 K?",
+      "answer": "1.1 mmol g−1 of material",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the NO adsorption isotherm for dehydrated Cu-SIP-3 show hysteresis?",
+      "answer": "Yes, indicating a strong interaction between the framework structure and the gas.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the primary mechanism behind the structural transformation of Cu-SIP-3 on dehydration?",
+      "answer": "The change in metal coordination on the loss of coordinated water.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can the structural transition of Cu-SIP-3 be observed using single-crystal X-ray diffraction?",
+      "answer": "No, due to the loss of long-range order associated with the significant structural change.",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What triggers the gate-opening mechanism for NO adsorption in Cu-SIP-3?",
+      "answer": "Coordination of the NO to the metal site.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the loss of Bragg diffraction reversible in Cu-SIP-3 when exposed to NO above the gate-opening pressure?",
+      "answer": "The text does not provide information on the reversibility of this specific process.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What is the role of the 5-sulfoisophthalate ligand in Cu-SIP-3?",
+      "answer": "It binds relatively strongly to the metals holding the structure together and allows for reversible chemical transformations.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Does Cu-SIP-3 maintain its crystallinity throughout the structural transformation?",
+      "answer": "Yes, despite significant atomic movement during the transformation.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What is the significance of the large hysteresis in the NO adsorption isotherm for Cu-SIP-3?",
+      "answer": "It indicates a strong interaction between the framework structure and the gas, likely to be a chemisorption interaction.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What happens to the structure of Cu-SIP-3 when exposed to NO at pressures above 275 mbar?",
+      "answer": "Bragg scattering is lost from the crystal, and only diffuse scattering remains.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the structural transition of Cu-SIP-3 induced by NO adsorption similar to the dehydration-induced transition?",
+      "answer": "Both transitions involve loss of Bragg diffraction, but the specific mechanisms and conditions differ.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}

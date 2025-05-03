@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the synthesis method for NOTT-300?",
+      "answer": "The synthesis of [Al2(OH)2(C16O8H6)](H2O)6 (NOTT-300-solvate) and activation of [Al2(OH)2(C16O8H6)] (NOTT-300) were carried out using a previously reported method.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What technique was used to measure the gas adsorption isotherms for CH4, C2H2, C2H4, and C2H6 in NOTT-300?",
+      "answer": "Gas adsorption isotherms for CH4, C2H2, C2H4, and C2H6 in NOTT-300 were recorded using a temperature programmed water bath on an IGA-003 system under ultra-high vacuum.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to visualize the binding dynamics of adsorbed hydrocarbons within NOTT-300?",
+      "answer": "Inelastic Neutron Scattering (INS) combined with DFT simulations was used to visualize the binding dynamics of adsorbed hydrocarbons within NOTT-300.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the purpose of using Quasi-elastic Neutron Scattering (QENS) in the study of NOTT-300?",
+      "answer": "Quasi-elastic Neutron Scattering (QENS) was employed to analyze the mobility of adsorbed hydrocarbon molecules within NOTT-300.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "How was the structure of guest-loaded NOTT-300 determined?",
+      "answer": "The structure of guest-loaded NOTT-300 was determined using in situ synchrotron X-ray and neutron powder diffraction experiments.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What is the selectivity of NOTT-300 for C2H2 over C2H4 at 1.0 bar according to IAST analysis?",
+      "answer": "According to IAST analysis, the selectivity of NOTT-300 for C2H2 over C2H4 at 1.0 bar is 2.30.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "True or False: The study reports the use of a dual-site Langmuir-Freundlich model to fit the adsorption isotherms of hydrocarbons in NOTT-300.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    },
+    {
+      "question": "What was the outcome of the breakthrough experiment with an equimolar mixture of C2H2 and C2H4 in NOTT-300?",
+      "answer": "In the breakthrough experiment with an equimolar mixture of C2H2 and C2H4 in NOTT-300, C2H4 was the first to elute through the bed, with C2H2 retained. Upon saturation, C2H2 broke through from the bed and reached saturation rapidly.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What is the role of the Al-OH moiety in the binding of hydrocarbons to NOTT-300?",
+      "answer": "The Al-OH moiety acts as a relatively strong binding site to hydrocarbons due to the cooperative supramolecular interactions, leading to higher occupancy for hydrocarbons bound to the Al-OH group.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "True or False: The study demonstrates that NOTT-300 has potential applications in high-density acetylene storage.",
+      "answer": "True",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}

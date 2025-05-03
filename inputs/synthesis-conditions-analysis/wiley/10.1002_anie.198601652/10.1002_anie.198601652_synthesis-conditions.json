@@ -1,0 +1,70 @@
+{
+  "materials": [
+    {
+      "name": "Anionic Triple-Decker Complexes",
+      "synthesis_conditions": [
+        {
+          "step": "Reaction of (borole)metal sandwich anions with Cr(CO)3",
+          "temperature": "Not specified",
+          "solvents": "Not specified",
+          "equipment": "Not specified",
+          "chemicals_used": "(borole)metal sandwich anions, Cr(CO)3",
+          "time": "Not specified",
+          "yield": "Not specified"
+        },
+        {
+          "step": "Isolation of triple-decker anion 2",
+          "temperature": "100°C",
+          "solvents": "Dioxane, H2O, CH2Cl2/Et2O",
+          "amount_of_solvents": {
+            "dioxane": "20 mL",
+            "H2O_for_precipitation": "20 mL",
+            "H2O_for_crystallization": "10 mL",
+            "CH2Cl2/Et2O": "Not specified"
+          },
+          "equipment": "Not specified",
+          "chemicals_used": "[CpFeH(C4H1BPh)] (230 mg, 0.88 mmol), NaH, [Cr(CO)3(NH3)2] (165 mg, 0.88 mmol), [NMe3Ph]I (232 mg, 0.88 mmol)",
+          "time": "4 h",
+          "yield": "220 mg (0.41 mmol, 47%)",
+          "washing_method": "Precipitation from H2O",
+          "drying_method": "Removal of solvent and crystallization",
+          "product_form": "Deep red, air-sensitive needles"
+        }
+      ]
+    },
+    {
+      "name": "Bis(benzenethiolato)cadmium(II), 1",
+      "synthesis_conditions": [
+        {
+          "step": "Preparation and crystallization",
+          "temperature": "Not specified",
+          "solvents": "Ethanol, DMF",
+          "amount_of_solvents": {
+            "ethanol": "Not specified",
+            "DMF": "Not specified"
+          },
+          "equipment": "Not specified",
+          "chemicals_used": "Benzenethiol, triethylamine, cadmium nitrate",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "washing_method": "Crystallization from DMF by addition of alcohols, acetone, or acetonitrile",
+          "drying_method": "Not specified",
+          "product_form": "Not specified"
+        },
+        {
+          "step": "Dissolution in DMF",
+          "temperature": "Ambient",
+          "solvents": "DMF",
+          "amount_of_solvents": {
+            "DMF": "ca. 1.3 g/mL"
+          },
+          "equipment": "Not specified",
+          "chemicals_used": "Not specified",
+          "time": "Not specified",
+          "yield": "Not specified",
+          "product_form": "Not specified"
+        }
+      ]
+    }
+  ]
+}

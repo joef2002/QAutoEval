@@ -1,0 +1,78 @@
+{
+  "Fe2[Nb(CN)8]·(4-pyridinealdoxime)8·2H2O": {
+    "temperature": "Room temperature",
+    "solvents": [
+      {
+        "name": "Aqueous solution of FeCl2·4H2O",
+        "amount": "0.005 mol dm-3"
+      },
+      {
+        "name": "Aqueous solution of K4[Nb(CN)8]·2H2O",
+        "amount": "0.05 mol dm-3"
+      }
+    ],
+    "chemicals_used": [
+      "FeCl2·4H2O",
+      "4-pyridinealdoxime",
+      "K4[Nb(CN)8]·2H2O"
+    ],
+    "yield": "74%",
+    "crystal_system": "Tetragonal",
+    "space_group": "I 41/a",
+    "lattice_parameters": {
+      "a": "20.2001(4) Å",
+      "c": "14.9565(5) Å"
+    },
+    "R_values": {
+      "Rwp": "1.98%",
+      "Rp": "1.52%"
+    },
+    "photo_irradiation": {
+      "wavelength": "473 nm",
+      "power_density": "17 mW cm-2",
+      "duration": "5 min",
+      "temperature": "2 K"
+    },
+    "magnetic_properties": {
+      "Curie_temperature": "20 K",
+      "coercive_field": "240 Oe",
+      "saturation_magnetization": "7.4 μB"
+    },
+    "relaxation": {
+      "after_10h": "80%",
+      "after_20h": "76%",
+      "after_30h": "74%",
+      "final_state": "70%"
+    }
+  },
+  "Mn2[Nb(CN)8]·(4-pyridinealdoxime)8·0.2H2O": {
+    "temperature": "Room temperature",
+    "solvents": [
+      {
+        "name": "Aqueous solution of MnCl2·4H2O",
+        "amount": "0.034 mol dm-3"
+      },
+      {
+        "name": "Aqueous solution of K4[Nb(CN)8]·2H2O",
+        "amount": "0.017 mol dm-3"
+      }
+    ],
+    "chemicals_used": [
+      "MnCl2·4H2O",
+      "4-pyridinealdoxime",
+      "K4[Nb(CN)8]·2H2O"
+    ],
+    "crystal_system": "Tetragonal",
+    "space_group": "I 41/a",
+    "lattice_parameters": {
+      "a": "20.5155(15) Å",
+      "c": "15.0907(13) Å"
+    },
+    "magnetic_properties": {
+      "g-value": "2.00",
+      "chi_MT": "8.57 K cm3 mol-1 at 300 K",
+      "Curie_temperature": "40 K",
+      "saturation_magnetization": "8.6 μB"
+    }
+  }
+}
