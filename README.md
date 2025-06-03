@@ -22,9 +22,23 @@ The framework supports both multi-hop and single-hop Q&A evaluation pipelines, a
 - **Synthesis Conditions Evaluation:**  
   Extracts synthesis conditions from scientific papers and assesses them against criteria for completeness, exclusivity, and accuracy.
 
-  For a more detailed description of the evaluation criteria used, please refer to our previous work: [RetChemQA](https://github.com/nakulrampal/RetChemQA) and [Comparison-of-LLMs](https://github.com/Sya-bitsea/Comparison-of-LLMs) 
+  For a more detailed description of the evaluation criteria used, please refer to our previous work: [RetChemQA](https://github.com/nakulrampal/RetChemQA) and [Comparison-of-LLMs](https://github.com/Sya-bitsea/Comparison-of-LLMs)
 
-## Installation
+## Quick Start
+
+If you're on **macOS or Linux**, a convenience launcher script—`Launcher(Mac or Linux).command`—is provided at the repository root. Double click on it, and it will create a virtual environment, install dependencies, and start the app, all in one go. 
+
+> **Note:** The first time you run the script, installation may take a while because all dependencies must be downloaded.
+
+Under the hood, the script:
+
+1. Creates an isolated Python environment in `.venv` (if it doesn't already exist).
+2. Upgrades `pip` and installs packages listed in `requirements.txt`.
+3. Launches the QAutoEval application (`QAutoEval app.py`), forwarding any additional command‑line arguments you supply.
+
+**Windows users** can follow the manual installation in next section. (We are working on App version for Windows!)
+
+## Manual Installation
 
 ### Prerequisites
 
@@ -32,8 +46,12 @@ The framework supports both multi-hop and single-hop Q&A evaluation pipelines, a
 - **Virtual Environment:** Recommended (e.g., `venv` or `conda`)
 
 ### Setup
-This project includes a trimmed requirements.txt file that contains only the necessary packages with version pins. Install them with:
-`pip install -r requirements.txt`
+
+   ```bash
+   python -m venv .venv               # Create virtual environment (optional but recommended)
+   source .venv/bin/activate          # On Windows use `.venv\Scripts\activate`
+   pip install -r requirements.txt    # Install dependencies
+   ```
 
 ### Configuration
 Before running the pipelines, configure the following:
@@ -68,5 +86,3 @@ Special thanks to the developers of the libraries used in this project.
 
 We acknowledge the financial support from the following sources:
 1. Bakar Institute of Digital Materials for the Planet (BIDMaP)
-
-
