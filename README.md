@@ -34,7 +34,9 @@ Under the hood, the script:
 
 1. Creates an isolated Python environment in `.venv` (if it doesn't already exist).
 2. Upgrades `pip` and installs packages listed in `requirements.txt`.
-3. Launches the QAutoEval application (`QAutoEval app.py`), forwarding any additional command‑line arguments you supply.
+3. Launches the QAutoEval application (`QAutoEval_app.py`), forwarding any additional command‑line arguments you supply.
+
+**Explore with example data:** Inside `docs/example_data/` you'll find three folders—`single_hop`, `multi_hop`, and `synthesis_condition`. Each folder contains the manuscript (`MS`), supplementary information (`SI`), and a dataset for one representative DOI, so you can exercise every pipeline right after installation.
 
 **Windows users** can follow the manual installation in next section. (We are working on App version for Windows!)
 

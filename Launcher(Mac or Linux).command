@@ -15,4 +15,4 @@ echo "Ensuring required packages are installed …"
 "$PY" -m pip install -r requirements.txt
 
 echo "🚀  Launching QAutoEval …"
-exec "$PY" "QAutoEval app.py" "$@"
+exec "$PY" "QAutoEval_app.py" "$@"
