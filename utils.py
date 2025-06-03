@@ -1,31 +1,17 @@
 import pandas as pd
 import os
-import pdfplumber
-import openai
-from openai import OpenAI
-import google.generativeai as genai
-import anthropic
 import json
-import re
-import csv
 import numpy as np
-import datetime
-import time
 import docx
 from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 import subprocess
-import enum
-from typing_extensions import TypedDict
 from io import StringIO
-from numpy import loadtxt
-from pydantic import BaseModel
 from io import StringIO
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
-import fitz
 
 def claude_info():
     """
