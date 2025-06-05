@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "question": "What is the name of the metal-organic framework discussed in the text?",
+      "answer": "MOF-2000",
+      "difficulty": "easy",
+      "type": "factual"
+    },
+    {
+      "question": "What ratio of Lr and Lb struts is consistently found in MOF-2000, regardless of the starting solution ratio?",
+      "answer": "2:1",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Is MOF-2000 optically isotropic or anisotropic according to the polarized optical microscopy?",
+      "answer": "Isotropic",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "What method was used to activate MOF-2000 samples for NMR characterization?",
+      "answer": "Supercritical carbon dioxide",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the thermogravimetric analysis indicate complete removal of guest molecules in the pore of activated MOF-2000?",
+      "answer": "Yes",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "Is the 2:1 ratio of Lr and Lb struts in MOF-2000 a result of thermodynamic stability?",
+      "answer": "No, it is suggested to have a nonequilibrium origin",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of a 2:1 ratio of Lr and Lb struts in MOF-2000 suggest about the assembly process?",
+      "answer": "It suggests that component types become kinetically trapped during framework growth",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Can MOF-2000 accommodate a 1:1 ratio of red and blue struts without steric hindrance?",
+      "answer": "Yes, atomistic modeling indicates it is sterically feasible",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What simulation model is equivalent to the Ising model in the context of MOF-2000?",
+      "answer": "The lattice model of MOF-2000 with all nodes colored either blue or red",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Do inherent structure simulations on a 2D square lattice show a 2:1 regime for MOF-2000?",
+      "answer": "No, they do not show a 2:1 regime",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the sharp transition between different component ratios in inherent structure simulations suggest?",
+      "answer": "It suggests abrupt transitions between different types of inherent structures as energetic parameters change",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "What term is used to describe the spatial properties of the 2:1 local energy minima in MOF-2000?",
+      "answer": "Compositional polycrystals",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Does the topology of the framework influence the magic number ratios in MOF-2000?",
+      "answer": "Yes, the topology of the framework plays a role in determining the magic number ratios",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the presence of red grain boundaries in growth simulations indicate?",
+      "answer": "It indicates the formation of compositional polycrystals with sections of 1:1 binary order",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Are the magic number ratios found in inherent structures specific to MOF-2000's framework topology?",
+      "answer": "Yes, they are specific to MOF-2000's framework topology",
+      "difficulty": "hard",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the lack of birefringence in polarized optical microscopy images of MOF-2000 suggest?",
+      "answer": "It suggests that MOF-2000 crystals are isotropic",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "What method confirms the absence of unbound organic struts within MOF-2000 crystals?",
+      "answer": "13C CP/MAS NMR Spectrum",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "What does the thermogravimetric analysis reveal about the thermal stability of MOF-2000?",
+      "answer": "It reveals two main weight losses, one due to decomposition of functional groups and another due to framework destruction",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 2:1 ratio of Lr and Lb struts in MOF-2000 robust to changes in the starting solution ratio?",
+      "answer": "Yes, it is consistent and invariant in a certain range of starting solution ratios",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What does the use of supercritical carbon dioxide in the activation process of MOF-2000 ensure?",
+      "answer": "It ensures complete removal of guest molecules in the pore",
+      "difficulty": "hard",
+      "type": "reasoning"
+    }
+  ]
+}
