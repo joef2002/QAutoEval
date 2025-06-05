@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "question": "What is the significance of the 2:1 ratio of Lr and Lb struts in MOF-2000?",
+      "answer": "The 2:1 ratio of Lr and Lb struts in MOF-2000 is significant because it is robust and invariant across a wide range of starting solution ratios, suggesting a nonequilibrium origin resulting from kinetic trapping of component types during framework growth.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "How does the synthesis condition affect the component ratio in MOF-2000?",
+      "answer": "The synthesis condition, specifically the ratio of component types in the starting solution, does not affect the 2:1 ratio of Lr and Lb struts in MOF-2000, indicating the robustness of this ratio.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 2:1 ratio of Lr and Lb struts in MOF-2000 thermodynamically stable?",
+      "answer": "No, the 2:1 ratio of Lr and Lb struts in MOF-2000 does not have an obvious thermodynamic origin and is suggested to result from kinetic trapping, indicating it is not thermodynamically stable.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What role do noncovalent interactions play in achieving the 2:1 ratio of components in MOF-2000?",
+      "answer": "Noncovalent interactions between component types, modulated by the topology of the framework and the interaction energies, play a crucial role in achieving the 2:1 ratio of components in MOF-2000 by influencing the kinetic trapping during framework growth.",
+      "difficulty": "hard",
+      "type": "factual"
+    },
+    {
+      "question": "Can the robust 2:1 composition ratio in MOF-2000 be attributed to charge complementarity?",
+      "answer": "No, the robust 2:1 composition ratio in MOF-2000 cannot be attributed to charge complementarity alone, as the Lb strut bears a charge while the Lr strut is uncharged, suggesting other factors contribute to this ratio.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "How does the topology of the framework affect the magic number ratios in MOF-2000?",
+      "answer": "The topology of the framework, along with the noncovalent interactions between component types, affects the magic number ratios in MOF-2000 by determining the specific ratios of components that can be kinetically trapped during growth.",
+      "difficulty": "hard",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the arrangement of the two components in MOF-2000 anisotropic?",
+      "answer": "No, optical investigations suggest that the arrangement of the two components in MOF-2000 is isotropic, despite the potential for anisotropic arrangements due to the flexibility and disorder of the side chains.",
+      "difficulty": "medium",
+      "type": "True or False"
+    },
+    {
+      "question": "What experimental techniques were used to confirm the presence and ratio of the two organic struts in MOF-2000?",
+      "answer": "1H-NMR spectroscopy and solid-state 13C NMR spectroscopy were used to confirm the presence and the 2:1 ratio of the two organic struts, Lr and Lb, in MOF-2000.",
+      "difficulty": "medium",
+      "type": "factual"
+    },
+    {
+      "question": "Does the presence of bromine-labeled Br-MOF-2000 crystals indicate isotropic or anisotropic properties?",
+      "answer": "The presence of bromine-labeled Br-MOF-2000 crystals, as shown by the lack of birefringence in optical images, indicates isotropic properties.",
+      "difficulty": "medium",
+      "type": "reasoning"
+    },
+    {
+      "question": "Is the 2:1 ratio of Lr and Lb struts in MOF-2000 sensitive to changes in solution composition?",
+      "answer": "False, the 2:1 ratio of Lr and Lb struts in MOF-2000 is not sensitive to changes in solution composition, demonstrating its robustness across a range of starting solution ratios.",
+      "difficulty": "easy",
+      "type": "True or False"
+    }
+  ]
+}
