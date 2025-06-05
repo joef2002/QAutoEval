@@ -1,0 +1,75 @@
+{
+  "materials": [
+    {
+      "name": "MOF-2000",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "3 mL"
+          },
+          {
+            "name": "methylamine solution",
+            "amount": "40 µL"
+          }
+        ],
+        "equipment": "isothermal oven",
+        "chemicals_used": [
+          {
+            "name": "H2Lr",
+            "amount": "1.20 mg"
+          },
+          {
+            "name": "H2Lb•4PF6",
+            "amount": "2.71 mg"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "5.97 mg"
+          }
+        ],
+        "time": "3 days",
+        "washing_method": "rinsed with DMF (4 × 1.0 mL)",
+        "drying_method": "cooled to room temperature",
+        "yield": "not specified",
+        "additional_information": "The total amount of H2Lr and H2Lb•4PF6 organic struts was kept at 2.74 × 10–3 mmol and the relative ratios of the two organic linkers H2Lr and H2Lb•4PF6 were varied from 8:1, 6:1, 4:1, 2:1, 1:1, 1:2, 1:4, 1:6 to 1:8."
+      }
+    },
+    {
+      "name": "Br-MOF-2000",
+      "synthesis_conditions": {
+        "temperature": "65 °C",
+        "solvents": [
+          {
+            "name": "N,N-dimethylformamide (DMF)",
+            "amount": "1 mL"
+          },
+          {
+            "name": "methylamine solution",
+            "amount": "20 µL"
+          }
+        ],
+        "equipment": "isothermal oven",
+        "chemicals_used": [
+          {
+            "name": "H2Lr-Br2",
+            "amount": "1.41 mg"
+          },
+          {
+            "name": "H2Lb•4PF6",
+            "amount": "4.06 mg"
+          },
+          {
+            "name": "Zn(NO3)2•6H2O",
+            "amount": "5.97 mg"
+          }
+        ],
+        "time": "72 h",
+        "washing_method": "rinsed with DMF (4 × 1.0 mL)",
+        "drying_method": "cooled to room temperature",
+        "yield": "not specified"
+      }
+    }
+  ]
+}
