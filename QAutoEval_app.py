@@ -75,10 +75,30 @@ class QAEvaluationApp:
         self.root.title("GenAI for Reticular Chemistry")
         self.root.geometry("1000x800")
         
-        # Initialize variables
+        # Initialize file path variables for each mode/tab combination
+        # Generation tab file paths
+        self.generation_single_hop_manuscript_path = tk.StringVar()
+        self.generation_single_hop_supplement_path = tk.StringVar()
+        self.generation_multi_hop_manuscript_path = tk.StringVar()
+        self.generation_multi_hop_supplement_path = tk.StringVar()
+        self.generation_synthesis_manuscript_path = tk.StringVar()
+        self.generation_synthesis_supplement_path = tk.StringVar()
+        
+        # Evaluation tab file paths
+        self.evaluation_single_hop_manuscript_path = tk.StringVar()
+        self.evaluation_single_hop_supplement_path = tk.StringVar()
+        self.evaluation_single_hop_dataset_path = tk.StringVar()
+        self.evaluation_multi_hop_manuscript_path = tk.StringVar()
+        self.evaluation_multi_hop_supplement_path = tk.StringVar()
+        self.evaluation_multi_hop_dataset_path = tk.StringVar()
+        self.evaluation_synthesis_manuscript_path = tk.StringVar()
+        self.evaluation_synthesis_supplement_path = tk.StringVar()
+        self.evaluation_synthesis_dataset_path = tk.StringVar()
+        
+        # Current active path variables (will point to the appropriate mode-specific variables)
         self.manuscript_path = tk.StringVar()
         self.supplement_path = tk.StringVar()
-        self.dataset_path = tk.StringVar()  # Changed from qa_dataset_path to be more generic
+        self.dataset_path = tk.StringVar()
         
         # API Keys
         self.claude_key = tk.StringVar()
@@ -86,18 +106,24 @@ class QAEvaluationApp:
         self.openai_key = tk.StringVar()
         self.openai_o1_key = tk.StringVar()
         
-        # Main evaluation type - now includes 'generation' as default
-        self.evaluation_type = tk.StringVar(value="generation")  # "generation", "qa", or "synthesis"
+        # Main evaluation type - now only 'generation' and 'evaluation'
+        self.evaluation_type = tk.StringVar(value="generation")  # "generation" or "evaluation"
         
-        # Q&A specific variables
-        self.evaluation_mode = tk.StringVar(value="single-hop")
+        # Evaluation mode - now includes synthesis condition as an option
+        self.evaluation_mode = tk.StringVar(value="single-hop")  # "single-hop", "multi-hop", or "synthesis-condition"
         
         # Dataset generation specific variables
         self.dataset_type = tk.StringVar(value="single-hop-qa")  # "single-hop-qa", "multi-hop-qa", "synthesis-condition"
         
-        # Results storage
+        # Results storage - with mode/type tracking
         self.evaluation_results = None
+        self.evaluation_results_mode = None  # Track which mode the evaluation results are for
         self.generation_results = None  # For dataset generation results
+        self.generation_results_type = None  # Track which type the generation results are for
+        
+        # Generation export tracking
+        self.generation_exported = False
+        self.exported_json_path = ""
         
         # UI state
         self.results_visible = False
@@ -120,7 +146,7 @@ class QAEvaluationApp:
         # Title and evaluation type selection
         self.setup_header(main_frame)
         
-        # Mode selection (for Q&A evaluation and dataset generation) - row 1
+        # Mode selection (for both evaluation and dataset generation) - row 1
         self.setup_mode_selection(main_frame)
         
         # File uploads - rows 2-4
@@ -151,6 +177,9 @@ class QAEvaluationApp:
         
         # Initialize UI state and set up dynamic grid weights
         self.update_ui_for_evaluation_type()
+        
+        # Initialize file paths for the current mode
+        self.update_current_file_paths()
     
     def setup_header(self, parent):
         # Header frame
@@ -200,7 +229,7 @@ class QAEvaluationApp:
         self.logo_label = None
         self.update_logo_display()
         
-        # Evaluation type buttons (center)
+        # Evaluation type buttons (center) - NOW ONLY 2 BUTTONS
         eval_buttons_frame = ttk.Frame(header_frame)
         eval_buttons_frame.grid(row=0, column=1)
         
@@ -210,17 +239,11 @@ class QAEvaluationApp:
                                         font=("Arial", 12, "bold"), width=18, height=2)
         self.generation_button.grid(row=0, column=0, padx=(0, 5))
         
-        # Q&A Evaluation button
-        self.qa_button = tk.Button(eval_buttons_frame, text="Q&A Pairs Evaluation", 
-                                command=lambda: self.set_evaluation_type("qa"),
-                                font=("Arial", 12, "bold"), width=20, height=2)
-        self.qa_button.grid(row=0, column=1, padx=(5, 0))
-        
-        # Synthesis Condition Evaluation button
-        self.synthesis_button = tk.Button(eval_buttons_frame, text="Synthesis Condition Evaluation", 
-                                        command=lambda: self.set_evaluation_type("synthesis"),
-                                        font=("Arial", 12, "bold"), width=25, height=2)
-        self.synthesis_button.grid(row=0, column=2, padx=(5, 0))
+        # Dataset Evaluation button (MERGED Q&A and Synthesis)
+        self.evaluation_button = tk.Button(eval_buttons_frame, text="Dataset Evaluation", 
+                                command=lambda: self.set_evaluation_type("evaluation"),
+                                font=("Arial", 12, "bold"), width=18, height=2)
+        self.evaluation_button.grid(row=0, column=1, padx=(5, 0))
         
         # Settings button (top-right)
         settings_btn = ttk.Button(header_frame, text="Settings", command=self.open_settings, width=10)
@@ -228,6 +251,61 @@ class QAEvaluationApp:
         
         # Update button colors
         self.update_button_colors()
+
+    def get_current_file_paths(self):
+        """Get the current file path variables based on evaluation type and mode"""
+        if self.evaluation_type.get() == "generation":
+            if self.dataset_type.get() == "single-hop-qa":
+                return (self.generation_single_hop_manuscript_path, 
+                        self.generation_single_hop_supplement_path, 
+                        None)
+            elif self.dataset_type.get() == "multi-hop-qa":
+                return (self.generation_multi_hop_manuscript_path, 
+                        self.generation_multi_hop_supplement_path, 
+                        None)
+            else:  # synthesis-condition
+                return (self.generation_synthesis_manuscript_path, 
+                        self.generation_synthesis_supplement_path, 
+                        None)
+        else:  # evaluation
+            if self.evaluation_mode.get() == "single-hop":
+                return (self.evaluation_single_hop_manuscript_path, 
+                        self.evaluation_single_hop_supplement_path, 
+                        self.evaluation_single_hop_dataset_path)
+            elif self.evaluation_mode.get() == "multi-hop":
+                return (self.evaluation_multi_hop_manuscript_path, 
+                        self.evaluation_multi_hop_supplement_path, 
+                        self.evaluation_multi_hop_dataset_path)
+            else:  # synthesis-condition
+                return (self.evaluation_synthesis_manuscript_path, 
+                        self.evaluation_synthesis_supplement_path, 
+                        self.evaluation_synthesis_dataset_path)
+    
+    def update_current_file_paths(self):
+        """Update the current file path variables to match the current mode"""
+        manuscript_var, supplement_var, dataset_var = self.get_current_file_paths()
+        
+        # Update the UI entry variables
+        self.manuscript_path.set(manuscript_var.get())
+        self.supplement_path.set(supplement_var.get())
+        if dataset_var:
+            self.dataset_path.set(dataset_var.get())
+        else:
+            self.dataset_path.set("")
+        
+        # Store references to the actual variables for saving back
+        self._current_manuscript_var = manuscript_var
+        self._current_supplement_var = supplement_var
+        self._current_dataset_var = dataset_var
+    
+    def save_current_file_paths(self):
+        """Save the current UI file paths back to the mode-specific variables"""
+        if hasattr(self, '_current_manuscript_var'):
+            self._current_manuscript_var.set(self.manuscript_path.get())
+        if hasattr(self, '_current_supplement_var'):
+            self._current_supplement_var.set(self.supplement_path.get())
+        if hasattr(self, '_current_dataset_var') and self._current_dataset_var:
+            self._current_dataset_var.set(self.dataset_path.get())
 
     def update_logo_display(self):
         """Update which logo is displayed based on the current evaluation type"""
@@ -268,7 +346,70 @@ class QAEvaluationApp:
                 )
                 self.logo_label.grid(row=0, column=0)
         else:
-            # Show main logo for evaluation modes (qa and synthesis)
+            # Show main logo for evaluation mode
+            if hasattr(self, 'logo_photo') and self.logo_photo:
+                self.logo_label = tk.Label(
+                    self.logo_frame, 
+                    image=self.logo_photo,
+                    width=self.container_width,
+                    height=self.container_height,
+                    compound='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+            else:
+                # Fallback placeholder for main logo
+                self.logo_label = tk.Label(
+                    self.logo_frame,
+                    text="QAutoEval\nLogo",
+                    width=20,
+                    height=2,
+                    font=("Arial", 10, "bold"),
+                    relief="raised",
+                    borderwidth=1,
+                    bg="lightgray",
+                    fg="darkblue",
+                    justify='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+        """Update which logo is displayed based on the current evaluation type"""
+        # Remove existing logo label if it exists
+        if hasattr(self, 'logo_label') and self.logo_label:
+            self.logo_label.destroy()
+            self.logo_label = None
+        
+        # Make sure we have the logo frame
+        if not hasattr(self, 'logo_frame'):
+            return
+        
+        # Determine which logo to show based on evaluation type
+        if self.evaluation_type.get() == "generation":
+            # Show retchemqa logo for generation mode
+            if hasattr(self, 'retchemqa_photo') and self.retchemqa_photo:
+                self.logo_label = tk.Label(
+                    self.logo_frame, 
+                    image=self.retchemqa_photo,
+                    width=self.container_width,
+                    height=self.container_height,
+                    compound='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+            else:
+                # Fallback placeholder for retchemqa logo
+                self.logo_label = tk.Label(
+                    self.logo_frame,
+                    text="RetChemQA\nLogo",
+                    width=20,
+                    height=2,
+                    font=("Arial", 10, "bold"),
+                    relief="raised",
+                    borderwidth=1,
+                    bg="lightblue",
+                    fg="darkblue",
+                    justify='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+        else:
+            # Show main logo for evaluation mode
             if hasattr(self, 'logo_photo') and self.logo_photo:
                 self.logo_label = tk.Label(
                     self.logo_frame, 
@@ -296,11 +437,24 @@ class QAEvaluationApp:
 
     def set_evaluation_type(self, eval_type):
         """Set the evaluation type and update UI accordingly"""
+        # Save current file paths before switching
+        self.save_current_file_paths()
+        
         self.evaluation_type.set(eval_type)
         self.update_button_colors()
         self.update_logo_display()  # Update logo when evaluation type changes
         self.update_ui_for_evaluation_type()
-        self.hide_results()  # Hide any existing results
+        
+        # Load file paths for the new evaluation type and mode
+        self.update_current_file_paths()
+        
+        # Instead of hiding results, show appropriate results if they exist
+        self.show_appropriate_results()
+        
+        # Reset generation export tracking when switching away from generation
+        if eval_type != "generation":
+            self.generation_exported = False
+            self.exported_json_path = ""
         
         # Update status and button text based on type
         if eval_type == "generation":
@@ -311,11 +465,34 @@ class QAEvaluationApp:
             self.start_button.config(text="Start Evaluation")
         self.update_progress(0)
     
+    def show_appropriate_results(self):
+        """Show results appropriate for the current evaluation type and mode"""
+        if self.evaluation_type.get() == "generation":
+            # Show generation results if they exist and match current dataset type
+            if (self.generation_results is not None and 
+                self.generation_results_type == self.dataset_type.get()):
+                print(f"Showing generation results for {self.generation_results_type}")  # Debug
+                self.show_generation_results_inline()
+            else:
+                print(f"Hiding results - generation_results: {self.generation_results is not None}, "
+                    f"stored_type: {self.generation_results_type}, current_type: {self.dataset_type.get()}")  # Debug
+                self.hide_results()
+        else:
+            # Show evaluation results if they exist and match current evaluation mode
+            if (self.evaluation_results is not None and 
+                self.evaluation_results_mode == self.evaluation_mode.get()):
+                print(f"Showing evaluation results for {self.evaluation_results_mode}")  # Debug
+                self.show_results_inline()
+            else:
+                print(f"Hiding results - evaluation_results: {self.evaluation_results is not None}, "
+                    f"stored_mode: {self.evaluation_results_mode}, current_mode: {self.evaluation_mode.get()}")  # Debug
+                self.hide_results()
+    
     def update_button_colors(self):
         """Update button selection status using highlight borders only"""
         try:
             # Reset all buttons to unselected state
-            for button in [self.generation_button, self.qa_button, self.synthesis_button]:
+            for button in [self.generation_button, self.evaluation_button]:
                 button.config(
                     bg="SystemButtonFace",
                     fg="SystemButtonText",
@@ -331,10 +508,8 @@ class QAEvaluationApp:
             selected_button = None
             if self.evaluation_type.get() == "generation":
                 selected_button = self.generation_button
-            elif self.evaluation_type.get() == "qa":
-                selected_button = self.qa_button
-            elif self.evaluation_type.get() == "synthesis":
-                selected_button = self.synthesis_button
+            elif self.evaluation_type.get() == "evaluation":
+                selected_button = self.evaluation_button
             
             if selected_button:
                 selected_button.config(
@@ -345,22 +520,20 @@ class QAEvaluationApp:
                 )
             
             # Force update the display
-            for button in [self.generation_button, self.qa_button, self.synthesis_button]:
+            for button in [self.generation_button, self.evaluation_button]:
                 button.update_idletasks()
             
         except Exception as e:
             print(f"Button highlight update failed: {e}")
             # Fallback: use relief and borderwidth only
             try:
-                for button in [self.generation_button, self.qa_button, self.synthesis_button]:
+                for button in [self.generation_button, self.evaluation_button]:
                     button.config(relief="raised", borderwidth=1)
                 
                 if self.evaluation_type.get() == "generation":
                     self.generation_button.config(relief="sunken", borderwidth=3)
-                elif self.evaluation_type.get() == "qa":
-                    self.qa_button.config(relief="sunken", borderwidth=3)
-                elif self.evaluation_type.get() == "synthesis":
-                    self.synthesis_button.config(relief="sunken", borderwidth=3)
+                elif self.evaluation_type.get() == "evaluation":
+                    self.evaluation_button.config(relief="sunken", borderwidth=3)
             except:
                 pass
     
@@ -369,13 +542,13 @@ class QAEvaluationApp:
         # Update mode widgets first
         self.update_mode_widgets()
         
-        if self.evaluation_type.get() == "qa":
-            # Show mode selection for Q&A
+        if self.evaluation_type.get() == "evaluation":
+            # Show mode selection for Dataset Evaluation
             if hasattr(self, 'mode_frame'):
                 self.mode_frame.grid(row=1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 20))
             # Update dataset label
             if hasattr(self, 'dataset_label'):
-                self.dataset_label.config(text="Q&A Dataset (JSON)*:")
+                self.dataset_label.config(text="Dataset (JSON)*:")
             # Show dataset file selection
             if hasattr(self, 'dataset_label'):
                 self.dataset_label.grid(row=4, column=0, sticky=tk.W, pady=5)
@@ -385,22 +558,6 @@ class QAEvaluationApp:
             self._update_file_upload_positions(start_row=2)
             # Set results frame row to 8 (after mode selection)
             results_row = 8
-        elif self.evaluation_type.get() == "synthesis":
-            # Hide mode selection for synthesis
-            if hasattr(self, 'mode_frame'):
-                self.mode_frame.grid_remove()
-            # Update dataset label
-            if hasattr(self, 'dataset_label'):
-                self.dataset_label.config(text="Synthesis Condition Dataset (JSON)*:")
-            # Show dataset file selection
-            if hasattr(self, 'dataset_label'):
-                self.dataset_label.grid(row=3, column=0, sticky=tk.W, pady=5)
-                self.dataset_entry.grid(row=3, column=1, sticky=(tk.W, tk.E), pady=5, padx=(10, 5))
-                self.dataset_btn_frame.grid(row=3, column=2, pady=5)
-            # Adjust grid layout - file uploads start at row 1 (no mode selection)
-            self._update_file_upload_positions(start_row=1)
-            # Set results frame row to 7 (no mode selection)
-            results_row = 7
         elif self.evaluation_type.get() == "generation":
             # Show dataset type selection for generation
             if hasattr(self, 'mode_frame'):
@@ -504,21 +661,25 @@ class QAEvaluationApp:
         )
     
     def setup_mode_selection(self, parent):
-        # Mode selection frame (for Q&A evaluation and dataset generation)
+        # Mode selection frame (for Dataset Evaluation and dataset generation)
         self.mode_frame = ttk.LabelFrame(parent, text="Evaluation Mode", padding="10")
         self.mode_frame.grid(row=1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 20))
         
         # Different radio buttons based on evaluation type
         self.mode_widgets = {}  # Store references to mode widgets
         
-        # Q&A Evaluation radio buttons
-        self.mode_widgets['qa_single'] = ttk.Radiobutton(self.mode_frame, text="Single-hop Q&A Evaluation", 
+        # Dataset Evaluation radio buttons (NOW INCLUDES ALL 3 OPTIONS)
+        self.mode_widgets['eval_single'] = ttk.Radiobutton(self.mode_frame, text="Single-hop Q&A Evaluation", 
                                       variable=self.evaluation_mode, value="single-hop",
                                       command=self.on_mode_change)
         
-        self.mode_widgets['qa_multi'] = ttk.Radiobutton(self.mode_frame, text="Multi-hop Q&A Evaluation", 
+        self.mode_widgets['eval_multi'] = ttk.Radiobutton(self.mode_frame, text="Multi-hop Q&A Evaluation", 
                                      variable=self.evaluation_mode, value="multi-hop",
                                      command=self.on_mode_change)
+        
+        self.mode_widgets['eval_synthesis'] = ttk.Radiobutton(self.mode_frame, text="Synthesis Condition Evaluation", 
+                                          variable=self.evaluation_mode, value="synthesis-condition",
+                                          command=self.on_mode_change)
         
         # Dataset Generation radio buttons
         self.mode_widgets['gen_single'] = ttk.Radiobutton(self.mode_frame, text="Single-hop Q&A Generation", 
@@ -546,11 +707,12 @@ class QAEvaluationApp:
         for widget in self.mode_widgets.values():
             widget.grid_remove()
         
-        if self.evaluation_type.get() == "qa":
-            # Show Q&A evaluation options
+        if self.evaluation_type.get() == "evaluation":
+            # Show Dataset Evaluation options (ALL 3 NOW)
             self.mode_frame.config(text="Evaluation Mode")
-            self.mode_widgets['qa_single'].grid(row=0, column=0, sticky=tk.W, padx=(0, 20))
-            self.mode_widgets['qa_multi'].grid(row=0, column=1, sticky=tk.W)
+            self.mode_widgets['eval_single'].grid(row=0, column=0, sticky=tk.W, padx=(0, 20))
+            self.mode_widgets['eval_multi'].grid(row=0, column=1, sticky=tk.W, padx=(0, 20))
+            self.mode_widgets['eval_synthesis'].grid(row=0, column=2, sticky=tk.W)
             self.on_mode_change()
         elif self.evaluation_type.get() == "generation":
             # Show dataset generation options
@@ -561,16 +723,31 @@ class QAEvaluationApp:
             self.on_dataset_type_change()
     
     def on_mode_change(self):
-        """Update the mode description when Q&A evaluation selection changes"""
+        """Update the mode description when Dataset Evaluation selection changes"""
+        # Save current file paths before switching modes
+        self.save_current_file_paths()
+        
         if self.evaluation_mode.get() == "single-hop":
             description = "Single-hop mode: Evaluates Q&A pairs that require direct information from the context without reasoning chains."
-        else:
+        elif self.evaluation_mode.get() == "multi-hop":
             description = "Multi-hop mode: Evaluates Q&A pairs that require reasoning across multiple pieces of information or inference steps."
+        else:  # synthesis-condition
+            description = "Synthesis condition mode: Evaluates extracted synthesis procedures from research papers for completeness, data type, and accuracy."
         
         self.mode_description.config(text=description)
+        
+        # Load file paths for the new evaluation mode
+        self.update_current_file_paths()
+        
+        # Show appropriate results when mode changes in evaluation
+        if self.evaluation_type.get() == "evaluation":
+            self.show_appropriate_results()
     
     def on_dataset_type_change(self):
         """Update the description when dataset generation type changes"""
+        # Save current file paths before switching dataset types
+        self.save_current_file_paths()
+        
         if self.dataset_type.get() == "single-hop-qa":
             description = "Generate 20 single-hop Q&A pairs with a balanced mix of question types that require direct information from the manuscript without reasoning chains."
         elif self.dataset_type.get() == "multi-hop-qa":
@@ -579,6 +756,13 @@ class QAEvaluationApp:
             description = "Generate synthesis condition dataset by extracting all material synthesis procedures from the research papers (excluding characterization data)."
         
         self.mode_description.config(text=description)
+        
+        # Load file paths for the new dataset type
+        self.update_current_file_paths()
+        
+        # Show appropriate results when dataset type changes in generation
+        if self.evaluation_type.get() == "generation":
+            self.show_appropriate_results()
     
     def _update_file_upload_positions(self, start_row, hide_dataset=False):
         """Update positions of file upload elements dynamically"""
@@ -629,7 +813,7 @@ class QAEvaluationApp:
         # Manuscript buttons frame
         self.ms_btn_frame = ttk.Frame(parent)
         ttk.Button(self.ms_btn_frame, text="Browse", command=lambda: self.browse_file(self.manuscript_path), width=10).grid(row=0, column=0, padx=(0, 5))
-        ttk.Button(self.ms_btn_frame, text="Clear", command=lambda: self.manuscript_path.set(""), width=8).grid(row=0, column=1)
+        ttk.Button(self.ms_btn_frame, text="Clear", command=self.clear_manuscript_path, width=8).grid(row=0, column=1)
         
         # Supplement upload
         self.supplement_label = ttk.Label(parent, text="SI:")
@@ -638,21 +822,37 @@ class QAEvaluationApp:
         # Supplement buttons frame
         self.supp_btn_frame = ttk.Frame(parent)
         ttk.Button(self.supp_btn_frame, text="Browse", command=lambda: self.browse_file(self.supplement_path), width=10).grid(row=0, column=0, padx=(0, 5))
-        ttk.Button(self.supp_btn_frame, text="Clear", command=lambda: self.supplement_path.set(""), width=8).grid(row=0, column=1)
+        ttk.Button(self.supp_btn_frame, text="Clear", command=self.clear_supplement_path, width=8).grid(row=0, column=1)
         
-        # Dataset upload (generic label that changes based on evaluation type)
-        self.dataset_label = ttk.Label(parent, text="Q&A Dataset (JSON)*:")
+        # Dataset upload - RENAMED TO "Dataset (JSON)*:"
+        self.dataset_label = ttk.Label(parent, text="Dataset (JSON)*:")
         self.dataset_entry = ttk.Entry(parent, textvariable=self.dataset_path, width=40)
         
         # Dataset buttons frame
         self.dataset_btn_frame = ttk.Frame(parent)
         ttk.Button(self.dataset_btn_frame, text="Browse", command=lambda: self.browse_json_file(self.dataset_path), width=10).grid(row=0, column=0, padx=(0, 5))
-        ttk.Button(self.dataset_btn_frame, text="Clear", command=lambda: self.dataset_path.set(""), width=8).grid(row=0, column=1)
+        ttk.Button(self.dataset_btn_frame, text="Clear", command=self.clear_dataset_path, width=8).grid(row=0, column=1)
         
         # Initial positioning (will be updated by update_ui_for_evaluation_type)
         self._update_file_upload_positions(start_row=2)
     
+    def get_current_file_path_values(self):
+        """Get the current file path values for processing"""
+        # Make sure current UI values are saved to the mode-specific variables
+        self.save_current_file_paths()
+        
+        manuscript_var, supplement_var, dataset_var = self.get_current_file_paths()
+        
+        return (manuscript_var.get(), 
+                supplement_var.get(), 
+                dataset_var.get() if dataset_var else "")
+
     def start_operation(self):
+        """Start either evaluation or generation based on current mode"""
+        if self.evaluation_type.get() == "generation":
+            self.start_generation()
+        else:
+            self.start_evaluation()
         """Start either evaluation or generation based on current mode"""
         if self.evaluation_type.get() == "generation":
             self.start_generation()
@@ -665,8 +865,8 @@ class QAEvaluationApp:
             if not self.validate_generation_inputs():
                 return
             
-            # Show that generation is starting
-            dataset_type_text = self.get_dataset_type_display_name()
+            # Show that generation is starting - use current selection
+            dataset_type_text = self.get_dataset_type_display_name()  # Current selection is correct here
             
             self.update_status(f"Starting {dataset_type_text} dataset generation...")
             self.update_progress(5)
@@ -686,28 +886,34 @@ class QAEvaluationApp:
             self.update_status("Ready to generate dataset")
             self.update_progress(0)
     
-    def get_dataset_type_display_name(self):
-        """Get display name for current dataset type"""
+    def get_dataset_type_display_name(self, dataset_type=None):
+        """Get display name for dataset type"""
+        # Use provided type or fall back to current selection
+        if dataset_type is None:
+            dataset_type = self.dataset_type.get()
+            
         type_map = {
             "single-hop-qa": "Single-hop Q&A",
             "multi-hop-qa": "Multi-hop Q&A",
             "synthesis-condition": "Synthesis Condition"
         }
-        return type_map.get(self.dataset_type.get(), "Dataset")
+        return type_map.get(dataset_type, "Dataset")
     
     def validate_generation_inputs(self):
         """Validate inputs for dataset generation"""
         try:
+            manuscript_path, supplement_path, _ = self.get_current_file_path_values()
+            
             # Check if manuscript file is provided and exists
-            if not self.manuscript_path.get():
+            if not manuscript_path:
                 self.show_custom_messagebox("File Required", "Please select a manuscript file.", "error")
                 return False
             
-            if not os.path.exists(self.manuscript_path.get()):
+            if not os.path.exists(manuscript_path):
                 self.show_custom_messagebox("File Not Found", "Manuscript file does not exist.", "error")
                 return False
             
-            # For generation, supplement is optional but recommended
+            # For generation, supplementary information is optional but recommended
             # No popup needed - just proceed without SI if not provided
             
             # Check that Gemini API key is provided (only Gemini is used for generation)
@@ -737,26 +943,33 @@ class QAEvaluationApp:
     def run_generation(self):
         """Run the dataset generation process"""
         try:
+            # Reset export tracking for new generation
+            self.generation_exported = False
+            self.exported_json_path = ""
+            
             dataset_type_text = self.get_dataset_type_display_name()
             
-            self.update_status(f"Loading manuscript and supplement files for {dataset_type_text} generation...")
+            self.update_status(f"Loading manuscript and supplementary information files for {dataset_type_text} generation...")
             self.update_progress(10)
             
-            # Process context from manuscript and supplement files
+            # Get current file paths
+            manuscript_path, supplement_path, _ = self.get_current_file_path_values()
+            
+            # Process context from manuscript and supplementary information files
             context = ""
             files_loaded = []
             
-            if self.manuscript_path.get():
-                manuscript_content = self.process_file_content(self.manuscript_path.get())
+            if manuscript_path:
+                manuscript_content = self.process_file_content(manuscript_path)
                 if manuscript_content:
                     context += manuscript_content + " "
                     files_loaded.append("manuscript")
                 
-            if self.supplement_path.get() and os.path.exists(self.supplement_path.get()):
-                supplement_content = self.process_file_content(self.supplement_path.get())
+            if supplement_path and os.path.exists(supplement_path):
+                supplement_content = self.process_file_content(supplement_path)
                 if supplement_content:
                     context += supplement_content + " "
-                    files_loaded.append("supplement")
+                    files_loaded.append("supplementary information")
             
             # Update status to show what files were loaded
             files_text = " and ".join(files_loaded) if files_loaded else "manuscript"
@@ -785,8 +998,9 @@ class QAEvaluationApp:
             
             self.update_progress(90)
             
-            # Store results
+            # Store results with type tracking
             self.generation_results = generated_data
+            self.generation_results_type = self.dataset_type.get()
             
             self.update_progress(100)
             self.update_status(f"{dataset_type_text} dataset generation completed successfully!")
@@ -999,10 +1213,18 @@ Extract synthesis conditions for all materials found in the context."""
         
         # Export JSON button
         export_btn = ttk.Button(
-            controls_frame, text="Export JSON", 
+            controls_frame, text="Export to JSON", 
             command=lambda: self.export_generation_json(), width=15
         )
-        export_btn.grid(row=0, column=2, sticky=tk.E)
+        export_btn.grid(row=0, column=2, sticky=tk.E, padx=(5, 5))
+        
+        # Send to Evaluation button
+        self.send_to_eval_button = ttk.Button(
+            controls_frame, text="Send to Evaluation", 
+            command=self.send_to_evaluation, width=15,
+            state='disabled' if not self.generation_exported else 'normal'
+        )
+        self.send_to_eval_button.grid(row=0, column=3, sticky=tk.E)
         
         print("Export JSON button created and connected")  # Debug print
         
@@ -1133,18 +1355,12 @@ Extract synthesis conditions for all materials found in the context."""
             print("Export JSON button clicked")  # Debug print
             
             if self.generation_results is None:
-                print("No generation results found")  # Debug print
-                self.show_custom_messagebox(
-                    "No Results", 
-                    "No generation results to export.\n\nPlease run a generation first.",
-                    "warning"
-                )
+                # ... error handling
                 return
             
-            print(f"Generation results found: {len(self.generation_results) if isinstance(self.generation_results, list) else 'single item'}")  # Debug print
-            
-            # Default filename based on dataset type
-            dataset_type_text = self.get_dataset_type_display_name().lower().replace(" ", "_").replace("-", "_")
+            # Default filename based on the STORED result type, not current selection
+            stored_type = self.generation_results_type or self.dataset_type.get()
+            dataset_type_text = self.get_dataset_type_display_name(stored_type).lower().replace(" ", "_").replace("-", "_")
             default_filename = f"{dataset_type_text}_dataset.json"
             
             print(f"Opening file dialog with default name: {default_filename}")  # Debug print
@@ -1159,7 +1375,7 @@ Extract synthesis conditions for all materials found in the context."""
                 defaultextension=".json",
                 filetypes=[("JSON files", "*.json"), ("All files", "*.*")],
                 title="Save Generated Dataset",
-                initialvalue=default_filename
+                initialfile=default_filename
             )
             
             print(f"User selected filename: {filename}")  # Debug print
@@ -1174,6 +1390,14 @@ Extract synthesis conditions for all materials found in the context."""
                 json.dump(self.generation_results, f, indent=2, ensure_ascii=False)
             
             print(f"File saved successfully: {filename}")  # Debug print
+            
+            # Mark as exported and save path
+            self.generation_exported = True
+            self.exported_json_path = filename
+            
+            # Update the send to evaluation button if it exists
+            if hasattr(self, 'send_to_eval_button'):
+                self.send_to_eval_button.config(state='normal')
             
             success_msg = (
                 "Generated dataset exported successfully!\n\n"
@@ -1195,16 +1419,107 @@ Extract synthesis conditions for all materials found in the context."""
             )
             self.show_custom_messagebox("Export Error", error_msg, "error")
     
-    # [Keep all existing methods unchanged...]
+    def send_to_evaluation(self):
+        try:
+            print("Send to Evaluation button clicked")
+            # basic safety checks
+            if not self.generation_exported or not self.exported_json_path:
+                self.show_custom_messagebox(
+                    "Export Required",
+                    "Please export the generated dataset first, then try again.",
+                    "warning"
+                )
+                return
+
+            if not os.path.exists(self.exported_json_path):
+                self.show_custom_messagebox(
+                    "File Not Found",
+                    f"The exported JSON file was not found at:\n{self.exported_json_path}",
+                    "error"
+                )
+                return
+
+            exported_path = self.exported_json_path          # keep a copy
+
+            # remember manuscript/SI paths *before* switching tabs
+            current_ms, current_si, _ = self.get_current_file_path_values()
+            current_dataset_type = self.dataset_type.get()   # single/multi/synthesis
+
+            # switch the UI to Evaluation tab (exactly once)
+            self.set_evaluation_type("evaluation")
+            self.evaluation_mode.set({
+                "single-hop-qa":      "single-hop",
+                "multi-hop-qa":       "multi-hop",
+                "synthesis-condition":"synthesis-condition"
+            }[current_dataset_type])
+            self.update_ui_for_evaluation_type()
+
+            # copy paths into Evaluation widgets
+            ms_var, si_var, ds_var = self.get_current_file_paths()
+            if ms_var: ms_var.set(current_ms or "")
+            if si_var: si_var.set(current_si or "")
+            if ds_var: ds_var.set(exported_path)             # use saved copy
+            self.update_current_file_paths()
+
+            # API-key check (all four are required)
+            missing = [label for label, key in [
+                ("Claude API Key",          self.claude_key.get()),
+                ("Gemini API Key",          self.gemini_key.get()),
+                ("OpenAI API Key (GPT-4o)", self.openai_key.get()),
+                ("OpenAI API Key (GPT-o1)", self.openai_o1_key.get()),
+            ] if not key.strip()]
+
+            if missing:
+                self.show_custom_messagebox(
+                    "API Keys Required",
+                    "All API keys are required for evaluation.\n\nMissing:\n• " +
+                    "\n• ".join(missing) +
+                    "\n\nEnter them in *Settings* and try again.",
+                    "error"
+                )
+                return
+
+            # user feedback
+            dataset_label = os.path.basename(exported_path)
+            mode_label = {
+                "single-hop":        "Single-hop Q&A",
+                "multi-hop":         "Multi-hop Q&A",
+                "synthesis-condition":"Synthesis condition"
+            }[self.evaluation_mode.get()]
+
+            self.update_status(f"Ready for {mode_label} evaluation — running now…")
+            print(f'dataset path: {exported_path}')
+
+            self.show_custom_messagebox(
+                "Evaluation Started",
+                f"**{mode_label} evaluation** has started automatically.\n\n"
+                f"• Dataset file: {dataset_label}\n"
+                f"• Manuscript: {os.path.basename(current_ms) if current_ms else 'Not set'}\n"
+                f"• Supplement: {os.path.basename(current_si) if current_si else 'Not set'}\n\n"
+                "You can monitor progress in the status bar.",
+                "info"
+            )
+
+            # fire off the evaluation
+            self.start_evaluation()
+
+        except Exception as e:
+            print(f"Send-to-evaluation error: {e}")
+            import traceback; traceback.print_exc()
+            self.show_custom_messagebox(
+                "Transfer Error",
+                f"Failed to send dataset to evaluation:\n\n{e}\n\n"
+                "Please try again or start the evaluation manually.",
+                "error"
+            )
     
     def get_classification_prompt(self):
-        """Return the appropriate classification prompt based on the evaluation type and mode"""
-        if self.evaluation_type.get() == "qa":
-            if self.evaluation_mode.get() == "single-hop":
-                return self.get_single_hop_prompt()
-            else:
-                return self.get_multi_hop_prompt()
-        else:
+        """Return the appropriate classification prompt based on the evaluation mode"""
+        if self.evaluation_mode.get() == "single-hop":
+            return self.get_single_hop_prompt()
+        elif self.evaluation_mode.get() == "multi-hop":
+            return self.get_multi_hop_prompt()
+        else:  # synthesis-condition
             return self.get_synthesis_prompt()
     
     def get_synthesis_prompt(self):
@@ -1445,12 +1760,16 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         filename = filedialog.askopenfilename(filetypes=filetypes)
         if filename:
             var.set(filename)
+            # Save the current file paths when changed
+            self.save_current_file_paths()
     
     def browse_json_file(self, var):
         filetypes = [("JSON files", "*.json"), ("All files", "*.*")]
         filename = filedialog.askopenfilename(filetypes=filetypes)
         if filename:
             var.set(filename)
+            # Save the current file paths when changed
+            self.save_current_file_paths()
     
     def open_settings(self):
         settings_window = tk.Toplevel(self.root)
@@ -1494,29 +1813,63 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         save_btn.grid(row=7, column=0, columnspan=2, pady=20)
     
     def start_new_run(self):
-        """Clear all file inputs but keep API keys and evaluation settings for all modes"""
+        """Clear current mode's file inputs but keep API keys and evaluation settings for all modes"""
+        # Clear only the current mode's file paths
         self.manuscript_path.set("")
         self.supplement_path.set("")
         if self.evaluation_type.get() != "generation":  # Only clear dataset path for evaluation modes
             self.dataset_path.set("")
-        self.evaluation_results = None
-        self.generation_results = None
+        
+        # Save the cleared paths to the current mode's variables
+        self.save_current_file_paths()
+        
+        # Clear results but keep them for potential restoration if user switches back
+        # Only clear if results don't match current mode/type
+        if self.evaluation_type.get() == "generation":
+            # For generation, clear results that don't match current type
+            if self.generation_results_type != self.dataset_type.get():
+                self.generation_results = None
+                self.generation_results_type = None
+        else:
+            # For evaluation, clear results that don't match current mode
+            if self.evaluation_results_mode != self.evaluation_mode.get():
+                self.evaluation_results = None
+                self.evaluation_results_mode = None
+        
+        # Reset generation export tracking
+        self.generation_exported = False
+        self.exported_json_path = ""
+        
         self.hide_results()
         
         if self.evaluation_type.get() == "generation":
             self.update_status("Ready for new dataset generation")
             self.start_button.config(text="Start Generation")
         else:
-            eval_type_text = "Q&A" if self.evaluation_type.get() == "qa" else "synthesis condition"
-            self.update_status(f"Ready for new {eval_type_text} evaluation")
+            self.update_status("Ready for new dataset evaluation")
             self.start_button.config(text="Start Evaluation")
         self.update_progress(0)
     
+    def clear_manuscript_path(self):
+        """Clear manuscript path and save"""
+        self.manuscript_path.set("")
+        self.save_current_file_paths()
+    
+    def clear_supplement_path(self):
+        """Clear supplementary information path and save"""
+        self.supplement_path.set("")
+        self.save_current_file_paths()
+    
+    def clear_dataset_path(self):
+        """Clear dataset path and save"""
+        self.dataset_path.set("")
+        self.save_current_file_paths()
+    
     def load_dataset(self, file_path):
-        """Load dataset based on evaluation type"""
-        if self.evaluation_type.get() == "qa":
+        """Load dataset based on evaluation mode"""
+        if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
             return self.load_qa_dataset(file_path)
-        else:
+        else:  # synthesis-condition
             return self.load_synthesis_dataset(file_path)
     
     def load_qa_dataset(self, file_path):
@@ -1646,27 +1999,29 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
     def validate_inputs(self):
         """Enhanced validation requiring all API keys and providing guidance for synthesis evaluation"""
         try:
+            manuscript_path, supplement_path, dataset_path = self.get_current_file_path_values()
+            
             # Check if manuscript file is provided and exists
-            if not self.manuscript_path.get():
+            if not manuscript_path:
                 self.show_custom_messagebox("File Required", "Please select a manuscript file.", "error")
                 return False
             
-            if not os.path.exists(self.manuscript_path.get()):
+            if not os.path.exists(manuscript_path):
                 self.show_custom_messagebox("File Not Found", "Manuscript file does not exist.", "error")
                 return False
             
             # Check if dataset is provided and exists
-            if not self.dataset_path.get():
-                dataset_type = "Q&A dataset" if self.evaluation_type.get() == "qa" else "synthesis condition dataset"
+            if not dataset_path:
+                dataset_type = "Q&A dataset" if self.evaluation_mode.get() in ["single-hop", "multi-hop"] else "synthesis condition dataset"
                 self.show_custom_messagebox("Dataset Required", f"Please select a {dataset_type} file.", "error")
                 return False
             
-            if not os.path.exists(self.dataset_path.get()):
-                dataset_type = "Q&A dataset" if self.evaluation_type.get() == "qa" else "synthesis condition dataset"
+            if not os.path.exists(dataset_path):
+                dataset_type = "Q&A dataset" if self.evaluation_mode.get() in ["single-hop", "multi-hop"] else "synthesis condition dataset"
                 self.show_custom_messagebox("Dataset Not Found", f"{dataset_type.title()} file does not exist.", "error")
                 return False
 
-            # For synthesis evaluation, supplement is recommended but not required
+            # For synthesis evaluation, supplementary information is recommended but not required
             # No popup needed - just proceed without SI if not provided
 
             # Check that ALL API keys are provided
@@ -1695,10 +2050,10 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
                 return False
 
             # Test if the dataset can be loaded
-            dataset = self.load_dataset(self.dataset_path.get())
+            dataset = self.load_dataset(dataset_path)
 
             if not dataset or len(dataset) == 0:
-                dataset_type = "Q&A pairs" if self.evaluation_type.get() == "qa" else "synthesis conditions"
+                dataset_type = "Q&A pairs" if self.evaluation_mode.get() in ["single-hop", "multi-hop"] else "synthesis conditions"
                 error_msg = (
                     f"No {dataset_type} found in the dataset file.\n\n"
                     f"Please check that your JSON file contains valid {dataset_type}.\n\n"
@@ -1728,12 +2083,13 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
                 return
             
             # Show that evaluation is starting
-            eval_type_text = "Q&A" if self.evaluation_type.get() == "qa" else "synthesis condition"
-            mode_text = ""
-            if self.evaluation_type.get() == "qa":
-                mode_text = f" ({self.evaluation_mode.get()})"
+            eval_mode_text = {
+                "single-hop": "Single-hop Q&A",
+                "multi-hop": "Multi-hop Q&A", 
+                "synthesis-condition": "Synthesis condition"
+            }.get(self.evaluation_mode.get(), "Dataset")
             
-            self.update_status(f"Starting {eval_type_text} evaluation{mode_text}...")
+            self.update_status(f"Starting {eval_mode_text} evaluation...")
             self.update_progress(5)
             
             # Start evaluation in a separate thread to prevent GUI freezing
@@ -1753,42 +2109,46 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
     
     def run_evaluation(self):
         try:
-            eval_type_text = "Q&A" if self.evaluation_type.get() == "qa" else "synthesis condition"
-            mode_text = ""
-            if self.evaluation_type.get() == "qa":
-                mode_text = f" ({self.evaluation_mode.get()})"
+            eval_mode_text = {
+                "single-hop": "Single-hop Q&A",
+                "multi-hop": "Multi-hop Q&A", 
+                "synthesis-condition": "Synthesis condition"
+            }.get(self.evaluation_mode.get(), "Dataset")
             
-            self.update_status(f"Loading manuscript and supplement files for {eval_type_text} evaluation{mode_text}...")
+            self.update_status(f"Loading manuscript and supplementary information files for {eval_mode_text} evaluation...")
             self.update_progress(10)
             
-            # Process context from manuscript and supplement files
+            # Get current file paths
+            manuscript_path, supplement_path, dataset_path = self.get_current_file_path_values()
+            
+            # Process context from manuscript and supplementary information files
             context = ""
             files_loaded = []
             
-            if self.manuscript_path.get():
-                manuscript_content = self.process_file_content(self.manuscript_path.get())
+            if manuscript_path:
+                manuscript_content = self.process_file_content(manuscript_path)
                 if manuscript_content:
                     context += manuscript_content + " "
                     files_loaded.append("manuscript")
                 
-            if self.supplement_path.get() and os.path.exists(self.supplement_path.get()):
-                supplement_content = self.process_file_content(self.supplement_path.get())
+            if supplement_path and os.path.exists(supplement_path):
+                supplement_content = self.process_file_content(supplement_path)
                 if supplement_content:
                     context += supplement_content + " "
-                    files_loaded.append("supplement")
+                    files_loaded.append("supplementary information")
             
             # Update status to show what files were loaded
             files_text = " and ".join(files_loaded) if files_loaded else "manuscript"
-            self.update_status(f"Loaded {files_text}. Loading {eval_type_text} dataset...")
+            self.update_status(f"Loaded {files_text}. Loading {eval_mode_text} dataset...")
             self.update_progress(20)
             
             # Load dataset
-            dataset = self.load_dataset(self.dataset_path.get())
+            dataset = self.load_dataset(dataset_path)
             if not dataset:
-                raise ValueError(f"No {eval_type_text} data found in the dataset")
+                raise ValueError(f"No {eval_mode_text} data found in the dataset")
             
-            # Prepare prompt based on evaluation type
-            if self.evaluation_type.get() == "qa":
+            # Prepare prompt based on evaluation mode
+            if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
                 prompt = f"CONTEXT:{context}\n\nQ&A DATASET:"
                 for pair in dataset:
                     prompt += str(pair) + "\n\n"
@@ -1797,14 +2157,14 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
                 synthesis_data = json.dumps(dataset, indent=4)
                 prompt = f"CONTEXT:{context}\n\nSynthesis Conditions Data:{synthesis_data}"
             
-            self.update_status(f"Running {eval_type_text} LLM evaluations{mode_text} using {files_text}...")
+            self.update_status(f"Running {eval_mode_text} LLM evaluations using {files_text}...")
             self.update_progress(30)
             
             # Get the appropriate classification prompt
             classification_prompt = self.get_classification_prompt()
             
             # Run evaluations with all 4 LLMs concurrently
-            self.update_status(f"Running all LLM evaluations concurrently ({eval_type_text}{mode_text})...")
+            self.update_status(f"Running all LLM evaluations concurrently ({eval_mode_text})...")
             self.update_progress(30)
             
             # Use ThreadPoolExecutor to run all models simultaneously
@@ -1813,25 +2173,25 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
                 
                 # Submit all available models
                 if self.claude_key.get().strip():
-                    if self.evaluation_type.get() == "qa":
+                    if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
                         futures['claude'] = executor.submit(self.run_claude_qa_evaluation, classification_prompt, prompt, len(dataset))
                     else:
                         futures['claude'] = executor.submit(self.run_claude_synthesis_evaluation, classification_prompt, prompt)
                 
                 if self.gemini_key.get().strip():
-                    if self.evaluation_type.get() == "qa":
+                    if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
                         futures['gemini'] = executor.submit(self.run_gemini_qa_evaluation, classification_prompt, prompt, len(dataset))
                     else:
                         futures['gemini'] = executor.submit(self.run_gemini_synthesis_evaluation, classification_prompt, prompt)
                 
                 if self.openai_key.get().strip():
-                    if self.evaluation_type.get() == "qa":
+                    if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
                         futures['gpt4o'] = executor.submit(self.run_gpt_qa_evaluation, classification_prompt, prompt, len(dataset))
                     else:
                         futures['gpt4o'] = executor.submit(self.run_gpt_synthesis_evaluation, classification_prompt, prompt)
                 
                 if self.openai_o1_key.get().strip():
-                    if self.evaluation_type.get() == "qa":
+                    if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
                         futures['gpt_o1'] = executor.submit(self.run_gpt_o1_qa_evaluation, classification_prompt, prompt, len(dataset))
                     else:
                         futures['gpt_o1'] = executor.submit(self.run_gpt_o1_synthesis_evaluation, classification_prompt, prompt)
@@ -1845,7 +2205,7 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
                     try:
                         result = future.result(timeout=600)  # 10 minute timeout per model
                         if result is not None:
-                            if self.evaluation_type.get() == "qa" and len(result) == len(dataset):
+                            if self.evaluation_mode.get() in ["single-hop", "multi-hop"] and len(result) == len(dataset):
                                 results.append((model_name, result))
                                 model_display_name = {
                                     'claude': 'Claude',
@@ -1854,7 +2214,7 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
                                     'gpt_o1': 'GPT-o1'
                                 }.get(model_name, model_name)
                                 successful_models.append(model_display_name)
-                            elif self.evaluation_type.get() == "synthesis" and len(result) >= 1:
+                            elif self.evaluation_mode.get() == "synthesis-condition" and len(result) >= 1:
                                 results.append((model_name, result))
                                 model_display_name = {
                                     'claude': 'Claude',
@@ -1896,15 +2256,17 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
             self.update_status("Processing results...")
             
             # Combine results and calculate final evaluation
-            if self.evaluation_type.get() == "qa":
+            if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
                 final_results = self.combine_qa_results(results, dataset)
             else:
                 final_results = self.combine_synthesis_results(results)
             
+            # Store results with mode tracking
             self.evaluation_results = final_results
+            self.evaluation_results_mode = self.evaluation_mode.get()
             
             self.update_progress(100)
-            success_status = f"{eval_type_text.title()} evaluation{mode_text} completed! Used models: {', '.join(successful_models)}"
+            success_status = f"{eval_mode_text} evaluation completed! Used models: {', '.join(successful_models)}"
             if failed_models:
                 success_status += f" (Failed: {', '.join(failed_models)})"
             self.update_status(success_status)
@@ -2624,7 +2986,7 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         
         df = self.evaluation_results
         
-        if self.evaluation_type.get() == "qa":
+        if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
             self.show_qa_stats(stats_frame, df)
         else:
             self.show_synthesis_stats(stats_frame, df)
@@ -2732,7 +3094,7 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
         canvas.configure(yscrollcommand=scrollbar.set)
         
-        if self.evaluation_type.get() == "qa":
+        if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
             self.show_qa_details(scrollable_frame)
         else:
             self.show_synthesis_details(scrollable_frame)
@@ -2851,7 +3213,7 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         """Prepare the evaluation data for Excel export"""
         df = self.evaluation_results.copy()
         
-        if self.evaluation_type.get() == "qa":
+        if self.evaluation_mode.get() in ["single-hop", "multi-hop"]:
             return self.prepare_qa_export_data(df)
         else:
             return self.prepare_synthesis_export_data(df)
