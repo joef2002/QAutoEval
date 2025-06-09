@@ -72,7 +72,7 @@ class QAEvaluationApp:
             w, h = root.winfo_screenwidth(), root.winfo_screenheight()
             self.root.geometry(f"{w}x{h}+0+0")
 
-        self.root.title("QAutoEval - Multi-Mode Evaluation System")
+        self.root.title("GenAI for Reticular Chemistry")
         self.root.geometry("1000x800")
         
         # Initialize variables
@@ -86,14 +86,18 @@ class QAEvaluationApp:
         self.openai_key = tk.StringVar()
         self.openai_o1_key = tk.StringVar()
         
-        # Main evaluation type
-        self.evaluation_type = tk.StringVar(value="qa")  # "qa" or "synthesis"
+        # Main evaluation type - now includes 'generation' as default
+        self.evaluation_type = tk.StringVar(value="generation")  # "generation", "qa", or "synthesis"
         
         # Q&A specific variables
         self.evaluation_mode = tk.StringVar(value="single-hop")
         
+        # Dataset generation specific variables
+        self.dataset_type = tk.StringVar(value="single-hop-qa")  # "single-hop-qa", "multi-hop-qa", "synthesis-condition"
+        
         # Results storage
         self.evaluation_results = None
+        self.generation_results = None  # For dataset generation results
         
         # UI state
         self.results_visible = False
@@ -116,7 +120,7 @@ class QAEvaluationApp:
         # Title and evaluation type selection
         self.setup_header(main_frame)
         
-        # Mode selection (only for Q&A) - row 1
+        # Mode selection (for Q&A evaluation and dataset generation) - row 1
         self.setup_mode_selection(main_frame)
         
         # File uploads - rows 2-4
@@ -125,9 +129,11 @@ class QAEvaluationApp:
         # Control buttons - row 5
         self.button_frame = ttk.Frame(main_frame)
         self.button_frame.grid(row=5, column=0, columnspan=3, pady=20)
-        ttk.Button(self.button_frame, text="Start Evaluation", command=self.start_evaluation, width=15).grid(
-            row=0, column=0, padx=(0, 10)
-        )
+        
+        # Start button (text changes based on mode)
+        self.start_button = ttk.Button(self.button_frame, text="Start Generation", command=self.start_operation, width=15)
+        self.start_button.grid(row=0, column=0, padx=(0, 10))
+        
         ttk.Button(self.button_frame, text="Start New Run", command=self.start_new_run, width=15).grid(row=0, column=1)
 
         # Progress and status - rows 6-7
@@ -135,7 +141,7 @@ class QAEvaluationApp:
         self.progress_bar = ttk.Progressbar(main_frame, variable=self.progress_var, maximum=100)
         self.progress_bar.grid(row=6, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
 
-        self.status_label = ttk.Label(main_frame, text="Ready to evaluate")
+        self.status_label = ttk.Label(main_frame, text="Ready to generate dataset")
         self.status_label.grid(row=7, column=0, columnspan=3, pady=5)
 
         # Results frame - row 8 (this will be the expanding row)
@@ -152,65 +158,69 @@ class QAEvaluationApp:
         header_frame.grid(row=0, column=0, columnspan=3, pady=(0, 20))
         header_frame.columnconfigure(1, weight=1)  # Make middle column expandable
         
-        # Logo frame (left side)
+        # Logo frame (left side) - now contains single logo that changes
         logo_frame = ttk.Frame(header_frame)
         logo_frame.grid(row=0, column=0, padx=(0, 20))
         
-        # Load and display logo
+        # Store logo frame reference for later updates
+        self.logo_frame = logo_frame
+        
+        # Load both logos but don't display them yet
         try:
             # Calculate size to match button dimensions (width=20 chars ≈ 160px, height=2 lines ≈ 50px)
-            container_width = 160
+            container_width = 140
             container_height = 50
+            self.container_width = container_width
+            self.container_height = container_height
 
-            # Use PIL for better image handling
-            logo_image = Image.open('docs/images/logo.png')
-            
-            # Resize image while maintaining aspect ratio
-            logo_image.thumbnail((container_width, container_height), Image.Resampling.LANCZOS)
-            
-            # Convert to PhotoImage
-            self.logo_photo = ImageTk.PhotoImage(logo_image)
-            
-            # Create logo label with the same dimensions as the Q&A button
-            logo_label = tk.Label(
-                logo_frame, 
-                image=self.logo_photo,
-                width=container_width,
-                height=container_height
-            )
-            logo_label.pack()
+            # Load retchemqa logo for generation mode
+            try:
+                retchemqa_image = Image.open('docs/images/retchemqa-logo_720.png')
+                retchemqa_image.thumbnail((container_width, container_height), Image.Resampling.LANCZOS)
+                self.retchemqa_photo = ImageTk.PhotoImage(retchemqa_image)
+            except Exception as e:
+                print(f"Could not load retchemqa logo: {e}")
+                self.retchemqa_photo = None
+
+            # Load main logo for evaluation modes  
+            try:
+                logo_image = Image.open('docs/images/logo.png')
+                logo_image.thumbnail((container_width, container_height), Image.Resampling.LANCZOS)
+                self.logo_photo = ImageTk.PhotoImage(logo_image)
+            except Exception as e:
+                print(f"Could not load main logo: {e}")
+                self.logo_photo = None
                 
         except Exception as e:
-            # Fallback if image can't be loaded - show placeholder
-            print(f"Could not load logo: {e}")
-            placeholder_label = tk.Label(
-                logo_frame,
-                text="QAutoEval\nLogo",
-                width=20,  # Same as Q&A button
-                height=2,  # Same as Q&A button
-                font=("Arial", 10, "bold"),
-                relief="raised",
-                borderwidth=1,
-                bg="lightgray",
-                fg="darkblue"
-            )
-            placeholder_label.pack()
+            print(f"Error in logo setup: {e}")
+            self.retchemqa_photo = None
+            self.logo_photo = None
+        
+        # Create the logo label (will be updated based on mode)
+        self.logo_label = None
+        self.update_logo_display()
         
         # Evaluation type buttons (center)
         eval_buttons_frame = ttk.Frame(header_frame)
         eval_buttons_frame.grid(row=0, column=1)
         
+        # Dataset Generation button (FIRST)
+        self.generation_button = tk.Button(eval_buttons_frame, text="Dataset Generation", 
+                                        command=lambda: self.set_evaluation_type("generation"),
+                                        font=("Arial", 12, "bold"), width=18, height=2)
+        self.generation_button.grid(row=0, column=0, padx=(0, 5))
+        
         # Q&A Evaluation button
         self.qa_button = tk.Button(eval_buttons_frame, text="Q&A Pairs Evaluation", 
                                 command=lambda: self.set_evaluation_type("qa"),
                                 font=("Arial", 12, "bold"), width=20, height=2)
-        self.qa_button.grid(row=0, column=0, padx=(0, 5))
+        self.qa_button.grid(row=0, column=1, padx=(5, 0))
         
         # Synthesis Condition Evaluation button
         self.synthesis_button = tk.Button(eval_buttons_frame, text="Synthesis Condition Evaluation", 
                                         command=lambda: self.set_evaluation_type("synthesis"),
                                         font=("Arial", 12, "bold"), width=25, height=2)
-        self.synthesis_button.grid(row=0, column=1, padx=(5, 0))
+        self.synthesis_button.grid(row=0, column=2, padx=(5, 0))
         
         # Settings button (top-right)
         settings_btn = ttk.Button(header_frame, text="Settings", command=self.open_settings, width=10)
@@ -218,106 +228,191 @@ class QAEvaluationApp:
         
         # Update button colors
         self.update_button_colors()
-    
+
+    def update_logo_display(self):
+        """Update which logo is displayed based on the current evaluation type"""
+        # Remove existing logo label if it exists
+        if hasattr(self, 'logo_label') and self.logo_label:
+            self.logo_label.destroy()
+            self.logo_label = None
+        
+        # Make sure we have the logo frame
+        if not hasattr(self, 'logo_frame'):
+            return
+        
+        # Determine which logo to show based on evaluation type
+        if self.evaluation_type.get() == "generation":
+            # Show retchemqa logo for generation mode
+            if hasattr(self, 'retchemqa_photo') and self.retchemqa_photo:
+                self.logo_label = tk.Label(
+                    self.logo_frame, 
+                    image=self.retchemqa_photo,
+                    width=self.container_width,
+                    height=self.container_height,
+                    compound='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+            else:
+                # Fallback placeholder for retchemqa logo
+                self.logo_label = tk.Label(
+                    self.logo_frame,
+                    text="RetChemQA\nLogo",
+                    width=20,
+                    height=2,
+                    font=("Arial", 10, "bold"),
+                    relief="raised",
+                    borderwidth=1,
+                    bg="lightblue",
+                    fg="darkblue",
+                    justify='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+        else:
+            # Show main logo for evaluation modes (qa and synthesis)
+            if hasattr(self, 'logo_photo') and self.logo_photo:
+                self.logo_label = tk.Label(
+                    self.logo_frame, 
+                    image=self.logo_photo,
+                    width=self.container_width,
+                    height=self.container_height,
+                    compound='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+            else:
+                # Fallback placeholder for main logo
+                self.logo_label = tk.Label(
+                    self.logo_frame,
+                    text="QAutoEval\nLogo",
+                    width=20,
+                    height=2,
+                    font=("Arial", 10, "bold"),
+                    relief="raised",
+                    borderwidth=1,
+                    bg="lightgray",
+                    fg="darkblue",
+                    justify='center'
+                )
+                self.logo_label.grid(row=0, column=0)
+
     def set_evaluation_type(self, eval_type):
         """Set the evaluation type and update UI accordingly"""
         self.evaluation_type.set(eval_type)
         self.update_button_colors()
+        self.update_logo_display()  # Update logo when evaluation type changes
         self.update_ui_for_evaluation_type()
         self.hide_results()  # Hide any existing results
-        self.update_status("Ready to evaluate")
+        
+        # Update status and button text based on type
+        if eval_type == "generation":
+            self.update_status("Ready to generate dataset")
+            self.start_button.config(text="Start Generation")
+        else:
+            self.update_status("Ready to evaluate")
+            self.start_button.config(text="Start Evaluation")
         self.update_progress(0)
     
     def update_button_colors(self):
         """Update button selection status using highlight borders only"""
         try:
-            if self.evaluation_type.get() == "qa":
-                # Q&A button - selected state (highlighted border)
-                self.qa_button.config(
-                    bg="SystemButtonFace",  # Use system default
-                    fg="SystemButtonText",  # Use system default
+            # Reset all buttons to unselected state
+            for button in [self.generation_button, self.qa_button, self.synthesis_button]:
+                button.config(
+                    bg="SystemButtonFace",
+                    fg="SystemButtonText",
                     relief="raised", 
-                    highlightbackground="#1f5582",  # Blue highlight for selection
-                    highlightcolor="#1f5582",
-                    highlightthickness=3,
-                    borderwidth=3,
-                    state='normal'
-                )
-                # Synthesis button - unselected state (normal border)
-                self.synthesis_button.config(
-                    bg="SystemButtonFace",  # Use system default
-                    fg="SystemButtonText",  # Use system default
-                    relief="raised", 
-                    highlightbackground="SystemButtonFace",  # Normal highlight
+                    highlightbackground="SystemButtonFace",
                     highlightcolor="SystemButtonFace",
                     highlightthickness=1,
                     borderwidth=1,
-                    state='normal'
-                )
-            else:
-                # Q&A button - unselected state (normal border)
-                self.qa_button.config(
-                    bg="SystemButtonFace",  # Use system default
-                    fg="SystemButtonText",  # Use system default
-                    relief="raised", 
-                    highlightbackground="SystemButtonFace",  # Normal highlight
-                    highlightcolor="SystemButtonFace",
-                    highlightthickness=1,
-                    borderwidth=1,
-                    state='normal'
-                )
-                # Synthesis button - selected state (highlighted border)
-                self.synthesis_button.config(
-                    bg="SystemButtonFace",  # Use system default
-                    fg="SystemButtonText",  # Use system default
-                    relief="raised", 
-                    highlightbackground="#1f5582",  # Blue highlight for selection
-                    highlightcolor="#1f5582",
-                    highlightthickness=3,
-                    borderwidth=3,
                     state='normal'
                 )
             
+            # Set selected button
+            selected_button = None
+            if self.evaluation_type.get() == "generation":
+                selected_button = self.generation_button
+            elif self.evaluation_type.get() == "qa":
+                selected_button = self.qa_button
+            elif self.evaluation_type.get() == "synthesis":
+                selected_button = self.synthesis_button
+            
+            if selected_button:
+                selected_button.config(
+                    highlightbackground="#1f5582",
+                    highlightcolor="#1f5582",
+                    highlightthickness=3,
+                    borderwidth=3
+                )
+            
             # Force update the display
-            self.qa_button.update_idletasks()
-            self.synthesis_button.update_idletasks()
+            for button in [self.generation_button, self.qa_button, self.synthesis_button]:
+                button.update_idletasks()
             
         except Exception as e:
             print(f"Button highlight update failed: {e}")
             # Fallback: use relief and borderwidth only
             try:
-                if self.evaluation_type.get() == "qa":
+                for button in [self.generation_button, self.qa_button, self.synthesis_button]:
+                    button.config(relief="raised", borderwidth=1)
+                
+                if self.evaluation_type.get() == "generation":
+                    self.generation_button.config(relief="sunken", borderwidth=3)
+                elif self.evaluation_type.get() == "qa":
                     self.qa_button.config(relief="sunken", borderwidth=3)
-                    self.synthesis_button.config(relief="raised", borderwidth=1)
-                else:
-                    self.qa_button.config(relief="raised", borderwidth=1)
+                elif self.evaluation_type.get() == "synthesis":
                     self.synthesis_button.config(relief="sunken", borderwidth=3)
             except:
                 pass
     
     def update_ui_for_evaluation_type(self):
         """Update UI elements based on the selected evaluation type and manage grid layout dynamically"""
+        # Update mode widgets first
+        self.update_mode_widgets()
+        
         if self.evaluation_type.get() == "qa":
             # Show mode selection for Q&A
             if hasattr(self, 'mode_frame'):
                 self.mode_frame.grid(row=1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 20))
             # Update dataset label
             if hasattr(self, 'dataset_label'):
-                self.dataset_label.config(text="Q&A Dataset (JSON):")
+                self.dataset_label.config(text="Q&A Dataset (JSON)*:")
+            # Show dataset file selection
+            if hasattr(self, 'dataset_label'):
+                self.dataset_label.grid(row=4, column=0, sticky=tk.W, pady=5)
+                self.dataset_entry.grid(row=4, column=1, sticky=(tk.W, tk.E), pady=5, padx=(10, 5))
+                self.dataset_btn_frame.grid(row=4, column=2, pady=5)
             # Adjust grid layout - file uploads start at row 2
             self._update_file_upload_positions(start_row=2)
             # Set results frame row to 8 (after mode selection)
             results_row = 8
-        else:
+        elif self.evaluation_type.get() == "synthesis":
             # Hide mode selection for synthesis
             if hasattr(self, 'mode_frame'):
                 self.mode_frame.grid_remove()
             # Update dataset label
             if hasattr(self, 'dataset_label'):
-                self.dataset_label.config(text="Synthesis Condition Dataset (JSON):")
+                self.dataset_label.config(text="Synthesis Condition Dataset (JSON)*:")
+            # Show dataset file selection
+            if hasattr(self, 'dataset_label'):
+                self.dataset_label.grid(row=3, column=0, sticky=tk.W, pady=5)
+                self.dataset_entry.grid(row=3, column=1, sticky=(tk.W, tk.E), pady=5, padx=(10, 5))
+                self.dataset_btn_frame.grid(row=3, column=2, pady=5)
             # Adjust grid layout - file uploads start at row 1 (no mode selection)
             self._update_file_upload_positions(start_row=1)
             # Set results frame row to 7 (no mode selection)
+            results_row = 7
+        elif self.evaluation_type.get() == "generation":
+            # Show dataset type selection for generation
+            if hasattr(self, 'mode_frame'):
+                self.mode_frame.grid(row=1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 20))
+            # Hide dataset file selection for generation
+            if hasattr(self, 'dataset_label'):
+                self.dataset_label.grid_remove()
+                self.dataset_entry.grid_remove()
+                self.dataset_btn_frame.grid_remove()
+            # Adjust grid layout - file uploads start at row 2
+            self._update_file_upload_positions(start_row=2, hide_dataset=True)
+            # Set results frame row to 7 (after dataset type selection, no dataset file)
             results_row = 7
         
         # Configure the expanding row dynamically
@@ -331,57 +426,142 @@ class QAEvaluationApp:
         # Store the results row for later use
         self.results_row = results_row
     
-    def show_info_popup(self):
-        """Custom pop-up without the default icon, with wrapping so full text shows."""
+    def show_custom_messagebox(self, title, message, msg_type="info"):
+        """Show a custom messagebox with proper text wrapping and sizing"""
         popup = tk.Toplevel(self.root)
-        popup.title("Need More Detail?")
+        popup.title(title)
         popup.transient(self.root)
-        popup.resizable(False, False)
+        popup.resizable(True, True)
+        popup.grab_set()
 
+        # Calculate window size based on message length
+        lines = message.count('\n') + 1
+        estimated_width = min(max(len(message) // lines * 8, 400), 800)
+        estimated_height = min(max(lines * 25 + 100, 150), 600)
+        
+        popup.geometry(f"{estimated_width}x{estimated_height}")
+        
+        # Center the window
         popup.geometry("+%d+%d" % (
-            self.root.winfo_rootx() + 250,
-            self.root.winfo_rooty() + 150
+            self.root.winfo_rootx() + (self.root.winfo_width() - estimated_width) // 2,
+            self.root.winfo_rooty() + (self.root.winfo_height() - estimated_height) // 2
         ))
-
-        ttk.Label(
-            popup,
-            text=(
-                "For a more detailed summary sheet with each LLM's individual "
-                "evaluation and explanations, please export the results to an "
-                "Excel file."
-            ),
-            wraplength=340,
+        
+        # Main frame with padding
+        main_frame = ttk.Frame(popup, padding="20")
+        main_frame.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
+        popup.columnconfigure(0, weight=1)
+        popup.rowconfigure(0, weight=1)
+        main_frame.columnconfigure(0, weight=1)
+        main_frame.rowconfigure(0, weight=1)
+        
+        # Scrollable text area
+        canvas = tk.Canvas(main_frame)
+        scrollbar = ttk.Scrollbar(main_frame, orient="vertical", command=canvas.yview)
+        scrollable_frame = ttk.Frame(canvas)
+        
+        scrollable_frame.bind(
+            "<Configure>",
+            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+        )
+        
+        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+        canvas.configure(yscrollcommand=scrollbar.set)
+        
+        # Message label with proper wrapping
+        msg_label = ttk.Label(
+            scrollable_frame,
+            text=message,
+            wraplength=estimated_width - 80,
             justify="left",
-            padding=20
-        ).pack()
-
-        ttk.Button(popup, text="OK", command=popup.destroy).pack(pady=(0, 12))
+            font=("Arial", 10)
+        )
+        msg_label.pack(fill=tk.BOTH, expand=True, pady=10)
+        
+        canvas.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
+        scrollbar.grid(row=0, column=1, sticky=(tk.N, tk.S))
+        
+        # Button frame
+        button_frame = ttk.Frame(main_frame)
+        button_frame.grid(row=1, column=0, columnspan=2, pady=(10, 0))
+        
+        # OK button
+        ok_button = ttk.Button(button_frame, text="OK", command=popup.destroy)
+        ok_button.pack()
+        
+        # Focus on OK button
+        ok_button.focus_set()
+        popup.bind('<Return>', lambda e: popup.destroy())
+        popup.bind('<Escape>', lambda e: popup.destroy())
+    
+    def show_info_popup(self):
+        """Custom pop-up for additional information"""
+        self.show_custom_messagebox(
+            "Need More Detail?",
+            "For a more detailed summary sheet with each LLM's individual "
+            "evaluation and explanations, please export the results to an "
+            "Excel file."
+        )
     
     def setup_mode_selection(self, parent):
-        # Mode selection frame (only for Q&A)
+        # Mode selection frame (for Q&A evaluation and dataset generation)
         self.mode_frame = ttk.LabelFrame(parent, text="Evaluation Mode", padding="10")
         self.mode_frame.grid(row=1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=(0, 20))
         
-        # Radio buttons for mode selection
-        single_hop_radio = ttk.Radiobutton(self.mode_frame, text="Single-hop Q&A Evaluation", 
-                                          variable=self.evaluation_mode, value="single-hop",
-                                          command=self.on_mode_change)
-        single_hop_radio.grid(row=0, column=0, sticky=tk.W, padx=(0, 20))
+        # Different radio buttons based on evaluation type
+        self.mode_widgets = {}  # Store references to mode widgets
         
-        multi_hop_radio = ttk.Radiobutton(self.mode_frame, text="Multi-hop Q&A Evaluation", 
-                                         variable=self.evaluation_mode, value="multi-hop",
-                                         command=self.on_mode_change)
-        multi_hop_radio.grid(row=0, column=1, sticky=tk.W)
+        # Q&A Evaluation radio buttons
+        self.mode_widgets['qa_single'] = ttk.Radiobutton(self.mode_frame, text="Single-hop Q&A Evaluation", 
+                                      variable=self.evaluation_mode, value="single-hop",
+                                      command=self.on_mode_change)
+        
+        self.mode_widgets['qa_multi'] = ttk.Radiobutton(self.mode_frame, text="Multi-hop Q&A Evaluation", 
+                                     variable=self.evaluation_mode, value="multi-hop",
+                                     command=self.on_mode_change)
+        
+        # Dataset Generation radio buttons
+        self.mode_widgets['gen_single'] = ttk.Radiobutton(self.mode_frame, text="Single-hop Q&A Generation", 
+                                       variable=self.dataset_type, value="single-hop-qa",
+                                       command=self.on_dataset_type_change)
+        
+        self.mode_widgets['gen_multi'] = ttk.Radiobutton(self.mode_frame, text="Multi-hop Q&A Generation", 
+                                      variable=self.dataset_type, value="multi-hop-qa",
+                                      command=self.on_dataset_type_change)
+        
+        self.mode_widgets['gen_synthesis'] = ttk.Radiobutton(self.mode_frame, text="Synthesis Condition Generation", 
+                                          variable=self.dataset_type, value="synthesis-condition",
+                                          command=self.on_dataset_type_change)
         
         # Mode description
         self.mode_description = ttk.Label(self.mode_frame, text="", foreground="blue", font=("Arial", 9))
         self.mode_description.grid(row=1, column=0, columnspan=3, sticky=tk.W, pady=(10, 0))
         
-        # Initialize description
-        self.on_mode_change()
+        # Initialize description and layout
+        self.update_mode_widgets()
+    
+    def update_mode_widgets(self):
+        """Update which mode widgets are visible based on evaluation type"""
+        # Hide all mode widgets first
+        for widget in self.mode_widgets.values():
+            widget.grid_remove()
+        
+        if self.evaluation_type.get() == "qa":
+            # Show Q&A evaluation options
+            self.mode_frame.config(text="Evaluation Mode")
+            self.mode_widgets['qa_single'].grid(row=0, column=0, sticky=tk.W, padx=(0, 20))
+            self.mode_widgets['qa_multi'].grid(row=0, column=1, sticky=tk.W)
+            self.on_mode_change()
+        elif self.evaluation_type.get() == "generation":
+            # Show dataset generation options
+            self.mode_frame.config(text="Generation Mode")
+            self.mode_widgets['gen_single'].grid(row=0, column=0, sticky=tk.W, padx=(0, 20))
+            self.mode_widgets['gen_multi'].grid(row=0, column=1, sticky=tk.W, padx=(0, 20))
+            self.mode_widgets['gen_synthesis'].grid(row=0, column=2, sticky=tk.W)
+            self.on_dataset_type_change()
     
     def on_mode_change(self):
-        """Update the mode description when selection changes"""
+        """Update the mode description when Q&A evaluation selection changes"""
         if self.evaluation_mode.get() == "single-hop":
             description = "Single-hop mode: Evaluates Q&A pairs that require direct information from the context without reasoning chains."
         else:
@@ -389,7 +569,18 @@ class QAEvaluationApp:
         
         self.mode_description.config(text=description)
     
-    def _update_file_upload_positions(self, start_row):
+    def on_dataset_type_change(self):
+        """Update the description when dataset generation type changes"""
+        if self.dataset_type.get() == "single-hop-qa":
+            description = "Generate 20 single-hop Q&A pairs with a balanced mix of question types that require direct information from the manuscript without reasoning chains."
+        elif self.dataset_type.get() == "multi-hop-qa":
+            description = "Generate 20 multi-hop Q&A pairs with a balanced mix of question types that require reasoning across multiple pieces of information or inference steps."
+        else:  # synthesis-condition
+            description = "Generate synthesis condition dataset by extracting all material synthesis procedures from the research papers (excluding characterization data)."
+        
+        self.mode_description.config(text=description)
+    
+    def _update_file_upload_positions(self, start_row, hide_dataset=False):
         """Update positions of file upload elements dynamically"""
         if hasattr(self, 'manuscript_label'):
             self.manuscript_label.grid(row=start_row, column=0, sticky=tk.W, pady=5)
@@ -405,28 +596,34 @@ class QAEvaluationApp:
         if hasattr(self, 'supp_btn_frame'):
             self.supp_btn_frame.grid(row=start_row+1, column=2, pady=5)
             
-        if hasattr(self, 'dataset_label'):
-            self.dataset_label.grid(row=start_row+2, column=0, sticky=tk.W, pady=5)
-        if hasattr(self, 'dataset_entry'):
-            self.dataset_entry.grid(row=start_row+2, column=1, sticky=(tk.W, tk.E), pady=5, padx=(10, 5))
-        if hasattr(self, 'dataset_btn_frame'):
-            self.dataset_btn_frame.grid(row=start_row+2, column=2, pady=5)
+        # Dataset row - only show if not hidden
+        dataset_row = start_row + 2
+        if not hide_dataset:
+            if hasattr(self, 'dataset_label'):
+                self.dataset_label.grid(row=dataset_row, column=0, sticky=tk.W, pady=5)
+            if hasattr(self, 'dataset_entry'):
+                self.dataset_entry.grid(row=dataset_row, column=1, sticky=(tk.W, tk.E), pady=5, padx=(10, 5))
+            if hasattr(self, 'dataset_btn_frame'):
+                self.dataset_btn_frame.grid(row=dataset_row, column=2, pady=5)
+            button_row = start_row + 3
+        else:
+            button_row = start_row + 2
             
         # Update button frame position
         if hasattr(self, 'button_frame'):
-            self.button_frame.grid(row=start_row+3, column=0, columnspan=3, pady=20)
+            self.button_frame.grid(row=button_row, column=0, columnspan=3, pady=20)
             
         # Update progress bar position  
         if hasattr(self, 'progress_bar'):
-            self.progress_bar.grid(row=start_row+4, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
+            self.progress_bar.grid(row=button_row+1, column=0, columnspan=3, sticky=(tk.W, tk.E), pady=10)
             
         # Update status label position
         if hasattr(self, 'status_label'):
-            self.status_label.grid(row=start_row+5, column=0, columnspan=3, pady=5)
+            self.status_label.grid(row=button_row+2, column=0, columnspan=3, pady=5)
     
     def setup_file_uploads(self, parent):
         # Manuscript upload
-        self.manuscript_label = ttk.Label(parent, text="MS:")
+        self.manuscript_label = ttk.Label(parent, text="MS*:")
         self.manuscript_entry = ttk.Entry(parent, textvariable=self.manuscript_path, width=40)
         
         # Manuscript buttons frame
@@ -444,7 +641,7 @@ class QAEvaluationApp:
         ttk.Button(self.supp_btn_frame, text="Clear", command=lambda: self.supplement_path.set(""), width=8).grid(row=0, column=1)
         
         # Dataset upload (generic label that changes based on evaluation type)
-        self.dataset_label = ttk.Label(parent, text="Q&A Dataset (JSON):")
+        self.dataset_label = ttk.Label(parent, text="Q&A Dataset (JSON)*:")
         self.dataset_entry = ttk.Entry(parent, textvariable=self.dataset_path, width=40)
         
         # Dataset buttons frame
@@ -454,6 +651,551 @@ class QAEvaluationApp:
         
         # Initial positioning (will be updated by update_ui_for_evaluation_type)
         self._update_file_upload_positions(start_row=2)
+    
+    def start_operation(self):
+        """Start either evaluation or generation based on current mode"""
+        if self.evaluation_type.get() == "generation":
+            self.start_generation()
+        else:
+            self.start_evaluation()
+    
+    def start_generation(self):
+        """Start dataset generation"""
+        try:
+            if not self.validate_generation_inputs():
+                return
+            
+            # Show that generation is starting
+            dataset_type_text = self.get_dataset_type_display_name()
+            
+            self.update_status(f"Starting {dataset_type_text} dataset generation...")
+            self.update_progress(5)
+            
+            # Start generation in a separate thread to prevent GUI freezing
+            thread = threading.Thread(target=self.run_generation)
+            thread.daemon = True
+            thread.start()
+            
+        except Exception as e:
+            error_msg = (
+                "Failed to start generation:\n\n"
+                f"{str(e)}\n\n"
+                "Please check your inputs and try again."
+            )
+            self.show_custom_messagebox("Generation Error", error_msg, "error")
+            self.update_status("Ready to generate dataset")
+            self.update_progress(0)
+    
+    def get_dataset_type_display_name(self):
+        """Get display name for current dataset type"""
+        type_map = {
+            "single-hop-qa": "Single-hop Q&A",
+            "multi-hop-qa": "Multi-hop Q&A",
+            "synthesis-condition": "Synthesis Condition"
+        }
+        return type_map.get(self.dataset_type.get(), "Dataset")
+    
+    def validate_generation_inputs(self):
+        """Validate inputs for dataset generation"""
+        try:
+            # Check if manuscript file is provided and exists
+            if not self.manuscript_path.get():
+                self.show_custom_messagebox("File Required", "Please select a manuscript file.", "error")
+                return False
+            
+            if not os.path.exists(self.manuscript_path.get()):
+                self.show_custom_messagebox("File Not Found", "Manuscript file does not exist.", "error")
+                return False
+            
+            # For generation, supplement is optional but recommended
+            # No popup needed - just proceed without SI if not provided
+            
+            # Check that Gemini API key is provided (only Gemini is used for generation)
+            if not self.gemini_key.get().strip():
+                error_msg = (
+                    "Please enter your Gemini API key in Settings.\n\n"
+                    "Gemini is required for dataset generation.\n\n"
+                    "You can access Settings by clicking the 'Settings' button in the top-right corner."
+                )
+                self.show_custom_messagebox("Gemini API Key Required", error_msg, "error")
+                return False
+            
+            return True
+            
+        except ValueError as e:
+            self.show_custom_messagebox("Validation Error", str(e), "error")
+            return False
+        except Exception as e:
+            error_msg = (
+                "An unexpected error occurred during validation:\n\n"
+                f"{str(e)}\n\n"
+                "Please check your inputs and try again."
+            )
+            self.show_custom_messagebox("Unexpected Error", error_msg, "error")
+            return False
+    
+    def run_generation(self):
+        """Run the dataset generation process"""
+        try:
+            dataset_type_text = self.get_dataset_type_display_name()
+            
+            self.update_status(f"Loading manuscript and supplement files for {dataset_type_text} generation...")
+            self.update_progress(10)
+            
+            # Process context from manuscript and supplement files
+            context = ""
+            files_loaded = []
+            
+            if self.manuscript_path.get():
+                manuscript_content = self.process_file_content(self.manuscript_path.get())
+                if manuscript_content:
+                    context += manuscript_content + " "
+                    files_loaded.append("manuscript")
+                
+            if self.supplement_path.get() and os.path.exists(self.supplement_path.get()):
+                supplement_content = self.process_file_content(self.supplement_path.get())
+                if supplement_content:
+                    context += supplement_content + " "
+                    files_loaded.append("supplement")
+            
+            # Update status to show what files were loaded
+            files_text = " and ".join(files_loaded) if files_loaded else "manuscript"
+            self.update_status(f"Loaded {files_text}. Generating {dataset_type_text} dataset...")
+            self.update_progress(30)
+            
+            # Generate dataset using Gemini
+            generation_prompt = self.get_generation_prompt()
+            
+            self.update_status(f"Running Gemini for {dataset_type_text} dataset generation using {files_text}...")
+            self.update_progress(50)
+            
+            # Run generation with retries for Q&A to ensure 20 pairs
+            generated_data = self.run_gemini_generation(generation_prompt, context)
+            
+            if generated_data is None:
+                error_msg = (
+                    "Dataset generation failed.\n\n"
+                    "Please check:\n"
+                    "• Your Gemini API key is valid\n"
+                    "• You have sufficient API credits\n"
+                    "• Your internet connection is stable\n"
+                    "• The manuscript contains sufficient content for generation"
+                )
+                raise ValueError(error_msg)
+            
+            self.update_progress(90)
+            
+            # Store results
+            self.generation_results = generated_data
+            
+            self.update_progress(100)
+            self.update_status(f"{dataset_type_text} dataset generation completed successfully!")
+            
+            # Show results in the same window
+            self.root.after(0, self.show_generation_results_inline)
+            
+        except ValueError as e:
+            # Known validation errors
+            self.root.after(0, lambda: self.show_custom_messagebox("Generation Error", str(e), "error"))
+            self.update_status("Generation failed")
+            self.update_progress(0)
+        except Exception as e:
+            # Unexpected errors
+            error_msg = (
+                "An unexpected error occurred during generation:\n\n"
+                f"{str(e)}\n\n"
+                "Please check your inputs and try again."
+            )
+            self.root.after(0, lambda: self.show_custom_messagebox("Unexpected Error", error_msg, "error"))
+            self.update_status("Generation failed")
+            self.update_progress(0)
+    
+    def get_generation_prompt(self):
+        """Get the appropriate generation prompt based on dataset type"""
+        if self.dataset_type.get() == "single-hop-qa":
+            return self.get_single_hop_generation_prompt()
+        elif self.dataset_type.get() == "multi-hop-qa":
+            return self.get_multi_hop_generation_prompt()
+        else:  # synthesis-condition
+            return self.get_synthesis_generation_prompt()
+    
+    def get_single_hop_generation_prompt(self):
+        """Single-hop Q&A generation prompt"""
+        return """You are a single hop Question and Answering (Q&A) dataset generation agent. A single hop question and answer set is one that requires a single step of reasoning. You are required to go through the given text and identify the synthesis conditions and based on those synthesis conditions develop a set of 20 Q&As. There may be information about the synthesis conditions of more than one material in the text. For example, you may come across a series of different materials such as ZIF-1, ZIF-2, .... ZIF-12. Please try to diversify the types of questions that you include. Please also try to include a question for each material you come across in the paper. Please feel free to include labels that are also used in some of the most widely used Q&A datasets e.g., the question, the answer, the difficulty level, and the type of question. the different types of questions are factual, reasoning (single step reasoning), and True or False. Please generate 6 'factual' type questions, 7 'reasoning' type questions, and 7 True or False type questions.
+
+Generate a single hop .json file for the following text. Please include questions of different types including factual (6 questions), single-step reasoning (7 questions), and True or False (7 questions).
+
+Format each question-answer pair as a JSON object with the following structure:
+{
+    "question": "your question here",
+    "answer": "your answer here",
+    "question_type": "factual/reasoning/True or False",
+    "difficulty_level": "easy/medium/hard"
+}
+
+Generate exactly 20 such pairs and return them as a JSON array."""
+    
+    def get_multi_hop_generation_prompt(self):
+        """Multi-hop Q&A generation prompt"""
+        return """You are a multi-hop Question and Answering (Q&A) dataset generation agent. A multi-hop Q&A is one that requires multi-step reasoning to come to an answer (this information can come from any part of the paper, both MS and SI). To give you more details: A multi-hop Q&A will always involve going through multiple parts of the paper to come to an answer. This may include different paragraphs, different pages, and also different documents (i.e., the manuscript and the supplementary information). You are required to go through the given text and identify the synthesis conditions and based on those synthesis conditions develop a set of multi-hop (questions that require multiple steps of reasoning) 20 Q&As for each DOI. There may be information about the synthesis conditions of more than one material in the text. For example, you may come across a series of different materials such as ZIF-1, ZIF-2, .... ZIF-12. Please diversify the type of questions to encompass different ideas and materials. Please feel free to include labels that are also used in some of the most widely used Q&A dataset for e.g., the question, the answer, the difficulty level, and the type of question. The different types of questions are factual, reasoning (single step reasoning), and True or False. Please generate 6 'factual' type questions, 7 'reasoning' type questions, and 7 True or False type questions. For factual questions, please try to be creative with the questions as it should require information from different parts of the text to answer.
+
+Generate a multi-hop Q&A json file for the following text. Please include questions of different types including factual (6 questions), single-step reasoning (7 questions), and True or False (7 questions).
+
+Format each question-answer pair as a JSON object with the following structure:
+{
+    "question": "your question here",
+    "answer": "your answer here",
+    "question_type": "factual/reasoning/True or False",
+    "difficulty_level": "easy/medium/hard"
+}
+
+Generate exactly 20 such pairs and return them as a JSON array."""
+    
+    def get_synthesis_generation_prompt(self):
+        """Synthesis condition generation prompt"""
+        return """You are a synthesis condition classification agent. You are required to go through the given text and identify the synthesis conditions for each and every material given in the paper (both MS and SI, if available). There may be information about the synthesis condition of more than one material. Please make sure to separate these materials when generating the .json file. For each material try to classify the conditions under different labels such as temperature, solvents, the amount of each solvent (this is important), equipment, chemicals used, time, washing method, drying method, yield, etc. This is not an exhaustive list of labels, please feel free to add more labels as required. Some synthesis conditions may involve multiple steps, please take that into account. Please do not include any experimental characterization data such as those from Powder X-Ray Diffraction (PXRD), Infrared (IR) spectra, adsorption isotherms, thermogravimetric analysis (TGA), nuclear magnetic resonance (NMR) experiments, etc. (this is not an exhaustive list and there may be other characterization techniques) including information about its properties. I reiterate, please do not include any experimental characterization data.
+
+Generate a machine readable .json file containing the synthesis conditions for the following text.
+
+Format the output as a JSON array where each object represents a material and its synthesis conditions:
+{
+    "material_name": "name of the material",
+    "synthesis_conditions": {
+        "temperature": "synthesis temperature",
+        "solvents": "solvents used and their amounts",
+        "chemicals_used": "precursor chemicals and amounts",
+        "time": "reaction time",
+        "equipment": "equipment used",
+        "washing_method": "washing procedure",
+        "drying_method": "drying procedure",
+        "yield": "synthesis yield",
+        "additional_steps": "any additional synthesis steps"
+    }
+}
+
+Extract synthesis conditions for all materials found in the context."""
+    
+    def run_gemini_generation(self, prompt, context):
+        """Run Gemini for dataset generation with retries for Q&A only"""
+        try:
+            if not self.gemini_key.get().strip():
+                return None
+                
+            genai.configure(api_key=self.gemini_key.get().strip())
+            
+            # Create the generation prompt based on dataset type
+            if self.dataset_type.get() == "single-hop-qa":
+                user_prompt = f"Generate a single hop .json file for the following text. Please include questions of different types including factual (6 questions), single-step reasoning (7 questions), and True or False (7 questions): {context}"
+            elif self.dataset_type.get() == "multi-hop-qa":
+                user_prompt = f"Generate a multi-hop Q&A json file for the following text. Please include questions of different types including factual (6 questions), single-step reasoning (7 questions), and True or False (7 questions): {context}"
+            else:  # synthesis-condition
+                user_prompt = f"Generate a machine readable .json file containing the synthesis conditions for the following text: {context}"
+            
+            # Use the system prompt as system instruction
+            gemini_client = genai.GenerativeModel(
+                model_name='gemini-1.5-pro-latest',
+                system_instruction=prompt
+            )
+            
+            # For Q&A generation, retry until we get exactly 20 pairs
+            if self.dataset_type.get() in ["single-hop-qa", "multi-hop-qa"]:
+                max_attempts = 5
+                for attempt in range(max_attempts):
+                    try:
+                        result = gemini_client.generate_content(
+                            user_prompt,
+                            generation_config=genai.GenerationConfig(
+                                response_mime_type="application/json"
+                            ),
+                        )
+                        
+                        response_text = result.candidates[0].content.parts[0].text
+                        generated_data = json.loads(response_text)
+                        
+                        # Check if we got exactly 20 pairs
+                        if isinstance(generated_data, list) and len(generated_data) == 20:
+                            # Validate that each pair has required fields
+                            valid_pairs = []
+                            for pair in generated_data:
+                                if isinstance(pair, dict) and 'question' in pair and 'answer' in pair:
+                                    # Ensure all required fields are present
+                                    if 'question_type' not in pair:
+                                        pair['question_type'] = 'factual'
+                                    if 'difficulty_level' not in pair:
+                                        pair['difficulty_level'] = 'medium'
+                                    valid_pairs.append(pair)
+                            
+                            if len(valid_pairs) == 20:
+                                return valid_pairs
+                        
+                        print(f"Attempt {attempt + 1}: Got {len(generated_data) if isinstance(generated_data, list) else 0} pairs instead of 20. Retrying...")
+                        
+                    except json.JSONDecodeError as e:
+                        print(f"Attempt {attempt + 1}: JSON parsing failed: {e}. Retrying...")
+                    except Exception as e:
+                        print(f"Attempt {attempt + 1}: Generation failed: {e}. Retrying...")
+                
+                # If all attempts failed, return None
+                print("Failed to generate exactly 20 Q&A pairs after all attempts")
+                return None
+            
+            else:
+                # For synthesis condition generation, single attempt - no need to check results
+                result = gemini_client.generate_content(
+                    user_prompt,
+                    generation_config=genai.GenerationConfig(
+                        response_mime_type="application/json"
+                    ),
+                )
+                
+                response_text = result.candidates[0].content.parts[0].text
+                generated_data = json.loads(response_text)
+                
+                # Return whatever is generated for synthesis conditions
+                return generated_data
+                
+        except Exception as e:
+            print(f"Gemini generation failed: {e}")
+            return None
+    
+    def show_generation_results_inline(self):
+        """Display generation results in the main window"""
+        if self.generation_results is None:
+            return
+        
+        # Use the dynamically calculated results row
+        results_row = getattr(self, 'results_row', 7)
+        self.results_frame.config(text="Dataset Generation Results")
+        self.results_frame.grid(row=results_row, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(20, 0))
+        self.results_visible = True
+        
+        # Clear any existing content
+        for widget in self.results_frame.winfo_children():
+            widget.destroy()
+        
+        # Generation stats
+        self.show_generation_stats_inline(self.results_frame)
+        
+        # JSON display and export section
+        json_frame = ttk.Frame(self.results_frame)
+        json_frame.grid(row=1, column=0, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(20, 0))
+        json_frame.columnconfigure(0, weight=1)
+        json_frame.rowconfigure(1, weight=1)
+        
+        # Controls frame
+        controls_frame = ttk.Frame(json_frame)
+        controls_frame.grid(row=0, column=0, sticky=(tk.W, tk.E), pady=(0, 10))
+        controls_frame.columnconfigure(1, weight=1)
+        
+        # Show JSON toggle
+        self.json_visible = tk.BooleanVar()
+        json_btn = ttk.Checkbutton(
+            controls_frame,
+            text="Show Generated JSON",
+            variable=self.json_visible,
+            command=lambda: self.toggle_json_display(json_frame),
+        )
+        json_btn.grid(row=0, column=0, sticky=tk.W)
+        
+        # Export JSON button
+        export_btn = ttk.Button(
+            controls_frame, text="Export JSON", 
+            command=lambda: self.export_generation_json(), width=15
+        )
+        export_btn.grid(row=0, column=2, sticky=tk.E)
+        
+        print("Export JSON button created and connected")  # Debug print
+        
+        # JSON content (initially hidden)
+        self.json_content = ttk.Frame(json_frame)
+    
+    def show_generation_stats_inline(self, parent):
+        """Show generation statistics"""
+        stats_frame = ttk.LabelFrame(parent, text="Generation Statistics", padding="10")
+        stats_frame.grid(row=0, column=0, sticky=(tk.W, tk.E))
+        
+        dataset_type_text = self.get_dataset_type_display_name()
+        
+        # Dataset type info
+        ttk.Label(stats_frame, text=f"Dataset Type: {dataset_type_text}", 
+                 font=("Arial", 12, "bold"), foreground="blue").grid(row=0, column=0, columnspan=2, sticky=tk.W, pady=(0, 15))
+        
+        # Generation stats (remove success indicator)
+        if isinstance(self.generation_results, list):
+            count = len(self.generation_results)
+            ttk.Label(stats_frame, text="Generated Items:", font=("Arial", 10, "bold")).grid(row=1, column=0, sticky=tk.W, pady=5)
+            ttk.Label(stats_frame, text=str(count)).grid(row=1, column=1, sticky=tk.W, pady=5, padx=(20, 0))
+            
+            if self.dataset_type.get() in ["single-hop-qa", "multi-hop-qa"]:
+                # Show Q&A specific stats - count actual generated question types
+                question_types = {}
+                difficulty_levels = {}
+                
+                # Count each question type and difficulty level from actual results
+                for item in self.generation_results:
+                    if isinstance(item, dict):
+                        # Count question types
+                        if 'question_type' in item and item['question_type']:
+                            qtype = str(item['question_type']).strip()
+                            question_types[qtype] = question_types.get(qtype, 0) + 1
+                        else:
+                            # Handle missing question_type
+                            question_types['unspecified'] = question_types.get('unspecified', 0) + 1
+                        
+                        # Count difficulty levels
+                        if 'difficulty_level' in item and item['difficulty_level']:
+                            difficulty = str(item['difficulty_level']).strip()
+                            difficulty_levels[difficulty] = difficulty_levels.get(difficulty, 0) + 1
+                        else:
+                            # Handle missing difficulty_level
+                            difficulty_levels['unspecified'] = difficulty_levels.get('unspecified', 0) + 1
+                
+                # Display actual question type counts
+                if question_types:
+                    ttk.Label(stats_frame, text="Question Types:", font=("Arial", 10, "bold")).grid(row=2, column=0, sticky=tk.W, pady=5)
+                    # Sort for consistent display
+                    sorted_types = sorted(question_types.items())
+                    type_text = ", ".join([f"{k}: {v}" for k, v in sorted_types])
+                    ttk.Label(stats_frame, text=type_text).grid(row=2, column=1, sticky=tk.W, pady=5, padx=(20, 0))
+                
+                # Display actual difficulty level counts
+                if difficulty_levels:
+                    ttk.Label(stats_frame, text="Difficulty Levels:", font=("Arial", 10, "bold")).grid(row=3, column=0, sticky=tk.W, pady=5)
+                    # Sort for consistent display
+                    sorted_difficulties = sorted(difficulty_levels.items())
+                    difficulty_text = ", ".join([f"{k}: {v}" for k, v in sorted_difficulties])
+                    ttk.Label(stats_frame, text=difficulty_text).grid(row=3, column=1, sticky=tk.W, pady=5, padx=(20, 0))
+                
+                # Add note if distribution doesn't match expected
+                expected_total = 20
+                actual_total = sum(question_types.values())
+                if actual_total != expected_total:
+                    note_label = ttk.Label(stats_frame, text=f"Note: Generated {actual_total} items (expected {expected_total})", 
+                                         font=("Arial", 9), foreground="orange")
+                    note_label.grid(row=4, column=0, columnspan=2, sticky=tk.W, pady=5)
+            else:
+                # Show synthesis specific stats
+                material_count = 0
+                if isinstance(self.generation_results, list):
+                    material_count = len([item for item in self.generation_results if isinstance(item, dict) and ('material_name' in item or 'mof_name' in item)])
+                elif isinstance(self.generation_results, dict):
+                    material_count = 1
+                
+                ttk.Label(stats_frame, text="Materials Found:", font=("Arial", 10, "bold")).grid(row=2, column=0, sticky=tk.W, pady=5)
+                ttk.Label(stats_frame, text=str(material_count)).grid(row=2, column=1, sticky=tk.W, pady=5, padx=(20, 0))
+    
+    def toggle_json_display(self, parent):
+        """Toggle JSON display visibility"""
+        if self.json_visible.get():
+            self.show_json_display(parent)
+        else:
+            self.hide_json_display()
+    
+    def show_json_display(self, parent):
+        """Show the generated JSON data"""
+        self.json_content.grid(row=1, column=0, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(10, 0))
+        self.json_content.columnconfigure(0, weight=1)
+        self.json_content.rowconfigure(0, weight=1)
+        
+        # Create scrollable text widget for JSON
+        canvas = tk.Canvas(self.json_content, height=400)
+        scrollbar = ttk.Scrollbar(self.json_content, orient="vertical", command=canvas.yview)
+        scrollable_frame = ttk.Frame(canvas)
+        
+        scrollable_frame.bind(
+            "<Configure>",
+            lambda e: canvas.configure(scrollregion=canvas.bbox("all"))
+        )
+        
+        canvas.create_window((0, 0), window=scrollable_frame, anchor="nw")
+        canvas.configure(yscrollcommand=scrollbar.set)
+        
+        # Add JSON text
+        json_text = tk.Text(scrollable_frame, wrap=tk.WORD, font=("Courier", 10))
+        json_text.pack(fill=tk.BOTH, expand=True)
+        
+        # Insert formatted JSON
+        formatted_json = json.dumps(self.generation_results, indent=2)
+        json_text.insert("1.0", formatted_json)
+        json_text.config(state=tk.DISABLED)  # Make read-only
+        
+        canvas.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
+        scrollbar.grid(row=0, column=1, sticky=(tk.N, tk.S))
+    
+    def hide_json_display(self):
+        """Hide the JSON display"""
+        if hasattr(self, 'json_content'):
+            self.json_content.grid_remove()
+    
+    def export_generation_json(self):
+        """Export generated dataset to JSON file"""
+        try:
+            print("Export JSON button clicked")  # Debug print
+            
+            if self.generation_results is None:
+                print("No generation results found")  # Debug print
+                self.show_custom_messagebox(
+                    "No Results", 
+                    "No generation results to export.\n\nPlease run a generation first.",
+                    "warning"
+                )
+                return
+            
+            print(f"Generation results found: {len(self.generation_results) if isinstance(self.generation_results, list) else 'single item'}")  # Debug print
+            
+            # Default filename based on dataset type
+            dataset_type_text = self.get_dataset_type_display_name().lower().replace(" ", "_").replace("-", "_")
+            default_filename = f"{dataset_type_text}_dataset.json"
+            
+            print(f"Opening file dialog with default name: {default_filename}")  # Debug print
+            
+            # Make sure the dialog appears on top
+            self.root.lift()
+            self.root.attributes('-topmost', True)
+            self.root.attributes('-topmost', False)
+            
+            filename = filedialog.asksaveasfilename(
+                parent=self.root,
+                defaultextension=".json",
+                filetypes=[("JSON files", "*.json"), ("All files", "*.*")],
+                title="Save Generated Dataset",
+                initialvalue=default_filename
+            )
+            
+            print(f"User selected filename: {filename}")  # Debug print
+            
+            if not filename:
+                print("User cancelled file dialog")  # Debug print
+                return
+            
+            print("Attempting to save file...")  # Debug print
+            
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(self.generation_results, f, indent=2, ensure_ascii=False)
+            
+            print(f"File saved successfully: {filename}")  # Debug print
+            
+            success_msg = (
+                "Generated dataset exported successfully!\n\n"
+                f"File saved to:\n{filename}"
+            )
+            self.show_custom_messagebox("Export Successful", success_msg, "info")
+            
+        except Exception as e:
+            print(f"Export error occurred: {str(e)}")  # Debug print
+            import traceback
+            traceback.print_exc()  # Print full traceback for debugging
+            error_msg = (
+                "Failed to export dataset:\n\n"
+                f"{str(e)}\n\n"
+                "Please check that:\n"
+                "• You have write permissions to the selected location\n"
+                "• The file is not currently open in another program\n"
+                "• You have sufficient disk space"
+            )
+            self.show_custom_messagebox("Export Error", error_msg, "error")
+    
+    # [Keep all existing methods unchanged...]
     
     def get_classification_prompt(self):
         """Return the appropriate classification prompt based on the evaluation type and mode"""
@@ -752,15 +1494,22 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         save_btn.grid(row=7, column=0, columnspan=2, pady=20)
     
     def start_new_run(self):
-        """Clear all file inputs but keep API keys and evaluation settings for both Q&A and synthesis evaluations"""
+        """Clear all file inputs but keep API keys and evaluation settings for all modes"""
         self.manuscript_path.set("")
         self.supplement_path.set("")
-        self.dataset_path.set("")
+        if self.evaluation_type.get() != "generation":  # Only clear dataset path for evaluation modes
+            self.dataset_path.set("")
         self.evaluation_results = None
+        self.generation_results = None
         self.hide_results()
         
-        eval_type_text = "Q&A" if self.evaluation_type.get() == "qa" else "synthesis condition"
-        self.update_status(f"Ready for new {eval_type_text} evaluation")
+        if self.evaluation_type.get() == "generation":
+            self.update_status("Ready for new dataset generation")
+            self.start_button.config(text="Start Generation")
+        else:
+            eval_type_text = "Q&A" if self.evaluation_type.get() == "qa" else "synthesis condition"
+            self.update_status(f"Ready for new {eval_type_text} evaluation")
+            self.start_button.config(text="Start Evaluation")
         self.update_progress(0)
     
     def load_dataset(self, file_path):
@@ -899,31 +1648,26 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         try:
             # Check if manuscript file is provided and exists
             if not self.manuscript_path.get():
-                raise ValueError("Please select a manuscript file.")
+                self.show_custom_messagebox("File Required", "Please select a manuscript file.", "error")
+                return False
             
             if not os.path.exists(self.manuscript_path.get()):
-                raise ValueError("Manuscript file does not exist.")
+                self.show_custom_messagebox("File Not Found", "Manuscript file does not exist.", "error")
+                return False
             
             # Check if dataset is provided and exists
             if not self.dataset_path.get():
                 dataset_type = "Q&A dataset" if self.evaluation_type.get() == "qa" else "synthesis condition dataset"
-                raise ValueError(f"Please select a {dataset_type} file.")
+                self.show_custom_messagebox("Dataset Required", f"Please select a {dataset_type} file.", "error")
+                return False
             
             if not os.path.exists(self.dataset_path.get()):
                 dataset_type = "Q&A dataset" if self.evaluation_type.get() == "qa" else "synthesis condition dataset"
-                raise ValueError(f"{dataset_type.title()} file does not exist.")
+                self.show_custom_messagebox("Dataset Not Found", f"{dataset_type.title()} file does not exist.", "error")
+                return False
 
-            # For synthesis evaluation, recommend supplement file if not provided
-            if self.evaluation_type.get() == "synthesis" and not self.supplement_path.get():
-                result = messagebox.askyesno(
-                    "Supplement Information Recommended", 
-                    "For synthesis condition evaluation, it's highly recommended to include "
-                    "the Supplement Information (SI) file as it often contains detailed "
-                    "synthesis procedures.\n\n"
-                    "Do you want to continue without the SI file?"
-                )
-                if not result:
-                    return False
+            # For synthesis evaluation, supplement is recommended but not required
+            # No popup needed - just proceed without SI if not provided
 
             # Check that ALL API keys are provided
             missing_keys = []
@@ -942,22 +1686,39 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
             
             if missing_keys:
                 missing_keys_text = "\n• ".join(missing_keys)
-                raise ValueError(f"Please Insert API key(s) in the setting. All API keys are required for evaluation. Missing:\n\n• {missing_keys_text}\n\n")
+                error_msg = (
+                    "Please enter API key(s) in Settings. All API keys are required for evaluation.\n\n"
+                    f"Missing:\n• {missing_keys_text}\n\n"
+                    "You can access Settings by clicking the 'Settings' button in the top-right corner."
+                )
+                self.show_custom_messagebox("API Keys Required", error_msg, "error")
+                return False
 
             # Test if the dataset can be loaded
             dataset = self.load_dataset(self.dataset_path.get())
 
             if not dataset or len(dataset) == 0:
                 dataset_type = "Q&A pairs" if self.evaluation_type.get() == "qa" else "synthesis conditions"
-                raise ValueError(f"No {dataset_type} found in the dataset file.\n\nPlease check that your JSON file contains valid {dataset_type}.")
+                error_msg = (
+                    f"No {dataset_type} found in the dataset file.\n\n"
+                    f"Please check that your JSON file contains valid {dataset_type}.\n\n"
+                    "The file should be properly formatted JSON with the expected structure."
+                )
+                self.show_custom_messagebox("Dataset Error", error_msg, "error")
+                return False
             
             return True
             
         except ValueError as e:
-            messagebox.showerror("Validation Error", str(e))
+            self.show_custom_messagebox("Validation Error", str(e), "error")
             return False
         except Exception as e:
-            messagebox.showerror("Unexpected Error", f"An unexpected error occurred during validation:\n\n{str(e)}")
+            error_msg = (
+                "An unexpected error occurred during validation:\n\n"
+                f"{str(e)}\n\n"
+                "Please check your inputs and try again."
+            )
+            self.show_custom_messagebox("Unexpected Error", error_msg, "error")
             return False
     
     def start_evaluation(self):
@@ -981,7 +1742,12 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
             thread.start()
             
         except Exception as e:
-            messagebox.showerror("Error", f"Failed to start evaluation:\n\n{str(e)}")
+            error_msg = (
+                "Failed to start evaluation:\n\n"
+                f"{str(e)}\n\n"
+                "Please check your inputs and try again."
+            )
+            self.show_custom_messagebox("Evaluation Error", error_msg, "error")
             self.update_status("Ready to evaluate")
             self.update_progress(0)
     
@@ -1113,7 +1879,12 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
                 error_msg = "No LLM evaluations were successful."
                 if failed_models:
                     error_msg += f"\n\nFailed models: {', '.join(failed_models)}"
-                error_msg += "\n\nPlease check:\n• Your API keys are valid\n• You have sufficient API credits\n• Your internet connection is stable"
+                error_msg += (
+                    "\n\nPlease check:\n"
+                    "• Your API keys are valid\n"
+                    "• You have sufficient API credits\n"
+                    "• Your internet connection is stable"
+                )
                 raise ValueError(error_msg)
             
             # Show which models were successful
@@ -1143,13 +1914,17 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
             
         except ValueError as e:
             # Known validation errors
-            self.root.after(0, lambda: messagebox.showerror("Evaluation Error", str(e)))
+            self.root.after(0, lambda: self.show_custom_messagebox("Evaluation Error", str(e), "error"))
             self.update_status("Evaluation failed")
             self.update_progress(0)
         except Exception as e:
             # Unexpected errors
-            error_msg = f"An unexpected error occurred during evaluation:\n\n{str(e)}\n\nPlease check your inputs and try again."
-            self.root.after(0, lambda: messagebox.showerror("Unexpected Error", error_msg))
+            error_msg = (
+                "An unexpected error occurred during evaluation:\n\n"
+                f"{str(e)}\n\n"
+                "Please check your inputs and try again."
+            )
+            self.root.after(0, lambda: self.show_custom_messagebox("Unexpected Error", error_msg, "error"))
             self.update_status("Evaluation failed")
             self.update_progress(0)
     
@@ -1793,6 +2568,7 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
         
         # Use the dynamically calculated results row
         results_row = getattr(self, 'results_row', 8)
+        self.results_frame.config(text="Evaluation Results")
         self.results_frame.grid(row=results_row, column=0, columnspan=3, sticky=(tk.W, tk.E, tk.N, tk.S), pady=(20, 0))
         self.results_visible = True
         
@@ -2035,8 +2811,10 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
     def export_to_excel(self):
         """Export evaluation results to an Excel file"""
         if self.evaluation_results is None:
-            messagebox.showwarning(
-                "No Results", "No evaluation results to export. Please run an evaluation first."
+            self.show_custom_messagebox(
+                "No Results", 
+                "No evaluation results to export.\n\nPlease run an evaluation first.",
+                "warning"
             )
             return
 
@@ -2053,11 +2831,21 @@ For each criterion, output Y if fully met for ALL MOFs, or N if not met for ANY 
 
         try:
             export_df.to_excel(filename, index=False)
-            messagebox.showinfo(
-                "Export Successful", f"Evaluation results exported successfully."
+            success_msg = (
+                "Evaluation results exported successfully!\n\n"
+                f"File saved to:\n{filename}"
             )
+            self.show_custom_messagebox("Export Successful", success_msg, "info")
         except Exception as e:
-            messagebox.showerror("Export Error", f"Failed to export results:\n\n{str(e)}")
+            error_msg = (
+                "Failed to export results:\n\n"
+                f"{str(e)}\n\n"
+                "Please check that:\n"
+                "• You have write permissions to the selected location\n"
+                "• The file is not currently open in another program\n"
+                "• You have sufficient disk space"
+            )
+            self.show_custom_messagebox("Export Error", error_msg, "error")
     
     def prepare_export_data(self):
         """Prepare the evaluation data for Excel export"""
