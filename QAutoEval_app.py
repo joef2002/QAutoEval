@@ -853,11 +853,7 @@ class QAEvaluationApp:
             self.start_generation()
         else:
             self.start_evaluation()
-        """Start either evaluation or generation based on current mode"""
-        if self.evaluation_type.get() == "generation":
-            self.start_generation()
-        else:
-            self.start_evaluation()
+
     
     def start_generation(self):
         """Start dataset generation"""
@@ -1154,19 +1150,40 @@ Extract synthesis conditions for all materials found in the context."""
                 return None
             
             else:
-                # For synthesis condition generation, single attempt - no need to check results
-                result = gemini_client.generate_content(
-                    user_prompt,
-                    generation_config=genai.GenerationConfig(
-                        response_mime_type="application/json"
-                    ),
-                )
+                # For synthesis condition generation - ultra simple
+                attempts = []
                 
-                response_text = result.candidates[0].content.parts[0].text
-                generated_data = json.loads(response_text)
+                for i in range(5):
+                    try:
+                        result = gemini_client.generate_content(
+                            user_prompt,
+                            generation_config=genai.GenerationConfig(
+                                response_mime_type="application/json"
+                            ),
+                        )
+                        
+                        generated_data = json.loads(result.candidates[0].content.parts[0].text)
+                        
+                        # Count elements
+                        count = len(generated_data) if isinstance(generated_data, list) else (1 if generated_data else 0)
+                        
+                        if count > 0:
+                            attempts.append((count, generated_data))
+                            print(f"Synthesis attempt {i + 1}: {count} elements")
+                            
+                    except:
+                        print(f"Synthesis attempt {i + 1}: failed")
                 
-                # Return whatever is generated for synthesis conditions
-                return generated_data
+                if not attempts:
+                    return None
+                
+                # Return result with median count
+                counts = [a[0] for a in attempts]
+                median = sorted(counts)[len(counts)//2]
+                best = min(attempts, key=lambda x: abs(x[0] - median))
+                
+                print(f"Selected {best[0]} elements from {counts}")
+                return best[1]
                 
         except Exception as e:
             print(f"Gemini generation failed: {e}")
@@ -1222,7 +1239,7 @@ Extract synthesis conditions for all materials found in the context."""
         self.send_to_eval_button = ttk.Button(
             controls_frame, text="Send to Evaluation", 
             command=self.send_to_evaluation, width=15,
-            state='disabled' if not self.generation_exported else 'normal'
+            state='normal'  
         )
         self.send_to_eval_button.grid(row=0, column=3, sticky=tk.E)
         
@@ -1303,7 +1320,7 @@ Extract synthesis conditions for all materials found in the context."""
                 elif isinstance(self.generation_results, dict):
                     material_count = 1
                 
-                ttk.Label(stats_frame, text="Materials Found:", font=("Arial", 10, "bold")).grid(row=2, column=0, sticky=tk.W, pady=5)
+                ttk.Label(stats_frame, text="Materials Found (including building blocks):", font=("Arial", 10, "bold")).grid(row=2, column=0, sticky=tk.W, pady=5)
                 ttk.Label(stats_frame, text=str(material_count)).grid(row=2, column=1, sticky=tk.W, pady=5, padx=(20, 0))
     
     def toggle_json_display(self, parent):
@@ -1394,10 +1411,6 @@ Extract synthesis conditions for all materials found in the context."""
             # Mark as exported and save path
             self.generation_exported = True
             self.exported_json_path = filename
-            
-            # Update the send to evaluation button if it exists
-            if hasattr(self, 'send_to_eval_button'):
-                self.send_to_eval_button.config(state='normal')
             
             success_msg = (
                 "Generated dataset exported successfully!\n\n"
