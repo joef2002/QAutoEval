@@ -1103,7 +1103,7 @@ Extract synthesis conditions for all materials found in the context."""
             
             # Use the system prompt as system instruction
             gemini_client = genai.GenerativeModel(
-                model_name='gemini-1.5-pro-001',
+                model_name='gemini-1.5-pro-002',
                 system_instruction=prompt
             )
             
