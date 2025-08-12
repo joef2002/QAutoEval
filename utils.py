@@ -26,7 +26,7 @@ def gemini_info():
     Replace 'INSERT GEMINI API KEY' with your actual API key.
     """
     gemini_api_key = "INSERT GEMINI API KEY"
-    gemini_model = 'gemini-1.5-pro-001'
+    gemini_model = 'gemini-1.5-pro-002'
     return gemini_api_key, gemini_model
 
 def gpt_4o_info():
