@@ -26,7 +26,7 @@ def gemini_info():
     Replace 'INSERT GEMINI API KEY' with your actual API key.
     """
     gemini_api_key = "INSERT GEMINI API KEY"
-    gemini_model = 'gemini-1.5-pro-latest'
+    gemini_model = 'gemini-1.5-pro-001'
     return gemini_api_key, gemini_model
 
 def gpt_4o_info():
@@ -42,7 +42,7 @@ def gpt_o1_info():
     Replace 'INSERT OPENAI API API KEY' with your actual API key.
     """
     openai_api_key = 'INSERT OPENAI API KEY'
-    openai_o1_model = 'o1-preview-2024-09-12'
+    openai_o1_model = 'o1-2024-12-17'
     return openai_api_key, openai_o1_model
 
 def extract_text_from_pdf(pdf_path):
