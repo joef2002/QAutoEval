@@ -44,7 +44,7 @@ Under the hood, the script:
 
 ### Prerequisites
 
-- **Python:** Version 3.8 or higher (Recommended 3.10.14, please aviod using Python 3.12 to prevent dependency errors) 
+- **Python:** Version 3.8 or higher (Recommended 3.10.14, please avoid using Python 3.12 to prevent dependency errors) 
 - **Virtual Environment:** Recommended (e.g., `venv` or `conda`)
 
 ### Setup
