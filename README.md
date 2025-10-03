@@ -22,7 +22,7 @@ The framework supports both multi-hop and single-hop Q&A evaluation pipelines, a
 - **Synthesis Conditions Evaluation:**  
   Extracts synthesis conditions from scientific papers and assesses them against criteria for completeness, exclusivity, and accuracy.
 
-  For a more detailed description of the evaluation criteria used, please refer to our previous work: [RetChemQA](https://github.com/nakulrampal/RetChemQA) and [Comparison-of-LLMs](https://github.com/Sya-bitsea/Comparison-of-LLMs)
+  For a more detailed description of the evaluation criteria used and how the dataset is generated(along with the code), please refer to our previous work: [RetChemQA](https://github.com/nakulrampal/RetChemQA) and [Comparison-of-LLMs](https://github.com/Sya-bitsea/Comparison-of-LLMs)
 
 ## Quick Start
 
