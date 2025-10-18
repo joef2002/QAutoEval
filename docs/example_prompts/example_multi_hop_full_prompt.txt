@@ -1,0 +1,2447 @@
+SYSTEM PROMPT:
+
+    You have been provided with a context from which question-answer pairs have been generated. 
+    Note that the questions are multi hop, meaning that the answer can come from many different 
+    parts of the paper combined, including both the main manuscript (MS) and supplementary information (SI).
+    Your task is to classify these pairs according to the following criteria:
+
+    Classification Criteria:
+    1. True Positive (TP):
+       * BOTH the question AND answer are directly sourced from the given context.
+       * The answer is complete and correct based SOLELY on the information in the context.
+       * No additional knowledge or inference beyond what is explicitly stated in the context is required.
+
+    2. False Positive (FP):
+       * BOTH the question AND answer appear to be sourced from the given context.
+       * However, the answer is incorrect, incomplete, or requires inference beyond the explicit information provided.
+
+    3. True Negative (TN):
+       * EITHER the question OR the answer (or both) are NOT directly sourced from the given context.
+       * The answer may be correct based on general knowledge, but cannot be fully validated using only the provided context.
+
+    4. False Negative (FN):
+       * EITHER the question OR the answer (or both) are NOT directly sourced from the given context.
+       * The answer is incorrect based on general knowledge or principles.
+
+    Important Guidelines:
+    1. Context Boundaries: 
+       * Exclude any references or citations from consideration as part of the context.
+
+    2. Direct Sourcing:
+       * "Sourced from the context" means the information is explicitly stated, not inferred or derived.
+       * If any inference or additional knowledge is required, the pair is not considered directly sourced.
+
+    3. Completeness:
+       * For TP classification, ensure ALL information required for the answer is explicitly stated in the context.
+       * Partial matches or answers requiring additional inference should be classified as FP, TN or FN.
+
+    4. Specificity:
+       * Pay close attention to specific details, numbers, and phrasings in both questions and answers.
+       * Minor discrepancies may change the classification.
+
+    5. General Knowledge:
+       * Be cautious with answers that seem correct but rely on general knowledge not provided in the context.
+       * These should typically be classified as TN, not TP.
+
+    6. Inference and Reasoning:
+       * Questions requiring reasoning or inference beyond explicitly stated facts should not be classified as TP, even if the reasoning seems sound.
+
+    7. Precision in Language:
+       * Be wary of absolute terms like "always," "never," or "only" in questions or answers. Verify such claims are explicitly supported by the context for TP classification.
+
+    8. Numeric Values:
+       * For questions involving calculations or numeric values, ensure all required numbers and operations are explicitly provided in the context for TP classification.
+
+    9. Chemical Formulas and Structures:
+       * For questions about chemical formulas or structures, ensure the exact information is provided in the context. Do not rely on chemical knowledge to infer details not explicitly stated.
+
+    10. Experimental Procedures:
+        * For questions about experimental procedures or synthesis, all steps should be explicitly described in the context for a TP classification.
+
+    11. Material Properties:
+        * When classifying questions about material properties (e.g., surface area, gas uptake), ensure the specific values and conditions are explicitly stated in the context.
+
+    12. Comparative Statements:
+        * For questions comparing different materials or properties, ensure the context explicitly provides the comparison. Do not rely on calculations or inferences not directly stated.
+
+    13. Hypothetical Scenarios:
+        * Questions asking about hypothetical situations or changes to experimental conditions should be classified as TN unless the context explicitly discusses such scenarios.
+
+    14. Mechanism and Theoretical Explanations:
+        * Be cautious with answers that provide mechanisms or theoretical explanations. Ensure these are explicitly stated in the context, not inferred based on chemical knowledge.
+
+    15. Implicit Information:
+        * Avoid classifying as TP any question-answer pairs that rely on information that seems obvious or implicit but is not explicitly stated in the context.
+
+    16. Strict Interpretation:
+        * When evaluating question-answer pairs, adopt a very strict interpretation of what constitutes "directly sourced" information. If there's any doubt, lean towards classifying as FP or TN rather than TP.
+
+    17. Context Verification:
+        * For each classification, explicitly reference the relevant part of the context that supports your decision. This ensures a thorough check against the provided information.
+
+    18. Mathematical Operations:
+        * For questions requiring simple mathematical operations (e.g., averaging, ratios), classify as TP only if ALL required values are explicitly stated in the context AND the operation is trivial.
+        * For more complex calculations or those requiring multiple steps, classify as TN or FP unless the context explicitly provides the calculated result.
+
+    19. Partial Information:
+        * If a question-answer pair contains some information from the context but also includes additional unsupported claims or details, classify as FP rather than TP.
+
+    20. Time Sensitivity:
+        * Be aware of the potential for time-sensitive information. If a question-answer pair relies on information that may change over time (e.g., "current" record holders, latest discoveries), ensure the context explicitly supports the claim for the relevant time period.
+
+    21. Structural Inferences:
+        * For questions about molecular or crystal structures, ensure that all structural details are explicitly stated in the context. Do not rely on chemical knowledge to infer structural information not directly provided.
+
+    22. Charge Balance:
+        * When dealing with questions about ionic compounds or charge states, ensure that the context explicitly states the charge information. Do not make assumptions about charge balance based on chemical knowledge.
+
+    23. Coordination Numbers:
+        * For questions about metal coordination, ensure that the context explicitly states the coordination number and geometry. Do not infer coordination information based on general chemistry principles.
+
+    24. Strict Adherence to Context:
+        * Even if an answer seems logically correct or chemically sound, if it relies on any information or reasoning not explicitly provided in the context, classify it as TN or FP.
+
+    25. Multiple Supporting Statements:
+        * For a TP classification, ensure that all parts of the answer are supported by explicit statements in the context. If only part of the answer is directly supported, classify as FP.
+
+    26. Keyword Matching:
+        * Be cautious of answers that use keywords from the context but apply them incorrectly or out of context. Ensure the full meaning and application of terms match the context exactly.
+
+    27. Scope of Questions:
+        * Ensure that the scope of the question matches the information provided in the context. If a question asks for information beyond what is explicitly stated, classify as TN or FN.
+
+    28. Emphasis on TN Classification:
+        * When in doubt between FP and TN, lean towards classifying as TN. This is especially important for answers that seem plausible but require any degree of inference or additional knowledge beyond the context.
+
+    Task:
+    Evaluate each question-answer pair carefully against these criteria. Provide a brief but specific explanation for your classification, referencing exact phrases or sentences from the context that informed your decision.
+
+    Remember: Accuracy in classification relies on strict adherence to what is explicitly stated in the context. Avoid making assumptions or inferences beyond the provided information. When in doubt, err on the side of caution and classify as TN rather than FP or TP.
+    
+
+USER PROMPT:
+CONTEXT:Heterogeneity of functional groups in a metal–organic
+framework displays magic number ratios
+
+Andrew C.-H. Suea,b,1, Ranjan V. Mannigec,1, Hexiang Denga,2, Dennis Caob, Cheng Wangb,2, Felipe Gándaraa,3,
+J. Fraser Stoddartb,4, Stephen Whitelamc,4, and Omar M. Yaghia,d,4
+
+aDepartment of Chemistry, University of California, Berkeley, and Lawrence Berkeley National Laboratory, Berkeley, CA 94720; bDepartment of Chemistry,
+Northwestern University, Evanston, IL 60201; cMolecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, CA 94720; and dKavli Energy
+NanoScience Institute, Berkeley, CA 94720
+
+Edited by Richard Eisenberg, University of Rochester, Rochester, NY, and approved March 27, 2015 (received for review August 30, 2014)
+
+Multiple organic functionalities can now be apportioned into
+nanoscale domains within a metal-coordinated framework, posing
+the following question: how do we control the resulting combi-
+nation of “heterogeneity and order”? Here, we report the creation
+of a metal–organic framework, MOF-2000, whose two component
+types are incorporated in a 2:1 ratio, even when the ratio of com-
+ponent types in the starting solution is varied by an order of mag-
+nitude. Statistical mechanical modeling suggests that this robust
+2:1 ratio has a nonequilibrium origin, resulting from kinetic trap-
+ping of component types during framework growth. Our simula-
+tions show how other “magic number” ratios of components can
+be obtained by modulating the topology of a framework and the
+noncovalent interactions between component types, a finding that
+may aid the rational design of functional multicomponent materials.
+
+metal–organic framework | out of equilibrium | polycrystalline |
+Monte Carlo simulation
+
+The assembly of multiple types of component offers a poten-
+
+tial route to the precise control of component heterogeneity
+within ordered 3D frameworks. Metal–organic frameworks
+(MOFs) (1–5) possessing well-defined connectivities (6, 7) and
+tunable pore sizes (8–10) can assemble from a variety of building
+blocks (11–17). Recently, a MOF harboring two components
+distributed in a heterogeneous fashion on an ordered framework
+was demonstrated (1, 2). There exists no framework, however,
+whose component heterogeneity remains controlled in the face of
+changes of environment. Here, we report the creation of a material
+with exactly this property. MOF-2000 is assembled from two types
+of organic struts, called Lr and Lb (Fig. 1A). These struts have
+identical rigid backbones but bear either a crown ether (Lr) or [2]
+catenane (Lb) side chain attached at their center. X-ray diffraction
+of MOF-2000 single crystals revealed that struts form a twofold
+interpenetrated cubic framework of pcu-c topology (Fig. 1A, Right,
+and SI Appendix, section S1.3; structure available in Dataset S1).
+As a result of optical investigations, we confirmed that the two
+struts are distributed in the crystalline framework in an isotropic
+manner (Fig. 1B), suggesting that the two components are not
+distributed in a simple periodic way throughout the framework
+(because such arrangements would give rise to optical anisotropy;
+SI Appendix, section S1.5).
+
+Even though the arrangement of the two components in
+MOF-2000 is indiscernible by X-ray crystallography, presumably
+as a result of the positional disorder of the two strut types
+within the framework, and the rotational (11, 18) and con-
+formational (11) disorder of the side chains, the presence of
+the two organic struts can be clearly determined by 1H-NMR
+(SI Appendix, section S1.4). Strikingly, MOF-2000 displays a
+2:1 ratio of Lr and Lb struts, even when the ratios of compo-
+nents in the parent solution are varied by over an order of
+magnitude (Fig. 1C). This feature makes MOF-2000 unique
+among multicomponent extended frameworks, whose struts
+are usually incorporated in ratios determined largely by initial
+solution conditions (1, 19). Thus, MOF-2000 incorporates
+
+environmentally robust component heterogeneity within a regu-
+lar covalent framework (Fig. 1D).
+
+The robust 2:1 composition does not have an obvious ther-
+modynamic origin, in contrast to common organic cocrystals or
+ionic systems such as CsCl (20). The latter possess robust com-
+positions as a consequence of charge complementarity. In MOF-
+2000, the Lb strut bears a charge of +4 (neutralized in the as-
+sembly by counterions), whereas the Lr strut is uncharged. Thus,
+charge complementarity alone does not suggest a 2:1 component
+ratio. Simple packing arguments suggest that it is reasonable that
+Lb is not the majority species within the framework (because it is
+bulky), but likewise do not offer a simple explanation for the
+2:1 ratio.
+
+Modeling MOF-2000
+To make further progress in understanding this robust ratio,
+we built a simple and physically motivated computer model of
+MOF-2000. As its degrees of freedom, the model considers the
+type of strut at a given spatial location (a “node”) within the
+framework (Fig. 2A, Left). Each node is colored red or blue,
+representing the struts Lr or Lb, respectively. Because the phys-
+ically interpenetrated cubic lattices that comprise MOF-2000
+present each node with four nearest-neighbor nodes, all on the
+
+Y
+R
+T
+S
+I
+M
+E
+H
+C
+
+Significance
+
+Arranging multiple component types in a controlled manner
+within solid frameworks may one day allow us to combine
+the heterogeneity characteristic of biological materials with the
+robustness characteristic of synthetic ones. Here, we report the
+synthesis of a metal–organic framework whose two compo-
+nent types are incorporated within it in a manner that is robust
+with respect to changes of solution composition. Calculations
+done on a model system suggest that this robustness occurs
+because component types become kinetically trapped during
+framework growth. Our calculations also show how different
+controlled arrangements of component types might be obtained
+by varying their noncovalent interactions, or by varying the to-
+pology of the covalent framework within which they are housed.
+
+Author contributions: A.C.-H.S., R.V.M., J.F.S., S.W., and O.M.Y. designed research; A.C.-H.S.,
+R.V.M., H.D., D.C., C.W., and F.G. performed research; J.F.S., S.W., and O.M.Y. contributed
+new reagents/analytic tools; A.C.-H.S., R.V.M., H.D., D.C., C.W., F.G., J.F.S., S.W., and O.M.Y.
+analyzed data; and A.C.-H.S., R.V.M., H.D., J.F.S., S.W., and O.M.Y. wrote the paper.
+
+The authors declare no conflict of interest.
+
+This article is a PNAS Direct Submission.
+
+1A.C.-H.S. and R.V.M. contributed equally to this work.
+
+2Present address: College of Chemistry and Molecular Sciences, Wuhan University, Luojia-
+shan, Wuhan, China 430072.
+3Present address: Instituto de Ciencia de Materiales de Madrid–Consejo Superior de In-
+vestigaciones Cientificas, Madrid 28049, Spain.
+
+4To whom correspondence may be addressed. Email: yaghi@berkeley.edu, stoddart@
+northwestern.edu, or SWhitelam@lbl.gov.
+
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1416417112/-/DCSupplemental.
+
+www.pnas.org/cgi/doi/10.1073/pnas.1416417112
+
+PNAS | May 5, 2015 | vol. 112 | no. 18 | 5591–5596
+
+Downloaded from https://www.pnas.org by UC Berkeley on March 4, 2024 from IP address 136.152.17.217.
+A
+
+B
+
+C
+
+D
+
+(B) Optical
+
+Fig. 1. MOF-2000 is a periodic framework harbor-
+ing controlled component heterogeneity. (A)
+Chemical structures of organic struts H2Lr and
+4+ incorporated in MOF-2000 (Methods Sum-
+H2Lb
+mary), and the MOF-2000 crystal structure [key:
+carbon, black; oxygen, red; Zn4O(CO2)6 polyhedra,
+blue; all hydrogen atoms have been omitted for
+clarity].
+images of MOF-2000 single
+crystal: without polarizer (up) and in between
+crossed polarizers (down). The lack of birefringence
+indicates that MOF-2000 is optically isotropic. The
+edge of the crystal is about 0.1 mm. (C) As de-
+termined by 1H-NMR and powder X-ray diffraction
+measurements (SI Appendix, sections S1.3 and S1.4),
+MOF-2000 consists of a twofold interpenetrated
+crystalline framework (of topology pcu-c) of 2:1 Lr:
+Lb ratio (estimated 5% error), for a wide range of
+solution ratios
+(D) MOF-2000
+(shaded region).
+therefore combines the regularity of a covalent
+framework with controlled irregularity of its com-
+ponents.
+
+adjacent cubic lattice, we allowed each node to interact ener-
+getically with its four nearest neighbors (green bonds between
+nodes; Fig. 2A, Middle). The nodes and noncovalent interactions
+between nearest neighbors comprise a “virtual” side-chain in-
+teraction network with nbo topology (Fig. 2 A, Right, and B).
+Because side chains likely possess considerable conformational
+and rotational freedom, we assume they do not interact in a
+directional manner. We therefore considered only isotropic in-
+teraction energies between nodes. As an additional simplifying
+assumption, we made these interactions pairwise: bonds between
+red nodes have energy «r-r; bonds between blue nodes have en-
+ergy «b-b; and red–blue bonds have energy «b-r. For the purposes
+of structure sampling, we considered only fully populated lattices,
+and without loss of generality we set «r-r to zero. The resulting
+description of MOF-2000 is equivalent to the Ising model on an
+nbo framework (SI Appendix, section S2.1).
+
+Local Energy Minima of the MOF-2000 Interaction Network
+Display “Magic Number” Component Ratios for Particular
+Hierarchies of Interaction Energies
+Standard Monte Carlo simulations (Methods Summary) of this
+model revealed no thermodynamically stable 2:1 red:blue phase
+at any temperature (SI Appendix, Figs. S10 and S11). As shown in
+Fig. 3, however, there does exist a set of nonequilibrium states of
+the model that display such a ratio. These nonequilibrium states
+correspond to “inherent structures” (or “local energy minima”)
+of the model Hamiltonian (21, 22). To generate these structures,
+we started with a framework whose nodes were colored ran-
+domly red or blue (SI Appendix, Fig. S13), and we repeatedly
+accepted proposed changes of color, of randomly chosen single
+nodes, that did not increase the system’s energy. Although this
+procedure does not correspond to a physical dynamics, it reveals
+the energy minimum “closest” (in the sense of distance in phase
+space) to a starting “solution” of randomly mixed red and blue
+components. This closeness suggests that such states may be
+kinetically accessible during growth from solution; we shall see
+later that simplified growth simulations indeed reproduce these
+inherent structures in certain regimes of parameter space.
+
+The 2:1 kinetic traps obtained by the inherent structure pro-
+cedure are found in a region of parameter space in which red and
+blue nodes attract, and blue nodes repel (Fig. 3A). The noncovalent
+side-chain–side-chain interactions implied by these parameters ap-
+pear to be physically reasonable: molecular considerations suggest
+that Lr and Lb struts may engage in aromatic donor–acceptor at-
+tractions (23)—and the fact that they become incorporated within
+the same framework indicates that they attract each other—and Lb
+struts are bulky and may repel in an entropic sense. It is important
+to note, however, that there is no direct mapping between our
+simulation interactions and those of the real framework. Our sim-
+ulated 2:1 structures are robust to changes of “solution composi-
+tion” (Fig. 3A, Right), which we mimicked computationally by
+including a chemical potential term [μC(i)] in our energy minimi-
+zation procedure (Methods Summary).
+
+In addition to the 2:1 local energy minima, there also exist
+local energy minima with 1:0 and 1.2:1 component ratios, as well
+as the corresponding reverse ratios (Fig. 3A). These ratios are
+“magic” numbers in the sense that we observe abrupt “transi-
+tions” between them as we vary the magnitudes of component
+interaction energies (SI Appendix, Fig. S14). A requirement for
+nontrivial ratios (here, 2:1 and 1.2:1) is that blue and red nodes
+prefer to be neighbors within a framework, rather than to be
+apart. A necessary condition for such correlation is that model
+energetics are, in Ising model language, “antiferromagnetic”
+(meaning that “red–blue” interactions have lower energy than
+“blue–blue” and “red–red” ones; see dotted white line in Fig.
+3A). This observation suggests that one requirement for robust
+component ratios away from equilibrium is a particular hierarchy
+of noncovalent interactions between component types.
+
+The 2:1 Local Energy Minima Are “Compositional
+Polycrystals” That Possess Spatial Properties Consistent
+with Those Seen in Experiment
+The 2:1 local energy minima are aperiodic and isotropic, con-
+sistent with structures seen in experiment (Fig. 1B), and can
+be thought of as compositional polycrystals (Fig. 4A). These we
+define as materials whose physical structures are periodic, but
+whose compositional degrees of freedom, i.e., component types,
+
+5592 | www.pnas.org/cgi/doi/10.1073/pnas.1416417112
+
+Sue et al.
+
+Downloaded from https://www.pnas.org by UC Berkeley on March 4, 2024 from IP address 136.152.17.217.
+A
+
+B
+
+Fig. 2. MOF-2000 simulation model. (A) Mapping
+of the physical framework pcu-c onto an nbo net-
+work of interacting side chains. Lr (respectively, Lb)
+side chains are represented by red (respectively, blue)
+nodes. Nearest-neighbor nodes interact energetically.
+(B) Adjacent 2D slices of the interaction network,
+with in-plane and out-of-plane interactions marked
+(the two arrows connect one particular out-of-plane
+interaction). The network is colored in a regular 2:1
+fashion for the purposes of illustration. The corre-
+sponding experimental side-chain arrangement is
+ruled out by MOF-2000’s optical isotropy.
+
+Y
+R
+T
+S
+I
+M
+E
+H
+C
+
+are distributed within those structures as a patchwork of domains
+of particular composition that meet at grain boundaries of dif-
+ferent composition. The 2:1 structures are found in a region of
+phase space in which the thermodynamic ground state (“global
+energy minimum”) is an ordered 1:1 antiferromagnetic lattice
+(meaning that each node has four nearest neighbors of the other
+color). If we color the 2:1 structures according to their antifer-
+romagnetic order, by identifying domains in which all nodes have
+only unlike nodes as neighbors, then the resulting pictures are a
+patchwork of domains or “grains” that are separated by all-red
+regions that we call “grain boundaries” (Fig. 4A, Bottom). Al-
+though an anisotropic and ordered 2:1 decoration of the nbo
+lattice exists (Fig. 2B and SI Appendix, Figs. S6 and S15), it is not
+accessible via this simulation procedure.
+
+The 2:1 ratio of the model local energy minima emerges from
+a combination of 1:1 ordered domains and all-red (1:0) grain
+boundaries. The exact numerical ratio of red:blue nodes found in
+simulation agrees with the value measured experimentally (Fig.
+1C) and is a property of the overall topology of the nbo graph, not
+just its local connectivity. When we repeated the inherent structure
+procedure for a 2D square lattice (Fig. 4B)—which shares nbo’s
+fourfold local connectivity but not its nonlocal connectivity (SI
+Appendix, Fig. S19)—we found that structures in the correspond-
+ing region of phase space look qualitatively similar, but possess a
+red:blue ratio of 1.70:1 (Fig. 4B and SI Appendix, Fig. S18). The
+corresponding ratio for the 3D cubic lattice (a possible interaction
+network of, e.g., MOF-5) is different again, 2.2:1 (SI Appendix, Fig.
+S21). The precise magic number ratio appears therefore to be a
+function of both the noncovalent interactions between side chains,
+and the framework topology.
+
+Growth Simulations Reveal That Magic Number Component
+Ratios Emerge for Particular Hierarchies and Scales of
+Component Interaction Energies
+With the objective of connecting our simulation approach more
+closely to a possible assembly pathway of MOF-2000, we carried
+out a simple Monte Carlo growth protocol (Methods Summary).
+In this protocol, all nodes in the system were unoccupied
+(colored white) initially and were allowed to become occupied (blue
+or red) under a standard grand-canonical Monte Carlo protocol.
+Rates of binding of red and blue nodes then depend on node–
+node interaction energies. The overall growth rate of a red–blue
+structure is controlled by a term μ, related to the chemical
+
+potential of side chains in the parent solution, which sets the
+relative energetics of unoccupied and occupied nodes. Our
+growth protocol assumes implicitly that rates of establishment of
+covalent linkages are modulated by side-chain–side-chain non-
+covalent interaction energies. Experiment indicates that this
+assumption must be true, because otherwise the two component
+types—which form identical covalent linkages—would simply be
+incorporated into the framework at the ratio at which they are
+present in the parent solution.
+
+In Fig. 5A, we show the results of growth simulations done
+using node interaction energies taken from the regime in which
+2:1 inherent structures (Fig. 3A) were found. For simplicity, we
+arranged for a clear separation in scales of node interaction
+energies (and hence binding rates). We set «b-r large and nega-
+tive, and «b-b large and positive (with «b-r/«b-b → 0), so forbidding
+blue–blue contacts and making red–blue contacts effectively
+unbreakable. We set «r-r = 0 and kBT = 1. The thermodynami-
+cally stable structure in this regime is the 1:1 antiferromagnetic
+coloring, in which each node possesses four neighboring nodes of
+the other color.
+
+As seen in Fig. 5A, the nature of the structure generated dy-
+namically depends on μ, the growth chemical potential. When μ
+is large and negative, only blue–red contacts form. They do so
+readily, and the structure that results is the thermodynamically
+stable 1:1 coloring. When μ is large and positive, both blue–red
+and red–red contacts form readily, and the result is a coloring
+whose red:blue ratio depends on the red:blue ratio present in
+implicit solution (we call this regime “irreversible”). Between
+these extremes, we find a large range of growth rates that give
+rise to spatially disordered 2:1 structures, independent of the
+red:blue fraction in solution. This regime is one of “partially
+reversible” growth: “native” (red–blue) contacts form readily and
+do not break; “defect” (red–red) contacts can form and break
+readily. The combination of these microscopic processes leads to
+growth of structures similar to the 2:1 inherent structures seen in
+energy minimization simulations, namely compositional poly-
+crystals of thermodynamically favored 1:1 domains, separated by
+red grain boundaries (SI Appendix, Fig. S22).
+
+This growth procedure reveals that the inherent structures
+described earlier can be obtained when a pattern of thermody-
+namically desirable red–blue bonds is infiltrated by red–red bond
+“mistakes” that occur because of the stochastic nature of as-
+sembly (SI Appendix, Fig. S22). Simple although our growth
+
+Sue et al.
+
+PNAS | May 5, 2015 | vol. 112 | no. 18 | 5593
+
+Downloaded from https://www.pnas.org by UC Berkeley on March 4, 2024 from IP address 136.152.17.217.
+B
+
+A
+
+C
+
+Fig. 3.
+Local energy minima (inherent structures)
+of the MOF-2000 simulation model have a 2:1 red:
+blue ratio for a particular hierarchy of interaction
+energies. (A) MOF-2000 interaction networks were
+simulated for a range of red–blue («r-b) and blue–
+blue («b-b) node interaction energies.
+Inherent
+structures (local energy minima) possess well-de-
+fined magic number component ratios; these de-
+pend in an abrupt way on the hierarchy of
+interaction energies (SI Appendix, Fig. S14). Below
+the dotted white line, node–node interaction en-
+ergies are antiferromagnetic, in Ising model lan-
+guage, meaning that red and blue nodes attract;
+this is a necessary condition for nontrivial compo-
+nent ratios (i.e., 1:0 and 0:1 are trivial ratios). The
+2:1 structures (yellow sector) are found in a region
+of phase space for which the thermodynamic
+structure is a binary 1:1 coloring (SI Appendix, Fig.
+S11), and are made of a patchwork of binary do-
+mains (Fig. 4). (B) Magic number ratios are robust to
+s of
+solution conditions: here, we vary the fraction fb
+blue nodes in implicit solution from 0.2 to 0.8. (C)
+Snapshots of the three inherent structures seen for
+this framework.
+
+protocol is, it provides, in concert with the inherent structure
+analysis, one possible explanation for the 2:1 ratio seen experi-
+mentally: according to this analysis, the ratio results from kinetic
+trapping of MOF-2000s components during their attempt to
+assemble into a 1:1 thermodynamic structure. The resulting com-
+ponent arrangements are consistent with those seen in experi-
+ments: a 2:1 component ratio, without apparent anisotropy, ob-
+tained over a wide range of solution component concentrations.
+
+Finally, in Fig. 5 B and C, we show that growth simulations
+done using the same hierarchy but reduced scale of noncovalent
+interaction energies causes this solution-robust growth regime to
+shrink (Fig. 5B) and eventually disappear (Fig. 5C). Similarly,
+adopting a “ferromagnetic” hierarchy of energy scales (meaning
+that red and blue nodes prefer to form like-color contacts; this
+appears to be the case for the components of the MTV-MOF in
+ref. 1) results in no regime of solution-robust component ratios
+(Fig. 5D); none was seen in those experiments. Note that model
+
+side-chain interactions cannot be mapped directly to experi-
+mental parameters, because the former represent effective free
+energies of interaction that in experiment are mediated by sol-
+vent, etc. The difference between the energetic parameters dis-
+played in Fig. 5 and the parameter μ would correspond roughly
+to side-chain–side-chain equilibrium binding affinities, given a
+set of component concentrations.
+
+We have reported the assembly of a MOF whose two com-
+ponents are incorporated in a 2:1 ratio, robust to changes in
+relative concentration of struts in the initial solution. Compo-
+nents are distributed throughout the framework in a manner that
+is apparently isotropic and nonperiodic, making MOF-2000
+unique among extended frameworks. Our simulations of a simple
+and physically motivated model of MOF-2000 identify a set of
+nonequilibrium structures that correspond to our experimental
+observations. The simulated structures, which are local energy
+minima and are also accessible to a microscopically reversible
+
+A
+
+B
+
+C
+
+Fig. 4. The 2:1 inherent structures are compositional polycrystals of binary order, and the numerical red:blue ratio depends on framework topology.
+(A) Simulated 2:1 structures are compositional polycrystals, sections of 1:1 thermodynamically preferred order that meet at red grain boundaries (SI Appendix,
+Figs. S16 and S22). The lower panel shows distinct regions of 1:1 order in different colors. (B) The corresponding structures on a 2D square lattice possess a red:
+blue ratio of 1.7:1, demonstrating that the component magic number ratio depends on the topology of the framework, not just its local connectivity. (C) The
+corresponding ratio is 2.2:1 on a 3D cubic lattice, showing that dimensionality alone does not control the magic number ratio. Magic numbers obtained for a
+range of local connectivity and dimensionality (SI Appendix, Fig. S20) further support the idea that magic number ratios may be tuned by the choice of framework
+topology.
+
+5594 | www.pnas.org/cgi/doi/10.1073/pnas.1416417112
+
+Sue et al.
+
+Downloaded from https://www.pnas.org by UC Berkeley on March 4, 2024 from IP address 136.152.17.217.
+2:1
+
+A
+
+B
+
+C
+
+D
+
+Y
+R
+T
+S
+I
+M
+E
+H
+C
+
+Fig. 5. The nonequilibrium 2:1 structures seen in simulations can be generated by simple “growth” simulations, provided that noncovalent interaction
+energies possess a certain hierarchy and scale. (A) Grand-canonical growth simulations of the model as a function of basic rate of growth (controlled by a
+chemical potential μ) show three distinct regimes, of which the partially irreversible regime recapitulates the 2:1 structure (a snapshot is shown to the Right).
+This regime is also robust to a range of relative concentrations of blue nodes in implicit solution (colored lines). (B and C) Growth simulations done using the
+same hierarchy of interaction energies but reduced interaction energy scales show the plateau region to shrink (B) and eventually vanish (C). (D) Similarly, a
+different (ferromagnetic) hierarchy of interaction energies shows no solution-invariant magic number regime.
+
+growth process, display a 2:1 ratio of components distributed
+isotropically and nonperiodically, and emerge in a region of
+phase space that corresponds to a physically reasonable side-
+chain chemistry.
+
+Although we cannot rule out a thermodynamic origin for
+the 2:1 disordered regime, our findings suggest a possible non-
+equilibrium origin for MOF-2000s robust composition ratio.
+Previous work has demonstrated that kinetic trapping of
+multiple component types during self-assembly can occur in a
+variety of contexts (20, 24–29). Our simulations also suggest a
+set of requirements for generating nontrivial magic number
+ratios of components within covalent frameworks generally.
+First, the hierarchy of noncovalent interactions between
+components must be such that “local” energy minima are
+nontrivial, i.e., not 1:0 (meaning that nodes must prefer en-
+ergetically to be adjacent to nodes of another color) (Fig. 3A).
+Second, the scale of interaction energies must be such that
+“nonnative” (here red–red) contacts can form but do so re-
+versibly; otherwise, the outcome of growth is the thermody-
+namic structure (if nonnative contacts cannot form) or a
+structure whose composition is sensitive to solution concen-
+tration (if nonnative contacts form irreversibly). If these con-
+ditions hold, then solution-robust ratios can be generated; the
+
+precise numerical values of these ratios are a consequence of the
+particular topology of the MOF (Fig. 4). Together, this set of
+observations suggests a strategy for making multicomponent
+covalent frameworks with solution-robust ratios of component
+types. The utility of such frameworks awaits exploration.
+
+Methods Summary
+Synthesis of MOF-2000. Methylamine solution (Aldrich Chemical; 40 wt % in
+H2O; 40 μL) was mixed with anhydrous N,N-dimethylformamide (DMF) (EM
+−3 mmol),
+Science) (2 mL) to make a stock solution. H2Lr (1.20 mg, 1.37 × 10
+−3 mmol), and Zn(NO3)2(cid:129)6H2O (EM Science;
+H2Lb(cid:129)4PF6 (2.71 mg, 1.37 × 10
+5.97 mg, 20 μmol) were dissolved in anhydrous DMF solution (1 mL). The
+mixture was filtered and injected in a 4-mL vial. After the methylamine stock
+solution (20 μL) was added, the vial was capped and placed in an isothermal
+oven at 65 °C for 3 d. Dark red crystals of MOF-2000 were collected and
+rinsed with DMF (4 × 1.0 mL) after the vial was removed from the oven and
+cooled to room temperature.
+
+Monte Carlo Simulation Algorithm 1: Inherent Structure Production (Fig.
+3A). Each edge in our interaction network (nbo) describes a noncovalent
+node–node interaction energy, whose value we define as a function of
+the colors of two nearest-neighbor nodes. The energy of the system is as
+follows:
+
+Sue et al.
+
+PNAS | May 5, 2015 | vol. 112 | no. 18 | 5595
+
+Downloaded from https://www.pnas.org by UC Berkeley on March 4, 2024 from IP address 136.152.17.217.
+Xinteractions
+
+E =
+
+«CðiÞ−CðjÞ −
+
+Xsidechains
+
+μ
+
+CðiÞ.
+
+i, j
+
+i
+
+The first sum runs over all distinct nearest-neighbor interactions; the second
+runs over all nodes. Here, C(i) = b if node i is blue, and r if node i is red. «C(i )-C(j )
+is the pairwise interaction energy between two adjacent side chains i and j,
+and so is «b-b, «r-b, or «r-r. The chemical potential term μC(i ) is 0 and μ for red and
+blue side chains, respectively. The fraction of blue nodes in implicit solution is
+then fb
+
+μ
+/(1 + e
+
+μ
+s = e
+
+).
+
+Monte Carlo simulations were performed as follows. We selected a node
+at random, proposed a change of color of that node (r↔b), and accepted
+the change with the Metropolis probability min(1, exp(–ΔE/T)), where ΔE =
+Enew – Eold is the energy change resulting from the proposal.
+Inherent
+structures were identified by setting the system temperature T to zero.
+
+Monte Carlo Simulation Algorithm 2: Growth (Fig. 5). Keeping the interaction
+network (nbo) the same as for the previous protocol, we introduced a third
+color, white (w), describing the solvent. The energy of this extended system
+is as follows:
+
+Xinteractions
+
+E =
+
+«CðiÞ−CðjÞ −
+
+Xsidechains
+
+μ
+
+CðiÞ.
+
+i, j
+
+i
+
+b), and −ln(1 − f s
+
+Here, C(i) = b, r, or w, depending on the color of the node i, «C(i )-C(j ) describes
+the interaction potential between colors C(i) and C(j), and the chemical
+potential μC(i ) is μ, −ln(f s
+b) for w, b, and r, respectively. Here,
+b is the relative fraction of reds versus blues in implicit solution, while μ is
+f s
+the chemical potential associated with removing/adding a colored site to the
+system, and therefore controls the combined concentration of reds and
+blues in solution. The latter is distinct from the relative fraction f s
+b of reds
+versus blues in solution.
+
+Monte Carlo simulations were performed as follows. We selected a node at
+random and proposed a change of color of that node. If the chosen node was
+white, we attempted to make it colored; if the chosen node was colored, we
+attempted to make it white. If the chosen node was white, then we proposed
+s; otherwise, we proposed to make it red.
+to make it blue with probability fb
+No red–blue interchange was allowed, mimicking the idea that unbinding
+
+events are required to relax configurational degrees of freedom. Starting
+configurations were all white.
+
+To maintain detailed balance with respect to the stated energy function,
+the acceptance rates for these moves were as follows (ΔE is the energy
+change resulting from the proposed move):
+
+(cid:3)
+
+(cid:2)
+r ⇒ w : min
+(cid:2)
+b ⇒ w : min
+(cid:2)
+w ⇒ r
+: min
+(cid:2)
+w ⇒ b
+: min
+
+1,exp½−ΔE=T(cid:2)
+1,exp½−ΔE=T(cid:2)
+1,exp½−ΔE=T(cid:2)
+1,exp½−ΔE=T(cid:2)
+
+1 − f s
+(cid:4)(cid:5)
+(cid:3)
+b
+f s
+(cid:6)(cid:3)
+b
+1 − f s
+(cid:4)(cid:5)
+b
+f s
+.
+b
+
+(cid:6)(cid:3)
+
+(cid:4)(cid:5)
+
+(cid:4)(cid:5)
+
+ACKNOWLEDGMENTS. A.C.-H.S. acknowledges T.-Y. Chen at University
+of California, Los Angeles (UCLA) for discussions on graph theory and
+initial theoretical modeling. A.C.-H.S. and H.D. acknowledge B. Kahr and
+A. Shtukenberg at New York University for crystal optics measurement
+and discussion. A.C.-H.S., H.D., and F.G. thank D. Cascio at UCLA and S. Teat at
+Advanced Light Source (ALS), Lawrence Berkeley National Laboratory (LBNL)
+for help on synchrotron experiments. We thank M. Capel, K. Rajashankar,
+N. Sukumar, J. Schuermann, I. Kourinov, and F. Murphy at Northeastern
+Collaborative Access Team beamlines 24-ID at Advanced Photon Source (APS) of
+Argonne National Laboratory, which are supported by grants from the National
+Center for Research Resources (5P41RR015301-10) and the National Institute of
+General Medical Sciences (P41 GM103403) from the National Institutes of Health.
+Use of the APS is supported by US Department of Energy under Contract
+DE-AC02-06CH11357. ALS is supported by the Director, Office of Science, Office
+of Basic Energy Sciences of the US Department of Energy under Contract DE-
+AC02-05CH11231. This work used resources of the National Energy Research
+Scientific Computing Center, which is supported by the Office of Science of
+the US Department of Energy under Contract DE-AC02-05CH11231. The research
+at Northwestern University (NU) by A.C.-H.S., D.C., and C.W., which was sup-
+ported by the Non-Equilibrium Energy Research Center, an Energy Frontiers Re-
+search Center funded by the US Department of Energy, Office of Science, Office
+of Basic Energy Science, under Award DE-SC000989, is part of the Joint Center of
+Excellence in Integrated Nanosystems at King Abdul-Aziz City for Science and
+Technology (KACST) and NU (Project 34-949). We thank both KACST and NU for
+their continued support of this research. D.C. acknowledges the National Science
+Foundation for a Graduate Research Fellowship. D.C. also gratefully acknowl-
+edges support from the Ryan Fellowship and the NU International Institute for
+Nanotechnology. S.W. and R.V.M. performed work at the Molecular Foundry at
+LBNL, supported by the Office of Science, Office of Basic Energy Sciences of the
+US Department of Energy under Contract DE-AC02-05CH11231.
+
+1. Deng H, et al. (2010) Multiple functional groups of varying ratios in metal-organic
+
+16. Vukotic VN, Harris KJ, Zhu K, Schurko RW, Loeb SJ (2012) Metal-organic frameworks
+
+frameworks. Science 327(5967):846–850.
+
+2. Kong X, et al. (2013) Mapping of functional groups in metal-organic frameworks.
+
+Science 341(6148):882–885.
+
+3. Li H, Eddaoudi M, O’Keeffe M, Yaghi OM (1999) Design and synthesis of an excep-
+tionally stable and highly porous metal-organic framework. Nature 402:276–279.
+4. Kitagawa S, Kitaura R, Noro S (2004) Functional porous coordination polymers. An-
+
+gew Chem Int Ed Engl 43(18):2334–2375.
+
+5. Férey G, et al. (2005) A chromium terephthalate-based solid with unusually large pore
+
+volumes and surface area. Science 309(5743):2040–2042.
+
+6. O’Keeffe M, Peskov MA, Ramsden SJ, Yaghi OM (2008) The Reticular Chemistry
+Structure Resource (RCSR) database of, and symbols for, crystal nets. Acc Chem Res
+41(12):1782–1789.
+
+7. O’Keeffe M, Yaghi OM (2012) Deconstructing the crystal structures of metal-organic
+frameworks and related materials into their underlying nets. Chem Rev 112(2):
+675–702.
+
+8. Eddaoudi M, et al. (2002) Systematic design of pore size and functionality in iso-
+reticular MOFs and their application in methane storage. Science 295(5554):469–472.
+9. Ma L, Falkowski JM, Abney C, Lin W (2010) A series of isoreticular chiral metal-organic
+frameworks as a tunable platform for asymmetric catalysis. Nat Chem 2(10):838–846.
+10. Deng H, et al. (2012) Large-pore apertures in a series of metal-organic frameworks.
+
+Science 336(6084):1018–1023.
+
+11. Li Q, et al. (2009) Docking in metal-organic frameworks. Science 325(5942):855–859.
+12. Lee E, Kim J, Heo J, Whang D, Kim K (2001) A two-dimensional polyrotaxane with
+large cavities and channels: A novel approach to metal-organic open-frameworks by
+using supramolecular building blocks. Angew Chem Int Ed Engl 40(2):399–402.
+13. Li Q, et al. (2010) A catenated strut in a catenated metal-organic framework. Angew
+
+Chem Int Ed Engl 49(38):6751–6755.
+
+14. Gong H-Y, et al. (2011) Anion-directed assembly of a three-dimensional metal-organic
+
+rotaxane framework. Chem Commun (Camb) 47(21):5973–5975.
+
+15. Coskun A, et al. (2012) Metal-organic frameworks incorporating copper-complexed
+
+rotaxanes. Angew Chem Int Ed Engl 51(9):2160–2163.
+
+with dynamic interlocked components. Nat Chem 4(6):456–460.
+
+17. Wang C, Liu D, Xie Z, Lin W (2014) Functional metal-organic frameworks via li-
+gand doping: Influences of ligand charge and steric demand. Inorg Chem 53(3):
+1331–1338.
+
+18. Gould S, Tranchmontagne DJ, Yaghi OM, Garcia-Garibay MA (2008) Amphidynamic
+character of crystalline MOF-5: Rotational dynamics of terephthalate phenylenes in a
+free-volume, sterically unhindered environment. J Am Chem Soc 130(11):3246–3247.
+19. Bunck DN, Dichtel WR (2012) Internal functionalization of three-dimensional covalent
+
+organic frameworks. Angew Chem Int Ed Engl 51(8):1885–1889.
+
+20. Bochicchio D, Videcoq A, Ferrando R (2013) Kinetically driven ordered phase forma-
+tion in binary colloidal crystals. Phys Rev E Stat Nonlin Soft Matter Phys 87(2):022304.
+21. Stillinger FH (1988) Dynamical lattice gases and inherent structure in condensed
+
+phases. J Chem Phys 88(1):380–385.
+
+22. Bertin EM (2005) Real-space analysis of inherent structures. Europhys Lett 71:452–458.
+23. Cao D, et al. (2013) Three-dimensional architectures incorporating stereoregular
+
+donor-acceptor stacks. Chemistry 19(26):8457–8465.
+
+24. Sanz E, Valeriani C, Frenkel D, Dijkstra M (2007) Evidence for out-of-equilibrium
+crystal nucleation in suspensions of oppositely charged colloids. Phys Rev Lett 99(5):
+055501.
+
+25. Peters B (2009) Competing nucleation pathways in a mixture of oppositely charged
+
+colloids: Out-of-equilibrium nucleation revisited. J Chem Phys 131(24):244103.
+
+26. Kim AJ, Scarlett R, Biancaniello PL, Sinno T, Crocker JC (2009) Probing interfacial
+equilibration in microsphere crystals formed by DNA-directed assembly. Nat Mater
+8(1):52–55.
+
+27. Scarlett RT, Crocker JC, Sinno T (2010) Computational analysis of binary segregation
+during colloidal crystallization with DNA-mediated interactions. J Chem Phys 132(23):
+234705.
+
+28. Scarlett RT, Ung MT, Crocker JC, Sinno T (2011) A mechanistic view of binary colloidal
+superlattice formation using DNA-directed interactions. Soft Matter 7(5):1912–1925.
+29. Whitelam S, Schulman R, Hedges L (2012) Self-assembly of multicomponent structures
+
+in and out of equilibrium. Phys Rev Lett 109(26):265506.
+
+5596 | www.pnas.org/cgi/doi/10.1073/pnas.1416417112
+
+Sue et al.
+
+Downloaded from https://www.pnas.org by UC Berkeley on March 4, 2024 from IP address 136.152.17.217.
+ Supplementary Information 
+
+for 
+
+“Heterogeneity of functional groups in a metal-organic framework 
+
+displays magic number ratios” 
+
+Andrew C.-H. Suea,b,1, Ranjan V. Mannigec,1, Hexiang Denga,2, Dennis Caob, Cheng Wangb,2, Felipe Gándaraa,3, 
+J. Fraser Stoddartb,4, Stephen Whitelamc,4, Omar M. Yaghia,d,4 
+
+aDepartment of Chemistry, University of California-Berkeley, and 
+Lawrence Berkeley National Laboratory, Berkeley, CA 94720, U.S.A. 
+bDepartment of Chemistry, Northwestern University, Evanston, IL 60201, U.S.A. 
+cMolecular Foundry, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, U.S.A. 
+dKavli Energy NanoScience Institute, Berkeley, CA 94720, U.S.A. 
+
+1A.C.-H.S. and R.V.M. contributed equally to this work. 
+
+2Current address: College of Chemistry and Molecular Science, Wuhan University, Luojiashan, Wuhan, China 430080 
+
+3Current address: Materials Science Institute of Madrid – CSIC, Madrid 28049, Spain 
+
+4To whom correspondence should be addressed.   
+
+E-mail: stoddart@northwestern.edu, swhitelam@lbl.gov & yaghi@berkeley.edu 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Table of Contents 
+
+Section S1  Experimental Results 
+
+S1.1    General Procedures 
+
+S1.2   
+
+Synthetic Procedures   
+
+S1.3    X-Ray Crystallography Characterization 
+
+S.1.3.1    Single Crystal XRD 
+
+S.1.3.2    Powder XRD 
+
+S1.4    Nuclear Magnetic Resonance (NMR) Characterization 
+
+S.1.4.1  Activation Procedures 
+
+S.1.4.2    Solid State NMR 
+
+S.1.4.3    1H NMR Characterization 
+
+S1.5    Optical Characterization (Isotropicity) 
+
+S1.6   
+
+Thermogravimetric Analysis 
+
+Section S2  Additional Simulation Details and Figures 
+
+S2.1    Relationship between our Lattice Model of MOF-2000 and the Ising Model 
+
+S2.2    Additional Simulation Results and Figures 
+
+S2.3    Atomistic Modeling of the 1:1 Binary Arrangement Indicates its Steric   
+
+Feasibility   
+
+References 
+
+S2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Section S1 Experimental Results 
+
+S1.1  
+
+General Procedures 
+
+Chemicals  were  purchased  from  commercial  vendors  and  used  as  received  without  further  purification 
+unless otherwise noted.  1H &  13C NMR Spectra were recorded on a Bruker Avance 400 MHz or Bruker 
+
+Avance 500 MHz at ambient temperature, unless otherwise noted. Chemical shifts are listed in ppm on the 
+
+δ scale and coupling constants are recorded in Hertz (Hz). Chemical shifts are reported in ppm relative to 
+
+the signals corresponding to the residue non-deuterated solvents (CDCl3: δ = 7.26 ppm, CD3CN: δ = 1.94 
+
+ppm, CD3SOCD3: δ = 2.50 ppm). Powder X-ray diffraction (PXRD) data were obtained on a Bruker AXS 
+
+D8 Advance diffractometer operated at 40 kV and 40 mA for CuKα, (λ =1.5406 Å) with a scan speed of   
+
+3 º/min and a step size of 0.050º in 2θ. 
+
+S1.2  
+
+Synthetic Procedures 
+
+H2Lr
+
+S1  and  H2Lb•4PF6
+reported in the literature.   
+
+S2  were  synthesized  by  following  procedures  modified  on  the  basis  of  those 
+
+Scheme S1. Synthesis of NPP36C10 
+
+NPP36C10: A mixture of Cs2CO3 (19.1 g, 52.8 mmol) in deaerated DMF (500 mL) was heated to 90 °C 
+under N2. A solution of compound S1S1 (5.31 g, 13.2 mmol) and S2S1 (12.0 g, 13.2 mmol), dissolved in 
+deaerated DMF (70 mL), was added to the reaction mixture using a syringe pump (1 mL / h). After 4 d, 
+
+the reaction mixture was cooled to room temperature and the inorganic salts removed by filtration. The 
+
+filtrate was evaporated  under reduced pressure and the residue  was purified by column chromatography 
+
+on  silica  gel  using  CH2Cl2  then  EtOAc  /  CH2Cl2  (3:2  v/v)  to  yield  NPP36C10  (3.24  g,  25%)  as  a 
+microcrystalline white solid. The spectroscopic data matched that reported in the literature.S1 
+
+S3 
+
+ 
+ 
+ 
+ 
+
+Scheme S2. Synthesis of crown ether strut H2Lr 
+
+H2Lr: A  mixture of  NPP36C10 (1.50  g, 1.79  mmol),  S3S1  (720  mg,  4.50  mmol),  PdCl2(PPh3)4 (63  mg, 
+0.088 mmol), CuI (17 mg, 0.088 mmol) in a 1:2 (v/v) mixture of TEA/THF (75 mL) was heated at 85 °C 
+
+for 18 h. The solvents were removed by rotary evaporation and the residue was titurated with MeOH to 
+
+yield a yellow solid (1.49 g). A mixture of this yellow solid, KOH (405 mg, 7.16 mmol) and a 1:1 (v/v) 
+
+mixture  of  CH2Cl2  /  MeOH  (25  mL)  was  stirred  for  12  h  at  room  temperature.  The  mixture  was  then 
+
+acidified  by  the  dropwise addition of  conc HCl,  precipitating H2Lr  (1.1  g,  70%) as  a  yellow  solid. The 
+spectroscopic data matched that reported in the literature.S1 
+
+Scheme S3. Synthesis of brominated crown ether strut H2Lr-Br2 
+
+H2Lr -Br2 
+
+H2Lr-Br2:  Benzoic  ester  S4S3  (466  mg,  1.84  mmol)  and  NPP36C10  (736  mg,  0.877  mmol)  were 
+dissolved in a 25/2 (v/v) mixture of THF/TEA  (25 mL). PdCl2(PPh3)2 (31 mg,  0.044 mmol) and CuI (9 
+
+mg, 0.04 mmol) were added to the solution under argon. The reaction mixture was heated under reflux for 
+
+12 h. The solvent was then removed under reduced pressure. The residue was recrystallized from MeOH. 
+
+The  solid  material  was isolated  by  filtration and  dissolved  in a 1/1  (v/v)  mixture  of MeOH/CH2Cl2  (25 
+
+mL). KOH (200 mg, 3.56 mmol) was added to the solution and the reaction mixture was left to stir for 8 h. 
+
+The solvent was then removed under reduced pressure. The residue was dissolved in H2O and filtered.   
+
+S4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+The  filtrate  was  acidified  with  6  M  HCl  and  the  resulting  precipitate  collected  by  filtration  to  afford   
+H2Lr-Br2 as a yellow solid (471 mg, 52%). 1H NMR (CD3SOCD3, 500 MHz, 298 K): δ = 13.50 (s, 2H), 
+8.18 (d, J = 1.6 Hz, 1H), 7.96 (dd, J = 8.1, 1.6 Hz, 1H), 7.74 (d, J = 8.0 Hz, 1H), 7.63 (d, J = 8.5 Hz, 1H), 
+
+7.27 (t, J = 8.0 Hz, 1H), 7.14 (s, 1H), 6.75 (d, J = 7.7 Hz, 1H), 4.14–4.00 (m, 8H), 3.86–3.72 (m, 8H), 
+3.68–3.53  (m,  16H).  13C  NMR  (CD3SOCD3,  125  MHz,  298  K):  δ  =  165.5,  153.7,  133.6,  132.8,  128.4, 
+125.8, 125.2, 124.3, 113.7, 112.9, 105.6, 70.2, 70.0, 70.0 70.0, 69.0, 68.8, 68.8, 67.7, 66.3; HR MS (ESI): 
+Calcd  for  C50H48Br2O14  m/z  =  1048.1749  [M  +  NH4]+,  found  m/z  =  1048.1693  [M  +  NH4]+,  m/z  = 
+1030.1484 [M + H]+, found m/z = 1030.1489 [M + H]+. 
+
+Scheme S4. Synthesis of [2]catenane strut H2Lb•4PF6 
+
+H2Lb•4PF6:  A  mixture  of  H2Lr  (518  mg,  0.592  mmol),  S5  (750  mg,  2.84  mmol),  S6•2PF6
+
+S1  (2.08  g,   
+
+2.95 mmol), and DMF (50 mL) was heated at 80 °C for 1 h. After cooling the reaction mixture to room 
+
+temperature,  the  precipitates  were  removed  by  filtration.  The  filtrate  was  evaporated  by  pressure  and 
+
+purified by column chromatography on silica gel using a 7:2:1 (v/v/v) mixture of MeOH / NH4Cl (2M) / 
+
+MeNO2 to yield a red product, which was dissolved in H2O and subjected to counterion exchange to yield 
+H2Lb•4PF6 (975 mg, 83%) as a red solid. The spectroscopic data matched that reported in the literature.S1 
+
+MOF-2000:  The  standard  synthetic  procedure  for  the  preparation  of  MOF-2000  is  described  in  the 
+
+Methods  Summary  section.  Reactions  of  various  ratios  of  H2Lr and  H2Lb•4PF6 in  the  starting  solution 
+
+were prepared by following the same procedure. The total amount of H2Lr and H2Lb•4PF6 organic struts 
+was kept at 2.74 × 10–3 mmol and the relative ratios of the two organic linkers H2Lr and H2Lb•4PF6 were 
+varied from 8:1, 6:1, 4:1, 2:1, 1:1, 1:2, 1:4, 1:6 to 1:8, in turn. All reactions except the ones with H2Lr and 
+
+H2Lb•4PF6 in 1:6 and 1:8 ratios yielded single crystalline MOF samples for analysis.   
+
+S5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+The crystallization condition reported here is optimized. In addition to DMF, different solvents including 
+
+MeCN, DMSO and mixed-solvent systems were also tried. In most cases, we obtained polycrystalline or 
+
+amorphous materials were obtained. Experimentally, the choice of counter anion is mainly limited by the 
+
+solubility of the corresponding salt of the [2]catenane. For example the chloride or bromide salt of H2Lb 
+
+is  water-soluble  but  does  not  dissolve  in  polar  organic  solvents;  while  the  hexafluorophosphate  salt  is 
+
+soluble in organic solvents mentioned above but not in aqueous solutions. 
+
+Bromine-Labeled  Br-MOF-2000:  The  synthetic  procedure  employed  here  was  identical  to  the  MOF-
+
+2000 synthesis reported in the Methods Section. Aqueous methylamine solution (Aldrich Chemical Co., 
+
+40 wt. % in H2O, 40 µL) was mixed with anhydrous N,N′-dimethylformamide (DMF, EM Science, 2 mL) 
+
+as a stock solution. H2Lr-Br2(1.41 mg, 1.37 µmol), H2Lb•4PF6 (4.06 mg, 1.37 µmol) and Zn(NO3)2•6H2O 
+
+(EM  Science,  5.97  mg,  20  µmol)  were  dissolved  in anhydrous DMF solution  (1  mL). The  mixture  was 
+
+filtered and injected in a 4-mL vial. After the methylamine stock solution (20 µL) was added, the vial was 
+
+capped and placed in an isothermal oven at 65 °C for 72 h. Dark red crystals of Br-labeled Br-MOF-2000 
+were collected and rinsed with DMF (4 × 1.0 mL) after the vial was removed from the oven and cooled to 
+
+room temperature. 
+
+We  have  considered  alterations  to  the  organic  struts  that  would  reveal  the  robustness  of  MOF-2000 
+
+assembly in the face of changing struts. In addition to the Br-labeled Lr  discussed above, other organic 
+
+linkers similar to Lr and Lb were also synthesized. We synthesized derivatives in which (1) the length of 
+
+the  rigid  backbone  of  the  struts  is  longer  than  those  in  Lr  and  Lb  and  (2)  one  of  the  charged  acceptor 
+
+components  has  been  substituted  by  a  neutral  one.  Our  preliminary  data  suggests  that  even  with  these 
+
+changes, we obtain MOF crystals with the MOF-2000 topology. We are now probing the effects of these 
+
+modifications in more detail. 
+
+S1.3  
+
+X-Ray Crystallography Characterization 
+
+S1.3.1 
+
+Single Crystal XRD 
+
+A  dark red cubic crystal (0.51×0.60×0.60  mm) of MOF-2000, Zn4O (C50H50O14)2 (C86H82N4O10) (NO3)4, 
+was sealed in a glass capillary and was analyzed using synchrotron X-ray source, revealing a cubic unit 
+
+cell  with  a  =  b  =  c  =  26.37  Å.  As  a  consequence  of  the  excess  Zn(NO3)2  utilized  during  the  MOF 
+– rather than 
+– ones. The X-ray intensities were measured at 293 K. All the frames obtained were integrated with the 
+
+crystallization, it is expected that the majority of the counterions in the framework are NO3
+
+PF6
+
+XDS/XSCALE  program  packages.  The  integration  of  the  data  yielded  a  total  of  6847  reflections  to  a 
+
+maximum 2θ value of 34.42° of which 984 were independent and 984 were greater than 2σ(I). Analysis of 
+
+S6 
+
+ 
+ 
+ 
+
+the  data  showed  negligible  decay  during  data  collection.  Absorption  correction  was  applied  by  using 
+
+XDS/XSCALE  program  packages.  The  structure  was  solved  by  direct  methods  and  the  subsequent 
+
+difference  Fourier  syntheses  and  refined  with  the  SHELXTL-97  software  package,  yielded  the  cubic 
+
+space group Im-3 (No. 204) with Z = 2 for the formula based on the elemental analysis. Zn and O atoms 
+
+in  the  backbone  of  the  framework  were  refined  anisotropically  and  all  other  nonhydrogen  atoms  were 
+
+refined isotropically. On account of the flexibility of crown ether and catenated ring, and the free space in 
+
+the pores of the MOF, the attempts made to model crown ether component residing in the pores of MOF-
+
+2000  did  not  lead  to  a  meaningful  identification  of  atoms  belonging  to  the  crown  ether.  Modeling  of 
+
+electron density within the  voids of the frameworks did not lead to identification of all guest entities in 
+
+structures  because  of  the  low  resolution  of  the  data. This  challenge,  which  is  typical  of  porous  crystals 
+
+that  contain  disordered  functional  groups  and  solvent  filled  pores,  lies  in  the  raw  data  where  observed 
+
+strong (high intensity)  scattering  becomes limited to ~1.2  Å at best,  with higher  resolution  data present 
+
+but  weak  (low  intensity).  In  contrast  with  the  common  strategy  for  improving  X-ray  data  collection, 
+
+increasing the exposure time of the crystal to X-rays did not improve the quality of the high angle data in 
+
+these cases, as the intensity from low angle data saturated the detector and minimal improvement in the 
+
+high angle data was achieved. Nonetheless, assignment and refinement of the  backbone framework was 
+
+not unreasonable, as judged by the resulting bond and angle metrics. 
+
+Fig.  S1.  Ball  and  stick  representation  of  the  asymmetric  unit  of  MOF-2000.  Zinc  atoms  in  green, 
+
+oxygen in red and carbon in black. Here, O1L was presented to label the positions where the crown ether 
+
+parts were attaching to the framework backbone.   
+
+In order to improve the correctness of the atomic positions in the framework the application of the 
+SQUEEZE  routine  of  A.  Spek  has  been  performed.  Final  full  matrix  least-squares  refinement  on  F2 
+
+converged to R1 = 0.1225 (I > 2σ(I)) and wR2 = 0.3337 (all data) with GOF = 1.05. Additional details are 
+
+presented in Table S1. For the structure where the SQUEEZE program has not been employed, final full 
+matrix least-squares refinement on F2 converged  to R1 = 0.1806 (I  > 2σ(I)) and wR2 =  0.4686 (all data) 
+with GOF = 3.931. The empirical formula for crystal structure refinement is C69H24O13Zn4, based only on 
+
+atoms that could be resolved in the crystal structure, which is in accordance to the MOF-2000 framework 
+
+backbone.  The  “SQUEEZE”  structure  of  MOF-2000  has  been  deposited  into  the  Cambridge 
+
+Crystallographic Data Centre under deposition number CCDC 968910. 
+
+S7 
+
+ 
+ 
+ 
+
+Table S1. Crystal data and structure refinement for MOF-2000 
+
+Theoretical formula 
+
+Empirical formula 
+
+Formula weight 
+
+Temperature 
+
+Wavelength 
+
+Crystal system 
+
+Space group 
+
+Unit cell dimensions 
+
+Volume 
+
+Z 
+
+Crystallographically determined density 
+
+Theoretical density 
+
+Absorption coefficient 
+
+F(000) 
+
+Crystal size 
+
+2θ range for data collection 
+
+Index ranges 
+
+Reflections collected 
+
+Independent reflections 
+
+Completeness to theta = 17.209° 
+
+Absorption correction 
+
+Refinement method 
+
+Data / restraints / parameters 
+Goodness-of-fit on F2 
+
+Final R indices [I>2sigma(I)] 
+
+R indices (all data) 
+
+Largest diff. peak and hole 
+
+Zn4O (C50H50O14)2·(C86H82N4O10)·(NO3)4 
+
+C69H24O13Zn4 
+
+1322.36 
+
+293(2) K 
+
+1.00880 Å 
+
+Cubic 
+
+Im-3 
+
+a = b = c = 26.370(3) Å 
+
+α = β = γ = 90.00˚ 
+18337(6) Å3 
+
+2 
+0.240 g cm–3   
+0.580 g cm–3 
+0.385 mm–1 
+
+1324 
+
+0.6 × 0.6 × 0.8 mm 
+
+12 to 59.6° 
+
+−21 ≤ h ≤ 18, −20 ≤ k ≤ 6, −21 ≤ l ≤ 21 
+
+6847 
+
+984[R(int) = 0.053] 
+
+96.4% 
+
+XSCALE 
+
+SHELXTL-97 
+
+984/62/44 
+
+1.05 
+
+R1 = 0.1225 
+
+R1 = 0.1322, wR2 = 0.3337 
+0.16/−0.24 e. Å -3 
+
+Based  on  NMR  spectrocopic  measurements  (Section  S1.4)  we  can  determine  a  theoretical  formula  for 
+
+MOF-2000—  Zn4O  (C50H50O14)2·(C86H82N4O10)·(NO3)4—and 
+0.580 g cm–3. Crystallographically, however, the empirical formula obtained is C69H24O13Zn4, and thus the 
+crystallographically determined density is 0.240 g cm–3, a value which takes into account the SQUEEZE 
+
+therefore,  a 
+
+theoretical  density  of         
+
+procedure (See Section S1.3.1) which removes disordered electron density from the void space.   
+
+S8 
+
+ 
+
+S1.3.2  Powder XRD Characterization 
+
+Comparison  of  the  experimental  PXRD  pattern  of  as-synthesized  MOF-2000  (Method  Summary)  with 
+
+various input ratios and the simulated MOF-2000 diffraction pattern based on the doubly interpenetrated 
+single  crystal  structure  (red),  and  the  non-interpenetrated  structure  of  MOF-1001S4  is  shown  in  Fig.  S2 
+
+and S3. The very high degree of correspondence between the as-synthesized patterns obtained from initial 
+
+condition Lr:Lb = 1:4 to 4:1(Fig. S3a) with the simulated MOF-2000 diffraction pattern indicates that the 
+
+bulk materials all have the same double interpenetration as MOF-2000. No extra phase is present amongst 
+
+the as-synthesized MOF-2000 crystals as evidenced by the fact that there are no extra diffraction  peaks 
+
+which  would  correspond  to  the  non-interpenetrated  form.  The  experimental  PXRD  patterns  of  crystals 
+
+obtained  at  6:1  and  8:1  ratios  (Fig.  S3b)  start  to  show  several  extra  peaks  at  3~4˚  and  ~10˚,  which  are 
+
+characteristic to the simulated non-interpenetrated MOF-1001 pattern. 
+
+In  MOF  chemistry,  bulky  organic  linkers  often  result  in  non-interpenetrated  or  less  interpenetrated 
+
+frameworks. In this case, while Lr is less bulky than the Lb [2]catenane, the crown ether ring attached is 
+
+still  relatively  large  and  bulky  enough  to  avoid  interpenetration  during  MOF  formation.  We  have 
+demonstrated  a  non-interpenetrated  MOF-1002S4  made  purely  by  Lr  strut.  Therefore,  the  appearance  of 
+the non-interpenetrated phase when Lr ratio increases is not completely unexpected.   
+
+Fig.  S2.  PXRD  comparison.  X-ray  diffraction  pattern  (blue)  of  as-synthesized  MOF-2000  crystalline 
+
+powder compared with the simulated diffraction patterns of two-fold interpenetrated MOF-2000 (red) and 
+
+non-interpenetrated MOF-1001 (gray). 
+
+S9 
+
+ 
+ 
+
+a 
+
+b 
+
+Fig.  S3.  PXRD  comparison.  PXRD  patterns  of  as-prepared  MOF  from  various  initial  input  ratios     
+
+compared to the simulated patterns of a) MOF-2000 and b) the analogous non-interpenetrated framework.   
+
+S10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+S1.4  
+
+Nuclear Magnetic Resonance (NMR) Characterization 
+
+S1.4.1  Activation Procedures 
+
+As-synthesized MOF samples were first immersed in anhydrous DMF for 3 days. During this exchange 
+
+the  anhydrous  DMF  was  refreshed  three  times  a  day  in  order  to  remove  fully  unreacted  organic 
+
+compounds  and  metal  salt  occluded  in  the  MOF  pores.  Then  the  samples  were  immersed  in  anhydrous 
+
+MeCN for another three days, during which time the solvent was decanted and freshly replenished three 
+
+times a day to fully replace DMF. The solvent-exchanged samples were evacuated with supercritical CO2 
+
+in a Tousimis Samdri PVT-3D critical point dryer. For this step, the MeCN-containing sample was placed 
+
+in the chamber and MeCN was completely exchanged with liquid CO2. After this exchange, the chamber 
+
+containing the sample and liquid CO2 was heated up around 40 °C and held constant at the supercritical 
+
+condition (typically 1300 psi) for 1 h. The CO2 was slowly vented (ca. 8 h) from the chamber at around 
+
+40 °C, yielding activated MOF samples. 
+
+S1.4.2 
+
+Solid State NMR 
+
+High-resolution  solid-state  NMR  (SSNMR)  spectra  were  recorded  at  ambient  temperature  on  a  Bruker 
+
+DSX-300 spectrometer using a standard Bruker magic angle-spinning (MAS) probe with 4 mm (outside 
+
+diameter)  zirconia  rotors.  Cross-polarisation  with  MAS  (CP/MAS)  was  used  to  acquire  13C  data  at   
+
+75.47 MHz. The 1H and 13C ninety-degree pulse widths were both 4 µs. The CP contact time was varied at 
+
+1.5  ms  and  5  ms.  High  power  two-pulse  phase  modulation  (TPPM)  1H  decoupling  was  applied  during 
+
+data acquisition. The decoupling frequency corresponded to 72 kHz. The MAS sample spinning rate was 
+
+10  kHz.  Recycle  delays  for  (CP/MAS)  between  scans  varied  between  3  and  20  s,  depending  upon  the 
+
+compound as determined by observing no apparent loss in the  13C signal intensity from one scan to the 
+
+next.  The  13C  chemical  shifts  are  given  relative  to  tetramethylsilane  as  zero  ppm,  calibrated  using  the 
+
+methylene carbon signal of adamantane assigned to 37.77 ppm as a secondary reference.   
+
+S11 
+
+ 
+
+Fig.  S4. Solid state  13C NMR spectroscopy. Bulk  peaks  in the range  of  165–171  ppm are  observed in 
+
+organic  struts  H2Lr  and  H2Lb•4PF6  as  a  consequence  of  H-bonding  interactions  between  terminal 
+
+carboxylic groups. In the SSNMR plot of the activated MOF-2000 crystals, the carboxylic carbon peak is 
+
+shifted to 173.8 ppm, and only one peak is observed, indicating that all the organic links are coordinated 
+
+to the Zn4O SBUs and there are no free links trapped in the pores. Both of the finger print peaks from link 
+
+Lr (153.1 ppm) and link Lb (144.2 ppm) are  present in the plot of MOF-2000, indicating both links are 
+
+successfully incorporated into the backbone of the MOF. 
+
+S1.4.3 
+
+1H NMR Characterization 
+
+To further determine the presence and the ratio of the two organic struts in MOF-2000, single crystalline 
+
+samples  were  handpicked  from  as-synthesized  crystals  and  then  activated  (see  S1.4.1)  by  supercritical 
+
+carbon  dioxide  to  remove  unreacted  struts  and  solvent  molecules  that  were  occluded  during  the  MOF 
+syntheses. 13C CP/MAS NMR Spectrum (see S1.4.2) of the activated sample was taken to confirm that no 
+
+unbound  organic  strut  is  present  within  the  MOF  crystals.  Activated  MOF  samples  were  digested  and 
+
+dissolved with sonication in 1.0 mL dilute DCl solution (prepared from 200 µL of 20% DCl/D2O solution 
+
+(Aldrich)  and  10  mL  CD3SOCD3).  The  digestion  solution  was  used  directly  for  NMR  spectroscopy. 
+Proton  signals  of  the  1H-NMR  spectrum  of  acid-digested  activated  MOF-2000  sample  (Fig.  S5)  can  be 
+
+individually  assigned,  and  the  integration  of  corresponding  proton  peaks  revealed  a  sharp  2:1  ratio  of 
+
+Lr:Lb in MOF-2000. Proton a/a' were chosen to determine the ratio is because they are sharp singlets that 
+
+do  not  overlap  with  other  peaks.  There  are  a  number  of  dynamic  processes  in  the  [2]catenane,  such  as 
+
+circumrotation  or pirouetting  of  the  macrocycles  around each  other, that  lead  to  broadened  naphthalene 
+
+and viologen peaks. These considerations, in addition to the inherent ~5% systemic error of typical NMR 
+
+instruments, lead us to  believe that these integrations lie within reasonable range of the expected 2 to 1 
+
+ratio. 
+
+S12 
+
+ 
+ 
+
+In  order  to  further  investigate  the  relationship  between  the  population  of  functionalities  in  the  MOF 
+
+structure  and  the  organic  strut  ratio  in  starting  materials,  we  prepared  several  reaction  mixtures  with 
+
+different molar ratios of H2Lr and H2Lb•4PF6 (from 8:1 to 1:8, see section S1.2) and analyzed all crystal 
+
+samples  obtained  in  the  same  fashion.  The  result  is  summarized  in  Fig.  1c.  Surprisingly,  this  2:1 
+
+stoichiometry was found to be consistent and invariant in the Lr:Lb = 1:4 to 4:1 range. 
+
+Fig.  S5.  1H  NMR  spectroscopic  studies  on  MOF-2000.  Partial  1H-NMR  spectra  of  acid-digested 
+
+activated MOF-2000 sample prepared from starting solution with a 1:1 ratio of H2Lr:H2Lb. The ratio of 
+
+the  two  organic  struts  in  MOF-2000  crystal  is  determined  by  the  integration  of  proton  signals.  The 
+
+accuracy of proton NMR integration is estimated to be ±5%. 
+
+S1.5    Optical Characterization (Isotropicity) 
+
+The unit cell  of  MOF-2000  obtained  from X-ray  crystallography  is  only  defined by  the  rigid  struts  and 
+
+SBUs  which  effectively  contribute  to  the  Braggs  reflections.  Other  than  the  MOF  backbone,  X-ray 
+
+crystallography  did  not  provide  further  information  on  the  relative  positions  of  the  crown  ether  and 
+
+[2]catenane subunits as a result of various sources of disorder including: 1) the inherent flexibility of the 
+
+macrocyclic  polyether  chains,  2)  the  chemical  bond  rotation  along  the  axis  of  the  rigid  organic  struts, 
+
+making the crown ether and [2]catenane functionalities point to different directions in the frameworks, 3) 
+
+the disorder caused by the planar chirality associated with the molecular structures of Lr and Lb, and 4) 
+
+S13 
+
+ 
+
+the positional disorder of Lr and Lb by the virtue of the same length and connectivity of their rigid struts. 
+
+A simple unit cell model of MOF-2000 based on trans-Zn4O(Lr)4(Lb)2 cluster (Fig. S6a), which may 
+
+minimize  both  the  steric  hindrance  caused  by  the  sheer  size  of  the  Lr  [2]catenane  strut  and  the 
+electrostatic repulsion  associated  with its  positively  charged cyclobis(paraquat-p-phenylene) (CBPQT4+) 
+
+subunit is shown in Fig. S6b. The structure corresponds to the 2:1 ordered coloring shown in Fig. 2b. A 
+
+crystal model (Fig. S6c) was constructed using the Materials Studio software package, by employing the 
+
+Materials  Visualizer  module.  It  was  then  geometrically  optimized  employing  the  universal  forcefield 
+
+implemented in the Forcite module of Materials Studio. The atomic coordinates for the inorganic SBUs 
+
+were obtained from the single crystal X-ray diffraction data, and maintained unaltered during the energy 
+
+minimization  process. This  2:1  ordered  structure,  where  every  Lb  [2]catenane  strut is  aligned  along the 
+
+same  axis  and surrounded by  four  Lr crown  ether  struts  as nearest  neighbors,  has  a  perfect  2:1  ratio  of 
+
+Lr:Lb.  However,  no  experimental  evidence  of  anisotropicity  was  found  from  optical  measurements     
+
+(Fig. S7 and S8). 
+
+Fig. S6. Materials Studio modeling. Schematic representations of a) the organic struts Lr and Lb, and the 
+
+trans-Zn4O(Lr)4(Lb)2  cluster,  b)  the  proposed  tetragonal  unit  cell.  c)  Ball-and-stick  representation  of  a 
+
+2×2×2 unit cells model constructed by using Materials Studio software (carbon, black; oxygen, red; Zn, 
+purple; CBPQT4+, blue; all hydrogen atoms have been omitted for clarity). 
+
+S14 
+
+ 
+ 
+
+Fig. S7. Polarized optical microscopy. Optical images of as-synthesized MOF-2000 crystals (a) in fresh 
+
+DMF  solution,  (b)  in  fresh  DMF  solution  placed  in  between  crossed  polarizers,  (c)  solvent-exchanged 
+
+with acetonitrile, and (d) solvent-exchanged with acetonitrile, placed in between crossed polarizers. The 
+
+lack of birefringence in (b) suggests that the MOF-2000 crystals are isotropic. Some spots showing weak 
+
+birefringence can be attributed to defects in the crystals or solvent loss. The birefringence observed in (d) 
+
+is owing to the stress caused by solvent exchange rather than an intrinsic property of crystal symmetry. 
+
+Fig.  S8.  Polarized  optical  microscopy  of  Br-MOF-2000.  Optical  images  of  as-synthesized  Br-MOF-
+
+2000 crystals (a) in fresh DMF solution, (b) in fresh DMF solution placed in between crossed polarizers. 
+
+The lack of birefringence in (b) suggests that the Br-MOF-2000 crystals are isotropic as well. 
+
+S15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+S1.6  
+
+Thermogravimetric Analysis 
+
+Thermal  gravimetric  analysis  (TGA)  was  performed  on  both  the  as-synthesized  MOF-2000  and  the 
+
+activated  MOF-2000  samples  after  solvent  removal.  The  experiments  were  run  on  a  TA  Instruments       
+
+Q-500  series  thermal  gravimetric analyzer  with samples  held in platinum  pans in  a  continuous  nitrogen 
+
+flow atmosphere. Samples were heated at a constant rate of 5 °C min–1 during all TGA experiments. 
+
+In  TGA  plot  of  the  activated  MOF-2000,  no  weight  loss  was  observed  before  200  °C  proves 
+
+complete  removal  of  the  guest  molecules  in  the  pore.  The  first  weight  loss  at  200  °C  is  due  to  the 
+
+decomposition  of  the  crown  ether  and  [2]catenane  functional  groups  attached  to  the  backbone  of  the 
+
+framework. The second weight loss 350 °C is attributed to the framework destruction. In the TGA plot of 
+
+as-synthesized MOF-2000, a significant weight loss is observed at relatively low temperate, which can be 
+
+attribute to the evaporation of solvent molecules inside the pore structure. The other two weight losses are 
+
+observed at the same temperature of the activated sample. 
+
+Fig.  S9.  Thermogravimetric  analysis  of  MOF-2000.  Despite  its  two-fold  interpenetration,  the       
+
+MOF-2000 crystal is still highly porous. 
+
+S16 
+
+ 
+ 
+
+Section S2 Additional Simulation Details and Figures 
+
+S2.1  
+
+Relationship between our Lattice Model of MOF-2000 and the Ising Model 
+
+As stated in the main text,  our lattice model of MOF-2000,  with all nodes  colored either blue or red, is 
+
+equivalent to  the  Ising  model  (on  a  four-connected  graph  called  the  nbo  net). To  see  this,  note  that  the 
+
+model interaction energy is such that interactions occur only between nearest-neighbor nodes i and j, and 
+
+are of strength εC(i)−C(j), where C(i) is either b (blue) or r (red). The Ising model Hamiltonian is   
+
+J=E
+
+−
+
+edges
+σ
+
+∑
+
+ji,
+
+σ
+( )
+iC
+
+( )
+jC
+
+−
+
+h
+
+nodes
+( )∑
+σ
+
+iC
+
+i
+
+,       
+
+(1) 
+
+where the first sum runs over all distinct nearest-neighbor interactions, and the second sum runs over all 
+
+nodes. Site i's state or ‘spin’ is labeled σi, and is either +1 or −1. Let blue nodes be spin up (+1) and red 
+
+nodes  be  spin  down  (−1).  Then  εb-b  is  the  interaction  energy  between  two  up  spins,  εb-r  =  εr-b  is  the 
+
+interaction  energy  between  unlike  spins,  and  εr-r  is  the  interaction  energy  between  two  down  spins. 
+
+Evaluating (1) for this set of interactions gives the relations 
+
+ε
+
+− ε
+−
+
+rr
+
+−
+bb
+
+E=
+
+−−
+
+−
+
+E
+
+++
+
+−
++J=
+
+2h
+
+[
+−−−
+J
+
+]2h
+
+4h=
+
+and                               
+
+ε
+
+−
+rb
+
+−
+
+−
+rr
+
+ε
+
+−
+E
+E= +
+−
+[
+−−−
+hh+J=
+
+−−
+
+].2h+J
+
+From (2) and (3) we have     
+− −
+
+) 4/bb
+
+(
+ε=h
+
+rr
+
+ε
+
+−
+
+(2) 
+
+  (3) 
+
+            (4) 
+
+and   
+
+(
+ε=J
+
+−
+
+ε
+
+−
+rr
+
+−
+rb
+
+)
+
+2/
+
+(
+ε+
+
+−
+
+ε
+
+−
+bb
+
+−
+rr
+
+)
+
+.4/
+
+                                                (5) 
+
+Setting εr-r = 0 we have finally   
+
+−−
+4/bbε=h
+
+and 
+
+ε
+− −
+rb=J
+2
+
+ε
+−
+bb
+4
+
+.
+
+          (6) 
+
+                                (7) 
+
+The simulated 2:1 inherent structures reported in the main text are found in a regime of interaction 
+
+energies corresponding to an Ising antiferromagnet (J > 0) in a nonzero field h. Such conditions favor 
+
+thermodynamically a 1:1 composition (at sufficiently low temperature). 
+
+S17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                    
+ 
+ 
+   
+ 
+       
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                  
+ 
+     
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+S2.2  
+
+Additional Simulation Results and Figures 
+
+In  this  section  we  present  results,  obtained  from  our  lattice  model  of  MOF-2000,  that  are  intended  to 
+
+supplement the results of the main text. Each figure presented below is called out from the main text, and 
+
+what follows is a summary of each figure and the conclusion we draw from it. 
+
+We  first  verified  that  our  lattice  model  of  MOF-2000  possesses  no  thermodynamically  stable  phase 
+
+corresponding  to  a  2:1  red:blue  ratio.  Figure  S10  shows  typical  trajectories  taken  from  Monte  Carlo 
+
+simulations of the fully-occupied (entirely red or blue) lattice. In these simulations, red-blue interchanges 
+
+are proposed randomly, and are accepted with the conventional Metropolis rate. These time traces show 
+
+that  the  fraction of blue  nodes  equilibrates rapidly  at the conditions simulated, and  results in a red:blue 
+
+ratio that depends on interaction parameters.   
+
+Fig.  S10.  Example  Monte  Carlo  trajectories.  (a)  For  each  of  the  two  (εb-b,  εb-r)  pairs  labeled,  three 
+
+independent simulations (indicated by the red, green and black trajectories) were performed (here µb = 0, 
+
+indicating that red and blue nodes in ‘implicit’ solution are taken to be equally abundant). Only the first 
+103  steps/node  (or  ‘strut’)  of  the  total  trajectory  (106  steps/node)  are  shown.  (b)  The  fraction  fb  of  the 
+equilibrated system is dependent upon the chosen (εb-b, εb-r) pair. 
+
+S18 
+
+   
+ 
+ 
+
+Fig.  S11.  Equilibrium  simulations  display  no  2:1  red:blue  composition  regime.  (a-c)  Given  a 
+chemical potential µb, for each point in (εb-b, εb-r) space, ten Monte Carlo simulations (of 106 Monte Carlo 
+steps  per  strut)  were  performed.  We  show  the  equilibrium  fraction  of  blue  nodes,  f  b,  in  a  space  of 
+
+interaction  energies  (εb-b,  εb-r).  (d)  Although  a  2:1  composition  is  found  for  certain  interaction  energies 
+
+(denoted as lines in a, b and c), no well-defined 2:1 regime exists, and the 2:1 composition is not robust to 
+
+changes of the red-blue solution composition µb. 
+
+Figure S11 shows that the red:blue composition obtained from many simulations of the nature described 
+
+in Fig. S10 shows no extended 2:1 regime, i.e. there is no thermodynamically stable 2:1 “phase” in this 
+
+model. 
+
+There  are,  however,  nonequilibrium  configurations  possessing  a  2:1  red:blue  ratio.  Figure  S12  (a) 
+
+contrasts Monte Carlo simulations done at finite temperature, which equilibrate at a red:blue fraction that 
+
+depends sensitively on model parameters, with ‘inherent structure’ simulations. The latter are done in the 
+
+same  way,  albeit  at  zero  temperature,  and  so  only  node  color  swaps  that  do  not  increase  the  system’s 
+
+energy are accepted. As shown in panel (b), many such simulations ‘jam’ in configurations whose average 
+
+red:blue ratio is 2:1.   
+
+S19 
+
+ 
+ 
+ 
+
+Fig.  S12.  Equilibrium  versus  ‘inherent  structure’  simulation  trajectories.  (a)  The  final  fraction  of 
+
+blue nodes obtained from nonzero temperature (equilibrated) simulations are distinct from those obtained 
+
+from  zero  temperature  (inherent  structure)  simulations.  (b)  The  latter  consistently  result  in  structures 
+
+whose averaged composition corresponds to a 2:1 red:blue node ratio. Results from several system sizes 
+
+N are shown. 
+
+Fig.  S13.  The  out-of-equilibrium  2:1  inherent  structure  is  accessible  from  a  range  of  initial 
+
+conditions. Each  point  on each  landscape shown  above  represents the average of  10  independent zero-
+
+temperature  color-swap  Monte  Carlo  simulations.  Each  lattice  site  was  initially  colored  blue  with 
+
+likelihood fb (different in each of a, b, and c), and red otherwise. For reference purposes (d) shows results 
+
+starting from a 2:1 ordered configuration. The presence of the 2:1 regime (yellow) in the regime εb-b > 0, 
+
+εb-r < 0, and |εb-r| < |εb-b|/2 in each of (a–c) indicates the existence of a ‘basin’ of configurations, accessible 
+
+from a range of initial conditions, that describe, on average, a 2:1 ratio of red:blue nodes. 
+
+S20 
+
+ 
+ 
+
+The zero-temperature or ‘inherent structure’ analog of Fig. S11 is shown in Fig. S13. This figure shows 
+
+that 2:1 red:blue inherent structures form in a large regime of parameter space, for a wide range of initial 
+
+conditions.  Taking  cuts  through  this  landscape,  shown  in  Figure  S14,  reveals  that  transitions  between 
+
+inherent structures with different red:blue ratios are abrupt.   
+
+Fig. S14. Transitions between distinct inherent structure composition regimes are sharp. In panel (b) 
+
+we show two “cuts” through the landscape shown in panel (a). These cuts reveal that transitions between 
+
+distinct types of inherent structure occur abruptly with changes of energetic parameters. 
+
+We  next  resolved  the  spatial  characteristics  of  these  inherent  structures.  Figure  S15  describes  the  local 
+
+environments (number  of red  and  blue nodes  possessed  by  each  node) in three different configurations, 
+
+each  with  average  2:1  red:blue  ratio.  This  comparison  makes  that  point  that  although  there  exists  an 
+
+ordered  2:1  coloring  of  the  MOF-2000  lattice  model,  that  coloring  is  strongly  anisotropic.  The 
+
+corresponding anisotropy of the experimental system appears to be ruled out by optical investigation (see 
+
+main  text).  The  ‘compositional  polycrystal’  rendering,  shown  in  panel  (d),  allows  one  to  recognize 
+
+configurations as a patchwork of 1:1 binary domains. The procedure used to produce these renderings is 
+
+described graphically in Figure S16. 
+
+We  note  that  the  description  ‘compositional  polycrystal’  is  not  intended  to  indicate  a  rigorous  mapping 
+
+between  a  conventional  polycrystal  –  a  patchwork  of  crystalline  order  separated  by  grain  boundaries  – 
+
+and  the  structures  shown.  Instead,  it  is  intended  to  suggest  the  idea  of  a  patchwork  or  ‘polycrystal’  of 
+
+composition, with ‘crystallinity’ here taken to mean ‘color order’ rather than positional order. Regardless 
+
+of  terminology,  note  that  the  structures  of  interest  consist  of  sections  of  1:1  red:blue  binary  order 
+
+separated  by  red  grain  boundaries.  For  interest’s  sake,  we  also  show,  in  Figure  S17,  two  distinct  2:1 
+
+structures  rendered  in  terms  of  the  MOF-2000  physical  framework  (i.e.  not  the  virtual  sidechain 
+
+interaction framework).     
+
+S21 
+
+ 
+ 
+ 
+
+Fig.  S15.  Comparing  imagined  ordered,  simulated  inherent,  and  random  2:1  structures.  The 
+
+imagined ordered 2:1 structure (a) – identical to the theoretical structure described in Fig. 2b – and the 2:1 
+
+structure obtained from inherent structure simulations (b) display some similar properties, i.e., blues are 
+
+surrounded only by reds, but deviate in the distribution of the types of environments surrounding the red 
+
+nodes.  This  difference  results  in  the  imagined  ordered  and  simulated  inherent  2:1  structures  being 
+
+anisotropic and isotropic, respectively. Additionally, while a random element does exist in the simulated 
+
+inherent 2:1 structure (b), its arrangement differs markedly from  a completely random 2:1 structure (c), 
+
+obtained by coloring nodes blue with probability 1/3, and red otherwise. Additionally, large 1:1 domains 
+
+are present in the simulated inherent 2:1 structure, but not the random one (d). 
+
+S22 
+
+ 
+ 
+ 
+ 
+ 
+
+Fig.  S16.  Identifying  and  representing  individual  binary  domains.  From  both  local  energy 
+
+minimization  (Fig.  3)  and  growth  studies  (Fig.  5),  the  2:1  regime  in  MOF-2000  is  characterized  by  a 
+
+patchwork  of  1:1  red:blue  binary  domains.  This  patchwork  may  be  more  easily  visualized  in  the 
+
+corresponding 2D square lattice configuration shown above (a). Here we show a series of transformations 
+
+of  the  configurations  shown  in  (a)  that  first  identity  (b)  and  then  color  distinctly  (c,  d)  separate  1:1 
+
+domains.  These  domains  are  separated  by  all-red  grain  boundaries.  Grain  boundaries  are  shown  as  red 
+
+blocks in (b), white blocks in (c), and white spaces in (d).   
+
+Fig.  S17. Renderings of  simulation snapshots in  terms  of the  MOF-2000 physical framework. The 
+
+red  and  blue  nodes  in  the  simulated  graphs  corresponding  to  Lr  and  Lb  struts,  respectively,  and  are 
+
+depicted  as  red  and  blue  pillars.  The  gray  spheres  represent  the  Zn4O  metal  clusters.  Note  that  the 
+
+difference between these structures is much less clear in this representation than in the representation of 
+
+Fig. S15 (d). 
+
+S23 
+
+ 
+ 
+
+The precise numerical values of the red:blue ratios found in inherent structures depend on the topology of 
+
+the framework. Figure S18 shows that inherent structure simulations done using a 2D square lattice do not 
+
+show  a  2:1  regime.  The  2D  square  lattice  shares  the  local  four-fold  connectivity  of  the  MOF-2000 
+
+interaction  network;  we  therefore  conclude  that  nonlocal  connectivity  influences  the  precise  numerical 
+
+value of the red:blue ratios characteristic of inherent structures. 
+
+Fig. S18. Inherent structure simulations done on a 2D square lattice do not show a 2:1 regime. The 
+
+results  shown  here  are  similar  to  the  3D  MOF-2000  model  (Fig.  S14),  exhibiting  marked  transitions 
+
+between regimes within the landscape (b) and robustness to changing solution concentrations (c). Despite 
+
+this similarity, no 2:1 regime exists; the closest blue fraction is fb ~ 0.37. Thus, the exact numerical values 
+
+of red:blue ratios found in each regime of energy depend on the topology of the graph: both the 2D square 
+
+lattice and the 3D nbo net possess identical local connectivities. 
+
+We describe the difference in the two frameworks’ nonlocal structures in Figure S19. This figure shows 
+
+the graph or net associated with the MOF-2000 lattice model interaction network, and with the 2D square 
+
+lattice.  Although  similar  at  the  level  of  local  connectivity,  these  two  lattices  differ  markedly  as  one 
+
+considers  connections  beyond  nearest-neighbor  ones.  Note  that  the  inherent  structure  “magic  number” 
+
+ratios  are  also  sensitive  to  framework  topology  in  higher  dimensions.  Figure  S20  shows  the  red:blue 
+
+ratios  associated  with  inherent  structures  obtained  using  different  networks  in  d  dimensions.  All  are 
+
+different numerically, emphasizing that network topology plays a role in determining this ratio.   
+
+Figure  S21  summarizes  in  a  compact  manner  the  differences  in  inherent  structure  composition  for  the 
+
+MOF-2000 lattice, the 3D simple cubic lattice (relevant to e.g. MOF-5), and the 2D square lattice: “magic 
+
+number” ratios are distinct for the distinct frameworks. 
+
+S24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Fig.  S19.  Global  properties  of  the  nbo  (MOF-2000  interaction)  network  and  a  2D  square  lattice. 
+
+Both networks are locally four-fold coordinated, but are substantially different nonlocally. This distinction 
+
+is most evident when visualising (a,b) and plotting the number of interactions (c) within a distance r from 
+
+a central node. 
+
+Fig.  S20.  Different  theoretical  interaction  networks  yield  distinct  magic  number  ratios.  Within  the 
+
+2:1 interaction regime of MOF-2000 (here we take εb-b = 5, εb-r= -0.05), local energy minimization results 
+
+in  configurations  with  distinct  ratios  of  red:blue  for  a  range  of  cubic  lattices  of  varying  dimension  d 
+
+(black curve; 10 simulations per d). The factors that determine the magic number ratio are likely nonlocal, 
+
+given the lack of correspondence in magic number ratios between the cubic lattice graphs and k-regular 
+
+random  graphs  of  identical  degree  (red  curve;  10  simulations  per  k;  note  that  the  degree  in  the  square 
+
+lattice and k-regular graph are 2d and the k, respectively). Both the square lattices and k-regular random 
+
+graphs  were  constructed  to  have  at  least  10,000  “struts”  in  size,  and  were  produced  using  the  python 
+network analysis module NetworkX.S5 
+
+S25 
+
+ 
+ 
+
+Fig.  S21.  Inherent  structure  magic-number  ratios  exist  for  each  studied  interaction  framework; 
+
+their precise numerical  values are framework  topology dependent. All three  topologies shown—  a) 
+
+MOF-2000, b) the 3D square lattice, and c) the 2D square lattice — show discrete magic number ratios in 
+
+their inherent structure landscapes. These ratios, however, are distinct for the three distinct frameworks, 
+
+which is evident in the lack of overlap in the plateaux visible for the three topologies (d). The plateaux in 
+
+(d) are taken for a circular “slice” of the inherent structure landscape. 
+
+We turn finally to the growth simulations described in the main text. Figure S22 shows in cartoon form 
+
+how  red-red  binding  ‘mistakes’  can  infiltrate  regions  of  1:1  binary  order  in  growth  simulations  of  the 
+
+MOF-2000 lattice model. Such mistakes lead to red grain boundaries between regions of binary order. For 
+
+a range of growth rates, these grain boundaries result in ‘compositional  polycrystal’ configurations very 
+
+like those seen in inherent structure simulations.   
+
+S26 
+
+ 
+ 
+ 
+ 
+
+Fig.  S22.  Cartoon  of  partially-reversible  growth.  Illustration  of  the  formation  of  compositional 
+
+polycrystal  grain  boundaries  from  a  series  of  microscopic  binding  events:  red-red  bond  “mistakes”  are 
+
+frozen in by the establishment of strong red-blue interactions, and are subsequently  propagated as grain 
+
+boundaries  (pink).  The  resulting  red:blue  ratio  depends  on  the  nonlocal  connectivity  of  the  framework, 
+
+and is 2:1 for MOF-2000. 
+
+S2.3  
+
+Atomistic Modeling of the 1:1 Binary Arrangement Indicates its Steric Feasibility   
+
+We built several molecular models of MOF-2000 in order to establish that a 1:1 ratio of red:blue (Lr:Lb) 
+
+struts  is  feasible  on  steric  grounds  (i.e.  results  in  no  atom-atom  clashes).  The  positions  of  the  strut 
+
+backbones  were  obtained  from  single-crystal  diffraction  data,  and  the  sidechain  ligands  were  modeled 
+using a previously reported crystal structure of a molecular analogue of the catenane.S6 In these models, 
+− anions, which is consistent with the synthetic 
+
+the charge of the ligand is balanced with presence of NO3
+
+conditions employed to produce MOF-2000.   
+
+Geometrical  optimizations  were  carried  out  using  the  universal  forcefield  implemented  in  the 
+
+Forcite  module  of  Materials  Studio  v6.0  to  minimize  the  system’s  energy  and  optimize  the  geometry. 
+Iterations  were  run  until  convergence  was  achieved  (convergence  criteria  being  2.0x10-5  kcal  mol-1  for 
+energy,  0.001  kcal  mol-1  Å-1  for  force,  and  1.0x10-5  Å  for  atomic  displacement).  The  resulting 
+
+configurations indicate that the MOF-2000 framework is indeed able to accommodate a 1:1 ligand ratio 
+
+(see Fig. S23). We also verified that structures with larger Lb, content, e.g. a red:blue ratio of 1:2, are also 
+
+sterically feasible.   
+
+S27 
+
+ 
+ 
+ 
+ 
+
+This analysis shows that volume exclusion alone does not immediately  suggest particular ratios of 
+
+sidechains  within  the  framework.  As  we  note  in  the  main  text,  however,  we  cannot  rule  out  a 
+
+thermodynamic  origin  for  the  2:1  ratio  seen  in  experiments;  we  have  instead  identified  a  possible 
+
+nonequilibrium origin for this ratio. 
+
+Fig. S23. Molecular model of a framework with 1:1 ligand ratio. The two interpenetrated frameworks 
+
+of MOF-2000 are shown in orange and green. Light blue are the catenane sidechains arising from each Lb 
+
+strut. Nitrate anions (N, dark blue; O, red) are also included to compensate the charges of Lb. 
+
+References 
+
+S1.  Zhao Y-L, et al. (2009) Rigid-strut-containing crown ethers and [2]catenanes for incorporation into 
+
+metal-organic frameworks. Chem Eur J 13:13356–13380. 
+
+S2.  Fahrenbach AC,  et  al.  (2012) Rapid  thermally  assisted donor–acceptor catenation. Chem Commun 
+
+48:9141–9143. 
+
+S3.  Naoe  S,  et al. (2012) Gold(I)-catalyzed  regioselective  inter-/intramolecular addition  cascade  of di- 
+
+and triynes for direct construction of substituted naphthalenes. J Org Chem 77:4907–4916. 
+
+S4.  Li Q, et al. (2009) Docking in metal-organic frameworks. Science 325: 855–859. 
+S5.  Hagberg  AA,  Schult  DA,  Swart  PJ  (2008)  Exploring  network  structure,  dynamics,  and  function 
+
+using NetworkX. Proceedings of the 7th Python in Science Conference (SciPy2008), eds: Varoquaux 
+
+G, Vaught T, Millman J, pp. 11–15 
+
+S6.  Ashton  PR,  et  al.  (1991)  The  self-assembly  of  a  highly  ordered  [2]catenane.  J  Chem  Soc  Chem 
+
+Commun 9:634–639. 
+
+S28
+
+Q&A DATASET:{'question': 'What is the significance of the 2:1 ratio of Lr and Lb struts in MOF-2000?', 'answer': 'The 2:1 ratio of Lr and Lb struts in MOF-2000 is significant because it is robust and invariant across a wide range of starting solution ratios, suggesting a nonequilibrium origin resulting from kinetic trapping of component types during framework growth.', 'difficulty': 'medium', 'type': 'factual'}
+
+{'question': 'How does the synthesis condition affect the component ratio in MOF-2000?', 'answer': 'The synthesis condition, specifically the ratio of component types in the starting solution, does not affect the 2:1 ratio of Lr and Lb struts in MOF-2000, indicating the robustness of this ratio.', 'difficulty': 'medium', 'type': 'reasoning'}
+
+{'question': 'Is the 2:1 ratio of Lr and Lb struts in MOF-2000 thermodynamically stable?', 'answer': 'No, the 2:1 ratio of Lr and Lb struts in MOF-2000 does not have an obvious thermodynamic origin and is suggested to result from kinetic trapping, indicating it is not thermodynamically stable.', 'difficulty': 'medium', 'type': 'True or False'}
+
+{'question': 'What role do noncovalent interactions play in achieving the 2:1 ratio of components in MOF-2000?', 'answer': 'Noncovalent interactions between component types, modulated by the topology of the framework and the interaction energies, play a crucial role in achieving the 2:1 ratio of components in MOF-2000 by influencing the kinetic trapping during framework growth.', 'difficulty': 'hard', 'type': 'factual'}
+
+{'question': 'Can the robust 2:1 composition ratio in MOF-2000 be attributed to charge complementarity?', 'answer': 'No, the robust 2:1 composition ratio in MOF-2000 cannot be attributed to charge complementarity alone, as the Lb strut bears a charge while the Lr strut is uncharged, suggesting other factors contribute to this ratio.', 'difficulty': 'medium', 'type': 'True or False'}
+
+{'question': 'How does the topology of the framework affect the magic number ratios in MOF-2000?', 'answer': 'The topology of the framework, along with the noncovalent interactions between component types, affects the magic number ratios in MOF-2000 by determining the specific ratios of components that can be kinetically trapped during growth.', 'difficulty': 'hard', 'type': 'reasoning'}
+
+{'question': 'Is the arrangement of the two components in MOF-2000 anisotropic?', 'answer': 'No, optical investigations suggest that the arrangement of the two components in MOF-2000 is isotropic, despite the potential for anisotropic arrangements due to the flexibility and disorder of the side chains.', 'difficulty': 'medium', 'type': 'True or False'}
+
+{'question': 'What experimental techniques were used to confirm the presence and ratio of the two organic struts in MOF-2000?', 'answer': '1H-NMR spectroscopy and solid-state 13C NMR spectroscopy were used to confirm the presence and the 2:1 ratio of the two organic struts, Lr and Lb, in MOF-2000.', 'difficulty': 'medium', 'type': 'factual'}
+
+{'question': 'Does the presence of bromine-labeled Br-MOF-2000 crystals indicate isotropic or anisotropic properties?', 'answer': 'The presence of bromine-labeled Br-MOF-2000 crystals, as shown by the lack of birefringence in optical images, indicates isotropic properties.', 'difficulty': 'medium', 'type': 'reasoning'}
+
+{'question': 'Is the 2:1 ratio of Lr and Lb struts in MOF-2000 sensitive to changes in solution composition?', 'answer': 'False, the 2:1 ratio of Lr and Lb struts in MOF-2000 is not sensitive to changes in solution composition, demonstrating its robustness across a range of starting solution ratios.', 'difficulty': 'easy', 'type': 'True or False'}
+
