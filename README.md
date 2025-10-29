@@ -2,6 +2,8 @@
 <img src="./docs/images/logo.png" width="50%" height="150%">
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17479256.svg)](https://doi.org/10.5281/zenodo.17479256)
+
 ## Overview
 
 This project provides an evaluation framework for automated classification of question–answer pairs and analysis of synthesis conditions extracted from scientific literature. It leverages multiple large language model (LLM) APIs—including Anthropic Claude, OpenAI (GPT-4o and GPT-o1), and Google Generative AI—to assess whether Q&A pairs are correctly generated and whether synthesis conditions meet defined criteria.
